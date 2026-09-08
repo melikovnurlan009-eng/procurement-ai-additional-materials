@@ -1,0 +1,58 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Private evaluator requirements",
+  "type": "object",
+  "required": [
+    "scenario_id",
+    "requirements",
+    "label_status",
+    "corpus_support_status"
+  ],
+  "properties": {
+    "scenario_id": {
+      "type": "string"
+    },
+    "requirements": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "description",
+          "mandatory",
+          "source_policy",
+          "allow_conditional"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "description": {
+            "type": "string",
+            "minLength": 10
+          },
+          "mandatory": {
+            "type": "boolean"
+          },
+          "source_policy": {
+            "enum": [
+              "BINDING_REQUIRED",
+              "OFFICIAL_ALLOWED",
+              "ANY_SUPPORTED"
+            ]
+          },
+          "allow_conditional": {
+            "type": "boolean"
+          }
+        }
+      }
+    },
+    "label_status": {
+      "type": "string"
+    },
+    "corpus_support_status": {
+      "type": "string"
+    }
+  }
+}

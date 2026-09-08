@@ -1,0 +1,115 @@
+{
+  "generated_at": "2026-09-07T04:12:54.731496+00:00",
+  "n_dev": 40,
+  "n_test": 20,
+  "dev_suites": {
+    "statutory": 6,
+    "semantic": 7,
+    "vocabulary": 5,
+    "multi_evidence": 6,
+    "applicability": 5,
+    "guidance": 6,
+    "authority": 2,
+    "compound": 3
+  },
+  "test_suites": {
+    "statutory": 2,
+    "semantic": 3,
+    "vocabulary": 3,
+    "multi_evidence": 4,
+    "applicability": 3,
+    "guidance": 2,
+    "authority": 2,
+    "compound": 1
+  },
+  "topics": {
+    "award_criteria": 4,
+    "kpi": 4,
+    "valuation": 3,
+    "contract_modification": 4,
+    "notices": 2,
+    "frameworks": 4,
+    "procedure_selection": 1,
+    "participation": 3,
+    "exclusion": 6,
+    "conflict": 2,
+    "market_engagement": 4,
+    "dynamic_markets": 2,
+    "lots": 1,
+    "direct_award": 4,
+    "transition": 6,
+    "jurisdiction": 1,
+    "planning": 2,
+    "confidentiality": 3,
+    "payment": 1,
+    "unknown_context": 1,
+    "participation_and_award": 1,
+    "framework_and_change": 1
+  },
+  "errors": [],
+  "exact_duplicate_pairs": [],
+  "highest_lexical_similarity_pairs": [
+    {
+      "dev": "D027",
+      "test": "T013",
+      "token_jaccard": 0.2535
+    },
+    {
+      "dev": "D023",
+      "test": "T011",
+      "token_jaccard": 0.25
+    },
+    {
+      "dev": "D026",
+      "test": "T013",
+      "token_jaccard": 0.2464
+    },
+    {
+      "dev": "D021",
+      "test": "T010",
+      "token_jaccard": 0.2432
+    },
+    {
+      "dev": "D027",
+      "test": "T015",
+      "token_jaccard": 0.2429
+    },
+    {
+      "dev": "D033",
+      "test": "T012",
+      "token_jaccard": 0.2353
+    },
+    {
+      "dev": "D026",
+      "test": "T015",
+      "token_jaccard": 0.2174
+    },
+    {
+      "dev": "D002",
+      "test": "T012",
+      "token_jaccard": 0.2125
+    },
+    {
+      "dev": "D026",
+      "test": "T014",
+      "token_jaccard": 0.2051
+    },
+    {
+      "dev": "D004",
+      "test": "T013",
+      "token_jaccard": 0.2027
+    },
+    {
+      "dev": "D027",
+      "test": "T012",
+      "token_jaccard": 0.2027
+    },
+    {
+      "dev": "D021",
+      "test": "T015",
+      "token_jaccard": 0.2
+    }
+  ],
+  "status": "STRUCTURAL_CHECK_PASS",
+  "limitation": "Lexical duplicate checking is not proof of independent legal scenarios. Test cases are fresh model-authored candidates; expert review, corpus sufficiency and semantic validation are not claimed."
+}

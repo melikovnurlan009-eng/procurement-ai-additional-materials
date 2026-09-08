@@ -1,0 +1,44 @@
+{
+  "author_note": "Requirements specify what evidence is needed, not a predetermined decision or closed list of correct chunks. Corpus gaps must remain visible.",
+  "corpus_support_status": "NOT_ASSESSED",
+  "label_status": "UNJUDGED",
+  "missing_facts": [],
+  "reference_source_ids": [
+    "direct",
+    "exclusion",
+    "pa",
+    "pr"
+  ],
+  "reference_status": "TOPIC_SOURCES_CHECKED_REQUIREMENT_LABELS_UNJUDGED",
+  "reference_targets_are_exhaustive": false,
+  "regime_context": "PA2023",
+  "requirements": [
+    {
+      "allow_conditional": false,
+      "assessment_unit": "atomic_information_requirement",
+      "description": "Conditions for switching from competitive tendering to direct award.",
+      "id": "R1",
+      "mandatory": true,
+      "source_policy": "BINDING_REQUIRED"
+    },
+    {
+      "allow_conditional": false,
+      "assessment_unit": "atomic_information_requirement",
+      "description": "Applicable supplier exclusion or suitability checks on that route.",
+      "id": "R2",
+      "mandatory": true,
+      "source_policy": "BINDING_REQUIRED"
+    },
+    {
+      "allow_conditional": false,
+      "assessment_unit": "atomic_information_requirement",
+      "description": "The pre-award transparency-notice obligation.",
+      "id": "R3",
+      "mandatory": true,
+      "source_policy": "BINDING_REQUIRED"
+    }
+  ],
+  "scenario_group_id": "failed_mandatory_spec",
+  "scenario_id": "D019",
+  "split": "dev"
+}

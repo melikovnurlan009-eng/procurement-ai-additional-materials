@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "procurement-research-workbench"
+version = "1.0.0"
+description = "Scenario-based silver-label evaluation and bounded adaptive legal retrieval"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=7", "jsonschema>=4"]
+plots = ["matplotlib>=3.7"]
+diagnostics = ["numpy>=1.24", "scipy>=1.11"]
+
+[project.scripts]
+prw = "prw.cli:main"
+
+[tool.setuptools]
+packages = ["prw"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

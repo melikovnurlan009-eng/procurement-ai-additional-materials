@@ -1,0 +1,32 @@
+{
+  "pairs": [
+    {
+      "judges": [
+        "J1",
+        "J2"
+      ],
+      "n": 726,
+      "exact_agreement": 0.7865013774104683,
+      "quadratic_weighted_kappa": 0.8761124675120108
+    },
+    {
+      "judges": [
+        "J1",
+        "J3"
+      ],
+      "n": 726,
+      "exact_agreement": 0.7975206611570248,
+      "quadratic_weighted_kappa": 0.8931042525071912
+    },
+    {
+      "judges": [
+        "J2",
+        "J3"
+      ],
+      "n": 726,
+      "exact_agreement": 0.7947658402203857,
+      "quadratic_weighted_kappa": 0.8835758983935114
+    }
+  ],
+  "note": "Concordance among models is reliability evidence, not validation against expert legal truth."
+}

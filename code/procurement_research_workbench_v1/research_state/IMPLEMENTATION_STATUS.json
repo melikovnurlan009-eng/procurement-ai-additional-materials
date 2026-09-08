@@ -1,0 +1,33 @@
+{
+  "release": "1.0.0",
+  "created_at": "2026-09-07T00:56:46.969360+00:00",
+  "python": "3.13.5",
+  "test_result": "61 passed",
+  "network_model_calls": 0,
+  "production_backend_executed": false,
+  "actual_retrieval_improvement_measured": false,
+  "base_scenarios": 60,
+  "dev_scenarios": 40,
+  "test_candidates": 20,
+  "base_requirements": 161,
+  "fixed_followups": 12,
+  "model_authored_scenarios_expert_validated": false,
+  "corpus_audit_performed": false,
+  "test_reports": [
+    "validation/test_results.xml",
+    "validation/pytest_output.txt",
+    "validation/smoke/smoke_fixture_results.json"
+  ],
+  "components": {
+    "scenario_formats": "IMPLEMENTED_AND_OFFLINE_TESTED",
+    "pointwise_metrics": "IMPLEMENTED_AND_OFFLINE_TESTED",
+    "bundle_sufficiency": "IMPLEMENTED_AND_OFFLINE_TESTED",
+    "adaptive_controller": "IMPLEMENTED_AND_OFFLINE_TESTED",
+    "planned_multi_search_control": "IMPLEMENTED_AND_OFFLINE_TESTED",
+    "three_judge_orchestration": "IMPLEMENTED_AND_OFFLINE_TESTED",
+    "source_alias_validation": "IMPLEMENTED_AND_OFFLINE_TESTED",
+    "shadow_fts": "IMPLEMENTED_AND_OFFLINE_TESTED",
+    "test_freeze": "IMPLEMENTED_AND_OFFLINE_TESTED"
+  },
+  "live_integration_status": "REQUIRES_USER_BACKEND_AND_CONFIGURED_MODEL_EXECUTION"
+}

@@ -1,0 +1,88 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Passage judge response",
+  "type": "object",
+  "required": [
+    "relevance_grade",
+    "applicability",
+    "requirements",
+    "short_rationale",
+    "confidence"
+  ],
+  "properties": {
+    "relevance_grade": {
+      "anyOf": [
+        {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 3
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "applicability": {
+      "enum": [
+        "APPLICABLE",
+        "CONDITIONAL",
+        "INAPPLICABLE",
+        "UNKNOWN"
+      ]
+    },
+    "requirements": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "object",
+        "required": [
+          "support",
+          "spans"
+        ],
+        "properties": {
+          "support": {
+            "enum": [
+              "FULL",
+              "PARTIAL",
+              "NONE",
+              "CONTRADICTS",
+              "UNKNOWN"
+            ]
+          },
+          "spans": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": [
+                "start",
+                "end",
+                "quote"
+              ],
+              "properties": {
+                "start": {
+                  "type": "integer",
+                  "minimum": 0
+                },
+                "end": {
+                  "type": "integer",
+                  "minimum": 1
+                },
+                "quote": {
+                  "type": "string",
+                  "minLength": 1
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "short_rationale": {
+      "type": "string"
+    },
+    "confidence": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    }
+  }
+}

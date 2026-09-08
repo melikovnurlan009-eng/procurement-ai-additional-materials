@@ -1,0 +1,279 @@
+{
+  "systems": {
+    "hybrid": {
+      "n_scenarios": 37,
+      "requirement_coverage": {
+        "mean": 0.22972972972972974,
+        "n_defined": 37
+      },
+      "content_coverage": {
+        "mean": 0.7837837837837838,
+        "n_defined": 37
+      },
+      "scenario_complete": {
+        "mean": 0.1891891891891892,
+        "n_defined": 37
+      },
+      "pooled_ndcg": {
+        "mean": 0.4750039641195307,
+        "n_defined": 37
+      },
+      "mrr_first_sufficient": {
+        "mean": 0.14054054054054055,
+        "n_defined": 37
+      },
+      "hit_ge2": {
+        "mean": 0.972972972972973,
+        "n_defined": 37
+      },
+      "precision_ge2_at_k": {
+        "mean": 0.4189189189189189,
+        "n_defined": 37
+      },
+      "binding_requirement_coverage": {
+        "mean": 0.15151515151515152,
+        "n_defined": 33
+      },
+      "official_requirement_coverage": {
+        "mean": 0.7857142857142857,
+        "n_defined": 7
+      },
+      "inapplicable_fraction_returned": {
+        "mean": 0.0,
+        "n_defined": 37
+      },
+      "applicability_unknown_fraction": {
+        "mean": 0.49330759330759333,
+        "n_defined": 37
+      }
+    },
+    "legal_static": {
+      "n_scenarios": 37,
+      "requirement_coverage": {
+        "mean": 0.7162162162162162,
+        "n_defined": 37
+      },
+      "content_coverage": {
+        "mean": 0.8378378378378378,
+        "n_defined": 37
+      },
+      "scenario_complete": {
+        "mean": 0.7027027027027027,
+        "n_defined": 37
+      },
+      "pooled_ndcg": {
+        "mean": 0.48624046019394096,
+        "n_defined": 37
+      },
+      "mrr_first_sufficient": {
+        "mean": 0.6158301158301158,
+        "n_defined": 37
+      },
+      "hit_ge2": {
+        "mean": 0.972972972972973,
+        "n_defined": 37
+      },
+      "precision_ge2_at_k": {
+        "mean": 0.4243243243243243,
+        "n_defined": 37
+      },
+      "binding_requirement_coverage": {
+        "mean": 0.7121212121212122,
+        "n_defined": 33
+      },
+      "official_requirement_coverage": {
+        "mean": 0.8571428571428571,
+        "n_defined": 7
+      },
+      "inapplicable_fraction_returned": {
+        "mean": 0.002702702702702703,
+        "n_defined": 37
+      },
+      "applicability_unknown_fraction": {
+        "mean": 0.5803517803517804,
+        "n_defined": 37
+      }
+    },
+    "planned_multisearch": {
+      "n_scenarios": 37,
+      "requirement_coverage": {
+        "mean": 0.8108108108108109,
+        "n_defined": 37
+      },
+      "content_coverage": {
+        "mean": 0.9099099099099099,
+        "n_defined": 37
+      },
+      "scenario_complete": {
+        "mean": 0.7837837837837838,
+        "n_defined": 37
+      },
+      "pooled_ndcg": {
+        "mean": 0.5098512153612209,
+        "n_defined": 37
+      },
+      "mrr_first_sufficient": {
+        "mean": 0.6624195624195625,
+        "n_defined": 37
+      },
+      "hit_ge2": {
+        "mean": 0.972972972972973,
+        "n_defined": 37
+      },
+      "precision_ge2_at_k": {
+        "mean": 0.41081081081081083,
+        "n_defined": 37
+      },
+      "binding_requirement_coverage": {
+        "mean": 0.7878787878787878,
+        "n_defined": 33
+      },
+      "official_requirement_coverage": {
+        "mean": 1.0,
+        "n_defined": 7
+      },
+      "inapplicable_fraction_returned": {
+        "mean": 0.0,
+        "n_defined": 37
+      },
+      "applicability_unknown_fraction": {
+        "mean": 0.5323037323037323,
+        "n_defined": 37
+      }
+    },
+    "adaptive": {
+      "n_scenarios": 37,
+      "requirement_coverage": {
+        "mean": 0.7162162162162162,
+        "n_defined": 37
+      },
+      "content_coverage": {
+        "mean": 0.8288288288288288,
+        "n_defined": 37
+      },
+      "scenario_complete": {
+        "mean": 0.7027027027027027,
+        "n_defined": 37
+      },
+      "pooled_ndcg": {
+        "mean": 0.5515633226597413,
+        "n_defined": 37
+      },
+      "mrr_first_sufficient": {
+        "mean": 0.6396396396396397,
+        "n_defined": 37
+      },
+      "hit_ge2": {
+        "mean": 1,
+        "n_defined": 37
+      },
+      "precision_ge2_at_k": {
+        "mean": 0.45945945945945943,
+        "n_defined": 37
+      },
+      "binding_requirement_coverage": {
+        "mean": 0.7424242424242424,
+        "n_defined": 33
+      },
+      "official_requirement_coverage": {
+        "mean": 0.7142857142857143,
+        "n_defined": 7
+      },
+      "inapplicable_fraction_returned": {
+        "mean": 0.002702702702702703,
+        "n_defined": 37
+      },
+      "applicability_unknown_fraction": {
+        "mean": 0.53998283998284,
+        "n_defined": 37
+      }
+    }
+  },
+  "paired": {
+    "adaptive -> hybrid": {
+      "metric": "requirement_coverage",
+      "n_groups": 37,
+      "delta": -0.4864864864864865,
+      "ci95": [
+        -0.6486486486486487,
+        -0.32432432432432434
+      ],
+      "wins": 1,
+      "ties": 15,
+      "losses": 21,
+      "exact_two_sided_sign_p": 1.0967254638671875e-05,
+      "uncertainty": "scenario sampling conditional on these silver labels; not legal-truth or judge-error uncertainty"
+    },
+    "adaptive -> legal_static": {
+      "metric": "requirement_coverage",
+      "n_groups": 37,
+      "delta": 0.0,
+      "ci95": [
+        -0.13513513513513514,
+        0.13513513513513514
+      ],
+      "wins": 3,
+      "ties": 31,
+      "losses": 3,
+      "exact_two_sided_sign_p": 1.0,
+      "uncertainty": "scenario sampling conditional on these silver labels; not legal-truth or judge-error uncertainty"
+    },
+    "adaptive -> planned_multisearch": {
+      "metric": "requirement_coverage",
+      "n_groups": 37,
+      "delta": 0.0945945945945946,
+      "ci95": [
+        0.0,
+        0.20270270270270271
+      ],
+      "wins": 4,
+      "ties": 32,
+      "losses": 1,
+      "exact_two_sided_sign_p": 0.375,
+      "uncertainty": "scenario sampling conditional on these silver labels; not legal-truth or judge-error uncertainty"
+    },
+    "hybrid -> legal_static": {
+      "metric": "requirement_coverage",
+      "n_groups": 37,
+      "delta": 0.4864864864864865,
+      "ci95": [
+        0.32432432432432434,
+        0.6486486486486487
+      ],
+      "wins": 21,
+      "ties": 15,
+      "losses": 1,
+      "exact_two_sided_sign_p": 1.0967254638671875e-05,
+      "uncertainty": "scenario sampling conditional on these silver labels; not legal-truth or judge-error uncertainty"
+    },
+    "hybrid -> planned_multisearch": {
+      "metric": "requirement_coverage",
+      "n_groups": 37,
+      "delta": 0.581081081081081,
+      "ci95": [
+        0.43243243243243246,
+        0.7162162162162162
+      ],
+      "wins": 24,
+      "ties": 13,
+      "losses": 0,
+      "exact_two_sided_sign_p": 1.1920928955078125e-07,
+      "uncertainty": "scenario sampling conditional on these silver labels; not legal-truth or judge-error uncertainty"
+    },
+    "legal_static -> planned_multisearch": {
+      "metric": "requirement_coverage",
+      "n_groups": 37,
+      "delta": 0.0945945945945946,
+      "ci95": [
+        -0.013513513513513514,
+        0.21621621621621623
+      ],
+      "wins": 5,
+      "ties": 31,
+      "losses": 1,
+      "exact_two_sided_sign_p": 0.21875,
+      "uncertainty": "scenario sampling conditional on these silver labels; not legal-truth or judge-error uncertainty"
+    }
+  },
+  "interpretation": "Pointwise conservative coverage and pooled silver ranking metrics. Use judge-bundles for primary complementary-evidence sufficiency; no exhaustive-corpus recall or expert legal accuracy claimed."
+}

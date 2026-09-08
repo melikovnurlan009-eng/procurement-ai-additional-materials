@@ -1,0 +1,22 @@
+{
+  "identities": [
+    {
+      "model": "gpt-4o-mini",
+      "endpoint": "https://api.openai.com/v1/chat/completions",
+      "parameters": {}
+    },
+    {
+      "model": "gpt-4o-mini",
+      "endpoint": "https://api.openai.com/v1/chat/completions",
+      "parameters": {}
+    },
+    {
+      "model": "gpt-4o-mini",
+      "endpoint": "https://api.openai.com/v1/chat/completions",
+      "parameters": {}
+    }
+  ],
+  "distinct_configured_identities": 1,
+  "rubric": "common pointwise rubric, separate isolated requests",
+  "warning": "Agreement is not expert-ground-truth accuracy."
+}

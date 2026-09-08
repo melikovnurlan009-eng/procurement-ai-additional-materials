@@ -1,0 +1,10 @@
+{
+  "controller": {"model_env": "PRW_CONTROLLER_MODEL", "endpoint_env": "PRW_CONTROLLER_ENDPOINT", "api_key_env": "PRW_CONTROLLER_API_KEY", "max_input_chars": 100000, "timeout_seconds": 60, "retries": 1, "parameters": {}},
+  "generator": {"model_env": "PRW_GENERATOR_MODEL", "endpoint_env": "PRW_GENERATOR_ENDPOINT", "api_key_env": "PRW_GENERATOR_API_KEY", "max_input_chars": 100000, "timeout_seconds": 60, "retries": 1, "parameters": {}},
+  "judges": [
+    {"model_env": "PRW_JUDGE_A_MODEL", "endpoint_env": "PRW_JUDGE_A_ENDPOINT", "api_key_env": "PRW_JUDGE_A_API_KEY", "max_input_chars": 100000, "timeout_seconds": 60, "retries": 1, "parameters": {}},
+    {"model_env": "PRW_JUDGE_B_MODEL", "endpoint_env": "PRW_JUDGE_B_ENDPOINT", "api_key_env": "PRW_JUDGE_B_API_KEY", "max_input_chars": 100000, "timeout_seconds": 60, "retries": 1, "parameters": {}},
+    {"model_env": "PRW_JUDGE_C_MODEL", "endpoint_env": "PRW_JUDGE_C_ENDPOINT", "api_key_env": "PRW_JUDGE_C_API_KEY", "max_input_chars": 100000, "timeout_seconds": 60, "retries": 1, "parameters": {}}
+  ],
+  "adjudicator": {"model_env": "PRW_ADJUDICATOR_MODEL", "endpoint_env": "PRW_ADJUDICATOR_ENDPOINT", "api_key_env": "PRW_ADJUDICATOR_API_KEY", "max_input_chars": 100000, "timeout_seconds": 60, "retries": 1, "parameters": {}}
+}

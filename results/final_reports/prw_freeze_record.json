@@ -1,0 +1,32 @@
+{
+  "version": "1.0.0",
+  "created_at": "2026-09-07T06:59:19.919599+00:00",
+  "snapshot_id": "final_freeze_2026-09-07",
+  "test_sha256": "fb644f489d3ebdc891b62c44927b3b0e0c7a822bd3608c31cabaf91081fe60b6",
+  "requirements_sha256": "299a9c856dae6a6e32c94a42d0beeb4cf2d801b3aba00c2ae3df19a67e97cb75",
+  "config_hashes": [
+    "8f2124bad8ba366778a3a38deb28938176e7556b22c016dd71b986c197207450",
+    "bf93886bdf48dad214bebb8d84a11e12b0abdc408ae57fb9757ebd427438c1bc"
+  ],
+  "code_hashes": {
+    "prw/__init__.py": "cbca87f069f92be742883af19c4278499fa16ef0787e4cc19f3b53b07b384707",
+    "prw/__main__.py": "cf7390a2508a0fcad4777a4a629fc5212ab655cb45845975995f835676a834e3",
+    "prw/adapters.py": "bc5e4bd0e2d1c5edc474ed831121f3e38726897bc8bc2c0cef63adc4ce652e90",
+    "prw/answers.py": "3679f92eb67070f23a18631415577aa893a165f7aa7d0dc0f0124fed9c4d2007",
+    "prw/benchmark.py": "c2e22bc74a8f508685b0f0057ed4e945740c34ed1d9ebd9aacd739dc01c1f9ea",
+    "prw/bundles.py": "b6bbeb83a915416ffa1a155b520b98b4d9c894501f2270c0fc164ac18d83288d",
+    "prw/cli.py": "85350ad7df5fbb78efe96c87427b908bdfd9638400575254e36a992110560aa3",
+    "prw/contracts.py": "d6a2bf00b5f0b16266dd936f253ed6066335c476970fbf0ed2ebc673b74aeeaf",
+    "prw/controller.py": "84764432997df69a0a74501cf8ccfd28217f840a3dddec5f752aba4a881ff1bd",
+    "prw/diagnostics.py": "3f29ef166639e4668884fb0bfd612c77d667bb4a30a356ae2ca895b9b666b01c",
+    "prw/graph.py": "3e6e9851227bc359937f1754e37ad32a0e78b8d8c5881d48f6eb9aab2f444070",
+    "prw/io.py": "8cfbe242c2ea12719a50b84f8d39ab987eceba7c5a6f8adf74f600fd0ae9493a",
+    "prw/judging.py": "5af5e50d34644f6c5ea950d9147164804d2a91410d8d3a77ce1a955851178c8a",
+    "prw/keywords.py": "e7a78901b30b4a021445838719a734d80fc98c7c049a345a3457d350d842e2fa",
+    "prw/llm.py": "daba9ae44551c5dd34db3a924b6b27c95c46f44d888b00dccbf212d92b7e9188",
+    "prw/metrics.py": "b113dd617ef4fdf70f915d1e1a2e44236b1ba85799b535dd6d91b82c0e0c04f3",
+    "prw/pooling.py": "4c57390672aaf62ef83ba94014113da8a8e763ba5e81272b1f18530380580bae",
+    "prw/shadow_fts.py": "3ec9a82c97e46d7a3c800e06e8014aa69f79f6a6e3678018ed2f62bc4e3ece2c"
+  },
+  "warning": "Cryptographic freeze prevents unnoticed edits; it does not establish independence or label correctness."
+}

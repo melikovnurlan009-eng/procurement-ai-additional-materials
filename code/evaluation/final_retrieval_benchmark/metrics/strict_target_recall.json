@@ -1,0 +1,303 @@
+{
+  "note": "No LLM judgment used anywhere in this file. Recall is against corpus-verified (MATCHED/FUZZY_MATCHED) essential-evidence chunk_ids only -- acceptable alternatives and strong-supporting-only evidence are not counted as targets, so this is a strict lower bound on true system credit, not an upper bound.",
+  "n_scenarios_total": 60,
+  "n_scenarios_no_resolved_target": 0,
+  "summary": {
+    "A_lexical": {
+      "n_scenarios_with_verified_target": 60,
+      "strict_recall_5_mean": 0.0333,
+      "strict_recall_10_mean": 0.05,
+      "strict_scenario_complete_10_rate": 0.0333,
+      "strict_mrr_mean": 0.0524
+    },
+    "B_dense": {
+      "n_scenarios_with_verified_target": 60,
+      "strict_recall_5_mean": 0.1083,
+      "strict_recall_10_mean": 0.1083,
+      "strict_scenario_complete_10_rate": 0.05,
+      "strict_mrr_mean": 0.1653
+    },
+    "C_hybrid": {
+      "n_scenarios_with_verified_target": 60,
+      "strict_recall_5_mean": 0.1083,
+      "strict_recall_10_mean": 0.125,
+      "strict_scenario_complete_10_rate": 0.0667,
+      "strict_mrr_mean": 0.1709
+    },
+    "D_hybrid_priors": {
+      "n_scenarios_with_verified_target": 60,
+      "strict_recall_5_mean": 0.1722,
+      "strict_recall_10_mean": 0.2139,
+      "strict_scenario_complete_10_rate": 0.1167,
+      "strict_mrr_mean": 0.2409
+    },
+    "E_hybrid_graph": {
+      "n_scenarios_with_verified_target": 60,
+      "strict_recall_5_mean": 0.1222,
+      "strict_recall_10_mean": 0.1389,
+      "strict_scenario_complete_10_rate": 0.0667,
+      "strict_mrr_mean": 0.1955
+    },
+    "F_two_lane": {
+      "n_scenarios_with_verified_target": 60,
+      "strict_recall_5_mean": 0.2083,
+      "strict_recall_10_mean": 0.2639,
+      "strict_scenario_complete_10_rate": 0.1333,
+      "strict_mrr_mean": 0.1898
+    }
+  },
+  "by_suite": {
+    "A_lexical": {
+      "exact_anchor": {
+        "n": 8,
+        "strict_recall_10_mean": 0.0625,
+        "strict_scenario_complete_10_rate": 0.0
+      },
+      "semantic": {
+        "n": 10,
+        "strict_recall_10_mean": 0.0,
+        "strict_scenario_complete_10_rate": 0.0
+      },
+      "vocabulary_mismatch": {
+        "n": 8,
+        "strict_recall_10_mean": 0.0,
+        "strict_scenario_complete_10_rate": 0.0
+      },
+      "graph_multi_hop": {
+        "n": 10,
+        "strict_recall_10_mean": 0.0,
+        "strict_scenario_complete_10_rate": 0.0
+      },
+      "applicability": {
+        "n": 8,
+        "strict_recall_10_mean": 0.1875,
+        "strict_scenario_complete_10_rate": 0.125
+      },
+      "practical_guidance": {
+        "n": 8,
+        "strict_recall_10_mean": 0.125,
+        "strict_scenario_complete_10_rate": 0.125
+      },
+      "authority": {
+        "n": 4,
+        "strict_recall_10_mean": 0.0,
+        "strict_scenario_complete_10_rate": 0.0
+      },
+      "compound": {
+        "n": 4,
+        "strict_recall_10_mean": 0.0,
+        "strict_scenario_complete_10_rate": 0.0
+      }
+    },
+    "B_dense": {
+      "exact_anchor": {
+        "n": 8,
+        "strict_recall_10_mean": 0.125,
+        "strict_scenario_complete_10_rate": 0.0
+      },
+      "semantic": {
+        "n": 10,
+        "strict_recall_10_mean": 0.1,
+        "strict_scenario_complete_10_rate": 0.1
+      },
+      "vocabulary_mismatch": {
+        "n": 8,
+        "strict_recall_10_mean": 0.0,
+        "strict_scenario_complete_10_rate": 0.0
+      },
+      "graph_multi_hop": {
+        "n": 10,
+        "strict_recall_10_mean": 0.15,
+        "strict_scenario_complete_10_rate": 0.0
+      },
+      "applicability": {
+        "n": 8,
+        "strict_recall_10_mean": 0.1875,
+        "strict_scenario_complete_10_rate": 0.125
+      },
+      "practical_guidance": {
+        "n": 8,
+        "strict_recall_10_mean": 0.0625,
+        "strict_scenario_complete_10_rate": 0.0
+      },
+      "authority": {
+        "n": 4,
+        "strict_recall_10_mean": 0.25,
+        "strict_scenario_complete_10_rate": 0.25
+      },
+      "compound": {
+        "n": 4,
+        "strict_recall_10_mean": 0.0,
+        "strict_scenario_complete_10_rate": 0.0
+      }
+    },
+    "C_hybrid": {
+      "exact_anchor": {
+        "n": 8,
+        "strict_recall_10_mean": 0.125,
+        "strict_scenario_complete_10_rate": 0.0
+      },
+      "semantic": {
+        "n": 10,
+        "strict_recall_10_mean": 0.1,
+        "strict_scenario_complete_10_rate": 0.1
+      },
+      "vocabulary_mismatch": {
+        "n": 8,
+        "strict_recall_10_mean": 0.0,
+        "strict_scenario_complete_10_rate": 0.0
+      },
+      "graph_multi_hop": {
+        "n": 10,
+        "strict_recall_10_mean": 0.15,
+        "strict_scenario_complete_10_rate": 0.0
+      },
+      "applicability": {
+        "n": 8,
+        "strict_recall_10_mean": 0.1875,
+        "strict_scenario_complete_10_rate": 0.125
+      },
+      "practical_guidance": {
+        "n": 8,
+        "strict_recall_10_mean": 0.1875,
+        "strict_scenario_complete_10_rate": 0.125
+      },
+      "authority": {
+        "n": 4,
+        "strict_recall_10_mean": 0.25,
+        "strict_scenario_complete_10_rate": 0.25
+      },
+      "compound": {
+        "n": 4,
+        "strict_recall_10_mean": 0.0,
+        "strict_scenario_complete_10_rate": 0.0
+      }
+    },
+    "D_hybrid_priors": {
+      "exact_anchor": {
+        "n": 8,
+        "strict_recall_10_mean": 0.125,
+        "strict_scenario_complete_10_rate": 0.0
+      },
+      "semantic": {
+        "n": 10,
+        "strict_recall_10_mean": 0.1,
+        "strict_scenario_complete_10_rate": 0.1
+      },
+      "vocabulary_mismatch": {
+        "n": 8,
+        "strict_recall_10_mean": 0.1875,
+        "strict_scenario_complete_10_rate": 0.125
+      },
+      "graph_multi_hop": {
+        "n": 10,
+        "strict_recall_10_mean": 0.35,
+        "strict_scenario_complete_10_rate": 0.1
+      },
+      "applicability": {
+        "n": 8,
+        "strict_recall_10_mean": 0.3125,
+        "strict_scenario_complete_10_rate": 0.25
+      },
+      "practical_guidance": {
+        "n": 8,
+        "strict_recall_10_mean": 0.25,
+        "strict_scenario_complete_10_rate": 0.125
+      },
+      "authority": {
+        "n": 4,
+        "strict_recall_10_mean": 0.25,
+        "strict_scenario_complete_10_rate": 0.25
+      },
+      "compound": {
+        "n": 4,
+        "strict_recall_10_mean": 0.0833,
+        "strict_scenario_complete_10_rate": 0.0
+      }
+    },
+    "E_hybrid_graph": {
+      "exact_anchor": {
+        "n": 8,
+        "strict_recall_10_mean": 0.0625,
+        "strict_scenario_complete_10_rate": 0.0
+      },
+      "semantic": {
+        "n": 10,
+        "strict_recall_10_mean": 0.05,
+        "strict_scenario_complete_10_rate": 0.0
+      },
+      "vocabulary_mismatch": {
+        "n": 8,
+        "strict_recall_10_mean": 0.0625,
+        "strict_scenario_complete_10_rate": 0.0
+      },
+      "graph_multi_hop": {
+        "n": 10,
+        "strict_recall_10_mean": 0.3,
+        "strict_scenario_complete_10_rate": 0.1
+      },
+      "applicability": {
+        "n": 8,
+        "strict_recall_10_mean": 0.1875,
+        "strict_scenario_complete_10_rate": 0.125
+      },
+      "practical_guidance": {
+        "n": 8,
+        "strict_recall_10_mean": 0.125,
+        "strict_scenario_complete_10_rate": 0.125
+      },
+      "authority": {
+        "n": 4,
+        "strict_recall_10_mean": 0.25,
+        "strict_scenario_complete_10_rate": 0.25
+      },
+      "compound": {
+        "n": 4,
+        "strict_recall_10_mean": 0.0833,
+        "strict_scenario_complete_10_rate": 0.0
+      }
+    },
+    "F_two_lane": {
+      "exact_anchor": {
+        "n": 8,
+        "strict_recall_10_mean": 0.125,
+        "strict_scenario_complete_10_rate": 0.0
+      },
+      "semantic": {
+        "n": 10,
+        "strict_recall_10_mean": 0.2,
+        "strict_scenario_complete_10_rate": 0.1
+      },
+      "vocabulary_mismatch": {
+        "n": 8,
+        "strict_recall_10_mean": 0.375,
+        "strict_scenario_complete_10_rate": 0.25
+      },
+      "graph_multi_hop": {
+        "n": 10,
+        "strict_recall_10_mean": 0.3,
+        "strict_scenario_complete_10_rate": 0.1
+      },
+      "applicability": {
+        "n": 8,
+        "strict_recall_10_mean": 0.3125,
+        "strict_scenario_complete_10_rate": 0.125
+      },
+      "practical_guidance": {
+        "n": 8,
+        "strict_recall_10_mean": 0.25,
+        "strict_scenario_complete_10_rate": 0.125
+      },
+      "authority": {
+        "n": 4,
+        "strict_recall_10_mean": 0.25,
+        "strict_scenario_complete_10_rate": 0.25
+      },
+      "compound": {
+        "n": 4,
+        "strict_recall_10_mean": 0.3333,
+        "strict_scenario_complete_10_rate": 0.25
+      }
+    }
+  }
+}

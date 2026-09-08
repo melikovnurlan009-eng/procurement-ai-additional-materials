@@ -1,0 +1,62 @@
+{
+  "A_lexical": {
+    "n_scenarios": 60,
+    "ndcg10_mean": 0.7213,
+    "hit10_rate": 0.85,
+    "mrr_mean": 0.3201,
+    "req_coverage_5_mean": 0.3917,
+    "req_coverage_10_mean": 0.55,
+    "scenario_complete_10_rate": 0.5167,
+    "regime_error_rate": 0.15
+  },
+  "B_dense": {
+    "n_scenarios": 60,
+    "ndcg10_mean": 0.8428,
+    "hit10_rate": 0.9667,
+    "mrr_mean": 0.5798,
+    "req_coverage_5_mean": 0.65,
+    "req_coverage_10_mean": 0.7083,
+    "scenario_complete_10_rate": 0.6333,
+    "regime_error_rate": 0.5167
+  },
+  "C_hybrid": {
+    "n_scenarios": 60,
+    "ndcg10_mean": 0.8152,
+    "hit10_rate": 0.9667,
+    "mrr_mean": 0.6091,
+    "req_coverage_5_mean": 0.6722,
+    "req_coverage_10_mean": 0.7778,
+    "scenario_complete_10_rate": 0.7,
+    "regime_error_rate": 0.4167
+  },
+  "D_hybrid_priors": {
+    "n_scenarios": 60,
+    "ndcg10_mean": 0.833,
+    "hit10_rate": 0.95,
+    "mrr_mean": 0.6118,
+    "req_coverage_5_mean": 0.7139,
+    "req_coverage_10_mean": 0.7611,
+    "scenario_complete_10_rate": 0.6833,
+    "regime_error_rate": 0.1667
+  },
+  "E_hybrid_graph": {
+    "n_scenarios": 60,
+    "ndcg10_mean": 0.7803,
+    "hit10_rate": 0.9833,
+    "mrr_mean": 0.502,
+    "req_coverage_5_mean": 0.6389,
+    "req_coverage_10_mean": 0.7472,
+    "scenario_complete_10_rate": 0.65,
+    "regime_error_rate": 0.3833
+  },
+  "F_two_lane": {
+    "n_scenarios": 60,
+    "ndcg10_mean": 0.81,
+    "hit10_rate": 0.9333,
+    "mrr_mean": 0.6172,
+    "req_coverage_5_mean": 0.6917,
+    "req_coverage_10_mean": 0.7694,
+    "scenario_complete_10_rate": 0.7,
+    "regime_error_rate": 0.1667
+  }
+}

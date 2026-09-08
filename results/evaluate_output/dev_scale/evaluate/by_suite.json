@@ -1,0 +1,1514 @@
+{
+  "hybrid": {
+    "applicability": {
+      "n_scenarios": 5,
+      "requirement_coverage": {
+        "mean": 0.2,
+        "n_defined": 5
+      },
+      "content_coverage": {
+        "mean": 0.9,
+        "n_defined": 5
+      },
+      "scenario_complete": {
+        "mean": 0.2,
+        "n_defined": 5
+      },
+      "pooled_ndcg": {
+        "mean": 0.5342425706626994,
+        "n_defined": 5
+      },
+      "mrr_first_sufficient": {
+        "mean": 0.1,
+        "n_defined": 5
+      },
+      "hit_ge2": {
+        "mean": 1,
+        "n_defined": 5
+      },
+      "precision_ge2_at_k": {
+        "mean": 0.44,
+        "n_defined": 5
+      },
+      "binding_requirement_coverage": {
+        "mean": 0.2,
+        "n_defined": 5
+      },
+      "official_requirement_coverage": {
+        "mean": null,
+        "n_defined": 0
+      },
+      "inapplicable_fraction_returned": {
+        "mean": 0.0,
+        "n_defined": 5
+      },
+      "applicability_unknown_fraction": {
+        "mean": 0.5452380952380953,
+        "n_defined": 5
+      }
+    },
+    "authority": {
+      "n_scenarios": 3,
+      "requirement_coverage": {
+        "mean": 0.0,
+        "n_defined": 3
+      },
+      "content_coverage": {
+        "mean": 1.0,
+        "n_defined": 3
+      },
+      "scenario_complete": {
+        "mean": 0,
+        "n_defined": 3
+      },
+      "pooled_ndcg": {
+        "mean": 0.5688821472066788,
+        "n_defined": 3
+      },
+      "mrr_first_sufficient": {
+        "mean": 0.0,
+        "n_defined": 3
+      },
+      "hit_ge2": {
+        "mean": 1,
+        "n_defined": 3
+      },
+      "precision_ge2_at_k": {
+        "mean": 0.6,
+        "n_defined": 3
+      },
+      "binding_requirement_coverage": {
+        "mean": 0.0,
+        "n_defined": 3
+      },
+      "official_requirement_coverage": {
+        "mean": null,
+        "n_defined": 0
+      },
+      "inapplicable_fraction_returned": {
+        "mean": 0.0,
+        "n_defined": 3
+      },
+      "applicability_unknown_fraction": {
+        "mean": 0.3,
+        "n_defined": 3
+      }
+    },
+    "compound": {
+      "n_scenarios": 3,
+      "requirement_coverage": {
+        "mean": 0.0,
+        "n_defined": 3
+      },
+      "content_coverage": {
+        "mean": 0.0,
+        "n_defined": 3
+      },
+      "scenario_complete": {
+        "mean": 0,
+        "n_defined": 3
+      },
+      "pooled_ndcg": {
+        "mean": 0.3473158774770329,
+        "n_defined": 3
+      },
+      "mrr_first_sufficient": {
+        "mean": 0.0,
+        "n_defined": 3
+      },
+      "hit_ge2": {
+        "mean": 1,
+        "n_defined": 3
+      },
+      "precision_ge2_at_k": {
+        "mean": 0.26666666666666666,
+        "n_defined": 3
+      },
+      "binding_requirement_coverage": {
+        "mean": 0.0,
+        "n_defined": 3
+      },
+      "official_requirement_coverage": {
+        "mean": null,
+        "n_defined": 0
+      },
+      "inapplicable_fraction_returned": {
+        "mean": 0.0,
+        "n_defined": 3
+      },
+      "applicability_unknown_fraction": {
+        "mean": 1.0,
+        "n_defined": 3
+      }
+    },
+    "guidance": {
+      "n_scenarios": 5,
+      "requirement_coverage": {
+        "mean": 0.8,
+        "n_defined": 5
+      },
+      "content_coverage": {
+        "mean": 0.9,
+        "n_defined": 5
+      },
+      "scenario_complete": {
+        "mean": 0.6,
+        "n_defined": 5
+      },
+      "pooled_ndcg": {
+        "mean": 0.49171297649826684,
+        "n_defined": 5
+      },
+      "mrr_first_sufficient": {
+        "mean": 0.65,
+        "n_defined": 5
+      },
+      "hit_ge2": {
+        "mean": 1,
+        "n_defined": 5
+      },
+      "precision_ge2_at_k": {
+        "mean": 0.45999999999999996,
+        "n_defined": 5
+      },
+      "binding_requirement_coverage": {
+        "mean": 0.5,
+        "n_defined": 2
+      },
+      "official_requirement_coverage": {
+        "mean": 0.9,
+        "n_defined": 5
+      },
+      "inapplicable_fraction_returned": {
+        "mean": 0.0,
+        "n_defined": 5
+      },
+      "applicability_unknown_fraction": {
+        "mean": 0.4319047619047619,
+        "n_defined": 5
+      }
+    },
+    "multi_evidence": {
+      "n_scenarios": 6,
+      "requirement_coverage": {
+        "mean": 0.3333333333333333,
+        "n_defined": 6
+      },
+      "content_coverage": {
+        "mean": 1.0,
+        "n_defined": 6
+      },
+      "scenario_complete": {
+        "mean": 0.3333333333333333,
+        "n_defined": 6
+      },
+      "pooled_ndcg": {
+        "mean": 0.5564668902156207,
+        "n_defined": 6
+      },
+      "mrr_first_sufficient": {
+        "mean": 0.041666666666666664,
+        "n_defined": 6
+      },
+      "hit_ge2": {
+        "mean": 1,
+        "n_defined": 6
+      },
+      "precision_ge2_at_k": {
+        "mean": 0.43333333333333335,
+        "n_defined": 6
+      },
+      "binding_requirement_coverage": {
+        "mean": 0.3333333333333333,
+        "n_defined": 6
+      },
+      "official_requirement_coverage": {
+        "mean": null,
+        "n_defined": 0
+      },
+      "inapplicable_fraction_returned": {
+        "mean": 0.0,
+        "n_defined": 6
+      },
+      "applicability_unknown_fraction": {
+        "mean": 0.19345238095238096,
+        "n_defined": 6
+      }
+    },
+    "semantic": {
+      "n_scenarios": 6,
+      "requirement_coverage": {
+        "mean": 0.25,
+        "n_defined": 6
+      },
+      "content_coverage": {
+        "mean": 0.6666666666666666,
+        "n_defined": 6
+      },
+      "scenario_complete": {
+        "mean": 0.16666666666666666,
+        "n_defined": 6
+      },
+      "pooled_ndcg": {
+        "mean": 0.3874767275482873,
+        "n_defined": 6
+      },
+      "mrr_first_sufficient": {
+        "mean": 0.2,
+        "n_defined": 6
+      },
+      "hit_ge2": {
+        "mean": 0.8333333333333334,
+        "n_defined": 6
+      },
+      "precision_ge2_at_k": {
+        "mean": 0.3,
+        "n_defined": 6
+      },
+      "binding_requirement_coverage": {
+        "mean": 0.2,
+        "n_defined": 5
+      },
+      "official_requirement_coverage": {
+        "mean": 0.5,
+        "n_defined": 2
+      },
+      "inapplicable_fraction_returned": {
+        "mean": 0.0,
+        "n_defined": 6
+      },
+      "applicability_unknown_fraction": {
+        "mean": 0.6509920634920635,
+        "n_defined": 6
+      }
+    },
+    "statutory": {
+      "n_scenarios": 5,
+      "requirement_coverage": {
+        "mean": 0.0,
+        "n_defined": 5
+      },
+      "content_coverage": {
+        "mean": 0.8,
+        "n_defined": 5
+      },
+      "scenario_complete": {
+        "mean": 0,
+        "n_defined": 5
+      },
+      "pooled_ndcg": {
+        "mean": 0.4897920921907486,
+        "n_defined": 5
+      },
+      "mrr_first_sufficient": {
+        "mean": 0.0,
+        "n_defined": 5
+      },
+      "hit_ge2": {
+        "mean": 1,
+        "n_defined": 5
+      },
+      "precision_ge2_at_k": {
+        "mean": 0.48000000000000004,
+        "n_defined": 5
+      },
+      "binding_requirement_coverage": {
+        "mean": 0.0,
+        "n_defined": 5
+      },
+      "official_requirement_coverage": {
+        "mean": null,
+        "n_defined": 0
+      },
+      "inapplicable_fraction_returned": {
+        "mean": 0.0,
+        "n_defined": 5
+      },
+      "applicability_unknown_fraction": {
+        "mean": 0.505,
+        "n_defined": 5
+      }
+    },
+    "vocabulary": {
+      "n_scenarios": 4,
+      "requirement_coverage": {
+        "mean": 0.0,
+        "n_defined": 4
+      },
+      "content_coverage": {
+        "mean": 0.75,
+        "n_defined": 4
+      },
+      "scenario_complete": {
+        "mean": 0,
+        "n_defined": 4
+      },
+      "pooled_ndcg": {
+        "mean": 0.39603817375736994,
+        "n_defined": 4
+      },
+      "mrr_first_sufficient": {
+        "mean": 0.0,
+        "n_defined": 4
+      },
+      "hit_ge2": {
+        "mean": 1,
+        "n_defined": 4
+      },
+      "precision_ge2_at_k": {
+        "mean": 0.4,
+        "n_defined": 4
+      },
+      "binding_requirement_coverage": {
+        "mean": 0.0,
+        "n_defined": 4
+      },
+      "official_requirement_coverage": {
+        "mean": null,
+        "n_defined": 0
+      },
+      "inapplicable_fraction_returned": {
+        "mean": 0.0,
+        "n_defined": 4
+      },
+      "applicability_unknown_fraction": {
+        "mean": 0.46875,
+        "n_defined": 4
+      }
+    }
+  },
+  "legal_static": {
+    "applicability": {
+      "n_scenarios": 5,
+      "requirement_coverage": {
+        "mean": 0.8,
+        "n_defined": 5
+      },
+      "content_coverage": {
+        "mean": 1.0,
+        "n_defined": 5
+      },
+      "scenario_complete": {
+        "mean": 0.8,
+        "n_defined": 5
+      },
+      "pooled_ndcg": {
+        "mean": 0.5555777007636657,
+        "n_defined": 5
+      },
+      "mrr_first_sufficient": {
+        "mean": 0.8,
+        "n_defined": 5
+      },
+      "hit_ge2": {
+        "mean": 1,
+        "n_defined": 5
+      },
+      "precision_ge2_at_k": {
+        "mean": 0.38,
+        "n_defined": 5
+      },
+      "binding_requirement_coverage": {
+        "mean": 0.8,
+        "n_defined": 5
+      },
+      "official_requirement_coverage": {
+        "mean": null,
+        "n_defined": 0
+      },
+      "inapplicable_fraction_returned": {
+        "mean": 0.0,
+        "n_defined": 5
+      },
+      "applicability_unknown_fraction": {
+        "mean": 0.6144444444444445,
+        "n_defined": 5
+      }
+    },
+    "authority": {
+      "n_scenarios": 3,
+      "requirement_coverage": {
+        "mean": 1.0,
+        "n_defined": 3
+      },
+      "content_coverage": {
+        "mean": 1.0,
+        "n_defined": 3
+      },
+      "scenario_complete": {
+        "mean": 1,
+        "n_defined": 3
+      },
+      "pooled_ndcg": {
+        "mean": 0.6638738210259995,
+        "n_defined": 3
+      },
+      "mrr_first_sufficient": {
+        "mean": 1.0,
+        "n_defined": 3
+      },
+      "hit_ge2": {
+        "mean": 1,
+        "n_defined": 3
+      },
+      "precision_ge2_at_k": {
+        "mean": 0.6333333333333333,
+        "n_defined": 3
+      },
+      "binding_requirement_coverage": {
+        "mean": 1.0,
+        "n_defined": 3
+      },
+      "official_requirement_coverage": {
+        "mean": null,
+        "n_defined": 0
+      },
+      "inapplicable_fraction_returned": {
+        "mean": 0.0,
+        "n_defined": 3
+      },
+      "applicability_unknown_fraction": {
+        "mean": 0.3142857142857143,
+        "n_defined": 3
+      }
+    },
+    "compound": {
+      "n_scenarios": 3,
+      "requirement_coverage": {
+        "mean": 0.3333333333333333,
+        "n_defined": 3
+      },
+      "content_coverage": {
+        "mean": 0.3333333333333333,
+        "n_defined": 3
+      },
+      "scenario_complete": {
+        "mean": 0.3333333333333333,
+        "n_defined": 3
+      },
+      "pooled_ndcg": {
+        "mean": 0.4227450700876255,
+        "n_defined": 3
+      },
+      "mrr_first_sufficient": {
+        "mean": 0.3333333333333333,
+        "n_defined": 3
+      },
+      "hit_ge2": {
+        "mean": 1,
+        "n_defined": 3
+      },
+      "precision_ge2_at_k": {
+        "mean": 0.30000000000000004,
+        "n_defined": 3
+      },
+      "binding_requirement_coverage": {
+        "mean": 0.3333333333333333,
+        "n_defined": 3
+      },
+      "official_requirement_coverage": {
+        "mean": null,
+        "n_defined": 0
+      },
+      "inapplicable_fraction_returned": {
+        "mean": 0.0,
+        "n_defined": 3
+      },
+      "applicability_unknown_fraction": {
+        "mean": 0.9444444444444444,
+        "n_defined": 3
+      }
+    },
+    "guidance": {
+      "n_scenarios": 5,
+      "requirement_coverage": {
+        "mean": 1.0,
+        "n_defined": 5
+      },
+      "content_coverage": {
+        "mean": 1.0,
+        "n_defined": 5
+      },
+      "scenario_complete": {
+        "mean": 1,
+        "n_defined": 5
+      },
+      "pooled_ndcg": {
+        "mean": 0.4022957814221692,
+        "n_defined": 5
+      },
+      "mrr_first_sufficient": {
+        "mean": 0.6571428571428571,
+        "n_defined": 5
+      },
+      "hit_ge2": {
+        "mean": 1,
+        "n_defined": 5
+      },
+      "precision_ge2_at_k": {
+        "mean": 0.4,
+        "n_defined": 5
+      },
+      "binding_requirement_coverage": {
+        "mean": 1.0,
+        "n_defined": 2
+      },
+      "official_requirement_coverage": {
+        "mean": 1.0,
+        "n_defined": 5
+      },
+      "inapplicable_fraction_returned": {
+        "mean": 0.0,
+        "n_defined": 5
+      },
+      "applicability_unknown_fraction": {
+        "mean": 0.59,
+        "n_defined": 5
+      }
+    },
+    "multi_evidence": {
+      "n_scenarios": 6,
+      "requirement_coverage": {
+        "mean": 1.0,
+        "n_defined": 6
+      },
+      "content_coverage": {
+        "mean": 1.0,
+        "n_defined": 6
+      },
+      "scenario_complete": {
+        "mean": 1,
+        "n_defined": 6
+      },
+      "pooled_ndcg": {
+        "mean": 0.5651026990839834,
+        "n_defined": 6
+      },
+      "mrr_first_sufficient": {
+        "mean": 0.9166666666666666,
+        "n_defined": 6
+      },
+      "hit_ge2": {
+        "mean": 1,
+        "n_defined": 6
+      },
+      "precision_ge2_at_k": {
+        "mean": 0.4666666666666667,
+        "n_defined": 6
+      },
+      "binding_requirement_coverage": {
+        "mean": 1.0,
+        "n_defined": 6
+      },
+      "official_requirement_coverage": {
+        "mean": null,
+        "n_defined": 0
+      },
+      "inapplicable_fraction_returned": {
+        "mean": 0.0,
+        "n_defined": 6
+      },
+      "applicability_unknown_fraction": {
+        "mean": 0.4542328042328042,
+        "n_defined": 6
+      }
+    },
+    "semantic": {
+      "n_scenarios": 6,
+      "requirement_coverage": {
+        "mean": 0.5,
+        "n_defined": 6
+      },
+      "content_coverage": {
+        "mean": 0.6666666666666666,
+        "n_defined": 6
+      },
+      "scenario_complete": {
+        "mean": 0.5,
+        "n_defined": 6
+      },
+      "pooled_ndcg": {
+        "mean": 0.43164312312365394,
+        "n_defined": 6
+      },
+      "mrr_first_sufficient": {
+        "mean": 0.4166666666666667,
+        "n_defined": 6
+      },
+      "hit_ge2": {
+        "mean": 0.8333333333333334,
+        "n_defined": 6
+      },
+      "precision_ge2_at_k": {
+        "mean": 0.3833333333333333,
+        "n_defined": 6
+      },
+      "binding_requirement_coverage": {
+        "mean": 0.6,
+        "n_defined": 5
+      },
+      "official_requirement_coverage": {
+        "mean": 0.5,
+        "n_defined": 2
+      },
+      "inapplicable_fraction_returned": {
+        "mean": 0.016666666666666666,
+        "n_defined": 6
+      },
+      "applicability_unknown_fraction": {
+        "mean": 0.5928571428571429,
+        "n_defined": 6
+      }
+    },
+    "statutory": {
+      "n_scenarios": 5,
+      "requirement_coverage": {
+        "mean": 0.3,
+        "n_defined": 5
+      },
+      "content_coverage": {
+        "mean": 0.6,
+        "n_defined": 5
+      },
+      "scenario_complete": {
+        "mean": 0.2,
+        "n_defined": 5
+      },
+      "pooled_ndcg": {
+        "mean": 0.4589480752599777,
+        "n_defined": 5
+      },
+      "mrr_first_sufficient": {
+        "mean": 0.3,
+        "n_defined": 5
+      },
+      "hit_ge2": {
+        "mean": 1,
+        "n_defined": 5
+      },
+      "precision_ge2_at_k": {
+        "mean": 0.48,
+        "n_defined": 5
+      },
+      "binding_requirement_coverage": {
+        "mean": 0.3,
+        "n_defined": 5
+      },
+      "official_requirement_coverage": {
+        "mean": null,
+        "n_defined": 0
+      },
+      "inapplicable_fraction_returned": {
+        "mean": 0.0,
+        "n_defined": 5
+      },
+      "applicability_unknown_fraction": {
+        "mean": 0.6095238095238096,
+        "n_defined": 5
+      }
+    },
+    "vocabulary": {
+      "n_scenarios": 4,
+      "requirement_coverage": {
+        "mean": 0.75,
+        "n_defined": 4
+      },
+      "content_coverage": {
+        "mean": 1.0,
+        "n_defined": 4
+      },
+      "scenario_complete": {
+        "mean": 0.75,
+        "n_defined": 4
+      },
+      "pooled_ndcg": {
+        "mean": 0.4166144083400131,
+        "n_defined": 4
+      },
+      "mrr_first_sufficient": {
+        "mean": 0.5,
+        "n_defined": 4
+      },
+      "hit_ge2": {
+        "mean": 1,
+        "n_defined": 4
+      },
+      "precision_ge2_at_k": {
+        "mean": 0.375,
+        "n_defined": 4
+      },
+      "binding_requirement_coverage": {
+        "mean": 0.75,
+        "n_defined": 4
+      },
+      "official_requirement_coverage": {
+        "mean": null,
+        "n_defined": 0
+      },
+      "inapplicable_fraction_returned": {
+        "mean": 0.0,
+        "n_defined": 4
+      },
+      "applicability_unknown_fraction": {
+        "mean": 0.5861111111111111,
+        "n_defined": 4
+      }
+    }
+  },
+  "planned_multisearch": {
+    "applicability": {
+      "n_scenarios": 5,
+      "requirement_coverage": {
+        "mean": 1.0,
+        "n_defined": 5
+      },
+      "content_coverage": {
+        "mean": 1.0,
+        "n_defined": 5
+      },
+      "scenario_complete": {
+        "mean": 1,
+        "n_defined": 5
+      },
+      "pooled_ndcg": {
+        "mean": 0.44742124830183555,
+        "n_defined": 5
+      },
+      "mrr_first_sufficient": {
+        "mean": 0.6166666666666667,
+        "n_defined": 5
+      },
+      "hit_ge2": {
+        "mean": 1,
+        "n_defined": 5
+      },
+      "precision_ge2_at_k": {
+        "mean": 0.32,
+        "n_defined": 5
+      },
+      "binding_requirement_coverage": {
+        "mean": 1.0,
+        "n_defined": 5
+      },
+      "official_requirement_coverage": {
+        "mean": null,
+        "n_defined": 0
+      },
+      "inapplicable_fraction_returned": {
+        "mean": 0.0,
+        "n_defined": 5
+      },
+      "applicability_unknown_fraction": {
+        "mean": 0.6055555555555555,
+        "n_defined": 5
+      }
+    },
+    "authority": {
+      "n_scenarios": 3,
+      "requirement_coverage": {
+        "mean": 1.0,
+        "n_defined": 3
+      },
+      "content_coverage": {
+        "mean": 1.0,
+        "n_defined": 3
+      },
+      "scenario_complete": {
+        "mean": 1,
+        "n_defined": 3
+      },
+      "pooled_ndcg": {
+        "mean": 0.5691912551914675,
+        "n_defined": 3
+      },
+      "mrr_first_sufficient": {
+        "mean": 0.75,
+        "n_defined": 3
+      },
+      "hit_ge2": {
+        "mean": 1,
+        "n_defined": 3
+      },
+      "precision_ge2_at_k": {
+        "mean": 0.5333333333333333,
+        "n_defined": 3
+      },
+      "binding_requirement_coverage": {
+        "mean": 1.0,
+        "n_defined": 3
+      },
+      "official_requirement_coverage": {
+        "mean": null,
+        "n_defined": 0
+      },
+      "inapplicable_fraction_returned": {
+        "mean": 0.0,
+        "n_defined": 3
+      },
+      "applicability_unknown_fraction": {
+        "mean": 0.2642857142857143,
+        "n_defined": 3
+      }
+    },
+    "compound": {
+      "n_scenarios": 3,
+      "requirement_coverage": {
+        "mean": 0.3333333333333333,
+        "n_defined": 3
+      },
+      "content_coverage": {
+        "mean": 0.5555555555555556,
+        "n_defined": 3
+      },
+      "scenario_complete": {
+        "mean": 0.3333333333333333,
+        "n_defined": 3
+      },
+      "pooled_ndcg": {
+        "mean": 0.4900193967346539,
+        "n_defined": 3
+      },
+      "mrr_first_sufficient": {
+        "mean": 0.3333333333333333,
+        "n_defined": 3
+      },
+      "hit_ge2": {
+        "mean": 1,
+        "n_defined": 3
+      },
+      "precision_ge2_at_k": {
+        "mean": 0.3333333333333333,
+        "n_defined": 3
+      },
+      "binding_requirement_coverage": {
+        "mean": 0.3333333333333333,
+        "n_defined": 3
+      },
+      "official_requirement_coverage": {
+        "mean": null,
+        "n_defined": 0
+      },
+      "inapplicable_fraction_returned": {
+        "mean": 0.0,
+        "n_defined": 3
+      },
+      "applicability_unknown_fraction": {
+        "mean": 0.875,
+        "n_defined": 3
+      }
+    },
+    "guidance": {
+      "n_scenarios": 5,
+      "requirement_coverage": {
+        "mean": 1.0,
+        "n_defined": 5
+      },
+      "content_coverage": {
+        "mean": 1.0,
+        "n_defined": 5
+      },
+      "scenario_complete": {
+        "mean": 1,
+        "n_defined": 5
+      },
+      "pooled_ndcg": {
+        "mean": 0.5503294597547798,
+        "n_defined": 5
+      },
+      "mrr_first_sufficient": {
+        "mean": 0.84,
+        "n_defined": 5
+      },
+      "hit_ge2": {
+        "mean": 1,
+        "n_defined": 5
+      },
+      "precision_ge2_at_k": {
+        "mean": 0.52,
+        "n_defined": 5
+      },
+      "binding_requirement_coverage": {
+        "mean": 1.0,
+        "n_defined": 2
+      },
+      "official_requirement_coverage": {
+        "mean": 1.0,
+        "n_defined": 5
+      },
+      "inapplicable_fraction_returned": {
+        "mean": 0.0,
+        "n_defined": 5
+      },
+      "applicability_unknown_fraction": {
+        "mean": 0.43746031746031744,
+        "n_defined": 5
+      }
+    },
+    "multi_evidence": {
+      "n_scenarios": 6,
+      "requirement_coverage": {
+        "mean": 1.0,
+        "n_defined": 6
+      },
+      "content_coverage": {
+        "mean": 1.0,
+        "n_defined": 6
+      },
+      "scenario_complete": {
+        "mean": 1,
+        "n_defined": 6
+      },
+      "pooled_ndcg": {
+        "mean": 0.5449088467462013,
+        "n_defined": 6
+      },
+      "mrr_first_sufficient": {
+        "mean": 0.9166666666666666,
+        "n_defined": 6
+      },
+      "hit_ge2": {
+        "mean": 1,
+        "n_defined": 6
+      },
+      "precision_ge2_at_k": {
+        "mean": 0.3833333333333333,
+        "n_defined": 6
+      },
+      "binding_requirement_coverage": {
+        "mean": 1.0,
+        "n_defined": 6
+      },
+      "official_requirement_coverage": {
+        "mean": null,
+        "n_defined": 0
+      },
+      "inapplicable_fraction_returned": {
+        "mean": 0.0,
+        "n_defined": 6
+      },
+      "applicability_unknown_fraction": {
+        "mean": 0.4593253968253968,
+        "n_defined": 6
+      }
+    },
+    "semantic": {
+      "n_scenarios": 6,
+      "requirement_coverage": {
+        "mean": 0.8333333333333334,
+        "n_defined": 6
+      },
+      "content_coverage": {
+        "mean": 0.8333333333333334,
+        "n_defined": 6
+      },
+      "scenario_complete": {
+        "mean": 0.8333333333333334,
+        "n_defined": 6
+      },
+      "pooled_ndcg": {
+        "mean": 0.5568618447092941,
+        "n_defined": 6
+      },
+      "mrr_first_sufficient": {
+        "mean": 0.6071428571428571,
+        "n_defined": 6
+      },
+      "hit_ge2": {
+        "mean": 0.8333333333333334,
+        "n_defined": 6
+      },
+      "precision_ge2_at_k": {
+        "mean": 0.43333333333333335,
+        "n_defined": 6
+      },
+      "binding_requirement_coverage": {
+        "mean": 0.8,
+        "n_defined": 5
+      },
+      "official_requirement_coverage": {
+        "mean": 1.0,
+        "n_defined": 2
+      },
+      "inapplicable_fraction_returned": {
+        "mean": 0.0,
+        "n_defined": 6
+      },
+      "applicability_unknown_fraction": {
+        "mean": 0.47453703703703703,
+        "n_defined": 6
+      }
+    },
+    "statutory": {
+      "n_scenarios": 5,
+      "requirement_coverage": {
+        "mean": 0.6,
+        "n_defined": 5
+      },
+      "content_coverage": {
+        "mean": 0.8,
+        "n_defined": 5
+      },
+      "scenario_complete": {
+        "mean": 0.4,
+        "n_defined": 5
+      },
+      "pooled_ndcg": {
+        "mean": 0.47911273466773036,
+        "n_defined": 5
+      },
+      "mrr_first_sufficient": {
+        "mean": 0.5666666666666667,
+        "n_defined": 5
+      },
+      "hit_ge2": {
+        "mean": 1,
+        "n_defined": 5
+      },
+      "precision_ge2_at_k": {
+        "mean": 0.42,
+        "n_defined": 5
+      },
+      "binding_requirement_coverage": {
+        "mean": 0.6,
+        "n_defined": 5
+      },
+      "official_requirement_coverage": {
+        "mean": null,
+        "n_defined": 0
+      },
+      "inapplicable_fraction_returned": {
+        "mean": 0.0,
+        "n_defined": 5
+      },
+      "applicability_unknown_fraction": {
+        "mean": 0.611111111111111,
+        "n_defined": 5
+      }
+    },
+    "vocabulary": {
+      "n_scenarios": 4,
+      "requirement_coverage": {
+        "mean": 0.5,
+        "n_defined": 4
+      },
+      "content_coverage": {
+        "mean": 1.0,
+        "n_defined": 4
+      },
+      "scenario_complete": {
+        "mean": 0.5,
+        "n_defined": 4
+      },
+      "pooled_ndcg": {
+        "mean": 0.4229804125580266,
+        "n_defined": 4
+      },
+      "mrr_first_sufficient": {
+        "mean": 0.5,
+        "n_defined": 4
+      },
+      "hit_ge2": {
+        "mean": 1,
+        "n_defined": 4
+      },
+      "precision_ge2_at_k": {
+        "mean": 0.35,
+        "n_defined": 4
+      },
+      "binding_requirement_coverage": {
+        "mean": 0.5,
+        "n_defined": 4
+      },
+      "official_requirement_coverage": {
+        "mean": null,
+        "n_defined": 0
+      },
+      "inapplicable_fraction_returned": {
+        "mean": 0.0,
+        "n_defined": 4
+      },
+      "applicability_unknown_fraction": {
+        "mean": 0.6008928571428571,
+        "n_defined": 4
+      }
+    }
+  },
+  "adaptive": {
+    "applicability": {
+      "n_scenarios": 5,
+      "requirement_coverage": {
+        "mean": 1.0,
+        "n_defined": 5
+      },
+      "content_coverage": {
+        "mean": 1.0,
+        "n_defined": 5
+      },
+      "scenario_complete": {
+        "mean": 1,
+        "n_defined": 5
+      },
+      "pooled_ndcg": {
+        "mean": 0.6646207341172826,
+        "n_defined": 5
+      },
+      "mrr_first_sufficient": {
+        "mean": 1.0,
+        "n_defined": 5
+      },
+      "hit_ge2": {
+        "mean": 1,
+        "n_defined": 5
+      },
+      "precision_ge2_at_k": {
+        "mean": 0.44,
+        "n_defined": 5
+      },
+      "binding_requirement_coverage": {
+        "mean": 1.0,
+        "n_defined": 5
+      },
+      "official_requirement_coverage": {
+        "mean": null,
+        "n_defined": 0
+      },
+      "inapplicable_fraction_returned": {
+        "mean": 0.0,
+        "n_defined": 5
+      },
+      "applicability_unknown_fraction": {
+        "mean": 0.4983333333333333,
+        "n_defined": 5
+      }
+    },
+    "authority": {
+      "n_scenarios": 3,
+      "requirement_coverage": {
+        "mean": 1.0,
+        "n_defined": 3
+      },
+      "content_coverage": {
+        "mean": 1.0,
+        "n_defined": 3
+      },
+      "scenario_complete": {
+        "mean": 1,
+        "n_defined": 3
+      },
+      "pooled_ndcg": {
+        "mean": 0.6025294745439879,
+        "n_defined": 3
+      },
+      "mrr_first_sufficient": {
+        "mean": 0.7777777777777778,
+        "n_defined": 3
+      },
+      "hit_ge2": {
+        "mean": 1,
+        "n_defined": 3
+      },
+      "precision_ge2_at_k": {
+        "mean": 0.6333333333333333,
+        "n_defined": 3
+      },
+      "binding_requirement_coverage": {
+        "mean": 1.0,
+        "n_defined": 3
+      },
+      "official_requirement_coverage": {
+        "mean": null,
+        "n_defined": 0
+      },
+      "inapplicable_fraction_returned": {
+        "mean": 0.0,
+        "n_defined": 3
+      },
+      "applicability_unknown_fraction": {
+        "mean": 0.3142857142857143,
+        "n_defined": 3
+      }
+    },
+    "compound": {
+      "n_scenarios": 3,
+      "requirement_coverage": {
+        "mean": 0.3333333333333333,
+        "n_defined": 3
+      },
+      "content_coverage": {
+        "mean": 0.5555555555555556,
+        "n_defined": 3
+      },
+      "scenario_complete": {
+        "mean": 0.3333333333333333,
+        "n_defined": 3
+      },
+      "pooled_ndcg": {
+        "mean": 0.37254723310845816,
+        "n_defined": 3
+      },
+      "mrr_first_sufficient": {
+        "mean": 0.16666666666666666,
+        "n_defined": 3
+      },
+      "hit_ge2": {
+        "mean": 1,
+        "n_defined": 3
+      },
+      "precision_ge2_at_k": {
+        "mean": 0.3333333333333333,
+        "n_defined": 3
+      },
+      "binding_requirement_coverage": {
+        "mean": 0.3333333333333333,
+        "n_defined": 3
+      },
+      "official_requirement_coverage": {
+        "mean": null,
+        "n_defined": 0
+      },
+      "inapplicable_fraction_returned": {
+        "mean": 0.0,
+        "n_defined": 3
+      },
+      "applicability_unknown_fraction": {
+        "mean": 0.8472222222222222,
+        "n_defined": 3
+      }
+    },
+    "guidance": {
+      "n_scenarios": 5,
+      "requirement_coverage": {
+        "mean": 0.8,
+        "n_defined": 5
+      },
+      "content_coverage": {
+        "mean": 0.8,
+        "n_defined": 5
+      },
+      "scenario_complete": {
+        "mean": 0.8,
+        "n_defined": 5
+      },
+      "pooled_ndcg": {
+        "mean": 0.5414132117213019,
+        "n_defined": 5
+      },
+      "mrr_first_sufficient": {
+        "mean": 0.6,
+        "n_defined": 5
+      },
+      "hit_ge2": {
+        "mean": 1,
+        "n_defined": 5
+      },
+      "precision_ge2_at_k": {
+        "mean": 0.52,
+        "n_defined": 5
+      },
+      "binding_requirement_coverage": {
+        "mean": 1.0,
+        "n_defined": 2
+      },
+      "official_requirement_coverage": {
+        "mean": 0.8,
+        "n_defined": 5
+      },
+      "inapplicable_fraction_returned": {
+        "mean": 0.0,
+        "n_defined": 5
+      },
+      "applicability_unknown_fraction": {
+        "mean": 0.473015873015873,
+        "n_defined": 5
+      }
+    },
+    "multi_evidence": {
+      "n_scenarios": 6,
+      "requirement_coverage": {
+        "mean": 1.0,
+        "n_defined": 6
+      },
+      "content_coverage": {
+        "mean": 1.0,
+        "n_defined": 6
+      },
+      "scenario_complete": {
+        "mean": 1,
+        "n_defined": 6
+      },
+      "pooled_ndcg": {
+        "mean": 0.6337545956649263,
+        "n_defined": 6
+      },
+      "mrr_first_sufficient": {
+        "mean": 1.0,
+        "n_defined": 6
+      },
+      "hit_ge2": {
+        "mean": 1,
+        "n_defined": 6
+      },
+      "precision_ge2_at_k": {
+        "mean": 0.5,
+        "n_defined": 6
+      },
+      "binding_requirement_coverage": {
+        "mean": 1.0,
+        "n_defined": 6
+      },
+      "official_requirement_coverage": {
+        "mean": null,
+        "n_defined": 0
+      },
+      "inapplicable_fraction_returned": {
+        "mean": 0.0,
+        "n_defined": 6
+      },
+      "applicability_unknown_fraction": {
+        "mean": 0.41984126984126985,
+        "n_defined": 6
+      }
+    },
+    "semantic": {
+      "n_scenarios": 6,
+      "requirement_coverage": {
+        "mean": 0.6666666666666666,
+        "n_defined": 6
+      },
+      "content_coverage": {
+        "mean": 0.6666666666666666,
+        "n_defined": 6
+      },
+      "scenario_complete": {
+        "mean": 0.6666666666666666,
+        "n_defined": 6
+      },
+      "pooled_ndcg": {
+        "mean": 0.602913008549973,
+        "n_defined": 6
+      },
+      "mrr_first_sufficient": {
+        "mean": 0.5833333333333334,
+        "n_defined": 6
+      },
+      "hit_ge2": {
+        "mean": 1,
+        "n_defined": 6
+      },
+      "precision_ge2_at_k": {
+        "mean": 0.43333333333333335,
+        "n_defined": 6
+      },
+      "binding_requirement_coverage": {
+        "mean": 0.8,
+        "n_defined": 5
+      },
+      "official_requirement_coverage": {
+        "mean": 0.5,
+        "n_defined": 2
+      },
+      "inapplicable_fraction_returned": {
+        "mean": 0.016666666666666666,
+        "n_defined": 6
+      },
+      "applicability_unknown_fraction": {
+        "mean": 0.6158730158730159,
+        "n_defined": 6
+      }
+    },
+    "statutory": {
+      "n_scenarios": 5,
+      "requirement_coverage": {
+        "mean": 0.5,
+        "n_defined": 5
+      },
+      "content_coverage": {
+        "mean": 0.6,
+        "n_defined": 5
+      },
+      "scenario_complete": {
+        "mean": 0.4,
+        "n_defined": 5
+      },
+      "pooled_ndcg": {
+        "mean": 0.47208404377878477,
+        "n_defined": 5
+      },
+      "mrr_first_sufficient": {
+        "mean": 0.4666666666666667,
+        "n_defined": 5
+      },
+      "hit_ge2": {
+        "mean": 1,
+        "n_defined": 5
+      },
+      "precision_ge2_at_k": {
+        "mean": 0.44,
+        "n_defined": 5
+      },
+      "binding_requirement_coverage": {
+        "mean": 0.5,
+        "n_defined": 5
+      },
+      "official_requirement_coverage": {
+        "mean": null,
+        "n_defined": 0
+      },
+      "inapplicable_fraction_returned": {
+        "mean": 0.0,
+        "n_defined": 5
+      },
+      "applicability_unknown_fraction": {
+        "mean": 0.6428571428571429,
+        "n_defined": 5
+      }
+    },
+    "vocabulary": {
+      "n_scenarios": 4,
+      "requirement_coverage": {
+        "mean": 0.25,
+        "n_defined": 4
+      },
+      "content_coverage": {
+        "mean": 1.0,
+        "n_defined": 4
+      },
+      "scenario_complete": {
+        "mean": 0.25,
+        "n_defined": 4
+      },
+      "pooled_ndcg": {
+        "mean": 0.41800431051921194,
+        "n_defined": 4
+      },
+      "mrr_first_sufficient": {
+        "mean": 0.25,
+        "n_defined": 4
+      },
+      "hit_ge2": {
+        "mean": 1,
+        "n_defined": 4
+      },
+      "precision_ge2_at_k": {
+        "mean": 0.375,
+        "n_defined": 4
+      },
+      "binding_requirement_coverage": {
+        "mean": 0.25,
+        "n_defined": 4
+      },
+      "official_requirement_coverage": {
+        "mean": null,
+        "n_defined": 0
+      },
+      "inapplicable_fraction_returned": {
+        "mean": 0.0,
+        "n_defined": 4
+      },
+      "applicability_unknown_fraction": {
+        "mean": 0.5523809523809524,
+        "n_defined": 4
+      }
+    }
+  }
+}

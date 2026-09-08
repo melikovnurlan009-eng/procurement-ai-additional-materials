@@ -1,0 +1,14 @@
+{
+  "frozen_at": "2026-09-07",
+  "label": "adaptive-v2-controller-freeze",
+  "files": {
+    "prw/controller.py": "84764432997df69a0a74501cf8ccfd28217f840a3dddec5f752aba4a881ff1bd",
+    "prw/bundles.py": "b6bbeb83a915416ffa1a155b520b98b4d9c894501f2270c0fc164ac18d83288d",
+    "prw/adapters.py": "bc5e4bd0e2d1c5edc474ed831121f3e38726897bc8bc2c0cef63adc4ce652e90",
+    "prw/metrics.py": "b113dd617ef4fdf70f915d1e1a2e44236b1ba85799b535dd6d91b82c0e0c04f3",
+    "prw/contracts.py": "d6a2bf00b5f0b16266dd936f253ed6066335c476970fbf0ed2ebc673b74aeeaf",
+    "configs/retrieval.json": "8f2124bad8ba366778a3a38deb28938176e7556b22c016dd71b986c197207450",
+    "configs/models.json": "bf93886bdf48dad214bebb8d84a11e12b0abdc408ae57fb9757ebd427438c1bc"
+  },
+  "note": "Controller/config policy frozen after pilot-v2 contract repair. No further prompt or validation-logic tuning past this checkpoint before the DEV-scale run and the later pre-TEST freeze."
+}

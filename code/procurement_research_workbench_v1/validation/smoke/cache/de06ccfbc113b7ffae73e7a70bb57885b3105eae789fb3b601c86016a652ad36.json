@@ -1,0 +1,32 @@
+{
+  "scenario_id": "FIXTURE_01",
+  "chunk_id": "fixture-a",
+  "content_sha256": "bf5f56ebfea2f176886ef0bd7a4d9f8d5eb14209f1fe62d64cb0d6e573f30771",
+  "judge_id": "J2",
+  "model": {
+    "model": "OFFLINE_TEST_DOUBLE"
+  },
+  "request_hash": "de06ccfbc113b7ffae73e7a70bb57885b3105eae789fb3b601c86016a652ad36",
+  "created_at": "2026-09-07T04:13:00.084421+00:00",
+  "annotation_status": "LLM_FIRST_PASS",
+  "relevance_grade": 3,
+  "applicability": "APPLICABLE",
+  "requirements": {
+    "R1": {
+      "support": "FULL",
+      "spans": [
+        {
+          "start": 0,
+          "end": 26,
+          "quote": "Amber control is required."
+        }
+      ]
+    },
+    "R2": {
+      "support": "NONE",
+      "spans": []
+    }
+  },
+  "short_rationale": "Offline fixture",
+  "confidence": 1.0
+}

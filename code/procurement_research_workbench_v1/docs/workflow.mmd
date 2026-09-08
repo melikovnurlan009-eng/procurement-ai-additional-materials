@@ -1,0 +1,19 @@
+flowchart TD
+    A[Public source-guided scenario] --> B[Static retrieval or bounded controller]
+    B --> C[Same final K and text budget]
+    D[Private evaluator requirements] --> E[Three blinded bundle judges]
+    C --> E
+    E --> F{Material disagreement?}
+    F -->|yes| G[Independent adjudication]
+    F -->|no| H[Silver bundle sufficiency]
+    G --> H
+    C --> I[Same answer generator]
+    I --> J[Three blinded answer judges]
+    K[Verified independent source excerpts] --> J
+    C --> L[Union of all systems' passages]
+    L --> M[Three blinded passage judges]
+    M --> N[Pooled nDCG and pointwise diagnostics]
+    H --> O[Paired scenario-level results and cost]
+    J --> O
+    N --> O
+    D -. never supplied .-> X[Runtime controller has no answer key]

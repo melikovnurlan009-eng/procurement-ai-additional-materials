@@ -1,0 +1,38 @@
+{
+  "signature": {
+    "scenarios_sha256": "fb644f489d3ebdc891b62c44927b3b0e0c7a822bd3608c31cabaf91081fe60b6",
+    "config_sha256": "8f2124bad8ba366778a3a38deb28938176e7556b22c016dd71b986c197207450",
+    "snapshot": "final_freeze_2026-09-07",
+    "system": "hybrid",
+    "backend_factory": "prw.adapters:production_backend",
+    "code_sha256": {
+      "__init__.py": "cbca87f069f92be742883af19c4278499fa16ef0787e4cc19f3b53b07b384707",
+      "__main__.py": "cf7390a2508a0fcad4777a4a629fc5212ab655cb45845975995f835676a834e3",
+      "adapters.py": "bc5e4bd0e2d1c5edc474ed831121f3e38726897bc8bc2c0cef63adc4ce652e90",
+      "answers.py": "3679f92eb67070f23a18631415577aa893a165f7aa7d0dc0f0124fed9c4d2007",
+      "benchmark.py": "c2e22bc74a8f508685b0f0057ed4e945740c34ed1d9ebd9aacd739dc01c1f9ea",
+      "bundles.py": "b6bbeb83a915416ffa1a155b520b98b4d9c894501f2270c0fc164ac18d83288d",
+      "cli.py": "85350ad7df5fbb78efe96c87427b908bdfd9638400575254e36a992110560aa3",
+      "contracts.py": "d6a2bf00b5f0b16266dd936f253ed6066335c476970fbf0ed2ebc673b74aeeaf",
+      "controller.py": "84764432997df69a0a74501cf8ccfd28217f840a3dddec5f752aba4a881ff1bd",
+      "diagnostics.py": "3f29ef166639e4668884fb0bfd612c77d667bb4a30a356ae2ca895b9b666b01c",
+      "graph.py": "3e6e9851227bc359937f1754e37ad32a0e78b8d8c5881d48f6eb9aab2f444070",
+      "io.py": "8cfbe242c2ea12719a50b84f8d39ab987eceba7c5a6f8adf74f600fd0ae9493a",
+      "judging.py": "5af5e50d34644f6c5ea950d9147164804d2a91410d8d3a77ce1a955851178c8a",
+      "keywords.py": "e7a78901b30b4a021445838719a734d80fc98c7c049a345a3457d350d842e2fa",
+      "llm.py": "daba9ae44551c5dd34db3a924b6b27c95c46f44d888b00dccbf212d92b7e9188",
+      "metrics.py": "b113dd617ef4fdf70f915d1e1a2e44236b1ba85799b535dd6d91b82c0e0c04f3",
+      "pooling.py": "4c57390672aaf62ef83ba94014113da8a8e763ba5e81272b1f18530380580bae",
+      "shadow_fts.py": "3ec9a82c97e46d7a3c800e06e8014aa69f79f6a6e3678018ed2f62bc4e3ece2c"
+    },
+    "model_identity": null
+  },
+  "started": "2026-09-07T07:05:51.645953+00:00",
+  "backend_capabilities": [
+    "global_graph",
+    "search",
+    "two_lanes"
+  ],
+  "model_identity": null,
+  "experiment_status": "EXECUTED_AGAINST_CONFIGURED_BACKEND"
+}

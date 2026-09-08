@@ -1,0 +1,30 @@
+{
+  "scenario_id": "FIXTURE_01",
+  "chunk_id": "fixture-a",
+  "content_sha256": "bf5f56ebfea2f176886ef0bd7a4d9f8d5eb14209f1fe62d64cb0d6e573f30771",
+  "judge_id": "J1",
+  "model": {
+    "model": "OFFLINE_TEST_DOUBLE"
+  },
+  "request_hash": "964adbd410fd353af32c88ffacbf1801dc2b9faf0fe1c013bdc83ce2a5b29fb0",
+  "created_at": "2026-09-07T05:34:21.350061+00:00",
+  "annotation_status": "LLM_FIRST_PASS",
+  "repair_meta": {
+    "first_pass_valid": true,
+    "repair_attempted": false,
+    "repair_valid": false,
+    "validation_failure_type": null
+  },
+  "relevance_grade": 3,
+  "applicability": "APPLICABLE",
+  "requirements": {
+    "R1": {
+      "support": "FULL"
+    },
+    "R2": {
+      "support": "NONE"
+    }
+  },
+  "short_rationale": "Offline fixture",
+  "confidence": 1.0
+}

@@ -1,0 +1,107 @@
+{
+  "status": "OFFLINE_FIXTURE_PASS_NOT_RESEARCH_EVIDENCE",
+  "network_calls": 0,
+  "checks": [
+    "static retrieval",
+    "bounded adaptive missing-issue search",
+    "open candidate union",
+    "three parallel passage judges",
+    "exact quote validation",
+    "bundle sufficiency",
+    "same-generator answer route",
+    "no-reference legal score stays null"
+  ],
+  "fictional_fixture_metrics": {
+    "pointwise": [
+      {
+        "scenario_id": "FIXTURE_01",
+        "scenario_group_id": "FIXTURE_01",
+        "k": 10,
+        "returned": 1,
+        "judged_at_k": 1.0,
+        "requirement_coverage": 0.5,
+        "content_coverage": 0.5,
+        "scenario_complete": 0,
+        "mrr_first_sufficient": 1.0,
+        "hit_ge2": 1,
+        "pooled_ndcg": 0.6131471927654584,
+        "precision_ge2_at_k": 0.1,
+        "binding_requirement_coverage": 1.0,
+        "official_requirement_coverage": 0.0,
+        "inapplicable_fraction_returned": 0.0,
+        "applicability_unknown_fraction": 0.0,
+        "requirements_satisfied": [
+          "R1"
+        ],
+        "requirements_content_only": [],
+        "denominator_requirements": 2,
+        "pooled_judged_candidates": 2,
+        "annotation_basis": [
+          "TEST_FIXTURE"
+        ]
+      },
+      {
+        "scenario_id": "FIXTURE_01",
+        "scenario_group_id": "FIXTURE_01",
+        "k": 10,
+        "returned": 2,
+        "judged_at_k": 1.0,
+        "requirement_coverage": 1.0,
+        "content_coverage": 1.0,
+        "scenario_complete": 1,
+        "mrr_first_sufficient": 1.0,
+        "hit_ge2": 1,
+        "pooled_ndcg": 1.0,
+        "precision_ge2_at_k": 0.2,
+        "binding_requirement_coverage": 1.0,
+        "official_requirement_coverage": 1.0,
+        "inapplicable_fraction_returned": 0.0,
+        "applicability_unknown_fraction": 0.0,
+        "requirements_satisfied": [
+          "R1",
+          "R2"
+        ],
+        "requirements_content_only": [],
+        "denominator_requirements": 2,
+        "pooled_judged_candidates": 2,
+        "annotation_basis": [
+          "TEST_FIXTURE"
+        ]
+      }
+    ],
+    "bundle": [
+      {
+        "scenario_id": "FIXTURE_01",
+        "scenario_group_id": "FIXTURE_01",
+        "system": "legal_static",
+        "requirement_coverage": 0.5,
+        "content_coverage": 0.5,
+        "scenario_complete": 0,
+        "requirements_satisfied": [
+          "R1"
+        ],
+        "requirements_unknown": [],
+        "mean_confidence": 1.0,
+        "coverage_estimator": "THREE_JUDGE_BUNDLE_SUFFICIENCY_SILVER",
+        "annotation_status": "TEST_FIXTURE"
+      },
+      {
+        "scenario_id": "FIXTURE_01",
+        "scenario_group_id": "FIXTURE_01",
+        "system": "adaptive",
+        "requirement_coverage": 1.0,
+        "content_coverage": 1.0,
+        "scenario_complete": 1,
+        "requirements_satisfied": [
+          "R1",
+          "R2"
+        ],
+        "requirements_unknown": [],
+        "mean_confidence": 1.0,
+        "coverage_estimator": "THREE_JUDGE_BUNDLE_SUFFICIENCY_SILVER",
+        "annotation_status": "TEST_FIXTURE"
+      }
+    ]
+  },
+  "legal_research_metrics_produced": false
+}
