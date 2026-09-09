@@ -96,22 +96,63 @@ patch run). Neither the corpus database nor its ingest reports
 they ingested -- there is no version field anywhere in the pipeline linking a document back to
 the specific script that fetched it.
 
-**Superseded by direct evidence (2026-09-09).** The paragraph above was written from
-timestamp proximity alone, before anyone actually ran these scripts. Having now run both `_v2.py`
-and `_v4.py` live against the actual legislation.gov.uk source: `_v4.py`'s output uses field
-names (`node_type`/`eid`) incompatible with `chunk_legislation_from_nodes.py` (which expects
-`element_type`/`eId`), and 46 of its 2,822 PA2023 nodes carry a null `eId` the chunker doesn't
-guard against -- feeding `_v4.py`'s real output into the chunker crashes immediately. `_v2.py`,
-run the same way, produces compatible output with zero null `eId`s, and reproduces the actual
-corpus's chunk count (355 raw / 320 live) and chunk text
-(`UKPGA_2023_54__NODEV1__CH_00051`, byte-for-byte) exactly.
+**Revised again (2026-09-09, same day) -- the correction above was itself too confident.**
+Testing showed `_v2.py`'s output is compatible with `chunk_legislation_from_nodes.py` and
+exactly reproduces PA2023's live chunk count and chunk text; `_v4.py`'s current output
+(`node_type`/`eid` field names, verified in its own source at lines 316/319 and used
+consistently throughout the file, not just at its CLI's final write step) is not compatible
+and crashes the same chunker. That much is solid, direct, tested evidence and stands.
 
-This is direct, tested evidence, not an inference -- it now supersedes the timestamp-based
-guess below. `_v2.py` (or `_v1.py`) is the version to use for this step; there is no evidence
-`_v4.py` was ever the version that fed this particular chunker. `_v4.py` was most likely built
-later for a different purpose (its improved reference-candidate scoring) and simply never
-re-tested against this downstream script. See `TECHNICAL_APPENDIX.md` section 0.2a for the full
-test record.
+**But two other documents in this repository make a specific, independent claim that
+complicates a clean "v4 was never used" conclusion**:
+- `corpus_audit/CORPUS_SOURCE_INVENTORY.csv`'s `parser_extractor` column names
+  `group_a_legislation_scraper_v4.py` directly for both primary and secondary legislation
+  (including PA2023), and `corpus_audit/FINAL_CORPUS_AUDIT.md` quotes `detect_representation()`'s
+  own docstring by name.
+- `code/scrapers/legislation/scrape_missing_legislation.py`'s own docstring states it "reuses
+  `group_a_legislation_scraper_v4`, which already produces the representation the LEGISLATION
+  lane expects" and that instruments acquired through it are "chunked, validated and indexed
+  **exactly as the Procurement Act was**" -- explicitly invoking PA2023 by name, via
+  `V4.InstrumentScraper`, the same class `_v4.py`'s own CLI uses internally.
+
+These two claims and the direct test result are in real tension, and this note will not paper
+over it. The most likely reconciliation, **not verified, offered as the best available
+explanation**: the corpus_audit's `parser_extractor` column most plausibly refers to the
+acquisition/representation-selection stage (fetching four candidate representations, scoring
+them, picking the best -- logic `_v4.py` and its predecessors share), which is a genuinely
+separate step from the later node-schema that specifically feeds
+`chunk_legislation_from_nodes.py`. It is possible `_v4.py`'s internal field names
+(`node_type`/`eid`) were introduced or renamed after PA2023's structural chunks were originally
+produced, and/or that `chunk_legislation_from_nodes.py` itself has not been kept in sync with
+whichever version of the parsing logic is current. **This could not be fully resolved from the
+artifacts available in this repository alone** -- there is no git history and no version field
+recording which exact script state produced which exact output, for either the parsing or the
+chunking stage.
+
+**Further evidence found the same day, strengthening the "v4 was genuinely used" side**:
+`code/extract_guidance_references.py`, `code/resolve_references.py`, and
+`code/validate_search_corpus.py` all hardcode their default input path as
+`data/group_a_legislation_v4/*/nodes_*.jsonl` -- the real, downstream graph-construction stage
+reads from a directory literally named after v4. This is direct code evidence, not a docstring
+claim, and it makes the "v4 was never really used" framing this note started with clearly
+wrong as originally stated.
+
+The most defensible reading, given everything found: the on-disk output directory name
+(`data/group_a_legislation_v4/`) was very likely fixed once, early, as a convention, and
+different script iterations (`_v1` -> `_v2` -> `_v4`) may have written into that same named
+directory over time as the scraper was improved -- so "data lives in a directory called v4"
+does not necessarily mean "the current `_v4.py` script, exactly as it reads today, produced
+every file in it." This reconciles the hardcoded-path evidence with the direct test result
+(today's `_v4.py` does not feed the chunker cleanly; today's `_v2.py` does, and exactly
+reproduces PA2023's live chunks) without needing either fact to be wrong.
+
+**What is solid, and what should actually be relied on**: regardless of which script's history
+produced the original result, feeding `_v2.py`'s current output into
+`chunk_legislation_from_nodes.py` today reproduces PA2023's live chunks exactly (count and
+text) -- this is the practically useful, directly verified fact. The historical question of
+exactly which script version produced the original run, and how the output directory came to
+be named after v4, is disclosed here as genuinely unresolved, not asserted either way. See
+`TECHNICAL_APPENDIX.md` section 0.2a for the full test record.
 
 The paragraph below is preserved for audit-trail purposes, showing what was known before this
 correction:

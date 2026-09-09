@@ -151,11 +151,30 @@ resulting chunk count (355 raw, 320 after quality filtering) and the byte-for-by
 (checked directly against `UKPGA_2023_54__NODEV1__CH_00051`, the PA2023 s.51 chunk used
 throughout this project's own case studies) match the actual corpus in this repository exactly.
 
-`_v4.py` was almost certainly built later for a different purpose (its improved reference
-scoring) and was never re-tested against this specific downstream script -- there is no
-evidence the live corpus was ever built using `_v4.py`'s output for this step. `_v1.py`/`_v2.py`
-remain the verified-compatible choice; `_v4.py` is preserved for its own historical value but
-should not be assumed interchangeable with them for this particular step.
+**Revision, same day: the paragraph originally here overstated the case.** It read "there is
+no evidence the live corpus was ever built using `_v4.py`'s output for this step" -- that is not
+quite right. Two other documents in this repository make a specific, independent claim that
+complicates it: `corpus_audit/CORPUS_SOURCE_INVENTORY.csv` names `group_a_legislation_scraper_v4.py`
+directly as the `parser_extractor` for PA2023, and `scrape_missing_legislation.py`'s own
+docstring states it reuses `_v4.py`'s `InstrumentScraper` so that new instruments are "chunked,
+validated and indexed exactly as the Procurement Act was" -- explicitly invoking PA2023 by name.
+
+That is real, independent evidence that `_v4.py`'s logic was genuinely part of the acquisition
+pipeline -- it is not simply an unused later iteration. It is in real tension with the direct
+test result above (`_v4.py`'s current field-naming does not feed the chunker cleanly; `_v2.py`'s
+does, and exactly reproduces PA2023's live chunks). The most likely reconciliation -- offered as
+the best available explanation, not verified -- is that the corpus audit's citation refers to
+the acquisition/representation-selection stage (fetching and scoring candidate XML
+representations), a genuinely separate step from the node-schema that specifically feeds
+`chunk_legislation_from_nodes.py`; `_v4.py`'s internal field names may have changed after
+PA2023's structural chunks were first produced. **This cannot be fully resolved from the
+artifacts in this repository alone** -- there is no git history and no version field recording
+which exact script state produced which exact output. See `provenance/missing_artifacts.md` for
+the full, equally-hedged version of this note.
+
+What remains solidly true regardless: feeding `_v2.py`'s current, live output into
+`chunk_legislation_from_nodes.py` today reproduces PA2023's live chunks exactly, both in count
+and in text. That practical fact stands independent of the unresolved historical question above.
 
 ### 0.3 Deliberately excluded from this flow (present in the bundle, not part of reproducing the reported results)
 
