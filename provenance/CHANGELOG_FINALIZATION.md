@@ -7,6 +7,29 @@ judgment, a frozen metric) was modified; where a *derived* number was wrong due 
 that is listed under Analytical corrections below with the exact old/new values, the artifact
 used, and the script used to recompute it.
 
+## Code fix applied 2026-09-09 (at the author's explicit request, after an investigation)
+
+**`code/chunk_legislation_from_nodes.py` updated to accept either legislation-scraper field
+naming.** Background: `_v4.py`'s field names (`node_type`/`eid`) differ from `_v2.py`'s
+(`element_type`/`eId`), which the chunker was written against; feeding `_v4.py`'s real output
+into the unmodified chunker crashed. Real evidence on both sides of "was `_v4.py` ever actually
+used" was found and is preserved in `missing_artifacts.md` section 6a and
+`TECHNICAL_APPENDIX.md` section 0.2a, rather than resolved by guessing. The author asked for
+`_v4.py` to be made to work directly rather than just documented as incompatible.
+
+**The fix**: a new `_normalize_node()` function in `chunk_legislation_from_nodes.py` accepts
+either field-name convention and falls back to `node_id` when `eId`/`eid` is null. No other
+logic changed. Re-tested against `_v4.py`'s own real, unmodified, live-scraped PA2023 output
+(the exact file that crashed before the fix): now produces 355 chunks, no errors, and the
+checked chunk (`UKPGA_2023_54__NODEV1__CH_00051`) is byte-for-byte identical to the live
+corpus. Full `prw` test suite re-run afterward: 59 passed, 1 unrelated environment-only skip
+(missing `scipy`), confirming nothing else was affected.
+
+This is the one place in this finalization effort where actual script behavior was changed
+rather than only documented -- flagged explicitly as a deliberate exception, done only because
+the author asked for it directly, after the compatibility gap and the surrounding evidence had
+already been fully disclosed.
+
 ## Packaging fixes
 
 - **Corrected import path** (`code/evaluation/final_retrieval_benchmark/run_retrieval_configs.py`

@@ -86,8 +86,28 @@ def est_tokens(text: str) -> int:
     return int(len(WORD.findall(text)) * 1.3)
 
 
+def _normalize_node(n: dict) -> dict:
+    """Accept either the acquisition pipeline's original field names
+    (`element_type`/`eId`) or the v4 scraper's renamed equivalents
+    (`node_type`/`eid`), so this script works against either scraper's output
+    without the caller needing to know which one produced a given nodes.jsonl.
+    Also guards against a null `eId`/`eid` (present on a small number of v4
+    output nodes, e.g. some subparagraphs/subsections that the parser did not
+    assign one to) by falling back to the always-present `node_id`, which is
+    unique but not necessarily in the same slug shape as a real eId -- fine
+    here since this fallback only ever applies to nodes this script does not
+    select as chunks (schedule-child detection tolerates an unmatched id)."""
+    if "element_type" not in n and "node_type" in n:
+        n["element_type"] = n["node_type"]
+    if not n.get("eId") and n.get("eid"):
+        n["eId"] = n["eid"]
+    if not n.get("eId"):
+        n["eId"] = n.get("node_id", "")
+    return n
+
+
 def build(document_id: str, nodes_path: Path) -> list[dict]:
-    nodes = [json.loads(l) for l in nodes_path.read_text(encoding="utf-8").splitlines() if l.strip()]
+    nodes = [_normalize_node(json.loads(l)) for l in nodes_path.read_text(encoding="utf-8").splitlines() if l.strip()]
 
     # A schedule node is only selected itself when it has no section/regulation children
     # (a plain table, e.g. PR2024 Sch 3) - otherwise its paragraphs are the real units and

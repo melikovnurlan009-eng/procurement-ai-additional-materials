@@ -151,8 +151,17 @@ produced the original result, feeding `_v2.py`'s current output into
 `chunk_legislation_from_nodes.py` today reproduces PA2023's live chunks exactly (count and
 text) -- this is the practically useful, directly verified fact. The historical question of
 exactly which script version produced the original run, and how the output directory came to
-be named after v4, is disclosed here as genuinely unresolved, not asserted either way. See
-`TECHNICAL_APPENDIX.md` section 0.2a for the full test record.
+be named after v4, is disclosed here as genuinely unresolved, not asserted either way.
+
+**Resolved, practically, 2026-09-09 (later the same day): the compatibility gap itself is now
+fixed.** `chunk_legislation_from_nodes.py` was updated to accept either scraper's field names
+and to tolerate a null `eId`/`eid` (see `TECHNICAL_APPENDIX.md` section 0.2a for the exact
+change and its re-test against `_v4.py`'s own real, unmodified output -- 355 chunks, no errors,
+byte-for-byte identical text to the live corpus). The historical question above (which script
+produced the original corpus) remains genuinely unresolved and is left that way rather than
+guessed at, but it is no longer practically important: `_v1.py`, `_v2.py`, and `_v4.py` all now
+feed this step correctly, so this is no longer a "missing artifact" in any sense that affects
+reproducibility going forward.
 
 The paragraph below is preserved for audit-trail purposes, showing what was known before this
 correction:
