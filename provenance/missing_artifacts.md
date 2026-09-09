@@ -96,14 +96,32 @@ patch run). Neither the corpus database nor its ingest reports
 they ingested -- there is no version field anywhere in the pipeline linking a document back to
 the specific script that fetched it.
 
-The only evidence available is that the corpus database's own final build timestamp
+**Superseded by direct evidence (2026-09-09).** The paragraph above was written from
+timestamp proximity alone, before anyone actually ran these scripts. Having now run both `_v2.py`
+and `_v4.py` live against the actual legislation.gov.uk source: `_v4.py`'s output uses field
+names (`node_type`/`eid`) incompatible with `chunk_legislation_from_nodes.py` (which expects
+`element_type`/`eId`), and 46 of its 2,822 PA2023 nodes carry a null `eId` the chunker doesn't
+guard against -- feeding `_v4.py`'s real output into the chunker crashes immediately. `_v2.py`,
+run the same way, produces compatible output with zero null `eId`s, and reproduces the actual
+corpus's chunk count (355 raw / 320 live) and chunk text
+(`UKPGA_2023_54__NODEV1__CH_00051`, byte-for-byte) exactly.
+
+This is direct, tested evidence, not an inference -- it now supersedes the timestamp-based
+guess below. `_v2.py` (or `_v1.py`) is the version to use for this step; there is no evidence
+`_v4.py` was ever the version that fed this particular chunker. `_v4.py` was most likely built
+later for a different purpose (its improved reference-candidate scoring) and simply never
+re-tested against this downstream script. See `TECHNICAL_APPENDIX.md` section 0.2a for the full
+test record.
+
+The paragraph below is preserved for audit-trail purposes, showing what was known before this
+correction:
+
+The only evidence available *was* that the corpus database's own final build timestamp
 (2026-09-06 19:07) is closest to `scrape_missing_legislation.py` (Sep 5) and
 `group_a_legislation_scraper_v4.py` (Aug 29), while v1/v2 (Aug 27) are 8-10 days earlier and
 read as earlier, superseded iterations kept for audit-trail history rather than the version
-actually run last. **This is an inference from file timestamps, not a proven fact** -- do not
-represent v4 as definitively "the" version that produced the live corpus; state it as the
-best-supported candidate, with v1/v2 as historical/superseded and `scrape_missing_legislation.py`
-as a later supplementary run, exactly as this note does.
+actually run last. **This was an inference from file timestamps, not a proven fact** -- and
+per the direct test above, it turned out to point the wrong way.
 
 All four files are included in the bundle regardless, so an examiner can inspect the actual
 progression rather than being handed an unexplained single "final" file that erases that history.

@@ -40,10 +40,12 @@ used, and the script used to recompute it.
   Per-scenario checkpoint caches and per-candidate judge-request caches were deliberately
   excluded as fully redundant with these consolidated files -- see `missing_artifacts.md` section
   4 for exact sizes and restoration notes.
-- **Added missing corpus pipeline modules**: `scrapers/legislation/
-  group_a_legislation_scraper_v4.py` (required for corpus reproduction, category A) was present
-  in the source repo under a nested path not copied by the original bundle; now included at the
-  correct relative path. `evaluate_chunk_quality.py`, `label_chunk_quality_llm.py`,
+- **Added missing corpus pipeline modules**: `scrapers/legislation/`'s four scraper versions
+  (`_v1`, `_v2`, `_v4`, `scrape_missing_legislation.py`, category A) were present in the source
+  repo under a nested path not copied by the original bundle; now included at the correct
+  relative path. **2026-09-09 correction**: `_v4.py` is not the version to run for corpus
+  reproduction -- confirmed by direct testing to be incompatible with the downstream chunker;
+  `_v2.py` is the verified-compatible one. See `TECHNICAL_APPENDIX.md` section 0.2a. `evaluate_chunk_quality.py`, `label_chunk_quality_llm.py`,
   `export_bad_chunks_by_domain.py`, `export_good_chunks.py` (category B, evaluation/QA tooling)
   added at `code/`. `answer_query.py`, `refine_query.py`, `query_expansion.py` were initially
   categorized as an unused demo layer and placed at `code/unused_demo_api/` -- **this was wrong
