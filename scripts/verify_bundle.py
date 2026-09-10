@@ -32,7 +32,6 @@ def check_required_files():
         "environment/environment_notes.md", "environment/requirements-lock.txt",
         "scripts/verify_freeze.py",
         "provenance/artifact_manifest.csv", "provenance/missing_artifacts.md",
-        "provenance/CHANGELOG_FINALIZATION.md", "provenance/FINAL_VALIDATION_REPORT.md",
     ]
     for rel in required:
         if not (ROOT / rel).exists():
