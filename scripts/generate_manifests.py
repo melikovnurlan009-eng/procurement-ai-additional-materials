@@ -112,7 +112,7 @@ def gen_artifact_manifest():
             "description": "", "required_for": cat,
             "generated_or_source": "source" if "/code/" in "/" + rel else "generated",
             "frozen": frozen, "size_bytes": p.stat().st_size,
-            "sha256": sha256_file(p), "provenance": "this session's thesis project work",
+            "sha256": sha256_file(p), "provenance": "produced for this thesis project",
             "notes": "",
         })
 

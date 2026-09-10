@@ -4,9 +4,9 @@ Two distinct claims are kept separate, as they are not the same thing:
 
 ## Currently verified compatible environment (this is what is actually recorded here)
 
-Captured from the `.venv-embed` interpreter this session used to run every script referenced in
-this bundle's validation report (pytest suite, `candidate_ceiling_CORRECTED.py`,
-`build_final_tables.py`, `strict_target_recall.py`, etc.) on 2026-09-07.
+Captured from the `.venv-embed` interpreter used to run every script referenced in this bundle's
+validation report (pytest suite, `candidate_ceiling_CORRECTED.py`, `build_final_tables.py`,
+`strict_target_recall.py`, etc.) on 2026-09-07.
 
 - **Python**: 3.14.5 (`python3 --version`)
 - **OS/platform**: Darwin 24.5.0, arm64 (`uname -a`: `Darwin ... Kernel Version 24.5.0 ...

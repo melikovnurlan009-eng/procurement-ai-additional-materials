@@ -166,7 +166,7 @@ def convert():
             "author_note": (
                 "Requirements state what evidence is needed; verified_evidence_reference on "
                 "each requirement is real, corpus-verified provenance (every citation confirmed "
-                "present in the live corpus this session -- see "
+                "present in the live corpus -- see "
                 "evaluation/final_retrieval_benchmark/gold_resolution_report.json), not an "
                 "invented closed list, and not itself consulted by the runtime bundle judge, "
                 "which assesses retrieved evidence against the requirement description text."

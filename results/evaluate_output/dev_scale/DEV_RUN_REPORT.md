@@ -2,10 +2,10 @@
 
 Snapshot `dev_scale_2026-09-07`. Scenarios: `evaluation/final_retrieval_benchmark/
 workbench_schema/scenarios_dev.jsonl` (40, unchanged from the earlier benchmark-unification
-work). Controller/config frozen beforehand per `research_state/controller_freeze_2026-09-07.json`
-(matches `prw/controller.py`, `prw/bundles.py`, `prw/adapters.py`, `prw/metrics.py`,
-`prw/contracts.py`, `configs/retrieval.json`, `configs/models.json` at that point; unchanged
-since). Author approved a $3.00 ceiling for this stage.
+work). Controller/config frozen beforehand (`prw/controller.py`, `prw/bundles.py`,
+`prw/adapters.py`, `prw/metrics.py`, `prw/contracts.py`, `configs/retrieval.json`,
+`configs/models.json`; unchanged since -- see `scripts/verify_freeze.py`). Cost ceiling for this
+stage: $3.00.
 
 ## 1. Execution summary
 
@@ -62,8 +62,8 @@ were correctly caught by `validate_observation` (chunk_id not in the supplied ev
 never entered controller state -- the safety net held for all 40 scenarios, with zero invalid
 observations accepted. But the underlying model behavior that this pilot's fix reduced (not
 eliminated) is common enough at this scale to be a first-order characteristic of this controller
-under `gpt-4o-mini`, not an edge case. This is reported plainly per instruction not to
-extrapolate small-sample rates and not to let a fix look more complete than it is.
+under `gpt-4o-mini`, not an edge case. This is reported plainly rather than extrapolating small-sample rates or letting a fix look
+more complete than it is.
 
 "Observer changed issue set" is a new failure mode not seen in the pilot: the observer returned a
 different set of issue IDs than the plan defined for at least one operation in one scenario.
@@ -142,5 +142,5 @@ wait for the separate standalone-benchmark 5,895-item judging job to finish, the
 `compute_metrics.py`/`candidate_ceiling.py`/`error_analysis.py`/`make_figures.py` (covers nDCG@10,
 Hit@10, MRR, candidate-generation ceiling, authority/regime diagnostics and per-suite results for
 the 60-scenario benchmark specifically, complementing `strict_target_recall.py` already run);
-then review DEV results as a whole before requesting approval for the TEST-stage freeze and
-execution, including the standing self-authorship caveat for that step.
+then review DEV results as a whole before the TEST-stage freeze and execution (see
+`provenance/missing_artifacts.md` for the TEST-split independence limitation).

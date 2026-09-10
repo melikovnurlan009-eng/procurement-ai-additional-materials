@@ -58,8 +58,8 @@ Corpus-support states begin NOT_ASSESSED. Do not silently drop an unsupported or
 ## Status update (2026-09-07): bundle sufficiency demoted to exploratory
 
 Three-judge combined-bundle sufficiency was this protocol's original primary outcome. A 3-
-scenario pilot (`procurement_research_workbench_v1/results/pilot3_v2/PILOT_REPORT_V2.md` sec 6)
-fixed the two reproducible schema-compliance bugs in the bundle-judge contract, then spot-checked
+scenario pilot fixed the two reproducible schema-compliance bugs in the bundle-judge contract,
+then spot-checked
 3 of the resulting 11 usable bundle judgments as a plausibility check. Two of the three were
 substantively wrong despite being schema-valid and high-confidence: one certified an unrelated
 statutory provision (Procurement Act 2023 s.17, preliminary market engagement) as satisfying a

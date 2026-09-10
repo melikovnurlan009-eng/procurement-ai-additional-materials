@@ -4,9 +4,9 @@ Strict verified-target retrieval: recall against the corpus-verified essential-e
 chunk_ids in gold_evidence.jsonl (resolution.status in MATCHED/FUZZY_MATCHED), with NO LLM
 judgment involved anywhere in this computation. This is a primary, judge-independent metric,
 complementing pooled LLM-judged passage relevance (compute_metrics.py) now that bundle-sufficiency
-judging (a synthesis-across-passages LLM task) has been demoted to exploratory after observed
-substantive false-positive verdicts (see procurement_research_workbench_v1/results/pilot3_v2/
-PILOT_REPORT_V2.md sec 6). Requires only gold_evidence.jsonl and retrieval_runs/config_*.jsonl,
+judging (a synthesis-across-passages LLM task) has been demoted to exploratory after a pilot found
+schema-valid, high-confidence bundle judgments that were substantively wrong (a cited provision
+unrelated to the requirement). Requires only gold_evidence.jsonl and retrieval_runs/config_*.jsonl,
 both already computed; does not depend on the qrels_provisional.jsonl LLM-judging job.
 
 Per (scenario, requirement) with resolved essential evidence: does ANY of that requirement's
