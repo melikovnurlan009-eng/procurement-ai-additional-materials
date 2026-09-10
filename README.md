@@ -1,16 +1,36 @@
 # Additional Materials
 
-Reproducibility companion for an MSc extended research project on retrieval-augmented question
-answering over UK public procurement law: a hybrid lexical/dense/graph retriever, four compared
-retrieval systems (`hybrid`, `legal_static`, `planned_multisearch`, `adaptive`), and a two-track
-evaluation (a standalone 6-configuration static-retrieval benchmark, and a matched DEV/TEST
-comparison of the four production systems).
+Reproducibility companion for the MSc thesis *A Legal-Structure-Aware Retrieval System for a UK
+Public Procurement AI Assistant* (student 14322782, CSDI pathway): a hybrid lexical/dense/graph
+retriever, four compared retrieval systems, and a two-track evaluation (a standalone
+6-configuration static-retrieval benchmark, and a matched DEV/TEST comparison of the four
+production systems). See `TECHNICAL_APPENDIX.md` for the full pipeline diagram and methodology.
+
+## Prerequisites
+
+- **Python 3.10 or later.** Check with `python3 --version`. If your default `python3` is older
+  (e.g. macOS ships 3.9.x by default), install a newer one first -- `brew install python@3.12`
+  (macOS/Homebrew) or `pyenv install 3.12 && pyenv local 3.12` -- then use that interpreter (e.g.
+  `python3.12`) in place of `python3` below. Also upgrade pip first
+  (`python3 -m pip install --upgrade pip`): an old bundled pip cannot editable-install a
+  pure-`pyproject.toml` package at all.
+- **git**, to have cloned this repository.
+- **Docker**, only if you rebuild and run the live retrieval application (last section below).
+- **An OpenAI API key**, only for the live application's `/answer`/`/refine` endpoints, or to
+  rerun any LLM-driven step yourself (chunking, controller, judging).
+
+Run every command below from the repository root (the directory this file is in).
 
 ## What this supports
 
 The UK public procurement AI assistant described in the thesis report: corpus construction over
 legislation/guidance sources, a legal-structural chunking and reference-graph pipeline, and a
-retrieval/evaluation harness comparing static and LLM-controller-driven retrieval strategies.
+retrieval/evaluation harness comparing static and LLM-controller-driven retrieval strategies. The
+four compared retrieval systems: `hybrid` (lexical+dense fusion only), `legal_static` (`hybrid`
+plus legal-authority priors and one-hop graph expansion, still no LLM call), `planned_multisearch`
+(an LLM decomposes the query into sub-queries once, with no inspection of retrieved evidence), and
+`adaptive` (an LLM decomposes the query and iteratively inspects retrieved evidence, bounded to 3
+retrieval operations).
 
 ## Directory layout
 
@@ -39,21 +59,25 @@ python3 scripts/verify_bundle.py     # static validator (paths, secrets, manifes
 
 ## Run tests
 
-Requires **Python 3.10 or later** (the package's `pyproject.toml` enforces this; a fresh
-environment defaulting to an older `python3` will fail to install with
-`requires a different Python: ... not in '>=3.10'`). Also requires a reasonably current `pip`
-(`python3 -m pip install --upgrade pip` first, if using a `python3 -m venv` environment with an
-old bundled pip) -- an old pip cannot editable-install a pure-`pyproject.toml` package at all.
-
 ```bash
 cd code/procurement_research_workbench_v1
-python3 -m pip install --upgrade pip
-python3 -m pip install -e .
-python3 -m pip install pytest jsonschema   # minimum to run the suite; add numpy/scipy/matplotlib for diagnostics/plots
+python3 -m pip install -e ".[dev]"   # pytest + jsonschema; add ",diagnostics" for the scipy-based test too, ",plots" for matplotlib
 python3 -m pytest -q
 ```
 
+Expect all tests to pass. With only the `dev` extra installed, one test is `SKIPPED` (it imports
+`scipy`, which is in the optional `diagnostics` extra) -- that skip is expected, not a problem.
+
 ## Reach the reported tables and figures
+
+This reproduces the standalone 6-configuration static-retrieval benchmark (configs A-F: lexical,
+dense, hybrid, hybrid+priors, hybrid+graph, two-lane final fusion) reported in the thesis's Table
+1 and its associated figures. It is a separate pipeline from the four-system (`hybrid`/
+`legal_static`/`planned_multisearch`/`adaptive`) DEV/TEST comparison in
+`code/procurement_research_workbench_v1`; that comparison's own retrieval/judging steps call an
+LLM with no fixed seed and are not re-run here (see "Reproducibility scope" in
+`TECHNICAL_APPENDIX.md`) -- its code is instead exercised via the test suite above, and its actual
+recorded outputs are the JSONL files under `results/`.
 
 ```bash
 cd code/evaluation/final_retrieval_benchmark
