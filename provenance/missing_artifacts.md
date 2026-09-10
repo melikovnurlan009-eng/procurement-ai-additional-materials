@@ -23,9 +23,8 @@ time.
 ## 4. TEST-split independence
 
 The frozen TEST split was constructed and executed by the same process, not by an independent
-evaluator. This is a methodological property of the underlying research, disclosed in
-`results/final_reports/FINAL_FREEZE.json` if that file is present, or in the thesis report
-itself.
+evaluator. This is a methodological property of the underlying research, disclosed in the
+thesis report itself.
 
 ## 5. LLM-driven steps are not seeded
 
