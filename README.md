@@ -76,10 +76,10 @@ Requires a local Docker install and, only for two endpoints, your own OpenAI API
 
 ```bash
 docker compose up -d qdrant
+cd code && pip install -r requirements.txt && cd ..   # rebuild_search_index.py needs these installed first
 python3 scripts/rebuild_search_index.py     # ~20-40 min on CPU; builds the search index from code/corpus_export/data/
 cp .env.example .env                         # add your own OPENAI_API_KEY
-cd code && pip install -r requirements.txt
-python chunk_api.py                          # serves on :8899
+cd code && python chunk_api.py               # serves on :8899
 ```
 
 `/search` and `/health` need no API key. `/answer` and `/refine` do.

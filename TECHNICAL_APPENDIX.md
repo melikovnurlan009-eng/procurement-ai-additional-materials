@@ -180,10 +180,11 @@ to documents whose chunks were all superseded as cross-pipeline duplicates.
 **Quickstart**:
 ```bash
 docker compose up -d qdrant
+cd code && pip install -r requirements.txt && cd ..   # rebuild_search_index.py needs
+                                                        # qdrant-client/sentence-transformers installed first
 python3 scripts/rebuild_search_index.py
 cp .env.example .env
-cd code && pip install -r requirements.txt
-python chunk_api.py
+cd code && python chunk_api.py
 ```
 
 ## 1. System overview
