@@ -39,9 +39,17 @@ python3 scripts/verify_bundle.py     # static validator (paths, secrets, manifes
 
 ## Run tests
 
+Requires **Python 3.10 or later** (the package's `pyproject.toml` enforces this; a fresh
+environment defaulting to an older `python3` will fail to install with
+`requires a different Python: ... not in '>=3.10'`). Also requires a reasonably current `pip`
+(`python3 -m pip install --upgrade pip` first, if using a `python3 -m venv` environment with an
+old bundled pip) -- an old pip cannot editable-install a pure-`pyproject.toml` package at all.
+
 ```bash
 cd code/procurement_research_workbench_v1
+python3 -m pip install --upgrade pip
 python3 -m pip install -e .
+python3 -m pip install pytest jsonschema   # minimum to run the suite; add numpy/scipy/matplotlib for diagnostics/plots
 python3 -m pytest -q
 ```
 
