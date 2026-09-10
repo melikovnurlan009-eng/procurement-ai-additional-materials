@@ -118,7 +118,7 @@ already been fully disclosed.
   architecture and maximum retrieval budget, but independently generate their own (stochastic,
   not guaranteed identical) query decompositions.
 - **Documented the F_two_lane / legal_static relationship precisely**: added an explicit note
-  (`TECHNICAL_APPENDIX.md` section 8) that the standalone benchmark's `F_two_lane` (candidate
+  (`TECHNICAL_APPENDIX.md` section 7b) that the standalone benchmark's `F_two_lane` (candidate
   depth 50, per `run_retrieval_configs.py::DEPTH`) and the workbench's `legal_static` (candidate
   depth 100, per `configs/retrieval.json`) implement the same high-level two-lane retrieval idea
   but are not numerically identical configurations -- confirmed the two are never directly

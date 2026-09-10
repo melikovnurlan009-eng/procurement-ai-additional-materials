@@ -140,7 +140,7 @@ consolidated JSONL files that are included. Exact sizes, reasons, and restoratio
 
 ## 12. Where are known limitations documented?
 
-`provenance/missing_artifacts.md` (artifact-level), `TECHNICAL_APPENDIX.md` section 17
+`provenance/missing_artifacts.md` (artifact-level), `TECHNICAL_APPENDIX.md` section 7
 (methodology-level), `provenance/CHANGELOG_FINALIZATION.md` (what was found and corrected during
 this finalization pass).
 

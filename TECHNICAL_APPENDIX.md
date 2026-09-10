@@ -334,7 +334,7 @@ Three components, in dependency order:
    evaluated configurations: `hybrid`, `legal_static`, `planned_multisearch` (LLM query
    decomposition, no evidence inspection), `adaptive` (LLM query decomposition with iterative
    evidence inspection, bounded to 3 operations).
-2. **Evaluation** — a scenario-based benchmark (60 legal-question scenarios, 40 dev / 20 test)
+3. **Evaluation** — a scenario-based benchmark (60 legal-question scenarios, 40 dev / 20 test)
    with LLM-judged pooled passage relevance and reference-independent strict target recall as
    primary metrics, plus a separate standalone 6-configuration static-retrieval comparison.
 
@@ -342,7 +342,7 @@ Three components, in dependency order:
 
 ### 2.1 Acquisition
 
-Nine source-family scrapers (`code/corpus_pipeline/scrapers/`), each fixed-URL/non-recursive by
+Nine source-family scrapers (`code/scrapers/`), each fixed-URL/non-recursive by
 design (explicitly documented in-code, e.g. `"follow_links": False"` manifests), covering primary
 and secondary legislation (legislation.gov.uk XML), official government guidance (gov.uk
 collections), regulator/technical guidance, and professional/practitioner commentary.
@@ -362,7 +362,8 @@ against.
 
 ### 2.2 Parsing
 
-- **Legislation**: `code/corpus_pipeline/chunking_ingestion/` scripts parse legislation.gov.uk
+- **Legislation**: `code/` root scripts (e.g. `chunk_legislation_from_nodes.py`,
+  `chunk_legislation_text.py`) parse legislation.gov.uk
   XML (AKN or CLML, auto-detected) via a recursive tree walk preserving `eId`, `heading`,
   `number`, and hierarchy (Part/Chapter/Schedule/Section/Subsection).
 - **PDF**: PyMuPDF (`fitz`) text extraction, page-ordered, with hyphenation repair and
@@ -409,7 +410,7 @@ need to re-run any historical chunking invocation at all.
 `ingest_legislation_chunks.py` / `ingest_pdf_chunks.py` / `ingest_structural_node_chunks.py`
 insert chunks with content-hash-based deduplication; `deduplicate_instruments.py` resolves
 cross-acquisition-path duplicate legal instruments; `resolve_references.py` and
-`extract_guidance_references.py` (`code/corpus_pipeline/graph/`) resolve internal/cross-document
+`extract_guidance_references.py` (both at `code/`) resolve internal/cross-document
 legal citations into a reference graph; `densify_graph_edges.py` rolls up unreachable reference
 targets to their nearest chunked ancestor; `build_chunk_index.py` builds the final SQLite FTS5
 lexical index and Qdrant dense vector index.
@@ -516,7 +517,7 @@ re-verifies these hashes before executing, and refuses to run if any have change
 - Python: 3.9.6 (corpus index build), 3.11+ / 3.10+ (per `pyproject.toml` requirements below)
   for the retrieval/evaluation packages. See `environment/environment_notes.md` for the
   currently-verified interpreter actually used to run every command in this finalization pass
-  (`.venv-embed`, distinct from the historical build environment -- section 17).
+  (`.venv-embed`, distinct from the historical build environment -- section 7, item 4).
 - Core dependencies (`code/requirements.txt`, `code/pyproject.toml`):
   `fastapi>=0.115,<1`, `openai>=1.68,<3`, `python-dotenv>=1.0,<2`, `qdrant-client>=1.13,<2`,
   `requests>=2.31,<3`, `streamlit>=1.38,<2`, `uvicorn[standard]>=0.34,<1`. Exact currently-pinned
@@ -528,7 +529,7 @@ re-verifies these hashes before executing, and refuses to run if any have change
   `matplotlib>=3.7` (plots), `numpy>=1.24`, `scipy>=1.11` (diagnostics).
 - Embedding model: `BAAI/bge-m3`, 1024 dimensions, cosine distance, normalized vectors. No
   HuggingFace revision/commit was logged at ingest time and none can be recovered (see section
-  17 and `provenance/missing_artifacts.md` section 3).
+  7, item 5, and `provenance/missing_artifacts.md` section 3).
 - Vector store: Qdrant, collection `chunks__bge_m3__merged` (name verified present, as the
   literal string, in `code/chunk_api.py` and `code/build_chunk_representations.py`; the Qdrant
   instance and its data are not included -- Level 3 reproducibility, section 6).
