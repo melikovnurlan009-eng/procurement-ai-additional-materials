@@ -103,7 +103,3 @@ chunking, controller planning, judging) -- these will produce architecturally co
 identical, output on rerun. See `provenance/missing_artifacts.md` for the full list of known
 limitations.
 
-## Scientific language
-
-This package avoids "proves," "guarantees," "fully reproducible," and "identical conditions"
-unless literally true for the specific claim at hand.
