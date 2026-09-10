@@ -6,19 +6,27 @@ import hashlib
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-SKIP_DIRS = {".git"}
+SKIP_DIRS = {".git", ".pytest_cache", "__pycache__"}
 SKIP_NAMES = {"MANIFEST.sha256"}
+SKIP_DIR_SUFFIXES = (".egg-info",)
 
 
 def sha256_file(p):
     return hashlib.sha256(p.read_bytes()).hexdigest()
 
 
+def _path_is_skipped(p):
+    for part in p.parts:
+        if part in SKIP_DIRS or part.endswith(SKIP_DIR_SUFFIXES):
+            return True
+    return False
+
+
 def iter_files():
     for p in sorted(ROOT.rglob("*")):
         if p.is_dir():
             continue
-        if any(part in SKIP_DIRS for part in p.parts):
+        if _path_is_skipped(p):
             continue
         if p.name in SKIP_NAMES:
             continue
@@ -92,7 +100,7 @@ def gen_artifact_manifest():
                 rolled_up_prefixes.append(d)
 
     for p in sorted(ROOT.rglob("*")):
-        if p.is_dir() or p.name in SKIP_NAMES:
+        if p.is_dir() or p.name in SKIP_NAMES or _path_is_skipped(p):
             continue
         rel = str(p.relative_to(ROOT))
         if any(rel.startswith(rp) for rp in rolled_up_prefixes):
