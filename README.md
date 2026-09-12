@@ -151,11 +151,24 @@ cd "$REPO_ROOT/code" && python chunk_api.py                # serves on :8899
 
 ## What is and is not exactly reproducible
 
-Deterministic given the same inputs: ingestion, graph construction, indexing, retrieval, and all
-statistics/tables/figures computed from the already-saved JSONL data in `results/`.
+**Exactly reproducible:** ingestion, graph construction, indexing, and retrieval, given the same
+inputs -- meaning the already-exported corpus (`code/corpus_export/data/`). Rebuilding the search
+index from that export (`scripts/rebuild_search_index.py`) reproduces the exact same chunk/edge
+counts and content every time. All statistics/tables/figures computed from the already-saved
+JSONL data in `results/` are exactly reproducible the same way.
 
-Not byte-for-byte reproducible: any step that calls an LLM without a fixed seed (corpus
-chunking, controller planning, judging) -- these will produce architecturally comparable, not
-identical, output on rerun. See `provenance/missing_artifacts.md` for the full list of known
-limitations.
+**Not byte-for-byte reproducible, for two different reasons:**
+- Any step that calls an LLM without a fixed seed (corpus chunking, controller planning, judging)
+  -- these produce architecturally comparable, not identical, output on rerun.
+- The *scraping* steps (`code/scrapers/...`) fetch live content from external websites
+  (legislation.gov.uk, GOV.UK, law firm commentary, the Procurement Pathway). That content can
+  change over time -- new amendments, updated guidance, edited pages -- independent of any LLM
+  involvement, so re-running the scrapers today will not necessarily pull the same raw text they
+  did originally. The Procurement Pathway's curation step is also not included at all (see
+  `provenance/missing_artifacts.md` item 1), so a fresh crawl wouldn't even target the same final
+  set of pages. Running the full from-scratch acquisition pipeline (`TECHNICAL_APPENDIX.md`
+  section 0.2) is therefore not guaranteed to reproduce the same corpus as the one already
+  exported and evaluated -- use the export (above) if exact reproduction is what you need.
+
+See `provenance/missing_artifacts.md` for the full list of known limitations.
 
