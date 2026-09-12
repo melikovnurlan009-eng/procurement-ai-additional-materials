@@ -11,7 +11,7 @@ reproduce the reported analysis.
 ```mermaid
 flowchart TD
     subgraph ACQ["1. Acquisition (code/scrapers/)"]
-        A1[legislation.gov.uk XML] --> A2["group_a_legislation_scraper_v2.py or _v4.py"]
+        A1[legislation.gov.uk XML] --> A2["group_a_legislation_scraper_v4.py"]
         A3[GOV.UK guidance / regulator / professional sites] --> A4[scrape_*.py, one script per source family]
         A5[Procurement Pathway site] --> A6[procurement_doc_counter/count_documents_relevance.py]
         A6 --> A7["raw crawl output (documents.csv/json)"]
@@ -98,7 +98,7 @@ flowchart TD
 
 | # | Stage | Script(s) | Reads | Writes | Command |
 |---|---|---|---|---|---|
-| 1 | Acquire legislation | `code/scrapers/legislation/group_a_legislation_scraper_v2.py` or `_v4.py`; `_v1.py` also works; `scrape_missing_legislation.py` acquires additional cited instruments | legislation.gov.uk XML (AKN/CLML) | `processed/nodes.jsonl`, `references_*.jsonl`, `annotations_*.jsonl`, `legal_effects_*.jsonl` | `python group_a_legislation_scraper_v2.py --source PA2023 --output-dir data/group_a_legislation_v2` |
+| 1 | Acquire legislation | `code/scrapers/legislation/group_a_legislation_scraper_v4.py` (run this one -- the latest version; `_v1.py`/`_v2.py` are kept for reference/audit only), then `scrape_missing_legislation.py` to acquire additional cited instruments the main scrape didn't cover | legislation.gov.uk XML (AKN/CLML) | `processed/nodes.jsonl`, `references_*.jsonl`, `annotations_*.jsonl`, `legal_effects_*.jsonl` | `python group_a_legislation_scraper_v4.py --source PA2023 --output-dir data/group_a_legislation_v4 && python scrape_missing_legislation.py` |
 | 2 | Acquire guidance/regulator/professional sources | `code/scrapers/scrape_*.py` (one script per source family) | fixed, pre-enumerated URL lists | raw HTML/PDF + provenance records | `python scrapers/scrape_<family>.py` |
 | 3 | Acquire Procurement Pathway (raw discovery) | `code/scrapers/procurement_doc_counter/count_documents_relevance.py` + `seeds.json` | 58 seed roots | `documents.csv`/`documents.json`/`summary.json` | `python count_documents_relevance.py --seeds seeds.json --out crawl_output` |
 | 4 | Parse PDFs | `extract_pdf_pages.py` / `extract_pdf_structured.py` (PyMuPDF/`fitz`) | raw PDF bytes | page-ordered JSON | see script `--help` |
@@ -121,9 +121,11 @@ flowchart TD
 | 13c | Matched workbench: evaluate + freeze | `python -m prw evaluate`, `python -m prw freeze` | judgments from 13b | per-scenario + aggregate metrics; `prw_freeze_record.json` | `python -m prw evaluate ...` |
 | 13d | Matched workbench: diagnostics + figures | `build_controller_diagnostics.py`, `make_final_figures.py` | evaluate output from 13c | `CONTROLLER_DIAGNOSTICS.csv`, `figures/*.png` | see each script's `--help` |
 
-Either `_v1.py`, `_v2.py`, or `_v4.py` of the legislation scraper feeds cleanly into
-`chunk_legislation_from_nodes.py` (its `_normalize_node()` step accepts either scraper's field
-naming).
+Run `_v4.py` -- it's the latest version, and `chunk_legislation_from_nodes.py`'s
+`_normalize_node()` step is written to accept its field naming (`node_type`/`eid`) directly.
+`_v1.py` and `_v2.py` also produce compatible output (the same `_normalize_node()` step
+accepts their older field naming too) and are kept in the repo for reference/audit, but
+there is no need to run them.
 
 ### 0.3 Not part of reproducing the reported results
 
