@@ -96,6 +96,17 @@ flowchart TD
 
 ### 0.2 File-by-file table, in execution order
 
+**This table documents how the corpus was originally built, from raw web sources through to
+the final database -- it is a methodology record, not something you need to run to get the
+final database.** The actual final, evaluated database's content is already exported and
+shipped in this bundle (`code/corpus_export/data/{chunks,documents,edges,edges_v2}.jsonl`),
+and `scripts/rebuild_search_index.py` (section 0.5) rebuilds a fully working search index
+directly from that export -- no scraping, chunking, or ingestion required. Run the steps
+below only if you want to reproduce or audit the *acquisition* methodology itself (e.g. to
+understand how a specific instrument was scraped and chunked), not to obtain the database.
+One consequence: step 1b's disclosed gap (below) does not block getting the final database
+at all -- whatever it acquired historically is already part of the shipped export.
+
 | # | Stage | Script(s) | Reads | Writes | Command |
 |---|---|---|---|---|---|
 | 1 | Acquire legislation | `code/scrapers/legislation/group_a_legislation_scraper_v4.py` (run this one -- the latest version; `_v1.py`/`_v2.py` are kept for reference/audit only). Needs `requests` and `lxml` (both in `code/requirements.txt`). Run from `code/`, since `--output-dir` is relative to it, not to `scrapers/legislation/` | legislation.gov.uk XML (AKN/CLML) | `processed/nodes.jsonl`, `references_*.jsonl`, `annotations_*.jsonl`, `legal_effects_*.jsonl` | `cd code && python scrapers/legislation/group_a_legislation_scraper_v4.py --source PA2023 --output-dir data/group_a_legislation_v4` |
