@@ -17,11 +17,18 @@ See `TECHNICAL_APPENDIX.md` for the full pipeline diagram and methodology.
 ## Prerequisites
 
 - **Python 3.10 or later.** Check with `python3 --version`. If your default `python3` is older
-  (e.g. macOS ships 3.9.x by default), install a newer one first -- `brew install python@3.12`
-  (macOS/Homebrew) or `pyenv install 3.12 && pyenv local 3.12` -- then use that interpreter (e.g.
-  `python3.12`) in place of `python3` below. Also upgrade pip first
-  (`python3 -m pip install --upgrade pip`): an old bundled pip cannot editable-install a
-  pure-`pyproject.toml` package at all.
+  (e.g. macOS ships 3.9.x by default), install a newer one -- `brew install python@3.12`
+  (macOS/Homebrew) or `pyenv install 3.12` -- then create a virtual environment **from that
+  interpreter** and use it for everything below:
+  ```bash
+  python3.12 -m venv .venv          # use whichever new version you installed, e.g. python3.14
+  source .venv/bin/activate         # `python3`/`pip` in this shell now point at .venv
+  python3 -m pip install --upgrade pip
+  ```
+  Do not `pip install` straight into a Homebrew/system Python -- on current macOS it is
+  "externally managed" (PEP 668) and refuses direct installs; a venv is required, not optional.
+  An old pip also cannot editable-install a pure-`pyproject.toml` package at all, hence the
+  upgrade above.
 - **git**, to have cloned this repository.
 - **Docker**, only if you rebuild and run the live retrieval application (last section below).
 - **An OpenAI API key**, only for the live application's `/answer`/`/refine` endpoints, or to
