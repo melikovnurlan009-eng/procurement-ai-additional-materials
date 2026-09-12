@@ -1,10 +1,18 @@
 # Additional Materials
 
-Reproducibility companion for the MSc thesis *A Legal-Structure-Aware Retrieval System for a UK
-Public Procurement AI Assistant* (student 14322782, CSDI pathway): a hybrid lexical/dense/graph
-retriever, four compared retrieval systems, and a two-track evaluation (a standalone
-6-configuration static-retrieval benchmark, and a matched DEV/TEST comparison of the four
-production systems). See `TECHNICAL_APPENDIX.md` for the full pipeline diagram and methodology.
+Reproducibility companion for an MSc thesis: *A Legal-Structure-Aware Retrieval System for a UK
+Public Procurement AI Assistant* (student 14322782, CSDI pathway).
+
+The thesis builds a retrieval system that answers UK public-procurement-law questions. It
+combines three search methods -- lexical (keyword) search, dense (embedding-based) search, and a
+legal citation graph -- and compares four retrieval strategies built on top of that combination
+(see "What this supports" below for what each one does).
+
+Two separate evaluations were run:
+- A standalone benchmark comparing 6 retrieval configurations.
+- A matched DEV/TEST comparison of the four main retrieval systems.
+
+See `TECHNICAL_APPENDIX.md` for the full pipeline diagram and methodology.
 
 ## Prerequisites
 
@@ -23,25 +31,34 @@ Run every command below from the repository root (the directory this file is in)
 
 ## What this supports
 
-The UK public procurement AI assistant described in the thesis report: corpus construction over
-legislation/guidance sources, a legal-structural chunking and reference-graph pipeline, and a
-retrieval/evaluation harness comparing static and LLM-controller-driven retrieval strategies. The
-four compared retrieval systems: `hybrid` (lexical+dense fusion only), `legal_static` (`hybrid`
-plus legal-authority priors and one-hop graph expansion, still no LLM call), `planned_multisearch`
-(an LLM decomposes the query into sub-queries once, with no inspection of retrieved evidence), and
-`adaptive` (an LLM decomposes the query and iteratively inspects retrieved evidence, bounded to 3
-retrieval operations).
+The UK public procurement AI assistant described in the thesis. Three parts:
+
+1. **Corpus construction** -- turning legislation and guidance documents into a searchable,
+   legally-structured chunk and reference-graph database.
+2. **Retrieval** -- four compared systems:
+   - `hybrid`: lexical+dense search only.
+   - `legal_static`: `hybrid` plus legal-authority weighting and one-hop graph expansion, still no
+     LLM call.
+   - `planned_multisearch`: an LLM breaks the query into sub-queries once, with no inspection of
+     what comes back.
+   - `adaptive`: an LLM breaks the query down and iteratively inspects retrieved evidence, bounded
+     to 3 retrieval operations.
+3. **Evaluation** -- comparing those four systems against each other and against the standalone
+   benchmark named above.
 
 ## Directory layout
 
-- **`code/`** -- all source, laid out to mirror the original repository's relative directory
-  depths: corpus scrapers, chunking/ingestion scripts, the graph package (`procurement_kg/`),
-  the production retriever (`chunk_retrieval.py`), the deployed application layer
-  (`chunk_api.py`, `answer_query.py`, `refine_query.py`, `query_expansion.py`,
-  `streamlit_app.py`), the standalone benchmark (`evaluation/final_retrieval_benchmark/`), the
-  evaluation package (`procurement_research_workbench_v1/`, including `prw/`, its tests, data,
-  schemas, and configs), and `code/corpus_export/data/` (the actual final chunk/document/edge
-  data exported from the evaluated corpus).
+- **`code/`** -- all source, laid out to mirror the original repository's directory structure:
+  - Corpus scrapers and chunking/ingestion scripts.
+  - The reference-graph package (`procurement_kg/`) and the production retriever
+    (`chunk_retrieval.py`).
+  - The deployed application layer (`chunk_api.py`, `answer_query.py`, `refine_query.py`,
+    `query_expansion.py`, `streamlit_app.py`).
+  - The standalone benchmark (`evaluation/final_retrieval_benchmark/`).
+  - The evaluation package (`procurement_research_workbench_v1/`, with its own tests, data,
+    schemas, and configs).
+  - `corpus_export/data/` -- the actual chunk/document/edge data exported from the evaluated
+    corpus.
 - **`corpus_manifests/`** -- the curated Procurement Pathway URL manifest.
 - **`results/`** -- raw DEV/TEST run and judgment artifacts (`runs/`, `judgments/`, `pool/`,
   `evaluate_output/`) needed to regenerate the reported tables and figures.
@@ -70,14 +87,15 @@ Expect all tests to pass. With only the `dev` extra installed, one test is `SKIP
 
 ## Reach the reported tables and figures
 
-This reproduces the standalone 6-configuration static-retrieval benchmark (configs A-F: lexical,
-dense, hybrid, hybrid+priors, hybrid+graph, two-lane final fusion) reported in the thesis's Table
-1 and its associated figures. It is a separate pipeline from the four-system (`hybrid`/
-`legal_static`/`planned_multisearch`/`adaptive`) DEV/TEST comparison in
-`code/procurement_research_workbench_v1`; that comparison's own retrieval/judging steps call an
-LLM with no fixed seed and are not re-run here (see "Reproducibility scope" in
-`TECHNICAL_APPENDIX.md`) -- its code is instead exercised via the test suite above, and its actual
-recorded outputs are the JSONL files under `results/`.
+This reproduces the standalone 6-configuration static-retrieval benchmark: configs A-F (lexical,
+dense, hybrid, hybrid+priors, hybrid+graph, two-lane final fusion). It corresponds to the
+thesis's Table 1 and its associated figures.
+
+This is a separate pipeline from the four-system (`hybrid`/`legal_static`/`planned_multisearch`/
+`adaptive`) DEV/TEST comparison in `code/procurement_research_workbench_v1`. That comparison is
+not re-run here, because its retrieval/judging steps call an LLM with no fixed seed (see
+"Reproducibility scope" in `TECHNICAL_APPENDIX.md`). Its code is exercised only via the test suite
+above; its actual recorded outputs are the JSONL files under `results/`.
 
 ```bash
 cd code/evaluation/final_retrieval_benchmark
