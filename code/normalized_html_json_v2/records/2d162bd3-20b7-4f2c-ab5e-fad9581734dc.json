@@ -1,0 +1,3513 @@
+{
+  "document_id": "2d162bd3-20b7-4f2c-ab5e-fad9581734dc",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/377cefe9ab7accadad91f578.json",
+  "input_sha256": "760988377395af2684ec3a84edce34fa38de24f155ce73ddbf11ed1734ff69cb",
+  "processed_at": "2026-08-27T02:26:11.430931+00:00",
+  "title": "Guidance: Central Digital Platform and Publication of Information (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-central-digital-platform-and-publication-of-information-html",
+  "description": null,
+  "publication_date": "2024-10-29T15:30:12+00:00",
+  "updated_date": "2026-08-17T15:52:00+01:00",
+  "source_metadata": {
+    "content_id": "2d162bd3-20b7-4f2c-ab5e-fad9581734dc",
+    "base_path": "/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-central-digital-platform-and-publication-of-information-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What is the legal framework that governs the central digital platform?",
+      "ordinal": 9,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What has changed?",
+      "ordinal": 13,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Key points and policy intent",
+      "ordinal": 23,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Unique identifiers",
+      "ordinal": 24,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Registration, buyer and supplier identifiers",
+      "ordinal": 28,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Procurement and associated identifiers",
+      "ordinal": 49,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Identifiers for awards in accordance with frameworks",
+      "ordinal": 55,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Identifiers for the establishment of dynamic markets",
+      "ordinal": 58,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Identifiers for awarding contracts under a dynamic market",
+      "ordinal": 60,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Contract identifiers where more than one contract arises from a procurement",
+      "ordinal": 62,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Publication of notices and other information by the contracting authority",
+      "ordinal": 64,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Exemptions from duties to publish or disclose information",
+      "ordinal": 70,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Protected information in relation to connected persons",
+      "ordinal": 92,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Data Protection",
+      "ordinal": 102,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Alternative procedure for publication of information",
+      "ordinal": 106,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Supplier information",
+      "ordinal": 123,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Supplier information under competitive tendering procedures",
+      "ordinal": 136,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Supplier information in competitive selection processes for the award of a contract under a framework",
+      "ordinal": 138,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Supplier information when establishing a dynamic market",
+      "ordinal": 140,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Direct award under sections 41 or 43 of the Act",
+      "ordinal": 142,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Direct award in the case of urgency",
+      "ordinal": 144,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Applicability of supplier information to below-threshold contracts",
+      "ordinal": 149,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Alternative procedure for obtaining supplier information",
+      "ordinal": 154,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Record-keeping",
+      "ordinal": 156,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "What other guidance is of particular relevance to this topic area?",
+      "ordinal": 168,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "What is the central digital platform?",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "1. The online system referenced in the Procurement Act 2023 (Act) and named in the Procurement Regulations 2024 (regulations) as the central digital platform is available at https://www.find-tender.service.gov.uk/",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "2. The central digital platform will enable:",
+      "ordinal": 2,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "a. contracting authorities and suppliers to register and receive a unique identifier;",
+      "ordinal": 3,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "b. contracting authorities to publish notices and other information as required under the Act for covered and below-threshold procurements;",
+      "ordinal": 4,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "c. suppliers to submit and store certain core organisational information as required by the regulations to participate in a covered procurement. This information will only be available to those contracting authorities that a supplier chooses to share it with; it cannot be freely accessed.",
+      "ordinal": 5,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "p",
+      "text": "d. anyone to view the notices and access related public procurement data.",
+      "ordinal": 6,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "3. This guidance covers access to the central digital platform and the use of unique identifiers, the publication of information by contracting authorities (including requirements for the withholding of information), the submission and use of supplier information and requirements relating to the keeping of procurement records.",
+      "ordinal": 7,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "4. Note that there are differences for Wales in relation to the information to be published and submitted on the central digital platform so Welsh contracting authorities undertaking devolved procurement should refer to the devolved Welsh procurement-specific guidance. This will also apply to any other contracting authority using a framework or dynamic market established by a devolved Welsh contracting authority, contracting jointly with a devolved Welsh authority as the lead contractor, or using a devolved centralised procurement authority.",
+      "ordinal": 8,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "heading",
+      "text": "What is the legal framework that governs the central digital platform?",
+      "ordinal": 9,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "p",
+      "text": "5. Regulation 5 sets out that notices, information or documents under the Act are to be published on the central digital platform found at www.gov.uk/find-a-tender.",
+      "ordinal": 10,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "6. Regulation 6 sets out contracting authorities’ responsibilities, including confirming the supplier has shared its core supplier information (see paragraph 58 below) with the contracting authority through the platform when required.",
+      "ordinal": 11,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "7. Sections 94, 98 and 99 contain provisions on the management of information including exemptions to information publication and requirements for record-keeping. The detail on information required to be published under the Act, specifically in procurement notices, is contained in regulations 15-41 .",
+      "ordinal": 12,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "heading",
+      "text": "What has changed?",
+      "ordinal": 13,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "8. Under the Act, procurement notices will be published by all contracting authorities in one place on the central digital platform.",
+      "ordinal": 14,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "9. Contracting authorities are required to obtain confirmation of registration and submission of core supplier information on the platform from suppliers who wish to participate in a specific procurement.",
+      "ordinal": 15,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "10. The approach to the publication and redaction of information under the Act is different from the previous legislation. The previous legislation sets out that in publishing contract award notices, certain information on the award of the contract or the conclusion of the framework agreement may be withheld from publication where its release:",
+      "ordinal": 16,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "a. would impede law enforcement or would otherwise be contrary to the public interest;",
+      "ordinal": 17,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "p",
+      "text": "b. would prejudice the legitimate commercial interests of a particular economic operator, whether public or private; or",
+      "ordinal": 18,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "c. might prejudice fair competition between economic operators.",
+      "ordinal": 19,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "p",
+      "text": "11. These provisions were also mirrored in regulation 112 of the Public Contracts Regulations 2015 (PCR) in relation to publishing information on Contracts Finder about below-threshold contracts.",
+      "ordinal": 20,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "12. The Act sets out a more limited test, in that the exemptions from publication are restricted to those set out in section 94 . Disclosure of information is also subject to the provisions in section 99 on data protection. These sections are also of broader application, in that they must be considered when determining whether any information to be disclosed or published under the Act (that is to say, information other than that published on the central digital platform) may be withheld.",
+      "ordinal": 21,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "p",
+      "text": "13. The Act also creates a requirement that if a contracting authority withholds information under section 94 , the fact that information is being withheld must be published, along with the relevant ground, unless it would be contrary to the interests of national security to do so. These exceptions are modelled on the equivalent exemptions on data protection outlined in the Freedom of Information Act 2000 (FOIA) and are designed to be interpreted in the same way.",
+      "ordinal": 22,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "heading",
+      "text": "Key points and policy intent",
+      "ordinal": 23,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "heading",
+      "text": "Unique identifiers",
+      "ordinal": 24,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Unique identifiers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "p",
+      "text": "14. As well as allowing for notices to be created, searched and viewed, the central digital platform will publish information in a standardised way in line with the Open Contracting Data Standard (OCDS) throughout the whole procurement process.",
+      "ordinal": 25,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Unique identifiers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "p",
+      "text": "15. To ensure that published data is correctly attributed to specific parties and processes, all contracting authorities, suppliers, procurements and contracts will have a unique identifier on the central digital platform. The different types of identifiers are set out in regulation 8 . Use of identifiers will prevent duplication of records and will link together all information associated with each procurement (and each supplier and contracting authority), facilitating tracking and analysis.",
+      "ordinal": 26,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Unique identifiers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "p",
+      "text": "16. Contracting authorities are required to include these unique identifiers when publishing notices to the central digital platform.",
+      "ordinal": 27,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Unique identifiers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "heading",
+      "text": "Registration, buyer and supplier identifiers",
+      "ordinal": 28,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Unique identifiers",
+        "Registration, buyer and supplier identifiers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "p",
+      "text": "17. Organisations using the central digital platform will use a unique number to identify themselves. This applies if the organisation is:",
+      "ordinal": 29,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Unique identifiers",
+        "Registration, buyer and supplier identifiers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "p",
+      "text": "a. a supplier;",
+      "ordinal": 30,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Unique identifiers",
+        "Registration, buyer and supplier identifiers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "p",
+      "text": "b. a contracting authority;",
+      "ordinal": 31,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Unique identifiers",
+        "Registration, buyer and supplier identifiers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "p",
+      "text": "c. a person (i.e. an agent or organisation) carrying out a procurement or part of a procurement on behalf of a contracting authority; or",
+      "ordinal": 32,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Unique identifiers",
+        "Registration, buyer and supplier identifiers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "p",
+      "text": "d. a person other than a contracting authority who is establishing a dynamic market under section 35(3) .",
+      "ordinal": 33,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Unique identifiers",
+        "Registration, buyer and supplier identifiers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "p",
+      "text": "18. For suppliers and contracting authorities, their identifiers are generated when they first register. Where an organisation already has a unique identifier from one of the official registers set out below, this identifier can be used on the central digital platform and inputted when first registering:",
+      "ordinal": 34,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Unique identifiers",
+        "Registration, buyer and supplier identifiers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "p",
+      "text": "a. Companies House;",
+      "ordinal": 35,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Unique identifiers",
+        "Registration, buyer and supplier identifiers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "p",
+      "text": "b. Charity Commission for England and Wales;",
+      "ordinal": 36,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Unique identifiers",
+        "Registration, buyer and supplier identifiers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "p",
+      "text": "c. Scottish Charity Regulator;",
+      "ordinal": 37,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Unique identifiers",
+        "Registration, buyer and supplier identifiers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "p",
+      "text": "d. Charity Commission for Northern Ireland;",
+      "ordinal": 38,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Unique identifiers",
+        "Registration, buyer and supplier identifiers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "p",
+      "text": "e. Mutuals Public Register;",
+      "ordinal": 39,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Unique identifiers",
+        "Registration, buyer and supplier identifiers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "p",
+      "text": "f. Guernsey Registry;",
+      "ordinal": 40,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Unique identifiers",
+        "Registration, buyer and supplier identifiers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "p",
+      "text": "g. Jersey Financial Services Commission Registry",
+      "ordinal": 41,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Unique identifiers",
+        "Registration, buyer and supplier identifiers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "p",
+      "text": "h. Isle of Man Companies Registry;",
+      "ordinal": 42,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Unique identifiers",
+        "Registration, buyer and supplier identifiers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "p",
+      "text": "i. National Health Service Organisation Data Service;",
+      "ordinal": 43,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Unique identifiers",
+        "Registration, buyer and supplier identifiers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "p",
+      "text": "j. UK Register of Learning Providers (UKPRN number).",
+      "ordinal": 44,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Unique identifiers",
+        "Registration, buyer and supplier identifiers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "p",
+      "text": "19. Once registered, the organisational identifier will be published:",
+      "ordinal": 45,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Unique identifiers",
+        "Registration, buyer and supplier identifiers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "p",
+      "text": "a. in the case of a contracting authority, when the organisation submits a notice, to the central digital platform; or",
+      "ordinal": 46,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Unique identifiers",
+        "Registration, buyer and supplier identifiers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "p",
+      "text": "b. in the case of the supplier, whenever a notice is published that contains information about them. (To note, this supplier identifier is shared with contracting authorities as part of the supplier information requirements described in paragraph 59.)",
+      "ordinal": 47,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Unique identifiers",
+        "Registration, buyer and supplier identifiers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "p",
+      "text": "20. The central digital platform will accommodate changes to both contracting authorities and suppliers, including, for example name changes, corporate restructure and governmental reorganisation.",
+      "ordinal": 48,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Unique identifiers",
+        "Registration, buyer and supplier identifiers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "heading",
+      "text": "Procurement and associated identifiers",
+      "ordinal": 49,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Unique identifiers",
+        "Procurement and associated identifiers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00050",
+      "block_type": "p",
+      "text": "21. A procurement identifier is allocated by the central digital platform when contracting authorities publish the first notice relating to a procurement.",
+      "ordinal": 50,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Unique identifiers",
+        "Procurement and associated identifiers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00051",
+      "block_type": "p",
+      "text": "22. Once the first notice is published, contracting authorities are required to use this procurement identifier in every notice. It can then be used to link all of the notices in a procurement process together. Each notice that a contracting authority subsequently publishes relating to that procurement adds more data to this record. By the time that a contract is terminated, a contracting authority will have a single data record for their procurement that shows activity at every phase of the commercial lifecycle.",
+      "ordinal": 51,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Unique identifiers",
+        "Procurement and associated identifiers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00052",
+      "block_type": "p",
+      "text": "23. There are two exceptions to this, explained below. These differences are set out clearly in the notices.",
+      "ordinal": 52,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Unique identifiers",
+        "Procurement and associated identifiers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00053",
+      "block_type": "p",
+      "text": "a. Switching to direct award from a competitive process. When switching to direct award, a new procurement identifier is allocated when the transparency notice is published. This signals that the old competitive procurement has been discontinued. In this case, contracting authorities will include the procurement identifier of the original procurement within the transparency notice. Then, when the transparency notice is published, the system will generate a new procurement identifier. Subsequent notices will then be linked to the new procurement identifier from the transparency notice;",
+      "ordinal": 53,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Unique identifiers",
+        "Procurement and associated identifiers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00054",
+      "block_type": "p",
+      "text": "b. Open Frameworks. Identifiers are used to ensure that awards made in accordance with the framework are linked to the correct framework within an open framework scheme and that each framework within the open scheme links back to the procurement for the originating framework. The original procurement process will have an identifier. Each individual framework within the scheme will have its own procurement identifier which is linked to the originating procurement identifier.",
+      "ordinal": 54,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Unique identifiers",
+        "Procurement and associated identifiers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00055",
+      "block_type": "heading",
+      "text": "Identifiers for awards in accordance with frameworks",
+      "ordinal": 55,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Unique identifiers",
+        "Identifiers for awards in accordance with frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00056",
+      "block_type": "p",
+      "text": "24. Awards made in accordance with a framework (call-offs) are considered separate contracting processes from the framework itself, so each has its own procurement identifier. This is generated when the first notice in relation to the call-off is published. For a call-off contract which is likely to be above £2m, this may be as early as the pipeline notice.",
+      "ordinal": 56,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Unique identifiers",
+        "Identifiers for awards in accordance with frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00057",
+      "block_type": "p",
+      "text": "25. Notices relating to awards made in accordance with frameworks must include the identifier for the relevant framework.",
+      "ordinal": 57,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Unique identifiers",
+        "Identifiers for awards in accordance with frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00058",
+      "block_type": "heading",
+      "text": "Identifiers for the establishment of dynamic markets",
+      "ordinal": 58,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Unique identifiers",
+        "Identifiers for the establishment of dynamic markets"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00059",
+      "block_type": "p",
+      "text": "26. In the case of a dynamic market, the dynamic market identifier is allocated by the central digital platform when the first notice relating to the dynamic market is published. The identifier will be the same throughout the life of the dynamic market.",
+      "ordinal": 59,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Unique identifiers",
+        "Identifiers for the establishment of dynamic markets"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00060",
+      "block_type": "heading",
+      "text": "Identifiers for awarding contracts under a dynamic market",
+      "ordinal": 60,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Unique identifiers",
+        "Identifiers for awarding contracts under a dynamic market"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00061",
+      "block_type": "p",
+      "text": "27. The dynamic market identifier and the procurement identifier for the contract to be awarded must be included in published notices. Where a dynamic market is divided into parts, and the contracting authority is restricting competition to suppliers on that part, the number of the part is also required. This information can be found in the dynamic market establishment notice.",
+      "ordinal": 61,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Unique identifiers",
+        "Identifiers for awarding contracts under a dynamic market"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00062",
+      "block_type": "heading",
+      "text": "Contract identifiers where more than one contract arises from a procurement",
+      "ordinal": 62,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Unique identifiers",
+        "Contract identifiers where more than one contract arises from a procurement"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00063",
+      "block_type": "p",
+      "text": "28. There may be more than one contract associated with the procurement. Contracting authorities should distinguish these contracts in the notice by numbering them sequentially, starting with 1. The same numbering will then be used in later notices, to allow the platform and users of the data to identify and link subsequent notices and information.",
+      "ordinal": 63,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Unique identifiers",
+        "Contract identifiers where more than one contract arises from a procurement"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00064",
+      "block_type": "heading",
+      "text": "Publication of notices and other information by the contracting authority",
+      "ordinal": 64,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00065",
+      "block_type": "p",
+      "text": "29. Contracting authorities are responsible for publishing notices on time, containing all required information and accompanied by any associated documents. Failure to publish a notice when it is required, or publishing incorrect or incomplete information, could result in non-compliance with the Act and place contracting authorities at risk of a legal challenge. Refer to the guidance on remedies for further information.",
+      "ordinal": 65,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00066",
+      "block_type": "p",
+      "text": "30. To meet the requirements of the regulations, notices must first be published on the central digital platform, before being posted elsewhere. It is a contracting authority’s responsibility to ensure that submission has been acknowledged or to check that the information is viewable on the central digital platform. Viewing the notice will enable contracting authorities to ensure that all the submitted information is correctly displayed and to enable the rapid correction of any inadvertent mistakes.",
+      "ordinal": 66,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00067",
+      "block_type": "p",
+      "text": "31. If publishing directly using the central digital platform, contracting authorities will be prompted where information is incomplete and will not be able to submit their notice until all mandatory information has been completed.",
+      "ordinal": 67,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00068",
+      "block_type": "p",
+      "text": "32. If using an e-procurement service provider, notices that are rejected by the central digital platform will need to be reviewed and resubmitted if they are to be published. The exact process for resubmission will depend on the system used to publish the notices and contracting authorities will need to follow the relevant provider’s procedures for resubmission.",
+      "ordinal": 68,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00069",
+      "block_type": "p",
+      "text": "33. Once published on the central digital platform, the notice or document may be posted elsewhere, for example a local or devolved procurement portal or a procurement section or buyer profile of a local authority website or portal.",
+      "ordinal": 69,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00070",
+      "block_type": "heading",
+      "text": "Exemptions from duties to publish or disclose information",
+      "ordinal": 70,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority",
+        "Exemptions from duties to publish or disclose information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00071",
+      "block_type": "p",
+      "text": "34. The Act establishes that information may be withheld from publication or disclosure if one of the exemptions set out in section 94 applies. Contracting authorities relying on section 94 must notify potential recipients (by including this in the relevant notice) that information is withheld and explain why, unless the contracting authority is satisfied that it would be contrary to the interests of national security to do so.",
+      "ordinal": 71,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority",
+        "Exemptions from duties to publish or disclose information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00072",
+      "block_type": "p",
+      "text": "35. National security: Section 94(1)(a) provides that a contracting authority is not required to publish or disclose information if it is satisfied that withholding the information is necessary for the purpose of safeguarding national security.",
+      "ordinal": 72,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority",
+        "Exemptions from duties to publish or disclose information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00073",
+      "block_type": "p",
+      "text": "36. Examples of information that may be withheld on national security grounds may include, but are not limited to:",
+      "ordinal": 73,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority",
+        "Exemptions from duties to publish or disclose information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00074",
+      "block_type": "p",
+      "text": "a classified information that requires protection from unauthorised access or distribution;",
+      "ordinal": 74,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority",
+        "Exemptions from duties to publish or disclose information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00075",
+      "block_type": "p",
+      "text": "b. details relating to sensitive sites, such as military or intelligence services operations;",
+      "ordinal": 75,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority",
+        "Exemptions from duties to publish or disclose information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00076",
+      "block_type": "p",
+      "text": "c. information relating to critical national infrastructure, where loss or compromise could result in serious economic or social damage to the UK;",
+      "ordinal": 76,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority",
+        "Exemptions from duties to publish or disclose information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00077",
+      "block_type": "p",
+      "text": "d. information the release of which may result in suppliers or their supply chains becoming exposed to targeting by terrorist activities.",
+      "ordinal": 77,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority",
+        "Exemptions from duties to publish or disclose information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00078",
+      "block_type": "p",
+      "text": "37. Sensitive commercial information: Section 94(1)(b) provides that a contracting authority is not required to publish or disclose information if it is satisfied that the information is sensitive commercial information and there is an overriding public interest in it being withheld. Section 94(2) defines exempt commercial information as information which:",
+      "ordinal": 78,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority",
+        "Exemptions from duties to publish or disclose information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00079",
+      "block_type": "p",
+      "text": "a. constitutes a trade secret; or",
+      "ordinal": 79,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority",
+        "Exemptions from duties to publish or disclose information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00080",
+      "block_type": "p",
+      "text": "b. would likely prejudice the commercial interests of any person if it were published or disclosed.",
+      "ordinal": 80,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority",
+        "Exemptions from duties to publish or disclose information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00081",
+      "block_type": "p",
+      "text": "38. The type of information that could potentially be withheld on the grounds of commercial sensitivity includes, but is not limited to:",
+      "ordinal": 81,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority",
+        "Exemptions from duties to publish or disclose information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00082",
+      "block_type": "p",
+      "text": "a. pricing: the way the supplier has determined the price it is charging including:",
+      "ordinal": 82,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority",
+        "Exemptions from duties to publish or disclose information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00083",
+      "block_type": "p",
+      "text": "i. individual pricing elements;",
+      "ordinal": 83,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority",
+        "Exemptions from duties to publish or disclose information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00084",
+      "block_type": "p",
+      "text": "ii. financial models and business plans, including details of profit margins and overheads;",
+      "ordinal": 84,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority",
+        "Exemptions from duties to publish or disclose information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00085",
+      "block_type": "p",
+      "text": "iii. matters which enable the make-up of the bid to be determined;",
+      "ordinal": 85,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority",
+        "Exemptions from duties to publish or disclose information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00086",
+      "block_type": "p",
+      "text": "b. financial information which would affect the outcome of re-bid or future procurement. (this should not be grounds for withholding the contract value itself)",
+      "ordinal": 86,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority",
+        "Exemptions from duties to publish or disclose information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00087",
+      "block_type": "p",
+      "text": "c. intellectual property: elements of the bid (and assessment) which would reveal intellectual property; for example:",
+      "ordinal": 87,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority",
+        "Exemptions from duties to publish or disclose information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00088",
+      "block_type": "p",
+      "text": "i. proprietary details of the solution that the contractor is deploying;",
+      "ordinal": 88,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority",
+        "Exemptions from duties to publish or disclose information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00089",
+      "block_type": "p",
+      "text": "ii. innovative or unique technical solutions and methodologies; and",
+      "ordinal": 89,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority",
+        "Exemptions from duties to publish or disclose information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00090",
+      "block_type": "p",
+      "text": "iii. trade secrets",
+      "ordinal": 90,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority",
+        "Exemptions from duties to publish or disclose information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00091",
+      "block_type": "p",
+      "text": "39. Information can only be withheld on sensitive commercial grounds following a public interest test confirming that withholding the information outweighs the public interest in disclosing it. Contracting authorities should record and retain public interest test justifications where these have been undertaken.",
+      "ordinal": 91,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority",
+        "Exemptions from duties to publish or disclose information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00092",
+      "block_type": "heading",
+      "text": "Protected information in relation to connected persons",
+      "ordinal": 92,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority",
+        "Protected information in relation to connected persons"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00093",
+      "block_type": "p",
+      "text": "40. When publishing a contract award notice, contracting authorities have a duty to publish information about a supplier’s associated person(s) (as defined in section 26(4) ) and connected person(s) (as set out in regulation 11 ).",
+      "ordinal": 93,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority",
+        "Protected information in relation to connected persons"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00094",
+      "block_type": "p",
+      "text": "41. Depending on the type of connected person, this may include their name, date of birth, nationality and service address (which could be the same as their personal address). In most instances, this information will already be available on Companies House and therefore there should be no sensitivity around its publication.",
+      "ordinal": 94,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority",
+        "Protected information in relation to connected persons"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00095",
+      "block_type": "p",
+      "text": "42. Regulation 27(4-6) makes provision for circumstances where disclosure of information about a connected person could place that person or anyone living with them at risk. These provisions are modelled on the Register of People with Significant Control Regulations 2016 (the ‘2016 Regulations’) but apply to all connected persons under the Act. Contracting authorities should check with the suppliers that the details they share on connected persons are publishable, or if they are exempted from publication by the 2016 Regulations.",
+      "ordinal": 95,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority",
+        "Protected information in relation to connected persons"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00096",
+      "block_type": "p",
+      "text": "43. Where a connected person is a person with significant control (PSC) under the Companies Act 2006 , and information relating to them is omitted from the PSC register established under that Act in accordance with regulation 33(1) of the 2016 Regulations, a contracting authority is not required to publish their information.",
+      "ordinal": 96,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority",
+        "Protected information in relation to connected persons"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00097",
+      "block_type": "p",
+      "text": "44. Where a connected person is not a PSC, a contracting authority is nevertheless not required to publish their information where that individual has confirmed in writing to the contracting authority that they are reasonably of the view that:",
+      "ordinal": 97,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority",
+        "Protected information in relation to connected persons"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00098",
+      "block_type": "p",
+      "text": "a. the activities of the company to whom they are connected; or",
+      "ordinal": 98,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority",
+        "Protected information in relation to connected persons"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00099",
+      "block_type": "p",
+      "text": "b. one or more characteristics or personal attributes of the applicant when associated with that company;",
+      "ordinal": 99,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority",
+        "Protected information in relation to connected persons"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00100",
+      "block_type": "p",
+      "text": "will put the applicant or a person living with the applicant at serious risk of being subjected to violence or intimidation. This could be the case, for example, if the supplier is operating in a controversial industry such as certain life sciences.",
+      "ordinal": 100,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority",
+        "Protected information in relation to connected persons"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00101",
+      "block_type": "p",
+      "text": "45. Where information about connected persons is protected from disclosure on the PSC register under the 2016 Regulations, contracting authorities should indicate that there is a PSC (by stating this in the relevant notice) but not provide any details.",
+      "ordinal": 101,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority",
+        "Protected information in relation to connected persons"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00102",
+      "block_type": "heading",
+      "text": "Data Protection",
+      "ordinal": 102,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority",
+        "Data Protection"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00103",
+      "block_type": "p",
+      "text": "46. Some of the information which may be published in accordance with the Act and regulations may amount to personal data. This could be the case where, for example, a contracting authority is required to publish the name of a connected person in a contract award notice.",
+      "ordinal": 103,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority",
+        "Data Protection"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00104",
+      "block_type": "p",
+      "text": "47. Publishing personal data is a form of processing, and Article 5(1) of the UK General Data Protection Regulation (‘GDPR’) requires that, amongst other things, personal data must be processed lawfully. Article 6(1)(c) provides that personal data is processed lawfully where it is processed in accordance with a legal obligation. The obligations placed on contracting authorities by the Act and regulations therefore permit the publication of personal data where this is done in accordance with the Act and regulations. Section 99 of the Act makes this clear: it provides that the Act does not authorise or require any disclosure of information which would contravene data protection legislation (including the GDPR) but notes that account must be taken of the duties under the Act; that is to say that where the Act (and the regulations) require publication, this must be done in accordance with data protection legislation but does not in and of itself contravene that legislation. However, the Data Protection Act 2018 and GDPR do still apply to all other information that is published and must be considered by contracting authorities.",
+      "ordinal": 104,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority",
+        "Data Protection"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00105",
+      "block_type": "p",
+      "text": "48. When considering whether to disclose information about any individual, contracting authorities must think about whether that could expose them to attention outside the expectations or responsibilities of that individual and whether mitigating action can be taken. For example, in relation to contracting authority staff, contracting authorities can elect to use a group mailbox/contact centre details rather than providing the details of an individual procurement officer.",
+      "ordinal": 105,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority",
+        "Data Protection"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00106",
+      "block_type": "heading",
+      "text": "Alternative procedure for publication of information",
+      "ordinal": 106,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority",
+        "Alternative procedure for publication of information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00107",
+      "block_type": "p",
+      "text": "49. Regulation 5(5) establishes an alternative procedure for publication of information which can be used where the following conditions are met:",
+      "ordinal": 107,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority",
+        "Alternative procedure for publication of information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00108",
+      "block_type": "p",
+      "text": "a. the contracting authority has not received confirmation that the notice or document has successfully been published on the central digital platform; and",
+      "ordinal": 108,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority",
+        "Alternative procedure for publication of information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00109",
+      "block_type": "p",
+      "text": "b. the notice or document is not capable of being viewed by members of the public on the central digital platform;",
+      "ordinal": 109,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority",
+        "Alternative procedure for publication of information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00110",
+      "block_type": "p",
+      "text": "and;",
+      "ordinal": 110,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority",
+        "Alternative procedure for publication of information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00111",
+      "block_type": "p",
+      "text": "c. no less than 48 hours have passed since the notice or document was submitted to the central digital platform; or",
+      "ordinal": 111,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority",
+        "Alternative procedure for publication of information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00112",
+      "block_type": "p",
+      "text": "d. in the case of the notice being published pursuant to Schedule 5, paragraphs 13 or 14 (urgency) or pursuant to regulations made under section 42 of the Act (direct award to protect life, etc.), no less than 4 hours have passed since the notice was submitted to the central digital platform.",
+      "ordinal": 112,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority",
+        "Alternative procedure for publication of information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00113",
+      "block_type": "p",
+      "text": "50. Where these conditions are met, contracting authorities may publish notices on an alternative online system (such as a local or devolved procurement portal or public website). This alternative online system must be free of charge and readily accessible to suppliers and to people with disabilities.",
+      "ordinal": 113,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority",
+        "Alternative procedure for publication of information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00114",
+      "block_type": "p",
+      "text": "51. Contracting authorities should be able to manage their publications and procurements around any planned maintenance, which will be advertised in advance.",
+      "ordinal": 114,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority",
+        "Alternative procedure for publication of information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00115",
+      "block_type": "p",
+      "text": "52. Where a contracting authority has published a notice on an alternative online system in accordance with regulation 5(5) , publication is determined to have taken place for the time being as if the notice had been published on the central digital platform. This means that time periods triggered by publication of a notice, such as tendering periods and standstill, can continue as if publication had taken place on the central digital platform.",
+      "ordinal": 115,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority",
+        "Alternative procedure for publication of information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00116",
+      "block_type": "p",
+      "text": "53. When publishing on an alternative online system, contracting authorities must ensure the notice contains all of the information required by the regulations. The only exception is the provision of the unique identifiers which do not need to be included until the notice is subsequently published on the central digital platform.",
+      "ordinal": 116,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority",
+        "Alternative procedure for publication of information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00117",
+      "block_type": "p",
+      "text": "54. When publishing to an alternative online system, contracting authorities should consider what further steps can be taken to ensure that the market is aware of the publication, especially if the notice is inviting suppliers to submit a tender or request to participate. Appropriate steps might be, for example, setting out on the organisation’s website or buyer profile where such notices can be accessed in these circumstances and/or notifying suppliers directly who have previously expressed an interest or been engaged in earlier stages of the process that publication has taken place, as well as extending any deadlines relating to the procurement process.",
+      "ordinal": 117,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority",
+        "Alternative procedure for publication of information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00118",
+      "block_type": "p",
+      "text": "55. Once the central digital platform is available, contracting authorities must ensure that the notice or document in question is subsequently:",
+      "ordinal": 118,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority",
+        "Alternative procedure for publication of information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00119",
+      "block_type": "p",
+      "text": "a. published on the central digital platform; and",
+      "ordinal": 119,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority",
+        "Alternative procedure for publication of information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00120",
+      "block_type": "p",
+      "text": "b. capable of being accessed by members of the public on the central digital platform.",
+      "ordinal": 120,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority",
+        "Alternative procedure for publication of information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00121",
+      "block_type": "p",
+      "text": "56. Contracting authorities are not required to remove the notice from the alternative place of publication once it has been published on the central digital platform, but it would be advisable to ensure that any interested parties are aware that further information about the procurement will be published on the central digital platform.",
+      "ordinal": 121,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority",
+        "Alternative procedure for publication of information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00122",
+      "block_type": "p",
+      "text": "57. A notice that has been published on an alternative online system is no longer to be treated as being published if it is subsequently submitted to the central digital platform and is rejected by the Cabinet Office. If this is the case then the contracting authority must publish a valid notice to continue with the procurement. Depending on the stage of the procurement, the contracting authority should consider whether any further action is required, for example restarting the procurement or extending time periods.",
+      "ordinal": 122,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Publication of notices and other information by the contracting authority",
+        "Alternative procedure for publication of information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00123",
+      "block_type": "heading",
+      "text": "Supplier information",
+      "ordinal": 123,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Supplier information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00124",
+      "block_type": "p",
+      "text": "58. A key objective of the Act is to reduce the burden on suppliers by storing ‘core supplier information’ in one place: the central digital platform. Core supplier information is the data that is required for every procurement and that usually remains relatively unchanged from procurement to procurement, such as the supplier’s address.",
+      "ordinal": 124,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Supplier information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00125",
+      "block_type": "p",
+      "text": "59. The core supplier information defined in the regulations ( regulation 6 ) is divided into four key categories of information and covers (in summary):",
+      "ordinal": 125,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Supplier information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00126",
+      "block_type": "p",
+      "text": "a. supplier information: basic information. This includes (and is not limited to) the supplier’s name, unique identifier, address, VAT number (if applicable), legal form and date of company registration (if applicable), details of qualifications/trade associations and classification, for example whether the supplier is an SME and/or a public service mutual;",
+      "ordinal": 126,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Supplier information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00127",
+      "block_type": "p",
+      "text": "b. supplier information: economic and financial standing as set out in the supplier’s most recent financial accounts;",
+      "ordinal": 127,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Supplier information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00128",
+      "block_type": "p",
+      "text": "c. supplier information: connected persons. This includes (but is not limited to) information relating to relevant connected persons such as names, date of birth and nationality, service address and legal form.",
+      "ordinal": 128,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Supplier information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00129",
+      "block_type": "p",
+      "text": "d. supplier information: exclusion grounds. This includes information relating to relevant convictions and events that form either a mandatory or discretionary exclusion ground under the Act.",
+      "ordinal": 129,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Supplier information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00130",
+      "block_type": "p",
+      "text": "60. Regulation 6 requires contracting authorities to obtain confirmation from suppliers that they have registered on the central digital platform, submitted their up-to-date core supplier information and have shared it via the central digital platform. Regulation 6(3-4) set out the latest point where this should be done (this is described further below) but contracting authorities can set an earlier deadline if required. This centrally-stored core supplier information will be submitted (and re-submitted) to contracting authorities by suppliers as directed by the contracting authority.",
+      "ordinal": 130,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Supplier information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00131",
+      "block_type": "p",
+      "text": "61. In order to meet this requirement, the conditions of participation should set out that suppliers will be required to register and submit their core supplier information through the central digital platform and when this must take place.",
+      "ordinal": 131,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Supplier information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00132",
+      "block_type": "p",
+      "text": "62. Once registered, suppliers can complete the core supplier information in advance or in response to a specific procurement opportunity. Suppliers will be able to update and add to this information and may upload supporting documents. Before submitting information to contracting authorities as directed, suppliers should check the information carefully, updating where required.",
+      "ordinal": 132,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Supplier information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00133",
+      "block_type": "p",
+      "text": "63. Contracting authorities may wish to request information that is not set out in the regulations and therefore not stored in supplier information on the central digital platform; this should be requested separately from the supplier. Where information that is set out in the regulations is missing from the central digital platform, contracting authorities must not request it separately and should instead request that suppliers provide that information via the central digital platform. See guidance on conditions of participation for further information.",
+      "ordinal": 133,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Supplier information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00134",
+      "block_type": "p",
+      "text": "64. When conducting covered procurements, certain information contained within supplier information will be required in subsequent notices as set out in the regulations.",
+      "ordinal": 134,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Supplier information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00135",
+      "block_type": "p",
+      "text": "65. If the supplier provides updated or corrected information to the contracting authority before the contracting authority decides to whom to award the contract, the contracting authority must obtain further confirmation that the supplier has updated and shared its information via the central digital platform ( regulation 6(6)(b) ).",
+      "ordinal": 135,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Supplier information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00136",
+      "block_type": "heading",
+      "text": "Supplier information under competitive tendering procedures",
+      "ordinal": 136,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Supplier information",
+        "Supplier information under competitive tendering procedures"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00137",
+      "block_type": "p",
+      "text": "66. When undertaking a competitive tendering procedure, core supplier information should be requested before the end of the tendering period, as this is the deadline by which the contracting authority must have obtained confirmation that the supplier has taken the necessary steps. This allows the information to be used as part of the assessment of supplier suitability.",
+      "ordinal": 137,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Supplier information",
+        "Supplier information under competitive tendering procedures"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00138",
+      "block_type": "heading",
+      "text": "Supplier information in competitive selection processes for the award of a contract under a framework",
+      "ordinal": 138,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Supplier information",
+        "Supplier information in competitive selection processes for the award of a contract under a framework"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00139",
+      "block_type": "p",
+      "text": "67. Contracting authorities should obtain supplier information through the central digital platform as part of a competitive selection process for the award of call-off contracts ( section 46 ). Contracting authorities must have obtained confirmation that a supplier has taken the necessary steps before the decision to award the contract is made.",
+      "ordinal": 139,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Supplier information",
+        "Supplier information in competitive selection processes for the award of a contract under a framework"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00140",
+      "block_type": "heading",
+      "text": "Supplier information when establishing a dynamic market",
+      "ordinal": 140,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Supplier information",
+        "Supplier information when establishing a dynamic market"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00141",
+      "block_type": "p",
+      "text": "68. There is no requirement for the contracting authority to use the central digital platform to obtain supplier information when establishing a dynamic market. However, contracting authorities will need to set out the details of each supplier that has been admitted to the dynamic market, both upon establishment and whenever new suppliers are admitted, and this must include an identifier which can only be obtained by registering on the platform. It is therefore recommended that contracting authorities obtain supplier information from those suppliers being assessed for admittance to the dynamic market through the central digital platform.",
+      "ordinal": 141,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Supplier information",
+        "Supplier information when establishing a dynamic market"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00142",
+      "block_type": "heading",
+      "text": "Direct award under sections 41 or 43 of the Act",
+      "ordinal": 142,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Supplier information",
+        "Direct award under sections 41 or 43 of the Act"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00143",
+      "block_type": "p",
+      "text": "69. Contracting authorities have a duty to identify whether a supplier to be awarded a contract under sections 41 or 43 is an excluded supplier. With the exception of direct award in the case of urgency (see paragraph below), contracting authorities will, as a matter of practice, need to obtain core supplier information either before the transparency notice is published (as this will usually identify the supplier to be awarded the contract) or before the contract award notice is published. The contracting authority must have confirmation that the supplier has taken the necessary steps in relation to supplier information before it awards the contract.",
+      "ordinal": 143,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Supplier information",
+        "Direct award under sections 41 or 43 of the Act"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00144",
+      "block_type": "heading",
+      "text": "Direct award in the case of urgency",
+      "ordinal": 144,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Supplier information",
+        "Direct award in the case of urgency"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00145",
+      "block_type": "p",
+      "text": "70. In respect of a direct award in the case of urgency ( Schedule 5, paragraphs 13 and 14 ), contracting authorities may not be able to wait for a supplier to register, complete and submit core supplier information through the central digital platform before contract award. Regulation 7(4) requires contracting authorities to ensure that the supplier registers and submit core supplier information via the central digital platform as soon as practicable and in any event before the date when the contract details notice (rather than the contract award notice) is published.",
+      "ordinal": 145,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Supplier information",
+        "Direct award in the case of urgency"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00146",
+      "block_type": "p",
+      "text": "71. Contracting authorities will still be expected to undertake due diligence to confirm the supplier’s eligibility and complete all of the required information in the transparency and contract award notices. The contracting authority is not required, in these circumstances, to obtain this information through the central digital platform.",
+      "ordinal": 146,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Supplier information",
+        "Direct award in the case of urgency"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00147",
+      "block_type": "p",
+      "text": "72. The contract award notice must include a supplier identifier which can only be achieved by registering on the platform. A supplier will be able to obtain an identifier without completing more than their basic supplier information ( regulation 9 ).",
+      "ordinal": 147,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Supplier information",
+        "Direct award in the case of urgency"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00148",
+      "block_type": "p",
+      "text": "73. Private utilities relying on Schedule 5, paragraphs 13 and 14 are not required to receive core supplier information through the central digital platform ( regulation 7(5) ).",
+      "ordinal": 148,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Supplier information",
+        "Direct award in the case of urgency"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00149",
+      "block_type": "heading",
+      "text": "Applicability of supplier information to below-threshold contracts",
+      "ordinal": 149,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Supplier information",
+        "Applicability of supplier information to below-threshold contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00150",
+      "block_type": "p",
+      "text": "74. Contracting authorities will need to ensure all suppliers awarded notifiable below-threshold contracts (as defined by section 87(4)):",
+      "ordinal": 150,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Supplier information",
+        "Applicability of supplier information to below-threshold contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00151",
+      "block_type": "p",
+      "text": "a. are registered with the central digital platform,",
+      "ordinal": 151,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Supplier information",
+        "Applicability of supplier information to below-threshold contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00152",
+      "block_type": "p",
+      "text": "b. have submitted specified information (as set out in regulation 36A) to the platform, and",
+      "ordinal": 152,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Supplier information",
+        "Applicability of supplier information to below-threshold contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00153",
+      "block_type": "p",
+      "text": "c. have provided the authority with their unique identifier as issued by the platform.",
+      "ordinal": 153,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Supplier information",
+        "Applicability of supplier information to below-threshold contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00154",
+      "block_type": "heading",
+      "text": "Alternative procedure for obtaining supplier information",
+      "ordinal": 154,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Supplier information",
+        "Alternative procedure for obtaining supplier information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00155",
+      "block_type": "p",
+      "text": "75. Unavailability of the central digital platform may mean that a supplier is not able to register on the central digital platform and submit its information to the contracting authority before the end of the tendering period for an open or competitive flexible procedure, meaning that a contracting authority cannot meet its obligation to ensure that these steps have taken place. If this occurs, the contracting authority must obtain confirmation that these steps have been taken as soon as practicable and in any event before the award of the contract. There is nothing to prevent the contracting authority requesting this information directly from the supplier in the meantime in order to be able to continue with the procurement but this information should be checked against that received from the central digital platform.",
+      "ordinal": 155,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Supplier information",
+        "Alternative procedure for obtaining supplier information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00156",
+      "block_type": "heading",
+      "text": "Record-keeping",
+      "ordinal": 156,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Record-keeping"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00157",
+      "block_type": "p",
+      "text": "76. Section 98 requires contracting authorities to keep records sufficient to explain a ‘material decision’ made for the purpose of awarding or entering into a public contract. Section 98 does not apply to defence and security contracts.",
+      "ordinal": 157,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Record-keeping"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00158",
+      "block_type": "p",
+      "text": "77. Section 98(2-4) explains that a material decision relates to a decision that the Act requires the contracting authority to make (including where the Act requires publication or provision of a notice or other information in respect of the decision). This might include, for example, recording decisions relating to application of the National Procurement Policy Statement or which barriers the contracting authority has identified in relation to access for small and medium-sized enterprises, decisions relating to how to ensure that incumbent suppliers are not granted an unfair advantage or where it has been decided to disqualify a supplier from participating further in a competitive tendering procedure.",
+      "ordinal": 158,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Record-keeping"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00159",
+      "block_type": "p",
+      "text": "78. It is unlikely that a notice by itself will be sufficient to discharge this obligation and contracting authorities must ensure that they keep their own records and not rely on the fact that they have published a notice on the central digital platform.",
+      "ordinal": 159,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Record-keeping"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00160",
+      "block_type": "p",
+      "text": "79. In addition, section 98(3) provides that a contracting authority must keep records of any communication between the authority and a supplier that is made:",
+      "ordinal": 160,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Record-keeping"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00161",
+      "block_type": "p",
+      "text": "a. in relation to the award or entry into of a public contract; and",
+      "ordinal": 161,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Record-keeping"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00162",
+      "block_type": "p",
+      "text": "b. before the contract is entered into.",
+      "ordinal": 162,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Record-keeping"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00163",
+      "block_type": "p",
+      "text": "80. Records kept under section 98 must be retained for either:",
+      "ordinal": 163,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Record-keeping"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00164",
+      "block_type": "p",
+      "text": "a. three years from the day the contract is entered into;",
+      "ordinal": 164,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Record-keeping"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00165",
+      "block_type": "p",
+      "text": "b. three years from the date the contract is awarded, if it is awarded but not subsequently entered into; or",
+      "ordinal": 165,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Record-keeping"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00166",
+      "block_type": "p",
+      "text": "c. where no contract is ultimately awarded under the procurement process in question, until the day the contracting authority gives notice of its intention not to award the contract, usually done via publication of a procurement termination notice.",
+      "ordinal": 166,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Record-keeping"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00167",
+      "block_type": "p",
+      "text": "81. Other legal duties may apply to data retention, archiving and disposal (some of which may require contracting authorities to keep records for longer than the 3 years specified in the Act). The retention, review and disposal of original records (including, where relevant, the transfer of public records to the National Archives) remains the responsibility of individual contracting authorities.",
+      "ordinal": 167,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "Record-keeping"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00168",
+      "block_type": "heading",
+      "text": "What other guidance is of particular relevance to this topic area?",
+      "ordinal": 168,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00169",
+      "block_type": "p",
+      "text": "In order to comply with the requirements relating to the publication and use of information on the central digital platform, contracting authorities will need to be familiar with the requirements for each of the notices which are explained in more detail in the full suite of guidance on the Act .",
+      "ordinal": 169,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00170",
+      "block_type": "p",
+      "text": "© Crown copyright 2024",
+      "ordinal": 170,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00171",
+      "block_type": "p",
+      "text": "This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated. To view this licence, visit nationalarchives.gov.uk/doc/open-government-licence/version/3",
+      "ordinal": 171,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00172",
+      "block_type": "p",
+      "text": "Where we have identified any third party copyright information you will need to obtain permission from the copyright holders concerned.",
+      "ordinal": 172,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00173",
+      "block_type": "p",
+      "text": "This publication is available at www.gov.uk/government/publications",
+      "ordinal": 173,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00174",
+      "block_type": "p",
+      "text": "Any enquiries regarding this publication should be sent to us at procurement.reform@cabinetoffice.gov.uk.",
+      "ordinal": 174,
+      "heading_path": [
+        "What is the legal framework that governs the central digital platform?",
+        "Key points and policy intent",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "Procurement Act 2023 (Act)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/contents",
+      "block_id": "b00001",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement Regulations 2024",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/contents",
+      "block_id": "b00001",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "https://www.find-tender.service.gov.uk/",
+      "href": "https://www.find-tender.service.gov.uk/",
+      "block_id": "b00001",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Regulation 5",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/5",
+      "block_id": "b00010",
+      "ordinal": 3,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Regulation 6",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/6",
+      "block_id": "b00011",
+      "ordinal": 4,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Sections 94, 98 and 99",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/part/8",
+      "block_id": "b00012",
+      "ordinal": 5,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulations 15-41",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/part/2",
+      "block_id": "b00012",
+      "ordinal": 6,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 94",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/94",
+      "block_id": "b00021",
+      "ordinal": 7,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 99",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/99",
+      "block_id": "b00021",
+      "ordinal": 8,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 94",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/94",
+      "block_id": "b00022",
+      "ordinal": 9,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Freedom of Information Act 2000 (FOIA)",
+      "href": "https://www.legislation.gov.uk/ukpga/2000/36/contents",
+      "block_id": "b00022",
+      "ordinal": 10,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 8",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/8",
+      "block_id": "b00026",
+      "ordinal": 11,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 35(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/35",
+      "block_id": "b00033",
+      "ordinal": 12,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "remedies",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-remedies-html",
+      "block_id": "b00065",
+      "ordinal": 13,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 94",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/94",
+      "block_id": "b00071",
+      "ordinal": 14,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 94",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/94",
+      "block_id": "b00071",
+      "ordinal": 15,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 94(1)(a)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/94",
+      "block_id": "b00072",
+      "ordinal": 16,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 94(1)(b)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/94",
+      "block_id": "b00078",
+      "ordinal": 17,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 94(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/94",
+      "block_id": "b00078",
+      "ordinal": 18,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 26(4)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/26",
+      "block_id": "b00093",
+      "ordinal": 19,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 11",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/11",
+      "block_id": "b00093",
+      "ordinal": 20,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Regulation 27(4-6)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/27",
+      "block_id": "b00095",
+      "ordinal": 21,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Register of People with Significant Control Regulations 2016",
+      "href": "https://www.legislation.gov.uk/uksi/2016/339/contents",
+      "block_id": "b00095",
+      "ordinal": 22,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Companies Act 2006",
+      "href": "https://www.legislation.gov.uk/ukpga/2006/46/contents",
+      "block_id": "b00096",
+      "ordinal": 23,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 33(1)",
+      "href": "https://www.legislation.gov.uk/uksi/2016/339/regulation/33",
+      "block_id": "b00096",
+      "ordinal": 24,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 99",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/99",
+      "block_id": "b00104",
+      "ordinal": 25,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Data Protection Act 2018",
+      "href": "https://www.legislation.gov.uk/ukpga/2018/12/contents",
+      "block_id": "b00104",
+      "ordinal": 26,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Regulation 5(5)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/5",
+      "block_id": "b00107",
+      "ordinal": 27,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 5, paragraphs 13 or 14",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/5",
+      "block_id": "b00112",
+      "ordinal": 28,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 42",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/42",
+      "block_id": "b00112",
+      "ordinal": 29,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 5(5)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/5",
+      "block_id": "b00115",
+      "ordinal": 30,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 6",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/6",
+      "block_id": "b00125",
+      "ordinal": 31,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Regulation 6",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/6",
+      "block_id": "b00130",
+      "ordinal": 32,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Regulation 6(3-4)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/6",
+      "block_id": "b00130",
+      "ordinal": 33,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "conditions of participation",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-conditions-of-participation-html",
+      "block_id": "b00133",
+      "ordinal": 34,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 6(6)(b)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/6",
+      "block_id": "b00135",
+      "ordinal": 35,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 46",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/46",
+      "block_id": "b00139",
+      "ordinal": 36,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "sections 41 or 43",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/part/3/chapter/3",
+      "block_id": "b00142",
+      "ordinal": 37,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "sections 41 or 43",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/part/3/chapter/3",
+      "block_id": "b00143",
+      "ordinal": 38,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 5, paragraphs 13 and 14",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/5",
+      "block_id": "b00145",
+      "ordinal": 39,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Regulation 7(4)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/7",
+      "block_id": "b00145",
+      "ordinal": 40,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 9",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/9",
+      "block_id": "b00147",
+      "ordinal": 41,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 5, paragraphs 13 and 14",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/5",
+      "block_id": "b00148",
+      "ordinal": 42,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 7(5)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/7",
+      "block_id": "b00148",
+      "ordinal": 43,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 98",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/98",
+      "block_id": "b00157",
+      "ordinal": 44,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 98",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/98",
+      "block_id": "b00157",
+      "ordinal": 45,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 98(2-4)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/98",
+      "block_id": "b00158",
+      "ordinal": 46,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 98(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/98",
+      "block_id": "b00160",
+      "ordinal": 47,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 98",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/98",
+      "block_id": "b00163",
+      "ordinal": 48,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "guidance on the Act",
+      "href": "https://www.gov.uk/government/collections/procurement-act-2023-guidance-documents",
+      "block_id": "b00169",
+      "ordinal": 49,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "nationalarchives.gov.uk/doc/open-government-licence/version/3",
+      "href": "http://nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "block_id": "b00171",
+      "ordinal": 50,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "www.gov.uk/government/publications",
+      "href": "http://www.gov.uk/government/publications",
+      "block_id": "b00173",
+      "ordinal": 51,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Guidance: Central Digital Platform and Publication of Information (HTML)",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-central-digital-platform-and-publication-of-information-html",
+      "block_id": "__document__",
+      "ordinal": 52,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2022 to 2024 Sunak Conservative government",
+      "href": "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 53,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 54,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Procurement Act 2023 guidance documents - Procure phase",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase",
+      "block_id": "__document__",
+      "ordinal": 55,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 56,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2024 (regulations)",
+      "block_id": "b00001",
+      "start": 95,
+      "end": 125,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2024",
+        "tail": " (regulations)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 5",
+      "block_id": "b00010",
+      "start": 3,
+      "end": 15,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "5"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 6",
+      "block_id": "b00011",
+      "start": 3,
+      "end": 15,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "6"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 58",
+      "block_id": "b00011",
+      "start": 148,
+      "end": 160,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "58"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Sections 94",
+      "block_id": "b00012",
+      "start": 3,
+      "end": 14,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "94"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulations 15",
+      "block_id": "b00012",
+      "start": 282,
+      "end": 296,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "15"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 112",
+      "block_id": "b00020",
+      "start": 43,
+      "end": 57,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "112"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015 (PCR)",
+      "block_id": "b00020",
+      "start": 82,
+      "end": 104,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015",
+        "tail": " (PCR)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 94",
+      "block_id": "b00021",
+      "start": 117,
+      "end": 127,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "94"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 99",
+      "block_id": "b00021",
+      "start": 193,
+      "end": 203,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "99"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 94",
+      "block_id": "b00022",
+      "start": 99,
+      "end": 109,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "94"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 8",
+      "block_id": "b00026",
+      "start": 273,
+      "end": 285,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "8"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 35(3)",
+      "block_id": "b00033",
+      "start": 90,
+      "end": 103,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "35",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 59",
+      "block_id": "b00047",
+      "start": 237,
+      "end": 249,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "59"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 94",
+      "block_id": "b00071",
+      "start": 124,
+      "end": 134,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "94"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 94",
+      "block_id": "b00071",
+      "start": 179,
+      "end": 189,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "94"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 94(1)(a)",
+      "block_id": "b00072",
+      "start": 23,
+      "end": 39,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "94",
+        "tail": "(1)(a)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 94(1)(b)",
+      "block_id": "b00078",
+      "start": 38,
+      "end": 54,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "94",
+        "tail": "(1)(b)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 94(2)",
+      "block_id": "b00078",
+      "start": 285,
+      "end": 298,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "94",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 26(4)",
+      "block_id": "b00093",
+      "start": 159,
+      "end": 172,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "26",
+        "tail": "(4)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 11",
+      "block_id": "b00093",
+      "start": 214,
+      "end": 227,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "11"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 27",
+      "block_id": "b00095",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "27"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2016",
+      "block_id": "b00095",
+      "start": 255,
+      "end": 271,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2016"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 33(1)",
+      "block_id": "b00096",
+      "start": 215,
+      "end": 231,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "33",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 99",
+      "block_id": "b00104",
+      "start": 521,
+      "end": 531,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "99"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 5(5)",
+      "block_id": "b00107",
+      "start": 4,
+      "end": 19,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "5",
+        "tail": "(5)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 42",
+      "block_id": "b00112",
+      "start": 137,
+      "end": 147,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "42"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 5",
+      "block_id": "b00112",
+      "start": 57,
+      "end": 67,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "5"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraphs 13",
+      "block_id": "b00112",
+      "start": 69,
+      "end": 82,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "13"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 5(5)",
+      "block_id": "b00115",
+      "start": 108,
+      "end": 123,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "5",
+        "tail": "(5)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 6",
+      "block_id": "b00125",
+      "start": 63,
+      "end": 75,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "6"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 6",
+      "block_id": "b00130",
+      "start": 4,
+      "end": 16,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "6"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 6",
+      "block_id": "b00130",
+      "start": 253,
+      "end": 265,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "6"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 6(6)(b)",
+      "block_id": "b00135",
+      "start": 314,
+      "end": 332,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "6",
+        "tail": "(6)(b)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 46",
+      "block_id": "b00139",
+      "start": 181,
+      "end": 191,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "46"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "sections 41",
+      "block_id": "b00142",
+      "start": 19,
+      "end": 30,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "41"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "sections 41",
+      "block_id": "b00143",
+      "start": 102,
+      "end": 113,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "41"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 7(4)",
+      "block_id": "b00145",
+      "start": 276,
+      "end": 291,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "7",
+        "tail": "(4)"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 5",
+      "block_id": "b00145",
+      "start": 58,
+      "end": 68,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "5"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraphs 13",
+      "block_id": "b00145",
+      "start": 70,
+      "end": 83,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "13"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 9",
+      "block_id": "b00147",
+      "start": 236,
+      "end": 248,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "9"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 7(5)",
+      "block_id": "b00148",
+      "start": 159,
+      "end": 174,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "7",
+        "tail": "(5)"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 5",
+      "block_id": "b00148",
+      "start": 33,
+      "end": 43,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "5"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraphs 13",
+      "block_id": "b00148",
+      "start": 45,
+      "end": 58,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "13"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 87(4)",
+      "block_id": "b00150",
+      "start": 122,
+      "end": 135,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "87",
+        "tail": "(4)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 36A",
+      "block_id": "b00152",
+      "start": 55,
+      "end": 69,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "36A"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 98",
+      "block_id": "b00157",
+      "start": 4,
+      "end": 14,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "98"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 98",
+      "block_id": "b00157",
+      "start": 177,
+      "end": 187,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "98"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 98",
+      "block_id": "b00158",
+      "start": 4,
+      "end": 14,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "98"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 98(3)",
+      "block_id": "b00160",
+      "start": 17,
+      "end": 30,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "98",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 98",
+      "block_id": "b00163",
+      "start": 23,
+      "end": 33,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "98"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

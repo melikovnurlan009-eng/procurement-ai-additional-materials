@@ -1,0 +1,108 @@
+{
+  "document_id": "44e4259e0ab5b4886dc4decc",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "html",
+  "source_path": "corpus_ingest_v2/raw/9e5f3172877e72fd2632cee3.html",
+  "input_sha256": "4d649adeab32715d7fd77918f430ac68e42b6529cd491a930385fbffc4a8fdc1",
+  "processed_at": "2026-08-27T02:26:33.962505+00:00",
+  "title": "Case Studies | Procurement Journey",
+  "canonical_url": "https://www.procurementjourney.scot/tools-templates/case-studies",
+  "description": null,
+  "publication_date": null,
+  "updated_date": null,
+  "source_metadata": {
+    "html_lang": "en"
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Managed Print Services",
+      "ordinal": 2
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Circular Economy",
+      "ordinal": 5
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "li",
+      "text": "View PDF",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "Case study",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "heading",
+      "text": "Managed Print Services",
+      "ordinal": 2,
+      "heading_path": [
+        "Managed Print Services"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "A case study from Fife Council.",
+      "ordinal": 3,
+      "heading_path": [
+        "Managed Print Services"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "The objective was to promote the social, economic and environmental well-being of the community by introducing digital transformation that drives efficiencies and cost savings and is focused on employees and citizens.",
+      "ordinal": 4,
+      "heading_path": [
+        "Managed Print Services"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "heading",
+      "text": "Circular Economy",
+      "ordinal": 5,
+      "heading_path": [
+        "Managed Print Services",
+        "Circular Economy"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "View PDF",
+      "href": "https://www.procurementjourney.scot/print/pdf/node/387",
+      "block_id": "b00000",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    }
+  ],
+  "legal_references": [],
+  "attachments": [],
+  "warnings": []
+}

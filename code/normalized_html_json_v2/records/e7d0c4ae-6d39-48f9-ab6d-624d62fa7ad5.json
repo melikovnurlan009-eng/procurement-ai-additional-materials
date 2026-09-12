@@ -1,0 +1,147 @@
+{
+  "document_id": "e7d0c4ae-6d39-48f9-ab6d-624d62fa7ad5",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/f928cdd803d36801a95885f9.json",
+  "input_sha256": "b5c914ae0f09bbfba6efeaf6eab03f6d7a0e6effd544ba897429fb388e8d32f0",
+  "processed_at": "2026-08-27T02:26:48.656271+00:00",
+  "title": "Procurement Policy Note 18/15: New Threshold Levels 2016",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-policy-note-1815-new-threshold-levels-2016",
+  "description": "This Procurement Policy Note (PPN) [and guidance / documents] is now out of date",
+  "publication_date": "2015-12-10T18:12:00+00:00",
+  "updated_date": "2023-01-31T17:00:11+00:00",
+  "source_metadata": {
+    "content_id": "e7d0c4ae-6d39-48f9-ab6d-624d62fa7ad5",
+    "base_path": "/government/publications/procurement-policy-note-1815-new-threshold-levels-2016",
+    "document_type": "guidance",
+    "schema_name": "publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "This Procurement Policy Note (PPN) is now out of date. Please refer to PPN 10/21: Thresholds & Inclusion of VAT",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "This Procurement Policy Note sets out the new threshold levels to apply for the purposes of the Public Contracts Regulations . They come into force on 1 January 2016.",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "This note applies to all contracting authorities, as defined by the Regulations. This will include all central government departments, their executive agencies, non-departmental public bodies and the wider public sector.",
+      "ordinal": 2,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "This note also contains information relevant to utilities as defined by the Utilities Contracts Regulations .",
+      "ordinal": 3,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "Public Contracts Regulations",
+      "href": "http://www.legislation.gov.uk/uksi/2015/102/contents/made",
+      "block_id": "b00001",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Utilities Contracts Regulations",
+      "href": "http://www.legislation.gov.uk/uksi/2006/6/contents/made",
+      "block_id": "b00003",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement Policy Note 18/15: New Threshold Levels 2016",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-1815-new-threshold-levels-2016",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "Procurement policy notes",
+      "href": "https://www.gov.uk/government/collections/procurement-policy-notes",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_DOCUMENT_COLLECTIONS"
+    },
+    {
+      "text": "2015 to 2016 Cameron Conservative government",
+      "href": "https://www.gov.uk/government/2015-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Crown Commercial Service",
+      "href": "https://www.gov.uk/government/organisations/crown-commercial-service",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 7,
+      "link_type": "GOVUK_ORIGINAL_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 8,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Government spending",
+      "href": "https://www.gov.uk/government/government-spending",
+      "block_id": "__document__",
+      "ordinal": 9,
+      "link_type": "GOVUK_TAXONS"
+    }
+  ],
+  "legal_references": [],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/5a80492340f0b623026929b9/PPN_1815_New_Thresholds_2016.pdf",
+      "title": "Procurement Policy Note: new threshold levels 2016",
+      "content_type": "application/pdf",
+      "filename": "PPN_1815_New_Thresholds_2016.pdf",
+      "id": "7142235",
+      "logical_role": "ATTACHMENT"
+    }
+  ],
+  "warnings": []
+}

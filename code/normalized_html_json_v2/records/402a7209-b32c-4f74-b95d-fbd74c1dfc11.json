@@ -1,0 +1,2085 @@
+{
+  "document_id": "402a7209-b32c-4f74-b95d-fbd74c1dfc11",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/0c3452bafd4c7adbef69866c.json",
+  "input_sha256": "9fc2bc2637060546be69bc0ec023d19ef816e9529e9acb06323b82191dd28390",
+  "processed_at": "2026-08-27T02:26:04.537178+00:00",
+  "title": "PPN 021: Guidance on how to conduct a Payment Spot Check under a public sub-contract  (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/ppn-021-payment-spot-checks-in-public-sub-contracts/ppn-021-guidance-on-how-to-conduct-a-payment-spot-check-under-a-public-sub-contract-html",
+  "description": null,
+  "publication_date": "2025-04-24T12:00:10+01:00",
+  "updated_date": "2025-10-08T13:13:57+01:00",
+  "source_metadata": {
+    "content_id": "402a7209-b32c-4f74-b95d-fbd74c1dfc11",
+    "base_path": "/government/publications/ppn-021-payment-spot-checks-in-public-sub-contracts/ppn-021-guidance-on-how-to-conduct-a-payment-spot-check-under-a-public-sub-contract-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Introduction",
+      "ordinal": 2,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Scope",
+      "ordinal": 4,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Overview",
+      "ordinal": 7,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Commencing a payment spot check",
+      "ordinal": 10,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Checklist for conducting a payment spot check",
+      "ordinal": 16,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Conducting a payment spot check",
+      "ordinal": 18,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Publishing payment spot check outcomes",
+      "ordinal": 28,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Annex A: Example contractual terms",
+      "ordinal": 38,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Example definitions",
+      "ordinal": 41,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "1. Supply chain payment period compliance",
+      "ordinal": 49,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Annex B: Payment spot checks example request letter",
+      "ordinal": 57,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Annex C: Payment spot checks process",
+      "ordinal": 71,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Task",
+      "ordinal": 72,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Before contract award",
+      "ordinal": 73,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Requesting payment spot checks data",
+      "ordinal": 75,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Reviewing payment spot checks data",
+      "ordinal": 78,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Responding to the supplier",
+      "ordinal": 83,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Reporting payment spot checks outcomes",
+      "ordinal": 87,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Annex D: Frequently Asked Questions",
+      "ordinal": 89,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "1. Does this policy apply to framework agreements or dynamic markets?",
+      "ordinal": 90,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "2. Can in-scope organisations use different contractual terms to the ones provided?",
+      "ordinal": 94,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "3. What if in-scope organisations already require contract terms that meet the requirements of Procurement Act 2023 in all sub-contracts, such as NEC3 model contracts?",
+      "ordinal": 96,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "4. What in-scope organisations should be carrying out spot checks?",
+      "ordinal": 98,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "5. If an in-scope organisation has many contracts with the same supplier, does it need to check each contract every six months?",
+      "ordinal": 100,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "6. What if a supplier does not respond to an in-scope organisation within 20 working days?",
+      "ordinal": 102,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "7. Why are only 10 invoices reviewed when large suppliers may have hundreds of invoices?",
+      "ordinal": 105,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "8. What is considered suitable evidence of 30 day payment terms?",
+      "ordinal": 108,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "9. What is considered suitable evidence of having procedures in place for resolving disputed invoices promptly and effectively and sharing these with sub-contractors?",
+      "ordinal": 111,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "10. What are prompt and effective procedures for resolving disputed invoices and how should these be shared with sub-contractors?",
+      "ordinal": 114,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "11. What action should an in-scope organisation take if a supplier is not complying with the payment spot check or the terms of the Procurement Act 2023?",
+      "ordinal": 116,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "12. Do in-scope organisations need to tell suppliers when the spot checks are complete?",
+      "ordinal": 119,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Reporting spot checks outcomes",
+      "ordinal": 121,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "13. How should in-scope organisations report their payment spot checks outcomes?",
+      "ordinal": 122,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "14. Can in-scope organisations upload their spot checks outcomes in bulk?",
+      "ordinal": 124,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "15. What if a supplier does not want their information or outcomes published?",
+      "ordinal": 126,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "Issued: April 2025",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "Updated: October 2025",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "heading",
+      "text": "Introduction",
+      "ordinal": 2,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "1. This guidance supports Procurement Policy Note (PPN) 021 Payment spot checks in public sub-contracts. It sets out how in-scope organisations can conduct payment spot checks on their public supply chain to ensure suppliers comply with the payment requirements in the Procurement Act 2023.",
+      "ordinal": 3,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "heading",
+      "text": "Scope",
+      "ordinal": 4,
+      "heading_path": [
+        "Introduction",
+        "Scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "2. This guidance applies to all central government departments, their executive agencies and non-departmental public bodies. Such bodies are referred to as ‘in-scope organisations’.",
+      "ordinal": 5,
+      "heading_path": [
+        "Introduction",
+        "Scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "p",
+      "text": "3. An ‘in-scope contract’ is a public contract awarded under the Procurement Act 2023 where the tender notice or transparency notice (as applicable) was published on or after 1 October 2025, with one or more sub-contracts substantially for the purpose of performing (or contributing to the performance of) all or any part of that public contract, where the public contract is worth more than £5 million per annum (including VAT) and is awarded by an in-scope organisation. This does not include special regime contracts as defined in section 10(6) of the Procurement Act 2023 or contracts awarded by a school.",
+      "ordinal": 6,
+      "heading_path": [
+        "Introduction",
+        "Scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "heading",
+      "text": "Overview",
+      "ordinal": 7,
+      "heading_path": [
+        "Introduction",
+        "Overview"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "4. From 1 October 2025, in-scope organisations should include the example model terms in Annex A, or their own terms of equivalent meaning, within their in-scope contracts to enable payment spot checks. These terms could be after terms requiring payment within 30 days payment within 30 days in accordance with section 68(2) and terms requiring those 30-day payment terms to be included in any subsequent sub-contract that is wholly or substantially for the purposes of performing the public contract.",
+      "ordinal": 8,
+      "heading_path": [
+        "Introduction",
+        "Overview"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "5. The model terms set out in Annex A are also included in the model contracts.",
+      "ordinal": 9,
+      "heading_path": [
+        "Introduction",
+        "Overview"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "heading",
+      "text": "Commencing a payment spot check",
+      "ordinal": 10,
+      "heading_path": [
+        "Introduction",
+        "Commencing a payment spot check"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "6. In-scope organisations should carry out a payment spot check on in-scope contracts at least once every six months from the award date of a contract. Payment spot checks may be carried out more frequently, especially where a greater risk of non-compliance has been identified, such as the reasons outlined in paragraph 7.",
+      "ordinal": 11,
+      "heading_path": [
+        "Introduction",
+        "Commencing a payment spot check"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "7. In-scope organisations may choose to conduct additional payment spot checks on a specific contract or supplier for example, if there has been poor performance in a prior payment spot check, a specific issue has been raised with the contracting authority, or the authority has assessed there to be an increased risk of poor performance with a specific contract, supplier, or sector. A specific risk may include suppliers or sectors with long payment terms as standard, historic liquidity issues, or prior complaints with the contracting authority.",
+      "ordinal": 12,
+      "heading_path": [
+        "Introduction",
+        "Commencing a payment spot check"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "8. If a contracting authority has more than one in-scope contract with the same supplier it may instead conduct payment spot checks on either five or 25% of the supplier’s contracts with the authority, whichever is greater.",
+      "ordinal": 13,
+      "heading_path": [
+        "Introduction",
+        "Commencing a payment spot check"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "9. As set out in paragraph 3, payment spot checks should only be carried out on contracts with sub-contracts which are substantially for the purpose of performing (or contributing to the performance of) all or any part of a public contract awarded by a contracting authority.",
+      "ordinal": 14,
+      "heading_path": [
+        "Introduction",
+        "Commencing a payment spot check"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "10. In-scope organisations should notify the supplier if it wishes to undertake a payment spot check. This should include information on the process of a payment spot check, its purpose, and the evidence required from the supplier, shown in the checklist below. An example letter is available in Annex B. The contracting authority should allow the supplier to respond with the requested information and/or data within a maximum of 20 working days from receipt of notification.",
+      "ordinal": 15,
+      "heading_path": [
+        "Introduction",
+        "Commencing a payment spot check"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "heading",
+      "text": "Checklist for conducting a payment spot check",
+      "ordinal": 16,
+      "heading_path": [
+        "Introduction",
+        "Checklist for conducting a payment spot check"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "table",
+      "text": "In-scope organisations conducting a spot check should request the following information from suppliers:\tCheck\nA copy of the payment terms for the contract in question that show a clear reference to 30-day payment terms, and a requirement for these to be passed down the supply chain in public sub-contracts.\t☐\nDetails of procedures for resolving disputed invoices promptly and effectively.\t☐\nEvidence that procedures for resolving disputed invoices promptly and effectively were shared with all sub-contractors in the supply chain.\t☐\nEvidence of payments made (and time taken to pay) relating to the contract in question. This should be specified by the in-scope organisations but should cover at least the most recent 3 months’ payment performance.\t☐",
+      "ordinal": 17,
+      "heading_path": [
+        "Introduction",
+        "Checklist for conducting a payment spot check"
+      ],
+      "source_locator": "details.body",
+      "metadata": {
+        "rows": [
+          [
+            "In-scope organisations conducting a spot check should request the following information from suppliers:",
+            "Check"
+          ],
+          [
+            "A copy of the payment terms for the contract in question that show a clear reference to 30-day payment terms, and a requirement for these to be passed down the supply chain in public sub-contracts.",
+            "☐"
+          ],
+          [
+            "Details of procedures for resolving disputed invoices promptly and effectively.",
+            "☐"
+          ],
+          [
+            "Evidence that procedures for resolving disputed invoices promptly and effectively were shared with all sub-contractors in the supply chain.",
+            "☐"
+          ],
+          [
+            "Evidence of payments made (and time taken to pay) relating to the contract in question. This should be specified by the in-scope organisations but should cover at least the most recent 3 months’ payment performance.",
+            "☐"
+          ]
+        ],
+        "row_count": 5
+      }
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "heading",
+      "text": "Conducting a payment spot check",
+      "ordinal": 18,
+      "heading_path": [
+        "Introduction",
+        "Conducting a payment spot check"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "11. A breakdown of the payment spot checks process can be found in Annex C.",
+      "ordinal": 19,
+      "heading_path": [
+        "Introduction",
+        "Conducting a payment spot check"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "p",
+      "text": "12. The requirement to provide evidence of payment made within 30 days must be proportionate. Suppliers should be asked to provide a time-based range of invoice numbers relating to the public contract. The in-scope organisation should randomly select at least 10 for sampling, unless there are fewer than 10 invoices relating to the contract.",
+      "ordinal": 20,
+      "heading_path": [
+        "Introduction",
+        "Conducting a payment spot check"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "13. Evidence may include, but is not limited to, screenshots of finance systems, copies of invoices, verification from sub-contractors or other evidence the supplier considers suitable (for example bank statements). The supplier may decide which forms of evidence they supply (for example bank statements may be more suitable evidence for SMEs that do not have finance systems in place). If the evidence supplied is not sufficient, in-scope organisations should seek further evidence from the supplier.",
+      "ordinal": 21,
+      "heading_path": [
+        "Introduction",
+        "Conducting a payment spot check"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "p",
+      "text": "14. This evidence should not include personal data, only payment performance data relating to the contract in question.",
+      "ordinal": 22,
+      "heading_path": [
+        "Introduction",
+        "Conducting a payment spot check"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "15. If an in-scope organisation identifies that a supplier is not complying with the prompt payment rules, the in-scope organisation may decide to take the following actions:",
+      "ordinal": 23,
+      "heading_path": [
+        "Introduction",
+        "Conducting a payment spot check"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "a) inform the supplier that 30-day payments are implied into all contracts for the full or part performance of a public contract, that any term purporting to override that is invalid, and that their sub-contractors have the right to claim late payment interest where these terms are not adhered to",
+      "ordinal": 24,
+      "heading_path": [
+        "Introduction",
+        "Conducting a payment spot check"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "p",
+      "text": "b) contact the sub-contractor directly and inform them that 30-day payments may be implied in their contract terms, even when not expressly included, that any term purporting to override that is invalid, and that they have the right to claim late payment interest where these terms are not adhered to. The in-scope organisation may also provide information on how the sub-contractor can take action, such as referring the contract to the Public Procurement Review Service",
+      "ordinal": 25,
+      "heading_path": [
+        "Introduction",
+        "Conducting a payment spot check"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "p",
+      "text": "c) request that the supplier explain why the terms have not been adhered to and what action is being taken to remediate the issue",
+      "ordinal": 26,
+      "heading_path": [
+        "Introduction",
+        "Conducting a payment spot check"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "p",
+      "text": "d) inform the supplier that they may be in breach of their contract",
+      "ordinal": 27,
+      "heading_path": [
+        "Introduction",
+        "Conducting a payment spot check"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "heading",
+      "text": "Publishing payment spot check outcomes",
+      "ordinal": 28,
+      "heading_path": [
+        "Introduction",
+        "Publishing payment spot check outcomes"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "p",
+      "text": "16. In-scope organisations should keep a record of any payment spot checks performed and may wish to create and send the supplier a summary report of the payment spot check covering the following information, specifically regarding the contract that was spot checked:",
+      "ordinal": 29,
+      "heading_path": [
+        "Introduction",
+        "Publishing payment spot check outcomes"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "li",
+      "text": "confirmation the supplier expressly included 30-day payment terms in their sub-contracts at the time of the payment spot check",
+      "ordinal": 30,
+      "heading_path": [
+        "Introduction",
+        "Publishing payment spot check outcomes"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "li",
+      "text": "confirmation the supplier had procedures in place for resolving disputed invoices promptly and effectively and evidence of this was shared with all sub-contractors on the contract in question at the time of the spot check",
+      "ordinal": 31,
+      "heading_path": [
+        "Introduction",
+        "Publishing payment spot check outcomes"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "li",
+      "text": "number of invoices reviewed as part of the payment spot check",
+      "ordinal": 32,
+      "heading_path": [
+        "Introduction",
+        "Publishing payment spot check outcomes"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "li",
+      "text": "% of invoices paid within agreed terms",
+      "ordinal": 33,
+      "heading_path": [
+        "Introduction",
+        "Publishing payment spot check outcomes"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "li",
+      "text": "a reminder of statutory obligations",
+      "ordinal": 34,
+      "heading_path": [
+        "Introduction",
+        "Publishing payment spot check outcomes"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "p",
+      "text": "17. The in-scope organisation may wish to undertake a further payment spot check in the following months to ensure progress has been made if the in-scope organisation had any concerns regarding performance or adherence to the rules at the time of the payment spot check.",
+      "ordinal": 35,
+      "heading_path": [
+        "Introduction",
+        "Publishing payment spot check outcomes"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "p",
+      "text": "18. After a payment spot check has been conducted, the in-scope organisation should publish the outcome online within 3 months (the authority may wish to upload in bulk with other checks).",
+      "ordinal": 36,
+      "heading_path": [
+        "Introduction",
+        "Publishing payment spot check outcomes"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "p",
+      "text": "19. Templates for individual and bulk payment spot checks publishing are available at PPN 021: Payment Spot Checks in Public Sub-Contracts . These should be published online until the Central Digital Platform can be used to upload the spot check outcomes.",
+      "ordinal": 37,
+      "heading_path": [
+        "Introduction",
+        "Publishing payment spot check outcomes"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "heading",
+      "text": "Annex A: Example contractual terms",
+      "ordinal": 38,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Example contractual terms"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "p",
+      "text": "These terms are provided by way of example and should be used as a guide only. In-scope organisations should take their own legal advice on the use and suitability of the example terms below.",
+      "ordinal": 39,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Example contractual terms"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "p",
+      "text": "The definitions and references used below will need to be amended and adapted to fit within any relevant contract.",
+      "ordinal": 40,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Example contractual terms"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "heading",
+      "text": "Example definitions",
+      "ordinal": 41,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Example contractual terms",
+        "Example definitions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "li",
+      "text": "Authority: [complete as appropriate]",
+      "ordinal": 42,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Example contractual terms",
+        "Example definitions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "li",
+      "text": "Contract: this contract between the Authority and the Supplier",
+      "ordinal": 43,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Example contractual terms",
+        "Example definitions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "li",
+      "text": "Effective Date: the date on which the Contract comes into effect",
+      "ordinal": 44,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Example contractual terms",
+        "Example definitions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "li",
+      "text": "Services: any and all of the services to be provided by the Supplier under this Contract",
+      "ordinal": 45,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Example contractual terms",
+        "Example definitions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "li",
+      "text": "Sub-contract: any contract or agreement (or proposed contract or agreement) between the Supplier (or a Sub-contractor) and any third party whereby that third party agrees to provide to the Supplier (or the Sub-contractor) all or any part of the Services or facilities or services which are material for the provision of the Services or any part thereof or necessary for the management, direction or control of the Services or any part thereof",
+      "ordinal": 46,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Example contractual terms",
+        "Example definitions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "li",
+      "text": "Sub-contractor: any person other than the Supplier who is a party to a Sub-contract and the servants or agents of that person",
+      "ordinal": 47,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Example contractual terms",
+        "Example definitions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "li",
+      "text": "Supplier: [complete as appropriate].",
+      "ordinal": 48,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Example contractual terms",
+        "Example definitions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "heading",
+      "text": "1. Supply chain payment period compliance",
+      "ordinal": 49,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Example contractual terms",
+        "1. Supply chain payment period compliance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00050",
+      "block_type": "p",
+      "text": "1.1. The Supplier must on demand provide the Authority with all co-operation, assistance, documentation and other information that the Authority may reasonably require to allow it to effectively investigate and assess the Supplier’s and/or any Sub-contractor’s compliance with their respective obligations to pay undisputed invoices within a specified time period.",
+      "ordinal": 50,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Example contractual terms",
+        "1. Supply chain payment period compliance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00051",
+      "block_type": "p",
+      "text": "1.2. For Sub-contracts in the Supplier’s supply chain which are entered into wholly or substantially for the purpose of performing or contributing to the performance of the whole or any part of this Contract:",
+      "ordinal": 51,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Example contractual terms",
+        "1. Supply chain payment period compliance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00052",
+      "block_type": "p",
+      "text": "i. after the Effective Date, the Supplier will ensure that they all contain provisions that, or",
+      "ordinal": 52,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Example contractual terms",
+        "1. Supply chain payment period compliance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00053",
+      "block_type": "p",
+      "text": "ii. on or before the Effective Date, the Supplier will take all reasonable endeavours to ensure that they all contain provisions that:",
+      "ordinal": 53,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Example contractual terms",
+        "1. Supply chain payment period compliance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00054",
+      "block_type": "p",
+      "text": "1.2.1. require the Sub-contractor on demand to provide the Authority with all co-operation, assistance, documentation and other information that the Authority may reasonably require to allow it to effectively investigate and assess compliance with the Sub-contractor’s obligations to pay undisputed invoices within a specified time period;",
+      "ordinal": 54,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Example contractual terms",
+        "1. Supply chain payment period compliance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00055",
+      "block_type": "p",
+      "text": "1.2.2. expressly provide the Authority with the right to enforce the provisions in clause [1.2.1] above directly by reference to the Contracts (Rights of Third Parties) Act 1999; and",
+      "ordinal": 55,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Example contractual terms",
+        "1. Supply chain payment period compliance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00056",
+      "block_type": "p",
+      "text": "1.2.3. require the Sub-contractor to include terms equivalent to those in this clause [1.2] in any contracts it enters into wholly or substantially for the purpose of performing or contributing to the performance of the whole or any part of this Contract, such that each Sub-contractor is obliged to include equivalent terms in any of its own relevant Sub-contracts. In these Sub-contracts’ clauses, references to the “Supplier” and “Sub-contractor” are to be replaced with references to the respective Sub-contractors who are parties to the relevant contract.",
+      "ordinal": 56,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Example contractual terms",
+        "1. Supply chain payment period compliance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00057",
+      "block_type": "heading",
+      "text": "Annex B: Payment spot checks example request letter",
+      "ordinal": 57,
+      "heading_path": [
+        "Introduction",
+        "Annex B: Payment spot checks example request letter"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00058",
+      "block_type": "p",
+      "text": "Subject: Payment Spot Checks Request - [Contract Name/Reference]",
+      "ordinal": 58,
+      "heading_path": [
+        "Introduction",
+        "Annex B: Payment spot checks example request letter"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00059",
+      "block_type": "p",
+      "text": "Dear [Supplier Name],",
+      "ordinal": 59,
+      "heading_path": [
+        "Introduction",
+        "Annex B: Payment spot checks example request letter"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00060",
+      "block_type": "p",
+      "text": "I am conducting a routine payment spot check in compliance with Procurement Policy Note (PPN) 021, which helps the public sector ensure its suppliers are complying with the terms of the Procurement Act 2023.",
+      "ordinal": 60,
+      "heading_path": [
+        "Introduction",
+        "Annex B: Payment spot checks example request letter"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00061",
+      "block_type": "p",
+      "text": "To assist with this payment spot check, please provide the following information within 20 working days, in relation to [Contract Name/Reference]:",
+      "ordinal": 61,
+      "heading_path": [
+        "Introduction",
+        "Annex B: Payment spot checks example request letter"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00062",
+      "block_type": "li",
+      "text": "A copy of payment terms for any sub-contracts.",
+      "ordinal": 62,
+      "heading_path": [
+        "Introduction",
+        "Annex B: Payment spot checks example request letter"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00063",
+      "block_type": "li",
+      "text": "Details of procedures for resolving disputed invoices promptly and effectively.",
+      "ordinal": 63,
+      "heading_path": [
+        "Introduction",
+        "Annex B: Payment spot checks example request letter"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00064",
+      "block_type": "li",
+      "text": "Evidence that procedures for resolving disputed invoices promptly and effectively were shared with all sub-contractors.",
+      "ordinal": 64,
+      "heading_path": [
+        "Introduction",
+        "Annex B: Payment spot checks example request letter"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00065",
+      "block_type": "li",
+      "text": "Evidence of payments made (and time taken to pay) relating to this contract, such as copies of invoices or data exported from finance systems.",
+      "ordinal": 65,
+      "heading_path": [
+        "Introduction",
+        "Annex B: Payment spot checks example request letter"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00066",
+      "block_type": "p",
+      "text": "You can find more information on the PPN and what evidence may be provided here: PPN 021 Payment spot checks in public sub contracts",
+      "ordinal": 66,
+      "heading_path": [
+        "Introduction",
+        "Annex B: Payment spot checks example request letter"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00067",
+      "block_type": "p",
+      "text": "This information helps us ensure our supply chain adheres to the payment requirements in the Procurement Act 2023, improves transparency, and encourages better payment performance in supply chains. Failure to respond or adhere to the Procurement Act 2023 requirements may result in further action, including scrutiny of your payment practices and potential contractual consequences.",
+      "ordinal": 67,
+      "heading_path": [
+        "Introduction",
+        "Annex B: Payment spot checks example request letter"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00068",
+      "block_type": "p",
+      "text": "Thank you for your cooperation and please let me know if you have any questions.",
+      "ordinal": 68,
+      "heading_path": [
+        "Introduction",
+        "Annex B: Payment spot checks example request letter"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00069",
+      "block_type": "p",
+      "text": "Kind regards,",
+      "ordinal": 69,
+      "heading_path": [
+        "Introduction",
+        "Annex B: Payment spot checks example request letter"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00070",
+      "block_type": "p",
+      "text": "[Name]",
+      "ordinal": 70,
+      "heading_path": [
+        "Introduction",
+        "Annex B: Payment spot checks example request letter"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00071",
+      "block_type": "heading",
+      "text": "Annex C: Payment spot checks process",
+      "ordinal": 71,
+      "heading_path": [
+        "Introduction",
+        "Annex C: Payment spot checks process"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00072",
+      "block_type": "heading",
+      "text": "Task",
+      "ordinal": 72,
+      "heading_path": [
+        "Introduction",
+        "Annex C: Payment spot checks process",
+        "Task"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00073",
+      "block_type": "heading",
+      "text": "Before contract award",
+      "ordinal": 73,
+      "heading_path": [
+        "Introduction",
+        "Annex C: Payment spot checks process",
+        "Task",
+        "Before contract award"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00074",
+      "block_type": "p",
+      "text": "1. Include the relevant model terms in in-scope contracts",
+      "ordinal": 74,
+      "heading_path": [
+        "Introduction",
+        "Annex C: Payment spot checks process",
+        "Task",
+        "Before contract award"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00075",
+      "block_type": "heading",
+      "text": "Requesting payment spot checks data",
+      "ordinal": 75,
+      "heading_path": [
+        "Introduction",
+        "Annex C: Payment spot checks process",
+        "Task",
+        "Requesting payment spot checks data"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00076",
+      "block_type": "p",
+      "text": "2. Write to the supplier explaining they have been selected for a payment spot check and request the required information is provided within 20 working days.",
+      "ordinal": 76,
+      "heading_path": [
+        "Introduction",
+        "Annex C: Payment spot checks process",
+        "Task",
+        "Requesting payment spot checks data"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00077",
+      "block_type": "p",
+      "text": "2b. If the evidence is insufficient, seek further evidence from the supplier.",
+      "ordinal": 77,
+      "heading_path": [
+        "Introduction",
+        "Annex C: Payment spot checks process",
+        "Task",
+        "Requesting payment spot checks data"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00078",
+      "block_type": "heading",
+      "text": "Reviewing payment spot checks data",
+      "ordinal": 78,
+      "heading_path": [
+        "Introduction",
+        "Annex C: Payment spot checks process",
+        "Task",
+        "Reviewing payment spot checks data"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00079",
+      "block_type": "p",
+      "text": "3. Check that there is a clear reference to 30-day payment terms and that these are being passed through the supply chain.",
+      "ordinal": 79,
+      "heading_path": [
+        "Introduction",
+        "Annex C: Payment spot checks process",
+        "Task",
+        "Reviewing payment spot checks data"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00080",
+      "block_type": "p",
+      "text": "4. Check that there are effective procedures for resolving disputed invoices promptly and effectively.",
+      "ordinal": 80,
+      "heading_path": [
+        "Introduction",
+        "Annex C: Payment spot checks process",
+        "Task",
+        "Reviewing payment spot checks data"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00081",
+      "block_type": "p",
+      "text": "5. Check that the procedures for resolving disputed invoices promptly and effectively are shared with sub-contractors in the supply chain.",
+      "ordinal": 81,
+      "heading_path": [
+        "Introduction",
+        "Annex C: Payment spot checks process",
+        "Task",
+        "Reviewing payment spot checks data"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00082",
+      "block_type": "p",
+      "text": "6. Randomly select at least 10 invoices to sample payment performance.",
+      "ordinal": 82,
+      "heading_path": [
+        "Introduction",
+        "Annex C: Payment spot checks process",
+        "Task",
+        "Reviewing payment spot checks data"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00083",
+      "block_type": "heading",
+      "text": "Responding to the supplier",
+      "ordinal": 83,
+      "heading_path": [
+        "Introduction",
+        "Annex C: Payment spot checks process",
+        "Task",
+        "Responding to the supplier"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00084",
+      "block_type": "p",
+      "text": "7. Create and send the supplier a summary report of the payment spot check.",
+      "ordinal": 84,
+      "heading_path": [
+        "Introduction",
+        "Annex C: Payment spot checks process",
+        "Task",
+        "Responding to the supplier"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00085",
+      "block_type": "p",
+      "text": "8. If the supplier is not complying with the requirements of the Procurement Act 2023, take appropriate action.",
+      "ordinal": 85,
+      "heading_path": [
+        "Introduction",
+        "Annex C: Payment spot checks process",
+        "Task",
+        "Responding to the supplier"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00086",
+      "block_type": "p",
+      "text": "8b. Review any further discussions with the supplier to determine if any further actions or more frequent payment spot checks are necessary.",
+      "ordinal": 86,
+      "heading_path": [
+        "Introduction",
+        "Annex C: Payment spot checks process",
+        "Task",
+        "Responding to the supplier"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00087",
+      "block_type": "heading",
+      "text": "Reporting payment spot checks outcomes",
+      "ordinal": 87,
+      "heading_path": [
+        "Introduction",
+        "Annex C: Payment spot checks process",
+        "Task",
+        "Reporting payment spot checks outcomes"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00088",
+      "block_type": "p",
+      "text": "9. Complete the payment spot checks outcomes template and publish online.",
+      "ordinal": 88,
+      "heading_path": [
+        "Introduction",
+        "Annex C: Payment spot checks process",
+        "Task",
+        "Reporting payment spot checks outcomes"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00089",
+      "block_type": "heading",
+      "text": "Annex D: Frequently Asked Questions",
+      "ordinal": 89,
+      "heading_path": [
+        "Introduction",
+        "Annex D: Frequently Asked Questions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00090",
+      "block_type": "heading",
+      "text": "1. Does this policy apply to framework agreements or dynamic markets?",
+      "ordinal": 90,
+      "heading_path": [
+        "Introduction",
+        "Annex D: Frequently Asked Questions",
+        "1. Does this policy apply to framework agreements or dynamic markets?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00091",
+      "block_type": "p",
+      "text": "For framework agreements where the tender notice or transparency notice (as applicable) was published on or after 1 October 2025 or dynamic markets established after 1 October 2025, framework agreement and dynamic market providers should ensure that appropriate contract terms can be included in any call-off contracts, where it is anticipated that the value of individual contracts awarded under the framework agreement or dynamic market will be above £5 million per year (including VAT).",
+      "ordinal": 91,
+      "heading_path": [
+        "Introduction",
+        "Annex D: Frequently Asked Questions",
+        "1. Does this policy apply to framework agreements or dynamic markets?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00092",
+      "block_type": "p",
+      "text": "The PPN does not require framework or dynamic market providers to carry out payment spot checks on the suppliers of their frameworks or dynamic markets.",
+      "ordinal": 92,
+      "heading_path": [
+        "Introduction",
+        "Annex D: Frequently Asked Questions",
+        "1. Does this policy apply to framework agreements or dynamic markets?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00093",
+      "block_type": "p",
+      "text": "A in-scope organisation that awards a contract via a framework agreement or dynamic market should carry out payment spot checks as required.",
+      "ordinal": 93,
+      "heading_path": [
+        "Introduction",
+        "Annex D: Frequently Asked Questions",
+        "1. Does this policy apply to framework agreements or dynamic markets?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00094",
+      "block_type": "heading",
+      "text": "2. Can in-scope organisations use different contractual terms to the ones provided?",
+      "ordinal": 94,
+      "heading_path": [
+        "Introduction",
+        "Annex D: Frequently Asked Questions",
+        "1. Does this policy apply to framework agreements or dynamic markets?",
+        "2. Can in-scope organisations use different contractual terms to the ones provided?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00095",
+      "block_type": "p",
+      "text": "In-scope organisations are encouraged to use the model contractual terms provided. However, in-scope organisations may choose to use different contract terms as long as they enable the in-scope organisation to carry out the payment spot check in accordance with the PPN.",
+      "ordinal": 95,
+      "heading_path": [
+        "Introduction",
+        "Annex D: Frequently Asked Questions",
+        "1. Does this policy apply to framework agreements or dynamic markets?",
+        "2. Can in-scope organisations use different contractual terms to the ones provided?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00096",
+      "block_type": "heading",
+      "text": "3. What if in-scope organisations already require contract terms that meet the requirements of Procurement Act 2023 in all sub-contracts, such as NEC3 model contracts?",
+      "ordinal": 96,
+      "heading_path": [
+        "Introduction",
+        "Annex D: Frequently Asked Questions",
+        "1. Does this policy apply to framework agreements or dynamic markets?",
+        "3. What if in-scope organisations already require contract terms that meet the requirements of Procurement Act 2023 in all sub-contracts, such as NEC3 model contracts?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00097",
+      "block_type": "p",
+      "text": "Even where existing contractual terms meet the requirements of the Procurement Act 2023, carrying out payment spot checks ensures these terms are being passed on to sub-contractors, and allows in-scope organisations to check that payments are being made in accordance with the Procurement Act 2023.",
+      "ordinal": 97,
+      "heading_path": [
+        "Introduction",
+        "Annex D: Frequently Asked Questions",
+        "1. Does this policy apply to framework agreements or dynamic markets?",
+        "3. What if in-scope organisations already require contract terms that meet the requirements of Procurement Act 2023 in all sub-contracts, such as NEC3 model contracts?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00098",
+      "block_type": "heading",
+      "text": "4. What in-scope organisations should be carrying out spot checks?",
+      "ordinal": 98,
+      "heading_path": [
+        "Introduction",
+        "Annex D: Frequently Asked Questions",
+        "1. Does this policy apply to framework agreements or dynamic markets?",
+        "4. What in-scope organisations should be carrying out spot checks?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00099",
+      "block_type": "p",
+      "text": "All central government departments, their executive agencies and non-departmental public bodies. Other public sector in-scope organisations may use this guidance to carry out payment spot checks to ensure that 30-day payment terms are being implemented throughout their supply chain in public sub-contracts.",
+      "ordinal": 99,
+      "heading_path": [
+        "Introduction",
+        "Annex D: Frequently Asked Questions",
+        "1. Does this policy apply to framework agreements or dynamic markets?",
+        "4. What in-scope organisations should be carrying out spot checks?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00100",
+      "block_type": "heading",
+      "text": "5. If an in-scope organisation has many contracts with the same supplier, does it need to check each contract every six months?",
+      "ordinal": 100,
+      "heading_path": [
+        "Introduction",
+        "Annex D: Frequently Asked Questions",
+        "1. Does this policy apply to framework agreements or dynamic markets?",
+        "5. If an in-scope organisation has many contracts with the same supplier, does it need to check each contract every six months?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00101",
+      "block_type": "p",
+      "text": "When an in-scope organisation has more than one in-scope contract with the same supplier, it may choose to conduct spot checks on either five or 25% of the supplier’s contracts with the authority, whichever is greater, every six months.",
+      "ordinal": 101,
+      "heading_path": [
+        "Introduction",
+        "Annex D: Frequently Asked Questions",
+        "1. Does this policy apply to framework agreements or dynamic markets?",
+        "5. If an in-scope organisation has many contracts with the same supplier, does it need to check each contract every six months?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00102",
+      "block_type": "heading",
+      "text": "6. What if a supplier does not respond to an in-scope organisation within 20 working days?",
+      "ordinal": 102,
+      "heading_path": [
+        "Introduction",
+        "Annex D: Frequently Asked Questions",
+        "1. Does this policy apply to framework agreements or dynamic markets?",
+        "6. What if a supplier does not respond to an in-scope organisation within 20 working days?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00103",
+      "block_type": "p",
+      "text": "An in-scope organisation may choose to take proportionate action in accordance with its own contract management processes and guidance. It may also wish to consider the actions set out in paragraph 15.",
+      "ordinal": 103,
+      "heading_path": [
+        "Introduction",
+        "Annex D: Frequently Asked Questions",
+        "1. Does this policy apply to framework agreements or dynamic markets?",
+        "6. What if a supplier does not respond to an in-scope organisation within 20 working days?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00104",
+      "block_type": "p",
+      "text": "Where a supplier continues to not respond, an in-scope organisation should still complete the payment spot checks outcome documents (answering either No or N/A where appropriate). It should provide details of any action taken and the lack of response in the relevant sections of the outcomes template.",
+      "ordinal": 104,
+      "heading_path": [
+        "Introduction",
+        "Annex D: Frequently Asked Questions",
+        "1. Does this policy apply to framework agreements or dynamic markets?",
+        "6. What if a supplier does not respond to an in-scope organisation within 20 working days?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00105",
+      "block_type": "heading",
+      "text": "7. Why are only 10 invoices reviewed when large suppliers may have hundreds of invoices?",
+      "ordinal": 105,
+      "heading_path": [
+        "Introduction",
+        "Annex D: Frequently Asked Questions",
+        "1. Does this policy apply to framework agreements or dynamic markets?",
+        "7. Why are only 10 invoices reviewed when large suppliers may have hundreds of invoices?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00106",
+      "block_type": "p",
+      "text": "The PPN states that in-scope organisations should randomly select at least 10 invoices to review. If a supplier has more invoices than this, in-scope organisations are encouraged to review more invoices if they have the resources to do so.",
+      "ordinal": 106,
+      "heading_path": [
+        "Introduction",
+        "Annex D: Frequently Asked Questions",
+        "1. Does this policy apply to framework agreements or dynamic markets?",
+        "7. Why are only 10 invoices reviewed when large suppliers may have hundreds of invoices?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00107",
+      "block_type": "p",
+      "text": "In-scope organisations may wish to consider reviewing 10% of available invoices beyond the 10 that meet the minimum requirement.",
+      "ordinal": 107,
+      "heading_path": [
+        "Introduction",
+        "Annex D: Frequently Asked Questions",
+        "1. Does this policy apply to framework agreements or dynamic markets?",
+        "7. Why are only 10 invoices reviewed when large suppliers may have hundreds of invoices?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00108",
+      "block_type": "heading",
+      "text": "8. What is considered suitable evidence of 30 day payment terms?",
+      "ordinal": 108,
+      "heading_path": [
+        "Introduction",
+        "Annex D: Frequently Asked Questions",
+        "1. Does this policy apply to framework agreements or dynamic markets?",
+        "8. What is considered suitable evidence of 30 day payment terms?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00109",
+      "block_type": "p",
+      "text": "In-scope organisations should check to ensure 30 day payment terms are included in sub-contracts with suppliers.",
+      "ordinal": 109,
+      "heading_path": [
+        "Introduction",
+        "Annex D: Frequently Asked Questions",
+        "1. Does this policy apply to framework agreements or dynamic markets?",
+        "8. What is considered suitable evidence of 30 day payment terms?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00110",
+      "block_type": "p",
+      "text": "Many in-scope organisations and suppliers use model contract terms that adhere to the Procurement Act 2023. This is considered suitable evidence of meeting the payment terms requirement. However, in-scope organisations should still require evidence of the contract terms, rather than rely on a supplier’s claims that 30 day payment terms are included.",
+      "ordinal": 110,
+      "heading_path": [
+        "Introduction",
+        "Annex D: Frequently Asked Questions",
+        "1. Does this policy apply to framework agreements or dynamic markets?",
+        "8. What is considered suitable evidence of 30 day payment terms?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00111",
+      "block_type": "heading",
+      "text": "9. What is considered suitable evidence of having procedures in place for resolving disputed invoices promptly and effectively and sharing these with sub-contractors?",
+      "ordinal": 111,
+      "heading_path": [
+        "Introduction",
+        "Annex D: Frequently Asked Questions",
+        "1. Does this policy apply to framework agreements or dynamic markets?",
+        "9. What is considered suitable evidence of having procedures in place for resolving disputed invoices promptly and effectively and sharing these with sub-contractors?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00112",
+      "block_type": "p",
+      "text": "Existing legislation requires many businesses to report a narrative description of the business’s dispute resolution process, so these businesses should be familiar with providing this information. Further information can be found here: Duty to report: guidance to reporting on payment practices and performance",
+      "ordinal": 112,
+      "heading_path": [
+        "Introduction",
+        "Annex D: Frequently Asked Questions",
+        "1. Does this policy apply to framework agreements or dynamic markets?",
+        "9. What is considered suitable evidence of having procedures in place for resolving disputed invoices promptly and effectively and sharing these with sub-contractors?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00113",
+      "block_type": "p",
+      "text": "Where businesses are not required to report this information currently, it may be helpful to direct them towards this guidance to help them in providing details of their procedures for resolving disputed invoices.",
+      "ordinal": 113,
+      "heading_path": [
+        "Introduction",
+        "Annex D: Frequently Asked Questions",
+        "1. Does this policy apply to framework agreements or dynamic markets?",
+        "9. What is considered suitable evidence of having procedures in place for resolving disputed invoices promptly and effectively and sharing these with sub-contractors?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00114",
+      "block_type": "heading",
+      "text": "10. What are prompt and effective procedures for resolving disputed invoices and how should these be shared with sub-contractors?",
+      "ordinal": 114,
+      "heading_path": [
+        "Introduction",
+        "Annex D: Frequently Asked Questions",
+        "1. Does this policy apply to framework agreements or dynamic markets?",
+        "10. What are prompt and effective procedures for resolving disputed invoices and how should these be shared with sub-contractors?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00115",
+      "block_type": "p",
+      "text": "In-scope organisations should use their own judgement when deciding whether dispute resolution procedures are prompt, effective, and have been shared with sub-contractors. These procedures may vary between businesses and market sectors.",
+      "ordinal": 115,
+      "heading_path": [
+        "Introduction",
+        "Annex D: Frequently Asked Questions",
+        "1. Does this policy apply to framework agreements or dynamic markets?",
+        "10. What are prompt and effective procedures for resolving disputed invoices and how should these be shared with sub-contractors?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00116",
+      "block_type": "heading",
+      "text": "11. What action should an in-scope organisation take if a supplier is not complying with the payment spot check or the terms of the Procurement Act 2023?",
+      "ordinal": 116,
+      "heading_path": [
+        "Introduction",
+        "Annex D: Frequently Asked Questions",
+        "1. Does this policy apply to framework agreements or dynamic markets?",
+        "11. What action should an in-scope organisation take if a supplier is not complying with the payment spot check or the terms of the Procurement Act 2023?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00117",
+      "block_type": "p",
+      "text": "In-scope organisations will make their own decisions on what action to take if a supplier is not compliant as part of their routine supplier management processes. What is considered appropriate action will likely vary for many reasons, including but not limited to the in-scope organisation and supplier’s circumstances, market conditions, the severity and impact of non-compliance, and whether there is a history of non-compliance.",
+      "ordinal": 117,
+      "heading_path": [
+        "Introduction",
+        "Annex D: Frequently Asked Questions",
+        "1. Does this policy apply to framework agreements or dynamic markets?",
+        "11. What action should an in-scope organisation take if a supplier is not complying with the payment spot check or the terms of the Procurement Act 2023?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00118",
+      "block_type": "p",
+      "text": "In-scope organisations should ensure that any action taken is in accordance with their own policies and seek their own commercial or legal advice if required.",
+      "ordinal": 118,
+      "heading_path": [
+        "Introduction",
+        "Annex D: Frequently Asked Questions",
+        "1. Does this policy apply to framework agreements or dynamic markets?",
+        "11. What action should an in-scope organisation take if a supplier is not complying with the payment spot check or the terms of the Procurement Act 2023?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00119",
+      "block_type": "heading",
+      "text": "12. Do in-scope organisations need to tell suppliers when the spot checks are complete?",
+      "ordinal": 119,
+      "heading_path": [
+        "Introduction",
+        "Annex D: Frequently Asked Questions",
+        "1. Does this policy apply to framework agreements or dynamic markets?",
+        "12. Do in-scope organisations need to tell suppliers when the spot checks are complete?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00120",
+      "block_type": "p",
+      "text": "The guidance encourages in-scope organisations to inform suppliers of the outcome and provide a copy of the information which will be published but this is not mandatory.",
+      "ordinal": 120,
+      "heading_path": [
+        "Introduction",
+        "Annex D: Frequently Asked Questions",
+        "1. Does this policy apply to framework agreements or dynamic markets?",
+        "12. Do in-scope organisations need to tell suppliers when the spot checks are complete?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00121",
+      "block_type": "heading",
+      "text": "Reporting spot checks outcomes",
+      "ordinal": 121,
+      "heading_path": [
+        "Introduction",
+        "Annex D: Frequently Asked Questions",
+        "Reporting spot checks outcomes"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00122",
+      "block_type": "heading",
+      "text": "13. How should in-scope organisations report their payment spot checks outcomes?",
+      "ordinal": 122,
+      "heading_path": [
+        "Introduction",
+        "Annex D: Frequently Asked Questions",
+        "Reporting spot checks outcomes",
+        "13. How should in-scope organisations report their payment spot checks outcomes?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00123",
+      "block_type": "p",
+      "text": "In-scope organisations should publish the outcomes of their payment spot checks on gov.uk or via their own websites. Templates for individual and bulk uploads have been provided and in-scope organisations should determine which is most appropriate.",
+      "ordinal": 123,
+      "heading_path": [
+        "Introduction",
+        "Annex D: Frequently Asked Questions",
+        "Reporting spot checks outcomes",
+        "13. How should in-scope organisations report their payment spot checks outcomes?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00124",
+      "block_type": "heading",
+      "text": "14. Can in-scope organisations upload their spot checks outcomes in bulk?",
+      "ordinal": 124,
+      "heading_path": [
+        "Introduction",
+        "Annex D: Frequently Asked Questions",
+        "Reporting spot checks outcomes",
+        "14. Can in-scope organisations upload their spot checks outcomes in bulk?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00125",
+      "block_type": "p",
+      "text": "Yes. Outcomes should be published within three months of the payment spot check. It may be easier for in-scope organisations to collate their results into one document and upload this on a quarterly basis rather than upload each result individually.",
+      "ordinal": 125,
+      "heading_path": [
+        "Introduction",
+        "Annex D: Frequently Asked Questions",
+        "Reporting spot checks outcomes",
+        "14. Can in-scope organisations upload their spot checks outcomes in bulk?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00126",
+      "block_type": "heading",
+      "text": "15. What if a supplier does not want their information or outcomes published?",
+      "ordinal": 126,
+      "heading_path": [
+        "Introduction",
+        "Annex D: Frequently Asked Questions",
+        "Reporting spot checks outcomes",
+        "15. What if a supplier does not want their information or outcomes published?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00127",
+      "block_type": "p",
+      "text": "In-scope organisations should publish the outcomes of the payment spot check even if it may be perceived as a negative outcome by the supplier and/or the public. This is an important way of ensuring suppliers are held accountable and improves payment performance transparency.",
+      "ordinal": 127,
+      "heading_path": [
+        "Introduction",
+        "Annex D: Frequently Asked Questions",
+        "Reporting spot checks outcomes",
+        "15. What if a supplier does not want their information or outcomes published?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00128",
+      "block_type": "p",
+      "text": "If a supplier considers publishing the information to be a breach of confidentiality or publication is restricted under the terms of their contract, the in-scope organisation should seek their own legal advice before publishing. The payment spot checks outcomes will only be published in relation to public contracts meaning supplier information will already be publicly available, and we do not foresee any compelling reason for an in-scope organisation to not publish the outcomes of the payment spot checks.",
+      "ordinal": 128,
+      "heading_path": [
+        "Introduction",
+        "Annex D: Frequently Asked Questions",
+        "Reporting spot checks outcomes",
+        "15. What if a supplier does not want their information or outcomes published?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "PPN 021: Payment Spot Checks in Public Sub-Contracts",
+      "href": "https://www.gov.uk/government/publications/ppn-021-payment-spot-checks-in-public-sub-contracts",
+      "block_id": "b00037",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "PPN 021 Payment spot checks in public sub contracts",
+      "href": "https://www.gov.uk/government/publications/ppn-021-payment-spot-checks-in-public-sub-contracts",
+      "block_id": "b00066",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Duty to report: guidance to reporting on payment practices and performance",
+      "href": "https://www.gov.uk/government/publications/business-payment-practices-and-performance-reporting-requirements/duty-to-report-guidance-to-reporting-on-payment-practices-and-performance",
+      "block_id": "b00112",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "gov.uk",
+      "href": "http://gov.uk",
+      "block_id": "b00123",
+      "ordinal": 3,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "PPN 021: Guidance on how to conduct a Payment Spot Check under a public sub-contract (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-021-payment-spot-checks-in-public-sub-contracts/ppn-021-guidance-on-how-to-conduct-a-payment-spot-check-under-a-public-sub-contract-html",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2024 to 2026 Starmer Labour government",
+      "href": "https://www.gov.uk/government/2024-starmer-labour-government",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "PPN 021: Payment Spot Checks in Public Sub-Contracts",
+      "href": "https://www.gov.uk/government/publications/ppn-021-payment-spot-checks-in-public-sub-contracts",
+      "block_id": "__document__",
+      "ordinal": 7,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 8,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 10(6)",
+      "block_id": "b00006",
+      "start": 534,
+      "end": 547,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "10",
+        "tail": "(6)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 68(2)",
+      "block_id": "b00008",
+      "start": 311,
+      "end": 324,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 7",
+      "block_id": "b00011",
+      "start": 311,
+      "end": 322,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "7"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 3",
+      "block_id": "b00014",
+      "start": 17,
+      "end": 28,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "3"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 15",
+      "block_id": "b00103",
+      "start": 188,
+      "end": 200,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "15"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

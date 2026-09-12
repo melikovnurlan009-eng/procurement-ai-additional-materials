@@ -1,0 +1,154 @@
+{
+  "document_id": "1f47df8f-e7c0-4895-b194-f774d61ce93b",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/f9843f7b305517b5f1f2474a.json",
+  "input_sha256": "ab94f1558d2b488506c572bf4d0b66dcbb68a07889fc733cd34c758771878436",
+  "processed_at": "2026-08-27T02:26:48.753776+00:00",
+  "title": "Procurement Policy Note 17/15: Standard EU forms and notices for public procurement",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-policy-note-1715-standard-eu-forms-and-notices-for-public-procurement",
+  "description": "This Procurement Policy Note (PPN) [and guidance / documents] is now out of date",
+  "publication_date": "2015-12-02T12:41:00+00:00",
+  "updated_date": "2023-01-31T17:00:10+00:00",
+  "source_metadata": {
+    "content_id": "1f47df8f-e7c0-4895-b194-f774d61ce93b",
+    "base_path": "/government/publications/procurement-policy-note-1715-standard-eu-forms-and-notices-for-public-procurement",
+    "document_type": "guidance",
+    "schema_name": "publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "This Procurement Policy Note (PPN) is now out of date.",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "The new standard forms and notices for procurements under the Public Contracts Regulations 2015 have been published in the Official Journal of the EU. They come into force on 3 December 2015.",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "Contracting authorities should use the new standard forms and notices for procurements under the Public Contracts Regulations 2015. They should stop using the current forms and notices as soon as the new ones become available on Tenders Electronic Daily (TED) eNotices or via TED e-Senders system.",
+      "ordinal": 2,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "Public Contracts Regulations 2015",
+      "href": "http://www.legislation.gov.uk/uksi/2015/102/contents/made",
+      "block_id": "b00001",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement Policy Note 17/15: Standard EU forms and notices for public procurement",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-1715-standard-eu-forms-and-notices-for-public-procurement",
+      "block_id": "__document__",
+      "ordinal": 1,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "Procurement policy notes",
+      "href": "https://www.gov.uk/government/collections/procurement-policy-notes",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_DOCUMENT_COLLECTIONS"
+    },
+    {
+      "text": "2015 to 2016 Cameron Conservative government",
+      "href": "https://www.gov.uk/government/2015-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Crown Commercial Service",
+      "href": "https://www.gov.uk/government/organisations/crown-commercial-service",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_ORIGINAL_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 7,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Government spending",
+      "href": "https://www.gov.uk/government/government-spending",
+      "block_id": "__document__",
+      "ordinal": 8,
+      "link_type": "GOVUK_TAXONS"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015",
+      "block_id": "b00001",
+      "start": 79,
+      "end": 95,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015",
+      "block_id": "b00002",
+      "start": 114,
+      "end": 130,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015"
+      }
+    }
+  ],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/5a8029fc40f0b62305b898e9/20151124Procurement_Policy_Note_17_15.pdf",
+      "title": "Procurement Policy Note: availability of standard EU forms and notices for public procurement",
+      "content_type": "application/pdf",
+      "filename": "20151124Procurement_Policy_Note_17_15.pdf",
+      "id": "7142233",
+      "logical_role": "ATTACHMENT"
+    }
+  ],
+  "warnings": []
+}

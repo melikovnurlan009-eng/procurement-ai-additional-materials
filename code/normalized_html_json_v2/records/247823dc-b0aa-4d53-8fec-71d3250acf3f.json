@@ -1,0 +1,107 @@
+{
+  "document_id": "247823dc-b0aa-4d53-8fec-71d3250acf3f",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/7431fc250787f35c7e6ed44d.json",
+  "input_sha256": "f445e9121477985fb94ec880d9ccf3ba619e65eb7900e6a63d8ef43aecb1595e",
+  "processed_at": "2026-08-27T02:26:25.695053+00:00",
+  "title": "PPN 026: The social value model",
+  "canonical_url": "https://www.gov.uk/government/publications/ppn-026-the-social-value-model",
+  "description": "This PPN provides the new Social Value Model focussing on boosting British Jobs and Skills.",
+  "publication_date": "2026-08-05T06:26:00+01:00",
+  "updated_date": "2026-08-05T09:51:12+01:00",
+  "source_metadata": {
+    "content_id": "247823dc-b0aa-4d53-8fec-71d3250acf3f",
+    "base_path": "/government/publications/ppn-026-the-social-value-model",
+    "document_type": "guidance",
+    "schema_name": "publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "This PPN provides the new Social Value Model focussing on boosting British jobs and Skills. Accompanying guidance will be published in autumn 2026.",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "PPN 026: The social value model",
+      "href": "https://www.gov.uk/government/publications/ppn-026-the-social-value-model",
+      "block_id": "__document__",
+      "ordinal": 0,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "PPN 026: The Social Value Model (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-026-the-social-value-model/ppn-026-the-social-value-model-html",
+      "block_id": "__document__",
+      "ordinal": 1,
+      "link_type": "GOVUK_CHILDREN"
+    },
+    {
+      "text": "Procurement policy notes",
+      "href": "https://www.gov.uk/government/collections/procurement-policy-notes",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_DOCUMENT_COLLECTIONS"
+    },
+    {
+      "text": "2026 Burnham Labour government",
+      "href": "https://www.gov.uk/government/2026-burnham-labour-government",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Government spending",
+      "href": "https://www.gov.uk/government/government-spending",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_TAXONS"
+    }
+  ],
+  "legal_references": [],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/6a727128332792bd88ece51b/PPN_026_The_Social_Value_Model.pdf",
+      "title": "PPN 026: The Social Value Model (PDF)",
+      "content_type": "application/pdf",
+      "filename": "PPN_026_The_Social_Value_Model.pdf",
+      "id": "9435943",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "/government/publications/ppn-026-the-social-value-model/ppn-026-the-social-value-model-html",
+      "title": "PPN 026: The Social Value Model (HTML)",
+      "content_type": null,
+      "filename": null,
+      "id": "9435944",
+      "logical_role": "ATTACHMENT"
+    }
+  ],
+  "warnings": []
+}

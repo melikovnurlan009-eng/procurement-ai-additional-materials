@@ -1,0 +1,632 @@
+{
+  "document_id": "903138ea-acf1-4782-9a66-69959ab6e091",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/bbeea340f811ed38e36d779d.json",
+  "input_sha256": "ab95d780050e1de49471090035162dcec8285f57ab3cc113baf3349f761f3e4a",
+  "processed_at": "2026-08-27T02:26:39.286653+00:00",
+  "title": "PPN 004: Open Book Contract Management (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/ppn-004-open-book-contract-management/ppn-004-open-book-contract-management-html",
+  "description": null,
+  "publication_date": "2025-02-17T14:44:00+00:00",
+  "updated_date": "2025-02-17T00:00:00+00:00",
+  "source_metadata": {
+    "content_id": "903138ea-acf1-4782-9a66-69959ab6e091",
+    "base_path": "/government/publications/ppn-004-open-book-contract-management/ppn-004-open-book-contract-management-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Issue",
+      "ordinal": 3,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Dissemination and scope",
+      "ordinal": 6,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Timing",
+      "ordinal": 12,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Action",
+      "ordinal": 14,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Background",
+      "ordinal": 27,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Contact",
+      "ordinal": 33,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "Information Note: 004",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "Originally issued: 24 May 2016",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "Updated: February 2025",
+      "ordinal": 2,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "heading",
+      "text": "Issue",
+      "ordinal": 3,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "1. Open Book Contract Management (OBCM) is the scrutiny of a supplier’s costs and margins through the reporting of, or accessing, accounting data. Its use is often associated with managing and controlling delivery of large, high value, high risk and complex contracts. This transparency allows both parties to be clear on the supplier’s charges, costs, and planned return. It also provides a basis to be able to review performance, agree the impact of change and to bring forward ideas for efficiency improvements. If implemented well, this technique should help both to improve value for money outcomes and to build mutual understanding and trust between government and its suppliers",
+      "ordinal": 4,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "2. The intention of this action note is to ensure a proportionate and consistent Open Book approach is applied to a broad range of different contracts. This starts with an assessment of the needs of the contract, to determine the type and level of Open Book practices that should be applied. This assessment uses a tiered framework, which allows Open Book to be used in a proportionate way depending on the risk level and complexity of the contract. Open Book should be used on those contracts where the additional cost is justified by the perceived level of benefits and risk.",
+      "ordinal": 5,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "heading",
+      "text": "Dissemination and scope",
+      "ordinal": 6,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "3. This Procurement Policy Note (PPN) applies to all central government departments, their executive agencies and non-departmental public bodies. Such bodies are referred to as ‘in-scope organisations’.",
+      "ordinal": 7,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "4. Please circulate this PPN within your organisation, particularly to those with a commercial, procurement and/or contract management role.",
+      "ordinal": 8,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "5. This PPN has been updated to reflect new terminology introduced by the Procurement Act 2023 and the Procurement Regulations 2024. The Procurement Act 2023 and the Procurement Regulations 2024 apply to procurements commenced on or after 24 February 2025. For more detail on the meaning of ‘commenced’ please refer to the Procurement Act 2023 Guidance on Transitional and Savings Arrangements .",
+      "ordinal": 9,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "p",
+      "text": "6. The Procurement Act 2023 does not apply to procurements commenced before 24 February 2025 or to contracts awarded prior to this date (including via frameworks, dynamic purchasing systems or qualification systems established under the previous legislation). For procurements commenced and contracts awarded before this date, please refer to PPN 05/16.",
+      "ordinal": 10,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "7. This update does not constitute a change in policy or a new call for action but in-scope organisations should continue to apply any ongoing obligations set out in the provisions of this PPN.",
+      "ordinal": 11,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "heading",
+      "text": "Timing",
+      "ordinal": 12,
+      "heading_path": [
+        "Issue",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "8. In-scope organisations should note the provisions of this PPN from 24 February 2025.",
+      "ordinal": 13,
+      "heading_path": [
+        "Issue",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "heading",
+      "text": "Action",
+      "ordinal": 14,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "9. Using the accompanying OBCM guidance , in-scope organisations should:",
+      "ordinal": 15,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "a. Review their contract portfolios to establish which Tier of Open Book to apply. This includes deciding, by 24 June 2016, if 3rd party support is required to conduct the review (see paragraph 12):",
+      "ordinal": 16,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "i. where 3rd party support is required, to contact the Complex Transactions Team in Cabinet Office to access these services; or",
+      "ordinal": 17,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "p",
+      "text": "ii. if not required, start the review of contract portfolios using in-house resources.",
+      "ordinal": 18,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "b. Apply the guidance where the output of the contract portfolio review dictates, deploying the tools as appropriate.",
+      "ordinal": 19,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "p",
+      "text": "c. Seek coaching and training support by accessing the resources available and by proactively sharing best practice with others in a similar role across government.",
+      "ordinal": 20,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "10. The overall approach to OBCM is as follows:",
+      "ordinal": 21,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "li",
+      "text": "Decision Tool used to decide the optimal benefit/cost Tier of OBCM application;",
+      "ordinal": 22,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "li",
+      "text": "Application Model which identifies the proportionate set of tools and processes for that Tier; and",
+      "ordinal": 23,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "li",
+      "text": "5 Tools used in OBCM processes and collaborative behaviours.",
+      "ordinal": 24,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "p",
+      "text": "11. The Tools should only be applied fully for more complex contracts (typically in Tiers 3 or 4). They are built around agreeing and tracking allowable costs: those that qualify as being appropriate and attributable and so valid costs within the contract. A clear definition of allowable costs is then used in assessing whether the costs incurred are reasonable.",
+      "ordinal": 25,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "p",
+      "text": "12. Although assigning a Tier to each contract will determine the most appropriate processes to apply and how to apply them, it remains critical to ensure a ‘commercial sense-check’ is applied here too. The guidance provides a structure for deciding the most appropriate Tier but the final determination must consider whether the Tier to be allocated will deliver good benefits without being outweighed by the costs.",
+      "ordinal": 26,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "heading",
+      "text": "Background",
+      "ordinal": 27,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "13. The Public Accounts Committee report “Transforming Contract Management’ [footnote 1] said Government’s current approach to contracting gives too much advantage to contractors and Open Book Accounting should be the norm. The Government’s response included a commitment to trial the use of Open Book to inform future policy and Cabinet Office led the trial with support from key departmental stakeholders.",
+      "ordinal": 28,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "p",
+      "text": "14. With the exception of MoD’s use of Open Book on single source contracts, the trial concluded Open Book was not well understood; there was limited evidence of a standard approach in use across industry, and limited common understanding of Open Book. Open Book is often resource intensive and requires a mix of specialist skills to deliver. With limited commercial levers in place and a lack of sound commercial judgement, Open Book can be costly to deliver and poor execution can easily damage commercial relationships with suppliers if trying to retrofit into existing contracts where the right levers are not available.",
+      "ordinal": 29,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "p",
+      "text": "15. Implementation of Open Book Contract Management requires a particular combination of skills and capabilities; the approach brings together finance, commercial and subject matter specialists. It is recommended that in-scope organisations ensure adequate multi-disciplinary resources are available to implement the new approach and, with the support of the Complex Transactions team in Government Commercial Function, to lead on the application of Open Book throughout the organisation.",
+      "ordinal": 30,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "p",
+      "text": "16. In-scope organisations should ensure they commit to building resource capability to continuously develop and maintain knowledge and expertise. An interactive coaching resource is being developed and will be available for in- scope organisations to access at their own cost.",
+      "ordinal": 31,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "p",
+      "text": "17. In-scope organisations are required to make an initial assessment of their contract portfolios to establish where OBCM can be applied and to what extent. The services of a 3rd party provider will be made available to review existing portfolios of contracts and in-scope organisations can choose to take advantage of this at their own cost, which is estimated to be in the region of £15k per in-scope organisation. Those using this support will also receive a final output report showing resource pinch-points across their contract portfolios with respect to implementation.",
+      "ordinal": 32,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "heading",
+      "text": "Contact",
+      "ordinal": 33,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "p",
+      "text": "18. Enquiries about this PPN, and requests to receive the standard templates should be directed to the Crown Commercial Service Helpdesk (0345 410 2222, info@crowncommercial.gov.uk",
+      "ordinal": 34,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "li",
+      "text": "Transforming Contract Management ↩",
+      "ordinal": 35,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "p",
+      "text": "Transforming Contract Management ↩",
+      "ordinal": 36,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "Guidance on Transitional and Savings Arrangements",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-transitional-and-saving-arrangements-html",
+      "block_id": "b00009",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "OBCM guidance",
+      "href": "https://www.gov.uk/government/organisations/crown-commercial-service",
+      "block_id": "b00015",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "[footnote 1]",
+      "href": "https://www.gov.uk/government/publications/ppn-004-open-book-contract-management/ppn-004-open-book-contract-management-html#fn:1",
+      "block_id": "b00028",
+      "ordinal": 2,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "info@crowncommercial.gov.uk",
+      "href": "mailto:info@crowncommercial.gov.uk",
+      "block_id": "b00034",
+      "ordinal": 3,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "Transforming Contract Management",
+      "href": "http://www.parliament.uk/business/committees/committees-a-z/commons-select/public-accounts-%20committee/news/contract-management-report/",
+      "block_id": "b00035",
+      "ordinal": 4,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-004-open-book-contract-management/ppn-004-open-book-contract-management-html#fnref:1",
+      "block_id": "b00035",
+      "ordinal": 5,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Transforming Contract Management",
+      "href": "http://www.parliament.uk/business/committees/committees-a-z/commons-select/public-accounts-%20committee/news/contract-management-report/",
+      "block_id": "b00036",
+      "ordinal": 6,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-004-open-book-contract-management/ppn-004-open-book-contract-management-html#fnref:1",
+      "block_id": "b00036",
+      "ordinal": 7,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "PPN 004: Open Book Contract Management (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-004-open-book-contract-management/ppn-004-open-book-contract-management-html",
+      "block_id": "__document__",
+      "ordinal": 8,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2024 to 2026 Starmer Labour government",
+      "href": "https://www.gov.uk/government/2024-starmer-labour-government",
+      "block_id": "__document__",
+      "ordinal": 9,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 10,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "PPN 004: Open Book Contract Management",
+      "href": "https://www.gov.uk/government/publications/ppn-004-open-book-contract-management",
+      "block_id": "__document__",
+      "ordinal": 11,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 12,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2024",
+      "block_id": "b00009",
+      "start": 115,
+      "end": 131,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2024"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2024",
+      "block_id": "b00009",
+      "start": 178,
+      "end": 194,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2024"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 12",
+      "block_id": "b00016",
+      "start": 184,
+      "end": 196,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "12"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

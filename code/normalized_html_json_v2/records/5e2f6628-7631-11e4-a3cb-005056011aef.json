@@ -1,0 +1,108 @@
+{
+  "document_id": "5e2f6628-7631-11e4-a3cb-005056011aef",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/b70d5075be92a1fa3d0bdc7d.json",
+  "input_sha256": "e79527fc2f9240411cf30d3ee5baf822120011319cb07f4351b3a386db159e37",
+  "processed_at": "2026-08-27T02:26:38.322067+00:00",
+  "title": "Procurement for growth",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-for-growth",
+  "description": "This Procurement Policy Note (PPN) [and guidance / documents] is now out of date",
+  "publication_date": "2013-05-21T17:51:00+01:00",
+  "updated_date": "2023-01-31T17:00:10+00:00",
+  "source_metadata": {
+    "content_id": "5e2f6628-7631-11e4-a3cb-005056011aef",
+    "base_path": "/government/publications/procurement-for-growth",
+    "document_type": "guidance",
+    "schema_name": "publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "This note/guidance is now out of date",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "The leaflet ‘Procurement for Growth’ gives public sector procurement practitioners tips and advice on how they can maximise economic growth through the way they approach buying goods and services.",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "Procurement for growth",
+      "href": "https://www.gov.uk/government/publications/procurement-for-growth",
+      "block_id": "__document__",
+      "ordinal": 0,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "Procurement policy notes",
+      "href": "https://www.gov.uk/government/collections/procurement-policy-notes",
+      "block_id": "__document__",
+      "ordinal": 1,
+      "link_type": "GOVUK_DOCUMENT_COLLECTIONS"
+    },
+    {
+      "text": "2010 to 2015 Conservative and Liberal Democrat coalition government",
+      "href": "https://www.gov.uk/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_ORIGINAL_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Government spending",
+      "href": "https://www.gov.uk/government/government-spending",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_TAXONS"
+    }
+  ],
+  "legal_references": [],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/5a7c1ebb40f0b61a825d6943/Procurement_for_Growth.pdf",
+      "title": "Procurement for Growth",
+      "content_type": "application/pdf",
+      "filename": "Procurement_for_Growth.pdf",
+      "id": "7142162",
+      "logical_role": "ATTACHMENT"
+    }
+  ],
+  "warnings": []
+}

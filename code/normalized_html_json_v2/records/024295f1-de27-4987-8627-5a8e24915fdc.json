@@ -1,0 +1,2312 @@
+{
+  "document_id": "024295f1-de27-4987-8627-5a8e24915fdc",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/ab2bb6ac97b27cb0884e2dde.json",
+  "input_sha256": "a1f9036fd1918cb292cda472a91158b06d5baf6437e6bc6ec0dbd4965a9a19ca",
+  "processed_at": "2026-08-27T02:26:35.821624+00:00",
+  "title": "Guidance: Electronic Invoicing and Payment (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-electronic-invoicing-and-payment-html",
+  "description": null,
+  "publication_date": "2025-02-13T10:04:18+00:00",
+  "updated_date": "2026-07-20T15:07:48+01:00",
+  "source_metadata": {
+    "content_id": "024295f1-de27-4987-8627-5a8e24915fdc",
+    "base_path": "/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-electronic-invoicing-and-payment-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What is electronic invoicing and payment?",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What is the legal framework that governs electronic invoicing and payment?",
+      "ordinal": 3,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What has changed?",
+      "ordinal": 9,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Electronic invoicing",
+      "ordinal": 10,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Payment",
+      "ordinal": 13,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Key points and policy intent",
+      "ordinal": 17,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Determining when payment must be and is made",
+      "ordinal": 50,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Supply chain finance",
+      "ordinal": 56,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What are the notices linked to this aspect of the Act?",
+      "ordinal": 59,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What other guidance is of particular relevance to this topic area?",
+      "ordinal": 61,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Where can I go for more information?",
+      "ordinal": 63,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "What is electronic invoicing and payment?",
+      "ordinal": 0,
+      "heading_path": [
+        "What is electronic invoicing and payment?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "1. Part 4 (Management of Public Contracts) of the Procurement Act 2023 (Act) contains requirements relating to invoicing and payment. The Act requires contracting authorities to accept and process electronic invoices that are in a standardised form and sets out payment terms that apply to a broad range of public sector contracts and sub-contracts.",
+      "ordinal": 1,
+      "heading_path": [
+        "What is electronic invoicing and payment?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "2. Ensuring suppliers are paid properly for their work is essential to the successful operation of contracts. It is important that contracting authorities deal with invoices efficiently and effectively and pay their suppliers on time. Doing so benefits suppliers’ cash flow and liquidity, reduces their administrative costs, helps with audits and acts as an incentive for suppliers to bid for future public sector contracts.",
+      "ordinal": 2,
+      "heading_path": [
+        "What is electronic invoicing and payment?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "heading",
+      "text": "What is the legal framework that governs electronic invoicing and payment?",
+      "ordinal": 3,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "What is the legal framework that governs electronic invoicing and payment?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "3. The provisions on electronic invoicing and implied payment terms are included in:",
+      "ordinal": 4,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "What is the legal framework that governs electronic invoicing and payment?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "a. section 67 (electronic invoicing: implied term): this section provides that a term is implied into every public contract that requires contracting authorities to accept and process electronic invoices that are in the ‘required electronic form’ (see paragraph 13 below) and are not disputed;",
+      "ordinal": 5,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "What is the legal framework that governs electronic invoicing and payment?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "p",
+      "text": "b. section 68 (implied payment terms in public contracts): this section provides that certain payment terms are implied into most public contracts (there are some exceptions);",
+      "ordinal": 6,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "What is the legal framework that governs electronic invoicing and payment?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "c. section 73 (implied payment terms in sub-contracts): this section provides that the terms set out in section 68 are implied into most ‘public sub-contracts’ (see paragraph 22 below) (there are some exceptions); and",
+      "ordinal": 7,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "What is the legal framework that governs electronic invoicing and payment?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "d. section 88 (regulated below-threshold contracts: implied payment terms): this section provides the terms set out in section 68 are implied into every ‘regulated below-threshold contract’ (as defined in section 84(1) ) and every relevant sub-contract to a regulated below-threshold contract.",
+      "ordinal": 8,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "What is the legal framework that governs electronic invoicing and payment?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "heading",
+      "text": "What has changed?",
+      "ordinal": 9,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "heading",
+      "text": "Electronic invoicing",
+      "ordinal": 10,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "What has changed?",
+        "Electronic invoicing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "4. The Act does not change the fundamental requirement relating to electronic invoicing. The Public Procurement (Electronic Invoices etc.) Regulations 2019 amended the previous legislation to insert provisions requiring contracting authorities to include in their contracts suitable provisions requiring them to accept and process ‘electronic invoices’ (see paragraph 13 below) that complied with the ‘European Standard’ (as defined) where the invoice is undisputed and complies with the standard on electronic invoicing (as defined). In the absence of suitable provisions in a contract, a term to that effect was implied into the contract. Section 67 of the Act has the same effect, by implying the term into contracts (without the requirement for contracting authorities to actually include the term, though it would be sensible to set it out in full in the contract).",
+      "ordinal": 11,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "What has changed?",
+        "Electronic invoicing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "5. The previous regime does not mandate acceptance of electronic invoicing for below-threshold contracts.",
+      "ordinal": 12,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "What has changed?",
+        "Electronic invoicing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "heading",
+      "text": "Payment",
+      "ordinal": 13,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "What has changed?",
+        "Payment"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "6. Under regulation 113 of the Public Contracts Regulations 2015 (PCR), contracting authorities were required to include suitable provisions in all public contracts, which included below-threshold contracts [footnote 1] , that required payment within 30 days from the day on which an invoice was regarded as valid and undisputed, together with various ancillary provisions, for example, to consider and verify invoices in a timely fashion. In the absence of any such provisions, a term was implied into the contract to reflect these requirements. These provisions were not included in the Defence and Security Public Contracts Regulations 2011, the Concession Contracts Regulations 2016 or the Utilities Contracts Regulations 2016.",
+      "ordinal": 14,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "What has changed?",
+        "Payment"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "7. Section 68 of the Act implies payment terms into contracts (again, rather than requiring contracting authorities to actually include the terms) that have a similar effect to regulation 113, although there are some differences, and extends these terms to every public contract that is not a concession contract or a contract awarded by a private utility or a school. The implied payment period in section 68(2) requires payment to be made by the contracting authority within 30 days of the day the invoice is received or, if later, by the day on which the payment becomes due in accordance with the invoice, provided the invoice is valid and not disputed, rather than (as under the PCR) the day on which the invoice is considered to be valid and undisputed. There is an intention to clarify the wording of section 68(2) to ensure this is the only way the provision can be interpreted. Section 73 extends the implied payment terms to every public sub-contract that is not a contract for the performance of all or any part of a concession contract or a contract awarded by a private utility or a school.",
+      "ordinal": 15,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "What has changed?",
+        "Payment"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "8. Section 88 implies the terms set out in sections 68 and 73 into regulated below-threshold contracts and to contracts that are wholly or substantially for the purpose of performing (or contributing to the performance of) all or any part of a regulated below-threshold contract (i.e. any relevant sub-contract). Further information on below-threshold contracts can be found in the guidance on below-threshold contracts .",
+      "ordinal": 16,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "What has changed?",
+        "Payment"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "heading",
+      "text": "Key points and policy intent",
+      "ordinal": 17,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "p",
+      "text": "9. Contracting authorities should make sure those responsible for managing their contracts with suppliers properly communicate these requirements to those responsible for paying their invoices to ensure that suppliers are paid in accordance with the Act (and/or the contract).",
+      "ordinal": 18,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "10. Contracting authorities should also ensure that suppliers are aware of how the contracting authority’s invoicing and payment systems operate. For example, how and when to submit invoices, and that the supplier will be required to pay relevant sub-contractors within 30 days of receiving an invoice from the sub-contractor or, by the day on which the payment falls due in accordance with the sub-contractor’s invoice, if that payment due date falls after the 30 day window described above.",
+      "ordinal": 19,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "p",
+      "text": "11. Section 67 implies a term into every public contract that requires contracting authorities to accept and process electronic invoices provided they are in the required electronic form and not disputed by the contracting authority. Nothing in the contract between the supplier and the contracting authority can restrict or override this implied term.",
+      "ordinal": 20,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "12. An electronic invoice is defined in section 67(3) as an invoice which is issued, transmitted and received in a structured electronic format that allows for its automatic and electronic processing.",
+      "ordinal": 21,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "p",
+      "text": "13. In 2018, a European e-invoicing standard was introduced. This standard currently applies in the UK and is maintained by the British Standard Institution (BSI).The required electronic form is defined in section 67(3) as one which:",
+      "ordinal": 22,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "a. complies with the standard for electronic invoicing issued by the BSI in the document numbered BS EN 16931-1:2017 (Electronic invoicing - Part 1: Semantic data model of the core elements of an electronic invoice); and",
+      "ordinal": 23,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "b. uses a syntax which is listed as a syntax that complies with that standard in the document numbered PD CEN/TS 16931-2:2017 (Electronic invoicing - Part 2: List of syntaxes that comply with EN 16931-1) approved and issued by the BSI.",
+      "ordinal": 24,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "p",
+      "text": "14. Section 67(4) provides that a standard or document referred to in the definition of required electronic form is the standard or document that is current on the day on which the contract is entered into or, if the contracting authority and the supplier agree, the day on which the relevant invoice is issued. This allows the contracting authority and the supplier to agree which version applies if a standard or document is amended after the contract has been entered into.",
+      "ordinal": 25,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "p",
+      "text": "15. An appropriate authority (as defined at section 123 of the Act) has the power to amend section 67 for the purpose of changing what it means for an invoice to be in the required electronic form. This would allow, for example, the definition to refer to a different standard than is currently the case as standards and technologies develop. If a standard referred to in section 67 is, for example withdrawn and a new standard is approved and issued, but the Act is not yet amended to reflect this, contracting authorities and suppliers can agree that invoices complying with the new standard will be considered to be in the required electronic form pending the Act being amended (invoices meeting the standard set out in the Act will be in the required electronic form until the Act is amended).",
+      "ordinal": 26,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "p",
+      "text": "16. Section 67 does not prevent contracting authorities from processing invoices using a particular system and requiring suppliers to use that system. In the case of defence authorities (as defined in section 7(5) ) (but not other contracting authorities), the use of such a system may require the payment of fees by the supplier.",
+      "ordinal": 27,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "17. Contracting authorities and suppliers are not prevented from agreeing an alternative invoicing system, for example a paper invoice to be sent by post to the contracting authority. However, suppliers will always have the right to submit an electronic invoice and for that to be processed for payment, provided it is in the required electronic form and not disputed.",
+      "ordinal": 28,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "p",
+      "text": "18. Section 68(1) implies a number of terms relating to payment into most public contracts (see paragraph 23 below for exceptions); the key term (set out in section 68(2) ) is that contracting authorities must pay suppliers’ invoices within 30 days from the day the invoice is received, or by the day on which the payment falls due in accordance with the sub-contractor’s invoice, if that payment due date falls after the 30 day window described above. There other implied terms which are ancillary to the term in section 68(2) which imply the following terms into the contract:",
+      "ordinal": 29,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "p",
+      "text": "a. that the period for payment in section 68(2) does not apply if the contracting authority considers that the invoice is not valid or if it disputes the invoice ( section 68(3) );",
+      "ordinal": 30,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "p",
+      "text": "b. that on receiving an invoice, the contracting authority must notify the payee without undue delay if it considers the invoice invalid or disputes it ( section 68(4) ); and",
+      "ordinal": 31,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "p",
+      "text": "c. that a contracting authority may rely on payment made by a third party to comply with the term in section 68(2) only if the payee agrees ( section 68(5) ) .",
+      "ordinal": 32,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "p",
+      "text": "19. Section 68(6) provides that the implied payment terms in sections 68(2-5) cannot be overridden by any other term. For example, the period for payment cannot be longer than the period set out in section 68(2) (although, it can be shorter (see section 68(7) ).",
+      "ordinal": 33,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "p",
+      "text": "20. To help ensure invoices are valid and disputes dealt with swiftly, contracting authorities should include provisions in their contracts that clearly set out the invoicing procedure, the information to be included in invoices and the procedure for resolving disputes relating to invoices.",
+      "ordinal": 34,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "p",
+      "text": "21. Section 68(8) provides that an invoice is valid if it is either an electronic invoice issued in the required electronic form (the definitions of electronic invoice and required electronic form are set out in section 67(3) ) or, alternatively, it meets any other requirement set out in the contract and contains the following ‘minimum required information’ (defined in section 68(9) ):",
+      "ordinal": 35,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "p",
+      "text": "a. the name of the invoicing party;",
+      "ordinal": 36,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "p",
+      "text": "b. a description of the goods, services, or works provided;",
+      "ordinal": 37,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "p",
+      "text": "c. the sum requested; and",
+      "ordinal": 38,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "p",
+      "text": "d. a unique identification number.",
+      "ordinal": 39,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "p",
+      "text": "22. A public sub-contract is defined at section 73(5) as a contract substantially for the purpose of performing (or contributing to the performance of) all or part of a public contract. Section 73 ensures that the payment terms in section 68 are passed on throughout public contract supply chains by implying them into every public sub-contract, other than one that relates to the performance of all or any part of a concession contract or a utilities contract awarded by a private utility, or a contract awarded by a school. The intention is to ensure that the benefits of prompt payment flows down to the lower tiers of the supply chain, benefitting small and medium-sized enterprises in particular.",
+      "ordinal": 40,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "p",
+      "text": "23. The payment terms set out in section 68 are not implied into the following:",
+      "ordinal": 41,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "p",
+      "text": "a. concession contracts;",
+      "ordinal": 42,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "p",
+      "text": "b. utility contracts awarded by private utilities;",
+      "ordinal": 43,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "p",
+      "text": "c. contracts awarded by a school.",
+      "ordinal": 44,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "p",
+      "text": "Contracting authorities may, if they wish, include the payment terms in the above contracts should they wish to.",
+      "ordinal": 45,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "p",
+      "text": "24. The payment terms set out in section 68 are not implied into any public sub-contract that is for the purpose of performing (or contributing to the performance of) all or part of:",
+      "ordinal": 46,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "p",
+      "text": "a. a concession contract;",
+      "ordinal": 47,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "p",
+      "text": "b. a utilities contract; or",
+      "ordinal": 48,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "p",
+      "text": "c. a contract awarded by a school.",
+      "ordinal": 49,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00050",
+      "block_type": "heading",
+      "text": "Determining when payment must be and is made",
+      "ordinal": 50,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "Key points and policy intent",
+        "Determining when payment must be and is made"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00051",
+      "block_type": "p",
+      "text": "25. For the purposes of determining when payment must be made under 68(2)(a), day 1 is the day the contracting authority receives the invoice; payment must be made before the end of day 30.",
+      "ordinal": 51,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "Key points and policy intent",
+        "Determining when payment must be and is made"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00052",
+      "block_type": "p",
+      "text": "26. If the contracting authority has an electronic invoicing system and suppliers upload their invoices to that system, the day that the invoice is received onto the system is day 1 ( section 68(11) and regulation 38(5) set out what references to a contracting authority receiving an invoice mean).",
+      "ordinal": 52,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "Key points and policy intent",
+        "Determining when payment must be and is made"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00053",
+      "block_type": "p",
+      "text": "27. Regulation 38(4) provides that payment is made when it is received by the supplier. If there is a delay in receipt for which the contracting authority is not responsible, then it provides that payment is made when it would have been received without that delay. For example, this might be the case where a payment processing system suffers a system outage.",
+      "ordinal": 53,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "Key points and policy intent",
+        "Determining when payment must be and is made"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00054",
+      "block_type": "p",
+      "text": "28. The term ‘invoice’ is not defined in the Act (unlike ‘electronic invoice’) or the regulations and may take different forms. For example, rather than a traditional invoice, the supplier may submit a timesheet setting out services delivered for a particular month under a services contract and the amount due. Provided the information submitted for payment includes the minimum required information (see section 68(9) (paragraph 21 above)), and meets the other requirements of the contract), or is in the required electronic form (see section 68(8)(a) , although this is unlikely in the case of a timesheet, for example) then it is a valid invoice. The period for payment in section 68(2) will apply and be calculated from the day the information, i.e. the invoice, is received by the contracting authority (provided it is valid and not disputed).",
+      "ordinal": 54,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "Key points and policy intent",
+        "Determining when payment must be and is made"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00055",
+      "block_type": "p",
+      "text": "29. Section 68(5) provides that a contracting authority can only rely on a payment made by a third party to satisfy the implied payment term in section 68(2) with the agreement of the payee (i.e. the person due to be paid under the invoice).",
+      "ordinal": 55,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "Key points and policy intent",
+        "Determining when payment must be and is made"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00056",
+      "block_type": "heading",
+      "text": "Supply chain finance",
+      "ordinal": 56,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "Key points and policy intent",
+        "Supply chain finance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00057",
+      "block_type": "p",
+      "text": "30. In all cases, unless the parties agree to a shorter period, the maximum payment period will always be as set out in section 68(2) . Using a supply chain finance product (a product designed to provide the supplier with early payment, but at an economic cost to the supplier) to ensure the supplier is paid within the period set out in section 68(2) would not be compliant with the Act. This is because the economic cost (for example a reduction in the amount paid under the invoice or a cost paid) associated with the supply chain finance product is effectively consideration for payment within timescales already required by the Act. Meaning that the supplier has not, in reality, received the full payment due under the invoice, because compliance with a legal obligation is not valid consideration. For example, if a contracting authority receives an invoice (in the required electronic form which it does not dispute) for £30,000, it must pay the supplier the full amount within 30 days. If the supplier is only contractually entitled to receive payment in 30 days by using a supply chain finance product, and only receives £29,000 (because of a reduction by the supply chain finance provider), the payment period in section 68(2) has not been met, because the contractual term specifying that supply chain finance can be used to reduce the amount paid is without effect, and therefore the entire undisputed amount has not been received during the payment period.",
+      "ordinal": 57,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "Key points and policy intent",
+        "Supply chain finance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00058",
+      "block_type": "p",
+      "text": "31. If a supplier wishes to use a supply chain finance product to receive payment earlier than the term provided for in section 68(2) , for example, within 5 days, that is a matter for the supplier and is not prohibited by the Act.",
+      "ordinal": 58,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "Key points and policy intent",
+        "Supply chain finance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00059",
+      "block_type": "heading",
+      "text": "What are the notices linked to this aspect of the Act?",
+      "ordinal": 59,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "What are the notices linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00060",
+      "block_type": "p",
+      "text": "32. The payment compliance notice requires contracting authorities to publish, on a six-monthly basis, information relating to its compliance with the implied payment term in section 68(2) , together with other payment information.",
+      "ordinal": 60,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "What are the notices linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00061",
+      "block_type": "heading",
+      "text": "What other guidance is of particular relevance to this topic area?",
+      "ordinal": 61,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00062",
+      "block_type": "p",
+      "text": "Guidance on payments compliance notices .",
+      "ordinal": 62,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00063",
+      "block_type": "heading",
+      "text": "Where can I go for more information?",
+      "ordinal": 63,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "Where can I go for more information?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00064",
+      "block_type": "p",
+      "text": "The British Standards Institution : the BSI is the UK’s National Standards Body. It is responsible for producing national and international standards including those relating to electronic invoicing.",
+      "ordinal": 64,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "Where can I go for more information?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00065",
+      "block_type": "p",
+      "text": "© Crown copyright 2024",
+      "ordinal": 65,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "Where can I go for more information?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00066",
+      "block_type": "p",
+      "text": "This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated. To view this licence, visit nationalarchives.gov.uk/doc/open-government-licence/version/3",
+      "ordinal": 66,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "Where can I go for more information?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00067",
+      "block_type": "p",
+      "text": "Where we have identified any third party copyright information you will need to obtain permission from the copyright holders concerned.",
+      "ordinal": 67,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "Where can I go for more information?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00068",
+      "block_type": "p",
+      "text": "This publication is available at www.gov.uk/government/publications",
+      "ordinal": 68,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "Where can I go for more information?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00069",
+      "block_type": "p",
+      "text": "Any enquiries regarding this publication should be sent to us at procurement.reform@cabinetoffice.gov.uk .",
+      "ordinal": 69,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "Where can I go for more information?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00070",
+      "block_type": "li",
+      "text": "Under the Act, public contracts do not include below-threshold contracts (see section 3 ). ↩",
+      "ordinal": 70,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "Where can I go for more information?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00071",
+      "block_type": "p",
+      "text": "Under the Act, public contracts do not include below-threshold contracts (see section 3 ). ↩",
+      "ordinal": 71,
+      "heading_path": [
+        "What is electronic invoicing and payment?",
+        "Where can I go for more information?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "Part 4",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/part/4",
+      "block_id": "b00001",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement Act 2023 (Act)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/contents",
+      "block_id": "b00001",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 67",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/67",
+      "block_id": "b00005",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 68",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00006",
+      "ordinal": 3,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 73",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/73",
+      "block_id": "b00007",
+      "ordinal": 4,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 68",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00007",
+      "ordinal": 5,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 88",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/88",
+      "block_id": "b00008",
+      "ordinal": 6,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 68",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00008",
+      "ordinal": 7,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 84(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/84",
+      "block_id": "b00008",
+      "ordinal": 8,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 67",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/67",
+      "block_id": "b00011",
+      "ordinal": 9,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "[footnote 1]",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-electronic-invoicing-and-payment-html#fn:1",
+      "block_id": "b00014",
+      "ordinal": 10,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Section 68",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00015",
+      "ordinal": 11,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 68(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00015",
+      "ordinal": 12,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 68(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00015",
+      "ordinal": 13,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 73",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/73",
+      "block_id": "b00015",
+      "ordinal": 14,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 88",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/88",
+      "block_id": "b00016",
+      "ordinal": 15,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "sections 68 and 73",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/part/4",
+      "block_id": "b00016",
+      "ordinal": 16,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "below-threshold contracts",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-below-threshold-contracts-html",
+      "block_id": "b00016",
+      "ordinal": 17,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 67",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/67",
+      "block_id": "b00020",
+      "ordinal": 18,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 67(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/67",
+      "block_id": "b00021",
+      "ordinal": 19,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 67(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/67",
+      "block_id": "b00022",
+      "ordinal": 20,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 67(4)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/67",
+      "block_id": "b00025",
+      "ordinal": 21,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 123",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/123",
+      "block_id": "b00026",
+      "ordinal": 22,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 67",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/67",
+      "block_id": "b00026",
+      "ordinal": 23,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 67",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/67",
+      "block_id": "b00026",
+      "ordinal": 24,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 67",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/67",
+      "block_id": "b00027",
+      "ordinal": 25,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 7(5)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/7",
+      "block_id": "b00027",
+      "ordinal": 26,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 68(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00029",
+      "ordinal": 27,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 68(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00029",
+      "ordinal": 28,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 68(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00029",
+      "ordinal": 29,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 68(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00030",
+      "ordinal": 30,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 68(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00030",
+      "ordinal": 31,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 68(4)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00031",
+      "ordinal": 32,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 68(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00032",
+      "ordinal": 33,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 68(5)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00032",
+      "ordinal": 34,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 68(6)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00033",
+      "ordinal": 35,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "sections 68(2-5)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00033",
+      "ordinal": 36,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 68(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00033",
+      "ordinal": 37,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 68(7)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00033",
+      "ordinal": 38,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 68(8)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00035",
+      "ordinal": 39,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 67(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/67",
+      "block_id": "b00035",
+      "ordinal": 40,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 68(9)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00035",
+      "ordinal": 41,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 73(5)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/73",
+      "block_id": "b00040",
+      "ordinal": 42,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 73",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/73",
+      "block_id": "b00040",
+      "ordinal": 43,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 68",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00040",
+      "ordinal": 44,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 68",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00041",
+      "ordinal": 45,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 68",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00046",
+      "ordinal": 46,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 68(11)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00052",
+      "ordinal": 47,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 38(5)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/38",
+      "block_id": "b00052",
+      "ordinal": 48,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Regulation 38(4)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/38",
+      "block_id": "b00053",
+      "ordinal": 49,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 68(9)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00054",
+      "ordinal": 50,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 68(8)(a)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00054",
+      "ordinal": 51,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 68(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00054",
+      "ordinal": 52,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 68(5)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00055",
+      "ordinal": 53,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 68(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00055",
+      "ordinal": 54,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 68(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00057",
+      "ordinal": 55,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 68(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00057",
+      "ordinal": 56,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 68(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00057",
+      "ordinal": 57,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 68(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00058",
+      "ordinal": 58,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 68(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00060",
+      "ordinal": 59,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "payments compliance notices",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-payments-compliance-notices-html",
+      "block_id": "b00062",
+      "ordinal": 60,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "British Standards Institution",
+      "href": "https://www.bsigroup.com/en-GB/",
+      "block_id": "b00064",
+      "ordinal": 61,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "nationalarchives.gov.uk/doc/open-government-licence/version/3",
+      "href": "http://nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "block_id": "b00066",
+      "ordinal": 62,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "www.gov.uk/government/publications",
+      "href": "http://www.gov.uk/government/publications",
+      "block_id": "b00068",
+      "ordinal": 63,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "procurement.reform@cabinetoffice.gov.uk",
+      "href": "mailto:procurement.reform@cabinetoffice.gov.uk",
+      "block_id": "b00069",
+      "ordinal": 64,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "section 3",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/3",
+      "block_id": "b00070",
+      "ordinal": 65,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-electronic-invoicing-and-payment-html#fnref:1",
+      "block_id": "b00070",
+      "ordinal": 66,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "section 3",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/3",
+      "block_id": "b00071",
+      "ordinal": 67,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-electronic-invoicing-and-payment-html#fnref:1",
+      "block_id": "b00071",
+      "ordinal": 68,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Guidance: Electronic Invoicing and Payment (HTML)",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-electronic-invoicing-and-payment-html",
+      "block_id": "__document__",
+      "ordinal": 69,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2024 to 2026 Starmer Labour government",
+      "href": "https://www.gov.uk/government/2024-starmer-labour-government",
+      "block_id": "__document__",
+      "ordinal": 70,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 71,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Procurement Act 2023 guidance documents - Manage phase",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase",
+      "block_id": "__document__",
+      "ordinal": 72,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 73,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 67",
+      "block_id": "b00005",
+      "start": 3,
+      "end": 13,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "67"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 13",
+      "block_id": "b00005",
+      "start": 252,
+      "end": 264,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "13"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 68",
+      "block_id": "b00006",
+      "start": 3,
+      "end": 13,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 73",
+      "block_id": "b00007",
+      "start": 3,
+      "end": 13,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "73"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 68",
+      "block_id": "b00007",
+      "start": 104,
+      "end": 114,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 22",
+      "block_id": "b00007",
+      "start": 165,
+      "end": 177,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "22"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 88",
+      "block_id": "b00008",
+      "start": 3,
+      "end": 13,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "88"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 68",
+      "block_id": "b00008",
+      "start": 119,
+      "end": 129,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 84(1)",
+      "block_id": "b00008",
+      "start": 205,
+      "end": 218,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "84",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 67",
+      "block_id": "b00011",
+      "start": 641,
+      "end": 651,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "67"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2019",
+      "block_id": "b00011",
+      "start": 139,
+      "end": 155,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2019"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 13",
+      "block_id": "b00011",
+      "start": 358,
+      "end": 370,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "13"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 113",
+      "block_id": "b00014",
+      "start": 9,
+      "end": 23,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "113"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015 (PCR)",
+      "block_id": "b00014",
+      "start": 48,
+      "end": 70,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015",
+        "tail": " (PCR)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2011",
+      "block_id": "b00014",
+      "start": 627,
+      "end": 643,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2011"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2016",
+      "block_id": "b00014",
+      "start": 670,
+      "end": 686,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2016"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2016",
+      "block_id": "b00014",
+      "start": 714,
+      "end": 730,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2016"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 68",
+      "block_id": "b00015",
+      "start": 3,
+      "end": 13,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 68(2)",
+      "block_id": "b00015",
+      "start": 399,
+      "end": 412,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 68(2)",
+      "block_id": "b00015",
+      "start": 808,
+      "end": 821,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 73",
+      "block_id": "b00015",
+      "start": 887,
+      "end": 897,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "73"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 113",
+      "block_id": "b00015",
+      "start": 177,
+      "end": 191,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "113"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 88",
+      "block_id": "b00016",
+      "start": 3,
+      "end": 13,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "88"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "sections 68",
+      "block_id": "b00016",
+      "start": 43,
+      "end": 54,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 67",
+      "block_id": "b00020",
+      "start": 4,
+      "end": 14,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "67"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 67(3)",
+      "block_id": "b00021",
+      "start": 40,
+      "end": 53,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "67",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 67(3)",
+      "block_id": "b00022",
+      "start": 206,
+      "end": 219,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "67",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 67(4)",
+      "block_id": "b00025",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "67",
+        "tail": "(4)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 123",
+      "block_id": "b00026",
+      "start": 44,
+      "end": 55,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "123"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 67",
+      "block_id": "b00026",
+      "start": 91,
+      "end": 101,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "67"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 67",
+      "block_id": "b00026",
+      "start": 372,
+      "end": 382,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "67"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 67",
+      "block_id": "b00027",
+      "start": 4,
+      "end": 14,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "67"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 7(5)",
+      "block_id": "b00027",
+      "start": 201,
+      "end": 213,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "7",
+        "tail": "(5)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 68(1)",
+      "block_id": "b00029",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 68(2)",
+      "block_id": "b00029",
+      "start": 157,
+      "end": 170,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 68(2)",
+      "block_id": "b00029",
+      "start": 514,
+      "end": 527,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 23",
+      "block_id": "b00029",
+      "start": 96,
+      "end": 108,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "23"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 68(2)",
+      "block_id": "b00030",
+      "start": 34,
+      "end": 47,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 68(3)",
+      "block_id": "b00030",
+      "start": 164,
+      "end": 177,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 68(4)",
+      "block_id": "b00031",
+      "start": 154,
+      "end": 167,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68",
+        "tail": "(4)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 68(2)",
+      "block_id": "b00032",
+      "start": 101,
+      "end": 114,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 68(5)",
+      "block_id": "b00032",
+      "start": 142,
+      "end": 155,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68",
+        "tail": "(5)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 68(6)",
+      "block_id": "b00033",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68",
+        "tail": "(6)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "sections 68",
+      "block_id": "b00033",
+      "start": 61,
+      "end": 72,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 68(2)",
+      "block_id": "b00033",
+      "start": 198,
+      "end": 211,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 68(7)",
+      "block_id": "b00033",
+      "start": 246,
+      "end": 259,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68",
+        "tail": "(7)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 68(8)",
+      "block_id": "b00035",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68",
+        "tail": "(8)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 67(3)",
+      "block_id": "b00035",
+      "start": 212,
+      "end": 225,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "67",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 68(9)",
+      "block_id": "b00035",
+      "start": 372,
+      "end": 385,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68",
+        "tail": "(9)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 73(5)",
+      "block_id": "b00040",
+      "start": 40,
+      "end": 53,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "73",
+        "tail": "(5)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 73",
+      "block_id": "b00040",
+      "start": 186,
+      "end": 196,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "73"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 68",
+      "block_id": "b00040",
+      "start": 231,
+      "end": 241,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 68",
+      "block_id": "b00041",
+      "start": 33,
+      "end": 43,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 68",
+      "block_id": "b00046",
+      "start": 33,
+      "end": 43,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 68(11)",
+      "block_id": "b00052",
+      "start": 184,
+      "end": 198,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68",
+        "tail": "(11)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 38(5)",
+      "block_id": "b00052",
+      "start": 203,
+      "end": 219,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "38",
+        "tail": "(5)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 38(4)",
+      "block_id": "b00053",
+      "start": 4,
+      "end": 20,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "38",
+        "tail": "(4)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 68(9)",
+      "block_id": "b00054",
+      "start": 406,
+      "end": 419,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68",
+        "tail": "(9)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 68(8)(a)",
+      "block_id": "b00054",
+      "start": 537,
+      "end": 553,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68",
+        "tail": "(8)(a)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 68(2)",
+      "block_id": "b00054",
+      "start": 677,
+      "end": 690,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 21",
+      "block_id": "b00054",
+      "start": 421,
+      "end": 433,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "21"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 68(5)",
+      "block_id": "b00055",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68",
+        "tail": "(5)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 68(2)",
+      "block_id": "b00055",
+      "start": 144,
+      "end": 157,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 68(2)",
+      "block_id": "b00057",
+      "start": 120,
+      "end": 133,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 68(2)",
+      "block_id": "b00057",
+      "start": 338,
+      "end": 351,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 68(2)",
+      "block_id": "b00057",
+      "start": 1224,
+      "end": 1237,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 68(2)",
+      "block_id": "b00058",
+      "start": 120,
+      "end": 133,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 68(2)",
+      "block_id": "b00060",
+      "start": 175,
+      "end": 188,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 3",
+      "block_id": "b00070",
+      "start": 78,
+      "end": 87,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "3"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 3",
+      "block_id": "b00071",
+      "start": 78,
+      "end": 87,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "3"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

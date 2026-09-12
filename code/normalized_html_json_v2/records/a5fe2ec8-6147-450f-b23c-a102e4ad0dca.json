@@ -1,0 +1,109 @@
+{
+  "document_id": "a5fe2ec8-6147-450f-b23c-a102e4ad0dca",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/0345c84766c4bd906f500eca.json",
+  "input_sha256": "9b89625101cd3e390f346ad80fa749dac6c0579712a5a62b07bd95eb23bed55a",
+  "processed_at": "2026-08-27T02:26:02.801139+00:00",
+  "title": "Procurement Policy Note 02/18: Changes to Data Protection Legislation & General Data Protection Regulation",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-policy-note-0218-changes-to-data-protection-legislation-general-data-protection-regulation",
+  "description": "This PPN updates and replaces PPN 03/17. It contains enhanced guidance and clarifications on a number of key areas as set out in the document. ",
+  "publication_date": "2018-05-18T16:20:00+01:00",
+  "updated_date": "2018-05-18T16:20:00+01:00",
+  "source_metadata": {
+    "content_id": "a5fe2ec8-6147-450f-b23c-a102e4ad0dca",
+    "base_path": "/government/publications/procurement-policy-note-0218-changes-to-data-protection-legislation-general-data-protection-regulation",
+    "document_type": "guidance",
+    "schema_name": "publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "This note applies to all Central Government Departments, their Executive Agencies and Non Departmental Public Bodies. Other public bodies will also be subject to the new Data Protection Legislation and may wish to apply the approaches set out in this note.",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "This PPN updates and replaces PPN 03/17. It contains enhanced guidance and clarifications on a number of key areas as set out in the document.",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "Procurement Policy Note 02/18: Changes to Data Protection Legislation & General Data Protection Regulation",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0218-changes-to-data-protection-legislation-general-data-protection-regulation",
+      "block_id": "__document__",
+      "ordinal": 0,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "Procurement policy notes",
+      "href": "https://www.gov.uk/government/collections/procurement-policy-notes",
+      "block_id": "__document__",
+      "ordinal": 1,
+      "link_type": "GOVUK_DOCUMENT_COLLECTIONS"
+    },
+    {
+      "text": "2016 to 2019 May Conservative government",
+      "href": "https://www.gov.uk/government/2016-to-2019-may-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Crown Commercial Service",
+      "href": "https://www.gov.uk/government/organisations/crown-commercial-service",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Crown Commercial Service",
+      "href": "https://www.gov.uk/government/organisations/crown-commercial-service",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_ORIGINAL_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Crown Commercial Service",
+      "href": "https://www.gov.uk/government/organisations/crown-commercial-service",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/5afeeeff40f0b62d8f28253f/18.docx.pdf",
+      "title": "Procurement Policy Note 02/18: Changes to Data Protection Legislation & General Data Protection Regulation",
+      "content_type": "application/pdf",
+      "filename": "18.docx.pdf",
+      "id": "2722197",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/5b068f48ed915d6971299c1f/GDPR_PPN_02-18__May_Release__Final1.docx",
+      "title": "Procurement Policy Note 02/18: Changes to Data Protection Legislation & General Data Protection Regulation - Word Version",
+      "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "filename": "GDPR_PPN_02-18__May_Release__Final1.docx",
+      "id": "2722200",
+      "logical_role": "ATTACHMENT"
+    }
+  ],
+  "warnings": []
+}

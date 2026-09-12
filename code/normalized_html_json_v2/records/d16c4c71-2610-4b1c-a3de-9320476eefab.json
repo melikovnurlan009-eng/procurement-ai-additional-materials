@@ -1,0 +1,4020 @@
+{
+  "document_id": "d16c4c71-2610-4b1c-a3de-9320476eefab",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/af3cb9c7c48ca4cd989565ee.json",
+  "input_sha256": "7e41b0b235ab1ea27f930f0ab45eb5fee87ba014c0bc2ea9ac9fab3ede50d345",
+  "processed_at": "2026-08-27T02:26:36.334873+00:00",
+  "title": "Guidance - Light Touch Contracts (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-light-touch-contracts-html",
+  "description": null,
+  "publication_date": "2024-05-24T15:08:34+01:00",
+  "updated_date": "2026-04-15T12:48:16+01:00",
+  "source_metadata": {
+    "content_id": "d16c4c71-2610-4b1c-a3de-9320476eefab",
+    "base_path": "/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-light-touch-contracts-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What are light touch contracts?",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What is the legal framework that governs light touch contracts?",
+      "ordinal": 3,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What has changed?",
+      "ordinal": 8,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Key points and policy intent",
+      "ordinal": 11,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Application",
+      "ordinal": 12,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "What is regulated health procurement?",
+      "ordinal": 20,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "What are the financial thresholds for light touch contracts?",
+      "ordinal": 23,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Procurement of light touch contracts",
+      "ordinal": 28,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Reserving contracts for light touch services to public service mutuals",
+      "ordinal": 40,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Lots",
+      "ordinal": 50,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Competitive tendering procedures",
+      "ordinal": 52,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Changes to competitive procedures prior to submission of final tenders",
+      "ordinal": 55,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Direct award",
+      "ordinal": 61,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Frameworks",
+      "ordinal": 75,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Award criteria",
+      "ordinal": 79,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Standstill",
+      "ordinal": 81,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Key performance indicators",
+      "ordinal": 83,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Contract modifications",
+      "ordinal": 85,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What are the primary notices linked to this aspect of the Act?",
+      "ordinal": 88,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What other guidance is of particular relevance to this topic area?",
+      "ordinal": 95,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Annex A: Summary of specific light touch provisions in the Act",
+      "ordinal": 100,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "What are light touch contracts?",
+      "ordinal": 0,
+      "heading_path": [
+        "What are light touch contracts?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "1. Light touch contracts are contracts for certain social, health, education and other public services and are subject to more flexible procurement rules. One thing these services have in common is that they are services provided directly to individuals or groups of people and therefore warrant special treatment and greater flexibility.",
+      "ordinal": 1,
+      "heading_path": [
+        "What are light touch contracts?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "2. This guidance deals only with the specific provisions that apply to light touch contracts. Where there are no specific provisions, there is no difference for light touch contracts and reference should be made to relevant other guidance on various aspects of the Procurement Act 2023 (Act) .",
+      "ordinal": 2,
+      "heading_path": [
+        "What are light touch contracts?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "heading",
+      "text": "What is the legal framework that governs light touch contracts?",
+      "ordinal": 3,
+      "heading_path": [
+        "What are light touch contracts?",
+        "What is the legal framework that governs light touch contracts?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "3. Section 9 (Light touch contracts) of the Act defines a ‘light touch contract’ and provides for regulations to specify which services (referred to in the regulations as ‘light touch services’) can be procured under a light touch contract.",
+      "ordinal": 4,
+      "heading_path": [
+        "What are light touch contracts?",
+        "What is the legal framework that governs light touch contracts?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "4. Schedule 1 to the Procurement Regulations 2024 (the Regulations) specifies which services are light touch services by description and reference to corresponding Common Procurement Vocabulary (CPV) codes. Light touch contracts (that are not exempted contracts) are public contracts if they are above the relevant threshold in Schedule 1 of the Act for the type of contract.",
+      "ordinal": 5,
+      "heading_path": [
+        "What are light touch contracts?",
+        "What is the legal framework that governs light touch contracts?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "p",
+      "text": "5. The Act contains special rules and exemptions for light touch contracts that are summarised in the table at Annex A of this guidance.",
+      "ordinal": 6,
+      "heading_path": [
+        "What are light touch contracts?",
+        "What is the legal framework that governs light touch contracts?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "6. Section 33 (Reserving contracts to public service mutuals) permits certain light touch contracts to be reserved for public service mutuals, as long as the contract term is for 5 years or less.",
+      "ordinal": 7,
+      "heading_path": [
+        "What are light touch contracts?",
+        "What is the legal framework that governs light touch contracts?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "heading",
+      "text": "What has changed?",
+      "ordinal": 8,
+      "heading_path": [
+        "What are light touch contracts?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "7. The Act specifies which contracts are light touch contracts in broadly the same manner as the previous legislation - by identifying specific services which can be procured under light touch contracts. While there are no longer separate rules, there are exceptions and special provisions in the Act that result in more flexibility and fewer rules regulating how procurement is carried out for light touch contracts.",
+      "ordinal": 9,
+      "heading_path": [
+        "What are light touch contracts?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "p",
+      "text": "8. Schedule 5, paragraphs 15 to 17 (Direct award justifications) set out a new direct award justification for ‘user choice contracts’, which, if satisfied, means the contracting authority does not need to carry out a competitive tendering procedure prior to awarding a contract. Broadly, this direct award justification applies where separate legislation or statutory guidance imposes a legal obligation on the contracting authority, when procuring such services, to have regard to the views of the user of the services, or their carer, with regard to which supplier should provide the services.",
+      "ordinal": 10,
+      "heading_path": [
+        "What are light touch contracts?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "heading",
+      "text": "Key points and policy intent",
+      "ordinal": 11,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "heading",
+      "text": "Application",
+      "ordinal": 12,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Application"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "9. A light touch contract is a contract wholly or mainly for the supply of services, as stated above, of a kind specified in Schedule 1 to the Regulations.",
+      "ordinal": 13,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Application"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "10. The specific light touch provisions in the Act apply in procurements where:",
+      "ordinal": 14,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Application"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "a. the light touch contract is a public contract; and",
+      "ordinal": 15,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Application"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "b. the procurement is not a regulated health procurement as defined in regulations made under the National Health Service Act 2006 .",
+      "ordinal": 16,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Application"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "11. A light touch contract is a public contract where:",
+      "ordinal": 17,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Application"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "p",
+      "text": "a. the estimated value of the contract exceeds the relevant financial threshold; and",
+      "ordinal": 18,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Application"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "b. the contract is not an exempted contract as defined in the Act (see guidance on exempted contracts ).",
+      "ordinal": 19,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Application"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "heading",
+      "text": "What is regulated health procurement?",
+      "ordinal": 20,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "What is regulated health procurement?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "12. Regulated health procurement is the procurement of specified goods or services by a ‘relevant authority’ that are subject to separate procurement provisions made under the National Health Services Act 2006 . These separate provisions are currently the Health Care Services (Provider Selection Regime) Regulations 2023 (PSR regulations), and have applied to the procurement of certain healthcare services by relevant authorities in England since 1 January 2024. ‘Relevant authority’ is defined in section 12ZB of the National Health Services Act 2006 and includes NHS bodies and local authorities. The effect of the PSR regulations is that relevant commissioners of health care services in the NHS and local government must follow the PSR regulations, rather than the Act, when procuring health care services covered by the PSR regulations.",
+      "ordinal": 21,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "What is regulated health procurement?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "p",
+      "text": "13. In order to enable regulated health procurement to be governed by the PSR, rather than the Act, regulation 43 (in reliance on the power in section 120 (Power to disapply this Act in relation to procurement by NHS in England) of the Act), disapplies the Act in relation to regulated health procurement. Further information is provided in the guidance on mixed procurement and at NHS England’s website [footnote 1] .",
+      "ordinal": 22,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "What is regulated health procurement?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "heading",
+      "text": "What are the financial thresholds for light touch contracts?",
+      "ordinal": 23,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "What are the financial thresholds for light touch contracts?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "14. Schedule 1 of the Act sets out the various thresholds applicable to the different categories of contracts. Whether the estimated value of a contract (that is not an exempted contract) is above or below the relevant threshold determines whether it is a public contract under the Act, that is, whether generally it is subject to the rules for public contracts, or (if relevant) to the below-threshold provisions in Part 6 .",
+      "ordinal": 24,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "What are the financial thresholds for light touch contracts?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "p",
+      "text": "15. The current financial thresholds at or above which light touch contracts are public contracts are set out below and have applied since 1 January 2024. The thresholds in the Act currently reflect those in place at the time of royal assent and will be updated by secondary legislation prior to the Act coming into force .",
+      "ordinal": 25,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "What are the financial thresholds for light touch contracts?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "table",
+      "text": "Light touch contracts\tThreshold\nUtilities contract that is a light touch contract\t£884,720\nConcession contract that is a light touch contract\t£5,372,609\nAll other light touch contracts\t£663,540",
+      "ordinal": 26,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "What are the financial thresholds for light touch contracts?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {
+        "rows": [
+          [
+            "Light touch contracts",
+            "Threshold"
+          ],
+          [
+            "Utilities contract that is a light touch contract",
+            "£884,720"
+          ],
+          [
+            "Concession contract that is a light touch contract",
+            "£5,372,609"
+          ],
+          [
+            "All other light touch contracts",
+            "£663,540"
+          ]
+        ],
+        "row_count": 4
+      }
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "p",
+      "text": "16. The rules on calculating estimated contract value are set out in Schedule 3 (Estimating the value of a contract). The overriding principle is that the estimate must reflect the total likely amount the contracting authority could expect to pay under the contract (inclusive of VAT) and the method of calculation must not be intended to avoid having to comply with the Act. See guidance on valuation of contracts for more information.",
+      "ordinal": 27,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "What are the financial thresholds for light touch contracts?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "heading",
+      "text": "Procurement of light touch contracts",
+      "ordinal": 28,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Procurement of light touch contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "p",
+      "text": "17. The Act integrates light touch contracts into the broader procurement regime, and includes special rules and exemptions where greater flexibility is justified. This makes it clear how such procurements should be carried out, and ensures that probity and transparency are built into the process, while respecting these contracts’ unique characteristics.",
+      "ordinal": 29,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Procurement of light touch contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "p",
+      "text": "18. Light touch contracts must be advertised using a tender notice unless a direct award justification applies. Contracting authorities are required to determine whether suppliers are excluded or excludable suppliers and consider conflicts of interest before awarding the contract. Transparency will be maintained through publication requirements, including requirements for a contract award notice, a contract details notice and, when the contract is over £5 million, publication of the contract.",
+      "ordinal": 30,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Procurement of light touch contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "p",
+      "text": "19. Procurement of a light touch contract that is a public contract is covered procurement and therefore will be subject to the procurement objectives in section 12 (Covered procurement: objectives). Namely, a contracting authority must have regard to:",
+      "ordinal": 31,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Procurement of light touch contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "p",
+      "text": "a. the importance of delivering value for money;",
+      "ordinal": 32,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Procurement of light touch contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "p",
+      "text": "b. the importance of maximising public benefit;",
+      "ordinal": 33,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Procurement of light touch contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "p",
+      "text": "c. the importance of sharing information for the purpose of allowing suppliers and others to understand the contracting authority’s procurement policies and decisions; and",
+      "ordinal": 34,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Procurement of light touch contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "p",
+      "text": "d. the importance of acting, and being seen to act, with integrity.",
+      "ordinal": 35,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Procurement of light touch contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "p",
+      "text": "20. Section 12 also provides that, when carrying out covered procurement, contracting authorities must:",
+      "ordinal": 36,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Procurement of light touch contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "p",
+      "text": "a. treat suppliers the same unless a different treatment is justified; and",
+      "ordinal": 37,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Procurement of light touch contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "p",
+      "text": "b. have regard to the fact that small and medium-sized enterprises may face barriers to participation and consider whether such barriers can be removed or reduced.",
+      "ordinal": 38,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Procurement of light touch contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "p",
+      "text": "21. These procurement objectives provide overall parameters within which the contracting authority has freedom to design the procedure for light touch contracts. See the guidance on covered procurement objectives for more information.",
+      "ordinal": 39,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Procurement of light touch contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "heading",
+      "text": "Reserving contracts for light touch services to public service mutuals",
+      "ordinal": 40,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Reserving contracts for light touch services to public service mutuals"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "p",
+      "text": "22. Section 33 of the Act permits contracting authorities to reserve certain types of contracts for public sector mutuals. This ability complements the social value agenda and can help contracting authorities to deliver on social value commitments by awarding contracts to suppliers that have such priorities at the heart of their organisation. Whilst reserving contracts is encouraged, doing so must be considered in the wider context of value for money.",
+      "ordinal": 41,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Reserving contracts for light touch services to public service mutuals"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "p",
+      "text": "23. Public service mutuals are organisations that:",
+      "ordinal": 42,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Reserving contracts for light touch services to public service mutuals"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "p",
+      "text": "a. operate for the purpose of delivering public services and mainly for the purpose of delivering one or more ‘reservable light touch services’ (see paragraph 23 below);",
+      "ordinal": 43,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Reserving contracts for light touch services to public service mutuals"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "p",
+      "text": "b. are not for profit, or provide for the distribution of profits only to its members; and",
+      "ordinal": 44,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Reserving contracts for light touch services to public service mutuals"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "p",
+      "text": "c. are under the management and control of their employees.",
+      "ordinal": 45,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Reserving contracts for light touch services to public service mutuals"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "p",
+      "text": "24. In order to be awarded a ‘reserved contract’, a public service mutual must be a ‘qualifying public service mutual’, which means that it must not have entered into a reserved contract for the same kind of light touch services with the same contracting authority in the preceding three years.",
+      "ordinal": 46,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Reserving contracts for light touch services to public service mutuals"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "p",
+      "text": "25. The types of light touch contracts that can be reserved under section 33 are those for the supply of ‘reservable light touch services’, which are identified by an “R” next to the description of the service in Schedule 1 to the Regulations.",
+      "ordinal": 47,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Reserving contracts for light touch services to public service mutuals"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "p",
+      "text": "26. Where a contract is being reserved to a public service mutual, section 33(2) requires contracting authorities to use the competitive flexible procedure as, unlike the open procedure, it allows for the exclusion of suppliers who do not meet this requirement.",
+      "ordinal": 48,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Reserving contracts for light touch services to public service mutuals"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "p",
+      "text": "27. Section 33(4) requires contracting authorities to disregard any tenders from suppliers that are not qualifying public service mutuals in assessing tenders under section 19 when carrying out such a procedure. This can be done at the participation stage or as part of the assessment of tenders, depending on how the procedure is structured. More information can be found in the guidance on reserved contracts .",
+      "ordinal": 49,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Reserving contracts for light touch services to public service mutuals"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00050",
+      "block_type": "heading",
+      "text": "Lots",
+      "ordinal": 50,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Lots"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00051",
+      "block_type": "p",
+      "text": "28. Section 18 (Duty to consider lots) applies to light touch contracts and requires a contracting authority to consider whether the requirement could be broken into lots and the services supplied under more than one contract. For light touch contracts regulation 18(2)(q) provides that there is no requirement to provide a justification in the tender notice if not dividing the contract into lots. See the guidance on lots for more information.",
+      "ordinal": 51,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Lots"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00052",
+      "block_type": "heading",
+      "text": "Competitive tendering procedures",
+      "ordinal": 52,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Competitive tendering procedures"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00053",
+      "block_type": "p",
+      "text": "29. Contracting authorities awarding light touch contracts are subject to the same provisions relating to competitive tendering procedures as apply when awarding other types of contracts. The provisions relating to competitive tendering procedures are set out in section 20 (Competitive tendering procedures). See the guidance on competitive tendering procedures for more information.",
+      "ordinal": 53,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Competitive tendering procedures"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00054",
+      "block_type": "p",
+      "text": "30. The participation and tendering periods for light touch contracts are not mandated by section 54 (Time limits) of the Act, allowing for light touch services to be procured more swiftly. However, contracting authorities must ensure that timescales are reasonable, for example, having regard to the nature of the requirement and the complexity of the contract being awarded (see section 54(1) ).",
+      "ordinal": 54,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Competitive tendering procedures"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00055",
+      "block_type": "heading",
+      "text": "Changes to competitive procedures prior to submission of final tenders",
+      "ordinal": 55,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Changes to competitive procedures prior to submission of final tenders"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00056",
+      "block_type": "p",
+      "text": "31. Section 31(2)(b) (Modifying a section 19 procurement) allows modifications to a competitive flexible procedure, even if they are considered to be substantial, to be made before the deadline for submission of final tenders where the procurement is for a light touch contract.",
+      "ordinal": 56,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Changes to competitive procedures prior to submission of final tenders"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00057",
+      "block_type": "p",
+      "text": "32. When making such modifications contracting authorities must:",
+      "ordinal": 57,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Changes to competitive procedures prior to submission of final tenders"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00058",
+      "block_type": "p",
+      "text": "a. ensure such modifications are in line with the procurement objectives at section 12 of the Act;",
+      "ordinal": 58,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Changes to competitive procedures prior to submission of final tenders"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00059",
+      "block_type": "p",
+      "text": "b. consider revising any applicable timescales as a result of such modification;",
+      "ordinal": 59,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Changes to competitive procedures prior to submission of final tenders"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00060",
+      "block_type": "p",
+      "text": "c. notify the participating suppliers of such changes, where a participation period applies.",
+      "ordinal": 60,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Changes to competitive procedures prior to submission of final tenders"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00061",
+      "block_type": "heading",
+      "text": "Direct award",
+      "ordinal": 61,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Direct award"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00062",
+      "block_type": "p",
+      "text": "33. Section 41 (Direct award in special cases) permits a contracting authority to award a contract without first running a competitive tendering procedure when a direct award justification (set out in Schedule 5 ) applies. Whilst other justifications may be relevant, there is a specific justification for contracts for ‘user choice services’ and those set out below may be particularly relevant.",
+      "ordinal": 62,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Direct award"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00063",
+      "block_type": "p",
+      "text": "34. Schedule 5, paragraph 6 (Single suppliers) permits a contracting authority to award a contract directly where technical reasons mean only a particular supplier can supply the goods, services or works required, and there are no reasonable alternatives to those goods, services or works. In the context of light touch contracts, this could arise when the application of a particular legislative regime means that a contract can be awarded only to one specific provider. For example, the Children and Families Act 2014 may require special educational needs provision to be delivered by a particular supplier. In some cases a decision may be made by an independent tribunal that a particular provider must provide education services, and compliance with that judicial decision would satisfy the direct award ground for technical reasons.",
+      "ordinal": 63,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Direct award"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00064",
+      "block_type": "p",
+      "text": "35. Schedule 5, paragraphs 15 to 17 (User choice contracts) permit a contracting authority to directly award a user choice contract. The contract must be for user choice services and the contracting authority must be under a legal obligation (for example, as required under the Care Act 2014 ) to have regard to the views of the individual receiving the services, or their carer, when selecting the supplier to be awarded the contract. This makes it clear that there is no requirement under the Act to carry out a competitive tendering procedure in a scenario where the individual, or their carer, has a legal right to choose a particular supplier and paragraphs 15 to 17 apply.",
+      "ordinal": 64,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Direct award"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00065",
+      "block_type": "p",
+      "text": "36. Paragraph 16 defines user choice services as services that:",
+      "ordinal": 65,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Direct award"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00066",
+      "block_type": "p",
+      "text": "a. are of a kind specified in regulations under section 9 (Light touch contracts);",
+      "ordinal": 66,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Direct award"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00067",
+      "block_type": "p",
+      "text": "b. are supplied for the benefit of a particular individual; and",
+      "ordinal": 67,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Direct award"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00068",
+      "block_type": "p",
+      "text": "c. in respect of which a contracting authority would, in awarding a contract for their supply, be required under an enactment to have regard to the views of the individual, or a person providing care to the individual (their carer), in relation to whom should supply the services.",
+      "ordinal": 68,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Direct award"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00069",
+      "block_type": "p",
+      "text": "37. The contract must comply with the conditions in:",
+      "ordinal": 69,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Direct award"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00070",
+      "block_type": "p",
+      "text": "a. paragraph 17(a) , that the individual or carer has expressed a preference as to who should supply the services, or the nature of the services to be supplied is such that only one supplier is capable of providing them; and",
+      "ordinal": 70,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Direct award"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00071",
+      "block_type": "p",
+      "text": "b. paragraph 17(b) , that the contracting authority considers it is not in the best interests of the individual for a competitive tendering procedure to apply.",
+      "ordinal": 71,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Direct award"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00072",
+      "block_type": "p",
+      "text": "38. Contracting authorities have the flexibility to reflect the specific needs of different categories of users (including the need to involve and empower disadvantaged and vulnerable groups) in the award criteria for light touch contracts.",
+      "ordinal": 72,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Direct award"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00073",
+      "block_type": "p",
+      "text": "39. Contracting authorities must generally publish a transparency notice before directly awarding a light touch contract. The notice is not required for user choice contracts awarded under paragraphs 15 to 17 of Schedule 5 .",
+      "ordinal": 73,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Direct award"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00074",
+      "block_type": "p",
+      "text": "40. Please refer to the guidance on direct award for further information on these justifications.",
+      "ordinal": 74,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Direct award"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00075",
+      "block_type": "heading",
+      "text": "Frameworks",
+      "ordinal": 75,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00076",
+      "block_type": "p",
+      "text": "41. The definition of a light touch contract under the Act includes a ‘light touch framework’, which is a contract that provides for the future award of contracts that are wholly or mainly for light touch services.",
+      "ordinal": 76,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00077",
+      "block_type": "p",
+      "text": "42. This means that light touch frameworks are generally subject to the Act, for example the provisions in section 45 (Frameworks) relating to frameworks generally apply. However, there are exceptions and section 45(9) provides greater flexibility in that there is no requirement for a competitive selection process (and therefore section 46 does not apply) or for specific information to be included in the framework. Section 47(5)(c) provides that there is no maximum term for a light touch framework.",
+      "ordinal": 77,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00078",
+      "block_type": "p",
+      "text": "43. Where a framework that is not a light touch contract is being used for the award of contracts for light touch services, the Act applies in full, including, for example, the competitive selection process set out in the framework.",
+      "ordinal": 78,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00079",
+      "block_type": "heading",
+      "text": "Award criteria",
+      "ordinal": 79,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Award criteria"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00080",
+      "block_type": "p",
+      "text": "44. Section 23(6) (Award criteria) allows additional factors to be taken into account in award criteria for light touch contracts, such as to reflect that a service recipient may have the right to exercise their choice, or that proximity of the supplier and service user may be important for the effective and efficient supply of services (i.e. not having numerous care providers criss-crossing a county).",
+      "ordinal": 80,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Award criteria"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00081",
+      "block_type": "heading",
+      "text": "Standstill",
+      "ordinal": 81,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Standstill"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00082",
+      "block_type": "p",
+      "text": "45. Section 51(3)(f) (Standstill periods on the award of contracts) provides that there is no mandatory standstill period for light touch contracts, although contracting authorities are encouraged to apply a voluntary standstill period to reduce the risk of the contract being set aside under section 105 (Post-contractual remedies: set aside conditions). See guidance on the contract award notice and standstill for more information.",
+      "ordinal": 82,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Standstill"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00083",
+      "block_type": "heading",
+      "text": "Key performance indicators",
+      "ordinal": 83,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Key performance indicators"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00084",
+      "block_type": "p",
+      "text": "46. Section 52(6) (Key performance indicators) exempts light touch contracts from the requirement for contracting authorities to set and publish at least three key performance indicators in respect of contracts with a value of more than £5 million.",
+      "ordinal": 84,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Key performance indicators"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00085",
+      "block_type": "heading",
+      "text": "Contract modifications",
+      "ordinal": 85,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Contract modifications"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00086",
+      "block_type": "p",
+      "text": "47. Section 74(2) (Modifying a public contract) allows the modification of light touch contracts, without having to apply the other provisions of the section. In addition, in accordance with section 75(6) (Contract change notices), modification of a light touch contract does not require the publication of a contract change notice. Again, this reflects the overall intent to maintain less onerous light touch rules.",
+      "ordinal": 86,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Contract modifications"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00087",
+      "block_type": "p",
+      "text": "48. Light touch contracts may therefore be modified under the Act in any circumstances, provided contracting authorities have regard to the procurement objectives in section 12 .",
+      "ordinal": 87,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Key points and policy intent",
+        "Contract modifications"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00088",
+      "block_type": "heading",
+      "text": "What are the primary notices linked to this aspect of the Act?",
+      "ordinal": 88,
+      "heading_path": [
+        "What are light touch contracts?",
+        "What are the primary notices linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00089",
+      "block_type": "p",
+      "text": "49. Procurement of light touch contracts under the Act is generally governed by the same transparency and noticing requirements as apply to other contracts. The exceptions are set out in more detail above and are as follows:",
+      "ordinal": 89,
+      "heading_path": [
+        "What are light touch contracts?",
+        "What are the primary notices linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00090",
+      "block_type": "p",
+      "text": "a. there is no obligation for light touch contracts to justify not awarding a contract by reference to lots within a tender notice;",
+      "ordinal": 90,
+      "heading_path": [
+        "What are light touch contracts?",
+        "What are the primary notices linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00091",
+      "block_type": "p",
+      "text": "b. light touch contracts are not subject to a mandatory standstill and there is therefore no obligation to set out the standstill period in the contract award notice (voluntary standstill information must be included where such a period is to be observed);",
+      "ordinal": 91,
+      "heading_path": [
+        "What are light touch contracts?",
+        "What are the primary notices linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00092",
+      "block_type": "p",
+      "text": "c. publication of the contract details notice for light touch contracts is required to take place within 120 days after the contracting authority has entered into the contract and publication of the contract (when required) within 180 days;",
+      "ordinal": 92,
+      "heading_path": [
+        "What are light touch contracts?",
+        "What are the primary notices linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00093",
+      "block_type": "p",
+      "text": "d. the Act does not require light touch contracts to set or publish key performance indicators and therefore the obligation to publish related performance information in the contract performance notice does not apply; and",
+      "ordinal": 93,
+      "heading_path": [
+        "What are light touch contracts?",
+        "What are the primary notices linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00094",
+      "block_type": "p",
+      "text": "e. there is no requirement for contracting authorities modifying a light touch contract to publish a contract change notice.",
+      "ordinal": 94,
+      "heading_path": [
+        "What are light touch contracts?",
+        "What are the primary notices linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00095",
+      "block_type": "heading",
+      "text": "What other guidance is of particular relevance to this topic area?",
+      "ordinal": 95,
+      "heading_path": [
+        "What are light touch contracts?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00096",
+      "block_type": "p",
+      "text": "Contracting authorities awarding light touch contracts will need to understand the whole of the Act, as the same provisions (for example, relating to competitive tendering procedures , conditions of participation and assessing competitive tenders ) as apply to contracting authorities awarding other contracts apply. However, the following guidance is of particular relevance in determining whether a contract will be governed by the provisions in the Act for light touch contracts:",
+      "ordinal": 96,
+      "heading_path": [
+        "What are light touch contracts?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00097",
+      "block_type": "p",
+      "text": "Guidance on thresholds",
+      "ordinal": 97,
+      "heading_path": [
+        "What are light touch contracts?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00098",
+      "block_type": "p",
+      "text": "Guidance on exempted contracts",
+      "ordinal": 98,
+      "heading_path": [
+        "What are light touch contracts?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00099",
+      "block_type": "p",
+      "text": "Guidance on mixed procurement",
+      "ordinal": 99,
+      "heading_path": [
+        "What are light touch contracts?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00100",
+      "block_type": "heading",
+      "text": "Annex A: Summary of specific light touch provisions in the Act",
+      "ordinal": 100,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Annex A: Summary of specific light touch provisions in the Act"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00101",
+      "block_type": "table",
+      "text": "Legislative reference\tSpecific Light Touch Rules\nSection 9 - Light touch contracts\tSection 9(1) defines a ‘light touch contract’ as a contract wholly or mainly for the supply of certain services which will be identified by regulations made under section 9(2) . Section 9(2) provides that an appropriate authority (defined in section 123(1) ) may by regulations specify which services are light touch services. Section 9(3-4) limits the power at 9(2) by requiring an appropriate authority to have regard to the nature of the services and consider whether it is appropriate for them to be light touch contracts. Section 9(5) makes clear that a reference to a light touch contract includes a reference to a framework for the award of light touch contracts.\nSection 10 - Mixed procurement: special regime contracts\tSection 10(6) lists light touch contracts among the different types of special regime contracts. Some mixed contracts will contain elements which, if procured separately, would be subject to special rules, such as light touch contracts. When awarding a mixed contract containing one or more elements that would, if procured separately, be subject to a ‘special regime’, together with other above-threshold elements that would not be subject to that special regime, section 10(3) provides that a contracting authority cannot take advantage of such special regime rules where it would be reasonable to split out the requirement.\nSection 23 - Award criteria\tSection 23(6) provides an additional (non-exhaustive) list of what may constitute the ‘subject matter of a contract’ for light touch contracts. This includes the views of an individual or their carer and the varied needs of different service recipients. It may also include where proximity of the supplier and service recipients is important for the effective and efficient supply of the services. This additional flexibility recognises the special nature of these contracts.\nSection 31 - Modifying a section 19 procurement\tSection 31(2)(b) allows the modification of the terms of a competitive flexible procedure for the procurement of a light touch contract before the deadline for submitting tenders or final tenders, as relevant.\nSection 33 - Reserving contracts to public service mutuals\tSection 33(1) provides that a contract for ‘reservable light touch services’ with a maximum term of five years or less may be reserved for ‘qualifying public service mutuals’ under this section. Section 33(2-4) requires that the procurement must be carried out under a competitive flexible procedure and that the contracting authority must disregard any tender from a supplier that is not a qualifying public service mutual. Section 33(8) allows an appropriate authority to, by regulations, specify which of the light touch services (that have been specified as such via regulations made under section 9 (light touch contracts)) are ‘reservable light touch services’, and so reservable under this section.\nSection 45 - Frameworks\tSection 45(9) provides that section 45(3-5) does not apply when a framework is a light touch contract (i.e. it is a framework wholly or mainly for the future award of light touch contracts). Se ction 45(3-5) contains rules about the selection processes for the award of contracts and what information must be included in the framework.\nSection 46 - Frameworks: competitive selection process\tSection 46(11) states that this section does not apply where the framework is a light touch contract.\nSection 47 - Frameworks: maximum term\tSection 47(5)(c) states this section (and therefore the maximum term) does not apply to frameworks which are light touch contracts.\nSection 51 - Standstill periods on the award of contracts\tSection 51(3) explains that certain types of contract do not require a mandatory standstill period, which includes light touch contracts. This means light touch contracts can be entered into immediately following publication of the contract award notice. Section 51(4) permits contracting authorities awarding light touch contracts to voluntarily specify a standstill period in the contract award notice and states that if such a standstill is provided for, it must be complied with. Section 51(5) states that a voluntary standstill period must be a period of at least 8 working days.\nSection 52 - Key performance indicators\tSection 52(6) states that this section does not apply to light touch contracts.\nSection 53 - Contract details notices and publication of contracts\tSection 53(1)(a) requires that once a contracting authority has entered into a light touch contract, it must publish a contract details notice in relation to that contract within a 120 day time period after the contract is entered into. Section 53(3)(a) requires a contracting authority to publish a copy of a light touch contract within a 180 day time period of the date that it is entered into, if the estimated value exceeds £5 million.\nSection 54 - Time limits\tSection 54(3) states there is no minimum ‘participation period’ for light touch contracts. This refers to the period beginning with the day following the day on which a contracting authority invites the submission of requests to participate in a competitive flexible procedure and ending with the day by which those requests must be submitted. Section 54(4) states there is no minimum tendering period for light touch contracts. This refers to the period beginning with the day following the day on which a contracting authority invites the submission of tenders as part of a competitive tendering procedure and ending with the day by which tenders must be submitted.\nSection 71 - Assessment of contract performance\tSection 71(6) exempts light touch contracts from the publication obligations in section 71(5) with regard to a particular breach or failure to perform.\nSection 74 - Modifying a public contract\tSection 74(2) sets out that a contracting authority may modify a public contract or a convertible contract if the contract is a light touch contract.\nSection 75 - Contract change notices\tSection 75(6)(b) provides that the requirement to publish a contract change notice does not apply to light touch contracts\nSection 120 - Power to disapply this Act in relation to procurement by NHS in England\tSection 120 provides a power for a Minister of the Crown to make regulations disapplying any provision of the Act in relation to regulated health procurement, which are procurements subject to provision made under section 12ZB of the National Health Service Act 2006\nSection 124 - Index of defined expressions\tSection 124 cross-references terms used in the Act to the relevant provisions where they are defined and includes the term light touch contract.\nSchedule 1 - Threshold Amounts\tParagraph 1 sets out the thresholds for light touch contracts.These will be updated by regulations prior to the Act coming into force to reflect changes in force since 1st January 2024, which are: - Utilities contract that is a light touch contract - £884,720 - Concession contract that is a light touch contract - £5,336,937 - Other light touch contracts - £663,540 Paragraph 3 provides a separate power to update light touch contract thresholds\nSchedule 5, paragraphs 15 to 17 - Direct award justifications\tThis direct award justification applies where a contract is not suitable for a competitive tendering procedure due to a legal requirement for a contracting authority to take account of the needs or preferences of a specific user. Paragraph 15 provides that public contracts for the supply of ‘user choice services’ may be awarded directly, provided the conditions of paragraph 17 are met. Paragraph 16 defines ‘user choice services’ as ‘light touch services’ (specified under regulations in section 9 ) which are supplied for the benefit of a particular individual and where (by another enactment, i.e. another legislative means such as the Care Act 2014 ) the contracting authority must take into account the view of the individual or their carer as to who should supply the service. Paragraph 17 requires that the individual or their carer must have expressed a preference as to who should provide the service or the nature of the service to be provided means only one supplier can provide it. In addition, the contracting authority must consider that it is in the best interest of the individual that the contract is not awarded under a competitive tendering procedure.",
+      "ordinal": 101,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Annex A: Summary of specific light touch provisions in the Act"
+      ],
+      "source_locator": "details.body",
+      "metadata": {
+        "rows": [
+          [
+            "Legislative reference",
+            "Specific Light Touch Rules"
+          ],
+          [
+            "Section 9 - Light touch contracts",
+            "Section 9(1) defines a ‘light touch contract’ as a contract wholly or mainly for the supply of certain services which will be identified by regulations made under section 9(2) . Section 9(2) provides that an appropriate authority (defined in section 123(1) ) may by regulations specify which services are light touch services. Section 9(3-4) limits the power at 9(2) by requiring an appropriate authority to have regard to the nature of the services and consider whether it is appropriate for them to be light touch contracts. Section 9(5) makes clear that a reference to a light touch contract includes a reference to a framework for the award of light touch contracts."
+          ],
+          [
+            "Section 10 - Mixed procurement: special regime contracts",
+            "Section 10(6) lists light touch contracts among the different types of special regime contracts. Some mixed contracts will contain elements which, if procured separately, would be subject to special rules, such as light touch contracts. When awarding a mixed contract containing one or more elements that would, if procured separately, be subject to a ‘special regime’, together with other above-threshold elements that would not be subject to that special regime, section 10(3) provides that a contracting authority cannot take advantage of such special regime rules where it would be reasonable to split out the requirement."
+          ],
+          [
+            "Section 23 - Award criteria",
+            "Section 23(6) provides an additional (non-exhaustive) list of what may constitute the ‘subject matter of a contract’ for light touch contracts. This includes the views of an individual or their carer and the varied needs of different service recipients. It may also include where proximity of the supplier and service recipients is important for the effective and efficient supply of the services. This additional flexibility recognises the special nature of these contracts."
+          ],
+          [
+            "Section 31 - Modifying a section 19 procurement",
+            "Section 31(2)(b) allows the modification of the terms of a competitive flexible procedure for the procurement of a light touch contract before the deadline for submitting tenders or final tenders, as relevant."
+          ],
+          [
+            "Section 33 - Reserving contracts to public service mutuals",
+            "Section 33(1) provides that a contract for ‘reservable light touch services’ with a maximum term of five years or less may be reserved for ‘qualifying public service mutuals’ under this section. Section 33(2-4) requires that the procurement must be carried out under a competitive flexible procedure and that the contracting authority must disregard any tender from a supplier that is not a qualifying public service mutual. Section 33(8) allows an appropriate authority to, by regulations, specify which of the light touch services (that have been specified as such via regulations made under section 9 (light touch contracts)) are ‘reservable light touch services’, and so reservable under this section."
+          ],
+          [
+            "Section 45 - Frameworks",
+            "Section 45(9) provides that section 45(3-5) does not apply when a framework is a light touch contract (i.e. it is a framework wholly or mainly for the future award of light touch contracts). Se ction 45(3-5) contains rules about the selection processes for the award of contracts and what information must be included in the framework."
+          ],
+          [
+            "Section 46 - Frameworks: competitive selection process",
+            "Section 46(11) states that this section does not apply where the framework is a light touch contract."
+          ],
+          [
+            "Section 47 - Frameworks: maximum term",
+            "Section 47(5)(c) states this section (and therefore the maximum term) does not apply to frameworks which are light touch contracts."
+          ],
+          [
+            "Section 51 - Standstill periods on the award of contracts",
+            "Section 51(3) explains that certain types of contract do not require a mandatory standstill period, which includes light touch contracts. This means light touch contracts can be entered into immediately following publication of the contract award notice. Section 51(4) permits contracting authorities awarding light touch contracts to voluntarily specify a standstill period in the contract award notice and states that if such a standstill is provided for, it must be complied with. Section 51(5) states that a voluntary standstill period must be a period of at least 8 working days."
+          ],
+          [
+            "Section 52 - Key performance indicators",
+            "Section 52(6) states that this section does not apply to light touch contracts."
+          ],
+          [
+            "Section 53 - Contract details notices and publication of contracts",
+            "Section 53(1)(a) requires that once a contracting authority has entered into a light touch contract, it must publish a contract details notice in relation to that contract within a 120 day time period after the contract is entered into. Section 53(3)(a) requires a contracting authority to publish a copy of a light touch contract within a 180 day time period of the date that it is entered into, if the estimated value exceeds £5 million."
+          ],
+          [
+            "Section 54 - Time limits",
+            "Section 54(3) states there is no minimum ‘participation period’ for light touch contracts. This refers to the period beginning with the day following the day on which a contracting authority invites the submission of requests to participate in a competitive flexible procedure and ending with the day by which those requests must be submitted. Section 54(4) states there is no minimum tendering period for light touch contracts. This refers to the period beginning with the day following the day on which a contracting authority invites the submission of tenders as part of a competitive tendering procedure and ending with the day by which tenders must be submitted."
+          ],
+          [
+            "Section 71 - Assessment of contract performance",
+            "Section 71(6) exempts light touch contracts from the publication obligations in section 71(5) with regard to a particular breach or failure to perform."
+          ],
+          [
+            "Section 74 - Modifying a public contract",
+            "Section 74(2) sets out that a contracting authority may modify a public contract or a convertible contract if the contract is a light touch contract."
+          ],
+          [
+            "Section 75 - Contract change notices",
+            "Section 75(6)(b) provides that the requirement to publish a contract change notice does not apply to light touch contracts"
+          ],
+          [
+            "Section 120 - Power to disapply this Act in relation to procurement by NHS in England",
+            "Section 120 provides a power for a Minister of the Crown to make regulations disapplying any provision of the Act in relation to regulated health procurement, which are procurements subject to provision made under section 12ZB of the National Health Service Act 2006"
+          ],
+          [
+            "Section 124 - Index of defined expressions",
+            "Section 124 cross-references terms used in the Act to the relevant provisions where they are defined and includes the term light touch contract."
+          ],
+          [
+            "Schedule 1 - Threshold Amounts",
+            "Paragraph 1 sets out the thresholds for light touch contracts.These will be updated by regulations prior to the Act coming into force to reflect changes in force since 1st January 2024, which are: - Utilities contract that is a light touch contract - £884,720 - Concession contract that is a light touch contract - £5,336,937 - Other light touch contracts - £663,540 Paragraph 3 provides a separate power to update light touch contract thresholds"
+          ],
+          [
+            "Schedule 5, paragraphs 15 to 17 - Direct award justifications",
+            "This direct award justification applies where a contract is not suitable for a competitive tendering procedure due to a legal requirement for a contracting authority to take account of the needs or preferences of a specific user. Paragraph 15 provides that public contracts for the supply of ‘user choice services’ may be awarded directly, provided the conditions of paragraph 17 are met. Paragraph 16 defines ‘user choice services’ as ‘light touch services’ (specified under regulations in section 9 ) which are supplied for the benefit of a particular individual and where (by another enactment, i.e. another legislative means such as the Care Act 2014 ) the contracting authority must take into account the view of the individual or their carer as to who should supply the service. Paragraph 17 requires that the individual or their carer must have expressed a preference as to who should provide the service or the nature of the service to be provided means only one supplier can provide it. In addition, the contracting authority must consider that it is in the best interest of the individual that the contract is not awarded under a competitive tendering procedure."
+          ]
+        ],
+        "row_count": 20
+      }
+    },
+    {
+      "block_id": "b00102",
+      "block_type": "p",
+      "text": "© Crown copyright 2024",
+      "ordinal": 102,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Annex A: Summary of specific light touch provisions in the Act"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00103",
+      "block_type": "p",
+      "text": "This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated. To view this licence, visit nationalarchives.gov.uk/doc/open-government-licence/version/3",
+      "ordinal": 103,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Annex A: Summary of specific light touch provisions in the Act"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00104",
+      "block_type": "p",
+      "text": "Where we have identified any third party copyright information you will need to obtain permission from the copyright holders concerned.",
+      "ordinal": 104,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Annex A: Summary of specific light touch provisions in the Act"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00105",
+      "block_type": "p",
+      "text": "This publication is available at www.gov.uk/government/publications",
+      "ordinal": 105,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Annex A: Summary of specific light touch provisions in the Act"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00106",
+      "block_type": "p",
+      "text": "Any enquiries regarding this publication should be sent to us at procurement.reform@cabinetoffice.gov.uk .",
+      "ordinal": 106,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Annex A: Summary of specific light touch provisions in the Act"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00107",
+      "block_type": "li",
+      "text": "NHS Provide selection regime ↩",
+      "ordinal": 107,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Annex A: Summary of specific light touch provisions in the Act"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00108",
+      "block_type": "p",
+      "text": "NHS Provide selection regime ↩",
+      "ordinal": 108,
+      "heading_path": [
+        "What are light touch contracts?",
+        "Annex A: Summary of specific light touch provisions in the Act"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "Procurement Act 2023 (Act)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/contents",
+      "block_id": "b00002",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 9",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/9",
+      "block_id": "b00004",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 1",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/schedule/1",
+      "block_id": "b00005",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement Regulations 2024 (the Regulations)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/contents",
+      "block_id": "b00005",
+      "ordinal": 3,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 1",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/1",
+      "block_id": "b00005",
+      "ordinal": 4,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 33",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/33",
+      "block_id": "b00007",
+      "ordinal": 5,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 5, paragraphs 15 to 17",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/5",
+      "block_id": "b00010",
+      "ordinal": 6,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 1",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/schedule/1",
+      "block_id": "b00013",
+      "ordinal": 7,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "National Health Service Act 2006",
+      "href": "https://www.legislation.gov.uk/ukpga/2006/41/contents",
+      "block_id": "b00016",
+      "ordinal": 8,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "exempted contracts",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-exempted-contracts-html--2",
+      "block_id": "b00019",
+      "ordinal": 9,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "National Health Services Act 2006",
+      "href": "https://www.legislation.gov.uk/ukpga/2006/41/contents",
+      "block_id": "b00021",
+      "ordinal": 10,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 12ZB",
+      "href": "https://www.legislation.gov.uk/ukpga/2006/41/section/12ZB",
+      "block_id": "b00021",
+      "ordinal": 11,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "National Health Services Act 2006",
+      "href": "https://www.legislation.gov.uk/ukpga/2006/41/contents",
+      "block_id": "b00021",
+      "ordinal": 12,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 43",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/43",
+      "block_id": "b00022",
+      "ordinal": 13,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 120",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/120",
+      "block_id": "b00022",
+      "ordinal": 14,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "mixed procurement",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-mixed-procurement-html",
+      "block_id": "b00022",
+      "ordinal": 15,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "[footnote 1]",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-light-touch-contracts-html#fn:1",
+      "block_id": "b00022",
+      "ordinal": 16,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Schedule 1",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/1",
+      "block_id": "b00024",
+      "ordinal": 17,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Part 6",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/part/6",
+      "block_id": "b00024",
+      "ordinal": 18,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 3",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/3",
+      "block_id": "b00027",
+      "ordinal": 19,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "valuation of contracts",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-valuation-of-contracts-html",
+      "block_id": "b00027",
+      "ordinal": 20,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 12",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/12",
+      "block_id": "b00031",
+      "ordinal": 21,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 12",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/12",
+      "block_id": "b00036",
+      "ordinal": 22,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "covered procurement objectives",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-covered-procurement-objectives-html",
+      "block_id": "b00039",
+      "ordinal": 23,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 33",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/33",
+      "block_id": "b00041",
+      "ordinal": 24,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 33",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/33",
+      "block_id": "b00047",
+      "ordinal": 25,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 1",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/schedule/1",
+      "block_id": "b00047",
+      "ordinal": 26,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 33(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/33",
+      "block_id": "b00048",
+      "ordinal": 27,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 33(4)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/33",
+      "block_id": "b00049",
+      "ordinal": 28,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 19",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/19",
+      "block_id": "b00049",
+      "ordinal": 29,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "reserved contracts",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-reserving-contracts-for-supported-employment-providers-html",
+      "block_id": "b00049",
+      "ordinal": 30,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 18",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/18",
+      "block_id": "b00051",
+      "ordinal": 31,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 18(2)(q)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/18",
+      "block_id": "b00051",
+      "ordinal": 32,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "lots",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-lots-html",
+      "block_id": "b00051",
+      "ordinal": 33,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 20",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/20",
+      "block_id": "b00053",
+      "ordinal": 34,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "competitive tendering procedures",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/competitive-tendering-procedures-html",
+      "block_id": "b00053",
+      "ordinal": 35,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 54",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/54",
+      "block_id": "b00054",
+      "ordinal": 36,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 54(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/54",
+      "block_id": "b00054",
+      "ordinal": 37,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 31(2)(b)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/31",
+      "block_id": "b00056",
+      "ordinal": 38,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 19",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/19",
+      "block_id": "b00056",
+      "ordinal": 39,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 12",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/12",
+      "block_id": "b00058",
+      "ordinal": 40,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 41",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/41",
+      "block_id": "b00062",
+      "ordinal": 41,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 5",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/5",
+      "block_id": "b00062",
+      "ordinal": 42,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 5, paragraph 6",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/5/paragraph/6",
+      "block_id": "b00063",
+      "ordinal": 43,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Children and Families Act 2014",
+      "href": "https://www.legislation.gov.uk/ukpga/2014/6/contents",
+      "block_id": "b00063",
+      "ordinal": 44,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 5, paragraphs 15 to 17",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/5",
+      "block_id": "b00064",
+      "ordinal": 45,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Care Act 2014",
+      "href": "https://www.legislation.gov.uk/ukpga/2014/23/contents",
+      "block_id": "b00064",
+      "ordinal": 46,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "paragraphs 15 to 17",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/5",
+      "block_id": "b00064",
+      "ordinal": 47,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Paragraph 16",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/5/paragraph/16",
+      "block_id": "b00065",
+      "ordinal": 48,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 9",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/9",
+      "block_id": "b00066",
+      "ordinal": 49,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "paragraph 17(a)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/5/paragraph/17",
+      "block_id": "b00070",
+      "ordinal": 50,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "paragraph 17(b)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/5/paragraph/17",
+      "block_id": "b00071",
+      "ordinal": 51,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "paragraphs 15 to 17 of Schedule 5",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/5",
+      "block_id": "b00073",
+      "ordinal": 52,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "direct award",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/direct-award-html",
+      "block_id": "b00074",
+      "ordinal": 53,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 45",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/45",
+      "block_id": "b00077",
+      "ordinal": 54,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 45(9)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/45",
+      "block_id": "b00077",
+      "ordinal": 55,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 46",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/46",
+      "block_id": "b00077",
+      "ordinal": 56,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 47(5)(c)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/47",
+      "block_id": "b00077",
+      "ordinal": 57,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 23(6)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/23",
+      "block_id": "b00080",
+      "ordinal": 58,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 51(3)(f)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/51",
+      "block_id": "b00082",
+      "ordinal": 59,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 105",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/105",
+      "block_id": "b00082",
+      "ordinal": 60,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "contract award notice and standstill",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-contract-award-notices-and-standstill-html",
+      "block_id": "b00082",
+      "ordinal": 61,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 52(6)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/52",
+      "block_id": "b00084",
+      "ordinal": 62,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 74(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/74",
+      "block_id": "b00086",
+      "ordinal": 63,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 75(6)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/75",
+      "block_id": "b00086",
+      "ordinal": 64,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 12",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/12",
+      "block_id": "b00087",
+      "ordinal": 65,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "competitive tendering procedures",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/competitive-tendering-procedures-html",
+      "block_id": "b00096",
+      "ordinal": 66,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "conditions of participation",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-conditions-of-participation-html",
+      "block_id": "b00096",
+      "ordinal": 67,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "assessing competitive tenders",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/assessing-competitive-tenders-html",
+      "block_id": "b00096",
+      "ordinal": 68,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "thresholds",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-thresholds-html",
+      "block_id": "b00097",
+      "ordinal": 69,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "exempted contracts",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-exempted-contracts-html--2",
+      "block_id": "b00098",
+      "ordinal": 70,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "mixed procurement",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-mixed-procurement-html",
+      "block_id": "b00099",
+      "ordinal": 71,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 9",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/9",
+      "block_id": "b00101",
+      "ordinal": 72,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 9(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/9",
+      "block_id": "b00101",
+      "ordinal": 73,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 9(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/9",
+      "block_id": "b00101",
+      "ordinal": 74,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 9(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/9",
+      "block_id": "b00101",
+      "ordinal": 75,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 123(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/123",
+      "block_id": "b00101",
+      "ordinal": 76,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 9(3-4)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/9",
+      "block_id": "b00101",
+      "ordinal": 77,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "9(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/9",
+      "block_id": "b00101",
+      "ordinal": 78,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 9(5)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/9",
+      "block_id": "b00101",
+      "ordinal": 79,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 10",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/10",
+      "block_id": "b00101",
+      "ordinal": 80,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 10(6)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/10",
+      "block_id": "b00101",
+      "ordinal": 81,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 10(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/10",
+      "block_id": "b00101",
+      "ordinal": 82,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 23",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/23",
+      "block_id": "b00101",
+      "ordinal": 83,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 23(6)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/23",
+      "block_id": "b00101",
+      "ordinal": 84,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 31",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/31",
+      "block_id": "b00101",
+      "ordinal": 85,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 19",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/19",
+      "block_id": "b00101",
+      "ordinal": 86,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 31(2)(b)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/31",
+      "block_id": "b00101",
+      "ordinal": 87,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 33",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/33",
+      "block_id": "b00101",
+      "ordinal": 88,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 33(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/33",
+      "block_id": "b00101",
+      "ordinal": 89,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 33(2-4)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/33",
+      "block_id": "b00101",
+      "ordinal": 90,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 33(8)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/33",
+      "block_id": "b00101",
+      "ordinal": 91,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 9",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/9",
+      "block_id": "b00101",
+      "ordinal": 92,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 45",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/45",
+      "block_id": "b00101",
+      "ordinal": 93,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 45(9)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/45",
+      "block_id": "b00101",
+      "ordinal": 94,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 45(3-5)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/45",
+      "block_id": "b00101",
+      "ordinal": 95,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Se ction 45(3-5)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/45",
+      "block_id": "b00101",
+      "ordinal": 96,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 46",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/46",
+      "block_id": "b00101",
+      "ordinal": 97,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 46(11)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/46",
+      "block_id": "b00101",
+      "ordinal": 98,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 47",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/47",
+      "block_id": "b00101",
+      "ordinal": 99,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 47(5)(c)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/47",
+      "block_id": "b00101",
+      "ordinal": 100,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 51",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/51",
+      "block_id": "b00101",
+      "ordinal": 101,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 51(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/51",
+      "block_id": "b00101",
+      "ordinal": 102,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 51(4)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/51",
+      "block_id": "b00101",
+      "ordinal": 103,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 51(5)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/51",
+      "block_id": "b00101",
+      "ordinal": 104,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 52",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/52",
+      "block_id": "b00101",
+      "ordinal": 105,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 52(6)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/52",
+      "block_id": "b00101",
+      "ordinal": 106,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 53",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/53",
+      "block_id": "b00101",
+      "ordinal": 107,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 53(1)(a)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/53",
+      "block_id": "b00101",
+      "ordinal": 108,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 53(3)(a)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/53",
+      "block_id": "b00101",
+      "ordinal": 109,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 54",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/54",
+      "block_id": "b00101",
+      "ordinal": 110,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 54(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/54",
+      "block_id": "b00101",
+      "ordinal": 111,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 54(4)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/54",
+      "block_id": "b00101",
+      "ordinal": 112,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 71",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/71",
+      "block_id": "b00101",
+      "ordinal": 113,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 71(6)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/71",
+      "block_id": "b00101",
+      "ordinal": 114,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 71(5)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/71",
+      "block_id": "b00101",
+      "ordinal": 115,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 74",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/74",
+      "block_id": "b00101",
+      "ordinal": 116,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 74(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/74",
+      "block_id": "b00101",
+      "ordinal": 117,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 75",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/75",
+      "block_id": "b00101",
+      "ordinal": 118,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 75(6)(b)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/75",
+      "block_id": "b00101",
+      "ordinal": 119,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 120",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/120",
+      "block_id": "b00101",
+      "ordinal": 120,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 120",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/120",
+      "block_id": "b00101",
+      "ordinal": 121,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 12ZB",
+      "href": "https://www.legislation.gov.uk/ukpga/2006/41/section/12ZB",
+      "block_id": "b00101",
+      "ordinal": 122,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "National Health Service Act 2006",
+      "href": "https://www.legislation.gov.uk/ukpga/2006/41/contents",
+      "block_id": "b00101",
+      "ordinal": 123,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 124",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/124",
+      "block_id": "b00101",
+      "ordinal": 124,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 124",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/124",
+      "block_id": "b00101",
+      "ordinal": 125,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 1",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/1",
+      "block_id": "b00101",
+      "ordinal": 126,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Paragraph 1",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/1/paragraph/1",
+      "block_id": "b00101",
+      "ordinal": 127,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Paragraph 3",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/1/paragraph/3",
+      "block_id": "b00101",
+      "ordinal": 128,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 5, paragraphs 15 to 17",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/5",
+      "block_id": "b00101",
+      "ordinal": 129,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Paragraph 15",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/5/paragraph/15",
+      "block_id": "b00101",
+      "ordinal": 130,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "paragraph 17",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/5/paragraph/17",
+      "block_id": "b00101",
+      "ordinal": 131,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Paragraph 16",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/5/paragraph/16",
+      "block_id": "b00101",
+      "ordinal": 132,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 9",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/9",
+      "block_id": "b00101",
+      "ordinal": 133,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Care Act 2014",
+      "href": "https://www.legislation.gov.uk/ukpga/2014/23/contents",
+      "block_id": "b00101",
+      "ordinal": 134,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Paragraph 17",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/5/paragraph/17",
+      "block_id": "b00101",
+      "ordinal": 135,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "nationalarchives.gov.uk/doc/open-government-licence/version/3",
+      "href": "http://nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "block_id": "b00103",
+      "ordinal": 136,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "www.gov.uk/government/publications",
+      "href": "http://www.gov.uk/government/publications",
+      "block_id": "b00105",
+      "ordinal": 137,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "procurement.reform@cabinetoffice.gov.uk",
+      "href": "mailto:procurement.reform@cabinetoffice.gov.uk",
+      "block_id": "b00106",
+      "ordinal": 138,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "NHS Provide selection regime",
+      "href": "https://www.england.nhs.uk/commissioning/how-commissioning-is-changing/nhs-provider-selection-regime/",
+      "block_id": "b00107",
+      "ordinal": 139,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-light-touch-contracts-html#fnref:1",
+      "block_id": "b00107",
+      "ordinal": 140,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "NHS Provide selection regime",
+      "href": "https://www.england.nhs.uk/commissioning/how-commissioning-is-changing/nhs-provider-selection-regime/",
+      "block_id": "b00108",
+      "ordinal": 141,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-light-touch-contracts-html#fnref:1",
+      "block_id": "b00108",
+      "ordinal": 142,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Guidance - Light Touch Contracts (HTML)",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-light-touch-contracts-html",
+      "block_id": "__document__",
+      "ordinal": 143,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2022 to 2024 Sunak Conservative government",
+      "href": "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 144,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 145,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Procurement Act 2023 guidance documents - Plan phase",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase",
+      "block_id": "__document__",
+      "ordinal": 146,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 147,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 9",
+      "block_id": "b00004",
+      "start": 3,
+      "end": 12,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "9"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2024",
+      "block_id": "b00005",
+      "start": 33,
+      "end": 49,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2024"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 1",
+      "block_id": "b00005",
+      "start": 3,
+      "end": 13,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 1",
+      "block_id": "b00005",
+      "start": 328,
+      "end": 338,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 33",
+      "block_id": "b00007",
+      "start": 3,
+      "end": 13,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "33"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 5",
+      "block_id": "b00010",
+      "start": 3,
+      "end": 13,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "5"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraphs 15",
+      "block_id": "b00010",
+      "start": 15,
+      "end": 28,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "15"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 1",
+      "block_id": "b00013",
+      "start": 125,
+      "end": 135,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 12Z",
+      "block_id": "b00021",
+      "start": 500,
+      "end": 511,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "12Z"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2023",
+      "block_id": "b00021",
+      "start": 305,
+      "end": 321,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2023"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 120",
+      "block_id": "b00022",
+      "start": 143,
+      "end": 154,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "120"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 43",
+      "block_id": "b00022",
+      "start": 100,
+      "end": 113,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "43"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 1",
+      "block_id": "b00024",
+      "start": 4,
+      "end": 14,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 3",
+      "block_id": "b00027",
+      "start": 69,
+      "end": 79,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "3"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 12",
+      "block_id": "b00031",
+      "start": 154,
+      "end": 164,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "12"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 12",
+      "block_id": "b00036",
+      "start": 4,
+      "end": 14,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "12"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 33",
+      "block_id": "b00041",
+      "start": 4,
+      "end": 14,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "33"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 23",
+      "block_id": "b00043",
+      "start": 149,
+      "end": 161,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "23"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 33",
+      "block_id": "b00047",
+      "start": 66,
+      "end": 76,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "33"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 1",
+      "block_id": "b00047",
+      "start": 213,
+      "end": 223,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 33(2)",
+      "block_id": "b00048",
+      "start": 67,
+      "end": 80,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "33",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 33(4)",
+      "block_id": "b00049",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "33",
+        "tail": "(4)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 19",
+      "block_id": "b00049",
+      "start": 165,
+      "end": 175,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "19"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 18",
+      "block_id": "b00051",
+      "start": 4,
+      "end": 14,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "18"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 18(2)(q)",
+      "block_id": "b00051",
+      "start": 253,
+      "end": 272,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "18",
+        "tail": "(2)(q)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 20",
+      "block_id": "b00053",
+      "start": 263,
+      "end": 273,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "20"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 54",
+      "block_id": "b00054",
+      "start": 90,
+      "end": 100,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "54"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 54(1)",
+      "block_id": "b00054",
+      "start": 381,
+      "end": 394,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "54",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 31(2)(b)",
+      "block_id": "b00056",
+      "start": 4,
+      "end": 20,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "31",
+        "tail": "(2)(b)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 19",
+      "block_id": "b00056",
+      "start": 34,
+      "end": 44,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "19"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 12",
+      "block_id": "b00058",
+      "start": 76,
+      "end": 86,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "12"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 41",
+      "block_id": "b00062",
+      "start": 4,
+      "end": 14,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "41"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 5",
+      "block_id": "b00062",
+      "start": 201,
+      "end": 211,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "5"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 5, paragraph 6",
+      "block_id": "b00063",
+      "start": 4,
+      "end": 27,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "5",
+        "paragraph": "6"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 6",
+      "block_id": "b00063",
+      "start": 16,
+      "end": 27,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "6"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 5",
+      "block_id": "b00064",
+      "start": 4,
+      "end": 14,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "5"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraphs 15",
+      "block_id": "b00064",
+      "start": 16,
+      "end": 29,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "15"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraphs 15",
+      "block_id": "b00064",
+      "start": 652,
+      "end": 665,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "15"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "Paragraph 16",
+      "block_id": "b00065",
+      "start": 4,
+      "end": 16,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "16"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 9",
+      "block_id": "b00066",
+      "start": 48,
+      "end": 57,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "9"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 17(a)",
+      "block_id": "b00070",
+      "start": 3,
+      "end": 18,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "17",
+        "tail": "(a)"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 17(b)",
+      "block_id": "b00071",
+      "start": 3,
+      "end": 18,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "17",
+        "tail": "(b)"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 5",
+      "block_id": "b00073",
+      "start": 212,
+      "end": 222,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "5"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraphs 15",
+      "block_id": "b00073",
+      "start": 189,
+      "end": 202,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "15"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 45 (Frameworks)",
+      "block_id": "b00077",
+      "start": 107,
+      "end": 130,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "45",
+        "tail": " (Frameworks)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 45(9)",
+      "block_id": "b00077",
+      "start": 205,
+      "end": 218,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "45",
+        "tail": "(9)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 46",
+      "block_id": "b00077",
+      "start": 331,
+      "end": 341,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "46"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 47(5)(c)",
+      "block_id": "b00077",
+      "start": 419,
+      "end": 435,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "47",
+        "tail": "(5)(c)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 23(6)",
+      "block_id": "b00080",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "23",
+        "tail": "(6)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 51(3)(f)",
+      "block_id": "b00082",
+      "start": 4,
+      "end": 20,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "51",
+        "tail": "(3)(f)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 105",
+      "block_id": "b00082",
+      "start": 293,
+      "end": 304,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "105"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 52(6)",
+      "block_id": "b00084",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "52",
+        "tail": "(6)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 74(2)",
+      "block_id": "b00086",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "74",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 75(6)",
+      "block_id": "b00086",
+      "start": 191,
+      "end": 204,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "75",
+        "tail": "(6)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 12",
+      "block_id": "b00087",
+      "start": 166,
+      "end": 176,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "12"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 9",
+      "block_id": "b00101",
+      "start": 49,
+      "end": 58,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "9"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 9(1)",
+      "block_id": "b00101",
+      "start": 83,
+      "end": 95,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "9",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 9(2)",
+      "block_id": "b00101",
+      "start": 246,
+      "end": 258,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "9",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 9(2)",
+      "block_id": "b00101",
+      "start": 261,
+      "end": 273,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "9",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 123(1)",
+      "block_id": "b00101",
+      "start": 325,
+      "end": 339,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "123",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 9",
+      "block_id": "b00101",
+      "start": 410,
+      "end": 419,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "9"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 9(5)",
+      "block_id": "b00101",
+      "start": 610,
+      "end": 622,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "9",
+        "tail": "(5)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 10",
+      "block_id": "b00101",
+      "start": 754,
+      "end": 764,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "10"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 10(6)",
+      "block_id": "b00101",
+      "start": 811,
+      "end": 824,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "10",
+        "tail": "(6)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 10(3)",
+      "block_id": "b00101",
+      "start": 1276,
+      "end": 1289,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "10",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 23",
+      "block_id": "b00101",
+      "start": 1438,
+      "end": 1448,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "23"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 23(6)",
+      "block_id": "b00101",
+      "start": 1466,
+      "end": 1479,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "23",
+        "tail": "(6)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 31",
+      "block_id": "b00101",
+      "start": 1942,
+      "end": 1952,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "31"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 19",
+      "block_id": "b00101",
+      "start": 1967,
+      "end": 1977,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "19"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 31(2)(b)",
+      "block_id": "b00101",
+      "start": 1990,
+      "end": 2006,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "31",
+        "tail": "(2)(b)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 33",
+      "block_id": "b00101",
+      "start": 2200,
+      "end": 2210,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "33"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 33(1)",
+      "block_id": "b00101",
+      "start": 2259,
+      "end": 2272,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "33",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 33",
+      "block_id": "b00101",
+      "start": 2454,
+      "end": 2464,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "33"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 33(8)",
+      "block_id": "b00101",
+      "start": 2684,
+      "end": 2697,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "33",
+        "tail": "(8)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 9",
+      "block_id": "b00101",
+      "start": 2853,
+      "end": 2862,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "9"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 45",
+      "block_id": "b00101",
+      "start": 2965,
+      "end": 2975,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "45"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 45(9)",
+      "block_id": "b00101",
+      "start": 2989,
+      "end": 3002,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "45",
+        "tail": "(9)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 45",
+      "block_id": "b00101",
+      "start": 3017,
+      "end": 3027,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "45"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 46",
+      "block_id": "b00101",
+      "start": 3325,
+      "end": 3335,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "46"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 46(11)",
+      "block_id": "b00101",
+      "start": 3380,
+      "end": 3394,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "46",
+        "tail": "(11)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 47",
+      "block_id": "b00101",
+      "start": 3482,
+      "end": 3492,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "47"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 47(5)(c)",
+      "block_id": "b00101",
+      "start": 3520,
+      "end": 3536,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "47",
+        "tail": "(5)(c)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 51",
+      "block_id": "b00101",
+      "start": 3652,
+      "end": 3662,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "51"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 51(3)",
+      "block_id": "b00101",
+      "start": 3710,
+      "end": 3723,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "51",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 51(4)",
+      "block_id": "b00101",
+      "start": 3965,
+      "end": 3978,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "51",
+        "tail": "(4)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 51(5)",
+      "block_id": "b00101",
+      "start": 4194,
+      "end": 4207,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "51",
+        "tail": "(5)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 52",
+      "block_id": "b00101",
+      "start": 4295,
+      "end": 4305,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "52"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 52(6)",
+      "block_id": "b00101",
+      "start": 4335,
+      "end": 4348,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "52",
+        "tail": "(6)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 53",
+      "block_id": "b00101",
+      "start": 4415,
+      "end": 4425,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "53"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 53(1)(a)",
+      "block_id": "b00101",
+      "start": 4482,
+      "end": 4498,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "53",
+        "tail": "(1)(a)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 53(3)(a)",
+      "block_id": "b00101",
+      "start": 4719,
+      "end": 4735,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "53",
+        "tail": "(3)(a)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 54",
+      "block_id": "b00101",
+      "start": 4922,
+      "end": 4932,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "54"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 54(3)",
+      "block_id": "b00101",
+      "start": 4947,
+      "end": 4960,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "54",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 54(4)",
+      "block_id": "b00101",
+      "start": 5291,
+      "end": 5304,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "54",
+        "tail": "(4)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 71",
+      "block_id": "b00101",
+      "start": 5615,
+      "end": 5625,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "71"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 71(6)",
+      "block_id": "b00101",
+      "start": 5663,
+      "end": 5676,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "71",
+        "tail": "(6)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 71(5)",
+      "block_id": "b00101",
+      "start": 5743,
+      "end": 5756,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "71",
+        "tail": "(5)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 74",
+      "block_id": "b00101",
+      "start": 5815,
+      "end": 5825,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "74"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 74(2)",
+      "block_id": "b00101",
+      "start": 5856,
+      "end": 5869,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "74",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 75",
+      "block_id": "b00101",
+      "start": 6006,
+      "end": 6016,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "75"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 75(6)(b)",
+      "block_id": "b00101",
+      "start": 6043,
+      "end": 6059,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "75",
+        "tail": "(6)(b)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 120",
+      "block_id": "b00101",
+      "start": 6166,
+      "end": 6177,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "120"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 120",
+      "block_id": "b00101",
+      "start": 6252,
+      "end": 6263,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "120"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 12Z",
+      "block_id": "b00101",
+      "start": 6466,
+      "end": 6477,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "12Z"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 124",
+      "block_id": "b00101",
+      "start": 6519,
+      "end": 6530,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "124"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 124",
+      "block_id": "b00101",
+      "start": 6562,
+      "end": 6573,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "124"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 9",
+      "block_id": "b00101",
+      "start": 7738,
+      "end": 7747,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "9"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 1",
+      "block_id": "b00101",
+      "start": 6707,
+      "end": 6717,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 5",
+      "block_id": "b00101",
+      "start": 7185,
+      "end": 7195,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "5"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "Paragraph 1",
+      "block_id": "b00101",
+      "start": 6738,
+      "end": 6749,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "Paragraph 3",
+      "block_id": "b00101",
+      "start": 7105,
+      "end": 7116,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "3"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraphs 15",
+      "block_id": "b00101",
+      "start": 7197,
+      "end": 7210,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "15"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "Paragraph 15",
+      "block_id": "b00101",
+      "start": 7477,
+      "end": 7489,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "15"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 17",
+      "block_id": "b00101",
+      "start": 7614,
+      "end": 7626,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "17"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "Paragraph 16",
+      "block_id": "b00101",
+      "start": 7636,
+      "end": 7648,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "16"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "Paragraph 17",
+      "block_id": "b00101",
+      "start": 8032,
+      "end": 8044,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "17"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

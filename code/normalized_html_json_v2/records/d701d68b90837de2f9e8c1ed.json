@@ -1,0 +1,153 @@
+{
+  "document_id": "d701d68b90837de2f9e8c1ed",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "html",
+  "source_path": "corpus_ingest_v2/raw/d23f24f098306a7866df0863.html",
+  "input_sha256": "e894944c13ab6c5b1a352de269e8684a9e1dbc9fec6f36f850e328e7d81722cc",
+  "processed_at": "2026-08-27T02:26:42.445648+00:00",
+  "title": "(PA 2023) Assessment summary: most advantageous tender",
+  "canonical_url": null,
+  "description": null,
+  "publication_date": null,
+  "updated_date": null,
+  "source_metadata": {
+    "html_lang": "en"
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 1,
+      "title": "(PA 2023) Assessment summary: most advantageous tender",
+      "ordinal": 0
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Overview",
+      "ordinal": 2
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "This applies to",
+      "ordinal": 5
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "(PA 2023) Assessment summary: most advantageous tender",
+      "ordinal": 0,
+      "heading_path": [
+        "(PA 2023) Assessment summary: most advantageous tender"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "In: Procure > Contract award and implementation",
+      "ordinal": 1,
+      "heading_path": [
+        "(PA 2023) Assessment summary: most advantageous tender"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "heading",
+      "text": "Overview",
+      "ordinal": 2,
+      "heading_path": [
+        "(PA 2023) Assessment summary: most advantageous tender",
+        "Overview"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "Information about the assessment of the most advantageous tender submitted in accordance with Section 50 of the Procurement Act 2023.",
+      "ordinal": 3,
+      "heading_path": [
+        "(PA 2023) Assessment summary: most advantageous tender",
+        "Overview"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "When using templates, you should always use the most recent version uploaded on the tool.",
+      "ordinal": 4,
+      "heading_path": [
+        "(PA 2023) Assessment summary: most advantageous tender",
+        "Overview"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "heading",
+      "text": "This applies to",
+      "ordinal": 5,
+      "heading_path": [
+        "(PA 2023) Assessment summary: most advantageous tender",
+        "Overview",
+        "This applies to"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "li",
+      "text": "Procure > Contract award and implementation",
+      "ordinal": 6,
+      "heading_path": [
+        "(PA 2023) Assessment summary: most advantageous tender",
+        "Overview",
+        "This applies to"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "Procure > Contract award and implementation",
+      "href": "/documents/template/pa-2023-assessment-summary-most-advantageous-tender/contract-award-and-implementation",
+      "block_id": "b00006",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 50",
+      "block_id": "b00003",
+      "start": 94,
+      "end": 104,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "50"
+      }
+    }
+  ],
+  "attachments": [
+    {
+      "url": "https://uploads-prod-procurement-pathway-767398093036.s3.eu-west-2.amazonaws.com/PA23_Assessment_summary_-_most_advantageous_tender_1nDr9vX.docx",
+      "title": "Download the template",
+      "discovered_in_block": null
+    }
+  ],
+  "warnings": []
+}

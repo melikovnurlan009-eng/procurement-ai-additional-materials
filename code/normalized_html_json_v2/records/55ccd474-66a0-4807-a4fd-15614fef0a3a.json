@@ -1,0 +1,3018 @@
+{
+  "document_id": "55ccd474-66a0-4807-a4fd-15614fef0a3a",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/312f0e2238da940f4e1ffc5d.json",
+  "input_sha256": "ba4ab461a18c5268b60021b202aef0a01129e482c62012dbc707540ebd790644",
+  "processed_at": "2026-08-27T02:26:10.551578+00:00",
+  "title": "Guidance: Contract Termination (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-termination-html",
+  "description": null,
+  "publication_date": "2024-08-02T12:31:46+01:00",
+  "updated_date": "2026-07-20T15:07:48+01:00",
+  "source_metadata": {
+    "content_id": "55ccd474-66a0-4807-a4fd-15614fef0a3a",
+    "base_path": "/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-termination-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What are contract terminations?",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What is the legal framework that governs contract terminations?",
+      "ordinal": 3,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What has changed?",
+      "ordinal": 8,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Key points and policy intent",
+      "ordinal": 10,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Implied grounds for contract termination",
+      "ordinal": 18,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Using the implied term",
+      "ordinal": 29,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "National security",
+      "ordinal": 42,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What notices are linked to this aspect of the Act?",
+      "ordinal": 52,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "The contract termination notice",
+      "ordinal": 53,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Information required to be included in the contract termination notice",
+      "ordinal": 61,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Related notices",
+      "ordinal": 74,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What other guidance is of particular relevance to this topic?",
+      "ordinal": 79,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "What are contract terminations?",
+      "ordinal": 0,
+      "heading_path": [
+        "What are contract terminations?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "1. The Procurement Act 2023 (Act) gives contracting authorities the benefit of an implied term in every public contract that ensures that the contract can be terminated by the contracting authority in three specific circumstances, referred to as ‘termination grounds’ in the Act.",
+      "ordinal": 1,
+      "heading_path": [
+        "What are contract terminations?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "2. The Act also introduces a mandatory transparency requirement whenever a contract comes to an end, including following termination under one of the implied termination grounds. For the purpose of the transparency requirement, the Act defines ‘termination’ as encompassing all circumstances in which a contract may come to an end. All contracting authorities must publish a ‘contract termination notice’ following the termination of any public contract (with the exception of contracts awarded by private utilities and contracts for ‘user choice services’ that have been directly awarded under Schedule 5, paragraph 15 ). Publication of contract termination notices will allow greater scrutiny of what has happened during the life of a contract, enabling interested parties to see, across all published notices, for example, if the value and term of the contract has increased since it was awarded, or the reasons behind an early termination of a contract. It will also assist in wider data analysis and oversight, enabling contracting authorities and government to understand, for example, how many contracts are extant and being delivered.",
+      "ordinal": 2,
+      "heading_path": [
+        "What are contract terminations?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "heading",
+      "text": "What is the legal framework that governs contract terminations?",
+      "ordinal": 3,
+      "heading_path": [
+        "What are contract terminations?",
+        "What is the legal framework that governs contract terminations?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "3. Sections 78-80 of the Act regulate contract terminations.",
+      "ordinal": 4,
+      "heading_path": [
+        "What are contract terminations?",
+        "What is the legal framework that governs contract terminations?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "4. Section 78 sets out the three termination grounds (see paragraph 11 below) that are implied into every public contract.",
+      "ordinal": 5,
+      "heading_path": [
+        "What are contract terminations?",
+        "What is the legal framework that governs contract terminations?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "p",
+      "text": "5. Section 79 sets out provisions for ‘relevant contracting authorities’ (see paragraph 20 below) considering terminating a contract under the implied term on the basis of the discretionary exclusion ground in Schedule 7, paragraph 14 and the mandatory exclusion ground in Schedule 6, paragraph 35 relating to suppliers which pose a threat to national security.",
+      "ordinal": 6,
+      "heading_path": [
+        "What are contract terminations?",
+        "What is the legal framework that governs contract terminations?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "6. Section 80 of the Act and regulation 41 of the Procurement Regulations 2024 set out provisions relating to contract termination notices.",
+      "ordinal": 7,
+      "heading_path": [
+        "What are contract terminations?",
+        "What is the legal framework that governs contract terminations?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "heading",
+      "text": "What has changed?",
+      "ordinal": 8,
+      "heading_path": [
+        "What are contract terminations?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "7. The three implied termination grounds in the Act expand on the termination rights implied by the previous legislation and strengthen contracting authorities’ rights to terminate a contract where the supplier or sub-contractor is or becomes an excluded or excludable supplier. Another notable difference is the mandatory requirement to publish contract termination notices.",
+      "ordinal": 9,
+      "heading_path": [
+        "What are contract terminations?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "heading",
+      "text": "Key points and policy intent",
+      "ordinal": 10,
+      "heading_path": [
+        "What are contract terminations?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "8. Whilst there are many reasons why a contract may come to an end, the Act provides, at section 80(3) , that ‘termination’ for the purpose of the publication of a contract termination notice encompasses all of the circumstances in which a contract may come to an end and sets out the following non-exhaustive list:",
+      "ordinal": 11,
+      "heading_path": [
+        "What are contract terminations?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "a. discharge: including for example, where the contract obligations / deliverables are fulfilled, payments made and any disputes settled, by mutual agreement or contract frustration;",
+      "ordinal": 12,
+      "heading_path": [
+        "What are contract terminations?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "b. expiry: where the contract has reached its end date (which may include periods of extension);",
+      "ordinal": 13,
+      "heading_path": [
+        "What are contract terminations?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "c. termination by a party: where one party exercises a contractual or implied right to terminate the contract;",
+      "ordinal": 14,
+      "heading_path": [
+        "What are contract terminations?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "d. rescission: where the contract ends and the parties restored to the position they were in before the contract was entered into; or",
+      "ordinal": 15,
+      "heading_path": [
+        "What are contract terminations?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "e. set aside by court order: where the contract is declared to be invalid by legal judgement.",
+      "ordinal": 16,
+      "heading_path": [
+        "What are contract terminations?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "9. Public contracts can vary considerably and the Act does not set out a definitive list of circumstances in which a contract may be terminated. The grounds on which a contract may be terminated by the contracting authority or the supplier are usually set out in the contract.",
+      "ordinal": 17,
+      "heading_path": [
+        "What are contract terminations?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "heading",
+      "text": "Implied grounds for contract termination",
+      "ordinal": 18,
+      "heading_path": [
+        "What are contract terminations?",
+        "Key points and policy intent",
+        "Implied grounds for contract termination"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "10. The Act implies into every public contract grounds on which the contracting authority may terminate the contract. These grounds will apply to all public contracts, whether or not they are also expressly replicated in the contract. The Act does not imply terms relating to restitution and other ancillary matters if the contracting authority terminates the contract on one of the implied termination grounds, which contracting authorities should consider including as express terms in their contracts (see paragraph 17 below).",
+      "ordinal": 19,
+      "heading_path": [
+        "What are contract terminations?",
+        "Key points and policy intent",
+        "Implied grounds for contract termination"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "p",
+      "text": "11. The three implied contract termination grounds, as set out in section 78(2) are:",
+      "ordinal": 20,
+      "heading_path": [
+        "What are contract terminations?",
+        "Key points and policy intent",
+        "Implied grounds for contract termination"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "a. the contracting authority considers that the contract was awarded, or modified, in material breach of the Act or regulations made under it [footnote 1] ;",
+      "ordinal": 21,
+      "heading_path": [
+        "What are contract terminations?",
+        "Key points and policy intent",
+        "Implied grounds for contract termination"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "p",
+      "text": "b. since the contract was awarded, the supplier has become an excluded or excludable supplier (including by reference to an associated person [footnote 2] );",
+      "ordinal": 22,
+      "heading_path": [
+        "What are contract terminations?",
+        "Key points and policy intent",
+        "Implied grounds for contract termination"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "c. a sub-contractor (other than an associated person) is an excluded or excludable supplier.",
+      "ordinal": 23,
+      "heading_path": [
+        "What are contract terminations?",
+        "Key points and policy intent",
+        "Implied grounds for contract termination"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "12. The reference to the terms ‘excluded’ and ‘excludable’ suppliers in section 78(2)(b) and (c) are defined in section 57(1) and (2) of the Act. Section 78(11) clarifies what is meant by a supplier becoming an excludable supplier, which is where:",
+      "ordinal": 24,
+      "heading_path": [
+        "What are contract terminations?",
+        "Key points and policy intent",
+        "Implied grounds for contract termination"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "p",
+      "text": "a. a discretionary exclusion ground did not apply before the contract was awarded, but applies afterwards ( section 78(11)(a)(i) );",
+      "ordinal": 25,
+      "heading_path": [
+        "What are contract terminations?",
+        "Key points and policy intent",
+        "Implied grounds for contract termination"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "p",
+      "text": "b. a discretionary exclusion ground applies after the contract was awarded that also applied before the contract was awarded, but it applies to different circumstances, for example, a different episode of poor performance or professional misconduct arises before and after the contract was awarded ( section 78(11)(a)(ii) ); and",
+      "ordinal": 26,
+      "heading_path": [
+        "What are contract terminations?",
+        "Key points and policy intent",
+        "Implied grounds for contract termination"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "p",
+      "text": "c. the contracting authority only discovers after awarding the contract that the supplier was an excludable supplier before the contract was awarded ( section 78(11)(b) ).",
+      "ordinal": 27,
+      "heading_path": [
+        "What are contract terminations?",
+        "Key points and policy intent",
+        "Implied grounds for contract termination"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "13. This ensures that the implied term in section 78(2)(b) does not apply where the supplier was excludable during the procurement but the contracting authority exercised their discretion so as not to exclude them. In other words, contracting authorities cannot re-visit that decision without there being any change in circumstances.",
+      "ordinal": 28,
+      "heading_path": [
+        "What are contract terminations?",
+        "Key points and policy intent",
+        "Implied grounds for contract termination"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "heading",
+      "text": "Using the implied term",
+      "ordinal": 29,
+      "heading_path": [
+        "What are contract terminations?",
+        "Key points and policy intent",
+        "Implied grounds for contract termination",
+        "Using the implied term"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "p",
+      "text": "14. The Act sets out, in sections 78(3-7) , a number of restrictions on and provisions relating to the use of the implied term in section 78 .",
+      "ordinal": 30,
+      "heading_path": [
+        "What are contract terminations?",
+        "Key points and policy intent",
+        "Implied grounds for contract termination",
+        "Using the implied term"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "p",
+      "text": "15. In all scenarios, before terminating a contract by reference to the implied term, section 78(7) requires that a contracting authority must:",
+      "ordinal": 31,
+      "heading_path": [
+        "What are contract terminations?",
+        "Key points and policy intent",
+        "Implied grounds for contract termination",
+        "Using the implied term"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "p",
+      "text": "a. notify the supplier of its intention to terminate;",
+      "ordinal": 32,
+      "heading_path": [
+        "What are contract terminations?",
+        "Key points and policy intent",
+        "Implied grounds for contract termination",
+        "Using the implied term"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "p",
+      "text": "b. specify which of the grounds in 78(2)(a-c) applies and why it has decided to terminate the contract; and",
+      "ordinal": 33,
+      "heading_path": [
+        "What are contract terminations?",
+        "Key points and policy intent",
+        "Implied grounds for contract termination",
+        "Using the implied term"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "p",
+      "text": "c. give the supplier reasonable opportunity to respond to the contracting authority on whether a termination ground applies and its decision to terminate.",
+      "ordinal": 34,
+      "heading_path": [
+        "What are contract terminations?",
+        "Key points and policy intent",
+        "Implied grounds for contract termination",
+        "Using the implied term"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "p",
+      "text": "16. There are restrictions on the use of the termination ground in section 78(2)(c) (which relates to a sub-contractor being an excluded or excludable supplier, which includes both where this was the case prior to contract award and where the sub-contractor becomes an excluded or excludable supplier after contract award). Section 78(3-6) provides that contracting authorities may only rely on this implied term if they requested information about sub-contractors under section 28(1)(a) (information about subcontractors). It also provides that one of the following conditions must be met ( section 78(3) ):",
+      "ordinal": 35,
+      "heading_path": [
+        "What are contract terminations?",
+        "Key points and policy intent",
+        "Implied grounds for contract termination",
+        "Using the implied term"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "p",
+      "text": "a. before awarding the contract, the contracting authority was not aware that the supplier intended to sub-contract all or part of the contract ( section 78(4) );",
+      "ordinal": 36,
+      "heading_path": [
+        "What are contract terminations?",
+        "Key points and policy intent",
+        "Implied grounds for contract termination",
+        "Using the implied term"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "p",
+      "text": "b. before awarding the contract, the contracting authority sought to determine [footnote 3] if the sub-contractor was an excluded or excludable supplier by virtue of being on the debarment list [footnote 4] (see guidance on debarment ), but did not know that in fact it was ( section 78(5) );",
+      "ordinal": 37,
+      "heading_path": [
+        "What are contract terminations?",
+        "Key points and policy intent",
+        "Implied grounds for contract termination",
+        "Using the implied term"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "p",
+      "text": "c. the contracting authority requested information about the sub-contractor as part of a competitive tendering procedure in order to determine whether any intended sub-contractor is an excluded or excludable supplier [footnote 5] , but before awarding the contract did not know that this was in fact the case ( section 78(6) ).",
+      "ordinal": 38,
+      "heading_path": [
+        "What are contract terminations?",
+        "Key points and policy intent",
+        "Implied grounds for contract termination",
+        "Using the implied term"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "p",
+      "text": "17. The Act also requires at section 78(8) that when termination is on the grounds of a sub-contractor being an excluded or excludable supplier (whether under section 78(2)(b) or (c) ), the contracting authority must give the supplier a reasonable opportunity to cease its arrangement with that sub-contractor and, if necessary, find a replacement. This includes associated persons that are sub-contractors as well as other sub-contractors that the contracting authority sought information about during the procurement.",
+      "ordinal": 39,
+      "heading_path": [
+        "What are contract terminations?",
+        "Key points and policy intent",
+        "Implied grounds for contract termination",
+        "Using the implied term"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "p",
+      "text": "18. Contracting authorities should always set out in the contract what happens when the contract is terminated, including under the implied term in section 78 . There will be practical considerations, for example, how long after serving notice the contract will terminate; transfer of assets, data, etc.; assistance with re-procuring; payment of money owed and whether there are any ‘breakage costs’ for early termination (for example, for costs the supplier is committed to pay to its suppliers). The Act does not prevent contracting authorities from replicating the implied term expressly in their public contracts and also expressly permits public contracts to contain ancillary provisions about restitution and other matters relating to termination of a contract by reference to the implied term ( section 78(9) ).",
+      "ordinal": 40,
+      "heading_path": [
+        "What are contract terminations?",
+        "Key points and policy intent",
+        "Implied grounds for contract termination",
+        "Using the implied term"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "p",
+      "text": "19. If the contracting authority and the supplier include a term in the public contract that purports to restrict or override the implied term, this will have no effect and the implied term will remain valid ( section 78(10) ); for example, if the contracting authority sought to provide that there were no termination rights in the circumstances set out in section 78 or to narrow those termination rights. Contracting authorities are able to provide for termination on other grounds than those implied by section 78 .",
+      "ordinal": 41,
+      "heading_path": [
+        "What are contract terminations?",
+        "Key points and policy intent",
+        "Implied grounds for contract termination",
+        "Using the implied term"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "heading",
+      "text": "National security",
+      "ordinal": 42,
+      "heading_path": [
+        "What are contract terminations?",
+        "Key points and policy intent",
+        "Implied grounds for contract termination",
+        "National security"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "p",
+      "text": "20. Whilst contracting authorities are able to terminate a public contract on one of the termination grounds in section 78 , section 79 sets out specific provisions that apply to relevant contracting authorities when terminating a contract under the implied term on the basis of the discretionary or mandatory exclusion grounds relating to national security. These requirements apply irrespective of whether the contracting authority has replicated the implied term expressly in their contract.",
+      "ordinal": 43,
+      "heading_path": [
+        "What are contract terminations?",
+        "Key points and policy intent",
+        "Implied grounds for contract termination",
+        "National security"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "p",
+      "text": "21. Relevant contracting authorities are defined in section 79(3) as any contracting authority other than:",
+      "ordinal": 44,
+      "heading_path": [
+        "What are contract terminations?",
+        "Key points and policy intent",
+        "Implied grounds for contract termination",
+        "National security"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "p",
+      "text": "a. a Minister of the Crown or a government department;",
+      "ordinal": 45,
+      "heading_path": [
+        "What are contract terminations?",
+        "Key points and policy intent",
+        "Implied grounds for contract termination",
+        "National security"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "p",
+      "text": "b. the Corporate Officer of the House of Commons; or",
+      "ordinal": 46,
+      "heading_path": [
+        "What are contract terminations?",
+        "Key points and policy intent",
+        "Implied grounds for contract termination",
+        "National security"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "p",
+      "text": "c. the Corporate Officer of the House of Lords.",
+      "ordinal": 47,
+      "heading_path": [
+        "What are contract terminations?",
+        "Key points and policy intent",
+        "Implied grounds for contract termination",
+        "National security"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "p",
+      "text": "22. Section 79(1) provides that a relevant contracting authority may not terminate a contract by reference to the implied term in section 78 on the discretionary exclusion ground of the threat to national security ( Schedule 7, paragraph 14 ) unless:",
+      "ordinal": 48,
+      "heading_path": [
+        "What are contract terminations?",
+        "Key points and policy intent",
+        "Implied grounds for contract termination",
+        "National security"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "p",
+      "text": "a. the contracting authority has notified a Minister of the Crown of its intention; and",
+      "ordinal": 49,
+      "heading_path": [
+        "What are contract terminations?",
+        "Key points and policy intent",
+        "Implied grounds for contract termination",
+        "National security"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00050",
+      "block_type": "p",
+      "text": "b. the Minister agrees that the supplier or sub-contractor is an excludable supplier under Schedule 7, paragraph 14 and that the contract should be terminated.",
+      "ordinal": 50,
+      "heading_path": [
+        "What are contract terminations?",
+        "Key points and policy intent",
+        "Implied grounds for contract termination",
+        "National security"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00051",
+      "block_type": "p",
+      "text": "23. In regards to termination on the basis of the mandatory exclusion ground of the threat to national security ( Schedule 6, paragraph 35 ), the contracting authority may only terminate a contract by reference to the implied term in section 78 if they have notified a Minister of the Crown of its intention ( section 79(2) ).",
+      "ordinal": 51,
+      "heading_path": [
+        "What are contract terminations?",
+        "Key points and policy intent",
+        "Implied grounds for contract termination",
+        "National security"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00052",
+      "block_type": "heading",
+      "text": "What notices are linked to this aspect of the Act?",
+      "ordinal": 52,
+      "heading_path": [
+        "What are contract terminations?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00053",
+      "block_type": "heading",
+      "text": "The contract termination notice",
+      "ordinal": 53,
+      "heading_path": [
+        "What are contract terminations?",
+        "What notices are linked to this aspect of the Act?",
+        "The contract termination notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00054",
+      "block_type": "p",
+      "text": "24. Section 80(4) of the Act requires contracting authorities to publish a contract termination notice following ‘termination’ (as defined in section 80(3) (see paragraph 8)) of all public contracts with the exception of:",
+      "ordinal": 54,
+      "heading_path": [
+        "What are contract terminations?",
+        "What notices are linked to this aspect of the Act?",
+        "The contract termination notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00055",
+      "block_type": "p",
+      "text": "a. contracts entered into by private utilities; and",
+      "ordinal": 55,
+      "heading_path": [
+        "What are contract terminations?",
+        "What notices are linked to this aspect of the Act?",
+        "The contract termination notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00056",
+      "block_type": "p",
+      "text": "b. contracts for ‘user choice services’ that have been directly awarded under Schedule 5, paragraph 15 .",
+      "ordinal": 56,
+      "heading_path": [
+        "What are contract terminations?",
+        "What notices are linked to this aspect of the Act?",
+        "The contract termination notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00057",
+      "block_type": "p",
+      "text": "25. Publication of a contract termination notice is used to inform stakeholders that a public contract has been terminated, the reason for that termination and the date of the termination. It provides visibility of whether the contract has been extended beyond its planned term, or where options have been exercised. Where a termination has resulted from a supplier breaching a contract, the termination notice also provides information about that breach, including the events leading up to it and the result of that breach. The contract termination notice also serves to end the record on the central digital platform where it must be published. It is the last notice published in the sequence of notices relating to a procurement.",
+      "ordinal": 57,
+      "heading_path": [
+        "What are contract terminations?",
+        "What notices are linked to this aspect of the Act?",
+        "The contract termination notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00058",
+      "block_type": "p",
+      "text": "26. The notice must be published before the end of the period of 30 days beginning with the day on which the public contract is terminated ( section 80(1) ).",
+      "ordinal": 58,
+      "heading_path": [
+        "What are contract terminations?",
+        "What notices are linked to this aspect of the Act?",
+        "The contract termination notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00059",
+      "block_type": "p",
+      "text": "27. There may be occasional instances when a contract is terminated before a contract details notice for that contract has been published, particularly in the case of light touch contracts, where the contracting authority has 120 days to publish the notice (as opposed to 30 days for other contracts) (see the guidance on the contract details notice for further information). In such circumstances, contracting authorities should publish both the contract details notice and then the contract termination notice before the end of the 30 day period required for publication of a contract termination notice.",
+      "ordinal": 59,
+      "heading_path": [
+        "What are contract terminations?",
+        "What notices are linked to this aspect of the Act?",
+        "The contract termination notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00060",
+      "block_type": "p",
+      "text": "28. In instances where procurements are terminated before a contract is entered into, the publication of a procurement termination notice is required instead. See the guidance on the procurement termination notice for more information.",
+      "ordinal": 60,
+      "heading_path": [
+        "What are contract terminations?",
+        "What notices are linked to this aspect of the Act?",
+        "The contract termination notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00061",
+      "block_type": "heading",
+      "text": "Information required to be included in the contract termination notice",
+      "ordinal": 61,
+      "heading_path": [
+        "What are contract terminations?",
+        "What notices are linked to this aspect of the Act?",
+        "The contract termination notice",
+        "Information required to be included in the contract termination notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00062",
+      "block_type": "p",
+      "text": "29. Regulation 41 sets out the information that contracting authorities are required to set out in the contract termination notice.",
+      "ordinal": 62,
+      "heading_path": [
+        "What are contract terminations?",
+        "What notices are linked to this aspect of the Act?",
+        "The contract termination notice",
+        "Information required to be included in the contract termination notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00063",
+      "block_type": "p",
+      "text": "30. This includes the reasons for terminating the public contract, the date when the public contract was terminated, and the estimated value of the public contract inclusive of VAT. The value figure must be estimated in accordance with Schedule 3 .",
+      "ordinal": 63,
+      "heading_path": [
+        "What are contract terminations?",
+        "What notices are linked to this aspect of the Act?",
+        "The contract termination notice",
+        "Information required to be included in the contract termination notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00064",
+      "block_type": "p",
+      "text": "31. As section 80(3) is a non-exhaustive list of circumstances that may amount to termination, the contract details notice allows contracting authorities to either indicate that the contract was terminated by one of the means set out in section 80(3) or for other reasons.",
+      "ordinal": 64,
+      "heading_path": [
+        "What are contract terminations?",
+        "What notices are linked to this aspect of the Act?",
+        "The contract termination notice",
+        "Information required to be included in the contract termination notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00065",
+      "block_type": "p",
+      "text": "32. Where termination arises as a result of a breach of contract, regulation 41(2)(h) provides that the contract termination notice must include the following information:",
+      "ordinal": 65,
+      "heading_path": [
+        "What are contract terminations?",
+        "What notices are linked to this aspect of the Act?",
+        "The contract termination notice",
+        "Information required to be included in the contract termination notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00066",
+      "block_type": "p",
+      "text": "a. a statement that section 71(5) of the Act applies because the supplier breached the contract;",
+      "ordinal": 66,
+      "heading_path": [
+        "What are contract terminations?",
+        "What notices are linked to this aspect of the Act?",
+        "The contract termination notice",
+        "Information required to be included in the contract termination notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00067",
+      "block_type": "p",
+      "text": "b. in cases where the supplier did not perform to the contracting authority’s satisfaction, the date when the contracting authority considered the supplier had failed to improve performance; and",
+      "ordinal": 67,
+      "heading_path": [
+        "What are contract terminations?",
+        "What notices are linked to this aspect of the Act?",
+        "The contract termination notice",
+        "Information required to be included in the contract termination notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00068",
+      "block_type": "p",
+      "text": "c. an explanation of the nature of the breach or failure to perform, the impact and duration of the breach or failure to perform, any steps taken by the contracting authority to notify the supplier of the breach/failure to perform and encourage them to improve the situation (including any warning notices given under the public contract or other opportunity to improve performance pursuant to section 71(4)(b) of the PA 2023) and what steps the supplier took to mitigate the impact of the breach and why these were not sufficient.",
+      "ordinal": 68,
+      "heading_path": [
+        "What are contract terminations?",
+        "What notices are linked to this aspect of the Act?",
+        "The contract termination notice",
+        "Information required to be included in the contract termination notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00069",
+      "block_type": "p",
+      "text": "33. In situations where there was an award of damages following the breach or failure to perform, contracting authorities must provide details of any settlement agreement or award of damages, if this happened prior to the deadline for publishing the contract termination notice. In such circumstances, the contract termination notice must include confirmation that this is the case, the amount of damages or other monies paid, the basis on which damages were awarded (for example, in accordance with the public contract, a decision of a court or tribunal, or a negotiated settlement). Where there is a recorded decision of a court or tribunal finding that there is a breach, contracting authorities must also include a link to the web page where the decision can be accessed or a copy of the decision.",
+      "ordinal": 69,
+      "heading_path": [
+        "What are contract terminations?",
+        "What notices are linked to this aspect of the Act?",
+        "The contract termination notice",
+        "Information required to be included in the contract termination notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00070",
+      "block_type": "p",
+      "text": "34. If damages are awarded or agreed after a contract termination notice has been published, the Act does not require the contracting authority to retrospectively update the notice with information concerning damages or settlement agreement. It would, however, be good practice to do so.",
+      "ordinal": 70,
+      "heading_path": [
+        "What are contract terminations?",
+        "What notices are linked to this aspect of the Act?",
+        "The contract termination notice",
+        "Information required to be included in the contract termination notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00071",
+      "block_type": "p",
+      "text": "35. In circumstances where breach or failure to perform results in partial termination of the contract, contracting authorities should publish information using the contract performance notice (within 30 days of a breach occurring) rather than the contract termination notice (see guidance on the contract performance notice ).",
+      "ordinal": 71,
+      "heading_path": [
+        "What are contract terminations?",
+        "What notices are linked to this aspect of the Act?",
+        "The contract termination notice",
+        "Information required to be included in the contract termination notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00072",
+      "block_type": "p",
+      "text": "36. The purpose of publishing information about a breach of contract or failure to perform that results in termination of the contract is to provide a public record of occasions when this occurred. Contracting authorities have the discretion to exclude suppliers for breach or poor performance (on the ground in Schedule 7, paragraph 12 ) where it can be demonstrated that they have not performed one or more contracts to a satisfactory level, and have failed to improve their performance (subject to self-cleaning). Information published in contract termination notices serves to provide evidence to enable authorities to apply the ground. See guidance on exclusions for more information.",
+      "ordinal": 72,
+      "heading_path": [
+        "What are contract terminations?",
+        "What notices are linked to this aspect of the Act?",
+        "The contract termination notice",
+        "Information required to be included in the contract termination notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00073",
+      "block_type": "p",
+      "text": "37. Given the need for transparency and the potential for suppliers to be subject to discretionary exclusion, there is a high bar for withholding information from publication in the contract termination notice. For example, if the basis for the award of damages was in accordance with the public contract, and that contract had been published, then there would be little justification for withholding that information. Similarly, where there has been a decision by a court or tribunal and that information is publicly available there would be no justification for failing to include a link to the judgement in this notice.",
+      "ordinal": 73,
+      "heading_path": [
+        "What are contract terminations?",
+        "What notices are linked to this aspect of the Act?",
+        "The contract termination notice",
+        "Information required to be included in the contract termination notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00074",
+      "block_type": "heading",
+      "text": "Related notices",
+      "ordinal": 74,
+      "heading_path": [
+        "What are contract terminations?",
+        "What notices are linked to this aspect of the Act?",
+        "Related notices"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00075",
+      "block_type": "p",
+      "text": "38. Notices that precede the publication of the contract termination notice may include:",
+      "ordinal": 75,
+      "heading_path": [
+        "What are contract terminations?",
+        "What notices are linked to this aspect of the Act?",
+        "Related notices"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00076",
+      "block_type": "p",
+      "text": "a. a contract details notice: will be published after the contract is entered into. In the rare circumstances where the contract is terminated before the contract details notice has been published, a contracting authority will need to publish the contract details notice before the contract termination notice to ensure that the data record is complete;",
+      "ordinal": 76,
+      "heading_path": [
+        "What are contract terminations?",
+        "What notices are linked to this aspect of the Act?",
+        "Related notices"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00077",
+      "block_type": "p",
+      "text": "b. a contract change notice: any notifiable changes to the contract will need to be published in a contract change notice before any termination notice for the same contract is published;",
+      "ordinal": 77,
+      "heading_path": [
+        "What are contract terminations?",
+        "What notices are linked to this aspect of the Act?",
+        "Related notices"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00078",
+      "block_type": "p",
+      "text": "c. a contract p erformance notice : if the contract is one for which key performance indicators are reported (or a breach resulting in damages, or a settlement has occurred), a number of contract performance notices will be published during the lifetime of the contract and upon termination. In the latter case, this would need to be published before the contract termination notice.",
+      "ordinal": 78,
+      "heading_path": [
+        "What are contract terminations?",
+        "What notices are linked to this aspect of the Act?",
+        "Related notices"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00079",
+      "block_type": "heading",
+      "text": "What other guidance is of particular relevance to this topic?",
+      "ordinal": 79,
+      "heading_path": [
+        "What are contract terminations?",
+        "What other guidance is of particular relevance to this topic?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00080",
+      "block_type": "p",
+      "text": "Guidance on exclusions",
+      "ordinal": 80,
+      "heading_path": [
+        "What are contract terminations?",
+        "What other guidance is of particular relevance to this topic?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00081",
+      "block_type": "p",
+      "text": "Guidance on contract details notice",
+      "ordinal": 81,
+      "heading_path": [
+        "What are contract terminations?",
+        "What other guidance is of particular relevance to this topic?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00082",
+      "block_type": "p",
+      "text": "Guidance on the contract performance notice",
+      "ordinal": 82,
+      "heading_path": [
+        "What are contract terminations?",
+        "What other guidance is of particular relevance to this topic?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00083",
+      "block_type": "p",
+      "text": "Guidance on the publication of information",
+      "ordinal": 83,
+      "heading_path": [
+        "What are contract terminations?",
+        "What other guidance is of particular relevance to this topic?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00084",
+      "block_type": "p",
+      "text": "© Crown copyright 2024",
+      "ordinal": 84,
+      "heading_path": [
+        "What are contract terminations?",
+        "What other guidance is of particular relevance to this topic?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00085",
+      "block_type": "p",
+      "text": "This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated. To view this licence, visit nationalarchives.gov.uk/doc/open-government-licence/version/3",
+      "ordinal": 85,
+      "heading_path": [
+        "What are contract terminations?",
+        "What other guidance is of particular relevance to this topic?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00086",
+      "block_type": "p",
+      "text": "Where we have identified any third party copyright information you will need to obtain permission from the copyright holders concerned.",
+      "ordinal": 86,
+      "heading_path": [
+        "What are contract terminations?",
+        "What other guidance is of particular relevance to this topic?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00087",
+      "block_type": "p",
+      "text": "This publication is available at www.gov.uk/government/publications",
+      "ordinal": 87,
+      "heading_path": [
+        "What are contract terminations?",
+        "What other guidance is of particular relevance to this topic?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00088",
+      "block_type": "p",
+      "text": "Any enquiries regarding this publication should be sent to us at procurement.reform@cabinetoffice.gov.uk .",
+      "ordinal": 88,
+      "heading_path": [
+        "What are contract terminations?",
+        "What other guidance is of particular relevance to this topic?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00089",
+      "block_type": "li",
+      "text": "Section 78 defines a ‘material breach’ as a breach that the contracting authority considers could reasonably result in a successful legal challenge under Part 9 or otherwise. ↩",
+      "ordinal": 89,
+      "heading_path": [
+        "What are contract terminations?",
+        "What other guidance is of particular relevance to this topic?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00090",
+      "block_type": "p",
+      "text": "Section 78 defines a ‘material breach’ as a breach that the contracting authority considers could reasonably result in a successful legal challenge under Part 9 or otherwise. ↩",
+      "ordinal": 90,
+      "heading_path": [
+        "What are contract terminations?",
+        "What other guidance is of particular relevance to this topic?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00091",
+      "block_type": "li",
+      "text": "An ‘associated person’ is someone who the supplier is relying upon to satisfy the conditions of participation (that is not a guarantor), for example, a key sub-contractor. More information may be found in the guidance on exclusions . ↩",
+      "ordinal": 91,
+      "heading_path": [
+        "What are contract terminations?",
+        "What other guidance is of particular relevance to this topic?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00092",
+      "block_type": "p",
+      "text": "An ‘associated person’ is someone who the supplier is relying upon to satisfy the conditions of participation (that is not a guarantor), for example, a key sub-contractor. More information may be found in the guidance on exclusions . ↩",
+      "ordinal": 92,
+      "heading_path": [
+        "What are contract terminations?",
+        "What other guidance is of particular relevance to this topic?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00093",
+      "block_type": "li",
+      "text": "under section 28(1)(b) ↩",
+      "ordinal": 93,
+      "heading_path": [
+        "What are contract terminations?",
+        "What other guidance is of particular relevance to this topic?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00094",
+      "block_type": "p",
+      "text": "under section 28(1)(b) ↩",
+      "ordinal": 94,
+      "heading_path": [
+        "What are contract terminations?",
+        "What other guidance is of particular relevance to this topic?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00095",
+      "block_type": "li",
+      "text": "under section 57(1)(b) or (2)(b) ↩",
+      "ordinal": 95,
+      "heading_path": [
+        "What are contract terminations?",
+        "What other guidance is of particular relevance to this topic?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00096",
+      "block_type": "p",
+      "text": "under section 57(1)(b) or (2)(b) ↩",
+      "ordinal": 96,
+      "heading_path": [
+        "What are contract terminations?",
+        "What other guidance is of particular relevance to this topic?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00097",
+      "block_type": "li",
+      "text": "under section 28(2) of the Act ↩",
+      "ordinal": 97,
+      "heading_path": [
+        "What are contract terminations?",
+        "What other guidance is of particular relevance to this topic?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00098",
+      "block_type": "p",
+      "text": "under section 28(2) of the Act ↩",
+      "ordinal": 98,
+      "heading_path": [
+        "What are contract terminations?",
+        "What other guidance is of particular relevance to this topic?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "Procurement Act 2023 (Act)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/contents",
+      "block_id": "b00001",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 5, paragraph 15",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/5/paragraph/15",
+      "block_id": "b00002",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Sections 78-80",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/part/4/crossheading/terminating-public-contracts",
+      "block_id": "b00004",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 78",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/78",
+      "block_id": "b00005",
+      "ordinal": 3,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 79",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/79",
+      "block_id": "b00006",
+      "ordinal": 4,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 7, paragraph 14",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/7/paragraph/14",
+      "block_id": "b00006",
+      "ordinal": 5,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 6, paragraph 35",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/6/paragraph/35",
+      "block_id": "b00006",
+      "ordinal": 6,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 80",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/80",
+      "block_id": "b00007",
+      "ordinal": 7,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 41",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/41",
+      "block_id": "b00007",
+      "ordinal": 8,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement Regulations 2024",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/contents",
+      "block_id": "b00007",
+      "ordinal": 9,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 80(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/80",
+      "block_id": "b00011",
+      "ordinal": 10,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 78(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/78",
+      "block_id": "b00020",
+      "ordinal": 11,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "[footnote 1]",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-termination-html#fn:1",
+      "block_id": "b00021",
+      "ordinal": 12,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 2]",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-termination-html#fn:2",
+      "block_id": "b00022",
+      "ordinal": 13,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "section 78(2)(b) and (c)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/78",
+      "block_id": "b00024",
+      "ordinal": 14,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 57(1) and (2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/57",
+      "block_id": "b00024",
+      "ordinal": 15,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 78(11)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/78",
+      "block_id": "b00024",
+      "ordinal": 16,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 78(11)(a)(i)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/78",
+      "block_id": "b00025",
+      "ordinal": 17,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 78(11)(a)(ii)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/78",
+      "block_id": "b00026",
+      "ordinal": 18,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 78(11)(b)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/78",
+      "block_id": "b00027",
+      "ordinal": 19,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 78(2)(b)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/78",
+      "block_id": "b00028",
+      "ordinal": 20,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "sections 78(3-7)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/78",
+      "block_id": "b00030",
+      "ordinal": 21,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 78",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/78",
+      "block_id": "b00030",
+      "ordinal": 22,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 78(7)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/78",
+      "block_id": "b00031",
+      "ordinal": 23,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 78(2)(c)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/78",
+      "block_id": "b00035",
+      "ordinal": 24,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 78(3-6)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/78",
+      "block_id": "b00035",
+      "ordinal": 25,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 28(1)(a)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/28",
+      "block_id": "b00035",
+      "ordinal": 26,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 78(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/78",
+      "block_id": "b00035",
+      "ordinal": 27,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 78(4)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/78",
+      "block_id": "b00036",
+      "ordinal": 28,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "[footnote 3]",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-termination-html#fn:3",
+      "block_id": "b00037",
+      "ordinal": 29,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 4]",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-termination-html#fn:4",
+      "block_id": "b00037",
+      "ordinal": 30,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "debarment",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-debarment-html",
+      "block_id": "b00037",
+      "ordinal": 31,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 78(5)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/78",
+      "block_id": "b00037",
+      "ordinal": 32,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "[footnote 5]",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-termination-html#fn:5",
+      "block_id": "b00038",
+      "ordinal": 33,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "section 78(6)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/78",
+      "block_id": "b00038",
+      "ordinal": 34,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 78(8)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/78",
+      "block_id": "b00039",
+      "ordinal": 35,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 78(2)(b) or (c)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/78",
+      "block_id": "b00039",
+      "ordinal": 36,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 78",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/78",
+      "block_id": "b00040",
+      "ordinal": 37,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 78(9)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/78",
+      "block_id": "b00040",
+      "ordinal": 38,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 78(10)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/78",
+      "block_id": "b00041",
+      "ordinal": 39,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 78",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/78",
+      "block_id": "b00041",
+      "ordinal": 40,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 78",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/78",
+      "block_id": "b00041",
+      "ordinal": 41,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 78",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/78",
+      "block_id": "b00043",
+      "ordinal": 42,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 79",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/79",
+      "block_id": "b00043",
+      "ordinal": 43,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 79(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/79",
+      "block_id": "b00044",
+      "ordinal": 44,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 79(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/79",
+      "block_id": "b00048",
+      "ordinal": 45,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 78",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/78",
+      "block_id": "b00048",
+      "ordinal": 46,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 7, paragraph 14",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/7/paragraph/14",
+      "block_id": "b00048",
+      "ordinal": 47,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 7, paragraph 14",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/7/paragraph/14",
+      "block_id": "b00050",
+      "ordinal": 48,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 6, paragraph 35",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/6/paragraph/35",
+      "block_id": "b00051",
+      "ordinal": 49,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 78",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/78",
+      "block_id": "b00051",
+      "ordinal": 50,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 79(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/79",
+      "block_id": "b00051",
+      "ordinal": 51,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 80(4)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/80",
+      "block_id": "b00054",
+      "ordinal": 52,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 80(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/80",
+      "block_id": "b00054",
+      "ordinal": 53,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 5, paragraph 15",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/5/paragraph/15",
+      "block_id": "b00056",
+      "ordinal": 54,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 80(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/80",
+      "block_id": "b00058",
+      "ordinal": 55,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "contract details notice",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-contract-details-notices-html",
+      "block_id": "b00059",
+      "ordinal": 56,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "procurement termination notice",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-procurement-termination-notices-html",
+      "block_id": "b00060",
+      "ordinal": 57,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Regulation 41",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/41",
+      "block_id": "b00062",
+      "ordinal": 58,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 3",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/3",
+      "block_id": "b00063",
+      "ordinal": 59,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 80(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/80",
+      "block_id": "b00064",
+      "ordinal": 60,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 80(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/80",
+      "block_id": "b00064",
+      "ordinal": 61,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 41(2)(h)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/41",
+      "block_id": "b00065",
+      "ordinal": 62,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 71(5)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/71",
+      "block_id": "b00066",
+      "ordinal": 63,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 71(4)(b)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/71",
+      "block_id": "b00068",
+      "ordinal": 64,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "contract performance notice",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-performance-notices-html",
+      "block_id": "b00071",
+      "ordinal": 65,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 7, paragraph 12",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/7/paragraph/12",
+      "block_id": "b00072",
+      "ordinal": 66,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "exclusions",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-exclusions-html",
+      "block_id": "b00072",
+      "ordinal": 67,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "erformance notice",
+      "href": "https://docs.google.com/document/d/1Os5GcVnHE0iBz2XUofOTUu5fS3qlIgkAMtSApB1ChdE/edit",
+      "block_id": "b00078",
+      "ordinal": 68,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "exclusions",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-exclusions-html",
+      "block_id": "b00080",
+      "ordinal": 69,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "contract details notice",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-contract-details-notices-html",
+      "block_id": "b00081",
+      "ordinal": 70,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "contract performance notice",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-performance-notices-html",
+      "block_id": "b00082",
+      "ordinal": 71,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "publication of information",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-central-digital-platform-and-publication-of-information-html",
+      "block_id": "b00083",
+      "ordinal": 72,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "nationalarchives.gov.uk/doc/open-government-licence/version/3",
+      "href": "http://nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "block_id": "b00085",
+      "ordinal": 73,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "www.gov.uk/government/publications",
+      "href": "http://www.gov.uk/government/publications",
+      "block_id": "b00087",
+      "ordinal": 74,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "procurement.reform@cabinetoffice.gov.uk",
+      "href": "mailto:procurement.reform@cabinetoffice.gov.uk",
+      "block_id": "b00088",
+      "ordinal": 75,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "Section 78",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/78",
+      "block_id": "b00089",
+      "ordinal": 76,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Part 9",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/part/9",
+      "block_id": "b00089",
+      "ordinal": 77,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-termination-html#fnref:1",
+      "block_id": "b00089",
+      "ordinal": 78,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Section 78",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/78",
+      "block_id": "b00090",
+      "ordinal": 79,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Part 9",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/part/9",
+      "block_id": "b00090",
+      "ordinal": 80,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-termination-html#fnref:1",
+      "block_id": "b00090",
+      "ordinal": 81,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "exclusions",
+      "href": "https://assets.publishing.service.gov.uk/media/66bf4353dcb0757928e5bd23/Guidance_-_Exclusions_FINAL_v.2.pdf",
+      "block_id": "b00091",
+      "ordinal": 82,
+      "link_type": "ATTACHMENT"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-termination-html#fnref:2",
+      "block_id": "b00091",
+      "ordinal": 83,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "exclusions",
+      "href": "https://assets.publishing.service.gov.uk/media/66bf4353dcb0757928e5bd23/Guidance_-_Exclusions_FINAL_v.2.pdf",
+      "block_id": "b00092",
+      "ordinal": 84,
+      "link_type": "ATTACHMENT"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-termination-html#fnref:2",
+      "block_id": "b00092",
+      "ordinal": 85,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "section 28(1)(b)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/28",
+      "block_id": "b00093",
+      "ordinal": 86,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-termination-html#fnref:3",
+      "block_id": "b00093",
+      "ordinal": 87,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "section 28(1)(b)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/28",
+      "block_id": "b00094",
+      "ordinal": 88,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-termination-html#fnref:3",
+      "block_id": "b00094",
+      "ordinal": 89,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "section 57(1)(b) or (2)(b)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/57",
+      "block_id": "b00095",
+      "ordinal": 90,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-termination-html#fnref:4",
+      "block_id": "b00095",
+      "ordinal": 91,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "section 57(1)(b) or (2)(b)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/57",
+      "block_id": "b00096",
+      "ordinal": 92,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-termination-html#fnref:4",
+      "block_id": "b00096",
+      "ordinal": 93,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "section 28(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/28",
+      "block_id": "b00097",
+      "ordinal": 94,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-termination-html#fnref:5",
+      "block_id": "b00097",
+      "ordinal": 95,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "section 28(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/28",
+      "block_id": "b00098",
+      "ordinal": 96,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-termination-html#fnref:5",
+      "block_id": "b00098",
+      "ordinal": 97,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Guidance: Contract Termination (HTML)",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-termination-html",
+      "block_id": "__document__",
+      "ordinal": 98,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2024 to 2026 Starmer Labour government",
+      "href": "https://www.gov.uk/government/2024-starmer-labour-government",
+      "block_id": "__document__",
+      "ordinal": 99,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 100,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Procurement Act 2023 guidance documents - Manage phase",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase",
+      "block_id": "__document__",
+      "ordinal": 101,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 102,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 5, paragraph 15",
+      "block_id": "b00002",
+      "start": 595,
+      "end": 619,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "5",
+        "paragraph": "15"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 15",
+      "block_id": "b00002",
+      "start": 607,
+      "end": 619,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "15"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Sections 78",
+      "block_id": "b00004",
+      "start": 3,
+      "end": 14,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "78"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 78",
+      "block_id": "b00005",
+      "start": 3,
+      "end": 13,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "78"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 11",
+      "block_id": "b00005",
+      "start": 58,
+      "end": 70,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "11"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 79",
+      "block_id": "b00006",
+      "start": 3,
+      "end": 13,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "79"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 7, paragraph 14",
+      "block_id": "b00006",
+      "start": 210,
+      "end": 234,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "7",
+        "paragraph": "14"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 6, paragraph 35",
+      "block_id": "b00006",
+      "start": 273,
+      "end": 297,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "6",
+        "paragraph": "35"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 20",
+      "block_id": "b00006",
+      "start": 78,
+      "end": 90,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "20"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 14",
+      "block_id": "b00006",
+      "start": 222,
+      "end": 234,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "14"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 35",
+      "block_id": "b00006",
+      "start": 285,
+      "end": 297,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "35"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 80",
+      "block_id": "b00007",
+      "start": 3,
+      "end": 13,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "80"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 41",
+      "block_id": "b00007",
+      "start": 29,
+      "end": 42,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "41"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2024",
+      "block_id": "b00007",
+      "start": 62,
+      "end": 78,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2024"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 80(3)",
+      "block_id": "b00011",
+      "start": 89,
+      "end": 102,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "80",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 17",
+      "block_id": "b00019",
+      "start": 509,
+      "end": 521,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "17"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 78(2)",
+      "block_id": "b00020",
+      "start": 66,
+      "end": 79,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "78",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 78(2)(b)",
+      "block_id": "b00024",
+      "start": 72,
+      "end": 88,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "78",
+        "tail": "(2)(b)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 57(1)",
+      "block_id": "b00024",
+      "start": 112,
+      "end": 125,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "57",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 78(11)",
+      "block_id": "b00024",
+      "start": 146,
+      "end": 160,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "78",
+        "tail": "(11)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 78(11)(a)(i)",
+      "block_id": "b00025",
+      "start": 108,
+      "end": 128,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "78",
+        "tail": "(11)(a)(i)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 78(11)(a)(ii)",
+      "block_id": "b00026",
+      "start": 300,
+      "end": 321,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "78",
+        "tail": "(11)(a)(ii)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 78(11)(b)",
+      "block_id": "b00027",
+      "start": 151,
+      "end": 168,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "78",
+        "tail": "(11)(b)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 78(2)(b)",
+      "block_id": "b00028",
+      "start": 42,
+      "end": 58,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "78",
+        "tail": "(2)(b)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "sections 78",
+      "block_id": "b00030",
+      "start": 25,
+      "end": 36,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "78"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 78",
+      "block_id": "b00030",
+      "start": 130,
+      "end": 140,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "78"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 78(7)",
+      "block_id": "b00031",
+      "start": 86,
+      "end": 99,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "78",
+        "tail": "(7)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 78(2)(c)",
+      "block_id": "b00035",
+      "start": 67,
+      "end": 83,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "78",
+        "tail": "(2)(c)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 78",
+      "block_id": "b00035",
+      "start": 324,
+      "end": 334,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "78"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 28(1)(a)",
+      "block_id": "b00035",
+      "start": 471,
+      "end": 487,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "28",
+        "tail": "(1)(a)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 78(3)",
+      "block_id": "b00035",
+      "start": 592,
+      "end": 605,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "78",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 78(4)",
+      "block_id": "b00036",
+      "start": 146,
+      "end": 159,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "78",
+        "tail": "(4)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 78(5)",
+      "block_id": "b00037",
+      "start": 276,
+      "end": 289,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "78",
+        "tail": "(5)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 78(6)",
+      "block_id": "b00038",
+      "start": 311,
+      "end": 324,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "78",
+        "tail": "(6)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 78(8)",
+      "block_id": "b00039",
+      "start": 29,
+      "end": 42,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "78",
+        "tail": "(8)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 78(2)(b)",
+      "block_id": "b00039",
+      "start": 159,
+      "end": 175,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "78",
+        "tail": "(2)(b)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 78",
+      "block_id": "b00040",
+      "start": 148,
+      "end": 158,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "78"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 78(9)",
+      "block_id": "b00040",
+      "start": 802,
+      "end": 815,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "78",
+        "tail": "(9)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 78(10)",
+      "block_id": "b00041",
+      "start": 210,
+      "end": 224,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "78",
+        "tail": "(10)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 78",
+      "block_id": "b00041",
+      "start": 358,
+      "end": 368,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "78"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 78",
+      "block_id": "b00041",
+      "start": 507,
+      "end": 517,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "78"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 78",
+      "block_id": "b00043",
+      "start": 112,
+      "end": 122,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "78"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 79",
+      "block_id": "b00043",
+      "start": 125,
+      "end": 135,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "79"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 79(3)",
+      "block_id": "b00044",
+      "start": 52,
+      "end": 65,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "79",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 79(1)",
+      "block_id": "b00048",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "79",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 78",
+      "block_id": "b00048",
+      "start": 130,
+      "end": 140,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "78"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 7, paragraph 14",
+      "block_id": "b00048",
+      "start": 216,
+      "end": 240,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "7",
+        "paragraph": "14"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 14",
+      "block_id": "b00048",
+      "start": 228,
+      "end": 240,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "14"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 7, paragraph 14",
+      "block_id": "b00050",
+      "start": 91,
+      "end": 115,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "7",
+        "paragraph": "14"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 14",
+      "block_id": "b00050",
+      "start": 103,
+      "end": 115,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "14"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 78",
+      "block_id": "b00051",
+      "start": 234,
+      "end": 244,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "78"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 79(2)",
+      "block_id": "b00051",
+      "start": 310,
+      "end": 323,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "79",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 6, paragraph 35",
+      "block_id": "b00051",
+      "start": 114,
+      "end": 138,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "6",
+        "paragraph": "35"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 35",
+      "block_id": "b00051",
+      "start": 126,
+      "end": 138,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "35"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 80(4)",
+      "block_id": "b00054",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "80",
+        "tail": "(4)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 80(3)",
+      "block_id": "b00054",
+      "start": 142,
+      "end": 155,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "80",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 8",
+      "block_id": "b00054",
+      "start": 161,
+      "end": 172,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "8"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 5, paragraph 15",
+      "block_id": "b00056",
+      "start": 78,
+      "end": 102,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "5",
+        "paragraph": "15"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 15",
+      "block_id": "b00056",
+      "start": 90,
+      "end": 102,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "15"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 80(1)",
+      "block_id": "b00058",
+      "start": 141,
+      "end": 154,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "80",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 41",
+      "block_id": "b00062",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "41"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 3",
+      "block_id": "b00063",
+      "start": 236,
+      "end": 246,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "3"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 80(3)",
+      "block_id": "b00064",
+      "start": 7,
+      "end": 20,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "80",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 80(3)",
+      "block_id": "b00064",
+      "start": 237,
+      "end": 250,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "80",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 41(2)(h)",
+      "block_id": "b00065",
+      "start": 66,
+      "end": 85,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "41",
+        "tail": "(2)(h)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 71(5)",
+      "block_id": "b00066",
+      "start": 20,
+      "end": 33,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "71",
+        "tail": "(5)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 71(4)(b)",
+      "block_id": "b00068",
+      "start": 394,
+      "end": 410,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "71",
+        "tail": "(4)(b)"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 7, paragraph 12",
+      "block_id": "b00072",
+      "start": 312,
+      "end": 336,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "7",
+        "paragraph": "12"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 12",
+      "block_id": "b00072",
+      "start": 324,
+      "end": 336,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "12"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 78",
+      "block_id": "b00089",
+      "start": 0,
+      "end": 10,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "78"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 78",
+      "block_id": "b00090",
+      "start": 0,
+      "end": 10,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "78"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 28(1)(b)",
+      "block_id": "b00093",
+      "start": 6,
+      "end": 22,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "28",
+        "tail": "(1)(b)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 28(1)(b)",
+      "block_id": "b00094",
+      "start": 6,
+      "end": 22,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "28",
+        "tail": "(1)(b)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 57(1)(b)",
+      "block_id": "b00095",
+      "start": 6,
+      "end": 22,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "57",
+        "tail": "(1)(b)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 57(1)(b)",
+      "block_id": "b00096",
+      "start": 6,
+      "end": 22,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "57",
+        "tail": "(1)(b)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 28(2)",
+      "block_id": "b00097",
+      "start": 6,
+      "end": 19,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "28",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 28(2)",
+      "block_id": "b00098",
+      "start": 6,
+      "end": 19,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "28",
+        "tail": "(2)"
+      }
+    }
+  ],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/66bf4353dcb0757928e5bd23/Guidance_-_Exclusions_FINAL_v.2.pdf",
+      "title": "exclusions",
+      "discovered_in_block": "b00091"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,335 @@
+{
+  "document_id": "c6f60b95-2e0e-4ec3-8b79-7543f3e80433",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/29f6537750624580e0ad446a.json",
+  "input_sha256": "79afe9ee4fd7aa63271425429b2200cd68729c8f42a721cb7db17509b6abfc8d",
+  "processed_at": "2026-08-27T02:26:09.290110+00:00",
+  "title": "Procurement Policy Note: The Commercial Playbooks (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/ppn-0623-the-commercial-playbooks/procurement-policy-note-the-commercial-playbooks-html",
+  "description": null,
+  "publication_date": "2023-06-20T11:00:03+01:00",
+  "updated_date": "2023-06-20T11:00:03+01:00",
+  "source_metadata": {
+    "content_id": "c6f60b95-2e0e-4ec3-8b79-7543f3e80433",
+    "base_path": "/government/publications/ppn-0623-the-commercial-playbooks/procurement-policy-note-the-commercial-playbooks-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Issue",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Dissemination and Scope",
+      "ordinal": 5,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Timing",
+      "ordinal": 8,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Action",
+      "ordinal": 10,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Background",
+      "ordinal": 12,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Contact",
+      "ordinal": 15,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "Issue",
+      "ordinal": 0,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "1. The Cabinet Office produces Commercial Playbooks, and accompanying Guidance Notes, for commercial teams in order to improve decision-making and ensure the assessment, procurement and management of public services delivers better outcomes and value for money for the public. The Playbooks aim to systematically change how Government, and the Public Sector more widely, approaches risk, sustainability and innovation across portfolios of projects and programmes, with the goal of creating productive, profitable, sustainable and resilient sectors.",
+      "ordinal": 1,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "2. Adherence to the Playbooks is assured through existing governance arrangements, including Cabinet Office controls for In-scope Organisations, and outline the Government’s expectations for how buyers and suppliers should engage with each other.",
+      "ordinal": 2,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "3. There are currently 4 Playbooks: Sourcing, Consultancy, Construction, and Digital, Data and Technology (DDaT). These are regularly refreshed to ensure the content is up to date and fit for purpose. New Playbooks may also be introduced in the future.",
+      "ordinal": 3,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "4. This PPN replaces and consolidates PPN 02/22, PPN 03/21, PPN 09/20 and PPN 05/20.",
+      "ordinal": 4,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "heading",
+      "text": "Dissemination and Scope",
+      "ordinal": 5,
+      "heading_path": [
+        "Issue",
+        "Dissemination and Scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "p",
+      "text": "5. The content of this Procurement Policy Note (PPN) applies to all Central Government Departments, their Executive Agencies and Non-Departmental Public Bodies and are referred to as ‘In-scope Organisations’.",
+      "ordinal": 6,
+      "heading_path": [
+        "Issue",
+        "Dissemination and Scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "6. The Playbooks and their associated guidance are considered good practice and other public sector organisations are encouraged to consider taking the suite of Playbooks into account as part of their commercial activities. Please circulate this PPN within your organisation, drawing it to the attention of those with a commercial and/or procurement role.",
+      "ordinal": 7,
+      "heading_path": [
+        "Issue",
+        "Dissemination and Scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "heading",
+      "text": "Timing",
+      "ordinal": 8,
+      "heading_path": [
+        "Issue",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "7. In scope organisations should apply this PPN within 3 months of immediate effect.",
+      "ordinal": 9,
+      "heading_path": [
+        "Issue",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "heading",
+      "text": "Action",
+      "ordinal": 10,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "8. In-scope Organisations should take action to apply the principles, rules and guidelines set out in the Playbooks and apply any future content that is produced as part of any updates to the Playbooks or their accompanying Guidance Notes.",
+      "ordinal": 11,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "heading",
+      "text": "Background",
+      "ordinal": 12,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "9. The original Outsourcing Playbook was launched in February 2019 in response to the challenges raised following the collapse of Carillion in January 2018. It was rebranded to the Sourcing Playbook in 2020 to better reflect the policy of choosing the appropriate approach to delivery models (be that insource, outsource, or a combination), to deliver high-quality public services.",
+      "ordinal": 13,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "10. Following the success of the Outsourcing and then Sourcing Playbook, other Playbooks have been produced covering the Consultancy, Construction and DDaT sectors to provide specific policy and guidance for contracting in these areas",
+      "ordinal": 14,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "heading",
+      "text": "Contact",
+      "ordinal": 15,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "11. For queries about the contents of the Playbooks or on their implementation, please contact markets-sourcing-suppliers@cabinetoffice.gov.uk .",
+      "ordinal": 16,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "12. General enquiries about this PPN can be directed to the Helpdesk on info@crowncommercial.gov.uk .",
+      "ordinal": 17,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "markets-sourcing-suppliers@cabinetoffice.gov.uk",
+      "href": "mailto:markets-sourcing-suppliers@cabinetoffice.gov.uk",
+      "block_id": "b00016",
+      "ordinal": 0,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "info@crowncommercial.gov.uk",
+      "href": "mailto:info@crowncommercial.gov.uk",
+      "block_id": "b00017",
+      "ordinal": 1,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "Procurement Policy Note: The Commercial Playbooks (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-0623-the-commercial-playbooks/procurement-policy-note-the-commercial-playbooks-html",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2022 to 2024 Sunak Conservative government",
+      "href": "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "PPN 06/23 The Commercial Playbooks",
+      "href": "https://www.gov.uk/government/publications/ppn-0623-the-commercial-playbooks",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [],
+  "attachments": [],
+  "warnings": []
+}

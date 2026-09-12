@@ -1,0 +1,122 @@
+{
+  "document_id": "3ee9a4b1-cf45-4812-9d7f-1e303f046464",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/e2a598d5caa70d52f9253034.json",
+  "input_sha256": "dcee97b2af92e327d9dc48d1eec916ebf0fc9f79420926a723c11424b2e25193",
+  "processed_at": "2026-08-27T02:26:44.993086+00:00",
+  "title": "PPN 03/23: Standard Selection Questionnaire (SQ)",
+  "canonical_url": "https://www.gov.uk/government/publications/ppn-0323-standard-selection-questionnaire-sq",
+  "description": "This Procurement Policy Note (PPN) updates the Selection Questionnaire (SQ) and accompanying statutory guidance and replaces PPN 08/16.",
+  "publication_date": "2023-03-09T10:58:00+00:00",
+  "updated_date": "2023-03-09T11:05:22+00:00",
+  "source_metadata": {
+    "content_id": "3ee9a4b1-cf45-4812-9d7f-1e303f046464",
+    "base_path": "/government/publications/ppn-0323-standard-selection-questionnaire-sq",
+    "document_type": "guidance",
+    "schema_name": "publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "This note replaces PPN 08/16.",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "PPN 03/23: Standard Selection Questionnaire (SQ)",
+      "href": "https://www.gov.uk/government/publications/ppn-0323-standard-selection-questionnaire-sq",
+      "block_id": "__document__",
+      "ordinal": 0,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "Procurement policy notes",
+      "href": "https://www.gov.uk/government/collections/procurement-policy-notes",
+      "block_id": "__document__",
+      "ordinal": 1,
+      "link_type": "GOVUK_DOCUMENT_COLLECTIONS"
+    },
+    {
+      "text": "2022 to 2024 Sunak Conservative government",
+      "href": "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Crown Commercial Service",
+      "href": "https://www.gov.uk/government/organisations/crown-commercial-service",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_ORIGINAL_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Government spending",
+      "href": "https://www.gov.uk/government/government-spending",
+      "block_id": "__document__",
+      "ordinal": 7,
+      "link_type": "GOVUK_TAXONS"
+    }
+  ],
+  "legal_references": [],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/643553b989f19f00133cfb04/PPN_03_23_-_Standard_Selection_Questionnaire__SQ__.docx.odt",
+      "title": "PPN 03/23 - Standard Selection Questionnaire (SQ)",
+      "content_type": "application/vnd.oasis.opendocument.text",
+      "filename": "PPN_03_23_-_Standard_Selection_Questionnaire__SQ__.docx.odt",
+      "id": "7281585",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/643553c5877741001368d7c3/PPN_03_23_-_Standard_Selection_Questionnaire__SQ__.docx.pdf",
+      "title": "PPN 03/23 - Standard Selection Questionnaire (SQ)",
+      "content_type": "application/pdf",
+      "filename": "PPN_03_23_-_Standard_Selection_Questionnaire__SQ__.docx.pdf",
+      "id": "7281586",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/643553e6cc9980000cb89337/Procurement_Policy_Note_03_23_-_Standard_Selection_Questionnaire.docx",
+      "title": "PPN 03/23 - Standard Selection Questionnaire (SQ)",
+      "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "filename": "Procurement_Policy_Note_03_23_-_Standard_Selection_Questionnaire.docx",
+      "id": "7281587",
+      "logical_role": "ATTACHMENT"
+    }
+  ],
+  "warnings": []
+}

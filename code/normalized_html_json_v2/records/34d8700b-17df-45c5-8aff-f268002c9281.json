@@ -1,0 +1,1576 @@
+{
+  "document_id": "34d8700b-17df-45c5-8aff-f268002c9281",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/c35498efe38e6c659e035252.json",
+  "input_sha256": "e7f5f5f3977b9a5af3b587813861e0a49d88c2e3cf3539af3537e21c23882cf7",
+  "processed_at": "2026-08-27T02:26:40.701353+00:00",
+  "title": "Suppliers: detailed walkthrough - how an administrator completes and updates supplier information (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-act-2023-short-guides/suppliers-detailed-walkthrough-how-an-administrator-completes-and-updates-supplier-information-html",
+  "description": null,
+  "publication_date": "2025-01-21T14:25:38+00:00",
+  "updated_date": "2026-06-23T10:02:16+01:00",
+  "source_metadata": {
+    "content_id": "34d8700b-17df-45c5-8aff-f268002c9281",
+    "base_path": "/government/publications/procurement-act-2023-short-guides/suppliers-detailed-walkthrough-how-an-administrator-completes-and-updates-supplier-information-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What is the Central Digital Platform?",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Managing Users",
+      "ordinal": 9,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Completing Supplier Information",
+      "ordinal": 20,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Complete the Basic Information section",
+      "ordinal": 31,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Complete the Connected Persons section",
+      "ordinal": 48,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Complete the Qualifications section",
+      "ordinal": 62,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Complete the Trade Assurances section",
+      "ordinal": 70,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Complete the Exclusions section",
+      "ordinal": 77,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Complete the Financial Information section",
+      "ordinal": 90,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Declare and Share",
+      "ordinal": 99,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "What is the Central Digital Platform?",
+      "ordinal": 0,
+      "heading_path": [
+        "What is the Central Digital Platform?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "Central Digital Platform is an online portal which will make it easier for suppliers to find and bid for contracts, and for buyers to meet their transparency commitments under the Procurement Act 2023.",
+      "ordinal": 1,
+      "heading_path": [
+        "What is the Central Digital Platform?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "Find a Tender is where the public sector will publish all of its notices about regulated public procurement, including opportunities to learn more about what the public sector plans to buy and when and how to bid, who the winning bidder is and details of the management of contracts.",
+      "ordinal": 2,
+      "heading_path": [
+        "What is the Central Digital Platform?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "li",
+      "text": "https://www.gov.uk/find-tender",
+      "ordinal": 3,
+      "heading_path": [
+        "What is the Central Digital Platform?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "Additional video guidance is available detailing these steps.",
+      "ordinal": 4,
+      "heading_path": [
+        "What is the Central Digital Platform?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "video guidance",
+      "ordinal": 5,
+      "heading_path": [
+        "What is the Central Digital Platform?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "p",
+      "text": "You should use this guide when registering your organisation on the service for the first time. If you need help with registering as an individual user against a registered organisation, please watch the walkthrough video on how to register an organisation or read the supporting user guide and follow the instructions provided.",
+      "ordinal": 6,
+      "heading_path": [
+        "What is the Central Digital Platform?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "walkthrough video",
+      "ordinal": 7,
+      "heading_path": [
+        "What is the Central Digital Platform?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "To find more information and guidance for suppliers, including knowledge drop videos and short guides for suppliers, please visit this page .",
+      "ordinal": 8,
+      "heading_path": [
+        "What is the Central Digital Platform?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "heading",
+      "text": "Managing Users",
+      "ordinal": 9,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Managing Users"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "p",
+      "text": "There are three user profiles with varying permissions: admin, editor and viewer. The abilities of each user profile are as follows:",
+      "ordinal": 10,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Managing Users"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "li",
+      "text": "Administrators have access to all the functionality within the supplier account such as managing other users, changing the supplier information and updating organisation information.",
+      "ordinal": 11,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Managing Users"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "li",
+      "text": "An editor can view supplier information and change organisation information, complete declarations and generate a share code.",
+      "ordinal": 12,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Managing Users"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "li",
+      "text": "A viewer can view organisation and supplier information and download data or see the share code such that they can input it into a tender form, if asked.",
+      "ordinal": 13,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Managing Users"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "Adding additional users is simple. Under your organisation view, you can view, add or remove users by selecting ‘Manage users’.",
+      "ordinal": 14,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Managing Users"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "The below page will load which will allow you to view your current users and add another user.",
+      "ordinal": 15,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Managing Users"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "If you wish to add another user to your account, select ‘Yes’ then ‘Continue’.",
+      "ordinal": 16,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Managing Users"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "You should enter the first name, last name and email address of your new user then select the appropriate user role for the individual. Then select ‘Continue’.",
+      "ordinal": 17,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Managing Users"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "p",
+      "text": "You will now be prompted to check your answers, make any necessary changes and send an invitation email to your new user.",
+      "ordinal": 18,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Managing Users"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "Once you have sent your invitation email to your user, the ‘Manage users’ page will load where you can see your organisation’s users. From this page, you can change a user’s profile or remove a user.",
+      "ordinal": 19,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Managing Users"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "heading",
+      "text": "Completing Supplier Information",
+      "ordinal": 20,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "Now you will be required to enter the organisation’s supplier information. Having all the required information to hand will speed up the process. The administrator will be asked to input or upload:",
+      "ordinal": 21,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "li",
+      "text": "Basic Information,",
+      "ordinal": 22,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "li",
+      "text": "Connected Persons,",
+      "ordinal": 23,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "li",
+      "text": "Qualifications,",
+      "ordinal": 24,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "li",
+      "text": "Trade Assurances,",
+      "ordinal": 25,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "li",
+      "text": "Exclusions, and",
+      "ordinal": 26,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "li",
+      "text": "Financial Information.",
+      "ordinal": 27,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "Once you have the required information to hand, navigate to the organisation page by selecting ‘view’ next to your chosen organisation.",
+      "ordinal": 28,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "p",
+      "text": "This will load the following page displaying the details of your organisation. To complete your supplier information, select ‘Complete Supplier Information’.",
+      "ordinal": 29,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "p",
+      "text": "By clicking on the ‘Complete Supplier Information’ option, all of the headings for information that are commonly used across all procurements are shown. You will be able to click into",
+      "ordinal": 30,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "heading",
+      "text": "Complete the Basic Information section",
+      "ordinal": 31,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Basic Information section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "p",
+      "text": "To complete ‘Basic Information’, select the Basic Information section to start entering your organisation’s details. You will first be prompted to select whether you are an organisation or an individual supplier.",
+      "ordinal": 32,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Basic Information section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "p",
+      "text": "The following page will load having autopopulated your organisation’s registered address and email address from the initial registration. You should complete the rest of the required information by selecting ‘add’ next to each category.",
+      "ordinal": 33,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Basic Information section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "p",
+      "text": "To complete the ‘Postal address’ section, select ‘add’. You will be asked if your organisation has a different postal address to its registered address. If you select ‘Yes’, you will be prompted to enter your organisation’s postal address. If you select ‘No’, it will autopopulate the organisation’s registered address.",
+      "ordinal": 34,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Basic Information section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "p",
+      "text": "To complete the ‘VAT number’ section, select ‘add’.",
+      "ordinal": 35,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Basic Information section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "p",
+      "text": "You will be asked if your organisation is registered for VAT. If you select ‘Yes’, a field will appear to enter your VAT number. If you select ‘No’, you will return to the basic information page.",
+      "ordinal": 36,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Basic Information section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "p",
+      "text": "To complete the ‘Website address’ section, select ‘add’.",
+      "ordinal": 37,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Basic Information section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "p",
+      "text": "You will be asked if your organisation has a website. If you select ‘Yes’, a field will appear to enter your website address. If you select ‘No’, you will return to the basic information page.",
+      "ordinal": 38,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Basic Information section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "p",
+      "text": "To complete the ‘organisation type’ section, select ‘add’.",
+      "ordinal": 39,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Basic Information section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "p",
+      "text": "You will be prompted to select how your organisation operates. There are dropdown descriptions for some options to provide further explanation. You may select one or multiple options, or select ‘my organisation is none of the above’. Select ‘save and exit’ to return to the basic information page.",
+      "ordinal": 40,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Basic Information section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "p",
+      "text": "To complete the ‘Legal form’ section, select ‘add’.",
+      "ordinal": 41,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Basic Information section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "p",
+      "text": "You will be asked if your organisation is registered on Companies House.",
+      "ordinal": 42,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Basic Information section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "p",
+      "text": "If you select ‘Yes’, you will be asked to select the legal form of your organisation.",
+      "ordinal": 43,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Basic Information section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "p",
+      "text": "If you select ‘No’ to declare your organisation is not registered on Companies House, you will be asked to enter your organisation’s registered legal form.",
+      "ordinal": 44,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Basic Information section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "p",
+      "text": "Next, you will be prompted to provide the law under which your organisation was registered.",
+      "ordinal": 45,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Basic Information section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "p",
+      "text": "You will then be prompted to enter the date your company was registered.",
+      "ordinal": 46,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Basic Information section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "p",
+      "text": "You will now have completed the basic information section and can make any necessary changes by selecting ‘Change’ or return to account home to complete the next section.",
+      "ordinal": 47,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Basic Information section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "heading",
+      "text": "Complete the Connected Persons section",
+      "ordinal": 48,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Connected Persons section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "p",
+      "text": "To complete the ‘Connected Persons’ section, select the Connected Persons section to start entering your details.",
+      "ordinal": 49,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Connected Persons section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00050",
+      "block_type": "p",
+      "text": "By selecting the ‘connected persons’ link, a page opens that describes what connected persons are. There is a link to Companies House guidance on identifying or recording people with significant control.",
+      "ordinal": 50,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Connected Persons section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00051",
+      "block_type": "p",
+      "text": "Pressing ‘continue’ process to a question that asks if the organisation is influenced or controlled by anyone else. If you select ‘No’, you will return to the supplier information page. Selecting yes goes to a series of guided questions to help describe the people who have influence or control over the organisation and details about them. In some cases, this could be details of an organisation. In others, entering the details of an individual person, including their date of birth and nationality in some cases.",
+      "ordinal": 51,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Connected Persons section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00052",
+      "block_type": "p",
+      "text": "If you selected ‘Yes’ to state your organisation has a connected person, you will then be asked to confirm if your organisation is registered with Companies House.",
+      "ordinal": 52,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Connected Persons section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00053",
+      "block_type": "p",
+      "text": "You will then be asked to select whether your connected person is an individual, organisation or a trust.",
+      "ordinal": 53,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Connected Persons section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00054",
+      "block_type": "p",
+      "text": "This guide will follow the user journey of adding a connected person who is a parent company of your organisation.",
+      "ordinal": 54,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Connected Persons section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00055",
+      "block_type": "p",
+      "text": "If you select ‘organisation’, you will then be asked to select the category that best describes the connected person you are recording.",
+      "ordinal": 55,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Connected Persons section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00056",
+      "block_type": "p",
+      "text": "You will then be asked to enter the organisation’s name.",
+      "ordinal": 56,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Connected Persons section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00057",
+      "block_type": "p",
+      "text": "You will then be prompted to enter the registered address of the parent company.",
+      "ordinal": 57,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Connected Persons section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00058",
+      "block_type": "p",
+      "text": "Next, you will be asked if your connected person has a postal address that is different to their registered address.",
+      "ordinal": 58,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Connected Persons section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00059",
+      "block_type": "p",
+      "text": "You will then be asked whether your connected person is registered with Companies House. If you select ‘Yes’, a field will appear for you to enter the Companies House number and then be directed to check your answers. If you select ‘No’, you will be directed to check your answers.",
+      "ordinal": 59,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Connected Persons section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00060",
+      "block_type": "p",
+      "text": "Next, you will be prompted to check your answers, make any changes necessary, and submit.",
+      "ordinal": 60,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Connected Persons section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00061",
+      "block_type": "p",
+      "text": "Once you have selected ‘submit’, the following page will load. You will be able to add additional connected persons and change or remove your current connected persons. Selecting ‘continue’ will direct you back to the supplier information page.",
+      "ordinal": 61,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Connected Persons section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00062",
+      "block_type": "heading",
+      "text": "Complete the Qualifications section",
+      "ordinal": 62,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Qualifications section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00063",
+      "block_type": "p",
+      "text": "To complete the ‘Qualifications’ section, select the Qualifications link to start entering your details.",
+      "ordinal": 63,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Qualifications section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00064",
+      "block_type": "p",
+      "text": "First, you will be asked if you want to add any relevant qualifications. Selecting ‘no’ will end the entry process for qualifications. Selecting ‘yes’ will take the user through a series of screens that ask for more details about that qualification.",
+      "ordinal": 64,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Qualifications section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00065",
+      "block_type": "p",
+      "text": "If you proceed to adding a qualification, you will be prompted to enter the name of the qualification.",
+      "ordinal": 65,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Qualifications section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00066",
+      "block_type": "p",
+      "text": "Next, you will be asked to enter the name of the awarding person or body of the qualification.",
+      "ordinal": 66,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Qualifications section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00067",
+      "block_type": "p",
+      "text": "You will then be asked to provide the date the qualification was awarded.",
+      "ordinal": 67,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Qualifications section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00068",
+      "block_type": "p",
+      "text": "The following screen will load and you will be prompted to check your answers, make any changes necessary, and save.",
+      "ordinal": 68,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Qualifications section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00069",
+      "block_type": "p",
+      "text": "Once you have selected ‘save’, the following page will load. You will be able to add additional qualifications and change or remove your current qualifications. Selecting ‘continue’ will direct you back to the supplier information page.",
+      "ordinal": 69,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Qualifications section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00070",
+      "block_type": "heading",
+      "text": "Complete the Trade Assurances section",
+      "ordinal": 70,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Trade Assurances section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00071",
+      "block_type": "p",
+      "text": "To complete the ‘Trade Assurances’ section, select the Trade Assurances link to start entering your details.",
+      "ordinal": 71,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Trade Assurances section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00072",
+      "block_type": "p",
+      "text": "First, you will be asked if you want to add any relevant Trade Assurances. Answering ‘no’ will take you back to the main screen. Answering ‘yes’ will take you through a series of screens that ask information about the trade assurance that you wish to record.",
+      "ordinal": 72,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Trade Assurances section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00073",
+      "block_type": "p",
+      "text": "Next, you will be asked to enter the name of the awarding person or body of the assurance.",
+      "ordinal": 73,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Trade Assurances section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00074",
+      "block_type": "p",
+      "text": "You will be asked if you know the trade assurance reference number. If you select ‘Yes’, a field will appear to enter the reference number. If you select ‘No’, you will proceed to the next page.",
+      "ordinal": 74,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Trade Assurances section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00075",
+      "block_type": "p",
+      "text": "You will then be asked to provide the date the trade assurance was awarded.",
+      "ordinal": 75,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Trade Assurances section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00076",
+      "block_type": "p",
+      "text": "Once you have selected ‘save’, the following page will load. You will be able to add additional trade assurances and change or remove your current trade assurance. Selecting ‘continue’ will direct you back to the supplier information page.",
+      "ordinal": 76,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Trade Assurances section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00077",
+      "block_type": "heading",
+      "text": "Complete the Exclusions section",
+      "ordinal": 77,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Exclusions section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00078",
+      "block_type": "p",
+      "text": "To complete the ‘Exclusions’ section, select the Exclusions link to start entering your details. This will load the following page which displays more details about what exclusions are.",
+      "ordinal": 78,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Exclusions section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00079",
+      "block_type": "p",
+      "text": "You will be asked if you want to add any exclusions for your organisation or a connected person. Answering ‘no’ will take you back to the main screen. Answering ‘yes’ will take you through a series of screens that ask information about the nature of the exclusion, this could include details such as the type of exclusion and if it is mandatory or discretionary, who the exclusion applies to and a series of further details.",
+      "ordinal": 79,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Exclusions section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00080",
+      "block_type": "p",
+      "text": "You will then be asked whether the exclusion happened in the UK.",
+      "ordinal": 80,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Exclusions section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00081",
+      "block_type": "p",
+      "text": "The below screen will load where you will select the exclusion that applies. If there are multiple exclusions that apply to your organisation, or your connected person, these can be added after.",
+      "ordinal": 81,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Exclusions section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00082",
+      "block_type": "p",
+      "text": "You will then be prompted to select whether the exclusion applies to your organisation or your Connected Person.",
+      "ordinal": 82,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Exclusions section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00083",
+      "block_type": "p",
+      "text": "Next, you will be asked to provide an email address where a contracting authority can contact the relevant person about the exclusion.",
+      "ordinal": 83,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Exclusions section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00084",
+      "block_type": "p",
+      "text": "You will be asked to provide more details around the events of the exclusion.",
+      "ordinal": 84,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Exclusions section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00085",
+      "block_type": "p",
+      "text": "Next, you will be prompted to give details around how the exclusion is being managed.",
+      "ordinal": 85,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Exclusions section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00086",
+      "block_type": "p",
+      "text": "You will be asked if you have supporting documentation to upload. If you select ‘Yes’, an option to upload a file will appear. If you select ‘No’, you will continue to the next page.",
+      "ordinal": 86,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Exclusions section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00087",
+      "block_type": "p",
+      "text": "Next, you will be asked if the decision relating to your exclusion was recorded on a public authority website. If you select ‘Yes’, a field will appear to enter the relevant website address. If you select ‘No’, you will continue to the next page.",
+      "ordinal": 87,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Exclusions section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00088",
+      "block_type": "p",
+      "text": "You will then be asked whether the circumstances that led to the exclusion have ended.",
+      "ordinal": 88,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Exclusions section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00089",
+      "block_type": "p",
+      "text": "Once you have selected ‘save’, the following page will load. You will be able to add additional exclusions and change or remove your current trade assurance. Selecting ‘continue’ will direct you back to the supplier information page.",
+      "ordinal": 89,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Exclusions section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00090",
+      "block_type": "heading",
+      "text": "Complete the Financial Information section",
+      "ordinal": 90,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Financial Information section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00091",
+      "block_type": "p",
+      "text": "To complete the ‘Financial Information’ section, select the Financial Information link to start entering your details.",
+      "ordinal": 91,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Financial Information section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00092",
+      "block_type": "p",
+      "text": "After selecting the financial information link you will be presented with details about the types of financial information required.",
+      "ordinal": 92,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Financial Information section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00093",
+      "block_type": "p",
+      "text": "You will then be prompted to state whether your accounts were audited.",
+      "ordinal": 93,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Financial Information section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00094",
+      "block_type": "p",
+      "text": "You will then be asked to select the files they wish to upload. The accepted files types are described on the upload screen.",
+      "ordinal": 94,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Financial Information section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00095",
+      "block_type": "p",
+      "text": "For each file uploaded, you will be asked to enter the financial year end date for the accounts you uploaded.",
+      "ordinal": 95,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Financial Information section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00096",
+      "block_type": "p",
+      "text": "Once you have selected ‘save’, the following page will load. You will be able to add accounts and change or remove your current accounts. Selecting ‘Yes’ will allow you to add another file",
+      "ordinal": 96,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Financial Information section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00097",
+      "block_type": "p",
+      "text": "Follow the above steps again to add another financial year’s accounts and select ‘continue’ to return to the supplier information page.",
+      "ordinal": 97,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Financial Information section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00098",
+      "block_type": "p",
+      "text": "You have now completed your supplier information.",
+      "ordinal": 98,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Completing Supplier Information",
+        "Complete the Financial Information section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00099",
+      "block_type": "heading",
+      "text": "Declare and Share",
+      "ordinal": 99,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Declare and Share"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00100",
+      "block_type": "p",
+      "text": "Once supplier information has been completed, it is ready for checking and declaring that it is accurate. To share the information as part of the bid, there are two methods. It could be through a share code, a number that is entered in the contracting authority’s tendering portal, or, by downloading the information and sharing by email or uploading as an attachment.",
+      "ordinal": 100,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Declare and Share"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00101",
+      "block_type": "p",
+      "text": "Once the Supplier Information has been completed, select ‘Share my information’ to begin the information sharing process.",
+      "ordinal": 101,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Declare and Share"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00102",
+      "block_type": "p",
+      "text": "The following page will load where you can find out more about how sharing supplier information works or progress to sharing information by selecting ‘Create a share code’.",
+      "ordinal": 102,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Declare and Share"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00103",
+      "block_type": "p",
+      "text": "From this page you will be able to see any previously generated share codes and the date they were created on. If your supplier information changes, you can update it and create a new share code and file to share the new information.",
+      "ordinal": 103,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Declare and Share"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00104",
+      "block_type": "p",
+      "text": "To progress, you must read the declaration and select the box to confirm that you understand and agree to the declaration.",
+      "ordinal": 104,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Declare and Share"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00105",
+      "block_type": "p",
+      "text": "Next, you will be prompted to enter your name.",
+      "ordinal": 105,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Declare and Share"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00106",
+      "block_type": "p",
+      "text": "Then, enter your job title.",
+      "ordinal": 106,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Declare and Share"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00107",
+      "block_type": "p",
+      "text": "You’ll then be asked to enter your work email address.",
+      "ordinal": 107,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Declare and Share"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00108",
+      "block_type": "p",
+      "text": "Next, you will be prompted to enter the postal address of your organisation.",
+      "ordinal": 108,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Declare and Share"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00109",
+      "block_type": "p",
+      "text": "You will then be prompted to check your answers and make changes as necessary. You should then select ‘Confirm and get share code’.",
+      "ordinal": 109,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Declare and Share"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00110",
+      "block_type": "p",
+      "text": "The following screen will load which displays your share code. You can also download your supplier information file for onward sharing.",
+      "ordinal": 110,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Declare and Share"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00111",
+      "block_type": "p",
+      "text": "You are now bid ready.",
+      "ordinal": 111,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Declare and Share"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "https://www.gov.uk/find-tender",
+      "href": "https://www.gov.uk/find-tender",
+      "block_id": "b00003",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "video guidance",
+      "href": "https://youtu.be/i4ZdbMGRqeQ",
+      "block_id": "b00005",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "supporting user guide",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-short-guides/suppliers-how-to-register-your-organisation-and-first-administrator-on-find-a-tender-in-three-easy-steps-html",
+      "block_id": "b00006",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "walkthrough video",
+      "href": "https://youtu.be/lnjCa4swtjA",
+      "block_id": "b00007",
+      "ordinal": 3,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "this page",
+      "href": "https://www.gov.uk/government/collections/information-and-guidance-for-suppliers",
+      "block_id": "b00008",
+      "ordinal": 4,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Suppliers: detailed walkthrough - how an administrator completes and updates supplier information (HTML)",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-short-guides/suppliers-detailed-walkthrough-how-an-administrator-completes-and-updates-supplier-information-html",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2022 to 2024 Sunak Conservative government",
+      "href": "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Government Commercial Function",
+      "href": "https://www.gov.uk/government/organisations/government-commercial-function",
+      "block_id": "__document__",
+      "ordinal": 7,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Procurement Act 2023: short guides",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-short-guides",
+      "block_id": "__document__",
+      "ordinal": 8,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Government Commercial Function",
+      "href": "https://www.gov.uk/government/organisations/government-commercial-function",
+      "block_id": "__document__",
+      "ordinal": 9,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [],
+  "attachments": [],
+  "warnings": []
+}

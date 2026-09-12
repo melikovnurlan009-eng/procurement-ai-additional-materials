@@ -1,0 +1,3040 @@
+{
+  "document_id": "076ea3b3-f777-46b5-88e1-c27b23690075",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/f5986b1d41209e6eaa7ef4df.json",
+  "input_sha256": "f721c7c922566424895de611446ea9305f3dc0028de5ec298db6e09d9bddc3bd",
+  "processed_at": "2026-08-27T02:26:47.788594+00:00",
+  "title": "Intellectual Property Rights Guidance Note (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/the-digital-data-and-technology-playbook/intellectual-property-rights-guidance-note-html",
+  "description": null,
+  "publication_date": "2023-06-20T11:00:07+01:00",
+  "updated_date": "2023-06-20T11:00:03+01:00",
+  "source_metadata": {
+    "content_id": "076ea3b3-f777-46b5-88e1-c27b23690075",
+    "base_path": "/government/publications/the-digital-data-and-technology-playbook/intellectual-property-rights-guidance-note-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Background",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "1. Understanding Intellectual Property",
+      "ordinal": 26,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "About this section",
+      "ordinal": 27,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "2. Commercial Action to Take",
+      "ordinal": 80,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "1. Background",
+      "ordinal": 97,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "2. Desired Outcome",
+      "ordinal": 102,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "3. Options and Recommended Approach",
+      "ordinal": 109,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "3. Model and Example Contract Clauses",
+      "ordinal": 158,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "OPTION 3: Licence for the contracted service only (and its future competition)",
+      "ordinal": 185,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "OPTION 4: Wider application of the IP",
+      "ordinal": 188,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "Background",
+      "ordinal": 0,
+      "heading_path": [
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "This guidance aims to build understanding of IPR issues and outlines a suite of options to consider when approaching IPR in our contracts. The key messages include:",
+      "ordinal": 1,
+      "heading_path": [
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "li",
+      "text": "Considering IP ownership and rights on a case-by-case basis – trying to apply a blanket solution does not account for the complexities of IP.",
+      "ordinal": 2,
+      "heading_path": [
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "li",
+      "text": "Moving away from a binary interpretation around IP ownership: the right to use IP is often more important than ownership, and a party can have a licence to use IP even if they do not own it.",
+      "ordinal": 3,
+      "heading_path": [
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "li",
+      "text": "Engaging the market on IP at pre-procurement stage to understand concerns and any assumptions.",
+      "ordinal": 4,
+      "heading_path": [
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "li",
+      "text": "Working with the chosen supplier(s) at pre-award stage to establish an IP strategy upfront and ensure all parties are clear on the proposed contractual approach.",
+      "ordinal": 5,
+      "heading_path": [
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "li",
+      "text": "Being mindful of competition rules and the creation of advantageous market positions. If International Trade is impacted, this could also breach Subsidy Rules.",
+      "ordinal": 6,
+      "heading_path": [
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "This guidance has been developed in collaboration with the Department for Transport (DfT), the Department for Science Innovation and Technology (DSIT), HM Treasury (HMT) and the Intellectual Property Office. The policy position and ownership options within it are incorporated within the Cross-Government Mid-Tier and Model Services Contracts and the DSIT Knowledge Asset Guidance.",
+      "ordinal": 7,
+      "heading_path": [
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "This guidance is arranged in three sections",
+      "ordinal": 8,
+      "heading_path": [
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "1. Understanding Intellectual Property",
+      "ordinal": 9,
+      "heading_path": [
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "li",
+      "text": "What is Intellectual Property (IP)?",
+      "ordinal": 10,
+      "heading_path": [
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "li",
+      "text": "Types of Intellectual Property",
+      "ordinal": 11,
+      "heading_path": [
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "li",
+      "text": "Who can own Intellectual Property?",
+      "ordinal": 12,
+      "heading_path": [
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "li",
+      "text": "The use of Licences",
+      "ordinal": 13,
+      "heading_path": [
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "li",
+      "text": "Why is IP a procurement issue?",
+      "ordinal": 14,
+      "heading_path": [
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "li",
+      "text": "Why IP ownership can be complex",
+      "ordinal": 15,
+      "heading_path": [
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "2. Commercial action to take",
+      "ordinal": 16,
+      "heading_path": [
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "li",
+      "text": "Engaging the market",
+      "ordinal": 17,
+      "heading_path": [
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "li",
+      "text": "Developing a Strategy for IP Ownership",
+      "ordinal": 18,
+      "heading_path": [
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "li",
+      "text": "Inviting Bids",
+      "ordinal": 19,
+      "heading_path": [
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "li",
+      "text": "Managing your Contract",
+      "ordinal": 20,
+      "heading_path": [
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "3. Model and example clauses and guidance",
+      "ordinal": 21,
+      "heading_path": [
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "li",
+      "text": "Crown ownership options",
+      "ordinal": 22,
+      "heading_path": [
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "li",
+      "text": "Supplier ownership options",
+      "ordinal": 23,
+      "heading_path": [
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "li",
+      "text": "Other options and examples",
+      "ordinal": 24,
+      "heading_path": [
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "p",
+      "text": "The aim of this guidance is to give you the tools and knowledge you need to make well-judged decisions about IP, taking into account the risks and benefits of different provisions and options.",
+      "ordinal": 25,
+      "heading_path": [
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "heading",
+      "text": "1. Understanding Intellectual Property",
+      "ordinal": 26,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "heading",
+      "text": "About this section",
+      "ordinal": 27,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property",
+        "About this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "The purpose of this section is to provide an overview of intellectual property and help you become familiar with the terminology, legal position and understand why IP needs to be a commercial consideration.",
+      "ordinal": 28,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property",
+        "About this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "p",
+      "text": "1.1. What is Intellectual Property?",
+      "ordinal": 29,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property",
+        "About this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "p",
+      "text": "1.1.1. Having the right type of intellectual property protection can help ensure creators and inventors can benefit from the fruits of their labour and stop people stealing or copying:",
+      "ordinal": 30,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property",
+        "About this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "li",
+      "text": "the names of products or brands",
+      "ordinal": 31,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property",
+        "About this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "li",
+      "text": "inventions",
+      "ordinal": 32,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property",
+        "About this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "li",
+      "text": "the design or look of products",
+      "ordinal": 33,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property",
+        "About this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "li",
+      "text": "things they write, make or produce",
+      "ordinal": 34,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property",
+        "About this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "p",
+      "text": "1.1.2. Copyright, patents, designs and trademarks are all types of intellectual property protection . You get some types of protection automatically, others you have to apply for.",
+      "ordinal": 35,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property",
+        "About this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "p",
+      "text": "1.2. What counts as Intellectual Property?",
+      "ordinal": 36,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property",
+        "About this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "p",
+      "text": "1,2,1. Intellectual property is created using your mind - for example, a report, an invention, an artistic work or a symbol.",
+      "ordinal": 37,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property",
+        "About this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "li",
+      "text": "a patent is for the way a thing works (and what it does)",
+      "ordinal": 38,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property",
+        "About this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "li",
+      "text": "a design is what it looks like",
+      "ordinal": 39,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property",
+        "About this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "li",
+      "text": "a trademark is its name and branding",
+      "ordinal": 40,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property",
+        "About this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "li",
+      "text": "copyright is for a record of something, whether written, audio, film or photographic.",
+      "ordinal": 41,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property",
+        "About this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "p",
+      "text": "1.2.2. Copyright exists the moment something is created and fixed in material form. Other forms of IP have to be registered with the Intellectual Property Office before they can be protected.",
+      "ordinal": 42,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property",
+        "About this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "p",
+      "text": "1.2.3. Crown copyright exists in anything created by Crown servants, such as Civil Servants, or by someone else who then effectively assigns copyright to the Crown by signing ownership over to the Keeper of Public Records in writing, often by agreeing to a clause in conditions of contract. The law around Crown copyright is slightly different than for copyright owned by others, for example regarding the amount of time before ownership in it expires.",
+      "ordinal": 43,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property",
+        "About this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "p",
+      "text": "1.3. Owning Intellectual Property",
+      "ordinal": 44,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property",
+        "About this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "p",
+      "text": "1.3.1. You own intellectual property if you:",
+      "ordinal": 45,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property",
+        "About this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "li",
+      "text": "created it (and it meets the requirements for copyright , a patent or a design )",
+      "ordinal": 46,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property",
+        "About this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "li",
+      "text": "bought intellectual property rights from the creator or a previous owner",
+      "ordinal": 47,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property",
+        "About this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "li",
+      "text": "have a brand that could be a trade mark , for example, a well-known product name",
+      "ordinal": 48,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property",
+        "About this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "p",
+      "text": "1.3.2. As Civil Servants, any intellectual property created in the course of duty would be owned by the Government (The Crown).",
+      "ordinal": 49,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property",
+        "About this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00050",
+      "block_type": "p",
+      "text": "1.3.3. Intellectual property can:",
+      "ordinal": 50,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property",
+        "About this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00051",
+      "block_type": "li",
+      "text": "have more than one owner and/or more than one user",
+      "ordinal": 51,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property",
+        "About this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00052",
+      "block_type": "li",
+      "text": "belong to people or businesses",
+      "ordinal": 52,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property",
+        "About this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00053",
+      "block_type": "li",
+      "text": "be sold or transferred",
+      "ordinal": 53,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property",
+        "About this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00054",
+      "block_type": "li",
+      "text": "allow the owner to exploit (make money from) the intellectual property they own.",
+      "ordinal": 54,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property",
+        "About this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00055",
+      "block_type": "p",
+      "text": "1.4. Intellectual Property Terminology",
+      "ordinal": 55,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property",
+        "About this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00056",
+      "block_type": "p",
+      "text": "1.4.1. You may sometimes hear the terms, New, Existing, Background, Third Party, Foreground and Sideground IP. The table below explains what these are and uses the example of the creation of a transport model to demonstrate where they might apply.",
+      "ordinal": 56,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property",
+        "About this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00057",
+      "block_type": "table",
+      "text": "Term\tWhat is it?\tExample\nExisting (or Background) IP\tThis is work created before or independently of a contract that can be used as part of your project.\tFor instance, a DfT contract might be reliant on the use of transport models. If either party to the contract (i.e. the contractor or the department) already owns the model in question then this would form Existing IP\nThird Party\tIf, however, Existing IP is owned by another party who is not involved with the contract, it is referred to as ‘Third Party IP’, and any potential user will need to acquire relevant permission to use it.\tIf the transport model has been developed by a third party, permission would need to be sought and obtained to ensure it can legally be used in the DfT contract.\nNew (or Foreground) IP\tAlso sometimes referred to as ‘Project or Contract IP’, this is the new IP created under the contract. New IP might include documents, reports, or inventions gathered during the project.\tIf the purpose of the contract is the creation of a new transport model, then this would become New IP and future ownership of this would need to be carefully considered.\nSideground\tThis is sometimes incorporated within Existing IP and refers to IP generated during the term of a project, but outside it. This must however be created without funding under the contract (otherwise it would be deemed New IP).\tIf either the department or the contractor decides to create the transport model, perhaps for its own purposes, during the term of the contract then, if this is used under the contract, it could become Sideground IP.",
+      "ordinal": 57,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property",
+        "About this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {
+        "rows": [
+          [
+            "Term",
+            "What is it?",
+            "Example"
+          ],
+          [
+            "Existing (or Background) IP",
+            "This is work created before or independently of a contract that can be used as part of your project.",
+            "For instance, a DfT contract might be reliant on the use of transport models. If either party to the contract (i.e. the contractor or the department) already owns the model in question then this would form Existing IP"
+          ],
+          [
+            "Third Party",
+            "If, however, Existing IP is owned by another party who is not involved with the contract, it is referred to as ‘Third Party IP’, and any potential user will need to acquire relevant permission to use it.",
+            "If the transport model has been developed by a third party, permission would need to be sought and obtained to ensure it can legally be used in the DfT contract."
+          ],
+          [
+            "New (or Foreground) IP",
+            "Also sometimes referred to as ‘Project or Contract IP’, this is the new IP created under the contract. New IP might include documents, reports, or inventions gathered during the project.",
+            "If the purpose of the contract is the creation of a new transport model, then this would become New IP and future ownership of this would need to be carefully considered."
+          ],
+          [
+            "Sideground",
+            "This is sometimes incorporated within Existing IP and refers to IP generated during the term of a project, but outside it. This must however be created without funding under the contract (otherwise it would be deemed New IP).",
+            "If either the department or the contractor decides to create the transport model, perhaps for its own purposes, during the term of the contract then, if this is used under the contract, it could become Sideground IP."
+          ]
+        ],
+        "row_count": 5
+      }
+    },
+    {
+      "block_id": "b00058",
+      "block_type": "p",
+      "text": "1.5. Who can own Intellectual Property?",
+      "ordinal": 58,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property",
+        "About this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00059",
+      "block_type": "p",
+      "text": "1.5.1. In government contracts, Existing IP is usually owned by its creator.",
+      "ordinal": 59,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property",
+        "About this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00060",
+      "block_type": "p",
+      "text": "1.5.2. New IP is normally owned by either the Supplier or by us, the Crown.",
+      "ordinal": 60,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property",
+        "About this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00061",
+      "block_type": "p",
+      "text": "1.5.3. However outright ownership of IP is not the only option, it is also common to provide Licences for its use. Licensing involves the owner of the IP (the licensor) giving another party (the licensee) permission to use its IP, sometimes subject to certain conditions, in exchange for payment or other returns.",
+      "ordinal": 61,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property",
+        "About this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00062",
+      "block_type": "p",
+      "text": "1.6. Licences",
+      "ordinal": 62,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property",
+        "About this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00063",
+      "block_type": "p",
+      "text": "1.6.1. Licensing can be as useful as ownership, since an appropriate arrangement can protect both parties’ interests and even provide the rights needed to commercialise the IP. What the licence lets you do, will depend on the type of licence agreed with the licensor.",
+      "ordinal": 63,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property",
+        "About this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00064",
+      "block_type": "li",
+      "text": "In an exclusive licence the parties agree that no other party can exploit the IP except the licensee i.e. not even the licensor (owner) can use it.",
+      "ordinal": 64,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property",
+        "About this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00065",
+      "block_type": "li",
+      "text": "A sole licence is like an exclusive licence since it permits only one licensee, but the licensor (owner) still reserves the right to exploit their own IP.",
+      "ordinal": 65,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property",
+        "About this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00066",
+      "block_type": "li",
+      "text": "A non-exclusive licence grants the licensee the right to use the IP, but on a non-exclusive basis. This means the licensor (owner) can still exploit the same IP by granting more licences.",
+      "ordinal": 66,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property",
+        "About this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00067",
+      "block_type": "p",
+      "text": "1.6.2. IP contract clauses involving the issue of a licence will normally set out what rights a licensee has to transfer its rights to another party. Contract conditions may also allow a licensee to sub-license its rights to a third party.",
+      "ordinal": 67,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property",
+        "About this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00068",
+      "block_type": "p",
+      "text": "1.6.3. A licence can be in force for any amount of time that is agreed by the relevant parties. Licence agreements should clearly specify circumstances when the IP owner holds the right to revoke, cancel or terminate a licence. Words to look out for include “irrevocable” and “perpetual”, and you should carefully check what happens to the right to use the IP once the agreement ends for any reason. You may want to consider if a run-off period is necessary, for example, if a licence ends, but there is still some remaining stock to be sold, what happens to it?",
+      "ordinal": 68,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property",
+        "About this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00069",
+      "block_type": "p",
+      "text": "1.6.4. You should also consider what territory or territories should be included within the licence, and whether there will be other licensees in other countries or parts of the world? What if the IP is not protected in other parts of the world? For example, someone may have a patent in the UK but not in the US.",
+      "ordinal": 69,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property",
+        "About this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00070",
+      "block_type": "p",
+      "text": "1.6.5. The Intellectual Property Office (IPO) can provide guidance and support around licensing – read more here . Model agreements can also be found here , which may be a helpful starting point.",
+      "ordinal": 70,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property",
+        "About this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00071",
+      "block_type": "p",
+      "text": "1.7. Why is Intellectual Property a Commercial issue?",
+      "ordinal": 71,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property",
+        "About this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00072",
+      "block_type": "p",
+      "text": "1.7.1. The supplier may bring Existing IP into use when fulfilling your requirement and you will need to ensure provision for this is set out in the contract, so that you can use it as necessary.",
+      "ordinal": 72,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property",
+        "About this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00073",
+      "block_type": "p",
+      "text": "1.7.2. When you contract with a supplier to provide goods or services, you will want to ensure you (and the supplier) can legally use any Third Party IP which the supplier may need to access in order to fulfil your requirement. This may involve making sure that they have the right to let you use the Third Party IP, or some kind of protection in the event that they haven’t done so.",
+      "ordinal": 73,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property",
+        "About this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00074",
+      "block_type": "p",
+      "text": "1.7.3. Your contract will need to include contractual provisions setting out who will own any New IP arising from the contract, and what rights the parties will have to use that IP. If this is not done the Crown may find that it does not have the rights it needs to use the results of the contract to meet its future requirements. Conversely, if the contractor’s rights are not clear, it will not be able to exploit the IP with other customers.",
+      "ordinal": 74,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property",
+        "About this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00075",
+      "block_type": "p",
+      "text": "1.8. IP as an influencer of supplier behaviour",
+      "ordinal": 75,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property",
+        "About this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00076",
+      "block_type": "p",
+      "text": "1.8.1. Developing a strategy for IP can throw up a number of, often contradictory, commercial benefits, risks and unintended consequences. These can include the need to balance:",
+      "ordinal": 76,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property",
+        "About this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00077",
+      "block_type": "li",
+      "text": "Contract Cost: If a supplier owns and can exclusively exploit its IP, they are clearly able to realise a benefit over and beyond our contract. This benefit would be removed or reduced if we impose contractual provisions such as the Crown ownership of any New IP, or require the issuing of exclusive licences. This may be reflected in the bid price.",
+      "ordinal": 77,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property",
+        "About this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00078",
+      "block_type": "li",
+      "text": "Maintaining a competitive market: If the contractual position does not grant adequate ownership or licence rights to the Crown then we need to consider what happens when we need to re-compete the contract or otherwise use that IP. We would wish to avoid being placed in an ongoing single supplier position so will need to carefully consider the licensing and other contractual provisions we need to put in place to prevent that happening.",
+      "ordinal": 78,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property",
+        "About this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00079",
+      "block_type": "li",
+      "text": "Encouraging innovative solutions: If the Crown decides it wishes to retain ownership of any New IP or retain exclusive rights, buyers should consider how this encourages suppliers to provide us with their best ideas and solutions if they are unable to gain wider market benefit – particularly if we might then sub-license their innovation to a competitor?",
+      "ordinal": 79,
+      "heading_path": [
+        "Background",
+        "1. Understanding Intellectual Property",
+        "About this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00080",
+      "block_type": "heading",
+      "text": "2. Commercial Action to Take",
+      "ordinal": 80,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00081",
+      "block_type": "p",
+      "text": "The purpose of this section is to take a more detailed look at the commercial risks and impacts of our IP strategies. It takes you through the commercial lifecycle, identifying the key areas where decisions should be made, or action taken, on Intellectual property.",
+      "ordinal": 81,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00082",
+      "block_type": "p",
+      "text": "2.1. Engaging the market",
+      "ordinal": 82,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00083",
+      "block_type": "p",
+      "text": "2.1.1. Early discussions with suppliers about different options, and what these would mean in terms of their involvement in the competition and the solutions they might provide, can help to shape your strategy. In doing so, you should not assume that our contractors all have a good understanding of IP issues, including how ownership restrictions may be required to ensure compliance with competition or Subsidy rules. Many of them, particularly SMEs, do not and this can lead to serious misunderstandings if care is not taken from the start. You will of course need to ensure information about IP is made equally available to all prospective bidders.",
+      "ordinal": 83,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00084",
+      "block_type": "p",
+      "text": "2.1.2. It is helpful to consider the issue from the supplier’s point of view, acknowledging their concerns about potential competitor access to their ideas and innovations, and the often personal nature of their moral right to their own creation.",
+      "ordinal": 84,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00085",
+      "block_type": "p",
+      "text": "2.1.3. Ownership of Intellectual Property can become a source of friction in supplier relationships. It does not have to be this way and an early and open discussion on the topic – prior to starting your competitive process - can go a long way to preventing any tensions and correcting any misassumptions.",
+      "ordinal": 85,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00086",
+      "block_type": "p",
+      "text": "2.1.4. Early engagement with the market can help both parties better define the value of any intellectual property which may be created. From discussions, you may find that the supplier does not place so high a value on aspects of the IP which are quite valuable to the Department (and vice versa) and you may therefore be able to agree on a mutually beneficial way of breaking down the IP ownership and rights to suit both parties. Assumptions about the value of IP can produce tensions which may be unwarranted. For instance, would the invention have a commercial value or use outside of your contract? Early discussions can build better relationships and improve buy-in longer term.",
+      "ordinal": 86,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00087",
+      "block_type": "p",
+      "text": "Checklist:",
+      "ordinal": 87,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00088",
+      "block_type": "li",
+      "text": "Make sure all parties have a common understanding of what IP is and to what extent it is likely to arise under the contract. Consider if the supplier should take expert advice.",
+      "ordinal": 88,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00089",
+      "block_type": "li",
+      "text": "Seek to understand the likely value of any IP to the supplier – will it have any use outside of the contract? Could it be useful to one of their competitors, if so, how to reduce this risk?",
+      "ordinal": 89,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00090",
+      "block_type": "li",
+      "text": "Explain any need you have identified for Crown ownership or licences and consider if mutually beneficial solutions can be reached.",
+      "ordinal": 90,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00091",
+      "block_type": "li",
+      "text": "Encourage open discussion about expectations and concerns.",
+      "ordinal": 91,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00092",
+      "block_type": "p",
+      "text": "2.2. Developing a strategy for Intellectual Property ownership",
+      "ordinal": 92,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00093",
+      "block_type": "p",
+      "text": "2.2.1. Ownership of IP is often not a straightforward decision and you will need to carefully weigh up the pros and cons of each contractual approach. Your strategy for handling any Intellectual Property which may arise from a contract needs to be considered at an early stage, ideally as part of the business case for your project.",
+      "ordinal": 93,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00094",
+      "block_type": "p",
+      "text": "2.2.2. Essentially, the key decision to be made is who will have ownership and rights of use, of any New IP generated under the contract – the Crown or the Supplier – and then which rights to the IP the other party should have. The various options (along with pros and cons of each approach) are set out in Section 3, and the purpose of the strategy is to encourage wider thinking around the issue and establish what you are seeking to achieve from your contract.",
+      "ordinal": 94,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00095",
+      "block_type": "p",
+      "text": "2.2.3. Your market engagement activity should already have informed your thinking, but to help ensure we make sound decisions around IP, some additional research may be needed (depending on the extent to which this is likely to be a significant issue). This could include gaining a better understanding of the nature (and competitiveness) of the market, including both in the UK and in other territories; whereabouts in the supply chain the innovation is likely to be generated; and what the nature of the innovation is.",
+      "ordinal": 95,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00096",
+      "block_type": "p",
+      "text": "2.2.4. One possible method for doing this is by breaking the strategy down into three sections:",
+      "ordinal": 96,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00097",
+      "block_type": "heading",
+      "text": "1. Background",
+      "ordinal": 97,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00098",
+      "block_type": "p",
+      "text": "Set the scene to ensure you take a proportionate approach.",
+      "ordinal": 98,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00099",
+      "block_type": "li",
+      "text": "How likely is your contract to generate New IP?",
+      "ordinal": 99,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00100",
+      "block_type": "li",
+      "text": "How easily can any New IP be separated from Existing IP?",
+      "ordinal": 100,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00101",
+      "block_type": "li",
+      "text": "Are ownership and rights of use over the IP likely to be a contentious issue or require a novel approach?",
+      "ordinal": 101,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00102",
+      "block_type": "heading",
+      "text": "2. Desired Outcome",
+      "ordinal": 102,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "2. Desired Outcome"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00103",
+      "block_type": "p",
+      "text": "First and foremost in your thinking should be the needs of the department – what access and rights (thinking both short and long term) will we need to secure to any IP in order to deliver our objectives? In doing so, you might wish to consider:",
+      "ordinal": 103,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "2. Desired Outcome"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00104",
+      "block_type": "li",
+      "text": "Is this contract a one-off or will it need to be re-competed at the end of its term?",
+      "ordinal": 104,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "2. Desired Outcome"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00105",
+      "block_type": "li",
+      "text": "What access might your organisation need to the IP? Might any of the IP be business-critical longer-term? Will your organisation need to use or authorise third parties to use the IP in future? As a rule of thumb, the more likely you are to need it long term, the more important ownership (or a very robust licence) will be.",
+      "ordinal": 105,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "2. Desired Outcome"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00106",
+      "block_type": "li",
+      "text": "Is your organisation funding the development of an innovative solution in some way? This can bring the creation of future advantageous market positions into the picture (which we may need to manage to avoid breaching competition law or Subsidy rules), and in any case may increase the desire for the department to gain some future financial benefit from its exploitation.",
+      "ordinal": 106,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "2. Desired Outcome"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00107",
+      "block_type": "li",
+      "text": "Is your organisation seeking to achieve some wider industry or commercial aims through this contract? An example of this is the desire to make any IP generated “open source” so that everyone can use and build upon the innovation and it can be shared and deployed as widely as possible.",
+      "ordinal": 107,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "2. Desired Outcome"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00108",
+      "block_type": "li",
+      "text": "Are you trying to stimulate the market? Seek innovative solutions to problems? Attract new entrants and/or smaller/niche suppliers to whom the need to be able to financially benefit from their creation is likely to be a key to their participation?",
+      "ordinal": 108,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "2. Desired Outcome"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00109",
+      "block_type": "heading",
+      "text": "3. Options and Recommended Approach",
+      "ordinal": 109,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "3. Options and Recommended Approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00110",
+      "block_type": "p",
+      "text": "Section 3 of this guidance describes a number of the different types of contractual options outlined in the Playbook, for which there are model clauses available Your IP Strategy should consider the benefits and risks listed for each in order to recommend a preferred approach. If a bespoke clause is needed – seek legal advice at this stage.",
+      "ordinal": 110,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "3. Options and Recommended Approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00111",
+      "block_type": "p",
+      "text": "2.2.5. In finalising your strategy and reaching a recommendation, you may also wish to consider these general points:",
+      "ordinal": 111,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "3. Options and Recommended Approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00112",
+      "block_type": "li",
+      "text": "The cost of developing the IP will usually be borne by the supplier - consider whether your preferred ownership option is providing the best incentive for them to do so and whether it is likely to encourage other contractors to do the same in the future. The greater the restriction over the IP for the supplier, the higher the cost of the contract will likely be. On the other hand, favourable ownership conditions may encourage the contractor to invest to develop the product further.",
+      "ordinal": 112,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "3. Options and Recommended Approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00113",
+      "block_type": "li",
+      "text": "In an ideal world, and a healthy economy – inventions would be used and capitalised upon to their fullest extent. This is often a helpful fall-back position to take when the optimal ownership solution is unclear. The question which should be asked is “who is best placed to exploit the benefits of this innovation?” If you decide on Crown ownership, will we actively use the intellectual property or just “file it away”?",
+      "ordinal": 113,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "3. Options and Recommended Approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00114",
+      "block_type": "li",
+      "text": "It’s worth noting that ownership of IP is not always the issue – it is the right to use it which is often the important factor, meaning that the solution is not necessarily a black and white Crown/Supplier ownership decision. For instance, you may find that one of the supplier ownership options set out at Section 3, gives your organisation perfectly adequate rights without the need to place restrictions on the supplier’s use of its own IP. In fact, often the supplier’s concern is not that the Department may need to retain ongoing rights or licences to the IP, but that that their competitors may have access to it.",
+      "ordinal": 114,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "3. Options and Recommended Approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00115",
+      "block_type": "li",
+      "text": "You will need to consider how to value any IP, particularly if you opt for a gain/share approach.",
+      "ordinal": 115,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "3. Options and Recommended Approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00116",
+      "block_type": "li",
+      "text": "IP doesn’t need to be treated as a single entity within a contract– but can be broken down and considered on a case by case basis, depending on which party is best able to use and exploit each aspect. Joint ownership of IP is however generally best avoided as it can add complexity and risk, as well as the potential for future disputes, without much in the way of benefits.",
+      "ordinal": 116,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "3. Options and Recommended Approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00117",
+      "block_type": "li",
+      "text": "The parties’ respective responsibilities towards IP in the conditions of contract need to be reflected appropriately and proportionately in a contract management plan. The plan should set out responsibilities for remedying any foreseeable significant risks associated with IP, such as theft or infringements. There is more on this in Section 2.4.",
+      "ordinal": 117,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "3. Options and Recommended Approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00118",
+      "block_type": "li",
+      "text": "Finally, you should be mindful that your IP strategy doesn’t inadvertently create advantageous market conditions for individual suppliers – particularly where your organisation is funding development costs and/or the ownership option provides the supplier with exclusive rights to exploit. If you think this might be the case – seek legal advice.",
+      "ordinal": 118,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "3. Options and Recommended Approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00119",
+      "block_type": "p",
+      "text": "Summary/Checklist:",
+      "ordinal": 119,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "3. Options and Recommended Approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00120",
+      "block_type": "li",
+      "text": "Take a proportionate risk-based approach",
+      "ordinal": 120,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "3. Options and Recommended Approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00121",
+      "block_type": "li",
+      "text": "Remember that rights can be as important as ownership",
+      "ordinal": 121,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "3. Options and Recommended Approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00122",
+      "block_type": "li",
+      "text": "If the Crown owns it – will we use it?",
+      "ordinal": 122,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "3. Options and Recommended Approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00123",
+      "block_type": "li",
+      "text": "Might your approach create a barrier to innovation or the entry of new suppliers?",
+      "ordinal": 123,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "3. Options and Recommended Approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00124",
+      "block_type": "li",
+      "text": "If gain/share is considered appropriate, how will you value the IP?",
+      "ordinal": 124,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "3. Options and Recommended Approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00125",
+      "block_type": "li",
+      "text": "IP ownership can be broken down with a contract to reach mutually beneficial outcome",
+      "ordinal": 125,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "3. Options and Recommended Approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00126",
+      "block_type": "li",
+      "text": "Plan to manage responsibilities for IP proportionately based on risk and by the appropriate Parties",
+      "ordinal": 126,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "3. Options and Recommended Approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00127",
+      "block_type": "li",
+      "text": "If we are funding the development of the IP or providing exclusive rights to the supplier to exploit, check that we are not creating an advantageous monopoly position for a particular supplier.",
+      "ordinal": 127,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "3. Options and Recommended Approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00128",
+      "block_type": "p",
+      "text": "2.3. Inviting Bids",
+      "ordinal": 128,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "3. Options and Recommended Approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00129",
+      "block_type": "p",
+      "text": "2.3.1. Section 3 of this guidance sets out a number of model and example clauses along with guidance explaining what they achieve and when they are most likely to be used. These clauses are also contained within the GCF Standard Contracts and can be inserted in place of the default clause.",
+      "ordinal": 129,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "3. Options and Recommended Approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00130",
+      "block_type": "p",
+      "text": "2.3.2. It is however important to be clear about your IP position, rights and ownership by the start of your competition, including how far you wish to (or are able) to retain flexibility to negotiate on this once your procurement is underway (and clearly care needs to be taken to ensure that we comply with the procurement regulations and do not give any supplier an unfair advantage or preferential terms). Lack of clarity on this, or an initial position which the market could perceive as heavy-handed could deter suppliers from bidding and adversely impact your competition. If you have deferred negotiations on IP, this must be settled before contract award.",
+      "ordinal": 130,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "3. Options and Recommended Approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00131",
+      "block_type": "p",
+      "text": "2.3.3. If you have taken the decision to give suppliers ownership or rights to use IP, you might also wish to flag this point in adverts or the ITT itself, to further help drive the market outcomes you are seeking to achieve. For instance “In order to encourage bidders to provide their most innovative solutions, ownership of Intellectual Property will reside with the supplier for this contract (see clause xxxx)”",
+      "ordinal": 131,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "3. Options and Recommended Approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00132",
+      "block_type": "p",
+      "text": "2.4. Managing your contract",
+      "ordinal": 132,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "3. Options and Recommended Approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00133",
+      "block_type": "p",
+      "text": "2.4.1. Ensuring clear records",
+      "ordinal": 133,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "3. Options and Recommended Approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00134",
+      "block_type": "p",
+      "text": "Once the contract has been awarded, it is important that the Contract Manager (and all parties who might use/have access to the IP) understand their respective rights and responsibilities. Where appropriate mark-up documents (or require your supplier to do so) in a consistent way so all parties share a common understanding.",
+      "ordinal": 134,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "3. Options and Recommended Approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00135",
+      "block_type": "li",
+      "text": "Crown ownership: If the Crown owns the New IP (and novel or innovative IP is created under the contract) you should consider whether it would be appropriate to protect it (for example by filing for a patent).",
+      "ordinal": 135,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "3. Options and Recommended Approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00136",
+      "block_type": "li",
+      "text": "Supplier ownership: If the Supplier owns the New IP you may wish to include an obligation in your contract for them to inform you of any patent or design applications they file for it, to enable you to record your licence rights at the relevant patent offices.",
+      "ordinal": 136,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "3. Options and Recommended Approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00137",
+      "block_type": "p",
+      "text": "2.4.2. Where the IP in question requires registration, the date of registration, any caveats to the registration and any licences granted, should be clearly recorded and the dates for any re-registration noted.",
+      "ordinal": 137,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "3. Options and Recommended Approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00138",
+      "block_type": "p",
+      "text": "2.4.3. Registering ownership",
+      "ordinal": 138,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "3. Options and Recommended Approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00139",
+      "block_type": "p",
+      "text": "Under English law, certain types of IP need to be registered in order to be protected. Often this protection is time-limited and either has to be re-applied for at intervals, or else it lapses. Care should be taken where any IP will be used in different jurisdictions as there may well be different rules regarding registration or even whether it needs to be registered at all. In these circumstances, some degree of due diligence should be carried out to ensure that there are no competing elements in such jurisdictions or indeed, in the UK.",
+      "ordinal": 139,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "3. Options and Recommended Approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00140",
+      "block_type": "p",
+      "text": "2.4.4. It should also be noted that in certain circumstances, any licences should also be registered. This will require specialist advice.",
+      "ordinal": 140,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "3. Options and Recommended Approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00141",
+      "block_type": "p",
+      "text": "2.4.5. Managing our obligations throughout the life of contract",
+      "ordinal": 141,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "3. Options and Recommended Approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00142",
+      "block_type": "p",
+      "text": "IP management is a through-life task and not just something to consider at initial contract award. For example the inclusion of fresh existing or sideground IP mid-way through performance of the contract may prevent the Crown from using the end results as it intended to, and may rule out future competitive procurement. It is therefore important to consider any proposed changes against your overall IP Strategy. If in doubt, seek legal advice.",
+      "ordinal": 142,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "3. Options and Recommended Approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00143",
+      "block_type": "p",
+      "text": "2.4.5.1. If the Crown has retained ownership of the IP (or retained rights to it), the Contract Manager will need to be prepared to:",
+      "ordinal": 143,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "3. Options and Recommended Approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00144",
+      "block_type": "li",
+      "text": "exploit the value of IP as envisaged, taking opportunities and mitigating risks.",
+      "ordinal": 144,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "3. Options and Recommended Approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00145",
+      "block_type": "li",
+      "text": "impose information security standards competently and effectively, so that risks are not incurred because copyright works or designs in the care of a third party are shared inappropriately and so on.",
+      "ordinal": 145,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "3. Options and Recommended Approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00146",
+      "block_type": "li",
+      "text": "to be vigilant in looking for theft and infringements of IP by external people or organisations and take appropriate, risk-based action – from ‘cease and desist’ letters, through take-down notices through Internet Service Providers, up to legal proceedings.",
+      "ordinal": 146,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "3. Options and Recommended Approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00147",
+      "block_type": "p",
+      "text": "2.4.5.2. Additionally, Contract Managers should be aware of their responsibilities to other parties in respect of their own IP. For instance:",
+      "ordinal": 147,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "3. Options and Recommended Approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00148",
+      "block_type": "li",
+      "text": "not unduly obstructing other Parties in making the value of IP work for the contract strategy",
+      "ordinal": 148,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "3. Options and Recommended Approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00149",
+      "block_type": "li",
+      "text": "complying with brand guidelines and proper use of other Parties’ name and due protection of their reputation",
+      "ordinal": 149,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "3. Options and Recommended Approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00150",
+      "block_type": "p",
+      "text": "2.4.5.3. If you have some kind of gainshare or levy arrangements to share in the revenue generated from the IP, you will need mechanisms in place to ensure that this is reported, monitored and collected.",
+      "ordinal": 150,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "3. Options and Recommended Approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00151",
+      "block_type": "p",
+      "text": "2.4.5.4. It is often hard to value IP accurately at the outset, without the experience of actually running the contract for a while, especially when innovating. The value of IP can also change with market forces during the contract period, affecting the balance on which a contract was designed. It is sensible to agree to review the value of IP and risk assessment of IP matters in your contract management plan and to keep the door open to contract variations in the light of lessons learned. Otherwise suppliers could be deterred by the risk of unknowns.",
+      "ordinal": 151,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "3. Options and Recommended Approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00152",
+      "block_type": "li",
+      "text": "Design and agree your contract management plan for IP early",
+      "ordinal": 152,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "3. Options and Recommended Approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00153",
+      "block_type": "li",
+      "text": "Make sure ownership and rights are appropriately registered",
+      "ordinal": 153,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "3. Options and Recommended Approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00154",
+      "block_type": "li",
+      "text": "Keep a log of registrations, including review date",
+      "ordinal": 154,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "3. Options and Recommended Approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00155",
+      "block_type": "li",
+      "text": "Be clear on the responsibilities of the Parties – mark up documents where appropriate so all parties are clear.",
+      "ordinal": 155,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "3. Options and Recommended Approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00156",
+      "block_type": "li",
+      "text": "Ensure that the IP position is considered and maintained whenever the contract or the deliverables are amended.",
+      "ordinal": 156,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "3. Options and Recommended Approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00157",
+      "block_type": "p",
+      "text": "Keep the value of the IP under regular review.",
+      "ordinal": 157,
+      "heading_path": [
+        "Background",
+        "2. Commercial Action to Take",
+        "1. Background",
+        "3. Options and Recommended Approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00158",
+      "block_type": "heading",
+      "text": "3. Model and Example Contract Clauses",
+      "ordinal": 158,
+      "heading_path": [
+        "Background",
+        "3. Model and Example Contract Clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00159",
+      "block_type": "p",
+      "text": "This section of the guidance provides guidance on using a range of model clauses. It also summarises when option each would normally be used and the benefits and risks of doing so. The links provided are to the GCF Mid-Tier contract clauses.",
+      "ordinal": 159,
+      "heading_path": [
+        "Background",
+        "3. Model and Example Contract Clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00160",
+      "block_type": "li",
+      "text": "Option 1: Crown owns contract-specific IP with limited Supplier rights",
+      "ordinal": 160,
+      "heading_path": [
+        "Background",
+        "3. Model and Example Contract Clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00161",
+      "block_type": "li",
+      "text": "Option 2: Crown owns contract specific IP with non-exclusive Supplier rights",
+      "ordinal": 161,
+      "heading_path": [
+        "Background",
+        "3. Model and Example Contract Clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00162",
+      "block_type": "li",
+      "text": "Option 3: Supplier owns contract-specific IP with Crown rights for the current contract only",
+      "ordinal": 162,
+      "heading_path": [
+        "Background",
+        "3. Model and Example Contract Clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00163",
+      "block_type": "li",
+      "text": "Option 4: Supplier owns contact-specific IP with Crown rights for both the current contract and broader public sector functions",
+      "ordinal": 163,
+      "heading_path": [
+        "Background",
+        "3. Model and Example Contract Clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00164",
+      "block_type": "li",
+      "text": "Option 5: Options 2, 3, or 4, plus Crown rights to gain/profit share",
+      "ordinal": 164,
+      "heading_path": [
+        "Background",
+        "3. Model and Example Contract Clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00165",
+      "block_type": "p",
+      "text": "3.1. Crown Ownership (options 1 and 2)",
+      "ordinal": 165,
+      "heading_path": [
+        "Background",
+        "3. Model and Example Contract Clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00166",
+      "block_type": "p",
+      "text": "3.1.1. When Crown Ownership should be used",
+      "ordinal": 166,
+      "heading_path": [
+        "Background",
+        "3. Model and Example Contract Clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00167",
+      "block_type": "li",
+      "text": "Where the IP produced is likely to be high risk or business critical to your organisation and you wish to manage closely how it is used and deployed",
+      "ordinal": 167,
+      "heading_path": [
+        "Background",
+        "3. Model and Example Contract Clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00168",
+      "block_type": "li",
+      "text": "Where you want to retain use of IP for a wider benefit (for instance standardisation leading to enhanced value for money or where software code will be made open source).",
+      "ordinal": 168,
+      "heading_path": [
+        "Background",
+        "3. Model and Example Contract Clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00169",
+      "block_type": "li",
+      "text": "Where the Crown provides a lot of existing IP – it can create a muddied position if further developments of that IP are owned by the supplier. It is usually better to leave the ownership of all the IP in one place so that it can be exploited or licensed as a whole.",
+      "ordinal": 169,
+      "heading_path": [
+        "Background",
+        "3. Model and Example Contract Clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00170",
+      "block_type": "li",
+      "text": "Where the IP services more than one contract – for instance if we want to use it across other solutions, or if we need it for other contracts which have yet to be awarded.",
+      "ordinal": 170,
+      "heading_path": [
+        "Background",
+        "3. Model and Example Contract Clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00171",
+      "block_type": "li",
+      "text": "Where the control of certain IPR is in our interest, for example where ownership of detailed drawings could pose a national security threat.",
+      "ordinal": 171,
+      "heading_path": [
+        "Background",
+        "3. Model and Example Contract Clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00172",
+      "block_type": "table",
+      "text": "Benefits\tRisks\n- Maintaining competitive tension and the ability to switch suppliers at the end of a contract (note however that you can also obtain similar provisions under supplier ownership) - Manages any risk attached to our ongoing ability to buy/compete for high risk requirements, - Allows maximum control/sharing of IP and source coding by your organisation\t- May act as a disincentive to innovation if suppliers fear their creation could be shared with competitors and/or they have restricted rights to exploit it. - If you do not incorporate supplier rights (see options below), inability to exploit the IP may be reflected in the contract price - It may deter new entrants into the market, especially small niche businesses reliant on maximising return on their innovation or using projects to further develop their existing IP - It will be inconsistent with software-as-a-service or cloud-based offerings where New IP cannot be separated from Existing IP. - Your organisation will need to manage and log the IP, and any costs of registering the IP, including any patent costs - Your organisation may not use the IP and opportunity to use the innovation more widely is lost",
+      "ordinal": 172,
+      "heading_path": [
+        "Background",
+        "3. Model and Example Contract Clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {
+        "rows": [
+          [
+            "Benefits",
+            "Risks"
+          ],
+          [
+            "- Maintaining competitive tension and the ability to switch suppliers at the end of a contract (note however that you can also obtain similar provisions under supplier ownership) - Manages any risk attached to our ongoing ability to buy/compete for high risk requirements, - Allows maximum control/sharing of IP and source coding by your organisation",
+            "- May act as a disincentive to innovation if suppliers fear their creation could be shared with competitors and/or they have restricted rights to exploit it. - If you do not incorporate supplier rights (see options below), inability to exploit the IP may be reflected in the contract price - It may deter new entrants into the market, especially small niche businesses reliant on maximising return on their innovation or using projects to further develop their existing IP - It will be inconsistent with software-as-a-service or cloud-based offerings where New IP cannot be separated from Existing IP. - Your organisation will need to manage and log the IP, and any costs of registering the IP, including any patent costs - Your organisation may not use the IP and opportunity to use the innovation more widely is lost"
+          ]
+        ],
+        "row_count": 2
+      }
+    },
+    {
+      "block_id": "b00173",
+      "block_type": "p",
+      "text": "3.1.2. OPTION 1: The Crown has sole ownership of any innovation created in a project and the supplier will have no right to use or exploit the IP, other than for use in the contract.",
+      "ordinal": 173,
+      "heading_path": [
+        "Background",
+        "3. Model and Example Contract Clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00174",
+      "block_type": "p",
+      "text": "3.1.3. OPTION 2: Providing the supplier with a licence. Option 1 does not give any rights to the supplier to use or exploit the IP, thereby potentially giving rise to some of the risks noted above. If you think it is important for the Crown to retain ownership, you could manage some of these risks by adapting the clause to provide the contractor with greater ability to benefit from the IP, by giving them a non-exclusive licence. A non-exclusive licence allows the Supplier to exploit the IP but retains the right for the Crown to also exploit the IP or to authorise others to do so.",
+      "ordinal": 174,
+      "heading_path": [
+        "Background",
+        "3. Model and Example Contract Clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00175",
+      "block_type": "p",
+      "text": "3.1.4. Exclusivity of supplier licence. Please note that Option 2 provides for a non-exclusive licence only. Whilst an exclusive licence may be seen as more beneficial from a supplier’s point of view there are risks attached to it. However, there may be certain circumstances where you want (with legal advice) to reconsider this position. The table below sets out the risks and benefits of offering an exclusive licence which you may find helpful under these circumstances.",
+      "ordinal": 175,
+      "heading_path": [
+        "Background",
+        "3. Model and Example Contract Clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00176",
+      "block_type": "p",
+      "text": "3.1.5. The use of this type of licence is not recommended due to the balance of risks and benefits outlined below:",
+      "ordinal": 176,
+      "heading_path": [
+        "Background",
+        "3. Model and Example Contract Clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00177",
+      "block_type": "table",
+      "text": "Benefits\tRisks\n- Can help to managing concerns about bringing innovation to the table - Can help small or start-up businesses getting a foothold in the market. - Can enable the use of software-as-a-service offerings where project-specific developments cannot be separated from broader developments. - There is also the possibility the supplier could go on to further develop the IP to mutual benefit.\t- Potential creation of monopolistic single supplier - The Crown may have no rights to use the IP for the duration of the period of exclusivity - Exclusive licences may be subject to the provisions of the Re-use of Public Sector Information Regulations, which would require the arrangements to be published and reviewed every 3 years. - Crown copyright restrictions may require you to get their permission before granting exclusive licences, - Ongoing impact on competition and value for money.",
+      "ordinal": 177,
+      "heading_path": [
+        "Background",
+        "3. Model and Example Contract Clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {
+        "rows": [
+          [
+            "Benefits",
+            "Risks"
+          ],
+          [
+            "- Can help to managing concerns about bringing innovation to the table - Can help small or start-up businesses getting a foothold in the market. - Can enable the use of software-as-a-service offerings where project-specific developments cannot be separated from broader developments. - There is also the possibility the supplier could go on to further develop the IP to mutual benefit.",
+            "- Potential creation of monopolistic single supplier - The Crown may have no rights to use the IP for the duration of the period of exclusivity - Exclusive licences may be subject to the provisions of the Re-use of Public Sector Information Regulations, which would require the arrangements to be published and reviewed every 3 years. - Crown copyright restrictions may require you to get their permission before granting exclusive licences, - Ongoing impact on competition and value for money."
+          ]
+        ],
+        "row_count": 2
+      }
+    },
+    {
+      "block_id": "b00178",
+      "block_type": "p",
+      "text": "3.2. Supplier Ownership (options 3 and 4)",
+      "ordinal": 178,
+      "heading_path": [
+        "Background",
+        "3. Model and Example Contract Clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00179",
+      "block_type": "p",
+      "text": "3.2.1. When Supplier Ownership should be used:",
+      "ordinal": 179,
+      "heading_path": [
+        "Background",
+        "3. Model and Example Contract Clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00180",
+      "block_type": "p",
+      "text": "Supplier ownership should be the starting position when there is no clear benefit in the Crown owning the IP. This is because, in the absence of Crown interest in using the outcomes, the supplier is normally best placed to use and exploit the innovation.",
+      "ordinal": 180,
+      "heading_path": [
+        "Background",
+        "3. Model and Example Contract Clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00181",
+      "block_type": "p",
+      "text": "It should also be the preferred option where the creation of any New IP created cannot easily be separated from the (Supplier’s) Existing IP. For example, where suppliers provide software as a service solutions (SaaS), New IP (principally code) cannot be separated from the supplier’s Existing IP because it all resides as a single entity on a remote server.",
+      "ordinal": 181,
+      "heading_path": [
+        "Background",
+        "3. Model and Example Contract Clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00182",
+      "block_type": "table",
+      "text": "Benefits\tRisks\n- From a market perspective, supplier ownership is preferable to Crown ownership (even with extensive supplier rights) as the latter will inevitably have restrictions attached, thus more likely to encourage: - innovation - new entrants, small and niche suppliers If your organisation does not intend to use, share or exploit the IP, wider benefits to the economy are most likely to be realised by this approach\t- Unless the licence position is properly considered, supplier ownership can lock the Crown into a single supplier position, and encourage the supplier to shore up its own position. - If the licence is too narrowly defined, this may prevent your organisation making full use of the IP across a range of scenarios and in the future. - If the intention is to make the IP freely available (e.g. open source), Crown ownership may be better, as otherwise the Contractor may prefer to keep the IP for its own commercial advantage.",
+      "ordinal": 182,
+      "heading_path": [
+        "Background",
+        "3. Model and Example Contract Clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {
+        "rows": [
+          [
+            "Benefits",
+            "Risks"
+          ],
+          [
+            "- From a market perspective, supplier ownership is preferable to Crown ownership (even with extensive supplier rights) as the latter will inevitably have restrictions attached, thus more likely to encourage: - innovation - new entrants, small and niche suppliers If your organisation does not intend to use, share or exploit the IP, wider benefits to the economy are most likely to be realised by this approach",
+            "- Unless the licence position is properly considered, supplier ownership can lock the Crown into a single supplier position, and encourage the supplier to shore up its own position. - If the licence is too narrowly defined, this may prevent your organisation making full use of the IP across a range of scenarios and in the future. - If the intention is to make the IP freely available (e.g. open source), Crown ownership may be better, as otherwise the Contractor may prefer to keep the IP for its own commercial advantage."
+          ]
+        ],
+        "row_count": 2
+      }
+    },
+    {
+      "block_id": "b00183",
+      "block_type": "p",
+      "text": "3.2.2. It is not recommended policy to provide for supplier ownership of IP without also building in Crown rights. The following options therefore retain ownership of any new IP by the supplier, (meaning they can benefit from their IP by commercially exploiting it elsewhere) but, to protect the interests of the Department, ensure the Crown would still be able to legally use the IP within the terms of the licensing agreement.",
+      "ordinal": 183,
+      "heading_path": [
+        "Background",
+        "3. Model and Example Contract Clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00184",
+      "block_type": "p",
+      "text": "3.2.3. The option you select will depend upon what we want to do with the IP:",
+      "ordinal": 184,
+      "heading_path": [
+        "Background",
+        "3. Model and Example Contract Clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00185",
+      "block_type": "heading",
+      "text": "OPTION 3: Licence for the contracted service only (and its future competition)",
+      "ordinal": 185,
+      "heading_path": [
+        "Background",
+        "3. Model and Example Contract Clauses",
+        "OPTION 3: Licence for the contracted service only (and its future competition)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00186",
+      "block_type": "p",
+      "text": "This is intended for situations where your organisation simply wishes to retain its ability to maintain and re-compete the existing service, meaning that it retains the right to share the IP with an incoming supplier.",
+      "ordinal": 186,
+      "heading_path": [
+        "Background",
+        "3. Model and Example Contract Clauses",
+        "OPTION 3: Licence for the contracted service only (and its future competition)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00187",
+      "block_type": "p",
+      "text": "It is recommended that this option only be used when your organisation is very confident that the IP will not be needed for other purposes.",
+      "ordinal": 187,
+      "heading_path": [
+        "Background",
+        "3. Model and Example Contract Clauses",
+        "OPTION 3: Licence for the contracted service only (and its future competition)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00188",
+      "block_type": "heading",
+      "text": "OPTION 4: Wider application of the IP",
+      "ordinal": 188,
+      "heading_path": [
+        "Background",
+        "3. Model and Example Contract Clauses",
+        "OPTION 3: Licence for the contracted service only (and its future competition)",
+        "OPTION 4: Wider application of the IP"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00189",
+      "block_type": "p",
+      "text": "This is intended for situations where the IP services more than one contract – for instance if you want to use it across other solutions, or if you need it for contracts which have yet to be awarded.",
+      "ordinal": 189,
+      "heading_path": [
+        "Background",
+        "3. Model and Example Contract Clauses",
+        "OPTION 3: Licence for the contracted service only (and its future competition)",
+        "OPTION 4: Wider application of the IP"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00190",
+      "block_type": "p",
+      "text": "3.3. Other options and examples",
+      "ordinal": 190,
+      "heading_path": [
+        "Background",
+        "3. Model and Example Contract Clauses",
+        "OPTION 3: Licence for the contracted service only (and its future competition)",
+        "OPTION 4: Wider application of the IP"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00191",
+      "block_type": "p",
+      "text": "3.3.1. The following two clauses are likely to most helpful when you are developing and/or buying innovative solutions",
+      "ordinal": 191,
+      "heading_path": [
+        "Background",
+        "3. Model and Example Contract Clauses",
+        "OPTION 3: Licence for the contracted service only (and its future competition)",
+        "OPTION 4: Wider application of the IP"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00192",
+      "block_type": "p",
+      "text": "3.3.2. Option 5: Gainshare",
+      "ordinal": 192,
+      "heading_path": [
+        "Background",
+        "3. Model and Example Contract Clauses",
+        "OPTION 3: Licence for the contracted service only (and its future competition)",
+        "OPTION 4: Wider application of the IP"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00193",
+      "block_type": "p",
+      "text": "3.3.2.1. This is most likely to be used where the Department has invested significant resources or funding in the development of the project and intends to seek a return on that investment. It can also be a means of avoiding competition or subsidy control issues by removing the means by which a supplier gains exclusive benefit from that funding.",
+      "ordinal": 193,
+      "heading_path": [
+        "Background",
+        "3. Model and Example Contract Clauses",
+        "OPTION 3: Licence for the contracted service only (and its future competition)",
+        "OPTION 4: Wider application of the IP"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00194",
+      "block_type": "p",
+      "text": "3.3.2.2. The value of the levy will need to be considered on a case by case basis and a decision on fair price reached (for instance this could reflect market value, or the degree of Crown investment). Guidance on placing a value on IP can be found here Valuing IP Assets (wipo.int) . The Gain-Share option can be used alongside Options 2-4.",
+      "ordinal": 194,
+      "heading_path": [
+        "Background",
+        "3. Model and Example Contract Clauses",
+        "OPTION 3: Licence for the contracted service only (and its future competition)",
+        "OPTION 4: Wider application of the IP"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00195",
+      "block_type": "p",
+      "text": "3.3.3. Sub-Licensing at ‘market rates’",
+      "ordinal": 195,
+      "heading_path": [
+        "Background",
+        "3. Model and Example Contract Clauses",
+        "OPTION 3: Licence for the contracted service only (and its future competition)",
+        "OPTION 4: Wider application of the IP"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00196",
+      "block_type": "p",
+      "text": "3.3.3.1. This model is most likely to be appropriate alongside innovative procurement practices where we want to maximise innovation and exploitation potential (so would instinctively lean towards supplier ownership), but where – through funding – we have enabled the innovation and therefore risk breaching competition or subsidy control rules if we then give the supplier exclusive right to exploit it. We may therefore need to find a solution that balances the risk of breaching rules on subsidies against stifling the very innovation we set out to create.",
+      "ordinal": 196,
+      "heading_path": [
+        "Background",
+        "3. Model and Example Contract Clauses",
+        "OPTION 3: Licence for the contracted service only (and its future competition)",
+        "OPTION 4: Wider application of the IP"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00197",
+      "block_type": "p",
+      "text": "3.3.3.2. The clause below is an example of one such clause, used by Innovate UK for one of their SBRI (Small Business Research Initiative) competitions (classed as pre-commercial procurement) and provides suppliers with the ability to commercialise their innovation and sell it on the open market, by granting them IP ownership. However the contracting authority is also granted a royalty-free licence and option to claw back the IP in the case of non-use of IPRs by the supplier.",
+      "ordinal": 197,
+      "heading_path": [
+        "Background",
+        "3. Model and Example Contract Clauses",
+        "OPTION 3: Licence for the contracted service only (and its future competition)",
+        "OPTION 4: Wider application of the IP"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00198",
+      "block_type": "p",
+      "text": "3.3.3.3. Neither party has exclusive rights, meaning third parties are able to purchase a licence under market conditions. This is to ensure that there is maximum opportunity for the innovation to be commercialised by other parties, thereby mitigating the risk of falling foul of competition rules.",
+      "ordinal": 198,
+      "heading_path": [
+        "Background",
+        "3. Model and Example Contract Clauses",
+        "OPTION 3: Licence for the contracted service only (and its future competition)",
+        "OPTION 4: Wider application of the IP"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00199",
+      "block_type": "p",
+      "text": "3.3.3.4. In summary, the provisions are meant to provide us with:",
+      "ordinal": 199,
+      "heading_path": [
+        "Background",
+        "3. Model and Example Contract Clauses",
+        "OPTION 3: Licence for the contracted service only (and its future competition)",
+        "OPTION 4: Wider application of the IP"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00200",
+      "block_type": "li",
+      "text": "licence free rights to use the developed solutions",
+      "ordinal": 200,
+      "heading_path": [
+        "Background",
+        "3. Model and Example Contract Clauses",
+        "OPTION 3: Licence for the contracted service only (and its future competition)",
+        "OPTION 4: Wider application of the IP"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00201",
+      "block_type": "li",
+      "text": "access to Existing (background) IP under fair and reasonable conditions – this is unlikely to be invoked, but adds a safeguard which allows the authority to use Existing IP where necessary for usage of the New (foreground) IP, in case the supplier doesn’t want to go on to produce the innovation.",
+      "ordinal": 201,
+      "heading_path": [
+        "Background",
+        "3. Model and Example Contract Clauses",
+        "OPTION 3: Licence for the contracted service only (and its future competition)",
+        "OPTION 4: Wider application of the IP"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00202",
+      "block_type": "li",
+      "text": "the right to require licensing of the New IP to third parties at fair and reasonable conditions",
+      "ordinal": 202,
+      "heading_path": [
+        "Background",
+        "3. Model and Example Contract Clauses",
+        "OPTION 3: Licence for the contracted service only (and its future competition)",
+        "OPTION 4: Wider application of the IP"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00203",
+      "block_type": "li",
+      "text": "a call-back option which ensures that IPR ownership rights return back to the procurer in case of non-use of IPRs by the companies",
+      "ordinal": 203,
+      "heading_path": [
+        "Background",
+        "3. Model and Example Contract Clauses",
+        "OPTION 3: Licence for the contracted service only (and its future competition)",
+        "OPTION 4: Wider application of the IP"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00204",
+      "block_type": "li",
+      "text": "The right to publish key results of the SBRI process.",
+      "ordinal": 204,
+      "heading_path": [
+        "Background",
+        "3. Model and Example Contract Clauses",
+        "OPTION 3: Licence for the contracted service only (and its future competition)",
+        "OPTION 4: Wider application of the IP"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00205",
+      "block_type": "p",
+      "text": "3.3.3.5. Along with the IP ownership rights, the risks/costs related to filing, maintenance and litigation of IP are also assigned to the supplier.",
+      "ordinal": 205,
+      "heading_path": [
+        "Background",
+        "3. Model and Example Contract Clauses",
+        "OPTION 3: Licence for the contracted service only (and its future competition)",
+        "OPTION 4: Wider application of the IP"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00206",
+      "block_type": "p",
+      "text": "3.3.3.6. You should seek legal advice before using or adapting this clause for your contracts",
+      "ordinal": 206,
+      "heading_path": [
+        "Background",
+        "3. Model and Example Contract Clauses",
+        "OPTION 3: Licence for the contracted service only (and its future competition)",
+        "OPTION 4: Wider application of the IP"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00207",
+      "block_type": "p",
+      "text": "SBRI clause (example)",
+      "ordinal": 207,
+      "heading_path": [
+        "Background",
+        "3. Model and Example Contract Clauses",
+        "OPTION 3: Licence for the contracted service only (and its future competition)",
+        "OPTION 4: Wider application of the IP"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00208",
+      "block_type": "li",
+      "text": "The Intellectual Property rights arising out of the Project (“New IP”) shall belong to the Contractor. The Contractor hereby grants to the Authority a UK wide irrevocable, royalty-free non-exclusive licence to use the New IP, together with any Existing IP supplied by the Contractor during the Project that is required to use the New IP at a fair and reasonable market price. The Authority shall have the right to grant a non-exclusive non-sub-licensable UK wide sub-licence to use the New IP to any third party within the UK and EU at a fair and reasonable market price.",
+      "ordinal": 208,
+      "heading_path": [
+        "Background",
+        "3. Model and Example Contract Clauses",
+        "OPTION 3: Licence for the contracted service only (and its future competition)",
+        "OPTION 4: Wider application of the IP"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00209",
+      "block_type": "li",
+      "text": "Notwithstanding its ownership of the Foreground IP, the Contractor shall not assign or transfer the Foreground IP to any third party without the prior written approval of the Authority, not to be unreasonably delayed or withheld.",
+      "ordinal": 209,
+      "heading_path": [
+        "Background",
+        "3. Model and Example Contract Clauses",
+        "OPTION 3: Licence for the contracted service only (and its future competition)",
+        "OPTION 4: Wider application of the IP"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00210",
+      "block_type": "li",
+      "text": "If within [three] years of its creation, any Intellectual Property in the Results or Foreground IP has not been commercially exploited by the Contractor, and the Contractor is not using its best endeavours to do so, the Contractor shall on written request by the Authority promptly assign the Intellectual Property Rights in the Results or Foreground IP to the Authority. Each party shall bear its own costs in such assignment.",
+      "ordinal": 210,
+      "heading_path": [
+        "Background",
+        "3. Model and Example Contract Clauses",
+        "OPTION 3: Licence for the contracted service only (and its future competition)",
+        "OPTION 4: Wider application of the IP"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "types of intellectual property protection",
+      "href": "https://www.gov.uk/intellectual-property-an-overview/protect-your-intellectual-property",
+      "block_id": "b00035",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "copyright",
+      "href": "https://www.gov.uk/copyright",
+      "block_id": "b00046",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "a patent",
+      "href": "https://www.gov.uk/patent-your-invention",
+      "block_id": "b00046",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "a design",
+      "href": "https://www.gov.uk/register-a-design",
+      "block_id": "b00046",
+      "ordinal": 3,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "trade mark",
+      "href": "https://www.gov.uk/how-to-register-a-trade-mark",
+      "block_id": "b00048",
+      "ordinal": 4,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "here",
+      "href": "https://www.gov.uk/government/publications/ip-basics/ip-basics",
+      "block_id": "b00070",
+      "ordinal": 5,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "here",
+      "href": "https://www.gov.uk/guidance/model-agreements-for-collaborative-research",
+      "block_id": "b00070",
+      "ordinal": 6,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Valuing IP Assets (wipo.int)",
+      "href": "https://www.wipo.int/sme/en/value_ip_assets/",
+      "block_id": "b00194",
+      "ordinal": 7,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Intellectual Property Rights Guidance Note (HTML)",
+      "href": "https://www.gov.uk/government/publications/the-digital-data-and-technology-playbook/intellectual-property-rights-guidance-note-html",
+      "block_id": "__document__",
+      "ordinal": 8,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2019 to 2022 Johnson Conservative government",
+      "href": "https://www.gov.uk/government/2019-to-2022-johnson-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 9,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Digital, Data and Technology Profession",
+      "href": "https://www.gov.uk/government/organisations/digital-data-and-technology-profession",
+      "block_id": "__document__",
+      "ordinal": 10,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "The Digital, Data and Technology Playbook",
+      "href": "https://www.gov.uk/government/publications/the-digital-data-and-technology-playbook",
+      "block_id": "__document__",
+      "ordinal": 11,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Digital, Data and Technology Profession",
+      "href": "https://www.gov.uk/government/organisations/digital-data-and-technology-profession",
+      "block_id": "__document__",
+      "ordinal": 12,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 3",
+      "block_id": "b00094",
+      "start": 307,
+      "end": 316,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "3"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 3",
+      "block_id": "b00110",
+      "start": 0,
+      "end": 9,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "3"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 3",
+      "block_id": "b00114",
+      "start": 307,
+      "end": 316,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "3"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 2",
+      "block_id": "b00117",
+      "start": 334,
+      "end": 343,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "2"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 3",
+      "block_id": "b00129",
+      "start": 7,
+      "end": 16,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "3"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

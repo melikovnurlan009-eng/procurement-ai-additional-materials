@@ -39,16 +39,3 @@ Per-scenario checkpoint caches and per-candidate judge-request caches are not in
 content is fully represented in the consolidated JSONL files that are included
 (`runs.jsonl`, `judgments_raw.jsonl`, `qrels_silver.jsonl`).
 
-## 7. Additional cited-instrument backfill cannot currently be re-run
-
-`code/scrapers/legislation/scrape_missing_legislation.py` acquires legislation instruments that
-the corpus cites but does not hold, ranked by citation frequency. Its default input,
-`evaluation/acquisition/missing_references.jsonl`, is produced by `collect_missing_references.py`
-(reading the already-ingested corpus's hyperlinks, AKN citation targets, and reference-resolver
-output for the `TARGET_NOT_IN_CORPUS`/`EXTERNAL_INSTRUMENT_REFERENCE` statuses) -- that generator
-script is not included in this bundle, and the input file itself is not shipped either. So, as
-with the Procurement Pathway crawl script (item 1), `scrape_missing_legislation.py`'s own
-acquisition step can be run once you supply that input file yourself, but it cannot currently be
-re-run end-to-end from the checked-out repository alone. The instruments it did acquire are
-already ingested into the live corpus and evaluated normally; only the backfill *step itself* is
-not re-runnable as shipped.

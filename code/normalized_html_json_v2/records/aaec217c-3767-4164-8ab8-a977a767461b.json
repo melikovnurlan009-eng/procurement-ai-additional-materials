@@ -1,0 +1,2803 @@
+{
+  "document_id": "aaec217c-3767-4164-8ab8-a977a767461b",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/efae25bc29f9baa0d6f6c534.json",
+  "input_sha256": "715a8d812e53fd669064eb0dd019bdaac47c843262c31e81846bfcb8389c0583",
+  "processed_at": "2026-08-27T02:26:46.802179+00:00",
+  "title": "Guidance on the transparency requirements for publishing on Contracts Finder (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/ppn-019-requirements-to-publish-on-contracts-finder/guidance-on-the-transparency-requirements-for-publishing-on-contracts-finder",
+  "description": null,
+  "publication_date": "2025-03-10T15:14:26+00:00",
+  "updated_date": "2025-03-31T14:49:43+01:00",
+  "source_metadata": {
+    "content_id": "aaec217c-3767-4164-8ab8-a977a767461b",
+    "base_path": "/government/publications/ppn-019-requirements-to-publish-on-contracts-finder/guidance-on-the-transparency-requirements-for-publishing-on-contracts-finder",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "1. Introduction and scope",
+      "ordinal": 3,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "2. The requirements",
+      "ordinal": 10,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "3. Contract values for publication on Contracts Finder",
+      "ordinal": 18,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "4. Specific requirements for placing contract opportunities on Contracts Finder",
+      "ordinal": 22,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Timing of publication",
+      "ordinal": 26,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "5. Minimum data requirements for publication",
+      "ordinal": 30,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Procurement opportunities",
+      "ordinal": 31,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Contract award",
+      "ordinal": 40,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "6. Exemptions",
+      "ordinal": 64,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Annex 1",
+      "ordinal": 69,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Above threshold opportunities",
+      "ordinal": 71,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Below threshold opportunities",
+      "ordinal": 73,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Above threshold awards",
+      "ordinal": 75,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Below threshold Awards",
+      "ordinal": 77,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Annex 2",
+      "ordinal": 79,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Other retained FAQs",
+      "ordinal": 81,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "In line with the guidance on transitional and saving arrangements , procurements that were commenced under the Public Contracts Regulations 2015 (PCRs) must continue to be procured and managed under that legislation until such a time as the contract ceases to exist. This includes call-offs from frameworks established under the PCRs and procurements using dynamic purchasing systems established under the PCRs.",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "The legal requirements under part 4 of the PCRs to publish notices on Contracts Finder remain unchanged for these procurements. These requirements are set out in this guidance and apply to all in-scope organisations across the public sector. For exemptions see section 6.",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "This guidance underpins regulations 48-52, 106, 108, 109, 110 and 112 of the PCRs. It explains the main features of the relevant regulations, but is not a comprehensive guide to the law. You should seek legal advice if you are unsure about the effect of the PCRs.",
+      "ordinal": 2,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "heading",
+      "text": "1. Introduction and scope",
+      "ordinal": 3,
+      "heading_path": [
+        "1. Introduction and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "This guidance only applies to procurements commenced before 24 February 2025 under the PCRs. This includes:",
+      "ordinal": 4,
+      "heading_path": [
+        "1. Introduction and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "li",
+      "text": "When a contract notice is published on Find a Tender for a procurement commenced under the PCRs.- Note that there should be no circumstance where this would be required as no new procurements will be conducted under the PCRs after 24 February 2025.",
+      "ordinal": 5,
+      "heading_path": [
+        "1. Introduction and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "li",
+      "text": "When a contract award notice (including awards made under a dynamic purchasing system) is published on Find a Tender for a procurement commenced under the PCRs.",
+      "ordinal": 6,
+      "heading_path": [
+        "1. Introduction and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "li",
+      "text": "When an award is made in accordance with a framework agreement established under the PCRs.",
+      "ordinal": 7,
+      "heading_path": [
+        "1. Introduction and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "li",
+      "text": "When a below threshold contract is awarded under the PCRs.",
+      "ordinal": 8,
+      "heading_path": [
+        "1. Introduction and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "In scope organisations should apply this guidance to these in-scope procurements. For the purposes of this guidance, in-scope organisations are all contracting authorities, as that term is defined in the PCRs, except where a relevant exemption applies (as set out in section 6). Contracts Finder is free to use and is accessible here: http://www.gov.uk/contracts-finder",
+      "ordinal": 9,
+      "heading_path": [
+        "1. Introduction and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "heading",
+      "text": "2. The requirements",
+      "ordinal": 10,
+      "heading_path": [
+        "1. Introduction and scope",
+        "2. The requirements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "The PCRs require the majority of above-threshold contract opportunities to be advertised across the UK on Find a Tender (FTS), the UK’s e-notification service, and also on Contracts Finder. Where the PCRs require a notice to be published on the UK e-notification service, it must be published on FTS before being published on Contracts Finder or anywhere else [footnote 1] .",
+      "ordinal": 11,
+      "heading_path": [
+        "1. Introduction and scope",
+        "2. The requirements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "In-scope organisations are also required to ensure that any below-threshold procurement opportunities are published on Contracts Finder (in addition to any other portal or publications route) subject to the contract value limits set out in section 3.",
+      "ordinal": 12,
+      "heading_path": [
+        "1. Introduction and scope",
+        "2. The requirements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "Once a contract has been awarded as a result of a procurement process, in-scope organisations must also publish information on Contracts Finder about the awarded contract including:",
+      "ordinal": 13,
+      "heading_path": [
+        "1. Introduction and scope",
+        "2. The requirements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "li",
+      "text": "the date of the award,",
+      "ordinal": 14,
+      "heading_path": [
+        "1. Introduction and scope",
+        "2. The requirements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "li",
+      "text": "the details of who has won the contract",
+      "ordinal": 15,
+      "heading_path": [
+        "1. Introduction and scope",
+        "2. The requirements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "li",
+      "text": "whether the contractor is a Small/Medium Sized Enterprise (SME) or a Voluntary, Community or Social Enterprise (VCSE [footnote 2] )",
+      "ordinal": 16,
+      "heading_path": [
+        "1. Introduction and scope",
+        "2. The requirements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "li",
+      "text": "the contract value",
+      "ordinal": 17,
+      "heading_path": [
+        "1. Introduction and scope",
+        "2. The requirements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "heading",
+      "text": "3. Contract values for publication on Contracts Finder",
+      "ordinal": 18,
+      "heading_path": [
+        "1. Introduction and scope",
+        "3. Contract values for publication on Contracts Finder"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "Publication obligations for below-threshold procurements apply to in-scope organisations that are:",
+      "ordinal": 19,
+      "heading_path": [
+        "1. Introduction and scope",
+        "3. Contract values for publication on Contracts Finder"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "li",
+      "text": "central government authorities [footnote 3] , where the contract value is at least £12,000 [footnote 4] inclusive of VAT",
+      "ordinal": 20,
+      "heading_path": [
+        "1. Introduction and scope",
+        "3. Contract values for publication on Contracts Finder"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "li",
+      "text": "sub-central contracting authorities, NHS trusts and NHS foundation trusts where the contract value is at least £30,000 [footnote 5] inclusive of VAT.",
+      "ordinal": 21,
+      "heading_path": [
+        "1. Introduction and scope",
+        "3. Contract values for publication on Contracts Finder"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "heading",
+      "text": "4. Specific requirements for placing contract opportunities on Contracts Finder",
+      "ordinal": 22,
+      "heading_path": [
+        "1. Introduction and scope",
+        "4. Specific requirements for placing contract opportunities on Contracts Finder"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "The requirement to publish a contract opportunity on Contracts Finder applies where an in-scope organisation advertised an opportunity, either by publishing a contract notice on FTS [footnote 6] , or by advertising in another way [footnote 7] , for example on another website, trade publication or newspaper.",
+      "ordinal": 23,
+      "heading_path": [
+        "1. Introduction and scope",
+        "4. Specific requirements for placing contract opportunities on Contracts Finder"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "Where an in-scope organisation is satisfied it is lawful not to advertise an opportunity and chooses not to advertise the opportunity at all (e.g. where quotations were sought, single tender action is undertaken, a framework agreement or DPS is used, etc), the requirement to publish an opportunity notice on Contracts Finder does not apply to that procurement.",
+      "ordinal": 24,
+      "heading_path": [
+        "1. Introduction and scope",
+        "4. Specific requirements for placing contract opportunities on Contracts Finder"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "p",
+      "text": "Before concluding that an opportunity does not need to be advertised, in-scope organisations were required to consider whether the contract would have cross-border interest. This should be documented as part of the procurement records.",
+      "ordinal": 25,
+      "heading_path": [
+        "1. Introduction and scope",
+        "4. Specific requirements for placing contract opportunities on Contracts Finder"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "heading",
+      "text": "Timing of publication",
+      "ordinal": 26,
+      "heading_path": [
+        "1. Introduction and scope",
+        "4. Specific requirements for placing contract opportunities on Contracts Finder",
+        "Timing of publication"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "p",
+      "text": "If the opportunity appears in any other way on other portals or media, the information must also be published on Contracts Finder within 24 hours of the time when it was first advertised for below threshold procurements[footnote 8] and within 24 hours of the time the in-scope organisation is entitled to publish at a national level for above-threshold procurements [footnote 9] .",
+      "ordinal": 27,
+      "heading_path": [
+        "1. Introduction and scope",
+        "4. Specific requirements for placing contract opportunities on Contracts Finder",
+        "Timing of publication"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "Many contracting authorities use e-procurement providers to publish to both FTS and Contracts Finder. Notices are not automatically replicated between FTS and Contracts Finder, but e-procurement providers may offer this as part of their workflow. Unlike OJEU/TED, there is no delay in publication of notices to FTS. Therefore, notices could be sent to both FTS and Contracts Finder at the same time [footnote 10] (but in-scope organisations should bear in mind that notices should not be published on Contracts Finder before publication on FTS).",
+      "ordinal": 28,
+      "heading_path": [
+        "1. Introduction and scope",
+        "4. Specific requirements for placing contract opportunities on Contracts Finder",
+        "Timing of publication"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "p",
+      "text": "Note that the Procurement Act 2023 does not require publication of notices on Contracts Finder. Any procurements whether above or below threshold commenced from 24 February 2025 only require notices to be published on FTS. Accounting for the 24hr period set out above, this means there should be no ongoing requirement to publish opportunity notices on Contracts Finder after 25 February 2025.",
+      "ordinal": 29,
+      "heading_path": [
+        "1. Introduction and scope",
+        "4. Specific requirements for placing contract opportunities on Contracts Finder",
+        "Timing of publication"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "heading",
+      "text": "5. Minimum data requirements for publication",
+      "ordinal": 30,
+      "heading_path": [
+        "1. Introduction and scope",
+        "5. Minimum data requirements for publication"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "heading",
+      "text": "Procurement opportunities",
+      "ordinal": 31,
+      "heading_path": [
+        "1. Introduction and scope",
+        "5. Minimum data requirements for publication",
+        "Procurement opportunities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "p",
+      "text": "The following information was required to be published as a minimum. however, in-scope organisations were advised to check the PCRs to ensure that all the necessary requirements were met:",
+      "ordinal": 32,
+      "heading_path": [
+        "1. Introduction and scope",
+        "5. Minimum data requirements for publication",
+        "Procurement opportunities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "li",
+      "text": "the time by which any interested supplier must respond if it wishes to be considered;",
+      "ordinal": 33,
+      "heading_path": [
+        "1. Introduction and scope",
+        "5. Minimum data requirements for publication",
+        "Procurement opportunities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "li",
+      "text": "how and to whom an interested supplier is to respond, with appropriate contact details; and,",
+      "ordinal": 34,
+      "heading_path": [
+        "1. Introduction and scope",
+        "5. Minimum data requirements for publication",
+        "Procurement opportunities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "li",
+      "text": "any other requirements for participating in the procurement, (e.g. suitability requirements or explanatory information) [footnote 11] .",
+      "ordinal": 35,
+      "heading_path": [
+        "1. Introduction and scope",
+        "5. Minimum data requirements for publication",
+        "Procurement opportunities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "p",
+      "text": "Contracts Finder contains additional, mandatory fields that need to be completed in order for a notice to be published. If an opportunity is also advertised elsewhere the information provided must be common in content. In most circumstances the PCRs required in-scope organisations to offer unrestricted and full direct access free of charge to any relevant procurement documents [footnote 12] or, for below-threshold procurements, contract (tender) documents [footnote 13] and to specify in the information published on Contracts Finder the internet address at which those documents were accessible [footnote 14] . In this context, a document is a contract document if:",
+      "ordinal": 36,
+      "heading_path": [
+        "1. Introduction and scope",
+        "5. Minimum data requirements for publication",
+        "Procurement opportunities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "li",
+      "text": "it contains information about the opportunity which goes beyond the information published on Contracts Finder, and",
+      "ordinal": 37,
+      "heading_path": [
+        "1. Introduction and scope",
+        "5. Minimum data requirements for publication",
+        "Procurement opportunities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "li",
+      "text": "that information is intended by the in-scope organisation to be taken into account by those responding to the advertisement.",
+      "ordinal": 38,
+      "heading_path": [
+        "1. Introduction and scope",
+        "5. Minimum data requirements for publication",
+        "Procurement opportunities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "p",
+      "text": "This would include the invitation to tender, specification, evaluation framework including all criteria and applicable sub criteria, terms and conditions, etc.",
+      "ordinal": 39,
+      "heading_path": [
+        "1. Introduction and scope",
+        "5. Minimum data requirements for publication",
+        "Procurement opportunities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "heading",
+      "text": "Contract award",
+      "ordinal": 40,
+      "heading_path": [
+        "1. Introduction and scope",
+        "5. Minimum data requirements for publication",
+        "Contract award"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "p",
+      "text": "As set out under the introduction and scope, there are a number of circumstances where contract award information still needs to be published on Contracts Finder. Once a contract has been awarded (whether by open competition or otherwise) in-scope organisations are required to publish at least the following information on Contracts Finder [footnote 15] :",
+      "ordinal": 41,
+      "heading_path": [
+        "1. Introduction and scope",
+        "5. Minimum data requirements for publication",
+        "Contract award"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "li",
+      "text": "the full company name of the winning contractor;",
+      "ordinal": 42,
+      "heading_path": [
+        "1. Introduction and scope",
+        "5. Minimum data requirements for publication",
+        "Contract award"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "li",
+      "text": "the date on which the contract was entered into (award date);",
+      "ordinal": 43,
+      "heading_path": [
+        "1. Introduction and scope",
+        "5. Minimum data requirements for publication",
+        "Contract award"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "li",
+      "text": "the total value of the contract in pounds sterling; and",
+      "ordinal": 44,
+      "heading_path": [
+        "1. Introduction and scope",
+        "5. Minimum data requirements for publication",
+        "Contract award"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "li",
+      "text": "an indication of whether the contractor is an SME or a VCSE [footnote 16] .",
+      "ordinal": 45,
+      "heading_path": [
+        "1. Introduction and scope",
+        "5. Minimum data requirements for publication",
+        "Contract award"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "p",
+      "text": "This information is also required to be published [footnote 17] in relation to contracts awarded as a result of a Framework Agreement (e.g. as a result of a mini competition) established under the PCRs as well as awards that have not been openly competed (e.g. where quotations have been sought, single tender action has been undertaken etc) where these were commenced prior to 24 February 2025. If an opportunity notice already exists on Contracts Finder, this should be updated with the award details. If no opportunity notice exists on Contracts Finder (for example if the contract was not openly competed, or is a direct award or mini competition call off from a framework agreement or via a dynamic purchasing system (DPS) established under the PCRs) then a separate awarded opportunity notice should be published.",
+      "ordinal": 46,
+      "heading_path": [
+        "1. Introduction and scope",
+        "5. Minimum data requirements for publication",
+        "Contract award"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "p",
+      "text": "The PCRs require that information must be published on Contracts Finder within a reasonable time [18] . This guidance defines reasonable time as follows:",
+      "ordinal": 47,
+      "heading_path": [
+        "1. Introduction and scope",
+        "5. Minimum data requirements for publication",
+        "Contract award"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "li",
+      "text": "for sub-central contracting authorities, NHS trusts and NHS foundation trusts reasonable time means 90 calendar days after the contract award date.",
+      "ordinal": 48,
+      "heading_path": [
+        "1. Introduction and scope",
+        "5. Minimum data requirements for publication",
+        "Contract award"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "li",
+      "text": "for central government authorities (excluding NHS trusts and NHS foundation trusts), reasonable time means 30 calendar days after the contract award date.",
+      "ordinal": 49,
+      "heading_path": [
+        "1. Introduction and scope",
+        "5. Minimum data requirements for publication",
+        "Contract award"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00050",
+      "block_type": "p",
+      "text": "In-scope organisations should comply with these timeframes for publication on Contracts Finder unless there is a good reason not to, which should be documented.",
+      "ordinal": 50,
+      "heading_path": [
+        "1. Introduction and scope",
+        "5. Minimum data requirements for publication",
+        "Contract award"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00051",
+      "block_type": "p",
+      "text": "For the purpose of this guidance, ‘contract award date’ means the date on which the contract was signed by the last contracting party. The first calendar day after the contract is signed counts as day one. Where the deadline for publication ends on a non-working day, the authority has until the end of the next working day to publish the award.",
+      "ordinal": 51,
+      "heading_path": [
+        "1. Introduction and scope",
+        "5. Minimum data requirements for publication",
+        "Contract award"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00052",
+      "block_type": "p",
+      "text": "Where possible, in-scope organisations should try to ensure key information is presented consistently across platforms and across individual notices published by the same authority. This includes:",
+      "ordinal": 52,
+      "heading_path": [
+        "1. Introduction and scope",
+        "5. Minimum data requirements for publication",
+        "Contract award"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00053",
+      "block_type": "li",
+      "text": "contracting authority names",
+      "ordinal": 53,
+      "heading_path": [
+        "1. Introduction and scope",
+        "5. Minimum data requirements for publication",
+        "Contract award"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00054",
+      "block_type": "li",
+      "text": "procurement reference numbers",
+      "ordinal": 54,
+      "heading_path": [
+        "1. Introduction and scope",
+        "5. Minimum data requirements for publication",
+        "Contract award"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00055",
+      "block_type": "li",
+      "text": "contract titles",
+      "ordinal": 55,
+      "heading_path": [
+        "1. Introduction and scope",
+        "5. Minimum data requirements for publication",
+        "Contract award"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00056",
+      "block_type": "li",
+      "text": "description, which should be sufficiently detailed that the reader can understand the authority’s requirement",
+      "ordinal": 56,
+      "heading_path": [
+        "1. Introduction and scope",
+        "5. Minimum data requirements for publication",
+        "Contract award"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00057",
+      "block_type": "li",
+      "text": "values; and",
+      "ordinal": 57,
+      "heading_path": [
+        "1. Introduction and scope",
+        "5. Minimum data requirements for publication",
+        "Contract award"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00058",
+      "block_type": "li",
+      "text": "successful supplier details, including supplier identifiers",
+      "ordinal": 58,
+      "heading_path": [
+        "1. Introduction and scope",
+        "5. Minimum data requirements for publication",
+        "Contract award"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00059",
+      "block_type": "p",
+      "text": "There are some exceptions to this requirement, and an in-scope organisation may withhold contract award information from publication where its release:",
+      "ordinal": 59,
+      "heading_path": [
+        "1. Introduction and scope",
+        "5. Minimum data requirements for publication",
+        "Contract award"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00060",
+      "block_type": "li",
+      "text": "would impede law enforcement or would otherwise be contrary to the public interest",
+      "ordinal": 60,
+      "heading_path": [
+        "1. Introduction and scope",
+        "5. Minimum data requirements for publication",
+        "Contract award"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00061",
+      "block_type": "li",
+      "text": "would prejudice the legitimate commercial interests of a particular supplier",
+      "ordinal": 61,
+      "heading_path": [
+        "1. Introduction and scope",
+        "5. Minimum data requirements for publication",
+        "Contract award"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00062",
+      "block_type": "li",
+      "text": "might prejudice fair competition between suppliers [footnote 19]",
+      "ordinal": 62,
+      "heading_path": [
+        "1. Introduction and scope",
+        "5. Minimum data requirements for publication",
+        "Contract award"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00063",
+      "block_type": "p",
+      "text": "Legal advice should be sought in determining whether any information may be withheld.",
+      "ordinal": 63,
+      "heading_path": [
+        "1. Introduction and scope",
+        "5. Minimum data requirements for publication",
+        "Contract award"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00064",
+      "block_type": "heading",
+      "text": "6. Exemptions",
+      "ordinal": 64,
+      "heading_path": [
+        "1. Introduction and scope",
+        "6. Exemptions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00065",
+      "block_type": "p",
+      "text": "These requirements to publish certain information on Contracts Finder do not apply to:",
+      "ordinal": 65,
+      "heading_path": [
+        "1. Introduction and scope",
+        "6. Exemptions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00066",
+      "block_type": "li",
+      "text": "contracting authorities whose functions are wholly or mainly Scottish, Northern Ireland, Welsh or devolved functions (as defined by regulation 1(7) and 1(8) of the PCRs)",
+      "ordinal": 66,
+      "heading_path": [
+        "1. Introduction and scope",
+        "6. Exemptions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00067",
+      "block_type": "li",
+      "text": "the procurement of health care services for the purposes of the NHS within the meaning and scope of the National Health Service (procurement, Patient Choice and Competition) (No. 2) Regulations 2013",
+      "ordinal": 67,
+      "heading_path": [
+        "1. Introduction and scope",
+        "6. Exemptions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00068",
+      "block_type": "li",
+      "text": "maintained schools, academies and sixth form college corporations. A table summarising these publication requirements is provided at Annex 1",
+      "ordinal": 68,
+      "heading_path": [
+        "1. Introduction and scope",
+        "6. Exemptions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00069",
+      "block_type": "heading",
+      "text": "Annex 1",
+      "ordinal": 69,
+      "heading_path": [
+        "1. Introduction and scope",
+        "Annex 1"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00070",
+      "block_type": "p",
+      "text": "References to numbered regulations are to those regulations in the PCRs.",
+      "ordinal": 70,
+      "heading_path": [
+        "1. Introduction and scope",
+        "Annex 1"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00071",
+      "block_type": "heading",
+      "text": "Above threshold opportunities",
+      "ordinal": 71,
+      "heading_path": [
+        "1. Introduction and scope",
+        "Annex 1",
+        "Above threshold opportunities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00072",
+      "block_type": "table",
+      "text": "Who\tRequirement\nAll in-scope organisations\tThere should not be any circumstances where a contract notice is published under the PCRs from 00:01 24 February 2025 and therefore there should be no requirement to publish a corresponding opportunity notice on CFS after 00:01 25/2/25 (i.e. within 24 hrs of publication of a contract notice on FTS). Refer to guidance on the transitional and savings arrangements . https://www.legislation.gov.uk/uksi/2015/102/regulation/106",
+      "ordinal": 72,
+      "heading_path": [
+        "1. Introduction and scope",
+        "Annex 1",
+        "Above threshold opportunities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {
+        "rows": [
+          [
+            "Who",
+            "Requirement"
+          ],
+          [
+            "All in-scope organisations",
+            "There should not be any circumstances where a contract notice is published under the PCRs from 00:01 24 February 2025 and therefore there should be no requirement to publish a corresponding opportunity notice on CFS after 00:01 25/2/25 (i.e. within 24 hrs of publication of a contract notice on FTS). Refer to guidance on the transitional and savings arrangements . https://www.legislation.gov.uk/uksi/2015/102/regulation/106"
+          ]
+        ],
+        "row_count": 2
+      }
+    },
+    {
+      "block_id": "b00073",
+      "block_type": "heading",
+      "text": "Below threshold opportunities",
+      "ordinal": 73,
+      "heading_path": [
+        "1. Introduction and scope",
+        "Annex 1",
+        "Below threshold opportunities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00074",
+      "block_type": "table",
+      "text": "Who\tRequirement\nAll in-scope organisations\tAny new below threshold opportunities requiring publication from 24 February 2025 should be conducted under the PA23 and notices published on FTS. Refer to guidance on below threshold contracts . https://www.legislation.gov.uk/uksi/2015/102/regulation/110",
+      "ordinal": 74,
+      "heading_path": [
+        "1. Introduction and scope",
+        "Annex 1",
+        "Below threshold opportunities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {
+        "rows": [
+          [
+            "Who",
+            "Requirement"
+          ],
+          [
+            "All in-scope organisations",
+            "Any new below threshold opportunities requiring publication from 24 February 2025 should be conducted under the PA23 and notices published on FTS. Refer to guidance on below threshold contracts . https://www.legislation.gov.uk/uksi/2015/102/regulation/110"
+          ]
+        ],
+        "row_count": 2
+      }
+    },
+    {
+      "block_id": "b00075",
+      "block_type": "heading",
+      "text": "Above threshold awards",
+      "ordinal": 75,
+      "heading_path": [
+        "1. Introduction and scope",
+        "Annex 1",
+        "Above threshold awards"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00076",
+      "block_type": "table",
+      "text": "Who\tWhat\tApplicability\tWhere\tWhen\tRelevant regulation\nCentral government authorities as defined by regulation 2, within scope of part 4 PCRs. This excludes: - contracting authorities whose functions are wholly or mainly Northern Ireland, Welsh or Scottish devolved functions; - the procurement of health care services for the purposes of the NHS; - maintained schools, academies and sixth form college corporations. - NHS trusts and NHS foundation trusts\tPublish an awarded opportunity notice\tPart 2 procurements (including framework call-offs).\tContracts Finder\tWhen publishing a contract award notice for a procurement commenced under the PCRs before 24 February 2025 or awarding a contract based on a framework agreement established under the PCRs. Within 30 calendar days after the contract award date.\thttps://www.legislation.gov.uk/uksi/2015/102/regulation/108/made The timescales for publication are defined in this guidance.\nSub-central contracting authorities within scope of part 4 of the PCRs, NHS Trusts and NHS Foundation Trusts. This excludes: - contracting authorities whose functions are wholly or mainly Northern Ireland, Welsh or Scottish devolved functions; - the procurement of health care services for the purposes of the NHS; - maintained schools, academies and sixth form college corporations.\tPublish an awarded opportunity notice\tPart 2 procurements (including framework call-offs).\tContracts Finder\tWhen publishing a contract award notice for a procurement commenced under the PCRs or awarding a contract based on a framework agreement established under the PCRs. Within 90 calendar days after the contract award date.\thttps://www.legislation.gov.uk/uksi/2015/102/regulation/108/made The timescales for publication are defined in this guidance.",
+      "ordinal": 76,
+      "heading_path": [
+        "1. Introduction and scope",
+        "Annex 1",
+        "Above threshold awards"
+      ],
+      "source_locator": "details.body",
+      "metadata": {
+        "rows": [
+          [
+            "Who",
+            "What",
+            "Applicability",
+            "Where",
+            "When",
+            "Relevant regulation"
+          ],
+          [
+            "Central government authorities as defined by regulation 2, within scope of part 4 PCRs. This excludes: - contracting authorities whose functions are wholly or mainly Northern Ireland, Welsh or Scottish devolved functions; - the procurement of health care services for the purposes of the NHS; - maintained schools, academies and sixth form college corporations. - NHS trusts and NHS foundation trusts",
+            "Publish an awarded opportunity notice",
+            "Part 2 procurements (including framework call-offs).",
+            "Contracts Finder",
+            "When publishing a contract award notice for a procurement commenced under the PCRs before 24 February 2025 or awarding a contract based on a framework agreement established under the PCRs. Within 30 calendar days after the contract award date.",
+            "https://www.legislation.gov.uk/uksi/2015/102/regulation/108/made The timescales for publication are defined in this guidance."
+          ],
+          [
+            "Sub-central contracting authorities within scope of part 4 of the PCRs, NHS Trusts and NHS Foundation Trusts. This excludes: - contracting authorities whose functions are wholly or mainly Northern Ireland, Welsh or Scottish devolved functions; - the procurement of health care services for the purposes of the NHS; - maintained schools, academies and sixth form college corporations.",
+            "Publish an awarded opportunity notice",
+            "Part 2 procurements (including framework call-offs).",
+            "Contracts Finder",
+            "When publishing a contract award notice for a procurement commenced under the PCRs or awarding a contract based on a framework agreement established under the PCRs. Within 90 calendar days after the contract award date.",
+            "https://www.legislation.gov.uk/uksi/2015/102/regulation/108/made The timescales for publication are defined in this guidance."
+          ]
+        ],
+        "row_count": 3
+      }
+    },
+    {
+      "block_id": "b00077",
+      "block_type": "heading",
+      "text": "Below threshold Awards",
+      "ordinal": 77,
+      "heading_path": [
+        "1. Introduction and scope",
+        "Annex 1",
+        "Below threshold Awards"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00078",
+      "block_type": "table",
+      "text": "Who\tWhat\tApplicability\tWhere\tWhen\tRelevant regulation\t\nCentral government authorities as defined by regulation 2, within scope of part 4 PCRs. This excludes: - contracting authorities whose functions are wholly or mainly Northern Ireland, Welsh or Scottish devolved functions; - the procurement of health care services for the purposes of the NHS; - maintained schools, academies and sixth form college corporations; - NHS trusts and NHS foundation trusts. Any additional contracting authorities as agreed between the department and the bodies for which they have responsibility\tPublish an awarded opportunity notice\tWhere a public contract is awarded above £12,000 inc VAT (including framework call-offs).\tContracts Finder\tWhen the procurement was commenced under the PCRs (i.e. the opportunity notice was published on Contracts Finder before 24 February 2025). Publish within 30 calendar days after the contract award date.\thttps://www.legislation.gov.uk/uksi/2015/102/regulation/112/made The timescales for publication are defined in this guidance.\t\nSub-central contracting authorities within scope of Part 4 of the PCRs, NHS trusts and NHS foundation trusts. This excludes: - contracting authorities whose functions are wholly or mainly Northern Ireland, Welsh or Scottish devolved functions; - the procurement of health care services for the purposes of the NHS; - maintained schools, academies and sixth form college corporations\tPublish an awarded opportunity notice\tWhere a public contract is awarded above £30,000 inc VAT (including framework call-offs).\tContracts Finder\tWhen the procurement was commenced under the PCRs (i.e. the opportunity notice was published on Contracts Finder before 24 February 2025). Within 90 calendar days after the contract award date.\thttps://www.legislation.gov.uk/uksi/2015/102/regulation/112/made The timescales for publication are defined in this guidance.\t",
+      "ordinal": 78,
+      "heading_path": [
+        "1. Introduction and scope",
+        "Annex 1",
+        "Below threshold Awards"
+      ],
+      "source_locator": "details.body",
+      "metadata": {
+        "rows": [
+          [
+            "Who",
+            "What",
+            "Applicability",
+            "Where",
+            "When",
+            "Relevant regulation",
+            ""
+          ],
+          [
+            "Central government authorities as defined by regulation 2, within scope of part 4 PCRs. This excludes: - contracting authorities whose functions are wholly or mainly Northern Ireland, Welsh or Scottish devolved functions; - the procurement of health care services for the purposes of the NHS; - maintained schools, academies and sixth form college corporations; - NHS trusts and NHS foundation trusts. Any additional contracting authorities as agreed between the department and the bodies for which they have responsibility",
+            "Publish an awarded opportunity notice",
+            "Where a public contract is awarded above £12,000 inc VAT (including framework call-offs).",
+            "Contracts Finder",
+            "When the procurement was commenced under the PCRs (i.e. the opportunity notice was published on Contracts Finder before 24 February 2025). Publish within 30 calendar days after the contract award date.",
+            "https://www.legislation.gov.uk/uksi/2015/102/regulation/112/made The timescales for publication are defined in this guidance.",
+            ""
+          ],
+          [
+            "Sub-central contracting authorities within scope of Part 4 of the PCRs, NHS trusts and NHS foundation trusts. This excludes: - contracting authorities whose functions are wholly or mainly Northern Ireland, Welsh or Scottish devolved functions; - the procurement of health care services for the purposes of the NHS; - maintained schools, academies and sixth form college corporations",
+            "Publish an awarded opportunity notice",
+            "Where a public contract is awarded above £30,000 inc VAT (including framework call-offs).",
+            "Contracts Finder",
+            "When the procurement was commenced under the PCRs (i.e. the opportunity notice was published on Contracts Finder before 24 February 2025). Within 90 calendar days after the contract award date.",
+            "https://www.legislation.gov.uk/uksi/2015/102/regulation/112/made The timescales for publication are defined in this guidance.",
+            ""
+          ]
+        ],
+        "row_count": 3
+      }
+    },
+    {
+      "block_id": "b00079",
+      "block_type": "heading",
+      "text": "Annex 2",
+      "ordinal": 79,
+      "heading_path": [
+        "1. Introduction and scope",
+        "Annex 2"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00080",
+      "block_type": "table",
+      "text": "Question\tAnswer\nWhat are in-scope procurements?\tIn scope procurements are those commenced under the PCRs before 24 February 2025 and that are also in scope of part 4 of the PCRs. This includes: 1. When a contract notice or contract award notice is published on FTS for a procurement commenced under the PCRs, such as procurements that were advertised and not yet awarded before 24 February 2025 or a call off from a dynamic purchasing system. 2. When an award is made in accordance with a framework agreement established under the PCRs. or 3. When a below threshold contract is awarded under the PCRs. The PPN and guidance establishes this scope. In scope authorities should continue to apply this guidance to these in-scope procurements.\nWhat about below threshold opportunities and awards let under the Procurement Act 2023 do they need to be published on Contracts Finder?\tNo, the Procurement Act 2023 (the Act) requires tender notices (where used) and contract details notices for notifiable below threshold contracts above £12,000 in central government and £30,000 otherwise to be published on the central digital platform, Find a Tender, and there is no requirement under the Act to duplicate this information on Contracts Finder. Refer to the below threshold guidance for further information.\nWhat about contracts awarded in accordance with frameworks or by reference to a supplier’s membership of a Dynamic Market that are established under the Procurement Act? Does anything need to be published on Contracts Finder?\tNo, the Procurement Act 2023 (the Act) requires notices for contracts awarded in accordance with Frameworks/ Dynamic Markets established under the Act to be published on the central digital platform, Find a Tender, and there is no requirement under the Act to duplicate this information on Contracts Finder. Please refer to the guidance on Frameworks and Dynamic Markets for information about what notices are required.\nWhy is the change being made now?\tThe change is being made to reflect the introduction of the Procurement Act and to provide clarity on the applicability of the requirements of part 4 of the PCRs to publish notices on Contracts Finder to procurements commenced under the PCRs before 24 February 2025.\nWe are extending a framework call-off under the PCRs. Do we need to publish a modification notice on FTS?\tThe PCRs don’t require publication of framework call offs awards on FTS (reg 50 (4)). Therefore, there is no expectation that modifications to call offs would be published on FTS either. This will be different for the Procurement Act. There is no requirement to update the award notice on CFS but you can do so if you wish to provide transparency.",
+      "ordinal": 80,
+      "heading_path": [
+        "1. Introduction and scope",
+        "Annex 2"
+      ],
+      "source_locator": "details.body",
+      "metadata": {
+        "rows": [
+          [
+            "Question",
+            "Answer"
+          ],
+          [
+            "What are in-scope procurements?",
+            "In scope procurements are those commenced under the PCRs before 24 February 2025 and that are also in scope of part 4 of the PCRs. This includes: 1. When a contract notice or contract award notice is published on FTS for a procurement commenced under the PCRs, such as procurements that were advertised and not yet awarded before 24 February 2025 or a call off from a dynamic purchasing system. 2. When an award is made in accordance with a framework agreement established under the PCRs. or 3. When a below threshold contract is awarded under the PCRs. The PPN and guidance establishes this scope. In scope authorities should continue to apply this guidance to these in-scope procurements."
+          ],
+          [
+            "What about below threshold opportunities and awards let under the Procurement Act 2023 do they need to be published on Contracts Finder?",
+            "No, the Procurement Act 2023 (the Act) requires tender notices (where used) and contract details notices for notifiable below threshold contracts above £12,000 in central government and £30,000 otherwise to be published on the central digital platform, Find a Tender, and there is no requirement under the Act to duplicate this information on Contracts Finder. Refer to the below threshold guidance for further information."
+          ],
+          [
+            "What about contracts awarded in accordance with frameworks or by reference to a supplier’s membership of a Dynamic Market that are established under the Procurement Act? Does anything need to be published on Contracts Finder?",
+            "No, the Procurement Act 2023 (the Act) requires notices for contracts awarded in accordance with Frameworks/ Dynamic Markets established under the Act to be published on the central digital platform, Find a Tender, and there is no requirement under the Act to duplicate this information on Contracts Finder. Please refer to the guidance on Frameworks and Dynamic Markets for information about what notices are required."
+          ],
+          [
+            "Why is the change being made now?",
+            "The change is being made to reflect the introduction of the Procurement Act and to provide clarity on the applicability of the requirements of part 4 of the PCRs to publish notices on Contracts Finder to procurements commenced under the PCRs before 24 February 2025."
+          ],
+          [
+            "We are extending a framework call-off under the PCRs. Do we need to publish a modification notice on FTS?",
+            "The PCRs don’t require publication of framework call offs awards on FTS (reg 50 (4)). Therefore, there is no expectation that modifications to call offs would be published on FTS either. This will be different for the Procurement Act. There is no requirement to update the award notice on CFS but you can do so if you wish to provide transparency."
+          ]
+        ],
+        "row_count": 6
+      }
+    },
+    {
+      "block_id": "b00081",
+      "block_type": "heading",
+      "text": "Other retained FAQs",
+      "ordinal": 81,
+      "heading_path": [
+        "1. Introduction and scope",
+        "Annex 2",
+        "Other retained FAQs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00082",
+      "block_type": "table",
+      "text": "Question\tAnswer\nOccasionally, services are commenced prior to the signature of a contract. Some contracts (such as framework direct awards) may not be formally signed. How is ‘contract award date’ to be interpreted in these circumstances?\tIn such cases for the purpose of publication on Contracts Finder ‘contract award date’ can be interpreted as the day before the service commencement or the order date of goods as appropriate. If neither of these dates is considered relevant then the authority should seek further advice.\nWhat are the requirements for publishing where there is a programme of work from one contract notice but multiple contracts are awarded (not a Framework)?\tSeparate award notices should be published. A link should be provided to the overarching contract notice.\nIf an opportunity has been undertaken in lots, there are numerous contracts which get signed on different dates by potentially different suppliers, one for each lot. It would therefore, be extremely unlikely they are signed on the same date. We only publish one Contracts Finder / FTS notice therefore, we can only include one contract award date. In this circumstance, which date do we use?\tAssuming all lots relate to a single contract then the date taken should be the date the final contract was signed by the last contracting party (i.e. after all parties have signed).\nWhen calling off from a framework, whose responsibility is it to publish transparency notices?\tIt is ultimately the in-scope organisation undertaking the procurement’s responsibility to ensure transparency obligations are met even when using a managed service.\nAm I required to publish arrangements to provide services between Crown bodies under, for example MOUs?\tRegulation 12 of the PCRs governs public contracts between entities within the public sector. Arrangements to provide services between Crown bodies under, for example, MOUs are non-contractual and therefore exempt from publication. Certain other arrangements which follow similar principles may also be exempt. Such circumstances would be limited, i.e. where a department or public body can prove that they are receiving services from another public body where: - it relates to the core business of the public body, and - it is not something the market could provide, so therefore - they have implemented an SLA where there is no contract and no external competition. These arrangements would be exempt from publication. If in doubt, you should seek advice to establish the contractual status of such arrangements.\nIs there a requirement to publish on Contracts Finder contracts for services excluded under regulation 10 of the PCRs either when awarded through a procurement or via a framework agreement?\tNo, services that would be excluded from part 2 under regulation 10 of the PCRs, for example certain legal services, do not require publication on Contracts Finder regardless of whether these are awarded directly or via a call off from a framework agreement. This applies even if the framework agreement itself is established under part 2 of the PCRs and covers a mix of services.\nAre there any below threshold contracts or tenders that don’t need to be published on Contracts Finder?\tThe requirements to publish notices over the low value limit of £12,000 central and £30,000 sub-central relate to procurements that would, but for their value, otherwise be subject to part 2 of the PCRs. Procurements that would not have been subject to the PCRs, for example, certain defence-related procurements that would, but for their value, otherwise be subject to the Defence and Security Public Contracts Regulations 2011, do not need to be published. In-scope organisations should seek legal advice if unsure.",
+      "ordinal": 82,
+      "heading_path": [
+        "1. Introduction and scope",
+        "Annex 2",
+        "Other retained FAQs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {
+        "rows": [
+          [
+            "Question",
+            "Answer"
+          ],
+          [
+            "Occasionally, services are commenced prior to the signature of a contract. Some contracts (such as framework direct awards) may not be formally signed. How is ‘contract award date’ to be interpreted in these circumstances?",
+            "In such cases for the purpose of publication on Contracts Finder ‘contract award date’ can be interpreted as the day before the service commencement or the order date of goods as appropriate. If neither of these dates is considered relevant then the authority should seek further advice."
+          ],
+          [
+            "What are the requirements for publishing where there is a programme of work from one contract notice but multiple contracts are awarded (not a Framework)?",
+            "Separate award notices should be published. A link should be provided to the overarching contract notice."
+          ],
+          [
+            "If an opportunity has been undertaken in lots, there are numerous contracts which get signed on different dates by potentially different suppliers, one for each lot. It would therefore, be extremely unlikely they are signed on the same date. We only publish one Contracts Finder / FTS notice therefore, we can only include one contract award date. In this circumstance, which date do we use?",
+            "Assuming all lots relate to a single contract then the date taken should be the date the final contract was signed by the last contracting party (i.e. after all parties have signed)."
+          ],
+          [
+            "When calling off from a framework, whose responsibility is it to publish transparency notices?",
+            "It is ultimately the in-scope organisation undertaking the procurement’s responsibility to ensure transparency obligations are met even when using a managed service."
+          ],
+          [
+            "Am I required to publish arrangements to provide services between Crown bodies under, for example MOUs?",
+            "Regulation 12 of the PCRs governs public contracts between entities within the public sector. Arrangements to provide services between Crown bodies under, for example, MOUs are non-contractual and therefore exempt from publication. Certain other arrangements which follow similar principles may also be exempt. Such circumstances would be limited, i.e. where a department or public body can prove that they are receiving services from another public body where: - it relates to the core business of the public body, and - it is not something the market could provide, so therefore - they have implemented an SLA where there is no contract and no external competition. These arrangements would be exempt from publication. If in doubt, you should seek advice to establish the contractual status of such arrangements."
+          ],
+          [
+            "Is there a requirement to publish on Contracts Finder contracts for services excluded under regulation 10 of the PCRs either when awarded through a procurement or via a framework agreement?",
+            "No, services that would be excluded from part 2 under regulation 10 of the PCRs, for example certain legal services, do not require publication on Contracts Finder regardless of whether these are awarded directly or via a call off from a framework agreement. This applies even if the framework agreement itself is established under part 2 of the PCRs and covers a mix of services."
+          ],
+          [
+            "Are there any below threshold contracts or tenders that don’t need to be published on Contracts Finder?",
+            "The requirements to publish notices over the low value limit of £12,000 central and £30,000 sub-central relate to procurements that would, but for their value, otherwise be subject to part 2 of the PCRs. Procurements that would not have been subject to the PCRs, for example, certain defence-related procurements that would, but for their value, otherwise be subject to the Defence and Security Public Contracts Regulations 2011, do not need to be published. In-scope organisations should seek legal advice if unsure."
+          ]
+        ],
+        "row_count": 8
+      }
+    },
+    {
+      "block_id": "b00083",
+      "block_type": "li",
+      "text": "Regulation 52 ↩",
+      "ordinal": 83,
+      "heading_path": [
+        "1. Introduction and scope",
+        "Annex 2",
+        "Other retained FAQs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00084",
+      "block_type": "p",
+      "text": "Regulation 52 ↩",
+      "ordinal": 84,
+      "heading_path": [
+        "1. Introduction and scope",
+        "Annex 2",
+        "Other retained FAQs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00085",
+      "block_type": "li",
+      "text": "Regulation 112 ↩",
+      "ordinal": 85,
+      "heading_path": [
+        "1. Introduction and scope",
+        "Annex 2",
+        "Other retained FAQs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00086",
+      "block_type": "p",
+      "text": "Regulation 112 ↩",
+      "ordinal": 86,
+      "heading_path": [
+        "1. Introduction and scope",
+        "Annex 2",
+        "Other retained FAQs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00087",
+      "block_type": "li",
+      "text": "“Central government authorities” means the Crown and all the bodies listed in Schedule 1 to the PCRs– see regulation 2. ↩",
+      "ordinal": 87,
+      "heading_path": [
+        "1. Introduction and scope",
+        "Annex 2",
+        "Other retained FAQs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00088",
+      "block_type": "p",
+      "text": "“Central government authorities” means the Crown and all the bodies listed in Schedule 1 to the PCRs– see regulation 2. ↩",
+      "ordinal": 88,
+      "heading_path": [
+        "1. Introduction and scope",
+        "Annex 2",
+        "Other retained FAQs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00089",
+      "block_type": "li",
+      "text": "5 Regulation 109(2). As amended by The Public Procurement (Agreement on Government Procurement) (Thresholds) (Amendment) Regulations 2021 and the Public Contracts (Amendment) Regulations 2022 and The Public Contracts (Amendment) Regulations 20222 ↩",
+      "ordinal": 89,
+      "heading_path": [
+        "1. Introduction and scope",
+        "Annex 2",
+        "Other retained FAQs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00090",
+      "block_type": "p",
+      "text": "5 Regulation 109(2). As amended by The Public Procurement (Agreement on Government Procurement) (Thresholds) (Amendment) Regulations 2021 and the Public Contracts (Amendment) Regulations 2022 and The Public Contracts (Amendment) Regulations 20222 ↩",
+      "ordinal": 90,
+      "heading_path": [
+        "1. Introduction and scope",
+        "Annex 2",
+        "Other retained FAQs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00091",
+      "block_type": "li",
+      "text": "Regulation 106(1) ↩",
+      "ordinal": 91,
+      "heading_path": [
+        "1. Introduction and scope",
+        "Annex 2",
+        "Other retained FAQs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00092",
+      "block_type": "p",
+      "text": "Regulation 106(1) ↩",
+      "ordinal": 92,
+      "heading_path": [
+        "1. Introduction and scope",
+        "Annex 2",
+        "Other retained FAQs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00093",
+      "block_type": "li",
+      "text": "Regulation 110 ↩",
+      "ordinal": 93,
+      "heading_path": [
+        "1. Introduction and scope",
+        "Annex 2",
+        "Other retained FAQs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00094",
+      "block_type": "p",
+      "text": "Regulation 110 ↩",
+      "ordinal": 94,
+      "heading_path": [
+        "1. Introduction and scope",
+        "Annex 2",
+        "Other retained FAQs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00095",
+      "block_type": "li",
+      "text": "In accordance with regulation 52(3). ↩",
+      "ordinal": 95,
+      "heading_path": [
+        "1. Introduction and scope",
+        "Annex 2",
+        "Other retained FAQs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00096",
+      "block_type": "p",
+      "text": "In accordance with regulation 52(3). ↩",
+      "ordinal": 96,
+      "heading_path": [
+        "1. Introduction and scope",
+        "Annex 2",
+        "Other retained FAQs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00097",
+      "block_type": "li",
+      "text": "Regulation 106(2) and regulation 110(8) ↩",
+      "ordinal": 97,
+      "heading_path": [
+        "1. Introduction and scope",
+        "Annex 2",
+        "Other retained FAQs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00098",
+      "block_type": "p",
+      "text": "Regulation 106(2) and regulation 110(8) ↩",
+      "ordinal": 98,
+      "heading_path": [
+        "1. Introduction and scope",
+        "Annex 2",
+        "Other retained FAQs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00099",
+      "block_type": "li",
+      "text": "As defined in regulation 2 ↩",
+      "ordinal": 99,
+      "heading_path": [
+        "1. Introduction and scope",
+        "Annex 2",
+        "Other retained FAQs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00100",
+      "block_type": "p",
+      "text": "As defined in regulation 2 ↩",
+      "ordinal": 100,
+      "heading_path": [
+        "1. Introduction and scope",
+        "Annex 2",
+        "Other retained FAQs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00101",
+      "block_type": "li",
+      "text": "Regulation 110(12) ↩",
+      "ordinal": 101,
+      "heading_path": [
+        "1. Introduction and scope",
+        "Annex 2",
+        "Other retained FAQs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00102",
+      "block_type": "p",
+      "text": "Regulation 110(12) ↩",
+      "ordinal": 102,
+      "heading_path": [
+        "1. Introduction and scope",
+        "Annex 2",
+        "Other retained FAQs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00103",
+      "block_type": "li",
+      "text": "Regulations 53(1), 106(2)(a) and 110(12) ↩",
+      "ordinal": 103,
+      "heading_path": [
+        "1. Introduction and scope",
+        "Annex 2",
+        "Other retained FAQs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00104",
+      "block_type": "p",
+      "text": "Regulations 53(1), 106(2)(a) and 110(12) ↩",
+      "ordinal": 104,
+      "heading_path": [
+        "1. Introduction and scope",
+        "Annex 2",
+        "Other retained FAQs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00105",
+      "block_type": "li",
+      "text": "Regulations 108(2) & 112(1) ↩",
+      "ordinal": 105,
+      "heading_path": [
+        "1. Introduction and scope",
+        "Annex 2",
+        "Other retained FAQs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00106",
+      "block_type": "p",
+      "text": "Regulations 108(2) & 112(1) ↩",
+      "ordinal": 106,
+      "heading_path": [
+        "1. Introduction and scope",
+        "Annex 2",
+        "Other retained FAQs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00107",
+      "block_type": "li",
+      "text": "As defined in regulation 112(4) ↩",
+      "ordinal": 107,
+      "heading_path": [
+        "1. Introduction and scope",
+        "Annex 2",
+        "Other retained FAQs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00108",
+      "block_type": "p",
+      "text": "As defined in regulation 112(4) ↩",
+      "ordinal": 108,
+      "heading_path": [
+        "1. Introduction and scope",
+        "Annex 2",
+        "Other retained FAQs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00109",
+      "block_type": "li",
+      "text": "Regulation 108(1)(b) ↩",
+      "ordinal": 109,
+      "heading_path": [
+        "1. Introduction and scope",
+        "Annex 2",
+        "Other retained FAQs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00110",
+      "block_type": "p",
+      "text": "Regulation 108(1)(b) ↩",
+      "ordinal": 110,
+      "heading_path": [
+        "1. Introduction and scope",
+        "Annex 2",
+        "Other retained FAQs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00111",
+      "block_type": "li",
+      "text": "Regulation 108(3) and regulation 112(2). ↩",
+      "ordinal": 111,
+      "heading_path": [
+        "1. Introduction and scope",
+        "Annex 2",
+        "Other retained FAQs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00112",
+      "block_type": "p",
+      "text": "Regulation 108(3) and regulation 112(2). ↩",
+      "ordinal": 112,
+      "heading_path": [
+        "1. Introduction and scope",
+        "Annex 2",
+        "Other retained FAQs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "guidance on transitional and saving arrangements",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-transitional-and-saving-arrangements-html",
+      "block_id": "b00000",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "http://www.gov.uk/contracts-finder",
+      "href": "http://www.gov.uk/contracts-finder",
+      "block_id": "b00009",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "[footnote 1]",
+      "href": "https://www.gov.uk/government/publications/ppn-019-requirements-to-publish-on-contracts-finder/guidance-on-the-transparency-requirements-for-publishing-on-contracts-finder#fn:1",
+      "block_id": "b00011",
+      "ordinal": 2,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 2]",
+      "href": "https://www.gov.uk/government/publications/ppn-019-requirements-to-publish-on-contracts-finder/guidance-on-the-transparency-requirements-for-publishing-on-contracts-finder#fn:2",
+      "block_id": "b00016",
+      "ordinal": 3,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 3]",
+      "href": "https://www.gov.uk/government/publications/ppn-019-requirements-to-publish-on-contracts-finder/guidance-on-the-transparency-requirements-for-publishing-on-contracts-finder#fn:3",
+      "block_id": "b00020",
+      "ordinal": 4,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 4]",
+      "href": "https://www.gov.uk/government/publications/ppn-019-requirements-to-publish-on-contracts-finder/guidance-on-the-transparency-requirements-for-publishing-on-contracts-finder#fn:4",
+      "block_id": "b00020",
+      "ordinal": 5,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 5]",
+      "href": "https://www.gov.uk/government/publications/ppn-019-requirements-to-publish-on-contracts-finder/guidance-on-the-transparency-requirements-for-publishing-on-contracts-finder#fn:5",
+      "block_id": "b00021",
+      "ordinal": 6,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 6]",
+      "href": "https://www.gov.uk/government/publications/ppn-019-requirements-to-publish-on-contracts-finder/guidance-on-the-transparency-requirements-for-publishing-on-contracts-finder#fn:6",
+      "block_id": "b00023",
+      "ordinal": 7,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 7]",
+      "href": "https://www.gov.uk/government/publications/ppn-019-requirements-to-publish-on-contracts-finder/guidance-on-the-transparency-requirements-for-publishing-on-contracts-finder#fn:7",
+      "block_id": "b00023",
+      "ordinal": 8,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 9]",
+      "href": "https://www.gov.uk/government/publications/ppn-019-requirements-to-publish-on-contracts-finder/guidance-on-the-transparency-requirements-for-publishing-on-contracts-finder#fn:9",
+      "block_id": "b00027",
+      "ordinal": 9,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 10]",
+      "href": "https://www.gov.uk/government/publications/ppn-019-requirements-to-publish-on-contracts-finder/guidance-on-the-transparency-requirements-for-publishing-on-contracts-finder#fn:10",
+      "block_id": "b00028",
+      "ordinal": 10,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 11]",
+      "href": "https://www.gov.uk/government/publications/ppn-019-requirements-to-publish-on-contracts-finder/guidance-on-the-transparency-requirements-for-publishing-on-contracts-finder#fn:11",
+      "block_id": "b00035",
+      "ordinal": 11,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 12]",
+      "href": "https://www.gov.uk/government/publications/ppn-019-requirements-to-publish-on-contracts-finder/guidance-on-the-transparency-requirements-for-publishing-on-contracts-finder#fn:12",
+      "block_id": "b00036",
+      "ordinal": 12,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 13]",
+      "href": "https://www.gov.uk/government/publications/ppn-019-requirements-to-publish-on-contracts-finder/guidance-on-the-transparency-requirements-for-publishing-on-contracts-finder#fn:13",
+      "block_id": "b00036",
+      "ordinal": 13,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 14]",
+      "href": "https://www.gov.uk/government/publications/ppn-019-requirements-to-publish-on-contracts-finder/guidance-on-the-transparency-requirements-for-publishing-on-contracts-finder#fn:14",
+      "block_id": "b00036",
+      "ordinal": 14,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 15]",
+      "href": "https://www.gov.uk/government/publications/ppn-019-requirements-to-publish-on-contracts-finder/guidance-on-the-transparency-requirements-for-publishing-on-contracts-finder#fn:15",
+      "block_id": "b00041",
+      "ordinal": 15,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 16]",
+      "href": "https://www.gov.uk/government/publications/ppn-019-requirements-to-publish-on-contracts-finder/guidance-on-the-transparency-requirements-for-publishing-on-contracts-finder#fn:16",
+      "block_id": "b00045",
+      "ordinal": 16,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 17]",
+      "href": "https://www.gov.uk/government/publications/ppn-019-requirements-to-publish-on-contracts-finder/guidance-on-the-transparency-requirements-for-publishing-on-contracts-finder#fn:17",
+      "block_id": "b00046",
+      "ordinal": 17,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[18]",
+      "href": "https://www.gov.uk/government/publications/ppn-019-requirements-to-publish-on-contracts-finder/guidance-on-the-transparency-requirements-for-publishing-on-contracts-finder#_ftn18",
+      "block_id": "b00047",
+      "ordinal": 18,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 19]",
+      "href": "https://www.gov.uk/government/publications/ppn-019-requirements-to-publish-on-contracts-finder/guidance-on-the-transparency-requirements-for-publishing-on-contracts-finder#fn:19",
+      "block_id": "b00062",
+      "ordinal": 19,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "guidance on the transitional and savings arrangements",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-transitional-and-saving-arrangements-html",
+      "block_id": "b00072",
+      "ordinal": 20,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "https://www.legislation.gov.uk/uksi/2015/102/regulation/106",
+      "href": "https://www.legislation.gov.uk/uksi/2015/102/regulation/106",
+      "block_id": "b00072",
+      "ordinal": 21,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "below threshold contracts",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-below-threshold-contracts-html",
+      "block_id": "b00074",
+      "ordinal": 22,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "https://www.legislation.gov.uk/uksi/2015/102/regulation/110",
+      "href": "https://www.legislation.gov.uk/uksi/2015/102/regulation/110",
+      "block_id": "b00074",
+      "ordinal": 23,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "https://www.legislation.gov.uk/uksi/2015/102/regulation/108/made",
+      "href": "https://www.legislation.gov.uk/uksi/2015/102/regulation/108/made",
+      "block_id": "b00076",
+      "ordinal": 24,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "https://www.legislation.gov.uk/uksi/2015/102/regulation/108/made",
+      "href": "https://www.legislation.gov.uk/uksi/2015/102/regulation/108/made",
+      "block_id": "b00076",
+      "ordinal": 25,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "https://www.legislation.gov.uk/uksi/2015/102/regulation/112/made",
+      "href": "https://www.legislation.gov.uk/uksi/2015/102/regulation/112/made",
+      "block_id": "b00078",
+      "ordinal": 26,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "https://www.legislation.gov.uk/uksi/2015/102/regulation/112/made",
+      "href": "https://www.legislation.gov.uk/uksi/2015/102/regulation/112/made",
+      "block_id": "b00078",
+      "ordinal": 27,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "below threshold guidance",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-below-threshold-contracts-html",
+      "block_id": "b00080",
+      "ordinal": 28,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Frameworks",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-frameworks-html",
+      "block_id": "b00080",
+      "ordinal": 29,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Dynamic Markets",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-dynamic-markets-html",
+      "block_id": "b00080",
+      "ordinal": 30,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-019-requirements-to-publish-on-contracts-finder/guidance-on-the-transparency-requirements-for-publishing-on-contracts-finder#fnref:1",
+      "block_id": "b00083",
+      "ordinal": 31,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-019-requirements-to-publish-on-contracts-finder/guidance-on-the-transparency-requirements-for-publishing-on-contracts-finder#fnref:1",
+      "block_id": "b00084",
+      "ordinal": 32,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-019-requirements-to-publish-on-contracts-finder/guidance-on-the-transparency-requirements-for-publishing-on-contracts-finder#fnref:2",
+      "block_id": "b00085",
+      "ordinal": 33,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-019-requirements-to-publish-on-contracts-finder/guidance-on-the-transparency-requirements-for-publishing-on-contracts-finder#fnref:2",
+      "block_id": "b00086",
+      "ordinal": 34,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-019-requirements-to-publish-on-contracts-finder/guidance-on-the-transparency-requirements-for-publishing-on-contracts-finder#fnref:3",
+      "block_id": "b00087",
+      "ordinal": 35,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-019-requirements-to-publish-on-contracts-finder/guidance-on-the-transparency-requirements-for-publishing-on-contracts-finder#fnref:3",
+      "block_id": "b00088",
+      "ordinal": 36,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-019-requirements-to-publish-on-contracts-finder/guidance-on-the-transparency-requirements-for-publishing-on-contracts-finder#fnref:4",
+      "block_id": "b00089",
+      "ordinal": 37,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-019-requirements-to-publish-on-contracts-finder/guidance-on-the-transparency-requirements-for-publishing-on-contracts-finder#fnref:4",
+      "block_id": "b00090",
+      "ordinal": 38,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-019-requirements-to-publish-on-contracts-finder/guidance-on-the-transparency-requirements-for-publishing-on-contracts-finder#fnref:6",
+      "block_id": "b00091",
+      "ordinal": 39,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-019-requirements-to-publish-on-contracts-finder/guidance-on-the-transparency-requirements-for-publishing-on-contracts-finder#fnref:6",
+      "block_id": "b00092",
+      "ordinal": 40,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-019-requirements-to-publish-on-contracts-finder/guidance-on-the-transparency-requirements-for-publishing-on-contracts-finder#fnref:7",
+      "block_id": "b00093",
+      "ordinal": 41,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-019-requirements-to-publish-on-contracts-finder/guidance-on-the-transparency-requirements-for-publishing-on-contracts-finder#fnref:7",
+      "block_id": "b00094",
+      "ordinal": 42,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-019-requirements-to-publish-on-contracts-finder/guidance-on-the-transparency-requirements-for-publishing-on-contracts-finder#fnref:10",
+      "block_id": "b00095",
+      "ordinal": 43,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-019-requirements-to-publish-on-contracts-finder/guidance-on-the-transparency-requirements-for-publishing-on-contracts-finder#fnref:10",
+      "block_id": "b00096",
+      "ordinal": 44,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-019-requirements-to-publish-on-contracts-finder/guidance-on-the-transparency-requirements-for-publishing-on-contracts-finder#fnref:11",
+      "block_id": "b00097",
+      "ordinal": 45,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-019-requirements-to-publish-on-contracts-finder/guidance-on-the-transparency-requirements-for-publishing-on-contracts-finder#fnref:11",
+      "block_id": "b00098",
+      "ordinal": 46,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-019-requirements-to-publish-on-contracts-finder/guidance-on-the-transparency-requirements-for-publishing-on-contracts-finder#fnref:12",
+      "block_id": "b00099",
+      "ordinal": 47,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-019-requirements-to-publish-on-contracts-finder/guidance-on-the-transparency-requirements-for-publishing-on-contracts-finder#fnref:12",
+      "block_id": "b00100",
+      "ordinal": 48,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-019-requirements-to-publish-on-contracts-finder/guidance-on-the-transparency-requirements-for-publishing-on-contracts-finder#fnref:13",
+      "block_id": "b00101",
+      "ordinal": 49,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-019-requirements-to-publish-on-contracts-finder/guidance-on-the-transparency-requirements-for-publishing-on-contracts-finder#fnref:13",
+      "block_id": "b00102",
+      "ordinal": 50,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-019-requirements-to-publish-on-contracts-finder/guidance-on-the-transparency-requirements-for-publishing-on-contracts-finder#fnref:14",
+      "block_id": "b00103",
+      "ordinal": 51,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-019-requirements-to-publish-on-contracts-finder/guidance-on-the-transparency-requirements-for-publishing-on-contracts-finder#fnref:14",
+      "block_id": "b00104",
+      "ordinal": 52,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-019-requirements-to-publish-on-contracts-finder/guidance-on-the-transparency-requirements-for-publishing-on-contracts-finder#fnref:15",
+      "block_id": "b00105",
+      "ordinal": 53,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-019-requirements-to-publish-on-contracts-finder/guidance-on-the-transparency-requirements-for-publishing-on-contracts-finder#fnref:15",
+      "block_id": "b00106",
+      "ordinal": 54,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-019-requirements-to-publish-on-contracts-finder/guidance-on-the-transparency-requirements-for-publishing-on-contracts-finder#fnref:16",
+      "block_id": "b00107",
+      "ordinal": 55,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-019-requirements-to-publish-on-contracts-finder/guidance-on-the-transparency-requirements-for-publishing-on-contracts-finder#fnref:16",
+      "block_id": "b00108",
+      "ordinal": 56,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-019-requirements-to-publish-on-contracts-finder/guidance-on-the-transparency-requirements-for-publishing-on-contracts-finder#fnref:17",
+      "block_id": "b00109",
+      "ordinal": 57,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-019-requirements-to-publish-on-contracts-finder/guidance-on-the-transparency-requirements-for-publishing-on-contracts-finder#fnref:17",
+      "block_id": "b00110",
+      "ordinal": 58,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-019-requirements-to-publish-on-contracts-finder/guidance-on-the-transparency-requirements-for-publishing-on-contracts-finder#fnref:19",
+      "block_id": "b00111",
+      "ordinal": 59,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-019-requirements-to-publish-on-contracts-finder/guidance-on-the-transparency-requirements-for-publishing-on-contracts-finder#fnref:19",
+      "block_id": "b00112",
+      "ordinal": 60,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Guidance on the transparency requirements for publishing on Contracts Finder (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-019-requirements-to-publish-on-contracts-finder/guidance-on-the-transparency-requirements-for-publishing-on-contracts-finder",
+      "block_id": "__document__",
+      "ordinal": 61,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2024 to 2026 Starmer Labour government",
+      "href": "https://www.gov.uk/government/2024-starmer-labour-government",
+      "block_id": "__document__",
+      "ordinal": 62,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 63,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "PPN 019: Requirements to publish on Contracts Finder",
+      "href": "https://www.gov.uk/government/publications/ppn-019-requirements-to-publish-on-contracts-finder",
+      "block_id": "__document__",
+      "ordinal": 64,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 65,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015 (PCRs)",
+      "block_id": "b00000",
+      "start": 128,
+      "end": 151,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015",
+        "tail": " (PCRs)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 6",
+      "block_id": "b00001",
+      "start": 261,
+      "end": 270,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "6"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulations 48",
+      "block_id": "b00002",
+      "start": 24,
+      "end": 38,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "48"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 6",
+      "block_id": "b00009",
+      "start": 267,
+      "end": 276,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "6"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 3",
+      "block_id": "b00012",
+      "start": 240,
+      "end": 249,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "3"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 1(7)",
+      "block_id": "b00066",
+      "start": 132,
+      "end": 147,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "1",
+        "tail": "(7)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2013",
+      "block_id": "b00067",
+      "start": 182,
+      "end": 198,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2013"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 2",
+      "block_id": "b00076",
+      "start": 99,
+      "end": 111,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 2",
+      "block_id": "b00078",
+      "start": 100,
+      "end": 112,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 12",
+      "block_id": "b00082",
+      "start": 1728,
+      "end": 1741,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "12"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 10",
+      "block_id": "b00082",
+      "start": 2635,
+      "end": 2648,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "10"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 10",
+      "block_id": "b00082",
+      "start": 2787,
+      "end": 2800,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "10"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2011",
+      "block_id": "b00082",
+      "start": 3630,
+      "end": 3646,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2011"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 52",
+      "block_id": "b00083",
+      "start": 0,
+      "end": 13,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "52"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 52",
+      "block_id": "b00084",
+      "start": 0,
+      "end": 13,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "52"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 112",
+      "block_id": "b00085",
+      "start": 0,
+      "end": 14,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "112"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 112",
+      "block_id": "b00086",
+      "start": 0,
+      "end": 14,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "112"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 2",
+      "block_id": "b00087",
+      "start": 106,
+      "end": 118,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 1",
+      "block_id": "b00087",
+      "start": 78,
+      "end": 88,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 2",
+      "block_id": "b00088",
+      "start": 106,
+      "end": 118,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 1",
+      "block_id": "b00088",
+      "start": 78,
+      "end": 88,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 109(2)",
+      "block_id": "b00089",
+      "start": 2,
+      "end": 19,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "109",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2021",
+      "block_id": "b00089",
+      "start": 121,
+      "end": 137,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2021"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2022",
+      "block_id": "b00089",
+      "start": 175,
+      "end": 191,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2022"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 20222",
+      "block_id": "b00089",
+      "start": 229,
+      "end": 246,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "20222"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 109(2)",
+      "block_id": "b00090",
+      "start": 2,
+      "end": 19,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "109",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2021",
+      "block_id": "b00090",
+      "start": 121,
+      "end": 137,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2021"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2022",
+      "block_id": "b00090",
+      "start": 175,
+      "end": 191,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2022"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 20222",
+      "block_id": "b00090",
+      "start": 229,
+      "end": 246,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "20222"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 106(1)",
+      "block_id": "b00091",
+      "start": 0,
+      "end": 17,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "106",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 106(1)",
+      "block_id": "b00092",
+      "start": 0,
+      "end": 17,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "106",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 110",
+      "block_id": "b00093",
+      "start": 0,
+      "end": 14,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "110"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 110",
+      "block_id": "b00094",
+      "start": 0,
+      "end": 14,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "110"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 52(3)",
+      "block_id": "b00095",
+      "start": 19,
+      "end": 35,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "52",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 52(3)",
+      "block_id": "b00096",
+      "start": 19,
+      "end": 35,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "52",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 106(2)",
+      "block_id": "b00097",
+      "start": 0,
+      "end": 17,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "106",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 110(8)",
+      "block_id": "b00097",
+      "start": 22,
+      "end": 39,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "110",
+        "tail": "(8)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 106(2)",
+      "block_id": "b00098",
+      "start": 0,
+      "end": 17,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "106",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 110(8)",
+      "block_id": "b00098",
+      "start": 22,
+      "end": 39,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "110",
+        "tail": "(8)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 2",
+      "block_id": "b00099",
+      "start": 14,
+      "end": 26,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 2",
+      "block_id": "b00100",
+      "start": 14,
+      "end": 26,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 110(12)",
+      "block_id": "b00101",
+      "start": 0,
+      "end": 18,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "110",
+        "tail": "(12)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 110(12)",
+      "block_id": "b00102",
+      "start": 0,
+      "end": 18,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "110",
+        "tail": "(12)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 53(1)",
+      "block_id": "b00103",
+      "start": 0,
+      "end": 17,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "53",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 53(1)",
+      "block_id": "b00104",
+      "start": 0,
+      "end": 17,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "53",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 108(2)",
+      "block_id": "b00105",
+      "start": 0,
+      "end": 18,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "108",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 108(2)",
+      "block_id": "b00106",
+      "start": 0,
+      "end": 18,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "108",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 112(4)",
+      "block_id": "b00107",
+      "start": 14,
+      "end": 31,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "112",
+        "tail": "(4)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 112(4)",
+      "block_id": "b00108",
+      "start": 14,
+      "end": 31,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "112",
+        "tail": "(4)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 108(1)(b)",
+      "block_id": "b00109",
+      "start": 0,
+      "end": 20,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "108",
+        "tail": "(1)(b)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 108(1)(b)",
+      "block_id": "b00110",
+      "start": 0,
+      "end": 20,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "108",
+        "tail": "(1)(b)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 108(3)",
+      "block_id": "b00111",
+      "start": 0,
+      "end": 17,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "108",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 112(2)",
+      "block_id": "b00111",
+      "start": 22,
+      "end": 39,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "112",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 108(3)",
+      "block_id": "b00112",
+      "start": 0,
+      "end": 17,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "108",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 112(2)",
+      "block_id": "b00112",
+      "start": 22,
+      "end": 39,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "112",
+        "tail": "(2)"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

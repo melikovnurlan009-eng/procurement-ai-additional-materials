@@ -1,0 +1,170 @@
+{
+  "document_id": "ba11e94dab9c7265d6cb8dd5",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "html",
+  "source_path": "corpus_ingest_v2/raw/1126590a2e697394ded57aad.html",
+  "input_sha256": "6c7057214f0f7c4d38f539e7a4ca068096aef39ab1799b5f46b27a4fd9f98df3",
+  "processed_at": "2026-08-27T02:26:04.877322+00:00",
+  "title": "How to determine which procurement law regime applies?",
+  "canonical_url": "https://www.procurementportal.com/procurements-started-before-24-february-2025/do-the-public-contracts-regulations-2015-still-apply-to-my-contractprocurement/",
+  "description": null,
+  "publication_date": null,
+  "updated_date": null,
+  "source_metadata": {
+    "html_lang": "en"
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 1,
+      "title": "How to determine which procurement law regime applies?",
+      "ordinal": 0
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Transitional Provisions",
+      "ordinal": 1
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "How to determine which procurement law regime applies?",
+      "ordinal": 0,
+      "heading_path": [
+        "How to determine which procurement law regime applies?"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "heading",
+      "text": "Transitional Provisions",
+      "ordinal": 1,
+      "heading_path": [
+        "How to determine which procurement law regime applies?",
+        "Transitional Provisions"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "Generally, a procurement will be \"commenced\" on the date that the contract notice/advertisement is published.",
+      "ordinal": 2,
+      "heading_path": [
+        "How to determine which procurement law regime applies?",
+        "Transitional Provisions"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "More detailed government guidance on transition is available here .",
+      "ordinal": 3,
+      "heading_path": [
+        "How to determine which procurement law regime applies?",
+        "Transitional Provisions"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "Contracts whose procurement was commenced before 24 February 2025 will continue to be regulated by the Public Contracts Regulations 2015 (or, where relevant, by the equivalent Utilities/Defence/Concessions regulations).",
+      "ordinal": 4,
+      "heading_path": [
+        "How to determine which procurement law regime applies?",
+        "Transitional Provisions"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "This includes where any modifications are made to the contract on or after 24 February 2025.",
+      "ordinal": 5,
+      "heading_path": [
+        "How to determine which procurement law regime applies?",
+        "Transitional Provisions"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "p",
+      "text": "Where the procurement of a framework agreement or dynamic purchasing system was commenced before 24 February 2025, then that agreement and all contracts called off under it, will remained regulated by the \"old\" regime - even on or after 24 February 2025.",
+      "ordinal": 6,
+      "heading_path": [
+        "How to determine which procurement law regime applies?",
+        "Transitional Provisions"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "As a result, the \"old\" regime will continue to apply to some contracts and call-off contracts for many years to come.",
+      "ordinal": 7,
+      "heading_path": [
+        "How to determine which procurement law regime applies?",
+        "Transitional Provisions"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "Note that Dynamic Purchasing Systems whose procurement was commenced prior to 24 February 2025 will be deemed to terminate on 23 February 2029 (if they have not already terminated earlier).",
+      "ordinal": 8,
+      "heading_path": [
+        "How to determine which procurement law regime applies?",
+        "Transitional Provisions"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "here",
+      "href": "https://assets.publishing.service.gov.uk/media/6698e1ec49b9c0597fdaff46/Guidance_-_Transitional_and_Saving_Arrangements_FINAL_v3_.pdf",
+      "block_id": "b00003",
+      "ordinal": 0,
+      "link_type": "ATTACHMENT"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015",
+      "block_id": "b00004",
+      "start": 120,
+      "end": 136,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015"
+      }
+    }
+  ],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/6698e1ec49b9c0597fdaff46/Guidance_-_Transitional_and_Saving_Arrangements_FINAL_v3_.pdf",
+      "title": "here",
+      "discovered_in_block": "b00003"
+    }
+  ],
+  "warnings": []
+}

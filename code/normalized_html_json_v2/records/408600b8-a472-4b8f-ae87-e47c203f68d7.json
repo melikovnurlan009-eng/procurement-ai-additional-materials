@@ -1,0 +1,1733 @@
+{
+  "document_id": "408600b8-a472-4b8f-ae87-e47c203f68d7",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/06122e9cf402cb4dcc961707.json",
+  "input_sha256": "44da749f9c7c1fad55cd8fe3aa7cc20f5958d2170f547cb2de035066af80ce45",
+  "processed_at": "2026-08-27T02:26:03.103123+00:00",
+  "title": "Guidance to Procurement Policy Note 025 Protecting the UK’s national security through public procurement (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/ppn-025-protecting-the-uks-national-security-through-public-procurement/guidance-to-procurement-policy-note-025-protecting-the-uks-national-security-through-public-procurement-html",
+  "description": null,
+  "publication_date": "2026-06-19T13:00:42+01:00",
+  "updated_date": "2026-07-03T09:03:03+01:00",
+  "source_metadata": {
+    "content_id": "408600b8-a472-4b8f-ae87-e47c203f68d7",
+    "base_path": "/government/publications/ppn-025-protecting-the-uks-national-security-through-public-procurement/guidance-to-procurement-policy-note-025-protecting-the-uks-national-security-through-public-procurement-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Introduction",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Maintaining secure markets",
+      "ordinal": 13,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Shipbuilding, steel, AI and energy infrastructure are critical to national security",
+      "ordinal": 23,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Action 1: Identify the procurements in your pipeline relevant to protecting the UK’s national security in shipbuilding, steel, AI and energy infrastructure",
+      "ordinal": 24,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Action 2: Engage early with the relevant Sector Lead to ensure your commercial approach will protect the UK’s national security interests.",
+      "ordinal": 36,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Action 3: Deploy the national security exemption in the Procurement Act 2023 where appropriate and justified in a relevant procurement.",
+      "ordinal": 50,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Annex A: Sector-specific requirements for relevant procurements",
+      "ordinal": 60,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Annex B: Steps to considering national security in procurement",
+      "ordinal": 82,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Planning and preparation",
+      "ordinal": 83,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Assessing procurement strategies",
+      "ordinal": 85,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Building evidence and justification for deploying exemption",
+      "ordinal": 87,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Launch procurement",
+      "ordinal": 89,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Annex C: Interactions with International Agreements",
+      "ordinal": 91,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "Introduction",
+      "ordinal": 0,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "“National security is the first responsibility of government and the foundation for our prosperity and way of life, along with secure borders and a stable economy. It means protecting the British people, promoting British interests and making the country stronger, more sovereign and more competitive in the long-term.” [footnote 1]",
+      "ordinal": 1,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "1. The Government’s National Security Strategy 2025 is clear that we are entering a new era of radical uncertainty and that a major cultural shift is needed for the UK to respond effectively. To ensure public procurement plays its part, the Government is taking action to recalibrate its approach so that the UK’s huge purchasing power is more effectively deployed to protect our national security.",
+      "ordinal": 2,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "2. National security extends beyond defence; true resilience requires supporting critical sectors and securing supply chains so they can be relied upon during crises to protect the UK’s national security. This means understanding that foundational assets like steel and shipbuilding are capabilities essential to the UK’s security rather than mere commodities, and treating them as such. It means procuring emerging essentials like artificial intelligence and energy infrastructure with strategic intent to strengthen our resilience and ensure the UK is not left vulnerable to supply chain shocks.",
+      "ordinal": 3,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "3. Therefore, the Government has commissioned action in four critical sectors with a nominated lead responsible for coordinating action on the procurement pipeline across central government:",
+      "ordinal": 4,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "li",
+      "text": "Shipbuilding - National Shipbuilding Office, Ministry of Defence",
+      "ordinal": 5,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "li",
+      "text": "Steel - Department for Business and Trade",
+      "ordinal": 6,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "li",
+      "text": "Artificial intelligence (AI) - Department for Science, Innovation and Technology",
+      "ordinal": 7,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "li",
+      "text": "Energy infrastructure - Department of Energy Security and Net Zero",
+      "ordinal": 8,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "4. Where appropriate and justified on a case by case basis, the national security exemption set out in Schedule 2 to the Procurement Act 2023 (“the Act”) can be relied on where contracting authorities determine that, in the interests of national security, a contract should not be subject to the provisions in the Act (or part of the Act). For the avoidance of doubt, procurements in these critical sectors are not automatically exempt; authorities must consider on a case by case basis whether the exemption can be applied to each particular procurement.",
+      "ordinal": 9,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "p",
+      "text": "5. The exemption means that contracting authorities have more freedom to decide on the most appropriate approach to the procurement of goods, works and services where national security interests are involved. For example, requirements in the Act in relation to competition and transparency, which are fundamental in normal circumstances may need to be dis-applied in whole or in part to protect national security interests.",
+      "ordinal": 10,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "6. This guidance applies only to central government departments, their executive agencies, and non-departmental public bodies that are “contracting authorities” as defined in section 2 of the Act. Such bodies are referred to as “in-scope organisations”. The guidance applies to procurements (as defined in section 1 of the Act) that are “relevant procurements” of the types outlined for each sector in Annex A. This includes procuring through a framework. Private utilities should strongly consider applying this guidance in relevant procurements in energy infrastructure and engage with the Sector Lead on their proposed approach to relevant procurements given their specialist role in providing goods and services in this sector. Other organisations who are contracting authorities under the Act can consider their own pipelines in the context of the guidance.",
+      "ordinal": 11,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "7. The national security exemption must be used in accordance with the Act and in a manner consistent with the UK’s international trade agreements relating to procurement. Suppliers from our close trading partners will continue to be important to our public procurement requirements and will often be well-placed to help us meet those requirements.",
+      "ordinal": 12,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "heading",
+      "text": "Maintaining secure markets",
+      "ordinal": 13,
+      "heading_path": [
+        "Introduction",
+        "Maintaining secure markets"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "8. The concept of national security has evolved beyond sovereignty, national defence, intelligence and counterintelligence. As set out in the National Security Strategy 2025, strengthening our agency across an expanded group of sectors is now critical to national resilience.",
+      "ordinal": 14,
+      "heading_path": [
+        "Introduction",
+        "Maintaining secure markets"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "9. Alongside the mitigation of national security risks, the Government intends to adopt a more strategic approach to shaping key markets through its procurement.",
+      "ordinal": 15,
+      "heading_path": [
+        "Introduction",
+        "Maintaining secure markets"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "10. Market shaping is the conscious, proactive, strategic intervention in markets with a view to:",
+      "ordinal": 16,
+      "heading_path": [
+        "Introduction",
+        "Maintaining secure markets"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "li",
+      "text": "managing supply risk - building greater resilience and supply chain security where it does not currently exist;",
+      "ordinal": 17,
+      "heading_path": [
+        "Introduction",
+        "Maintaining secure markets"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "li",
+      "text": "incentivising innovation and investment - signalling demand through robust, long-term pipelines;",
+      "ordinal": 18,
+      "heading_path": [
+        "Introduction",
+        "Maintaining secure markets"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "li",
+      "text": "collaborating with industry - partnering with suppliers to standardise requirements and encourage a more diverse, effective supply base.",
+      "ordinal": 19,
+      "heading_path": [
+        "Introduction",
+        "Maintaining secure markets"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "p",
+      "text": "11. Applying government procurement to support market shaping will involve different commercial approaches, including the range of procedures, commercial tools and exemptions available within the Act. For example, though not exhaustive, the application of social value in award criteria, use of frameworks, direct award grounds, particular provisions applicable to defence and security contracts, and Schedule 2 exemptions such as research and development services.",
+      "ordinal": 20,
+      "heading_path": [
+        "Introduction",
+        "Maintaining secure markets"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "12. However, this guidance aims to support contracting authorities in relying on the domestic law exemption on the grounds of national security and remains consistent with the UK’s international trade agreements. We will continue to work with our close trading partners to strengthen our collective defence-industrial base, enhance continental resilience, and improve the interoperability of our defence capabilities.",
+      "ordinal": 21,
+      "heading_path": [
+        "Introduction",
+        "Maintaining secure markets"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "p",
+      "text": "13. It reflects HM Treasury’s recently updated Green Book and advice issued to Accounting Officers which frames value for money as a balanced judgement, taking account not just of monetised impacts but of strategic alignment, deliverability, affordability and risk. In-scope organisations should not be taking individual procurement decisions based solely on their own immediate operational priorities and without consideration of the long-term national security implications.",
+      "ordinal": 22,
+      "heading_path": [
+        "Introduction",
+        "Maintaining secure markets"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "heading",
+      "text": "Shipbuilding, steel, AI and energy infrastructure are critical to national security",
+      "ordinal": 23,
+      "heading_path": [
+        "Introduction",
+        "Shipbuilding, steel, AI and energy infrastructure are critical to national security"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "heading",
+      "text": "Action 1: Identify the procurements in your pipeline relevant to protecting the UK’s national security in shipbuilding, steel, AI and energy infrastructure",
+      "ordinal": 24,
+      "heading_path": [
+        "Introduction",
+        "Shipbuilding, steel, AI and energy infrastructure are critical to national security",
+        "Action 1: Identify the procurements in your pipeline relevant to protecting the UK’s national security in shipbuilding, steel, AI and energy infrastructure"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "p",
+      "text": "14. The Government considers the following sectors to be critical to protecting the UK’s national security and procurements relevant to these sectors should be reviewed using this guidance:",
+      "ordinal": 25,
+      "heading_path": [
+        "Introduction",
+        "Shipbuilding, steel, AI and energy infrastructure are critical to national security",
+        "Action 1: Identify the procurements in your pipeline relevant to protecting the UK’s national security in shipbuilding, steel, AI and energy infrastructure"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "li",
+      "text": "Shipbuilding: The Government’s Modern Industrial Strategy explicitly locks in shipbuilding alongside nuclear deterrence and combat air as a non-negotiable national security priority. Shipbuilding capability and capacity is required by Government (defence and wider maritime) programmes in times of high demand such as wartime. Using Government procurement to provide a predictable pipeline will sustain facilities and skilled workers so that they are available, and appropriately skilled and experienced, to build and support the Royal Navy and our wider maritime in times of need, including war.",
+      "ordinal": 26,
+      "heading_path": [
+        "Introduction",
+        "Shipbuilding, steel, AI and energy infrastructure are critical to national security",
+        "Action 1: Identify the procurements in your pipeline relevant to protecting the UK’s national security in shipbuilding, steel, AI and energy infrastructure"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "li",
+      "text": "Steel: Steel can be key to many infrastructure projects and is a foundational input to the Defence sector, as identified in the Modern Industrial Strategy. Increased reliance on imported steel in procurements (which are indispensable for national security) can lead to potential disruptions to supply chains, creating vulnerabilities including price fluctuations, political instability, or even malicious interference. This could impact essential services like defence, transportation, and energy, potentially leading to widespread disruptions and compromising national security. Steel underpins nearly all Critical National Infrastructure (CNI), the loss of which could result in significant impact on national security, national defence, or the functioning of the state. As set out in the UK steel strategy, the government believes that sustaining domestic steel production is necessary for our national security. Steel’s importance extends beyond just defence manufacturing, and includes maintenance of critical national infrastructure, from the railways to energy and telecommunication systems, and beyond.",
+      "ordinal": 27,
+      "heading_path": [
+        "Introduction",
+        "Shipbuilding, steel, AI and energy infrastructure are critical to national security",
+        "Action 1: Identify the procurements in your pipeline relevant to protecting the UK’s national security in shipbuilding, steel, AI and energy infrastructure"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "li",
+      "text": "AI: AI is a dual-use technology and without sufficient agency over critical compute infrastructure (i.e. hardware, software and networking resources), the UK cannot guarantee the continuity of access required for national security.",
+      "ordinal": 28,
+      "heading_path": [
+        "Introduction",
+        "Shipbuilding, steel, AI and energy infrastructure are critical to national security",
+        "Action 1: Identify the procurements in your pipeline relevant to protecting the UK’s national security in shipbuilding, steel, AI and energy infrastructure"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "li",
+      "text": "Energy Infrastructure: energy networks and wider energy infrastructure are classified as Critical National Infrastructure because their continuous operation is vital to the country. A major failure would immediately compromise defence operations, intelligence networks, and other systems essential for national security. Building domestic clean energy infrastructure also reduces reliance on volatile foreign fossil fuel markets. By generating power at home, the UK shields its economy and citizens from threats such as the weaponisation of energy supplies by hostile states.",
+      "ordinal": 29,
+      "heading_path": [
+        "Introduction",
+        "Shipbuilding, steel, AI and energy infrastructure are critical to national security",
+        "Action 1: Identify the procurements in your pipeline relevant to protecting the UK’s national security in shipbuilding, steel, AI and energy infrastructure"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "p",
+      "text": "15. In-scope organisations should undertake the following to identify relevant procurements that are in scope of this guidance:",
+      "ordinal": 30,
+      "heading_path": [
+        "Introduction",
+        "Shipbuilding, steel, AI and energy infrastructure are critical to national security",
+        "Action 1: Identify the procurements in your pipeline relevant to protecting the UK’s national security in shipbuilding, steel, AI and energy infrastructure"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "li",
+      "text": "Regularly review their pipeline and assess it against the pipeline requirements set out by the Sector Leads for the shipbuilding, steel, AI and energy infrastructure sectors.",
+      "ordinal": 31,
+      "heading_path": [
+        "Introduction",
+        "Shipbuilding, steel, AI and energy infrastructure are critical to national security",
+        "Action 1: Identify the procurements in your pipeline relevant to protecting the UK’s national security in shipbuilding, steel, AI and energy infrastructure"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "li",
+      "text": "Prior to commencing any identified relevant procurement within these critical sectors, assess the national security implications; this includes evaluating the national security risks in the supply chain.",
+      "ordinal": 32,
+      "heading_path": [
+        "Introduction",
+        "Shipbuilding, steel, AI and energy infrastructure are critical to national security",
+        "Action 1: Identify the procurements in your pipeline relevant to protecting the UK’s national security in shipbuilding, steel, AI and energy infrastructure"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "p",
+      "text": "16. Annex A sets out the requirements for relevant procurements to which this guidance applies. These vary by sector and the requirements may be updated by each Sector Lead as their assessment of the market and the procurement pipeline develops. [footnote 2]",
+      "ordinal": 33,
+      "heading_path": [
+        "Introduction",
+        "Shipbuilding, steel, AI and energy infrastructure are critical to national security",
+        "Action 1: Identify the procurements in your pipeline relevant to protecting the UK’s national security in shipbuilding, steel, AI and energy infrastructure"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "p",
+      "text": "17. If an in-scope organisation identifies that it has a relevant procurement in one of the critical sectors they should assess the national security interests. They should engage with their internal commercial, legal, policy, and security stakeholders at an early stage to support informed and proportionate decision-making. Early engagement can help ensure that national security interests are understood, that potential risks are identified and mitigated appropriately, and that relevant governance and assurance requirements are incorporated into the procurement approach from the outset.",
+      "ordinal": 34,
+      "heading_path": [
+        "Introduction",
+        "Shipbuilding, steel, AI and energy infrastructure are critical to national security",
+        "Action 1: Identify the procurements in your pipeline relevant to protecting the UK’s national security in shipbuilding, steel, AI and energy infrastructure"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "p",
+      "text": "18. This should include the criticality of the capability or service being procured, relevant supply chain vulnerabilities, market concentration, dependency risks, and the potential implications of disruption or loss of supply. In-scope organisations should consider the full range of mitigations and options available to them. This may include standard procurement mechanisms, contractual protections, supplier assurance processes, or broader commercial and market-shaping approaches, alongside consideration of whether the national security exemption may be appropriate.",
+      "ordinal": 35,
+      "heading_path": [
+        "Introduction",
+        "Shipbuilding, steel, AI and energy infrastructure are critical to national security",
+        "Action 1: Identify the procurements in your pipeline relevant to protecting the UK’s national security in shipbuilding, steel, AI and energy infrastructure"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "heading",
+      "text": "Action 2: Engage early with the relevant Sector Lead to ensure your commercial approach will protect the UK’s national security interests.",
+      "ordinal": 36,
+      "heading_path": [
+        "Introduction",
+        "Shipbuilding, steel, AI and energy infrastructure are critical to national security",
+        "Action 2: Engage early with the relevant Sector Lead to ensure your commercial approach will protect the UK’s national security interests."
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "p",
+      "text": "19. The Government Chief Commercial Officer has appointed the following leads for the Government Commercial Function in order to coordinate action on the procurement pipeline across central government:",
+      "ordinal": 37,
+      "heading_path": [
+        "Introduction",
+        "Shipbuilding, steel, AI and energy infrastructure are critical to national security",
+        "Action 2: Engage early with the relevant Sector Lead to ensure your commercial approach will protect the UK’s national security interests."
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "li",
+      "text": "Shipbuilding - National Shipbuilding Office (NSO), Ministry of Defence, nso-commercialandpipeline@mod.gov.uk",
+      "ordinal": 38,
+      "heading_path": [
+        "Introduction",
+        "Shipbuilding, steel, AI and energy infrastructure are critical to national security",
+        "Action 2: Engage early with the relevant Sector Lead to ensure your commercial approach will protect the UK’s national security interests."
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "p",
+      "text": "NSO has developed a good view of the pipeline of future shipping and ship maintenance procurements and is using this to engage with departments. Work is underway to develop a new commercial model for procuring ships and NSO is also considering longer-term structural reforms for civil shipbuilding procurement across government.",
+      "ordinal": 39,
+      "heading_path": [
+        "Introduction",
+        "Shipbuilding, steel, AI and energy infrastructure are critical to national security",
+        "Action 2: Engage early with the relevant Sector Lead to ensure your commercial approach will protect the UK’s national security interests."
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "li",
+      "text": "Steel - Department for Business and Trade (DBT), steelstrategy@businessandtrade.gov.uk",
+      "ordinal": 40,
+      "heading_path": [
+        "Introduction",
+        "Shipbuilding, steel, AI and energy infrastructure are critical to national security",
+        "Action 2: Engage early with the relevant Sector Lead to ensure your commercial approach will protect the UK’s national security interests."
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "p",
+      "text": "DBT has recently published the Government’s steel strategy which contained a range of policy measures including on procurement to support the sector. There is a published annual steel pipeline and the industry has launched a catalogue of the types of steel specifications that are produced in the UK. New policy requirements mean contracting authorities must consult that catalogue when specifying their steel requirements. New guidance for departments will mean more transparency about when they procure steel that is not made in the UK and explain why.",
+      "ordinal": 41,
+      "heading_path": [
+        "Introduction",
+        "Shipbuilding, steel, AI and energy infrastructure are critical to national security",
+        "Action 2: Engage early with the relevant Sector Lead to ensure your commercial approach will protect the UK’s national security interests."
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "li",
+      "text": "AI - Department for Science, Innovation and Technology (DSIT), CommercialDir@dsit.gov.uk",
+      "ordinal": 42,
+      "heading_path": [
+        "Introduction",
+        "Shipbuilding, steel, AI and energy infrastructure are critical to national security",
+        "Action 2: Engage early with the relevant Sector Lead to ensure your commercial approach will protect the UK’s national security interests."
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "p",
+      "text": "DSIT has developed a taxonomy for AI that allows departments and suppliers to anchor future category strategy, market engagement and procurement decisions in a common framework. DSIT has identified a number of initiatives which will help to shape the future of the UK market. The UK has strengths in hardware innovation, chip design, photonics and in-memory compute but supply chain dependencies are highly concentrated, with advanced hardware shaped by a small number of global suppliers.",
+      "ordinal": 43,
+      "heading_path": [
+        "Introduction",
+        "Shipbuilding, steel, AI and energy infrastructure are critical to national security",
+        "Action 2: Engage early with the relevant Sector Lead to ensure your commercial approach will protect the UK’s national security interests."
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "li",
+      "text": "Energy infrastructure - Department of Energy Security and Net Zero (DESNZ), EnergyInfrastructureSectorLead@energysecurity.gov.uk",
+      "ordinal": 44,
+      "heading_path": [
+        "Introduction",
+        "Shipbuilding, steel, AI and energy infrastructure are critical to national security",
+        "Action 2: Engage early with the relevant Sector Lead to ensure your commercial approach will protect the UK’s national security interests."
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "p",
+      "text": "DESNZ is focusing on cabling; Control and Protection Systems and Transformers. DESNZ has identified a number of forthcoming major projects as targets for engagement and intends to use this to inform wider policy development on how this approach will strengthen energy resilience and protect supply chain security.",
+      "ordinal": 45,
+      "heading_path": [
+        "Introduction",
+        "Shipbuilding, steel, AI and energy infrastructure are critical to national security",
+        "Action 2: Engage early with the relevant Sector Lead to ensure your commercial approach will protect the UK’s national security interests."
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "p",
+      "text": "20. Sector Leads will provide more information on their specific approach and requirements when departments engage with them.",
+      "ordinal": 46,
+      "heading_path": [
+        "Introduction",
+        "Shipbuilding, steel, AI and energy infrastructure are critical to national security",
+        "Action 2: Engage early with the relevant Sector Lead to ensure your commercial approach will protect the UK’s national security interests."
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "p",
+      "text": "21. Where in-scope organisations have identified a relevant procurement in their pipeline, they should engage with the relevant Sector Lead. The Sector Leads can provide the strategic context, market insight, cross-government coordination, and sector-specific expertise to support understanding of market conditions, strategic dependencies, resilience considerations and wider government objectives.",
+      "ordinal": 47,
+      "heading_path": [
+        "Introduction",
+        "Shipbuilding, steel, AI and energy infrastructure are critical to national security",
+        "Action 2: Engage early with the relevant Sector Lead to ensure your commercial approach will protect the UK’s national security interests."
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "p",
+      "text": "22. In-scope organisations should understand the consequences of not engaging or following the advice of the Sector Lead. This includes considering procurement approaches that do not adequately account for national security and could impact the UK’s national security interests in critical sectors. For example, where this might lead to weakening domestic capability, increasing strategic dependency and reducing long-term market resilience, where this is inconsistent with the UK’s national security interests, or undermining the Government’s wider objectives relating to national security.",
+      "ordinal": 48,
+      "heading_path": [
+        "Introduction",
+        "Shipbuilding, steel, AI and energy infrastructure are critical to national security",
+        "Action 2: Engage early with the relevant Sector Lead to ensure your commercial approach will protect the UK’s national security interests."
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "p",
+      "text": "23. In order to support organisations with decision making, Cabinet Office is coordinating peer-led reviews to offer expertise during the planning and commercial strategy setting phase. For example, support will be available for teams to test ideas and strategies and provide feedback and expert views on the viability and approaches.",
+      "ordinal": 49,
+      "heading_path": [
+        "Introduction",
+        "Shipbuilding, steel, AI and energy infrastructure are critical to national security",
+        "Action 2: Engage early with the relevant Sector Lead to ensure your commercial approach will protect the UK’s national security interests."
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00050",
+      "block_type": "heading",
+      "text": "Action 3: Deploy the national security exemption in the Procurement Act 2023 where appropriate and justified in a relevant procurement.",
+      "ordinal": 50,
+      "heading_path": [
+        "Introduction",
+        "Shipbuilding, steel, AI and energy infrastructure are critical to national security",
+        "Action 3: Deploy the national security exemption in the Procurement Act 2023 where appropriate and justified in a relevant procurement."
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00051",
+      "block_type": "p",
+      "text": "24. Under the Procurement Act 2023, an “exempted contract” is a type of contract listed in Schedule 2 to the Act to which the rules on covered procurement do not apply. The exemptions ensure that contracting authorities have the freedom to carry out the most appropriate procurement where the rules in the Act would otherwise be inappropriate or unsuitable. Exempted contracts are not required to be procured in line with the provisions of the Act that relate to covered procurement. Exempted contracts are, however, still bound by the provisions of the Act that relate to “procurement”. This includes, for example, the duty not to discriminate against a treaty state supplier (section 90(1) of the Act).",
+      "ordinal": 51,
+      "heading_path": [
+        "Introduction",
+        "Shipbuilding, steel, AI and energy infrastructure are critical to national security",
+        "Action 3: Deploy the national security exemption in the Procurement Act 2023 where appropriate and justified in a relevant procurement."
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00052",
+      "block_type": "p",
+      "text": "25. The exemption at paragraph 25 of Schedule 2 applies to contracts that a contracting authority considers should not be subject to all or part of the Act, in the interests of national security.",
+      "ordinal": 52,
+      "heading_path": [
+        "Introduction",
+        "Shipbuilding, steel, AI and energy infrastructure are critical to national security",
+        "Action 3: Deploy the national security exemption in the Procurement Act 2023 where appropriate and justified in a relevant procurement."
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00053",
+      "block_type": "p",
+      "text": "26. The national security exemption is available to all contracting authorities. National security is not defined in the Act to ensure that it is sufficiently flexible to protect the UK’s national security interests. Neither does this guidance define national security. However, contracting authorities should recognise the concept has evolved beyond national defence, intelligence and counterintelligence. It may include dimensions such as maintenance of public order, economic security, foreign relations, and environmental security. It also includes short-term and long-term considerations, such as those arising in a crisis and/or continuous challenges which gradually erode our national security.",
+      "ordinal": 53,
+      "heading_path": [
+        "Introduction",
+        "Shipbuilding, steel, AI and energy infrastructure are critical to national security",
+        "Action 3: Deploy the national security exemption in the Procurement Act 2023 where appropriate and justified in a relevant procurement."
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00054",
+      "block_type": "p",
+      "text": "27. A decision to apply the exemption can only be made on a case by case basis in the interests of national security. Other interests are irrelevant. For example, a contracting authority cannot use the exemption to secure economic benefits for itself. That does not mean national security cannot have an important economic dimension, as it could be understood as the protection of infrastructure and activities that are critical for the functioning or stability of the economy or financial system or to the safety and soundness of financial institutions. So, it may be in the interests of national security to protect such economic infrastructure and activities, but not to secure an economic advantage for the authority.",
+      "ordinal": 54,
+      "heading_path": [
+        "Introduction",
+        "Shipbuilding, steel, AI and energy infrastructure are critical to national security",
+        "Action 3: Deploy the national security exemption in the Procurement Act 2023 where appropriate and justified in a relevant procurement."
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00055",
+      "block_type": "p",
+      "text": "28. Where there is a clear and evidence-based national security rationale for the use of the exemption in a particular procurement, in-scope organisations should consider whether failure to use it could expose the Government to avoidable strategic, operational, or supply chain risks. In some circumstances, an overly narrow interpretation of value for money focused solely on short-term cost or operational preference may fail to account for wider resilience, security, continuity, and long-term market sustainability considerations, potentially exposing the UK’s national security interests to unacceptable risk. Organisations should therefore consider value for money in the round, including the protection of critical capability, resilience outcomes, and the long-term costs associated with strategic dependency or market failure.",
+      "ordinal": 55,
+      "heading_path": [
+        "Introduction",
+        "Shipbuilding, steel, AI and energy infrastructure are critical to national security",
+        "Action 3: Deploy the national security exemption in the Procurement Act 2023 where appropriate and justified in a relevant procurement."
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00056",
+      "block_type": "p",
+      "text": "29. Although the Act’s national security exemption is a standalone basis for a contract to be an exempted contract, it must be applied in a manner that is consistent with the UK’s trade agreements. Therefore, when considering applying the Act’s exemption, in-scope organisations should consider how the procurement relates to the UK’s trade agreements and satisfy themselves that the exemption can be applied consistently with any relevant agreement. Trade agreements contain various exceptions including on national security. In order to rely on national security exceptions in trade agreements, in-scope organisations will need to identify the relevant national security interest and satisfy the requirements of the exception in question. More information on exceptions in trade agreements is contained in Annex C.",
+      "ordinal": 56,
+      "heading_path": [
+        "Introduction",
+        "Shipbuilding, steel, AI and energy infrastructure are critical to national security",
+        "Action 3: Deploy the national security exemption in the Procurement Act 2023 where appropriate and justified in a relevant procurement."
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00057",
+      "block_type": "p",
+      "text": "30. Exceptions may differ depending on which trade agreement(s) cover the relevant procurement. To mitigate legal risks, legal advice should be sought throughout the process. In-scope organisations should keep a written record of their rationale for using the exemption. They should explain and justify the national security interests and the actions taken in the context of those interests and any relevant international trade agreement considerations. This explanation should be a record of what was decided when the decision was made.",
+      "ordinal": 57,
+      "heading_path": [
+        "Introduction",
+        "Shipbuilding, steel, AI and energy infrastructure are critical to national security",
+        "Action 3: Deploy the national security exemption in the Procurement Act 2023 where appropriate and justified in a relevant procurement."
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00058",
+      "block_type": "p",
+      "text": "31. When applying the national security exemption, contracting authorities should still check the debarment list.",
+      "ordinal": 58,
+      "heading_path": [
+        "Introduction",
+        "Shipbuilding, steel, AI and energy infrastructure are critical to national security",
+        "Action 3: Deploy the national security exemption in the Procurement Act 2023 where appropriate and justified in a relevant procurement."
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00059",
+      "block_type": "p",
+      "text": "32. Annex B provides a summary of the steps for in-scope organisations to follow when considering national security in procurement.",
+      "ordinal": 59,
+      "heading_path": [
+        "Introduction",
+        "Shipbuilding, steel, AI and energy infrastructure are critical to national security",
+        "Action 3: Deploy the national security exemption in the Procurement Act 2023 where appropriate and justified in a relevant procurement."
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00060",
+      "block_type": "heading",
+      "text": "Annex A: Sector-specific requirements for relevant procurements",
+      "ordinal": 60,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Sector-specific requirements for relevant procurements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00061",
+      "block_type": "p",
+      "text": "The sector-specific requirements for procurement (within the meaning of the Act) that should be considered relevant procurements under the guidance are as follows:",
+      "ordinal": 61,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Sector-specific requirements for relevant procurements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00062",
+      "block_type": "p",
+      "text": "1. Steel",
+      "ordinal": 62,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Sector-specific requirements for relevant procurements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00063",
+      "block_type": "p",
+      "text": "a. All procurements with a value of £10 million or more; or",
+      "ordinal": 63,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Sector-specific requirements for relevant procurements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00064",
+      "block_type": "p",
+      "text": "b. All procurements where it is anticipated that the project will require in excess of 500 tonnes of steel.",
+      "ordinal": 64,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Sector-specific requirements for relevant procurements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00065",
+      "block_type": "p",
+      "text": "2. Shipbuilding:",
+      "ordinal": 65,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Sector-specific requirements for relevant procurements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00066",
+      "block_type": "p",
+      "text": "a. All procurements for shipbuilding of over £1 million related to:",
+      "ordinal": 66,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Sector-specific requirements for relevant procurements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00067",
+      "block_type": "p",
+      "text": "i. Shipbuilding and maritime technology, covering the multidisciplinary field concerned with the research and development, design, construction, integration, test and evaluation, operation, maintenance, and refurbishment of ships, boats, barges and other marine systems, along with the technologies and services that support maritime operations.",
+      "ordinal": 67,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Sector-specific requirements for relevant procurements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00068",
+      "block_type": "p",
+      "text": "ii. Maritime technology includes the equipment, systems, and innovations used for safe, efficient, and sustainable operations in the marine environment; and shipbuilding focuses on the engineering and construction of vessels, from initial design to final delivery, subsequent repair and sustainment through to disposal.",
+      "ordinal": 68,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Sector-specific requirements for relevant procurements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00069",
+      "block_type": "p",
+      "text": "iii. It also encompasses technologies and skills in naval architecture, ship design, marine engineering, autonomy, digitalisation, data analytics, and artificial intelligence and their application covering a comprehensive range of surface vessels.",
+      "ordinal": 69,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Sector-specific requirements for relevant procurements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00070",
+      "block_type": "p",
+      "text": "b. Contracting authorities are also encouraged to engage with the National Shipbuilding Office (NSO) for contracts lower than £1 million.",
+      "ordinal": 70,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Sector-specific requirements for relevant procurements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00071",
+      "block_type": "p",
+      "text": "3. Artificial Intelligence (AI):",
+      "ordinal": 71,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Sector-specific requirements for relevant procurements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00072",
+      "block_type": "p",
+      "text": "a. Procurements substantially related to AI in the following subcategories, with a value of £5 million or more; or",
+      "ordinal": 72,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Sector-specific requirements for relevant procurements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00073",
+      "block_type": "p",
+      "text": "b. Procurements in which an element (or elements) of the overall requirement, for which the value is £5m or more, pertains to the following subcategories:",
+      "ordinal": 73,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Sector-specific requirements for relevant procurements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00074",
+      "block_type": "p",
+      "text": "i. AI hardware — The physical equipment (chips, data centres, networking, power, cooling) that trains and runs AI models and services.",
+      "ordinal": 74,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Sector-specific requirements for relevant procurements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00075",
+      "block_type": "p",
+      "text": "ii. AI related to Critical National Infrastructure — AI embedded in essential national services (energy, water, transport, finance, health), where failure could cause serious harm.",
+      "ordinal": 75,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Sector-specific requirements for relevant procurements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00076",
+      "block_type": "p",
+      "text": "iii. AI involving sensitive or personal information — AI tools or services processing data like health, financial, or biometric records, where misuse could cause harm.\n10. Values should include estimates of fragmented or consumption-based spend over the procured contract’s expected life.",
+      "ordinal": 76,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Sector-specific requirements for relevant procurements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00077",
+      "block_type": "p",
+      "text": "4. Energy Infrastructure:",
+      "ordinal": 77,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Sector-specific requirements for relevant procurements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00078",
+      "block_type": "p",
+      "text": "a. Procurements in the following sub-sectors",
+      "ordinal": 78,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Sector-specific requirements for relevant procurements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00079",
+      "block_type": "p",
+      "text": "i. Electrical equipment - including but not limited to cables, protection and control system (including software), transformers, switchgear, and other substation subcomponents.",
+      "ordinal": 79,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Sector-specific requirements for relevant procurements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00080",
+      "block_type": "p",
+      "text": "ii. Other energy infrastructure such as generation assets, including but not limited to offshore wind infrastructure, nuclear infrastructure, solar, CCUS, hydrogen and heat pumps, as defined by the Sector Lead on a case by case basis.",
+      "ordinal": 80,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Sector-specific requirements for relevant procurements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00081",
+      "block_type": "p",
+      "text": "These requirements may be updated by each Sector Lead as their assessment of the market and the procurement pipeline develops.",
+      "ordinal": 81,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Sector-specific requirements for relevant procurements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00082",
+      "block_type": "heading",
+      "text": "Annex B: Steps to considering national security in procurement",
+      "ordinal": 82,
+      "heading_path": [
+        "Introduction",
+        "Annex B: Steps to considering national security in procurement"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00083",
+      "block_type": "heading",
+      "text": "Planning and preparation",
+      "ordinal": 83,
+      "heading_path": [
+        "Introduction",
+        "Annex B: Steps to considering national security in procurement",
+        "Planning and preparation"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00084",
+      "block_type": "table",
+      "text": "Step\tRecommended step\tKey Considerations\n1\tConsider the pipeline of procurements and identify any within the four sectors - shipbuilding, steel, AI and energy infrastructure.\tCheck the guidance for specific thresholds and details of types of contract, in particular the sector-specific requirements set out in Annex A.\n2\tIf relevant procurements are identified, contact the Sector Lead.\tSector Leads are keen to engage and will be able to offer advice. If organisations are unsure of whether procurement is a relevant procurement, Sector Leads can assist.\n3\tConduct market analysis and begin developing commercial strategy as per usual step in the commercial lifecycle.\tIt is essential to understand market dynamics, limitations of the market (e.g. single source supply) and capacity. The Sector Leads can assist with this.",
+      "ordinal": 84,
+      "heading_path": [
+        "Introduction",
+        "Annex B: Steps to considering national security in procurement",
+        "Planning and preparation"
+      ],
+      "source_locator": "details.body",
+      "metadata": {
+        "rows": [
+          [
+            "Step",
+            "Recommended step",
+            "Key Considerations"
+          ],
+          [
+            "1",
+            "Consider the pipeline of procurements and identify any within the four sectors - shipbuilding, steel, AI and energy infrastructure.",
+            "Check the guidance for specific thresholds and details of types of contract, in particular the sector-specific requirements set out in Annex A."
+          ],
+          [
+            "2",
+            "If relevant procurements are identified, contact the Sector Lead.",
+            "Sector Leads are keen to engage and will be able to offer advice. If organisations are unsure of whether procurement is a relevant procurement, Sector Leads can assist."
+          ],
+          [
+            "3",
+            "Conduct market analysis and begin developing commercial strategy as per usual step in the commercial lifecycle.",
+            "It is essential to understand market dynamics, limitations of the market (e.g. single source supply) and capacity. The Sector Leads can assist with this."
+          ]
+        ],
+        "row_count": 4
+      }
+    },
+    {
+      "block_id": "b00085",
+      "block_type": "heading",
+      "text": "Assessing procurement strategies",
+      "ordinal": 85,
+      "heading_path": [
+        "Introduction",
+        "Annex B: Steps to considering national security in procurement",
+        "Assessing procurement strategies"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00086",
+      "block_type": "table",
+      "text": "Step\tRecommended step\tKey Considerations\n4\tIdentify national security risks and impacts and build an evidence base.\tEach individual procurement should be assessed on a case by case basis, using the guidance. National security could include dimensions such as maintenance of public order, economic security, foreign relations, and environmental security.\n5\tConfirm whether procurement is “covered procurement” under the Act - for example, is it over the applicable Schedule 1 threshold or is it potentially subject to other exemptions from the Act.\tConsider exemptions in Schedule 2 of the Act and thresholds e.g. research and development exemption; special regime defence and security contracts. Whether procurement is “covered procurement” or not does not determine whether in-scope organisations should be engaging with Sector Leads (the procurement requirements of which are set out in Annex A), but may feed into commercial strategy.\n6\tDevelop commercial strategy based on options analysis and national security risks identified.\tConsider options for approach based on information gathered including national security risk profile and market analysis. There may be alternative options available more suited to the procurement - e.g. use of social value criteria to boost jobs and industry; application of other exemptions in the Act. At this stage, organisations could test options and strategy with commercial experts in Cabinet Office.",
+      "ordinal": 86,
+      "heading_path": [
+        "Introduction",
+        "Annex B: Steps to considering national security in procurement",
+        "Assessing procurement strategies"
+      ],
+      "source_locator": "details.body",
+      "metadata": {
+        "rows": [
+          [
+            "Step",
+            "Recommended step",
+            "Key Considerations"
+          ],
+          [
+            "4",
+            "Identify national security risks and impacts and build an evidence base.",
+            "Each individual procurement should be assessed on a case by case basis, using the guidance. National security could include dimensions such as maintenance of public order, economic security, foreign relations, and environmental security."
+          ],
+          [
+            "5",
+            "Confirm whether procurement is “covered procurement” under the Act - for example, is it over the applicable Schedule 1 threshold or is it potentially subject to other exemptions from the Act.",
+            "Consider exemptions in Schedule 2 of the Act and thresholds e.g. research and development exemption; special regime defence and security contracts. Whether procurement is “covered procurement” or not does not determine whether in-scope organisations should be engaging with Sector Leads (the procurement requirements of which are set out in Annex A), but may feed into commercial strategy."
+          ],
+          [
+            "6",
+            "Develop commercial strategy based on options analysis and national security risks identified.",
+            "Consider options for approach based on information gathered including national security risk profile and market analysis. There may be alternative options available more suited to the procurement - e.g. use of social value criteria to boost jobs and industry; application of other exemptions in the Act. At this stage, organisations could test options and strategy with commercial experts in Cabinet Office."
+          ]
+        ],
+        "row_count": 4
+      }
+    },
+    {
+      "block_id": "b00087",
+      "block_type": "heading",
+      "text": "Building evidence and justification for deploying exemption",
+      "ordinal": 87,
+      "heading_path": [
+        "Introduction",
+        "Annex B: Steps to considering national security in procurement",
+        "Building evidence and justification for deploying exemption"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00088",
+      "block_type": "table",
+      "text": "Step\tRecommended step\tKey Considerations\n7\tDetermine if use of national security exemption is supported by secure evidence and a robust justification. Assess the risk profile.\tIn-scope organisations will need to consider why, in the interests of national security, the Act, or parts of the Act should not apply to this procurement - this is building on a clear evidence base. Options for how national security risks can be addressed should be considered, for e.g. where justified procurement could restrict potential suppliers to UK based suppliers only, while still complying with other obligations under the Act. This will likely be a collective decision between commercial, legal and the project SRO. Any justification will be a sliding scale of risk - i.e. there is rarely a binary yes/no answer to this justification.\n8\tDetermine if procurement is covered by any trade agreements and, if so, whether use of national security exemption falls within identified exceptions to those trade agreements, supported by secure evidence and a robust justification.\tExempted contracts must still comply with obligations relevant to “procurement” under the Act (as distinct from obligations relevant to “covered procurement”). e.g. consider duty not to discriminate against a treaty state supplier in section 90(1) of the Act and whether application of a trade agreement exception impacts that duty where relevant trade agreements apply. Coverage of trade agreements varies and in-scope organisations will need to determine which, if any, agreements apply to the procurement on a case by case basis, although it is anticipated that the majority of relevant procurements within the critical sectors may be covered by one or more such trade agreements. Trade agreement exceptions also vary and whether the use of an exception is justifiable will also need to be determined on a case by case basis as per the individual agreement.",
+      "ordinal": 88,
+      "heading_path": [
+        "Introduction",
+        "Annex B: Steps to considering national security in procurement",
+        "Building evidence and justification for deploying exemption"
+      ],
+      "source_locator": "details.body",
+      "metadata": {
+        "rows": [
+          [
+            "Step",
+            "Recommended step",
+            "Key Considerations"
+          ],
+          [
+            "7",
+            "Determine if use of national security exemption is supported by secure evidence and a robust justification. Assess the risk profile.",
+            "In-scope organisations will need to consider why, in the interests of national security, the Act, or parts of the Act should not apply to this procurement - this is building on a clear evidence base. Options for how national security risks can be addressed should be considered, for e.g. where justified procurement could restrict potential suppliers to UK based suppliers only, while still complying with other obligations under the Act. This will likely be a collective decision between commercial, legal and the project SRO. Any justification will be a sliding scale of risk - i.e. there is rarely a binary yes/no answer to this justification."
+          ],
+          [
+            "8",
+            "Determine if procurement is covered by any trade agreements and, if so, whether use of national security exemption falls within identified exceptions to those trade agreements, supported by secure evidence and a robust justification.",
+            "Exempted contracts must still comply with obligations relevant to “procurement” under the Act (as distinct from obligations relevant to “covered procurement”). e.g. consider duty not to discriminate against a treaty state supplier in section 90(1) of the Act and whether application of a trade agreement exception impacts that duty where relevant trade agreements apply. Coverage of trade agreements varies and in-scope organisations will need to determine which, if any, agreements apply to the procurement on a case by case basis, although it is anticipated that the majority of relevant procurements within the critical sectors may be covered by one or more such trade agreements. Trade agreement exceptions also vary and whether the use of an exception is justifiable will also need to be determined on a case by case basis as per the individual agreement."
+          ]
+        ],
+        "row_count": 3
+      }
+    },
+    {
+      "block_id": "b00089",
+      "block_type": "heading",
+      "text": "Launch procurement",
+      "ordinal": 89,
+      "heading_path": [
+        "Introduction",
+        "Annex B: Steps to considering national security in procurement",
+        "Launch procurement"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00090",
+      "block_type": "table",
+      "text": "Step\tRecommended step\tKey Considerations\n9\tConsider legal advice and approach to launching any procurement.\tIf the national security exemption is applied, record final decision, whether in the interests of national security, the Act should be disapplied entirely or whether only part of the Act need be disapplied (identifying those parts), e.g. the transparency provisions, non-discrimination.",
+      "ordinal": 90,
+      "heading_path": [
+        "Introduction",
+        "Annex B: Steps to considering national security in procurement",
+        "Launch procurement"
+      ],
+      "source_locator": "details.body",
+      "metadata": {
+        "rows": [
+          [
+            "Step",
+            "Recommended step",
+            "Key Considerations"
+          ],
+          [
+            "9",
+            "Consider legal advice and approach to launching any procurement.",
+            "If the national security exemption is applied, record final decision, whether in the interests of national security, the Act should be disapplied entirely or whether only part of the Act need be disapplied (identifying those parts), e.g. the transparency provisions, non-discrimination."
+          ]
+        ],
+        "row_count": 2
+      }
+    },
+    {
+      "block_id": "b00091",
+      "block_type": "heading",
+      "text": "Annex C: Interactions with International Agreements",
+      "ordinal": 91,
+      "heading_path": [
+        "Introduction",
+        "Annex C: Interactions with International Agreements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00092",
+      "block_type": "p",
+      "text": "Although the Act’s national security exemption is a standalone basis for a contract to be an exempted contract, it must be applied in a manner that is consistent with the UK’s trade agreements. Therefore, when considering applying the Act’s exemption, in-scope organisations should consider how the procurement relates to the UK’s trade agreements and satisfy themselves that the exemption can be applied consistently with any relevant agreement. Trade agreements contain various exceptions including on national security. In order to rely on national security exceptions in trade agreements, in-scope organisations will need to identify the relevant national security interest and satisfy the requirements of the exception in question.",
+      "ordinal": 92,
+      "heading_path": [
+        "Introduction",
+        "Annex C: Interactions with International Agreements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00093",
+      "block_type": "p",
+      "text": "Exempted contracts are still bound by the provisions set out in section 90 of the Act relating to non-discrimination of treaty state suppliers where covered under a trade agreement and where suppliers from relevant trading partners have the benefit of any such agreement. Unless the contract has already been identified as being for the purchase of sensitive and warlike materials, it may be covered under one or more such trade agreements. For procurements covered by a trade agreement, suppliers from relevant trading partners are likely to have the benefit of the agreement unless an exception to the agreement applies.",
+      "ordinal": 93,
+      "heading_path": [
+        "Introduction",
+        "Annex C: Interactions with International Agreements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00094",
+      "block_type": "p",
+      "text": "In-scope organisations may be able to rely on a general exception to those agreements even if a contract would otherwise be covered. For example, Article III.2 of the GPA includes general exceptions for measures necessary to protect order, safety, and human, animal, or plant life or health. This also states that these exceptions must not be applied as a means of arbitrary or unjustifiable discrimination or as a disguised restriction on international trade.",
+      "ordinal": 94,
+      "heading_path": [
+        "Introduction",
+        "Annex C: Interactions with International Agreements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00095",
+      "block_type": "p",
+      "text": "In-scope organisations may also be able to rely on national security exceptions to trade agreements. For example, Article III.1 of the GPA includes national security exceptions which, amongst other things, allows for action which is necessary to protect essential security interests relating to procurement indispensable for national security or national defence purposes. To rely on this exception, there must be a clearly articulated essential security interest [footnote 3] , any action must be necessary to protect the identified essential security interest and must relate to procurement indispensable for national security. Action is likely to be necessary only where less trade restrictive measures have been considered first and discounted.",
+      "ordinal": 95,
+      "heading_path": [
+        "Introduction",
+        "Annex C: Interactions with International Agreements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00096",
+      "block_type": "p",
+      "text": "Exceptions may differ depending on which trade agreement(s) cover the relevant procurement. To mitigate legal risks, legal advice should be sought throughout the process. In-scope organisations should keep a written record of their rationale for using the exemption. They should explain and justify the national security interests and the actions taken in the context of those interests and any relevant international trade agreement considerations. This explanation needs to be a record of what was decided when the decision was made.",
+      "ordinal": 96,
+      "heading_path": [
+        "Introduction",
+        "Annex C: Interactions with International Agreements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00097",
+      "block_type": "li",
+      "text": "National Security Strategy 2025: Security for the British People in a Dangerous World ↩",
+      "ordinal": 97,
+      "heading_path": [
+        "Introduction",
+        "Annex C: Interactions with International Agreements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00098",
+      "block_type": "p",
+      "text": "National Security Strategy 2025: Security for the British People in a Dangerous World ↩",
+      "ordinal": 98,
+      "heading_path": [
+        "Introduction",
+        "Annex C: Interactions with International Agreements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00099",
+      "block_type": "li",
+      "text": "Note: certain sector requirements in Annex A include both public contracts and below-threshold contracts under the Act. In-scope organisations should apply this guidance in procurements for both types of contracts in a similar manner, including consideration of international trade agreements, specifically the Trade Continuity Agreement with respect to UK-based EU suppliers. ↩",
+      "ordinal": 99,
+      "heading_path": [
+        "Introduction",
+        "Annex C: Interactions with International Agreements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00100",
+      "block_type": "p",
+      "text": "Note: certain sector requirements in Annex A include both public contracts and below-threshold contracts under the Act. In-scope organisations should apply this guidance in procurements for both types of contracts in a similar manner, including consideration of international trade agreements, specifically the Trade Continuity Agreement with respect to UK-based EU suppliers. ↩",
+      "ordinal": 100,
+      "heading_path": [
+        "Introduction",
+        "Annex C: Interactions with International Agreements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00101",
+      "block_type": "li",
+      "text": "Essential security interests in this context are generally considered to be “quintessential functions of the state” such as protection of territory and population against external threats and maintenance of public order internally. This requires careful consideration on a case by case basis in relation to each relevant procurement, informed by the factors referenced in this guidance. ↩",
+      "ordinal": 101,
+      "heading_path": [
+        "Introduction",
+        "Annex C: Interactions with International Agreements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00102",
+      "block_type": "p",
+      "text": "Essential security interests in this context are generally considered to be “quintessential functions of the state” such as protection of territory and population against external threats and maintenance of public order internally. This requires careful consideration on a case by case basis in relation to each relevant procurement, informed by the factors referenced in this guidance. ↩",
+      "ordinal": 102,
+      "heading_path": [
+        "Introduction",
+        "Annex C: Interactions with International Agreements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "[footnote 1]",
+      "href": "https://www.gov.uk/government/publications/ppn-025-protecting-the-uks-national-security-through-public-procurement/guidance-to-procurement-policy-note-025-protecting-the-uks-national-security-through-public-procurement-html#fn:1",
+      "block_id": "b00001",
+      "ordinal": 0,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 2]",
+      "href": "https://www.gov.uk/government/publications/ppn-025-protecting-the-uks-national-security-through-public-procurement/guidance-to-procurement-policy-note-025-protecting-the-uks-national-security-through-public-procurement-html#fn:2",
+      "block_id": "b00033",
+      "ordinal": 1,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "nso-commercialandpipeline@mod.gov.uk",
+      "href": "mailto:nso-commercialandpipeline@mod.gov.uk",
+      "block_id": "b00038",
+      "ordinal": 2,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "steelstrategy@businessandtrade.gov.uk",
+      "href": "mailto:steelstrategy@businessandtrade.gov.uk",
+      "block_id": "b00040",
+      "ordinal": 3,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "CommercialDir@dsit.gov.uk",
+      "href": "mailto:CommercialDir@dsit.gov.uk",
+      "block_id": "b00042",
+      "ordinal": 4,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "EnergyInfrastructureSectorLead@energysecurity.gov.uk",
+      "href": "mailto:EnergyInfrastructureSectorLead@energysecurity.gov.uk",
+      "block_id": "b00044",
+      "ordinal": 5,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "[footnote 3]",
+      "href": "https://www.gov.uk/government/publications/ppn-025-protecting-the-uks-national-security-through-public-procurement/guidance-to-procurement-policy-note-025-protecting-the-uks-national-security-through-public-procurement-html#fn:3",
+      "block_id": "b00095",
+      "ordinal": 6,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-025-protecting-the-uks-national-security-through-public-procurement/guidance-to-procurement-policy-note-025-protecting-the-uks-national-security-through-public-procurement-html#fnref:1",
+      "block_id": "b00097",
+      "ordinal": 7,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-025-protecting-the-uks-national-security-through-public-procurement/guidance-to-procurement-policy-note-025-protecting-the-uks-national-security-through-public-procurement-html#fnref:1",
+      "block_id": "b00098",
+      "ordinal": 8,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-025-protecting-the-uks-national-security-through-public-procurement/guidance-to-procurement-policy-note-025-protecting-the-uks-national-security-through-public-procurement-html#fnref:2",
+      "block_id": "b00099",
+      "ordinal": 9,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-025-protecting-the-uks-national-security-through-public-procurement/guidance-to-procurement-policy-note-025-protecting-the-uks-national-security-through-public-procurement-html#fnref:2",
+      "block_id": "b00100",
+      "ordinal": 10,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-025-protecting-the-uks-national-security-through-public-procurement/guidance-to-procurement-policy-note-025-protecting-the-uks-national-security-through-public-procurement-html#fnref:3",
+      "block_id": "b00101",
+      "ordinal": 11,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-025-protecting-the-uks-national-security-through-public-procurement/guidance-to-procurement-policy-note-025-protecting-the-uks-national-security-through-public-procurement-html#fnref:3",
+      "block_id": "b00102",
+      "ordinal": 12,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Guidance to Procurement Policy Note 025 Protecting the UK’s national security through public procurement (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-025-protecting-the-uks-national-security-through-public-procurement/guidance-to-procurement-policy-note-025-protecting-the-uks-national-security-through-public-procurement-html",
+      "block_id": "__document__",
+      "ordinal": 13,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2024 to 2026 Starmer Labour government",
+      "href": "https://www.gov.uk/government/2024-starmer-labour-government",
+      "block_id": "__document__",
+      "ordinal": 14,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 15,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "PPN 025: Protecting the UK’s national security through public procurement",
+      "href": "https://www.gov.uk/government/publications/ppn-025-protecting-the-uks-national-security-through-public-procurement",
+      "block_id": "__document__",
+      "ordinal": 16,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 17,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 2",
+      "block_id": "b00009",
+      "start": 103,
+      "end": 113,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "2"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 2",
+      "block_id": "b00011",
+      "start": 175,
+      "end": 184,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "2"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 1",
+      "block_id": "b00011",
+      "start": 306,
+      "end": 315,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 2",
+      "block_id": "b00020",
+      "start": 401,
+      "end": 411,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "2"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 90(1)",
+      "block_id": "b00051",
+      "start": 678,
+      "end": 691,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "90",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 2",
+      "block_id": "b00051",
+      "start": 91,
+      "end": 101,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "2"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 2",
+      "block_id": "b00052",
+      "start": 37,
+      "end": 47,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "2"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 25",
+      "block_id": "b00052",
+      "start": 21,
+      "end": 33,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "25"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 1",
+      "block_id": "b00086",
+      "start": 464,
+      "end": 474,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 2",
+      "block_id": "b00086",
+      "start": 571,
+      "end": 581,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "2"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 90(1)",
+      "block_id": "b00088",
+      "start": 1293,
+      "end": 1306,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "90",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 90",
+      "block_id": "b00093",
+      "start": 64,
+      "end": 74,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "90"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

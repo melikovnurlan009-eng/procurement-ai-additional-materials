@@ -1,0 +1,144 @@
+{
+  "document_id": "685980e1-3cba-43ba-a6d4-2ccbdae7dd79",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/122671789bb4edb7ee37f3df.json",
+  "input_sha256": "8378f7b8a1f141807ca8acd5cd0ebc0798f8d599f47d90dab43d3a4c97b29d41",
+  "processed_at": "2026-08-27T02:26:04.920390+00:00",
+  "title": "Procurement Policy Note 10/21 – Thresholds and Inclusion of VAT",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-policy-note-0921-thresholds-and-inclusion-of-vat",
+  "description": "This note provides the new threshold values for the Public Contracts Regulations and sets out a change for estimating contract values to be inclusive of VAT.",
+  "publication_date": "2021-12-06T14:27:00+00:00",
+  "updated_date": "2021-12-06T14:27:00+00:00",
+  "source_metadata": {
+    "content_id": "685980e1-3cba-43ba-a6d4-2ccbdae7dd79",
+    "base_path": "/government/publications/procurement-policy-note-0921-thresholds-and-inclusion-of-vat",
+    "document_type": "guidance",
+    "schema_name": "publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "This PPN provides advanced notification of the new threshold values to apply for the purposes of the Public Contracts Regulations 2015, Utilities Contracts Regulations 2016, Concession Contracts Regulations 2016 and the Defence and Security Public Contracts Regulations 2011. This PPN also sets out a change to the methodology for estimating contract values to be inclusive of VAT for the purposes of applying the thresholds. This does not require a change to the publication of procurement notices.",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "Procurement Policy Note 10/21 – Thresholds and Inclusion of VAT",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0921-thresholds-and-inclusion-of-vat",
+      "block_id": "__document__",
+      "ordinal": 0,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "Procurement policy notes",
+      "href": "https://www.gov.uk/government/collections/procurement-policy-notes",
+      "block_id": "__document__",
+      "ordinal": 1,
+      "link_type": "GOVUK_DOCUMENT_COLLECTIONS"
+    },
+    {
+      "text": "2019 to 2022 Johnson Conservative government",
+      "href": "https://www.gov.uk/government/2019-to-2022-johnson-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_ORIGINAL_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Government",
+      "href": "https://www.gov.uk/government/all",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_TAXONS"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015",
+      "block_id": "b00000",
+      "start": 118,
+      "end": 134,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2016",
+      "block_id": "b00000",
+      "start": 156,
+      "end": 172,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2016"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2016",
+      "block_id": "b00000",
+      "start": 195,
+      "end": 211,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2016"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2011",
+      "block_id": "b00000",
+      "start": 258,
+      "end": 274,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2011"
+      }
+    }
+  ],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/61bc7451d3bf7f05570654ba/Procurement_Policy_Note_10_21_-_New_Thresholds_Values_and_Inclusion_of_VAT_in_Contract_Estimates.pdf",
+      "title": "Procurement Policy Note 10/21 – Thresholds and Inclusion of VAT",
+      "content_type": "application/pdf",
+      "filename": "Procurement_Policy_Note_10_21_-_New_Thresholds_Values_and_Inclusion_of_VAT_in_Contract_Estimates.pdf",
+      "id": "6250305",
+      "logical_role": "ATTACHMENT"
+    }
+  ],
+  "warnings": []
+}

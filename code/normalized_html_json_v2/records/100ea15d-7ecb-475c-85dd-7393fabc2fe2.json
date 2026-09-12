@@ -1,0 +1,139 @@
+{
+  "document_id": "100ea15d-7ecb-475c-85dd-7393fabc2fe2",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/26d4eb5dc6401f23ee7dcfdc.json",
+  "input_sha256": "192074cde81b8821092e769fe1ddc01efef800f8ecdb64664ca629d9ba99ee08",
+  "processed_at": "2026-08-27T02:26:08.628640+00:00",
+  "title": "Procurement Policy Note 16/15: procuring steel in major projects",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-policy-note-1615-procuring-steel-in-major-projects",
+  "description": "This procurement policy note is now out of date.",
+  "publication_date": "2015-11-03T15:27:00+00:00",
+  "updated_date": "2015-12-14T09:37:34+00:00",
+  "source_metadata": {
+    "content_id": "100ea15d-7ecb-475c-85dd-7393fabc2fe2",
+    "base_path": "/government/publications/procurement-policy-note-1615-procuring-steel-in-major-projects",
+    "document_type": "guidance",
+    "schema_name": "publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "This note has been replaced by procurement policy note 11/16: procuring steel in major projects - revised guidance .",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "This note on purchasing steel applied to all central government departments, including their executive agencies and non-departmental public bodies. All other contracting authorities in the wider public sector were strongly encouraged to adopt this approach.",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "It applied to infrastructure, construction or other major procurement projects with a significant steel component, where the overall project requirement has a capital value of £10 million or more.",
+      "ordinal": 2,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "procurement policy note 11/16: procuring steel in major projects - revised guidance",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-1116-procuring-steel-in-major-projects-revised-guidance",
+      "block_id": "b00000",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement Policy Note 16/15: procuring steel in major projects",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-1615-procuring-steel-in-major-projects",
+      "block_id": "__document__",
+      "ordinal": 1,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "Procurement policy notes",
+      "href": "https://www.gov.uk/government/collections/procurement-policy-notes",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_DOCUMENT_COLLECTIONS"
+    },
+    {
+      "text": "2015 to 2016 Cameron Conservative government",
+      "href": "https://www.gov.uk/government/2015-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Crown Commercial Service",
+      "href": "https://www.gov.uk/government/organisations/crown-commercial-service",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Crown Commercial Service",
+      "href": "https://www.gov.uk/government/organisations/crown-commercial-service",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_ORIGINAL_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Crown Commercial Service",
+      "href": "https://www.gov.uk/government/organisations/crown-commercial-service",
+      "block_id": "__document__",
+      "ordinal": 7,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Government spending",
+      "href": "https://www.gov.uk/government/government-spending",
+      "block_id": "__document__",
+      "ordinal": 8,
+      "link_type": "GOVUK_TAXONS"
+    }
+  ],
+  "legal_references": [],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/5a759d3fed915d6faf2b459a/PPN_16-15_Procuring_steel_in_major_projects.pdf",
+      "title": "Procurement Policy Note: procuring steel in major projects",
+      "content_type": "application/pdf",
+      "filename": "PPN_16-15_Procuring_steel_in_major_projects.pdf",
+      "id": "1859531",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/5a755a16ed915d7314959494/Social_guidance_supporting_PPN1615_.pdf",
+      "title": "Steel procurement in major projects: guidance on the application of social issues",
+      "content_type": "application/pdf",
+      "filename": "Social_guidance_supporting_PPN1615_.pdf",
+      "id": "1859532",
+      "logical_role": "ATTACHMENT"
+    }
+  ],
+  "warnings": []
+}

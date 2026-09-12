@@ -1,0 +1,722 @@
+{
+  "document_id": "52b4bf0f-00c2-48a1-acdf-055e927c944b",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/2158694c31625b4f9d38f5ce.json",
+  "input_sha256": "8231776cc2cd87d40fceb57f50dac4ddad30d0245742e2179b1fb68799ea4593",
+  "processed_at": "2026-08-27T02:26:07.344182+00:00",
+  "title": "Guidance: Covered Procurement definition (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-covered-procurement-definition-html",
+  "description": null,
+  "publication_date": "2024-05-24T15:08:32+01:00",
+  "updated_date": "2026-04-15T12:48:16+01:00",
+  "source_metadata": {
+    "content_id": "52b4bf0f-00c2-48a1-acdf-055e927c944b",
+    "base_path": "/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-covered-procurement-definition-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What is covered procurement?",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What is the legal framework that governs the definition of covered procurement?",
+      "ordinal": 6,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Key points and policy intent",
+      "ordinal": 12,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What other guidance is of particular relevance to this topic area?",
+      "ordinal": 22,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "What is covered procurement?",
+      "ordinal": 0,
+      "heading_path": [
+        "What is covered procurement?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "1. Covered procurement means the award, entry into and management of a public contract. A public contract is a contract entered into by a contracting authority with a value above the relevant threshold that is not exempted by Schedule 2 of the Procurement Act 2023 (Act) .",
+      "ordinal": 1,
+      "heading_path": [
+        "What is covered procurement?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "2. Having a defined term helps contracting authorities understand exactly what provisions apply to above threshold, non-exempted procurement. The Act also includes a wider definition of ‘procurement’, which means the award, entry into and management of a contract (i.e. public contracts and below-threshold and exempted contracts). That allows the Act to make some separate and limited provisions in relation to matters such as:",
+      "ordinal": 2,
+      "heading_path": [
+        "What is covered procurement?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "a. particular requirements for certain below-threshold procurements;",
+      "ordinal": 3,
+      "heading_path": [
+        "What is covered procurement?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "b. non-discrimination obligations with respect to treaty state suppliers to satisfy international obligations on public procurement that apply to below-threshold or exempted procurement; and",
+      "ordinal": 4,
+      "heading_path": [
+        "What is covered procurement?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "c. the duty to have regard to the national procurement policy statement at section 13 .",
+      "ordinal": 5,
+      "heading_path": [
+        "What is covered procurement?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "heading",
+      "text": "What is the legal framework that governs the definition of covered procurement?",
+      "ordinal": 6,
+      "heading_path": [
+        "What is covered procurement?",
+        "What is the legal framework that governs the definition of covered procurement?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "3. Section 1(1) defines ‘procurement’ and ‘covered procurement’; concepts which are referred to extensively in other sections of the Act.",
+      "ordinal": 7,
+      "heading_path": [
+        "What is covered procurement?",
+        "What is the legal framework that governs the definition of covered procurement?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "4. Section 1(2) makes clear that the term ‘procurement’ and by extension ‘covered procurement’ includes all steps taken in the contract award, and the management of a contract, up to and including expiry or termination of the contract.",
+      "ordinal": 8,
+      "heading_path": [
+        "What is covered procurement?",
+        "What is the legal framework that governs the definition of covered procurement?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "5. Sections 1(3) and (4) clarify that those concepts also apply to joint procurement and procurement by a centralised procurement authority.",
+      "ordinal": 9,
+      "heading_path": [
+        "What is covered procurement?",
+        "What is the legal framework that governs the definition of covered procurement?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "p",
+      "text": "6. Section 11(1) sets out that a covered procurement must be carried out in accordance with the Act.",
+      "ordinal": 10,
+      "heading_path": [
+        "What is covered procurement?",
+        "What is the legal framework that governs the definition of covered procurement?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "7. Section 11(2) sets out the different methods by which a contracting authority may award a public contract.",
+      "ordinal": 11,
+      "heading_path": [
+        "What is covered procurement?",
+        "What is the legal framework that governs the definition of covered procurement?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "heading",
+      "text": "Key points and policy intent",
+      "ordinal": 12,
+      "heading_path": [
+        "What is covered procurement?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "8. The term ‘covered procurement’ is defined in section 1 as “the entry into and management of a public contract” and ‘public contract’ is defined in section 3 . Contracting authorities will need to refer to that section for a complete definition but in summary it covers contracts for the supply, for pecuniary interest, of goods, services and works, frameworks and concession contracts that have a value above the relevant threshold and are not exempted. Frameworks and concession contracts are defined elsewhere in the Act.",
+      "ordinal": 13,
+      "heading_path": [
+        "What is covered procurement?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "9. The term ‘pecuniary interest’ has a more precise meaning than ‘consideration’ which could take any form. This is intended to capture contracts made with profit in mind. The Act does not intend to capture purely compensatory or supportive arrangements, such as grants or sponsorship arrangements as doing so might remove the flexibility for the Government to support schemes which are purely compensatory in nature or provide non-pecuniary support which helps foster the development of British businesses.",
+      "ordinal": 14,
+      "heading_path": [
+        "What is covered procurement?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "10. The Act allows contracting authorities to carry out procurements jointly with other contracting authorities and also to procure on behalf of themselves and other contracting authorities. It also provides for certain contracting authorities to act as ‘centralised procurement authorities’.",
+      "ordinal": 15,
+      "heading_path": [
+        "What is covered procurement?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "11. The term ‘centralised procurement authority’ is defined as a contracting authority that is in the business of carrying out procurement for or on behalf of other contracting authorities or for the purpose of the supply of goods, services or works to other contracting authorities. It could apply to any type of contracting authority, whether that be central government, local authorities or other types of contracting authority, as long as they are in the business of undertaking procurement or purchasing for other contracting authorities. It could be a single contracting authority or a consortium of contracting authorities acting as a centralised procurement authority.",
+      "ordinal": 16,
+      "heading_path": [
+        "What is covered procurement?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "12. ‘In the business of’ ensures that only contracting authorities that specialise in this activity rather than on an ad hoc basis can be centralised procurement authorities. This is important because contracting authorities can only lawfully delegate responsibility (and liability) for procurement to a centralised procurement authority. If two contracting authorities do a joint procurement, they are both responsible (and liable) for any contracts they award, whereas if a contracting authority procures via a centralised procurement authority, it delegates liability for the award of contracts by the centralised procurement authority, e.g. establishment of frameworks, but not for awards it makes itself under such an arrangement, e.g. call off contracts.",
+      "ordinal": 17,
+      "heading_path": [
+        "What is covered procurement?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "p",
+      "text": "13. Examples of centralised procurement authorities include the Crown Commercial Service and Yorkshire Purchasing Organisation, both of which specialise in setting up frameworks and procuring products and services for the public sector. The Crown Commercial Service is an executive agency of the Cabinet Office while the Yorkshire Purchasing Organisation is owned by thirteen local authorities and both have a large range of frameworks available to the wider public sector.",
+      "ordinal": 18,
+      "heading_path": [
+        "What is covered procurement?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "14. Section 11 obliges contracting authorities to carry out covered procurement solely in accordance with this Act. Specifically, contracting authorities must use the procedures in the Act for the award of public contracts, namely competitive tendering (including under a dynamic market), direct award and award under frameworks. This will ensure contracting authorities properly engage with the market where appropriate and achieve value for money.",
+      "ordinal": 19,
+      "heading_path": [
+        "What is covered procurement?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "p",
+      "text": "15. The Act requires contracting authorities to use a competitive tendering procedure for covered procurement - except in the limited circumstances where direct award is permitted or for awards under frameworks - which provides suppliers with the chance to bid for public contracts on a level playing field. The rules on how to write the technical specification for what the authority wishes to purchase, what information has to be published, how it will assess tenders and how it will award contracts are essential to maintaining this level playing field.",
+      "ordinal": 20,
+      "heading_path": [
+        "What is covered procurement?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "16. Section 11 will allow a supplier to hold a contracting authority conducting covered procurement to account, with remedies under Part 9 available where it can be demonstrated that a contracting authority failed to comply with one or more of the requirements in the Act (for example, direct award without proper justification, discriminatory technical specifications), and the supplier has consequently suffered, or is at risk of suffering, loss or damage.",
+      "ordinal": 21,
+      "heading_path": [
+        "What is covered procurement?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "heading",
+      "text": "What other guidance is of particular relevance to this topic area?",
+      "ordinal": 22,
+      "heading_path": [
+        "What is covered procurement?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "Guidance on exempted contracts",
+      "ordinal": 23,
+      "heading_path": [
+        "What is covered procurement?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "Guidance on thresholds",
+      "ordinal": 24,
+      "heading_path": [
+        "What is covered procurement?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "p",
+      "text": "Guidance on contracting authorities",
+      "ordinal": 25,
+      "heading_path": [
+        "What is covered procurement?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "p",
+      "text": "© Crown copyright 2024",
+      "ordinal": 26,
+      "heading_path": [
+        "What is covered procurement?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "p",
+      "text": "This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated. To view this licence, visit nationalarchives.gov.uk/doc/open-government-licence/version/3",
+      "ordinal": 27,
+      "heading_path": [
+        "What is covered procurement?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "Where we have identified any third-party copyright information you will need to obtain permission from the copyright holders concerned.",
+      "ordinal": 28,
+      "heading_path": [
+        "What is covered procurement?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "p",
+      "text": "This publication is available at www.gov.uk/government/publications",
+      "ordinal": 29,
+      "heading_path": [
+        "What is covered procurement?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "p",
+      "text": "Any enquiries regarding this publication should be sent to us at procurement.reform@cabinetoffice.gov.uk .",
+      "ordinal": 30,
+      "heading_path": [
+        "What is covered procurement?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "Schedule 2",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/2",
+      "block_id": "b00001",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement Act 2023 (Act)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/contents",
+      "block_id": "b00001",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 13",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/13",
+      "block_id": "b00005",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 1(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/1",
+      "block_id": "b00007",
+      "ordinal": 3,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 1(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/1",
+      "block_id": "b00008",
+      "ordinal": 4,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Sections 1(3) and (4)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/1",
+      "block_id": "b00009",
+      "ordinal": 5,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 11(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/11",
+      "block_id": "b00010",
+      "ordinal": 6,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 11(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/11",
+      "block_id": "b00011",
+      "ordinal": 7,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 1",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/1",
+      "block_id": "b00013",
+      "ordinal": 8,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 3",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/3",
+      "block_id": "b00013",
+      "ordinal": 9,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 11",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/11",
+      "block_id": "b00019",
+      "ordinal": 10,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 11",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/11",
+      "block_id": "b00021",
+      "ordinal": 11,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Part 9",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/part/9",
+      "block_id": "b00021",
+      "ordinal": 12,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "exempted contracts",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-exempted-contracts-html--2",
+      "block_id": "b00023",
+      "ordinal": 13,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "thresholds",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-thresholds-html",
+      "block_id": "b00024",
+      "ordinal": 14,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "contracting authorities",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-contracting-authority-definition-html",
+      "block_id": "b00025",
+      "ordinal": 15,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "nationalarchives.gov.uk/doc/open-government-licence/version/3",
+      "href": "http://nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "block_id": "b00027",
+      "ordinal": 16,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "www.gov.uk/government/publications",
+      "href": "http://www.gov.uk/government/publications",
+      "block_id": "b00029",
+      "ordinal": 17,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "procurement.reform@cabinetoffice.gov.uk",
+      "href": "mailto:procurement.reform@cabinetoffice.gov.uk",
+      "block_id": "b00030",
+      "ordinal": 18,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "Guidance: Covered Procurement definition (HTML)",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-covered-procurement-definition-html",
+      "block_id": "__document__",
+      "ordinal": 19,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2022 to 2024 Sunak Conservative government",
+      "href": "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 20,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 21,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Procurement Act 2023 guidance documents - Plan phase",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase",
+      "block_id": "__document__",
+      "ordinal": 22,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 23,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 2",
+      "block_id": "b00001",
+      "start": 226,
+      "end": 236,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "2"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 13",
+      "block_id": "b00005",
+      "start": 75,
+      "end": 85,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "13"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 1(1)",
+      "block_id": "b00007",
+      "start": 3,
+      "end": 15,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "1",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 1(2)",
+      "block_id": "b00008",
+      "start": 3,
+      "end": 15,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "1",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Sections 1(3)",
+      "block_id": "b00009",
+      "start": 3,
+      "end": 16,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "1",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 11(1)",
+      "block_id": "b00010",
+      "start": 3,
+      "end": 16,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "11",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 11(2)",
+      "block_id": "b00011",
+      "start": 3,
+      "end": 16,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "11",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 1",
+      "block_id": "b00013",
+      "start": 48,
+      "end": 57,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 3",
+      "block_id": "b00013",
+      "start": 150,
+      "end": 159,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "3"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 11",
+      "block_id": "b00019",
+      "start": 4,
+      "end": 14,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "11"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 11",
+      "block_id": "b00021",
+      "start": 4,
+      "end": 14,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "11"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

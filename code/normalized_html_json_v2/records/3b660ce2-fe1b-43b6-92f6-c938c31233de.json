@@ -1,0 +1,1754 @@
+{
+  "document_id": "3b660ce2-fe1b-43b6-92f6-c938c31233de",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/4e9fdf2e3da38bd74160a50e.json",
+  "input_sha256": "3b777e244af0445c366f8589c00f573f7aacc4e48c348381843d5d92852afa6f",
+  "processed_at": "2026-08-27T02:26:16.936756+00:00",
+  "title": "Guidance: Assessment Summaries (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-assessment-summaries-html",
+  "description": null,
+  "publication_date": "2024-08-02T12:31:39+01:00",
+  "updated_date": "2026-08-17T15:52:00+01:00",
+  "source_metadata": {
+    "content_id": "3b660ce2-fe1b-43b6-92f6-c938c31233de",
+    "base_path": "/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-assessment-summaries-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What is an assessment summary?",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What is the legal framework that governs the assessment summary?",
+      "ordinal": 4,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What has changed?",
+      "ordinal": 6,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Key points and policy intent",
+      "ordinal": 8,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Required assessment information",
+      "ordinal": 18,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Award criteria and assessment methodology ( regulation 31(2)(d) )",
+      "ordinal": 21,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Scores awarded and justification ( regulation 31(2)(e) )",
+      "ordinal": 25,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Consideration of sensitive information",
+      "ordinal": 37,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Other information that may apply to an unsuccessful tender ( regulation 31(3)(c) )",
+      "ordinal": 49,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Timing",
+      "ordinal": 53,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Lots, dynamic markets and frameworks",
+      "ordinal": 56,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What are the notices linked to this aspect of the Act?",
+      "ordinal": 62,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What other guidance is of particular relevance to this topic area?",
+      "ordinal": 64,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "What is an assessment summary?",
+      "ordinal": 0,
+      "heading_path": [
+        "What is an assessment summary?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "1. Under the Procurement Act 2023 (Act) , before entering into a public contract, a contracting authority must generally publish a contract award notice ( section 50(1) ) on the central digital platform. The contract award notice triggers the commencement of the mandatory standstill period.",
+      "ordinal": 1,
+      "heading_path": [
+        "What is an assessment summary?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "2. In addition, where a contracting authority has carried out a competitive tendering procedure under the Act, it must, prior to publishing the contract award notice, provide an ‘assessment summary’ which provides information to enable a relevant supplier to understand why its tender was either successful or unsuccessful.",
+      "ordinal": 2,
+      "heading_path": [
+        "What is an assessment summary?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "3. When awarding a contract following a competitive tendering procedure, a contracting authority must provide an assessment summary to each supplier that submitted an ‘assessed tender’ (see paragraph 10 below) and publish a contract award notice.",
+      "ordinal": 3,
+      "heading_path": [
+        "What is an assessment summary?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "heading",
+      "text": "What is the legal framework that governs the assessment summary?",
+      "ordinal": 4,
+      "heading_path": [
+        "What is an assessment summary?",
+        "What is the legal framework that governs the assessment summary?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "4. Section 50 (Contract award notices and assessment summaries) sets out the definition of, the requirement for, and timing of, the assessment summary. The provisions are relevant to public contracts and not other contracts and this guidance therefore relates to public contracts. The information that must be included in the assessment summary is set out in regulation 31 .",
+      "ordinal": 5,
+      "heading_path": [
+        "What is an assessment summary?",
+        "What is the legal framework that governs the assessment summary?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "heading",
+      "text": "What has changed?",
+      "ordinal": 6,
+      "heading_path": [
+        "What is an assessment summary?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "5. Assessment summaries broadly fulfil the same function as notices of a decision to award a contract (commonly referred to as ‘standstill letters’) in the previous legislation [footnote 1] but there are some important differences. Under the Act, it is the publication of the contract award notice that initiates the standstill period, rather than the issue of standstill letters to participating suppliers as under the previous legislation. Contracting authorities are not required to include in an assessment summary a direct comparison between the successful supplier’s assessed tender and an unsuccessful supplier’s assessed tender. The assessment summary provided to unsuccessful suppliers must, however, include a copy of the information provided to the successful supplier (redacted for confidentiality where required) explaining how its tender scored against each of the criteria. A supplier reading the two sets of information alongside each other will be able to ascertain the relative advantages.",
+      "ordinal": 7,
+      "heading_path": [
+        "What is an assessment summary?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "heading",
+      "text": "Key points and policy intent",
+      "ordinal": 8,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "6. The aim of the assessment summary is to ensure that a supplier that submitted an assessed tender in relation to a competitive tendering procedure can understand why its tender was either successful or unsuccessful. It also allows unsuccessful suppliers to see how the contracting authority has determined the most advantageous tender (MAT) in accordance with the award criteria and assessment methodology.",
+      "ordinal": 9,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "p",
+      "text": "7. The regulations set out what type of information must be provided in an assessment summary in a way that aims to provide a level of consistency across procurements, regardless of the contracting authority awarding the contract, what the contract is for, or the various approaches to award criteria and assessment methodology that may be taken.",
+      "ordinal": 10,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "8. Contacting authorities should be able to use information generated during the assessment process to meet the requirements of the assessment summary. In order to use the same information and minimise the need for reformatting, contracting authorities are advised to consider the format and requirements of assessment summaries as set out in regulation 31 when developing award criteria, processes and templates for assessment.",
+      "ordinal": 11,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "9. Contracting authorities must provide each supplier that submitted an assessed tender with an assessment summary, which includes the required assessment information pertaining to its tender and, if the supplier is unsuccessful, the relevant assessment information pertaining to the MAT (see regulation 31(2) and (3) ).",
+      "ordinal": 12,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "10. Section 50(5) of the Act defines an assessed tender as “a tender which — (a) was submitted in respect of the contract and assessed for the purposes of determining the most advantageous tender under section 19(1), and (b) was not disregarded in the assessment of tenders.” For the purposes of a competitive flexible procedure, which may have multiple assessment stages, it is the final assessment stage that determines which supplier submitted the MAT and is awarded the contract. This means that assessed tenders are only those tenders that are assessed at the final stage; tenders are not assessed tenders if they were rejected following an earlier assessment against the award criteria and were therefore not included in the final assessment. Tenders must be disregarded because they do not satisfy the conditions of participation and may be disregarded for other reasons (see section 19(3) ). Assessment summaries are also not required to be provided where contracts are awarded under a framework (see paragraph 41 below) or directly under sections 41 or 43 .",
+      "ordinal": 13,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "11. While there is no obligation under the Act to provide an assessment summary to suppliers who have not submitted an assessed tender, contracting authorities should inform suppliers in writing as soon as reasonably possible that they are not being taken forward in a competitive tendering procedure or will not be awarded the contract (as appropriate).",
+      "ordinal": 14,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "12. In the case of a competitive flexible procedure with multiple assessment stages, contracting authorities are advised to use the same feedback structure for suppliers who are unsuccessful in intermediate rounds as will be provided for assessed tenders. The assessment summary structure has been designed to provide suppliers with a robust explanation for their scores having regard to section 12(1)(c) and (d) of the Act and the requirement to have regard to the importance of sharing information and acting, and being seen to act, with integrity. When notifying suppliers who have not submitted assessed tenders, contracting authorities should aim to provide the appropriate level of detail to explain the suppliers’ scores and the reasons for exclusion relevant to the point in the procurement procedure at which the supplier was excluded. Setting out in the tender documents that this information will be provided to all suppliers, not just those who submitted assessed tenders may help to ensure a strong competitive field, particularly where bid costs are high and the prospect of not receiving an assessment summary may deter suppliers from tendering.",
+      "ordinal": 15,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "13. Assessment summaries must be provided at the same time ( regulation 31(4) ) to all suppliers that submitted an assessed tender and before the contract award notice (which triggers the commencement of the standstill period) can be published (see paragraphs 37-38 below for more guidance on timing). Assessment summaries must be provided before the contract award notice is published to ensure that suppliers have the full standstill period in which to consider the information provided before the contract is entered into.",
+      "ordinal": 16,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "14. There is no requirement to publish assessment summaries on the central digital platform or to transmit them to suppliers through the central platform. Contracting authorities are free to provide assessment summaries by whichever method works best for their process (taking into consideration the requirements of section 96 (Electronic communications) of the Act); for example, this could be through their own eProcurement system or via email.",
+      "ordinal": 17,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "heading",
+      "text": "Required assessment information",
+      "ordinal": 18,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent",
+        "Required assessment information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "15. The information to be included in an assessment summary is largely the same for both successful and unsuccessful suppliers, but unsuccessful suppliers will receive information about their own assessed tender (to the extent their tender was assessed (see paragraph 16 below)) as well as information about how the MAT scored against the award criteria. In addition to the information set out below, regulation 31(2)(a-c) requires the assessment summary to include the recipient supplier’s name, postal and email address, and unique identifier. There is no requirement to include the successful supplier’s identifying information in assessment summaries that are provided to unsuccessful suppliers but contracting authorities should provide at least the name of the supplier who has submitted the MAT where doing so would not create a significant burden (which might be the case, for example, when awarding a framework to a large number of suppliers).",
+      "ordinal": 19,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent",
+        "Required assessment information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "p",
+      "text": "16. For unsuccessful suppliers, the regulations only require this information to be provided in relation to criteria that were assessed against the award criteria; if a contracting authority determines during the assessment of the tender that a ‘pass/fail’ criterion has not been met, it is not required to continue to assess the tender and to score it against the remaining award criteria ( regulation 31(3)(b) ), but the information must be provided against those criteria that have been assessed. If the contracting authority intends to adopt such an approach, this should be set out in the assessment methodology.",
+      "ordinal": 20,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent",
+        "Required assessment information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "heading",
+      "text": "Award criteria and assessment methodology ( regulation 31(2)(d) )",
+      "ordinal": 21,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent",
+        "Required assessment information",
+        "Award criteria and assessment methodology ( regulation 31(2)(d) )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "p",
+      "text": "17. Suppliers will have had access to the award criteria and assessment methodology in the tender notice and any associated tender documents. Consequently, this information does not need to be repeated in full in the assessment summary. Instead, the assessment summary can include only a summary of the award criteria. If this approach is taken, the contracting authority must indicate to suppliers where the full version of the award criteria and assessment methodology can be accessed (for example, by providing the tender notice reference).",
+      "ordinal": 22,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent",
+        "Required assessment information",
+        "Award criteria and assessment methodology ( regulation 31(2)(d) )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "18. The minimum award criteria information to be provided in the assessment summary is the title of each criterion and its relative importance (for example, the weighting), how each criterion was to have been assessed and the scores available for each criterion.",
+      "ordinal": 23,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent",
+        "Required assessment information",
+        "Award criteria and assessment methodology ( regulation 31(2)(d) )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "19. It can be beneficial, however, to provide the full detail of the award criteria and assessment methodology used to determine the MAT in the assessment summary. This is particularly the case if, for example, award criteria have been refined during the course of a competitive flexible procedure in accordance with section 24 (see guidance on competitive tendering procedures for more information).",
+      "ordinal": 24,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent",
+        "Required assessment information",
+        "Award criteria and assessment methodology ( regulation 31(2)(d) )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "heading",
+      "text": "Scores awarded and justification ( regulation 31(2)(e) )",
+      "ordinal": 25,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent",
+        "Required assessment information",
+        "Scores awarded and justification ( regulation 31(2)(e) )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "p",
+      "text": "20. Contracting authorities must provide suppliers with the score determined for each award criterion ( regulations 31(2)(e) and 31(3)(b) ). This means providing the score for each criterion (including each sub-criterion where sub-criteria have been used for assessment) as well as the total score. In practice and depending on the assessment methodology, this may also include sub-total scores.",
+      "ordinal": 26,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent",
+        "Required assessment information",
+        "Scores awarded and justification ( regulation 31(2)(e) )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "p",
+      "text": "21. For example, if the assessment methodology has different categories of award criteria (for example, technical, commercial and social value categories) and it states that the scores of each criterion in a category will be added together to make a subtotal, and those subtotals will be added together to create a total score, then all of this information must be provided. An illustration could look like this:",
+      "ordinal": 27,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent",
+        "Required assessment information",
+        "Scores awarded and justification ( regulation 31(2)(e) )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "table",
+      "text": "Category\tTechnical\tTechnical\tTechnical\tCommercial\tCommercial\tCommercial\tSocial Value\nCriteria\tA\tB\tC\tD\tE\tF\tG\nScore\t3\t3\t3\t1\t1\t1\t3\nSub-totals\t-\t9\t-\t-\t3\t-\t3\nTotal\t-\t-\t-\t15\t-\t-\t-",
+      "ordinal": 28,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent",
+        "Required assessment information",
+        "Scores awarded and justification ( regulation 31(2)(e) )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {
+        "rows": [
+          [
+            "Category",
+            "Technical",
+            "Technical",
+            "Technical",
+            "Commercial",
+            "Commercial",
+            "Commercial",
+            "Social Value"
+          ],
+          [
+            "Criteria",
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          [
+            "Score",
+            "3",
+            "3",
+            "3",
+            "1",
+            "1",
+            "1",
+            "3"
+          ],
+          [
+            "Sub-totals",
+            "-",
+            "9",
+            "-",
+            "-",
+            "3",
+            "-",
+            "3"
+          ],
+          [
+            "Total",
+            "-",
+            "-",
+            "-",
+            "15",
+            "-",
+            "-",
+            "-"
+          ]
+        ],
+        "row_count": 5
+      }
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "p",
+      "text": "22. For each award criterion (including any sub-criteria), the contracting authority must explain why that score was awarded by making reference to ‘relevant information in the tender’.",
+      "ordinal": 29,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent",
+        "Required assessment information",
+        "Scores awarded and justification ( regulation 31(2)(e) )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "p",
+      "text": "23. This aspect of the assessment summary requires the contracting authority to make a judgement as to the appropriate level of detail to provide. As a guiding principle, the assessed tender should be recognisable from the information provided, so the supplier should be given sufficient information to understand the scores awarded without the contracting authority needing to reference sensitive details of the supplier’s solution. Depending on how the award criteria are structured, contracting authorities will usually need to refer to the detail of the criterion and/or the definition of the score when explaining each score.",
+      "ordinal": 30,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent",
+        "Required assessment information",
+        "Scores awarded and justification ( regulation 31(2)(e) )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "p",
+      "text": "24. For example, the award criterion may state that in order to be awarded a particular score the tender must demonstrate that a number of requirements will be achieved in delivering the contract. If an assessed tender is then awarded that particular score, each of the requirements achieved should be referenced in the explanation.",
+      "ordinal": 31,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent",
+        "Required assessment information",
+        "Scores awarded and justification ( regulation 31(2)(e) )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "p",
+      "text": "25. Contracting authorities cannot simply repeat the award criterion and state “the tender demonstrated x” or “failed to demonstrate y,” because reference must be made to the tender. The below is an illustrative example of a more appropriate approach:",
+      "ordinal": 32,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent",
+        "Required assessment information",
+        "Scores awarded and justification ( regulation 31(2)(e) )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "p",
+      "text": "“The tender demonstrated all the necessary requirements to achieve a score of 5. It provided, in section [x] of the tender, the necessary details to give the authority confidence that [requirements a, b, c] will be delivered, including [insert information in the tender relevant to the requirements demonstrated].”",
+      "ordinal": 33,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent",
+        "Required assessment information",
+        "Scores awarded and justification ( regulation 31(2)(e) )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "p",
+      "text": "26. In some cases, it might not be possible for a supplier to understand why a particular score was determined without also explaining why a higher score was not achieved. Provision of this information is, in any case, best practice to assure suppliers that the correct score has been awarded. How this is done will depend on the structure of the award criteria and the scoring description. To continue with the example in paragraph 25 above, it may be that to achieve a higher score, the tender must have demonstrated additional requirements. In explaining why the higher score was not awarded, the contracting authority should acknowledge which of those requirements it failed to demonstrate and why; for example:",
+      "ordinal": 34,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent",
+        "Required assessment information",
+        "Scores awarded and justification ( regulation 31(2)(e) )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "p",
+      "text": "“Although the tender stated that [requirements x and y] would be met, the tender failed to explain how the proposed solution met those requirements and therefore failed to demonstrate [requirement x] and [requirement y] would be delivered. This meant the tender could not be awarded a higher score.”",
+      "ordinal": 35,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent",
+        "Required assessment information",
+        "Scores awarded and justification ( regulation 31(2)(e) )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "p",
+      "text": "27. It is best practice to address the requirements of each award criterion as fully as possible. However, contracting authorities may determine, where the criteria are particularly complex or large in number, that focusing on key aspects of the tender is adequate to meet the requirements of the assessment summary where those aspects of the tender provide sufficient information to explain each score awarded. Contracting authorities should, however, take the same approach with each supplier to ensure the same level of detail is provided to each supplier that submitted an assessed tender.",
+      "ordinal": 36,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent",
+        "Required assessment information",
+        "Scores awarded and justification ( regulation 31(2)(e) )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "heading",
+      "text": "Consideration of sensitive information",
+      "ordinal": 37,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent",
+        "Required assessment information",
+        "Consideration of sensitive information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "p",
+      "text": "28. In most cases it should be possible to refer to the content of the tender in the assessment summary without needing to divulge sensitive commercial information, such as information which constitutes a trade secret or unique selling points that would prejudice the supplier if disclosed. Not going into such detail in templates or reports for assessing award criteria will facilitate sharing information in respect of the MAT to unsuccessful suppliers by minimising or removing the need for redaction. Where appropriate, focusing comments on the outcomes the tender will achieve can help, but contracting authorities should bear in mind that the content of the assessment summary will be driven by the structure and drafting of the award criteria.",
+      "ordinal": 38,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent",
+        "Required assessment information",
+        "Consideration of sensitive information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "p",
+      "text": "29. The following explanation for a score is provided as an illustrative example and is based on the contracting authority having an award criterion that relates to whether the tender demonstrates that:",
+      "ordinal": 39,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent",
+        "Required assessment information",
+        "Consideration of sensitive information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "p",
+      "text": "a. the supplier’s software solution maximises the use of open standards and architectures;",
+      "ordinal": 40,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent",
+        "Required assessment information",
+        "Consideration of sensitive information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "p",
+      "text": "b. the supplier’s software solution maximises the reuse of existing technologies and products; and",
+      "ordinal": 41,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent",
+        "Required assessment information",
+        "Consideration of sensitive information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "p",
+      "text": "c. a team of suitably qualified and experienced personnel will be available to deliver the software.",
+      "ordinal": 42,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent",
+        "Required assessment information",
+        "Consideration of sensitive information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "p",
+      "text": "The explanation given for the score determined for the above award criterion could take an approach similar to the following:",
+      "ordinal": 43,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent",
+        "Required assessment information",
+        "Consideration of sensitive information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "p",
+      "text": "“The tender proposed an architecture design that is based on an open standard. A ‘plug and play’ approach has been adopted, demonstrated by an annotated list of suitable alternative off the shelf components. Analysis of various existing products is provided that demonstrated only two aspects of its solution will require modified or bespoke products, with clear justification. The tender included a team organogram, with nominated personnel against roles, based on qualifications and experience (detailed in the tender) and project timing. The contracting authority has confidence in the evidence that demonstrates that the contract will be performed by the appropriate number of experts with expertise which exceeds minimum requirements. A reasonable minimum level of qualifications and experience required for any new or additional team members has been proposed.”",
+      "ordinal": 44,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent",
+        "Required assessment information",
+        "Consideration of sensitive information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "p",
+      "text": "30. The above example references information from the tender for each of the three elements the criterion lists, and consequently provides the corresponding detail. This approach enables the supplier to understand its score by reference to its tender, but avoids including sensitive commercial information.",
+      "ordinal": 45,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent",
+        "Required assessment information",
+        "Consideration of sensitive information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "p",
+      "text": "31. However, it is recognised that sometimes including sensitive commercial information cannot be avoided. When the assessment information will only be provided to the supplier that the information pertains to, this is not a concern. However, the successful supplier’s assessment summary information will be shared with the unsuccessful suppliers and therefore contracting authorities should consider whether there is sensitive commercial information relating to the MAT that should not be provided to other suppliers as part of their assessment summaries.",
+      "ordinal": 46,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent",
+        "Required assessment information",
+        "Consideration of sensitive information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "p",
+      "text": "32. Section 94 of the Act permits contracting authorities to withhold information to protect national security or if the information is commercially sensitive and there is an overriding public interest in it being withheld (see guidance on publication of information for more information). This provision can be used to redact details about the MAT for the purpose of providing that information to unsuccessful suppliers. Where information is withheld, the contracting authority should ensure that the information being provided to unsuccessful suppliers against each criterion nonetheless gives a sufficient explanation of the score awarded to the MAT.",
+      "ordinal": 47,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent",
+        "Required assessment information",
+        "Consideration of sensitive information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "p",
+      "text": "33. To help understand what details may be commercially sensitive, contracting authorities are encouraged to request in tender documents that suppliers, at tender stage, identify the sensitive commercial information that is included in their tenders. This could be achieved, for example, by the inclusion of a schedule detailing the sensitive information (referencing where in the tender that information is contained) and the justification for its confidentiality. Contracting authorities are not obliged to accept that information is commercially sensitive simply because a supplier has labelled it as such and should discourage suppliers from making blanket and unsustainable confidentiality claims. Contracting authorities should engage with the supplier in order to reach an agreement on what information is sensitive commercial information, noting that the contracting authority must still be satisfied that there is an overriding public interest in that information being withheld from disclosure if such information is not provided. More information on commercially sensitive information can be found in the guidance on publication of information .",
+      "ordinal": 48,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent",
+        "Required assessment information",
+        "Consideration of sensitive information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "heading",
+      "text": "Other information that may apply to an unsuccessful tender ( regulation 31(3)(c) )",
+      "ordinal": 49,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent",
+        "Other information that may apply to an unsuccessful tender ( regulation 31(3)(c) )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00050",
+      "block_type": "p",
+      "text": "34. In the case of unsuccessful suppliers, the assessment summary must also include any further explanation of why that supplier is not being awarded the contract.",
+      "ordinal": 50,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent",
+        "Other information that may apply to an unsuccessful tender ( regulation 31(3)(c) )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00051",
+      "block_type": "p",
+      "text": "35. For example, the assessment methodology may state that if a tender fails to achieve the minimum score for a particular award criterion, then the assessment of that tender will cease and the tender will be disqualified. In that scenario, the assessment summary would provide information for each score awarded to the extent that the tender was assessed against the award criteria before it was disqualified, plus further explanation that the tender was disqualified once it was assessed as failing to meet the minimum score for a particular award criterion (and the reason for that assessment).",
+      "ordinal": 51,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent",
+        "Other information that may apply to an unsuccessful tender ( regulation 31(3)(c) )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00052",
+      "block_type": "p",
+      "text": "36. In addition, regulation 31(5) allows contracting authorities to include any other information they consider appropriate. Contracting authorities may therefore consider whether to include general feedback that may help the supplier improve its future tenders in order to encourage them to participate in future procurement opportunities. There is no legal requirement to provide feedback of this nature but it may be particularly useful for small and medium-sized enterprises or new entrants to the market.",
+      "ordinal": 52,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent",
+        "Other information that may apply to an unsuccessful tender ( regulation 31(3)(c) )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00053",
+      "block_type": "heading",
+      "text": "Timing",
+      "ordinal": 53,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00054",
+      "block_type": "p",
+      "text": "37. Contracting authorities must provide an assessment summary to each supplier at the same time ( regulation 31(4) ) and before the contract award notice is published ( section 50(3) ). It is important that contracting authorities provide the assessment summaries promptly after the award decision has been made.",
+      "ordinal": 54,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00055",
+      "block_type": "p",
+      "text": "38. It is anticipated that in most circumstances, the contracting authority will want to publish the contract award notice on the same day that the assessment summaries are provided, assuming they are provided electronically. The Act does not prescribe any particular period of time between the provision of the assessment summary and the publication of the contract award notice. In certain circumstances, the contracting authority may want to build in a period of time following the provision of assessment summaries and before the contract award notice is published. The time between provision of assessment summaries and publication of the contract award notice should be given careful consideration as it is publication of the contract award notice that starts the standstill period. Timing will be for the contracting authority to determine, given the circumstances at hand, including the design of any competitive tendering procedure.",
+      "ordinal": 55,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00056",
+      "block_type": "heading",
+      "text": "Lots, dynamic markets and frameworks",
+      "ordinal": 56,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent",
+        "Lots, dynamic markets and frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00057",
+      "block_type": "p",
+      "text": "39. Lots When awarding contracts by reference to lots, the requirement to provide an assessment summary applies to the contract awarded. For example, if a contracting authority awards a public contract that encompasses two lots, the assessment summary would include the assessment information for both lots. However, if it awarded separate contracts for each lot, it would provide the supplier with an assessment summary for each contract.",
+      "ordinal": 57,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent",
+        "Lots, dynamic markets and frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00058",
+      "block_type": "p",
+      "text": "40. Dynamic markets Assessment summaries are not relevant to establishing a dynamic market, as a dynamic market is not a public contract; neither are they relevant when suppliers are admitted (or not admitted) to a dynamic market as this does not create a contract. An assessment summary is required when awarding a public contract under a dynamic market, however, because these contracts are awarded under a competitive flexible procedure pursuant to section 19 of the Act.",
+      "ordinal": 58,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent",
+        "Lots, dynamic markets and frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00059",
+      "block_type": "p",
+      "text": "41. Frameworks The requirement to provide assessment summaries applies when awarding a framework that is a public contract. It does not apply when awarding a contract in accordance with a framework (awarding a call-off contract) as those contracts are awarded in accordance with the terms of the framework, rather than section 19 of the Act. It is best practice, however, to adopt a similar or the same approach when awarding these contracts, which should be considered when setting up the framework itself.",
+      "ordinal": 59,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent",
+        "Lots, dynamic markets and frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00060",
+      "block_type": "p",
+      "text": "42. It is recognised that when a high number of suppliers have tendered, such as when awarding a framework, providing assessment summaries can be time consuming. As set out above, there is some discretion available to contracting authorities to determine the level of detail appropriate to the procurement.",
+      "ordinal": 60,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent",
+        "Lots, dynamic markets and frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00061",
+      "block_type": "p",
+      "text": "43. Additionally, when awarding a multi-supplier framework (or any form of contract following a competitive tendering procedure where there are multiple successful suppliers), there will be more than one MAT. In these circumstances, the successful suppliers will only need to be provided with the assessment information relevant to their own tender. When providing unsuccessful suppliers with the assessment information relating to the MAT, there is no requirement for a contracting authority to provide assessment information about all the successful tenders. Instead, the contracting authority should use the lowest scoring successful tender as the relevant MAT as this approach is likely to give the unsuccessful suppliers the best indication of the gap between their unsuccessful tenders and what was required to be successful.",
+      "ordinal": 61,
+      "heading_path": [
+        "What is an assessment summary?",
+        "Key points and policy intent",
+        "Lots, dynamic markets and frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00062",
+      "block_type": "heading",
+      "text": "What are the notices linked to this aspect of the Act?",
+      "ordinal": 62,
+      "heading_path": [
+        "What is an assessment summary?",
+        "What are the notices linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00063",
+      "block_type": "p",
+      "text": "44. The assessment summary will be published after a tender notice that has invited suppliers to submit tenders for the procurement in question. The next notice in the sequence will be the contract award notice, unless the procurement is terminated in which case this decision will be communicated in a procurement termination notice.",
+      "ordinal": 63,
+      "heading_path": [
+        "What is an assessment summary?",
+        "What are the notices linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00064",
+      "block_type": "heading",
+      "text": "What other guidance is of particular relevance to this topic area?",
+      "ordinal": 64,
+      "heading_path": [
+        "What is an assessment summary?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00065",
+      "block_type": "p",
+      "text": "Guidance on competitive tendering procedures",
+      "ordinal": 65,
+      "heading_path": [
+        "What is an assessment summary?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00066",
+      "block_type": "p",
+      "text": "Guidance on assessing competitive tenders",
+      "ordinal": 66,
+      "heading_path": [
+        "What is an assessment summary?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00067",
+      "block_type": "p",
+      "text": "Guidance on contract award notice and standstill",
+      "ordinal": 67,
+      "heading_path": [
+        "What is an assessment summary?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00068",
+      "block_type": "p",
+      "text": "Guidance on publication of information",
+      "ordinal": 68,
+      "heading_path": [
+        "What is an assessment summary?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00069",
+      "block_type": "li",
+      "text": "Referred to in the Defence and Security Public Contracts Regulations 2011 as an ‘award decision notice’. ↩",
+      "ordinal": 69,
+      "heading_path": [
+        "What is an assessment summary?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00070",
+      "block_type": "p",
+      "text": "Referred to in the Defence and Security Public Contracts Regulations 2011 as an ‘award decision notice’. ↩",
+      "ordinal": 70,
+      "heading_path": [
+        "What is an assessment summary?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "Procurement Act 2023 (Act)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/contents",
+      "block_id": "b00001",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 50(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/50",
+      "block_id": "b00001",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 50",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/50",
+      "block_id": "b00005",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 31",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/31",
+      "block_id": "b00005",
+      "ordinal": 3,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "[footnote 1]",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-assessment-summaries-html#fn:1",
+      "block_id": "b00007",
+      "ordinal": 4,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "regulation 31",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/31",
+      "block_id": "b00011",
+      "ordinal": 5,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 31(2) and (3)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/31",
+      "block_id": "b00012",
+      "ordinal": 6,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 50(5)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/50",
+      "block_id": "b00013",
+      "ordinal": 7,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 19(1), and (b)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/19",
+      "block_id": "b00013",
+      "ordinal": 8,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 19(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/19",
+      "block_id": "b00013",
+      "ordinal": 9,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "sections 41 or 43",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/part/3/chapter/3",
+      "block_id": "b00013",
+      "ordinal": 10,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 12(1)(c) and (d)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/12",
+      "block_id": "b00015",
+      "ordinal": 11,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 31(4)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/31",
+      "block_id": "b00016",
+      "ordinal": 12,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 96",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/96",
+      "block_id": "b00017",
+      "ordinal": 13,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 31(2)(a-c)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/31",
+      "block_id": "b00019",
+      "ordinal": 14,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 31(3)(b)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/31",
+      "block_id": "b00020",
+      "ordinal": 15,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 31(2)(d)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/31",
+      "block_id": "b00021",
+      "ordinal": 16,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 24",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/24",
+      "block_id": "b00024",
+      "ordinal": 17,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "competitive tendering procedures",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/competitive-tendering-procedures-html",
+      "block_id": "b00024",
+      "ordinal": 18,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 31(2)(e)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/31",
+      "block_id": "b00025",
+      "ordinal": 19,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulations 31(2)(e) and 31(3)(b)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/31",
+      "block_id": "b00026",
+      "ordinal": 20,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 94",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/94",
+      "block_id": "b00047",
+      "ordinal": 21,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "publication of information",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-central-digital-platform-and-publication-of-information-html",
+      "block_id": "b00047",
+      "ordinal": 22,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "publication of information",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-central-digital-platform-and-publication-of-information-html",
+      "block_id": "b00048",
+      "ordinal": 23,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 31(3)(c)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/31",
+      "block_id": "b00049",
+      "ordinal": 24,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 31(5)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/31",
+      "block_id": "b00052",
+      "ordinal": 25,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 31(4)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/31",
+      "block_id": "b00054",
+      "ordinal": 26,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 50(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/50",
+      "block_id": "b00054",
+      "ordinal": 27,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 19",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/19",
+      "block_id": "b00058",
+      "ordinal": 28,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 19",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/19",
+      "block_id": "b00059",
+      "ordinal": 29,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "competitive tendering procedures",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/competitive-tendering-procedures-html",
+      "block_id": "b00065",
+      "ordinal": 30,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "assessing competitive tenders",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/assessing-competitive-tenders-html",
+      "block_id": "b00066",
+      "ordinal": 31,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "contract award notice and standstill",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-contract-award-notices-and-standstill-html",
+      "block_id": "b00067",
+      "ordinal": 32,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "publication of information",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-central-digital-platform-and-publication-of-information-html",
+      "block_id": "b00068",
+      "ordinal": 33,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-assessment-summaries-html#fnref:1",
+      "block_id": "b00069",
+      "ordinal": 34,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-assessment-summaries-html#fnref:1",
+      "block_id": "b00070",
+      "ordinal": 35,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Guidance: Assessment Summaries (HTML)",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-assessment-summaries-html",
+      "block_id": "__document__",
+      "ordinal": 36,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2022 to 2024 Sunak Conservative government",
+      "href": "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 37,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 38,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Procurement Act 2023 guidance documents - Procure phase",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase",
+      "block_id": "__document__",
+      "ordinal": 39,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 40,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 50(1)",
+      "block_id": "b00001",
+      "start": 155,
+      "end": 168,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "50",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 10",
+      "block_id": "b00003",
+      "start": 190,
+      "end": 202,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "10"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 50",
+      "block_id": "b00005",
+      "start": 3,
+      "end": 13,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "50"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 31",
+      "block_id": "b00005",
+      "start": 359,
+      "end": 372,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "31"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 31",
+      "block_id": "b00011",
+      "start": 343,
+      "end": 356,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "31"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 31(2)",
+      "block_id": "b00012",
+      "start": 293,
+      "end": 309,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "31",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 50(5)",
+      "block_id": "b00013",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "50",
+        "tail": "(5)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 19(1)",
+      "block_id": "b00013",
+      "start": 202,
+      "end": 215,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "19",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 19(3)",
+      "block_id": "b00013",
+      "start": 883,
+      "end": 896,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "19",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "sections 41",
+      "block_id": "b00013",
+      "start": 1047,
+      "end": 1058,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "41"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 41",
+      "block_id": "b00013",
+      "start": 1009,
+      "end": 1021,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "41"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 12(1)(c)",
+      "block_id": "b00015",
+      "start": 388,
+      "end": 404,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "12",
+        "tail": "(1)(c)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 31(4)",
+      "block_id": "b00016",
+      "start": 61,
+      "end": 77,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "31",
+        "tail": "(4)"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraphs 37",
+      "block_id": "b00016",
+      "start": 249,
+      "end": 262,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "37"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 96",
+      "block_id": "b00017",
+      "start": 316,
+      "end": 326,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "96"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 31(2)",
+      "block_id": "b00019",
+      "start": 401,
+      "end": 417,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "31",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 16",
+      "block_id": "b00019",
+      "start": 258,
+      "end": 270,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "16"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 31(3)(b)",
+      "block_id": "b00020",
+      "start": 392,
+      "end": 411,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "31",
+        "tail": "(3)(b)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 31(2)(d)",
+      "block_id": "b00021",
+      "start": 44,
+      "end": 63,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "31",
+        "tail": "(2)(d)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 24",
+      "block_id": "b00024",
+      "start": 317,
+      "end": 327,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "24"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 31(2)(e)",
+      "block_id": "b00025",
+      "start": 35,
+      "end": 54,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "31",
+        "tail": "(2)(e)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulations 31(2)(e)",
+      "block_id": "b00026",
+      "start": 104,
+      "end": 124,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "31",
+        "tail": "(2)(e)"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 25",
+      "block_id": "b00034",
+      "start": 423,
+      "end": 435,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "25"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 94",
+      "block_id": "b00047",
+      "start": 4,
+      "end": 14,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "94"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 31(3)(c)",
+      "block_id": "b00049",
+      "start": 61,
+      "end": 80,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "31",
+        "tail": "(3)(c)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 31(5)",
+      "block_id": "b00052",
+      "start": 17,
+      "end": 33,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "31",
+        "tail": "(5)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 50(3)",
+      "block_id": "b00054",
+      "start": 170,
+      "end": 183,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "50",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 31(4)",
+      "block_id": "b00054",
+      "start": 99,
+      "end": 115,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "31",
+        "tail": "(4)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 19",
+      "block_id": "b00058",
+      "start": 452,
+      "end": 462,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "19"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 19",
+      "block_id": "b00059",
+      "start": 319,
+      "end": 329,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "19"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2011",
+      "block_id": "b00069",
+      "start": 57,
+      "end": 73,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2011"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2011",
+      "block_id": "b00070",
+      "start": 57,
+      "end": 73,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2011"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

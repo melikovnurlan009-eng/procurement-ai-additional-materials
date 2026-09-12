@@ -1,0 +1,203 @@
+{
+  "document_id": "4ab2f95a-ceb6-4d0c-8e4d-10efecc760a7",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/86e2d0936b2c006ce5452a6d.json",
+  "input_sha256": "b2e7616ac22036d066ed1b047120a0a0d8901e8bc5063653ed2b85691e1a35eb",
+  "processed_at": "2026-08-27T02:26:28.818650+00:00",
+  "title": "PPN 010: Procuring steel in government contracts",
+  "canonical_url": "https://www.gov.uk/government/publications/ppn-010-procuring-steel-in-government-contracts",
+  "description": "This PPN provides updated guidance on how to create a level playing field for UK steel producers through public procurement.",
+  "publication_date": "2025-02-17T00:00:00+00:00",
+  "updated_date": "2025-04-28T15:07:33+01:00",
+  "source_metadata": {
+    "content_id": "4ab2f95a-ceb6-4d0c-8e4d-10efecc760a7",
+    "base_path": "/government/publications/ppn-010-procuring-steel-in-government-contracts",
+    "document_type": "policy_paper",
+    "schema_name": "publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "This PPN has been updated to reflect new terminology introduced by the Procurement Act 2023 and the Procurement Regulations 2024. For procurements commenced and contracts awarded before this date, please refer to PPN 04/23.",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "PPN 010: Procuring steel in government contracts",
+      "href": "https://www.gov.uk/government/publications/ppn-010-procuring-steel-in-government-contracts",
+      "block_id": "__document__",
+      "ordinal": 0,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "PPN 010: Example contract clause (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-010-procuring-steel-in-government-contracts/ppn-010-example-contract-clause-html",
+      "block_id": "__document__",
+      "ordinal": 1,
+      "link_type": "GOVUK_CHILDREN"
+    },
+    {
+      "text": "PPN 010: FAQs on Procuring steel in government contracts (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-010-procuring-steel-in-government-contracts/ppn-010-faqs-on-procuring-steel-in-government-contracts-html",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_CHILDREN"
+    },
+    {
+      "text": "PPN 010: Revised guidance on procuring steel in government contracts (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-010-procuring-steel-in-government-contracts/ppn-010-revised-guidance-on-procuring-steel-in-government-contracts-html",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_CHILDREN"
+    },
+    {
+      "text": "PPN 010: Procuring steel in government contracts (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-010-procuring-steel-in-government-contracts/ppn-010-procuring-steel-in-government-contracts-html",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_CHILDREN"
+    },
+    {
+      "text": "Procurement policy notes",
+      "href": "https://www.gov.uk/government/collections/procurement-policy-notes",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_DOCUMENT_COLLECTIONS"
+    },
+    {
+      "text": "2024 to 2026 Starmer Labour government",
+      "href": "https://www.gov.uk/government/2024-starmer-labour-government",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 7,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 8,
+      "link_type": "GOVUK_ORIGINAL_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 9,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Government spending",
+      "href": "https://www.gov.uk/government/government-spending",
+      "block_id": "__document__",
+      "ordinal": 10,
+      "link_type": "GOVUK_TAXONS"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2024",
+      "block_id": "b00000",
+      "start": 112,
+      "end": 128,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2024"
+      }
+    }
+  ],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/67af6de1a75f02dffca29bd0/PPN_010_Procuring_steel_in_government_contracts.pdf",
+      "title": "PPN 010: Procuring steel in government contracts (PDF)",
+      "content_type": "application/pdf",
+      "filename": "PPN_010_Procuring_steel_in_government_contracts.pdf",
+      "id": "8600845",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "/government/publications/ppn-010-procuring-steel-in-government-contracts/ppn-010-procuring-steel-in-government-contracts-html",
+      "title": "PPN 010: Procuring steel in government contracts (HTML)",
+      "content_type": null,
+      "filename": null,
+      "id": "8600846",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/67af7167e270ceae39f9e276/PPN_010_Revised_guidance_on_procuring_steel_in_government_contracts.pdf",
+      "title": "PPN 010: Revised guidance on procuring steel in government contracts (PDF)",
+      "content_type": "application/pdf",
+      "filename": "PPN_010_Revised_guidance_on_procuring_steel_in_government_contracts.pdf",
+      "id": "8600847",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "/government/publications/ppn-010-procuring-steel-in-government-contracts/ppn-010-revised-guidance-on-procuring-steel-in-government-contracts-html",
+      "title": "PPN 010: Revised guidance on procuring steel in government contracts (HTML)",
+      "content_type": null,
+      "filename": null,
+      "id": "8600848",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/67af7255a1d2c59f9ba29bd2/PPN_010_FAQs_on_Procuring_steel_in_government_contracts.pdf",
+      "title": "PPN 010: FAQs on Procuring steel in government contracts (PDF)",
+      "content_type": "application/pdf",
+      "filename": "PPN_010_FAQs_on_Procuring_steel_in_government_contracts.pdf",
+      "id": "8600849",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "/government/publications/ppn-010-procuring-steel-in-government-contracts/ppn-010-faqs-on-procuring-steel-in-government-contracts-html",
+      "title": "PPN 010: FAQs on Procuring steel in government contracts (HTML)",
+      "content_type": null,
+      "filename": null,
+      "id": "8600850",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/680f7656172df773f0305ee5/PPN_010_Example_contract_clause.pdf",
+      "title": "PPN 010: Example contract clause (PDF)",
+      "content_type": "application/pdf",
+      "filename": "PPN_010_Example_contract_clause.pdf",
+      "id": "8600853",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "/government/publications/ppn-010-procuring-steel-in-government-contracts/ppn-010-example-contract-clause-html",
+      "title": "PPN 010: Example contract clause (HTML)",
+      "content_type": null,
+      "filename": null,
+      "id": "8600855",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/680f790b56bc2cfe7f7f5c34/PPN_010_Actuals_data_template__1_.xlsx",
+      "title": "PPN 010: Actuals data template",
+      "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "filename": "PPN_010_Actuals_data_template__1_.xlsx",
+      "id": "8600857",
+      "logical_role": "ATTACHMENT"
+    }
+  ],
+  "warnings": []
+}

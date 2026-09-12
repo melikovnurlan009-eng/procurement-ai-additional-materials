@@ -1,0 +1,114 @@
+{
+  "document_id": "fbbdae15-c3d5-4bb5-a538-2b0eff1284ef",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/0232023af6bb5928fee0c23f.json",
+  "input_sha256": "f5ff90414693100a734418f73c56eb963ba07ed98d5d7c187080d0206c3832c4",
+  "processed_at": "2026-08-27T02:26:02.698413+00:00",
+  "title": "PPN 07/23: Security Classifications Policy",
+  "canonical_url": "https://www.gov.uk/government/publications/ppn-0723-security-classifications-policy",
+  "description": "This PPN provides details of the Government Security Classifications Policy (GSCP) which was updated on 30th June 2023.",
+  "publication_date": "2023-06-30T14:05:06+01:00",
+  "updated_date": "2023-06-30T14:05:06+01:00",
+  "source_metadata": {
+    "content_id": "fbbdae15-c3d5-4bb5-a538-2b0eff1284ef",
+    "base_path": "/government/publications/ppn-0723-security-classifications-policy",
+    "document_type": "guidance",
+    "schema_name": "publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "The Government Security Classifications Policy (GSCP) was updated on the 30 June 2023. The Policy applies to any information or data that is created, processed, stored or managed as part of a HMG contract. The contents of this Procurement Policy Note (PPN) apply to all Central Government Departments, their Executive Agencies, Non-Departmental Public Bodies and NHS bodies. These organisations are referred to in this PPN as ‘In-Scope Organisations’.",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "PPN 07/23: Security Classifications Policy",
+      "href": "https://www.gov.uk/government/publications/ppn-0723-security-classifications-policy",
+      "block_id": "__document__",
+      "ordinal": 0,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "Procurement Policy Note: Government Security Classifications Policy (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-0723-security-classifications-policy/procurement-policy-note-government-security-classifications-policy-html",
+      "block_id": "__document__",
+      "ordinal": 1,
+      "link_type": "GOVUK_CHILDREN"
+    },
+    {
+      "text": "Procurement policy notes",
+      "href": "https://www.gov.uk/government/collections/procurement-policy-notes",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_DOCUMENT_COLLECTIONS"
+    },
+    {
+      "text": "2022 to 2024 Sunak Conservative government",
+      "href": "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_ORIGINAL_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Government spending",
+      "href": "https://www.gov.uk/government/government-spending",
+      "block_id": "__document__",
+      "ordinal": 7,
+      "link_type": "GOVUK_TAXONS"
+    }
+  ],
+  "legal_references": [],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/649ea509bb13dc000cb2e3cd/Procurement_Policy_Note_-_Government_Security_Classifications_Policy.pdf",
+      "title": "Procurement Policy Note: Government Security Classifications Policy (PDF)",
+      "content_type": "application/pdf",
+      "filename": "Procurement_Policy_Note_-_Government_Security_Classifications_Policy.pdf",
+      "id": "7407020",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "/government/publications/ppn-0723-security-classifications-policy/procurement-policy-note-government-security-classifications-policy-html",
+      "title": "Procurement Policy Note: Government Security Classifications Policy (HTML)",
+      "content_type": null,
+      "filename": null,
+      "id": "7407013",
+      "logical_role": "ATTACHMENT"
+    }
+  ],
+  "warnings": []
+}

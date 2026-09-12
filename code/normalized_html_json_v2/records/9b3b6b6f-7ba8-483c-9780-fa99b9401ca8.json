@@ -1,0 +1,1357 @@
+{
+  "document_id": "9b3b6b6f-7ba8-483c-9780-fa99b9401ca8",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/7bbc534cb121d40f0ec1cf74.json",
+  "input_sha256": "03f2e684be9a1170e937e5eb97077b6b508afeecf523382ca3a1cf12ba85f9a1",
+  "processed_at": "2026-08-27T02:26:27.119421+00:00",
+  "title": "PPN 003: The Public Services (Social Value) Act 2012 (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/ppn-003-the-public-services-social-value-act-2012/ppn-003-the-public-services-social-value-act-2012-html",
+  "description": null,
+  "publication_date": "2025-02-17T14:43:53+00:00",
+  "updated_date": "2025-02-17T00:00:00+00:00",
+  "source_metadata": {
+    "content_id": "9b3b6b6f-7ba8-483c-9780-fa99b9401ca8",
+    "base_path": "/government/publications/ppn-003-the-public-services-social-value-act-2012/ppn-003-the-public-services-social-value-act-2012-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Issue",
+      "ordinal": 3,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Dissemination and scope",
+      "ordinal": 6,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Timing",
+      "ordinal": 13,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Contact",
+      "ordinal": 15,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Introduction to the Act",
+      "ordinal": 17,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What are in-scope organisations required to do under the Act?",
+      "ordinal": 21,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Considering the economic, social and environmental wellbeing of the relevant area and applying this to the procurement process",
+      "ordinal": 25,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Technical questions and answers",
+      "ordinal": 28,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q. Does the Act apply to above and below threshold procurements?",
+      "ordinal": 29,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q. How does the Act apply to frameworks?",
+      "ordinal": 31,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q. What contracts are not covered by the Act?",
+      "ordinal": 33,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q. What has to be considered in the initial stages of a procurement?",
+      "ordinal": 38,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q. What is the definition of ‘public services contract’ and how does it align with ‘public contracts for the supply of services’?",
+      "ordinal": 43,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q. What is the relevant area?",
+      "ordinal": 46,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q. What are the initial stages of a procurement?",
+      "ordinal": 50,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q. Who should be consulted and how should it be done?",
+      "ordinal": 52,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q. How should in-scope organisations apply the results of considerations and consultations to the procurement process?",
+      "ordinal": 57,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q. How can in-scope organisations demonstrate that the Act has been considered?",
+      "ordinal": 60,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q. How does the Act relate to local authorities’ Best Value Duty?",
+      "ordinal": 62,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "Action Note: 003",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "Previously issued: December 2012",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "Updated: February 2025",
+      "ordinal": 2,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "heading",
+      "text": "Issue",
+      "ordinal": 3,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "1. The Public Services (Social Value) Act 2012 (the Act) came into force on 31 January 2013.",
+      "ordinal": 4,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "2. From that date the operative provisions of the Act will apply and in-scope organisations must follow the Act and take it into account when considering procurements for the supply of certain types of services, including via frameworks as regards to which supply of services call-off contracts are likely to constitute the greater part by value of the contracts called off under the framework (‘relevant frameworks’).",
+      "ordinal": 5,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "heading",
+      "text": "Dissemination and scope",
+      "ordinal": 6,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "3. This PPN applies to all central government departments, their executive agencies and non-departmental public bodies. Such bodies are referred to as ‘in-scope organisations’.",
+      "ordinal": 7,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "4. This PPN does not apply to private utilities contracts, concessions contracts or to defence and security contracts as defined by section 7 of the Procurement Act 2023 [footnote 1] .",
+      "ordinal": 8,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "5. Please circulate this PPN within your organisation, particularly to those with a commercial procurement and/or contract management role. It may also be relevant to those in finance, operational and sustainability roles.",
+      "ordinal": 9,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "p",
+      "text": "6. This PPN reflects terminology introduced by the Procurement Act 2023 and the Procurement Regulations 2024. The Public Services (Social Value) Act 2012 is being updated to reflect those changes. The Procurement Act 2023 and the Procurement Regulations 2024 apply to procurements commenced on or after 24 February 2025. For more detail on the meaning of ‘commenced’ please refer to the Procurement Act 2023 Guidance on Transitional and Savings Arrangements .",
+      "ordinal": 10,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "7. The Procurement Act 2023 does not apply to procurements commenced before 24 February 2025 or to contracts awarded prior to this date (including via frameworks, dynamic purchasing systems or qualification systems established under the previous legislation). For procurements commenced and contracts awarded before this date, please refer to PPN 10/12.",
+      "ordinal": 11,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "8. This update does not constitute a change in policy or a new call for action but in-scope organisations should continue to apply any ongoing obligations set out in the provisions of this PPN. In-scope organisations do not need to repeat actions which were required upon this PPN’s initial publication.",
+      "ordinal": 12,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "heading",
+      "text": "Timing",
+      "ordinal": 13,
+      "heading_path": [
+        "Issue",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "9. In-scope organisations should note the provisions of this PPN from 24th February 2025.",
+      "ordinal": 14,
+      "heading_path": [
+        "Issue",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "heading",
+      "text": "Contact",
+      "ordinal": 15,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "10. Enquiries about this PPN should be directed to the Crown Commercial Service Helpdesk (telephone 0345 410 2222, email info@crowncommercial.gov.uk )",
+      "ordinal": 16,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "heading",
+      "text": "Introduction to the Act",
+      "ordinal": 17,
+      "heading_path": [
+        "Issue",
+        "Introduction to the Act"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "p",
+      "text": "The Act places a requirement on in-scope organisations who are awarding certain services contracts (henceforth ‘in-scope organisations’) to consider the economic, environmental and social benefits of their approaches to procurement before the process starts. They also have to consider whether they should consult on these issues. Where applicable, relevant in-scope organisations should also follow the requirements of PPN 002, the Social Value Model and its supporting guidance to do this.",
+      "ordinal": 18,
+      "heading_path": [
+        "Issue",
+        "Introduction to the Act"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "The Act applies to the initial stages of procurements of contracts for supply of services because that is where social value can be considered to greatest effect. In-scope organisations should consider social value at the early stages of the procurement e.g. at the strategic business case stage of a project, because that can inform the whole shape of the procurement approach and the design of the services required. In-scope organisations can use the Act (and PPN 002 and its supporting guidance where applicable) to re-think outcomes and the types of services to commission before starting the procurement process. In-scope organisations must also ensure compliance with the general principles of fair treatment and non-discrimination.",
+      "ordinal": 19,
+      "heading_path": [
+        "Issue",
+        "Introduction to the Act"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "p",
+      "text": "The PPN is not a substitute for reading the Act itself. For organisations in scope of PPN 002 should also familiarise themselves with the Act (see http://www.legislation.gov.uk/ukpga/2012/3/enacted ), PPN 002, the PPN 002 Social Value Model and the Guide to Using the PPN002 Social Value Model, on gov.uk.",
+      "ordinal": 20,
+      "heading_path": [
+        "Issue",
+        "Introduction to the Act"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "heading",
+      "text": "What are in-scope organisations required to do under the Act?",
+      "ordinal": 21,
+      "heading_path": [
+        "Issue",
+        "What are in-scope organisations required to do under the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "p",
+      "text": "The Act requires in-scope organisations to consider how what is to be procured may improve the social, environmental and economic wellbeing of the relevant area, how they might secure any such improvement and to consider the need to consult. The Act will only apply to covered procurements for the supply of certain types of services (including where the procurement is intended to establish a framework) under the Procurement Act 2023, with the exception of concession, utility and defence and security contracts. In addition, relevant in-scope organisations must also comply with PPN 002 and its associated tools and guidance.",
+      "ordinal": 22,
+      "heading_path": [
+        "Issue",
+        "What are in-scope organisations required to do under the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "When considering how a procurement process might improve the social, economic or environmental wellbeing of a relevant area, the authority must only consider matters which are relevant to the subject matter of the contract. The authority must also only consider those matters to the extent to which it is proportionate and ensure compliance with the general principles of equal treatment and non-discrimination.",
+      "ordinal": 23,
+      "heading_path": [
+        "Issue",
+        "What are in-scope organisations required to do under the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "The Act also provides that if there is an urgent need to arrange a procurement, the requirements to consider consultation and the impact on social, environmental and economic wellbeing can be disregarded if it is impractical to consider them. Urgency caused by undue delay by an authority will not be a valid reason not to comply with the Act’s requirements.",
+      "ordinal": 24,
+      "heading_path": [
+        "Issue",
+        "What are in-scope organisations required to do under the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "heading",
+      "text": "Considering the economic, social and environmental wellbeing of the relevant area and applying this to the procurement process",
+      "ordinal": 25,
+      "heading_path": [
+        "Issue",
+        "Considering the economic, social and environmental wellbeing of the relevant area and applying this to the procurement process"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "p",
+      "text": "In-scope organisations must, like all contracting authorities, also have regard to the social value priorities set out in the National Procurement Policy Statement (NPPS).",
+      "ordinal": 26,
+      "heading_path": [
+        "Issue",
+        "Considering the economic, social and environmental wellbeing of the relevant area and applying this to the procurement process"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "p",
+      "text": "The Act does not prescribe how the results of the consideration of these impacts and feedback from any accompanying consultation should shape any procurement which is undertaken. It does enable the citizen and user perspectives on potential services to be taken into account in the development of outcomes and specifications for the services to be procured. With an increasing emphasis on procuring for outcomes and achieving better results for less expenditure, specifications informed by the consideration of the issues set out in the Act can lead to more innovative and cost effective solutions. This might include co-commissioning of services across a number of public bodies or breaking requirements into smaller lots.",
+      "ordinal": 27,
+      "heading_path": [
+        "Issue",
+        "Considering the economic, social and environmental wellbeing of the relevant area and applying this to the procurement process"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "heading",
+      "text": "Technical questions and answers",
+      "ordinal": 28,
+      "heading_path": [
+        "Issue",
+        "Technical questions and answers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "heading",
+      "text": "Q. Does the Act apply to above and below threshold procurements?",
+      "ordinal": 29,
+      "heading_path": [
+        "Issue",
+        "Technical questions and answers",
+        "Q. Does the Act apply to above and below threshold procurements?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "p",
+      "text": "A. The Act does not apply to below threshold procurements. See Schedule 1 [footnote 2] of the Procurement 2023 for more information.",
+      "ordinal": 30,
+      "heading_path": [
+        "Issue",
+        "Technical questions and answers",
+        "Q. Does the Act apply to above and below threshold procurements?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "heading",
+      "text": "Q. How does the Act apply to frameworks?",
+      "ordinal": 31,
+      "heading_path": [
+        "Issue",
+        "Technical questions and answers",
+        "Q. How does the Act apply to frameworks?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "p",
+      "text": "A. The Act applies to the award of a framework for the supply of services, when the value of the framework is above threshold. The Act does not apply to contracts awarded by calling off from a framework. For organisations in-scope of PPN 002, social value is applied at both framework stage and call-off contracts as appropriate, please refer to PPN 002 and associated guidance.",
+      "ordinal": 32,
+      "heading_path": [
+        "Issue",
+        "Technical questions and answers",
+        "Q. How does the Act apply to frameworks?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "heading",
+      "text": "Q. What contracts are not covered by the Act?",
+      "ordinal": 33,
+      "heading_path": [
+        "Issue",
+        "Technical questions and answers",
+        "Q. What contracts are not covered by the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "p",
+      "text": "A. Contracts for goods and works alone are not covered by the Act (NB: they are covered by PPN 002). Contracts where there is a mixture of services, goods or works, where the value of the goods exceeds the value of the services or where the works are more than incidental to the main purpose of the contract are not covered. Contracts below the relevant thresholds in Schedule 1 of the Procurement Act 2023 are not covered by the Act or PPN 002.",
+      "ordinal": 34,
+      "heading_path": [
+        "Issue",
+        "Technical questions and answers",
+        "Q. What contracts are not covered by the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "p",
+      "text": "Call-offs from frameworks are not covered by the Act, but are in scope of PPN 002. Please see PPN 002 and associated guidance for further details.",
+      "ordinal": 35,
+      "heading_path": [
+        "Issue",
+        "Technical questions and answers",
+        "Q. What contracts are not covered by the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "p",
+      "text": "Concession contracts, utilities contracts and defence and security contracts as defined by section 7 of the Procurement Act 2023 are not covered by the act or PPN 002.",
+      "ordinal": 36,
+      "heading_path": [
+        "Issue",
+        "Technical questions and answers",
+        "Q. What contracts are not covered by the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "p",
+      "text": "Although below threshold contracts are not covered under the Act, In-scope organisations, as a matter of good practice, could consider economic, social and environmental wellbeing in order to obtain maximum value for money.",
+      "ordinal": 37,
+      "heading_path": [
+        "Issue",
+        "Technical questions and answers",
+        "Q. What contracts are not covered by the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "heading",
+      "text": "Q. What has to be considered in the initial stages of a procurement?",
+      "ordinal": 38,
+      "heading_path": [
+        "Issue",
+        "Technical questions and answers",
+        "Q. What has to be considered in the initial stages of a procurement?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "p",
+      "text": "A. The Act requires authorities to make the following considerations, which should be done at the initial stages of a procurement:",
+      "ordinal": 39,
+      "heading_path": [
+        "Issue",
+        "Technical questions and answers",
+        "Q. What has to be considered in the initial stages of a procurement?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "li",
+      "text": "how what is proposed to be procured might improve the economic, social and environmental well-being of the “relevant area”",
+      "ordinal": 40,
+      "heading_path": [
+        "Issue",
+        "Technical questions and answers",
+        "Q. What has to be considered in the initial stages of a procurement?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "li",
+      "text": "how, in conducting a procurement process, it might act with a view to securing that improvement",
+      "ordinal": 41,
+      "heading_path": [
+        "Issue",
+        "Technical questions and answers",
+        "Q. What has to be considered in the initial stages of a procurement?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "li",
+      "text": "whether to undertake a consultation on these matters",
+      "ordinal": 42,
+      "heading_path": [
+        "Issue",
+        "Technical questions and answers",
+        "Q. What has to be considered in the initial stages of a procurement?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "heading",
+      "text": "Q. What is the definition of ‘public services contract’ and how does it align with ‘public contracts for the supply of services’?",
+      "ordinal": 43,
+      "heading_path": [
+        "Issue",
+        "Technical questions and answers",
+        "Q. What is the definition of ‘public services contract’ and how does it align with ‘public contracts for the supply of services’?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "p",
+      "text": "A. The definition of “public services contract” in the Act is a public contract for the supply of services to which the Procurement Act 2023 applies (or which is treated as such a contract by that Act), other than a utilities contract, defence and security contract or a concession contract. A light touch contract is also a public services contract if it is neither exempt, nor a utilities, defence and security or concession contract, is awarded by a central government authority and is valued at £139,688 or more. .",
+      "ordinal": 44,
+      "heading_path": [
+        "Issue",
+        "Technical questions and answers",
+        "Q. What is the definition of ‘public services contract’ and how does it align with ‘public contracts for the supply of services’?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "p",
+      "text": "Mixed contracts for goods and services will only be covered if the value attributable to the services exceeds the value of the goods covered by the contract. Mixed contracts for works and services will only be covered if the works are only incidental to the main purpose of the contract.",
+      "ordinal": 45,
+      "heading_path": [
+        "Issue",
+        "Technical questions and answers",
+        "Q. What is the definition of ‘public services contract’ and how does it align with ‘public contracts for the supply of services’?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "heading",
+      "text": "Q. What is the relevant area?",
+      "ordinal": 46,
+      "heading_path": [
+        "Issue",
+        "Technical questions and answers",
+        "Q. What is the relevant area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "p",
+      "text": "A. The Act defines “relevant area” as being the area in which the authority (or authorities) primarily exercise their functions within the United Kingdom. For example, a local authority thinking of letting a contract for its own use would have to make considerations for its own geographical area, even if the contract is only directly relevant to part of the local authority’s area.",
+      "ordinal": 47,
+      "heading_path": [
+        "Issue",
+        "Technical questions and answers",
+        "Q. What is the relevant area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "p",
+      "text": "A local authority awarding a relevant framework for use by itself and neighbouring authorities would have to consider that wider area, even if the relevant framework is only likely to be directly relevant to part of that wider area. Authorities whose functions extend throughout the UK would have to consider the area of the UK, even if the contract or relevant framework is only directly relevant to a part of the UK. Areas outside the UK do not have to be considered even if an authority has functions outside the UK.",
+      "ordinal": 48,
+      "heading_path": [
+        "Issue",
+        "Technical questions and answers",
+        "Q. What is the relevant area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "p",
+      "text": "However, in-scope organisations should be careful to ensure that suppliers from treaty signatories outside of the UK are able to compete on an equal footing for any contracts advertised. In line with the UK’s international obligations, in-scope organisations should not do anything to discriminate against suppliers from countries who are party to the World Trade Organizations’ Government Procurement Agreement.",
+      "ordinal": 49,
+      "heading_path": [
+        "Issue",
+        "Technical questions and answers",
+        "Q. What is the relevant area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00050",
+      "block_type": "heading",
+      "text": "Q. What are the initial stages of a procurement?",
+      "ordinal": 50,
+      "heading_path": [
+        "Issue",
+        "Technical questions and answers",
+        "Q. What are the initial stages of a procurement?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00051",
+      "block_type": "p",
+      "text": "A. These are the stages of the procurement where services are designed, specifications developed and engagement with partners, stakeholders and current and potential suppliers takes place. See the Sourcing Playbook [footnote 3] for further guidance.",
+      "ordinal": 51,
+      "heading_path": [
+        "Issue",
+        "Technical questions and answers",
+        "Q. What are the initial stages of a procurement?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00052",
+      "block_type": "heading",
+      "text": "Q. Who should be consulted and how should it be done?",
+      "ordinal": 52,
+      "heading_path": [
+        "Issue",
+        "Technical questions and answers",
+        "Q. Who should be consulted and how should it be done?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00053",
+      "block_type": "p",
+      "text": "A. The Act does not set out who should be consulted in the initial stages of a procurement, however authorities should refer to the sections 16 and 17 of the Procurement Act (2023) on preliminary market engagement. Cabinet Office procurement advice in the Sourcing Playbook already emphasises the importance of early market engagement before the more formal stages of procurements begin so the requirements of the Act are complimentary to the principle of consulting in the initial stages of procurements to develop robust and intelligent specifications. Potential service users, communities in the ‘relevant area’ and organisations that represent them in the community could be consulted as well as other agencies that provide or commission services",
+      "ordinal": 53,
+      "heading_path": [
+        "Issue",
+        "Technical questions and answers",
+        "Q. Who should be consulted and how should it be done?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00054",
+      "block_type": "p",
+      "text": "Consultation will be particularly relevant when considering procurements for services which are delivered directly to citizens. The voluntary and community sector, along with other providers and interested groups, should be engaged from the earliest stage to help shape policies, programmes and services.",
+      "ordinal": 54,
+      "heading_path": [
+        "Issue",
+        "Technical questions and answers",
+        "Q. Who should be consulted and how should it be done?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00055",
+      "block_type": "p",
+      "text": "The Act does not set out how consultation should take place so in-scope organisations should refer to sections 16 and 17 of the Procurement Act (2023). In-scope organisations may consider the most appropriate form of consultation bearing in mind the needs and requirements of people and organisations being consulted, the size of the procurement and the likely social, environmental and economic impact of the procurement.",
+      "ordinal": 55,
+      "heading_path": [
+        "Issue",
+        "Technical questions and answers",
+        "Q. Who should be consulted and how should it be done?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00056",
+      "block_type": "p",
+      "text": "The Cabinet Office publishes principles on consultation exercises at Consultation Principles . In-scope organisations may wish to take account of those principles when deciding whether to consult and how to do it. The expectation is that consultations should be “digital by default” and carried out online if at all possible but in-scope organisations should consider the types of services they are looking to procure and the best way of getting the views of potential users who may not be familiar with modern IT.",
+      "ordinal": 56,
+      "heading_path": [
+        "Issue",
+        "Technical questions and answers",
+        "Q. Who should be consulted and how should it be done?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00057",
+      "block_type": "heading",
+      "text": "Q. How should in-scope organisations apply the results of considerations and consultations to the procurement process?",
+      "ordinal": 57,
+      "heading_path": [
+        "Issue",
+        "Technical questions and answers",
+        "Q. How should in-scope organisations apply the results of considerations and consultations to the procurement process?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00058",
+      "block_type": "p",
+      "text": "A. The Act does not apply to any subsequent stages of the procurement process but it does require in-scope organisations to consider social value issues and how they can be applied to the outcomes required at the initial stages of the procurement. This in turn will inform the development of the specification and the assessment of bids. The Cabinet Office’s Playbook publications place a heavy emphasis on engagement with supply markets at the initial stages of the procurement processes.",
+      "ordinal": 58,
+      "heading_path": [
+        "Issue",
+        "Technical questions and answers",
+        "Q. How should in-scope organisations apply the results of considerations and consultations to the procurement process?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00059",
+      "block_type": "p",
+      "text": "The requirements of the Act complement this approach. This type of engagement has two benefits. It enables the views of potential service users, potential suppliers and other stakeholders to be taken into account when designing the specification for the service to be procured. This can lead to more innovative solutions which take into account wider economic, environmental and social concerns. It also alerts the potential supply base to forthcoming procurements. If this is done early in the process it enables effective competition by permitting the supply base to prepare to meet demand and also may enable smaller organisations or those from the charitable or voluntary sectors to form a consortium or enter into other commercial arrangements to bid for contracts.",
+      "ordinal": 59,
+      "heading_path": [
+        "Issue",
+        "Technical questions and answers",
+        "Q. How should in-scope organisations apply the results of considerations and consultations to the procurement process?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00060",
+      "block_type": "heading",
+      "text": "Q. How can in-scope organisations demonstrate that the Act has been considered?",
+      "ordinal": 60,
+      "heading_path": [
+        "Issue",
+        "Technical questions and answers",
+        "Q. How can in-scope organisations demonstrate that the Act has been considered?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00061",
+      "block_type": "p",
+      "text": "A. Although the Act does not prescribe that considerations made under it should be recorded, as a matter of good practice, in-scope organisations may wish to keep a formal record to show that they have made the considerations required under the Act, as well as the rationale for any subsequent decisions. In the interests of transparency, in-scope organisations may also wish to indicate in any subsequent advertisements and tender documents that the requirements of the Act, the National Procurement Policy Statement and for relevant in-scope organisations, the missions in the PPN 002 Social Value Model have been considered.",
+      "ordinal": 61,
+      "heading_path": [
+        "Issue",
+        "Technical questions and answers",
+        "Q. How can in-scope organisations demonstrate that the Act has been considered?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00062",
+      "block_type": "heading",
+      "text": "Q. How does the Act relate to local authorities’ Best Value Duty?",
+      "ordinal": 62,
+      "heading_path": [
+        "Issue",
+        "Technical questions and answers",
+        "Q. How does the Act relate to local authorities’ Best Value Duty?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00063",
+      "block_type": "p",
+      "text": "The Local Government Act of 1999 sets out a general duty of best value for specified local government organisations to “make arrangements to secure continuous improvement in the way in which its functions are exercised, having regard to a combination of economy, efficiency and effectiveness”.",
+      "ordinal": 63,
+      "heading_path": [
+        "Issue",
+        "Technical questions and answers",
+        "Q. How does the Act relate to local authorities’ Best Value Duty?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00064",
+      "block_type": "p",
+      "text": "Under the duty of best value local authorities should consider overall value, including economic, environmental and social value, when reviewing service provision. The Ministry for Housing, Communities and Local Government publishes statutory guidance on the Best Value Duty .",
+      "ordinal": 64,
+      "heading_path": [
+        "Issue",
+        "Technical questions and answers",
+        "Q. How does the Act relate to local authorities’ Best Value Duty?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00065",
+      "block_type": "p",
+      "text": "Local authorities should note that the Best Value Duty complements the approach in the Act but there are some differences which are summarised in the table below:",
+      "ordinal": 65,
+      "heading_path": [
+        "Issue",
+        "Technical questions and answers",
+        "Q. How does the Act relate to local authorities’ Best Value Duty?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00066",
+      "block_type": "table",
+      "text": "Category\tBest Value Duty\tPublic services (Social Value) Act\nDuty\tConsider value (including social value)\tConsider how to improve social, economic and environmental well-being\nBody\tLocal authorities\tAll in-scope organisations\nContract\tServices, goods and works\tServices only\nProcurement stage\tThroughout the process\tInitial stages of a procurement\nValue of contract\tAny value\tOnly above threshold procurements\nConsult?\tYes, end user\tYes, on the service being provided",
+      "ordinal": 66,
+      "heading_path": [
+        "Issue",
+        "Technical questions and answers",
+        "Q. How does the Act relate to local authorities’ Best Value Duty?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {
+        "rows": [
+          [
+            "Category",
+            "Best Value Duty",
+            "Public services (Social Value) Act"
+          ],
+          [
+            "Duty",
+            "Consider value (including social value)",
+            "Consider how to improve social, economic and environmental well-being"
+          ],
+          [
+            "Body",
+            "Local authorities",
+            "All in-scope organisations"
+          ],
+          [
+            "Contract",
+            "Services, goods and works",
+            "Services only"
+          ],
+          [
+            "Procurement stage",
+            "Throughout the process",
+            "Initial stages of a procurement"
+          ],
+          [
+            "Value of contract",
+            "Any value",
+            "Only above threshold procurements"
+          ],
+          [
+            "Consult?",
+            "Yes, end user",
+            "Yes, on the service being provided"
+          ]
+        ],
+        "row_count": 7
+      }
+    },
+    {
+      "block_id": "b00067",
+      "block_type": "li",
+      "text": "Procurement Act 2023 ↩",
+      "ordinal": 67,
+      "heading_path": [
+        "Issue",
+        "Technical questions and answers",
+        "Q. How does the Act relate to local authorities’ Best Value Duty?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00068",
+      "block_type": "p",
+      "text": "Procurement Act 2023 ↩",
+      "ordinal": 68,
+      "heading_path": [
+        "Issue",
+        "Technical questions and answers",
+        "Q. How does the Act relate to local authorities’ Best Value Duty?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00069",
+      "block_type": "li",
+      "text": "The Sourcing Playbook ↩",
+      "ordinal": 69,
+      "heading_path": [
+        "Issue",
+        "Technical questions and answers",
+        "Q. How does the Act relate to local authorities’ Best Value Duty?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00070",
+      "block_type": "p",
+      "text": "The Sourcing Playbook ↩",
+      "ordinal": 70,
+      "heading_path": [
+        "Issue",
+        "Technical questions and answers",
+        "Q. How does the Act relate to local authorities’ Best Value Duty?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "[footnote 1]",
+      "href": "https://www.gov.uk/government/publications/ppn-003-the-public-services-social-value-act-2012/ppn-003-the-public-services-social-value-act-2012-html#fn:1",
+      "block_id": "b00008",
+      "ordinal": 0,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Guidance on Transitional and Savings Arrangements",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-transitional-and-saving-arrangements-html",
+      "block_id": "b00010",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "info@crowncommercial.gov.uk",
+      "href": "mailto:info@crowncommercial.gov.uk",
+      "block_id": "b00016",
+      "ordinal": 2,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "http://www.legislation.gov.uk/ukpga/2012/3/enacted",
+      "href": "http://www.legislation.gov.uk/ukpga/2012/3/enacted",
+      "block_id": "b00020",
+      "ordinal": 3,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "[footnote 2]",
+      "href": "https://www.gov.uk/government/publications/ppn-003-the-public-services-social-value-act-2012/ppn-003-the-public-services-social-value-act-2012-html#fn:2",
+      "block_id": "b00030",
+      "ordinal": 4,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 3]",
+      "href": "https://www.gov.uk/government/publications/ppn-003-the-public-services-social-value-act-2012/ppn-003-the-public-services-social-value-act-2012-html#fn:3",
+      "block_id": "b00051",
+      "ordinal": 5,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "16",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/16/enacted",
+      "block_id": "b00053",
+      "ordinal": 6,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "17",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/17/enacted",
+      "block_id": "b00053",
+      "ordinal": 7,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "16",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/16/enacted",
+      "block_id": "b00055",
+      "ordinal": 8,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "17",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/17/enacted",
+      "block_id": "b00055",
+      "ordinal": 9,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Consultation Principles",
+      "href": "http://www.cabinetoffice.gov.uk/sites/default/files/resources/Consultation-Principles.pdf",
+      "block_id": "b00056",
+      "ordinal": 10,
+      "link_type": "ATTACHMENT"
+    },
+    {
+      "text": "Best Value Duty",
+      "href": "https://www.gov.uk/government/publications/best-value-standards-and-intervention-a-statutory-guide-for-best-value-authorities",
+      "block_id": "b00064",
+      "ordinal": 11,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement Act 2023",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/7/enacted",
+      "block_id": "b00067",
+      "ordinal": 12,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-003-the-public-services-social-value-act-2012/ppn-003-the-public-services-social-value-act-2012-html#fnref:1",
+      "block_id": "b00067",
+      "ordinal": 13,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Procurement Act 2023",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/7/enacted",
+      "block_id": "b00068",
+      "ordinal": 14,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-003-the-public-services-social-value-act-2012/ppn-003-the-public-services-social-value-act-2012-html#fnref:1",
+      "block_id": "b00068",
+      "ordinal": 15,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "The Sourcing Playbook",
+      "href": "https://www.gov.uk/government/publications/the-sourcing-and-consultancy-playbooks",
+      "block_id": "b00069",
+      "ordinal": 16,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-003-the-public-services-social-value-act-2012/ppn-003-the-public-services-social-value-act-2012-html#fnref:3",
+      "block_id": "b00069",
+      "ordinal": 17,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "The Sourcing Playbook",
+      "href": "https://www.gov.uk/government/publications/the-sourcing-and-consultancy-playbooks",
+      "block_id": "b00070",
+      "ordinal": 18,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-003-the-public-services-social-value-act-2012/ppn-003-the-public-services-social-value-act-2012-html#fnref:3",
+      "block_id": "b00070",
+      "ordinal": 19,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "PPN 003: The Public Services (Social Value) Act 2012 (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-003-the-public-services-social-value-act-2012/ppn-003-the-public-services-social-value-act-2012-html",
+      "block_id": "__document__",
+      "ordinal": 20,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2024 to 2026 Starmer Labour government",
+      "href": "https://www.gov.uk/government/2024-starmer-labour-government",
+      "block_id": "__document__",
+      "ordinal": 21,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 22,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "PPN 003: The Public Services (Social Value) Act 2012",
+      "href": "https://www.gov.uk/government/publications/ppn-003-the-public-services-social-value-act-2012",
+      "block_id": "__document__",
+      "ordinal": 23,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 24,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 7",
+      "block_id": "b00008",
+      "start": 132,
+      "end": 141,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "7"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2024",
+      "block_id": "b00010",
+      "start": 92,
+      "end": 108,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2024"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2024",
+      "block_id": "b00010",
+      "start": 242,
+      "end": 258,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2024"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 1",
+      "block_id": "b00030",
+      "start": 63,
+      "end": 73,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 1",
+      "block_id": "b00034",
+      "start": 368,
+      "end": 378,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 7",
+      "block_id": "b00036",
+      "start": 91,
+      "end": 100,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "7"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "sections 16",
+      "block_id": "b00053",
+      "start": 132,
+      "end": 143,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "16"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "sections 16",
+      "block_id": "b00055",
+      "start": 102,
+      "end": 113,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "16"
+      }
+    }
+  ],
+  "attachments": [
+    {
+      "url": "http://www.cabinetoffice.gov.uk/sites/default/files/resources/Consultation-Principles.pdf",
+      "title": "Consultation Principles",
+      "discovered_in_block": "b00056"
+    }
+  ],
+  "warnings": []
+}

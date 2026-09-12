@@ -1,0 +1,163 @@
+{
+  "document_id": "3db7596b-16c9-4d49-8794-7e4018dfdc20",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/da7b12d3131e1641266c9808.json",
+  "input_sha256": "c93e9b34dace9e8f4d1b10aba2cfa641090f37de33eea845e5fc18c2cb2e6d2b",
+  "processed_at": "2026-08-27T02:26:43.691560+00:00",
+  "title": "Procurement policy note 02/16: Utilities Contracts Regulations 2016 and Concession Contracts Regulations 2016",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-policy-note-0216-utilities-contracts-regulations-2016-and-concession-contracts-regulations-2016",
+  "description": "This note explains that these regulations have been laid in Parliament and when they are due to come into force.",
+  "publication_date": "2016-03-18T16:15:00+00:00",
+  "updated_date": "2016-03-18T16:15:00+00:00",
+  "source_metadata": {
+    "content_id": "3db7596b-16c9-4d49-8794-7e4018dfdc20",
+    "base_path": "/government/publications/procurement-policy-note-0216-utilities-contracts-regulations-2016-and-concession-contracts-regulations-2016",
+    "document_type": "guidance",
+    "schema_name": "publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "The Utilities Contracts Regulations 2016 implement the 2014 EU Procurement Directive on Utilities Contracts. The Concession Contracts Regulations 2016 implement the 2014 EU Procurement Directive on Concession Contracts.",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "The new procurement rules for concession contracts apply to the public sector and to utilities. The new rules for utilities apply only to contracts let by certain utilities.",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "These regulations are due to come into force on 18 April 2016. The new rules apply to procurements starting on or after this date.",
+      "ordinal": 2,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "Read further guidance on implementing the EU procurement directives .",
+      "ordinal": 3,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "further guidance on implementing the EU procurement directives",
+      "href": "https://www.gov.uk/guidance/transposing-eu-procurement-directives",
+      "block_id": "b00003",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement policy note 02/16: Utilities Contracts Regulations 2016 and Concession Contracts Regulations 2016",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0216-utilities-contracts-regulations-2016-and-concession-contracts-regulations-2016",
+      "block_id": "__document__",
+      "ordinal": 1,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "Procurement policy notes",
+      "href": "https://www.gov.uk/government/collections/procurement-policy-notes",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_DOCUMENT_COLLECTIONS"
+    },
+    {
+      "text": "2015 to 2016 Cameron Conservative government",
+      "href": "https://www.gov.uk/government/2015-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Crown Commercial Service",
+      "href": "https://www.gov.uk/government/organisations/crown-commercial-service",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_ORIGINAL_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 7,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Government spending",
+      "href": "https://www.gov.uk/government/government-spending",
+      "block_id": "__document__",
+      "ordinal": 8,
+      "link_type": "GOVUK_TAXONS"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2016",
+      "block_id": "b00000",
+      "start": 24,
+      "end": 40,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2016"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2016",
+      "block_id": "b00000",
+      "start": 134,
+      "end": 150,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2016"
+      }
+    }
+  ],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/5a7f3937e5274a2e87db48c8/PPN_for_laying_of_UCR_and_CCR_-_final_version_to_publish.pdf",
+      "title": "Procurement Policy Note: Utilities Contracts Regulations 2016 and Concession Contracts Regulations 2016",
+      "content_type": "application/pdf",
+      "filename": "PPN_for_laying_of_UCR_and_CCR_-_final_version_to_publish.pdf",
+      "id": "1478591",
+      "logical_role": "ATTACHMENT"
+    }
+  ],
+  "warnings": []
+}

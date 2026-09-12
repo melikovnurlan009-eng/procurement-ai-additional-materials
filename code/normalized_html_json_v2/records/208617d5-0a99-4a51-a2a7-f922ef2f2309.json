@@ -1,0 +1,504 @@
+{
+  "document_id": "208617d5-0a99-4a51-a2a7-f922ef2f2309",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/7c809b702bd40d7411045222.json",
+  "input_sha256": "b1ef8ba2969f0223a43818068a4e21295184e3e5a14142ef861b8b1655b34632",
+  "processed_at": "2026-08-27T02:26:27.215381+00:00",
+  "title": "PPN 023: 2026 Threshold Amounts (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/ppn-023-2026-threshold-amounts/ppn-023-2026-threshold-amounts-html",
+  "description": null,
+  "publication_date": "2025-11-27T16:00:03+00:00",
+  "updated_date": "2025-11-27T00:00:00+00:00",
+  "source_metadata": {
+    "content_id": "208617d5-0a99-4a51-a2a7-f922ef2f2309",
+    "base_path": "/government/publications/ppn-023-2026-threshold-amounts/ppn-023-2026-threshold-amounts-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Issue",
+      "ordinal": 2,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Dissemination and scope",
+      "ordinal": 4,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Timing",
+      "ordinal": 7,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Action",
+      "ordinal": 9,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Background",
+      "ordinal": 11,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Contact",
+      "ordinal": 17,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Annex A - Summary of threshold amounts from 1 January 2026",
+      "ordinal": 19,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "Action note: 023",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "Issued: November 2025",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "heading",
+      "text": "Issue",
+      "ordinal": 2,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "1. This Procurement Policy Note (PPN) provides advanced notification of the new threshold amounts which govern the procedures for the award of public contracts for goods, works and services as set out in the Procurement Act 2023 (PA23).",
+      "ordinal": 3,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "heading",
+      "text": "Dissemination and scope",
+      "ordinal": 4,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "2. This PPN applies to all contracting authorities, as defined in section 2 of PA23. This includes all central government departments, their executive agencies, non-departmental public bodies and the wider public sector. Such bodies are referred to in this PPN as ‘in-scope organisations’.",
+      "ordinal": 5,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "p",
+      "text": "3. Please circulate this PPN within your organisation, drawing it to the attention of those with a commercial and procurement role.",
+      "ordinal": 6,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "heading",
+      "text": "Timing",
+      "ordinal": 7,
+      "heading_path": [
+        "Issue",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "4. The new threshold amounts will come into effect on 1 January 2026. As such, in-scope organisations must apply the provisions of this PPN in respect of any procurements that will commence on or after 1 January 2026.",
+      "ordinal": 8,
+      "heading_path": [
+        "Issue",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "heading",
+      "text": "Action",
+      "ordinal": 9,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "p",
+      "text": "5. In-scope organisations must apply the revised threshold amounts detailed in Annex A in respect of any procurements that will commence on or after 1 January 2026.",
+      "ordinal": 10,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "heading",
+      "text": "Background",
+      "ordinal": 11,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "6. The threshold amounts, at which public procurement opportunities are subject to the full PA23 regime governing public contracts, are due to be updated. They are revised every two years to take account of currency fluctuations, and to ensure the UK complies with its obligations under the World Trade Organisation’s Agreement on Government Procurement (GPA).",
+      "ordinal": 12,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "7. Annex A sets out the revised threshold amounts for public contracts for goods, works and services from 1 January 2026 as per the amendments made to Schedule 1 to PA23 via the Procurement Act 2023 (Threshold Amounts) (Amendment) Regulations 2025.",
+      "ordinal": 13,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "8. The threshold amounts for light touch contracts, regulated below-threshold contracts and defence and security contracts are not subject to the two-year currency fluctuation amendment required to comply with our GPA obligations. However, the threshold amounts for regulated below-threshold contracts and defence and security contracts are nonetheless being amended to ensure consistency and alignment with the GPA.",
+      "ordinal": 14,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "9. In addition, the threshold amounts in section 85 of PA23, which relate to the applicability of certain procedures to regulated below-threshold works contracts, are also being updated to ensure they also remain aligned with the GPA thresholds.",
+      "ordinal": 15,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "10. The new threshold amounts do not affect any procurement commenced before 1 January 2026. As per regulation 3 of the Procurement Act 2023 (Threshold Amounts) (Amendment) Regulations 2025, a procurement is commenced where a tender notice, transparency notice or below-threshold tender notice has been published in respect of that procurement, or the contracting authority has invited the submission of tenders in respect of a regulated below-threshold contract or has otherwise contacted a supplier to commence the award of a below-threshold contract.",
+      "ordinal": 16,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "heading",
+      "text": "Contact",
+      "ordinal": 17,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "p",
+      "text": "11. Enquiries about this PPN should be directed to the Crown Commercial Service Helpdesk (0345 410 2222, info@crowncommercial.gov.uk ).",
+      "ordinal": 18,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "heading",
+      "text": "Annex A - Summary of threshold amounts from 1 January 2026",
+      "ordinal": 19,
+      "heading_path": [
+        "Issue",
+        "Annex A - Summary of threshold amounts from 1 January 2026"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "table",
+      "text": "Number\tType of contract\tThreshold amount\n1\tDefence and security contract that is a works contract\t£5,193,000\n2\tDefence and security contract that is a concession contract\t£5,193,000\n3\tDefence and security contract not within row 1, 2 or 8\t£415,440\n4\tUtilities contract that is a works contract\t£5,193,000\n5\tUtilities contract that is a light touch contract\t£884,720\n6\tUtilities contract not within row 3, 4 or 5\t£415,440\n7\tLight touch contract that is a concession contract\t£5,372,609\n8\tLight touch contract not within row 5 or 7\t£663,540\n9\tConcession contract not within row 2, 6 or 7\t£5,193,000\n10\tWorks contract not within row 1, 4 or 9\t£5,193,000\n11\tContract for the supply of goods, services or works to a central government authority not within any other row\t£135,018\n12\tContract for the supply of goods, services or works to a sub-central government authority not within any other row\t£207,720",
+      "ordinal": 20,
+      "heading_path": [
+        "Issue",
+        "Annex A - Summary of threshold amounts from 1 January 2026"
+      ],
+      "source_locator": "details.body",
+      "metadata": {
+        "rows": [
+          [
+            "Number",
+            "Type of contract",
+            "Threshold amount"
+          ],
+          [
+            "1",
+            "Defence and security contract that is a works contract",
+            "£5,193,000"
+          ],
+          [
+            "2",
+            "Defence and security contract that is a concession contract",
+            "£5,193,000"
+          ],
+          [
+            "3",
+            "Defence and security contract not within row 1, 2 or 8",
+            "£415,440"
+          ],
+          [
+            "4",
+            "Utilities contract that is a works contract",
+            "£5,193,000"
+          ],
+          [
+            "5",
+            "Utilities contract that is a light touch contract",
+            "£884,720"
+          ],
+          [
+            "6",
+            "Utilities contract not within row 3, 4 or 5",
+            "£415,440"
+          ],
+          [
+            "7",
+            "Light touch contract that is a concession contract",
+            "£5,372,609"
+          ],
+          [
+            "8",
+            "Light touch contract not within row 5 or 7",
+            "£663,540"
+          ],
+          [
+            "9",
+            "Concession contract not within row 2, 6 or 7",
+            "£5,193,000"
+          ],
+          [
+            "10",
+            "Works contract not within row 1, 4 or 9",
+            "£5,193,000"
+          ],
+          [
+            "11",
+            "Contract for the supply of goods, services or works to a central government authority not within any other row",
+            "£135,018"
+          ],
+          [
+            "12",
+            "Contract for the supply of goods, services or works to a sub-central government authority not within any other row",
+            "£207,720"
+          ]
+        ],
+        "row_count": 13
+      }
+    }
+  ],
+  "links": [
+    {
+      "text": "info@crowncommercial.gov.uk",
+      "href": "mailto:info@crowncommercial.gov.uk",
+      "block_id": "b00018",
+      "ordinal": 0,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "PPN 023: 2026 Threshold Amounts (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-023-2026-threshold-amounts/ppn-023-2026-threshold-amounts-html",
+      "block_id": "__document__",
+      "ordinal": 1,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2024 to 2026 Starmer Labour government",
+      "href": "https://www.gov.uk/government/2024-starmer-labour-government",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "PPN 023: 2026 Threshold Amounts",
+      "href": "https://www.gov.uk/government/publications/ppn-023-2026-threshold-amounts",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 2",
+      "block_id": "b00005",
+      "start": 66,
+      "end": 75,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "2"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2025",
+      "block_id": "b00013",
+      "start": 231,
+      "end": 247,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2025"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 1",
+      "block_id": "b00013",
+      "start": 151,
+      "end": 161,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 85",
+      "block_id": "b00015",
+      "start": 41,
+      "end": 51,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "85"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 3",
+      "block_id": "b00016",
+      "start": 100,
+      "end": 112,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "3"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2025",
+      "block_id": "b00016",
+      "start": 173,
+      "end": 189,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2025"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

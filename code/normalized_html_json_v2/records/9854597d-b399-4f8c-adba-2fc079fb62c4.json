@@ -1,0 +1,1458 @@
+{
+  "document_id": "9854597d-b399-4f8c-adba-2fc079fb62c4",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/18a5b1d8eba69633d47b9de9.json",
+  "input_sha256": "f868f4c6145e0263ad17a581356b80e0aa490f4ef93cc5504fa2fae600b3c11d",
+  "processed_at": "2026-08-27T02:26:06.163693+00:00",
+  "title": "Carbon Reduction Schedule Guidance (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/ppn-0124-carbon-reduction-contract-schedule/carbon-reduction-schedule-guidance-html",
+  "description": null,
+  "publication_date": "2024-03-18T16:00:06+00:00",
+  "updated_date": "2024-03-18T00:00:00+00:00",
+  "source_metadata": {
+    "content_id": "9854597d-b399-4f8c-adba-2fc079fb62c4",
+    "base_path": "/government/publications/ppn-0124-carbon-reduction-contract-schedule/carbon-reduction-schedule-guidance-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Introduction and Context",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Guidance Notes",
+      "ordinal": 10,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Which paragraphs are appropriate to my contract?",
+      "ordinal": 14,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Schedule Section Guidance",
+      "ordinal": 17,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Net Zero Obligation",
+      "ordinal": 31,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Net Zero Commitment",
+      "ordinal": 33,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Option 1: Where PPN 06/21 was included in the Selection Questionnaire",
+      "ordinal": 35,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Option 2: Where PPN 06/21 was not included in the Selection Questionnaire",
+      "ordinal": 38,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Net Zero Contractual Commitments",
+      "ordinal": 44,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Option 3: PPN 06/21 was not included in the Selection Questionnaire but a CRP was created in line with Paragraph 2",
+      "ordinal": 49,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Reporting",
+      "ordinal": 55,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Gain-share (Optional)",
+      "ordinal": 57,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Net Zero Modification (Optional)",
+      "ordinal": 61,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Rectification Plan",
+      "ordinal": 63,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Fuel emissions",
+      "ordinal": 65,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Net Zero Supply Chain Cascade (Optional)",
+      "ordinal": 67,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Optional and Sector Specific paragraphs (Optional)",
+      "ordinal": 69,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "GHG emissions Reporting (Optional)",
+      "ordinal": 71,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "Introduction and Context",
+      "ordinal": 0,
+      "heading_path": [
+        "Introduction and Context"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "In 2019, the UK Government amended the Climate Change Act 2008 by introducing a target of at least a 100% reduction in the net UK territorial carbon account by 2050. This is otherwise known as the ‘Net Zero’ target.",
+      "ordinal": 1,
+      "heading_path": [
+        "Introduction and Context"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "As environmental and GHG emissions considerations feature in the aspects of delivery of most public contracts, there are opportunities for Contracting Authorities to take steps to support the Net Zero commitment and reduce GHG emissions through public procurement.",
+      "ordinal": 2,
+      "heading_path": [
+        "Introduction and Context"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "PPN 01/24 introduces an optional standard carbon reduction contract schedule that can be included in contracts where it is both relevant to the subject matter of the contract and proportionate to its value and objectives.",
+      "ordinal": 3,
+      "heading_path": [
+        "Introduction and Context"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "This schedule was developed with the intention that the individual Terms can be used in isolation, or in combination with others. The use of the Terms in this schedule is not mandatory, and terms should be included where relevant to the subject matter of the contract and proportionate, taking account of buyer/supplier maturity and readiness.",
+      "ordinal": 4,
+      "heading_path": [
+        "Introduction and Context"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "Before using this schedule, consideration should be given to:",
+      "ordinal": 5,
+      "heading_path": [
+        "Introduction and Context"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "li",
+      "text": "The Authority’s understanding of carbon reduction initiatives and how to apply and monitor these; Authorities have a range of maturity when it comes to GHG emissions reporting and carbon reduction initiatives. Does the Authority understand the additional requirements and can they support the Supplier to deliver decarbonisation through the T&Cs?",
+      "ordinal": 6,
+      "heading_path": [
+        "Introduction and Context"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "li",
+      "text": "The Supplier’s understanding and ability to introduce effective measures; Suppliers also have a range of maturity when it comes to GHG emissions reporting and carbon reduction initiatives. Authorities should consider the maturity of the category and supply chain when applying these T&Cs, and assess how burdensome any optional requirements might be. Whilst there is an opportunity to increase GHG emissions reduction by cascading requirements down the supply chain, there may also be a burden to SME and VCSE Suppliers in doing so and these should be well-understood before proceeding.",
+      "ordinal": 7,
+      "heading_path": [
+        "Introduction and Context"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "li",
+      "text": "The value and estimated carbon GHG emissions linked to the contract; high-value contracts are likely to demand additional resources, time and assets in contract delivery which could be associated with higher GHG emissions. It may not be proportionate to apply these T&Cs to low value contracts.",
+      "ordinal": 8,
+      "heading_path": [
+        "Introduction and Context"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "li",
+      "text": "The criticality of the contract; As with high value contracts, high criticality contracts may require more resources and produce higher GHG emissions. Low criticality contracts are often delivered by SME and VCSE Suppliers, who may be less able to provide contract specific GHG emissions data.",
+      "ordinal": 9,
+      "heading_path": [
+        "Introduction and Context"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "heading",
+      "text": "Guidance Notes",
+      "ordinal": 10,
+      "heading_path": [
+        "Introduction and Context",
+        "Guidance Notes"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "Please ensure that the Carbon Reduction Schedule is checked for accuracy before sending to the Supplier, that there is no overlap with other standard terms and that all referencing is adjusted appropriately.",
+      "ordinal": 11,
+      "heading_path": [
+        "Introduction and Context",
+        "Guidance Notes"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "The Schedule has optional sector specific paragraphs included such as for technology, facilities management, construction, etc. The options selected will depend on the nature of the contract.",
+      "ordinal": 12,
+      "heading_path": [
+        "Introduction and Context",
+        "Guidance Notes"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "Please note that these paragraphs might need to be modified and adapted to fit with the way your organisation operates. These paragraphs have been reviewed and approved by CO legal advisers, however, authorities may wish to seek their own legal advice prior to including these, or other, optional schedules.",
+      "ordinal": 13,
+      "heading_path": [
+        "Introduction and Context",
+        "Guidance Notes"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "heading",
+      "text": "Which paragraphs are appropriate to my contract?",
+      "ordinal": 14,
+      "heading_path": [
+        "Introduction and Context",
+        "Which paragraphs are appropriate to my contract?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "The paragraphs in this Schedule are optional and should be included where relevant to the subject matter of the contract and proportionate to do so. It may not be appropriate to include the T&Cs in all contracts. We encourage Authorities to test acceptability of these T&Cs with the market as soon as possible through pre-market discussions/considerations to ensure Suppliers are aware of any potential additional requirements at the earliest opportunity.",
+      "ordinal": 15,
+      "heading_path": [
+        "Introduction and Context",
+        "Which paragraphs are appropriate to my contract?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "table",
+      "text": "Schedule Section\tHigh Value*/ High GHG emissions\tLow Value/ High GHG emissions\tAuthority has Mature Understanding\tMarket has Mature Understanding\nNet Zero Obligation\t☒\t☒\t☒\t☒\nNet Zero Commitment\t☐\t☒\t☒\t☒\nNet Zero Contractual Commitments\t☒\t☒\t☒\t☒\nReporting\t☒\t☒\t☒\t☒\nGain-share (Optional)\t☐\t☐\t☒\t☒\nNet Zero Modification (Optional)\t☐\t☐\t☒\t☒\nRectification Plan\t☒\t☒\t☒\t☒\nFuel GHG emissions\t☒\t☒\t☒\t☒\nNet Zero Supply Chain Cascade (Optional)\t☐\t☐\t☐\t☒\nOptional and Sector Specific paragraphs (Optional)\tWhere relevant to the contract.\t\t\t\nGHG emissions Reporting (Optional)\t☒\t☒\t☒\t☒",
+      "ordinal": 16,
+      "heading_path": [
+        "Introduction and Context",
+        "Which paragraphs are appropriate to my contract?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {
+        "rows": [
+          [
+            "Schedule Section",
+            "High Value*/ High GHG emissions",
+            "Low Value/ High GHG emissions",
+            "Authority has Mature Understanding",
+            "Market has Mature Understanding"
+          ],
+          [
+            "Net Zero Obligation",
+            "☒",
+            "☒",
+            "☒",
+            "☒"
+          ],
+          [
+            "Net Zero Commitment",
+            "☐",
+            "☒",
+            "☒",
+            "☒"
+          ],
+          [
+            "Net Zero Contractual Commitments",
+            "☒",
+            "☒",
+            "☒",
+            "☒"
+          ],
+          [
+            "Reporting",
+            "☒",
+            "☒",
+            "☒",
+            "☒"
+          ],
+          [
+            "Gain-share (Optional)",
+            "☐",
+            "☐",
+            "☒",
+            "☒"
+          ],
+          [
+            "Net Zero Modification (Optional)",
+            "☐",
+            "☐",
+            "☒",
+            "☒"
+          ],
+          [
+            "Rectification Plan",
+            "☒",
+            "☒",
+            "☒",
+            "☒"
+          ],
+          [
+            "Fuel GHG emissions",
+            "☒",
+            "☒",
+            "☒",
+            "☒"
+          ],
+          [
+            "Net Zero Supply Chain Cascade (Optional)",
+            "☐",
+            "☐",
+            "☐",
+            "☒"
+          ],
+          [
+            "Optional and Sector Specific paragraphs (Optional)",
+            "Where relevant to the contract.",
+            "",
+            "",
+            ""
+          ],
+          [
+            "GHG emissions Reporting (Optional)",
+            "☒",
+            "☒",
+            "☒",
+            "☒"
+          ]
+        ],
+        "row_count": 12
+      }
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "heading",
+      "text": "Schedule Section Guidance",
+      "ordinal": 17,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "p",
+      "text": "Set out below is a list of guidance on the intention and envisaged usage of each section of the Schedule. This guidance document is intended to be read alongside the Carbon Reduction Schedule.",
+      "ordinal": 18,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "li",
+      "text": "Net Zero Obligation: Ensuring supplier commitment to Government or Authority Net Zero targets.",
+      "ordinal": 19,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "p",
+      "text": "Net Zero Obligation: Ensuring supplier commitment to Government or Authority Net Zero targets.",
+      "ordinal": 20,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "li",
+      "text": "Net Zero Commitment: Requires the supplier to have and maintain a Carbon Reduction Plan.",
+      "ordinal": 21,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "li",
+      "text": "Net Zero Contractual Commitments: Establishes contractual commitments, e.g. GHG emissions reduction targets or contract level carbon foot printing.",
+      "ordinal": 22,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "li",
+      "text": "Reporting: Sets out specific reporting requirements under the contract.",
+      "ordinal": 23,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "li",
+      "text": "Gain-share: A novel means of incentivising GHG emissions reductions over and above any established contractual requirements. (Based upon The Chancery Lane Project terms)",
+      "ordinal": 24,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "li",
+      "text": "Net Zero Modification: Modification paragraphs to support decarbonisation initiatives during the term of the contract (Based upon The Chancery Lane Project terms)",
+      "ordinal": 25,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "li",
+      "text": "Rectification Plan: Performance management paragraphs.",
+      "ordinal": 26,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "li",
+      "text": "Fuel emissions: Optional paragraphs that support the reduction in fuel use.",
+      "ordinal": 27,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "li",
+      "text": "Net Zero Supply Chain Cascade: Optional paragraphs that support the proportionate cascade of relevant requirements to key supply chain partners.",
+      "ordinal": 28,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "li",
+      "text": "Optional and Sector Specific paragraphs: Optional sector specific paragraphs.",
+      "ordinal": 29,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "li",
+      "text": "GHG emissions Reporting: paragraphs that support GHG emissions reporting and recording within the contract.",
+      "ordinal": 30,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "heading",
+      "text": "Net Zero Obligation",
+      "ordinal": 31,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance",
+        "Net Zero Obligation"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "p",
+      "text": "Paragraph 1 is intended to acknowledge the Government’s Net Zero target and to set the expectation that the Supplier will minimise the environmental impact associated with the delivery of the contract. This paragraph also provides the option to acknowledge the Authority’s Net Zero target and this should be included where the Authority’s target (where applicable) is different to the Government target of 2050.",
+      "ordinal": 32,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance",
+        "Net Zero Obligation"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "heading",
+      "text": "Net Zero Commitment",
+      "ordinal": 33,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance",
+        "Net Zero Commitment"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "p",
+      "text": "This section is intended to require the Supplier to have a Carbon Reduction Plan (CRP) for the whole organisation and to maintain it for the life of the contract. There are two options for this paragraph 2:",
+      "ordinal": 34,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance",
+        "Net Zero Commitment"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "heading",
+      "text": "Option 1: Where PPN 06/21 was included in the Selection Questionnaire",
+      "ordinal": 35,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance",
+        "Net Zero Commitment",
+        "Option 1: Where PPN 06/21 was included in the Selection Questionnaire"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "li",
+      "text": "This paragraph is intended to align the obligations of this Carbon Reduction Schedule with the existing obligations of PPN 06/21.",
+      "ordinal": 36,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance",
+        "Net Zero Commitment",
+        "Option 1: Where PPN 06/21 was included in the Selection Questionnaire"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "li",
+      "text": "As the contract is in scope of PPN 06/21 the Supplier will already have a CRP which it is obliged to maintain for the life of the contract.",
+      "ordinal": 37,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance",
+        "Net Zero Commitment",
+        "Option 1: Where PPN 06/21 was included in the Selection Questionnaire"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "heading",
+      "text": "Option 2: Where PPN 06/21 was not included in the Selection Questionnaire",
+      "ordinal": 38,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance",
+        "Net Zero Commitment",
+        "Option 2: Where PPN 06/21 was not included in the Selection Questionnaire"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "li",
+      "text": "Where the contract was not in scope of PPN 06/21 this option should be used to ensure that the Supplier sets an organisational Net Zero target and outlines the steps they are taking as an organisation to reduce their carbon footprint.",
+      "ordinal": 39,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance",
+        "Net Zero Commitment",
+        "Option 2: Where PPN 06/21 was not included in the Selection Questionnaire"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "li",
+      "text": "There is also an optional paragraph which requires the Supplier to create CRP and to maintain it for the life of the contract.",
+      "ordinal": 40,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance",
+        "Net Zero Commitment",
+        "Option 2: Where PPN 06/21 was not included in the Selection Questionnaire"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "p",
+      "text": "Both options include optional paragraphs which require the Supplier to keep up to date full and complete records of GHG emissions Reporting activity as an organisation which should be provided to the Authority annually.",
+      "ordinal": 41,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance",
+        "Net Zero Commitment",
+        "Option 2: Where PPN 06/21 was not included in the Selection Questionnaire"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "p",
+      "text": "It also gives the Authority the ability to request that the Supplier present their CRPS and progress toward achieving their Net Zero target and refresh their CRPs where requested.",
+      "ordinal": 42,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance",
+        "Net Zero Commitment",
+        "Option 2: Where PPN 06/21 was not included in the Selection Questionnaire"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "p",
+      "text": "Paragraph 3 gives the Authority the ability to support the Supplier to achieve their Net Zero target should it become apparent that the Supplier is not on track to meet it.",
+      "ordinal": 43,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance",
+        "Net Zero Commitment",
+        "Option 2: Where PPN 06/21 was not included in the Selection Questionnaire"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "heading",
+      "text": "Net Zero Contractual Commitments",
+      "ordinal": 44,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance",
+        "Net Zero Contractual Commitments"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "p",
+      "text": "This section is intended to oblige the Supplier to set contract specific carbon reduction targets (as opposed to those set at an organisational level such as a Carbon Reduction Plan).",
+      "ordinal": 45,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance",
+        "Net Zero Contractual Commitments"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "p",
+      "text": "There are three options for paragraph 4:",
+      "ordinal": 46,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance",
+        "Net Zero Contractual Commitments"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "li",
+      "text": "This paragraph requires the Supplier to deliver the contract in a manner which supports the achievement of both the Government and Supplier’s Net Zero target and also requires the Supplier to deliver the contract in alignment with their organisational CRP.",
+      "ordinal": 47,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance",
+        "Net Zero Contractual Commitments"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "li",
+      "text": "This paragraph requires the Supplier to deliver the contract in a manner which supports the achievement of both the Government and Supplier’s Net Zero target",
+      "ordinal": 48,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance",
+        "Net Zero Contractual Commitments"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "heading",
+      "text": "Option 3: PPN 06/21 was not included in the Selection Questionnaire but a CRP was created in line with Paragraph 2",
+      "ordinal": 49,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance",
+        "Net Zero Contractual Commitments",
+        "Option 3: PPN 06/21 was not included in the Selection Questionnaire but a CRP was created in line with Paragraph 2"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00050",
+      "block_type": "p",
+      "text": "Paragraph 5 requires the supplier to create a contract specific carbon footprint and to identify any GHG hotspots, i.e. aspects of delivery which are producing high carbon GHG emissions in relation to the rest of the contract. The Authority should discuss this with the Supplier and mutually agree the timeline for this initial assessment to be undertaken. Any hotspots identified should form the main focus on the GHG emissions reduction plan outlined at paragraph 7.",
+      "ordinal": 50,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance",
+        "Net Zero Contractual Commitments",
+        "Option 3: PPN 06/21 was not included in the Selection Questionnaire but a CRP was created in line with Paragraph 2"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00051",
+      "block_type": "p",
+      "text": "Paragraph 6 provides the standards which should be used by the Supplier when creating a contract specific carbon footprint, as required in paragraph 5. The Authority can include alternative standards where appropriate. The Authority should discuss and agree the level of assurance for the assessment with the Supplier, as well as the GHG emissions that should be included in the assessment. The Authority should consider how burdensome this will be for the Supplier and their maturity when setting these requirements.",
+      "ordinal": 51,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance",
+        "Net Zero Contractual Commitments",
+        "Option 3: PPN 06/21 was not included in the Selection Questionnaire but a CRP was created in line with Paragraph 2"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00052",
+      "block_type": "p",
+      "text": "Paragraph 7 requires the Supplier to develop an GHG emissions reduction plan for the contract, using Table 2 in the GHG emissions Reporting section, and to set a reduction target which they should strive to achieve each year. The target should be discussed and mutually agreed between the Authority and Supplier. The hotspots identified in paragraph 5 should be the main focus, but further areas could be included depending on the Supplier’s understanding and maturity. This plan should be updated and provided to the Authority annually.",
+      "ordinal": 52,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance",
+        "Net Zero Contractual Commitments",
+        "Option 3: PPN 06/21 was not included in the Selection Questionnaire but a CRP was created in line with Paragraph 2"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00053",
+      "block_type": "p",
+      "text": "Paragraph 8 gives the Authority assurance that the Supplier can deliver the contract in line with the reduction targets without any adverse effect on the quality of the deliverables or the relationship with the Authority.",
+      "ordinal": 53,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance",
+        "Net Zero Contractual Commitments",
+        "Option 3: PPN 06/21 was not included in the Selection Questionnaire but a CRP was created in line with Paragraph 2"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00054",
+      "block_type": "p",
+      "text": "Paragraph 9 gives the Authority the option to request that the contract specific carbon footprint is assessed and verified by an independent party. This can only be requested once every two contract years at most.",
+      "ordinal": 54,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance",
+        "Net Zero Contractual Commitments",
+        "Option 3: PPN 06/21 was not included in the Selection Questionnaire but a CRP was created in line with Paragraph 2"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00055",
+      "block_type": "heading",
+      "text": "Reporting",
+      "ordinal": 55,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance",
+        "Reporting"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00056",
+      "block_type": "p",
+      "text": "Paragraph 10 sets out the reporting requirements for the Supplier. The Supplier is required to re-assess the contract level GHG emissions every year for the life of the contract, including any emerging hotspots that are identified and detailing key decarbonisation opportunities that the Supplier is considering implementing. Table 1 in the GHG emissions Reporting section should be used to record this and report it back to the Authority.",
+      "ordinal": 56,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance",
+        "Reporting"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00057",
+      "block_type": "heading",
+      "text": "Gain-share (Optional)",
+      "ordinal": 57,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance",
+        "Gain-share (Optional)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00058",
+      "block_type": "p",
+      "text": "This section is optional and should only be considered for use where both the Authority and Supplier has a mature understanding of carbon reduction and where there is confidence that the contract level carbon footprint is accurately measurable.",
+      "ordinal": 58,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance",
+        "Gain-share (Optional)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00059",
+      "block_type": "p",
+      "text": "These paragraphs are intended to incentivise the Supplier to reduce the contract carbon footprint beyond the annual reduction target set out in paragraph 5. The paragraphs and gain share mechanism have been adapted from The Chancery Lane Project’s Jess & Rory’s paragraph .",
+      "ordinal": 59,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance",
+        "Gain-share (Optional)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00060",
+      "block_type": "p",
+      "text": "Paragraphs 11-15 set out the parameters around gain share payments to ensure that both parties are aware of their responsibilities should this paragraph be included.",
+      "ordinal": 60,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance",
+        "Gain-share (Optional)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00061",
+      "block_type": "heading",
+      "text": "Net Zero Modification (Optional)",
+      "ordinal": 61,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance",
+        "Net Zero Modification (Optional)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00062",
+      "block_type": "p",
+      "text": "These paragraphs have been adapted from The Chancery Lane Project’s Luna’s paragraph and are intended to give both parties a mechanism to suggest and agree to a contract modification to support the reduction of the carbon footprint. An example of where this is envisaged to be used is where new methodology or technology becomes available that could reduce the GHG emissions associated with an identified GHG hotspot. The Authorities’ existing contract change process should still be used to formalise any agreed modification.",
+      "ordinal": 62,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance",
+        "Net Zero Modification (Optional)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00063",
+      "block_type": "heading",
+      "text": "Rectification Plan",
+      "ordinal": 63,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance",
+        "Rectification Plan"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00064",
+      "block_type": "p",
+      "text": "This section is intended to hold the Supplier to account for any failures to meet their Net Zero Contractual Commitments and to oblige them to inform the Authority as soon as they become aware that they might not meet these commitments. The Authority should support the Supplier to implement an improvement plan where this is the case.",
+      "ordinal": 64,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance",
+        "Rectification Plan"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00065",
+      "block_type": "heading",
+      "text": "Fuel emissions",
+      "ordinal": 65,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance",
+        "Fuel emissions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00066",
+      "block_type": "p",
+      "text": "This is an optional paragraph that is intended to set the expectation that the Supplier will avoid fuel emissions wherever possible.",
+      "ordinal": 66,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance",
+        "Fuel emissions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00067",
+      "block_type": "heading",
+      "text": "Net Zero Supply Chain Cascade (Optional)",
+      "ordinal": 67,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance",
+        "Net Zero Supply Chain Cascade (Optional)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00068",
+      "block_type": "p",
+      "text": "This optional paragraph should be implemented where the Supplier has a mature knowledge and understanding of carbon reduction and the ability to introduce effective measures. They also need to have a good understanding of their supply chain and how burdensome implementation of these paragraphs will be, with particular consideration given to smaller suppliers (i.e. SMEs and VCSEs).",
+      "ordinal": 68,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance",
+        "Net Zero Supply Chain Cascade (Optional)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00069",
+      "block_type": "heading",
+      "text": "Optional and Sector Specific paragraphs (Optional)",
+      "ordinal": 69,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance",
+        "Optional and Sector Specific paragraphs (Optional)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00070",
+      "block_type": "p",
+      "text": "Optional and sector specific paragraphs are provided in Annex A and should be included here where relevant and proportionate to the contract. When including these terms please ensure that there is no duplication with any paragraphs included in other contract schedules and be sure to check the numbering before issuing the terms.",
+      "ordinal": 70,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance",
+        "Optional and Sector Specific paragraphs (Optional)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00071",
+      "block_type": "heading",
+      "text": "GHG emissions Reporting (Optional)",
+      "ordinal": 71,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance",
+        "GHG emissions Reporting (Optional)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00072",
+      "block_type": "p",
+      "text": "These paragraphs are intended to provide a mechanism for reporting progress against the contract carbon footprint. These paragraphs are optional and both the paragraphs and the tables should be tailored to the specific needs of the contract. The inclusion and content of this section should be discussed as part of the pre-tender engagement with the market and should then be mutually agreed by both the Authority and Supplier before finalising the contract.",
+      "ordinal": 72,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance",
+        "GHG emissions Reporting (Optional)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00073",
+      "block_type": "p",
+      "text": "Table 1: GHG emissions Report requires the Supplier to retrospectively provide contract GHG emissions figures for each year of the contract, split into scopes 1, 2 and 3. Suppliers are also required to outline any new hotspots that have been identified while carrying out the contract and to detail any new decarbonisation opportunities that could be applied to the contract.",
+      "ordinal": 73,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance",
+        "GHG emissions Reporting (Optional)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00074",
+      "block_type": "p",
+      "text": "Table 2: GHG emissions Reduction Plan requires the Supplier to specify the GHG Hotspots and associated estimated GHG emissions identified by the Carbon footprint assessment at paragraph 5 and the GHG emissions reduction target set at paragraph 7. Suppliers should then record the actual GHG emissions incurred by that hotspot for each contract year and use this figure to calculate the actual % of GHG emissions reduction achieved. This can be used by the authority to track the Suppliers’ progress and to assess if they are on track to meet their contractual GHG emissions reduction targets.",
+      "ordinal": 74,
+      "heading_path": [
+        "Introduction and Context",
+        "Schedule Section Guidance",
+        "GHG emissions Reporting (Optional)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "PPN 06/21",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0621-taking-account-of-carbon-reduction-plans-in-the-procurement-of-major-government-contracts",
+      "block_id": "b00035",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "The Chancery Lane Project’s",
+      "href": "https://chancerylaneproject.org/",
+      "block_id": "b00059",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Jess & Rory’s paragraph",
+      "href": "https://chancerylaneproject.org/climate-clauses/gain-share-incentive-for-reducing-ghg-emissions/",
+      "block_id": "b00059",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Luna’s paragraph",
+      "href": "https://chancerylaneproject.org/climate-clauses/green-construction-modifications/",
+      "block_id": "b00062",
+      "ordinal": 3,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Carbon Reduction Schedule Guidance (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-0124-carbon-reduction-contract-schedule/carbon-reduction-schedule-guidance-html",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2022 to 2024 Sunak Conservative government",
+      "href": "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "PPN 01/24 Carbon Reduction Contract Schedule",
+      "href": "https://www.gov.uk/government/publications/ppn-0124-carbon-reduction-contract-schedule",
+      "block_id": "__document__",
+      "ordinal": 7,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 8,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "Paragraph 1",
+      "block_id": "b00032",
+      "start": 0,
+      "end": 11,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 2",
+      "block_id": "b00034",
+      "start": 194,
+      "end": 205,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "2"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "Paragraph 3",
+      "block_id": "b00043",
+      "start": 0,
+      "end": 11,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "3"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 4",
+      "block_id": "b00046",
+      "start": 28,
+      "end": 39,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "4"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "Paragraph 2",
+      "block_id": "b00049",
+      "start": 103,
+      "end": 114,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "2"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "Paragraph 5",
+      "block_id": "b00050",
+      "start": 0,
+      "end": 11,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "5"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 7",
+      "block_id": "b00050",
+      "start": 456,
+      "end": 467,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "7"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "Paragraph 6",
+      "block_id": "b00051",
+      "start": 0,
+      "end": 11,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "6"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 5",
+      "block_id": "b00051",
+      "start": 139,
+      "end": 150,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "5"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "Paragraph 7",
+      "block_id": "b00052",
+      "start": 0,
+      "end": 11,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "7"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 5",
+      "block_id": "b00052",
+      "start": 340,
+      "end": 351,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "5"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "Paragraph 8",
+      "block_id": "b00053",
+      "start": 0,
+      "end": 11,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "8"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "Paragraph 9",
+      "block_id": "b00054",
+      "start": 0,
+      "end": 11,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "9"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "Paragraph 10",
+      "block_id": "b00056",
+      "start": 0,
+      "end": 12,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "10"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 5",
+      "block_id": "b00059",
+      "start": 144,
+      "end": 155,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "5"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "Paragraphs 11",
+      "block_id": "b00060",
+      "start": 0,
+      "end": 13,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "11"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 5",
+      "block_id": "b00074",
+      "start": 176,
+      "end": 187,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "5"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 7",
+      "block_id": "b00074",
+      "start": 234,
+      "end": 245,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "7"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

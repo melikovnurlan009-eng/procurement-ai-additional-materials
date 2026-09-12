@@ -1,0 +1,2110 @@
+{
+  "document_id": "3ff6dffd-e08c-423e-a76e-c83327dec8e1",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/d8e41b08b16e4c85bb749793.json",
+  "input_sha256": "4a03799a481ff0609be1980fc9de136c5420c2eefd698adc4bb13254e4996b25",
+  "processed_at": "2026-08-27T02:26:43.494250+00:00",
+  "title": "Guidance: Technical Specifications (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-technical-specifications-html",
+  "description": null,
+  "publication_date": "2024-05-24T15:08:23+01:00",
+  "updated_date": "2026-07-13T09:24:55+01:00",
+  "source_metadata": {
+    "content_id": "3ff6dffd-e08c-423e-a76e-c83327dec8e1",
+    "base_path": "/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-technical-specifications-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What are technical specifications?",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What is the legal framework that governs technical specifications?",
+      "ordinal": 10,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Wider Legislative Obligations",
+      "ordinal": 18,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What has changed?",
+      "ordinal": 20,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Key Points and policy intent",
+      "ordinal": 22,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Performance and functional requirements",
+      "ordinal": 32,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Referring to standards",
+      "ordinal": 38,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "UK standard equivalents",
+      "ordinal": 43,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Requiring certification or evidence",
+      "ordinal": 46,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Referring to trademarks, trade names, etc. and providing for equivalents",
+      "ordinal": 58,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Defined terms in this section",
+      "ordinal": 60,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What other guidance is of particular relevance to this topic area?",
+      "ordinal": 69,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Where can I go for more information or training?",
+      "ordinal": 75,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "What are technical specifications?",
+      "ordinal": 0,
+      "heading_path": [
+        "What are technical specifications?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "1. Technical specifications set out the technical requirements for the goods, works, or services that a contracting authority is purchasing.",
+      "ordinal": 1,
+      "heading_path": [
+        "What are technical specifications?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "2. Technical specifications can form part of the:",
+      "ordinal": 2,
+      "heading_path": [
+        "What are technical specifications?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "a. contracting authority’s requirements, which set out the details of the goods, services or works required;",
+      "ordinal": 3,
+      "heading_path": [
+        "What are technical specifications?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "b. conditions of participation under section 22 , which assess the supplier’s legal and financial capacity and their technical ability to perform the contract;",
+      "ordinal": 4,
+      "heading_path": [
+        "What are technical specifications?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "c. conditions of participation used in a competitive selection process when awarding public contracts in accordance with frameworks;",
+      "ordinal": 5,
+      "heading_path": [
+        "What are technical specifications?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "p",
+      "text": "d. conditions for membership of a dynamic market; or",
+      "ordinal": 6,
+      "heading_path": [
+        "What are technical specifications?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "e. award criteria, which are the criteria used to assess tenders.",
+      "ordinal": 7,
+      "heading_path": [
+        "What are technical specifications?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "3. The characteristics set out in technical specifications could relate to, for example, quality, performance, safety, dimensions, the process and methods of the production, packaging, marking and labelling. Technical specifications are included, where relevant, in the procurement documents to provide suppliers with a full description of the contracting authority’s requirements. This enables suppliers to consider whether to participate in a procurement and to prepare and submit their tender, request or application. They also help to ensure that contracting authorities and suppliers have a common understanding of the requirements.",
+      "ordinal": 8,
+      "heading_path": [
+        "What are technical specifications?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "4. Technical specifications can play a key role in driving up quality. This includes through the use of recognised standards, and, where appropriate, by requiring evidence that standards are met, for example through certification, conformity assessment and accreditation. They can also help to ensure that what is procured complies with wider legislative requirements, such as the public sector equality duty, and aligns with industry best practice. Technical specifications can also be critical in ensuring value for money when requirements are set in such a way as to take whole-lifecycle cost and other considerations into account.",
+      "ordinal": 9,
+      "heading_path": [
+        "What are technical specifications?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "heading",
+      "text": "What is the legal framework that governs technical specifications?",
+      "ordinal": 10,
+      "heading_path": [
+        "What are technical specifications?",
+        "What is the legal framework that governs technical specifications?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "5. Section 56 sets out the main provisions on technical specifications and is intended to ensure that the procurement documents (which are defined in section 56(9) ) do not unnecessarily limit competition, that suppliers are treated equally and treaty state suppliers are not discriminated against.",
+      "ordinal": 11,
+      "heading_path": [
+        "What are technical specifications?",
+        "What is the legal framework that governs technical specifications?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "6. Alongside section 56 , other sections in the Act highlight where the technical specifications provisions must be adhered to. If, in a procurement, technical specifications are part of the scope of the matters under these other sections, then the rules in these sections must also be applied. For example, technical specifications included as part of the award criteria must, in addition to complying with section 56 , be related to the subject matter of the contract (as required by section 22(2)(a) ). Where technical specifications are included in any of the following aspects of the procurement, the contracting authority must be satisfied that they do not break the rules set out in section 56 :",
+      "ordinal": 12,
+      "heading_path": [
+        "What are technical specifications?",
+        "What is the legal framework that governs technical specifications?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "a. the authority’s requirements - section 21 (tender notices and associated tender documents);",
+      "ordinal": 13,
+      "heading_path": [
+        "What are technical specifications?",
+        "What is the legal framework that governs technical specifications?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "b. conditions of participation relating to suppliers’ technical ability, including qualifications and experience - section 22 (conditions of participation);",
+      "ordinal": 14,
+      "heading_path": [
+        "What are technical specifications?",
+        "What is the legal framework that governs technical specifications?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "c. conditions of participation in a competitive selection process for the award of a public contract in accordance with a framework, relating to suppliers’ technical ability, including qualifications and experience - section 46 (frameworks: competitive selection process);",
+      "ordinal": 15,
+      "heading_path": [
+        "What are technical specifications?",
+        "What is the legal framework that governs technical specifications?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "d. conditions for membership of a dynamic market or part of a dynamic market, relating to suppliers’ technical ability, including qualifications and experience - section 36 (dynamic markets: membership); and",
+      "ordinal": 16,
+      "heading_path": [
+        "What are technical specifications?",
+        "What is the legal framework that governs technical specifications?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "e. award criteria - section 23 (award criteria);",
+      "ordinal": 17,
+      "heading_path": [
+        "What are technical specifications?",
+        "What is the legal framework that governs technical specifications?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "heading",
+      "text": "Wider Legislative Obligations",
+      "ordinal": 18,
+      "heading_path": [
+        "What are technical specifications?",
+        "What is the legal framework that governs technical specifications?",
+        "Wider Legislative Obligations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "7. Other legal obligations (outside of the Act) may apply when drawing up technical specifications. These can include various health and safety, environmental and industry-specific regulatory requirements relevant to the goods, services or works. For example, technical specifications will need to be drawn up to take account of the needs of people with disabilities, with disability accessibility and broader considerations covered by the public sector equality duty under section 149 of the Equality Act 2010 . Indeed, the Equality Act covers a range of protected characteristics and applies to the whole commercial lifecycle, not just technical specifications.",
+      "ordinal": 19,
+      "heading_path": [
+        "What are technical specifications?",
+        "What is the legal framework that governs technical specifications?",
+        "Wider Legislative Obligations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "heading",
+      "text": "What has changed?",
+      "ordinal": 20,
+      "heading_path": [
+        "What are technical specifications?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "8. The Procurement Act 2023 (Act) , unlike the previous legislation [footnote 1] , does not include a permissive list of items which could be incorporated into technical specifications, though these, and others, can of course be included. Instead, it sets out the requirements for how technical specifications are formulated and applied, which are similar to the obligations contained in the previous legislation. Also similar to the previous legislation, the Act allows contracting authorities to request certification or other evidence in relation to any standards they require.",
+      "ordinal": 21,
+      "heading_path": [
+        "What are technical specifications?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "heading",
+      "text": "Key Points and policy intent",
+      "ordinal": 22,
+      "heading_path": [
+        "What are technical specifications?",
+        "Key Points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "9. The Act includes specific provisions to ensure that:",
+      "ordinal": 23,
+      "heading_path": [
+        "What are technical specifications?",
+        "Key Points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "a. technical specifications do not unnecessarily narrow the competitive pool of suppliers and suppliers are treated equally. Even with the use of a competitive tendering procedure, it is important that contracting authorities do not design their requirements in such a way that they narrow the number of suppliers capable of meeting their needs or give an unfair advantage to particular suppliers.",
+      "ordinal": 24,
+      "heading_path": [
+        "What are technical specifications?",
+        "Key Points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "p",
+      "text": "b. contracting authorities do not discriminate against treaty state suppliers (i.e. suppliers from countries with whom the UK has entered into an international agreement specified in Schedule 9 ). These international agreements prohibit discrimination against treaty state suppliers and, in many cases, include specific provisions on technical specifications to support this, which are reflected in the Act.",
+      "ordinal": 25,
+      "heading_path": [
+        "What are technical specifications?",
+        "Key Points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "p",
+      "text": "10. In order to prepare effective technical specifications, contracting authorities should (where they are relevant) have an understanding of what standards are applicable to the goods, services and works they are procuring and ways of assuring these standards are met, such as the use of accredited conformity assessment. This includes (if it exists) where this is a legal or, policy requirement or industry best practice.",
+      "ordinal": 26,
+      "heading_path": [
+        "What are technical specifications?",
+        "Key Points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "p",
+      "text": "11. Some of the ways contracting authorities can do this is to make sure commercial and technical experts are involved throughout the procurement lifecycle (such as when drafting requirements, assessing tenders and during ongoing monitoring), incorporate lessons from previous procurements and conduct preliminary market engagement (both with suppliers and other persons).",
+      "ordinal": 27,
+      "heading_path": [
+        "What are technical specifications?",
+        "Key Points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "12. Section 56 is applicable when contracting authorities are developing their requirements for:",
+      "ordinal": 28,
+      "heading_path": [
+        "What are technical specifications?",
+        "Key Points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "p",
+      "text": "a. a competitive tendering procedure (including to award a framework);",
+      "ordinal": 29,
+      "heading_path": [
+        "What are technical specifications?",
+        "Key Points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "p",
+      "text": "b. a competitive selection process for the award of public contracts in accordance with a framework;",
+      "ordinal": 30,
+      "heading_path": [
+        "What are technical specifications?",
+        "Key Points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "p",
+      "text": "c. a process to establish a dynamic market.",
+      "ordinal": 31,
+      "heading_path": [
+        "What are technical specifications?",
+        "Key Points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "heading",
+      "text": "Performance and functional requirements",
+      "ordinal": 32,
+      "heading_path": [
+        "What are technical specifications?",
+        "Key Points and policy intent",
+        "Performance and functional requirements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "p",
+      "text": "13. The procurement documents must refer to performance or functional requirements (and not design, a particular licensing model or descriptive characteristics), unless it is not appropriate to do so. Functional requirements describe what the goods, services or works must do and performance requirements describe how well they must perform. For example:",
+      "ordinal": 33,
+      "heading_path": [
+        "What are technical specifications?",
+        "Key Points and policy intent",
+        "Performance and functional requirements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "p",
+      "text": "a. requirements for fire-resistant doors could require that the doors (in addition to passing all the necessary tests on fire resistance and meeting the necessary standards) must be fire resistant with a 30-minute burn through time, rather than, unless there are good reasons to do so, specifying how they must be made;",
+      "ordinal": 34,
+      "heading_path": [
+        "What are technical specifications?",
+        "Key Points and policy intent",
+        "Performance and functional requirements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "p",
+      "text": "b. requirements for software might include requirements relating to efficiencies, such as speed of response, or that the software is interoperable with existing software rather than prescribing a particular operating model when others could also suitably meet the requirement.",
+      "ordinal": 35,
+      "heading_path": [
+        "What are technical specifications?",
+        "Key Points and policy intent",
+        "Performance and functional requirements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "p",
+      "text": "14. The Act does allow technical specifications to refer to a design, a particular licensing model or descriptive characteristics but only where performance or functional requirements cannot be appropriately referred to instead. This might be, for example, where it is necessary to detail a specific mechanical component for a customised vehicle or an exact colour of paint to match corporate branding.",
+      "ordinal": 36,
+      "heading_path": [
+        "What are technical specifications?",
+        "Key Points and policy intent",
+        "Performance and functional requirements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "p",
+      "text": "15. Therefore, the tender documents might appropriately include a mixture of performance/functional requirements and design, model or descriptive requirements.",
+      "ordinal": 37,
+      "heading_path": [
+        "What are technical specifications?",
+        "Key Points and policy intent",
+        "Performance and functional requirements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "heading",
+      "text": "Referring to standards",
+      "ordinal": 38,
+      "heading_path": [
+        "What are technical specifications?",
+        "Key Points and policy intent",
+        "Referring to standards"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "p",
+      "text": "16. Where standards are considered appropriate, the procurement documents must refer to international standards or UK standards that adopt international equivalent standards. Only when these do not exist can the documents refer to other UK standards.",
+      "ordinal": 39,
+      "heading_path": [
+        "What are technical specifications?",
+        "Key Points and policy intent",
+        "Referring to standards"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "p",
+      "text": "17. International standards are standards such as those set by the International Organization for Standardization (ISO) and the International Electrotechnical Commission (IEC). International standards that have been adopted as UK standards include, for example, standards adopted by the British Standards Institution (BSI) as BS ISO or BS IEC standards. Only where these do not exist can other UK standards be specified and contracting authorities must accept equivalent overseas standards.",
+      "ordinal": 40,
+      "heading_path": [
+        "What are technical specifications?",
+        "Key Points and policy intent",
+        "Referring to standards"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "p",
+      "text": "18. It should be noted that a standard published by a multinational organisation should not be assumed to be internationally or nationally recognised. Contracting authorities should check to see whether standards are set or adopted internationally or nationally as relevant. If contracting authorities wish to use a standard which is not internationally or nationally recognised, whilst this is permissible in certain circumstances under section 56 , they should ensure that the standard genuinely delivers their requirement, for example ensuring it has been appropriately developed by a competent organisation.",
+      "ordinal": 41,
+      "heading_path": [
+        "What are technical specifications?",
+        "Key Points and policy intent",
+        "Referring to standards"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "p",
+      "text": "19. Where a contracting authority has not referred to a standard and instead, so long as it is appropriate (see section 56(2) ), requested certain characteristics as requirements, they could rely upon standards a supplier has obtained and verified as evidence of meeting these characteristics.",
+      "ordinal": 42,
+      "heading_path": [
+        "What are technical specifications?",
+        "Key Points and policy intent",
+        "Referring to standards"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "heading",
+      "text": "UK standard equivalents",
+      "ordinal": 43,
+      "heading_path": [
+        "What are technical specifications?",
+        "Key Points and policy intent",
+        "UK standard equivalents"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "p",
+      "text": "20. If referring to UK standards, contracting authorities must make it clear in the procurement documents that if they consider equivalent standards from overseas have been satisfied, this will be treated as having satisfied the UK standard. This does not mean that any standard that a supplier proposes to be equivalent must be accepted, without verification or without due diligence. The contracting authority may ask the supplier to demonstrate that their standard is truly equivalent and seek clarification (see paragraph 22 below). The contracting authority is only required to accept a standard as satisfying the UK standard if it is content that such a standard is a true equivalent.",
+      "ordinal": 44,
+      "heading_path": [
+        "What are technical specifications?",
+        "Key Points and policy intent",
+        "UK standard equivalents"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "p",
+      "text": "21. A contracting authority may consider its purpose in requiring the standard when judging whether another standard is equivalent to a UK standard. For example, there may be legislative product safety requirements that specify that an exact UK standard must be adhered to and therefore other standards may not be considered as equivalent.",
+      "ordinal": 45,
+      "heading_path": [
+        "What are technical specifications?",
+        "Key Points and policy intent",
+        "UK standard equivalents"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "heading",
+      "text": "Requiring certification or evidence",
+      "ordinal": 46,
+      "heading_path": [
+        "What are technical specifications?",
+        "Key Points and policy intent",
+        "Requiring certification or evidence"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "p",
+      "text": "22. Contracting authorities who require a particular standard (which may be at an organisational level or in relation to the goods, services or works to be provided), or an equivalent, to be met should satisfy themselves that this is met. Section 59(6) provides that this can be done by requiring certification or other evidence. The different types of certification or other evidence and when to request this can be set by the contracting authority and should be set out in the procurement documents. For example, in a multi-stage procurement, depending on the circumstances, it may be appropriate to request evidence earlier to avoid suppliers that do not meet the required standards progressing to later stages. Alternatively, it may instead be appropriate to progress tenders based on self-certification and then verify the standards have been met before contract award. This could save suppliers, who are ultimately unsuccessful in the final stage of the procurement, time and resources conducting verification activities. When considering the most appropriate time to request and verify evidence, contracting authorities could, for example, look at factors such as:",
+      "ordinal": 47,
+      "heading_path": [
+        "What are technical specifications?",
+        "Key Points and policy intent",
+        "Requiring certification or evidence"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "p",
+      "text": "a. the nature of the goods, services and works;",
+      "ordinal": 48,
+      "heading_path": [
+        "What are technical specifications?",
+        "Key Points and policy intent",
+        "Requiring certification or evidence"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "p",
+      "text": "b. the type of industry, the level of risk attached to the procurement; and",
+      "ordinal": 49,
+      "heading_path": [
+        "What are technical specifications?",
+        "Key Points and policy intent",
+        "Requiring certification or evidence"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00050",
+      "block_type": "p",
+      "text": "c. the resources that both the contracting authority and the supplier will need to devote to carrying out the procurement.",
+      "ordinal": 50,
+      "heading_path": [
+        "What are technical specifications?",
+        "Key Points and policy intent",
+        "Requiring certification or evidence"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00051",
+      "block_type": "p",
+      "text": "23. Whilst there is discretion for contracting authorities to set, request and verify evidence, they must be aware of their obligations elsewhere in the Act. In particular, the procurement objectives include a duty to have regard to the barriers facing small and medium-sized enterprises and whether such barriers can be removed or reduced and there are proportionality requirements relating to competitive tendering procedures, conditions of participation and award criteria.",
+      "ordinal": 51,
+      "heading_path": [
+        "What are technical specifications?",
+        "Key Points and policy intent",
+        "Requiring certification or evidence"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00052",
+      "block_type": "p",
+      "text": "24. The evidence requested may also include verification by third parties. This evidence may include certification or reports following testing, inspection, calibration, verification and/or validation by a conformity assessment body (including by an accredited conformity assessment body). Conformity assessment is the demonstration that what is being supplied actually meets the requirements specified or claimed. It is defined in the international standard for conformity assessment vocabulary and general principles ISO/IEC 17000 as, “the process demonstrating whether specified requirements relating to a product, process, service, system, person or body have been fulfilled”. [footnote 2] The organisations that carry out these assessments are called conformity assessment bodies. For example, a contracting authority may require the implementation of international standards that demonstrate a supplier’s business performance, such as through systems relating to quality management, health and safety, environmental management etc., which is evidenced by accredited certification against those standards.",
+      "ordinal": 52,
+      "heading_path": [
+        "What are technical specifications?",
+        "Key Points and policy intent",
+        "Requiring certification or evidence"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00053",
+      "block_type": "p",
+      "text": "25. Where conformity assessment is the preferred method of evidence, contracting authorities are recommended to require this is provided by accredited conformity assessment bodies. Accreditation is the recommended means of demonstrating a conformity assessment body’s technical competence, independence and impartiality. The United Kingdom Accreditation Service (UKAS) is the body appointed under the Accreditation Regulations 2009 as the UK’s sole National Accreditation Body for undertaking accreditation of conformity assessment bodies in the UK, both when accreditation is required by law and otherwise (e.g when it is considered best practice or preferred in an industry). This means that accredited UK-based conformity assessment bodies must be accredited by UKAS. Similarly, accredited conformity assessment bodies based in other countries must be accredited by their equivalent National Accreditation Body.",
+      "ordinal": 53,
+      "heading_path": [
+        "What are technical specifications?",
+        "Key Points and policy intent",
+        "Requiring certification or evidence"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00054",
+      "block_type": "p",
+      "text": "26. If a supplier provides evidence from a conformity assessment body accredited by an organisation equivalent to UKAS, it is recommended that the contracting authority considers whether the accreditation body is truly equivalent by checking whether such an organisation:",
+      "ordinal": 54,
+      "heading_path": [
+        "What are technical specifications?",
+        "Key Points and policy intent",
+        "Requiring certification or evidence"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00055",
+      "block_type": "p",
+      "text": "a. is a recognised National Accreditation Body;",
+      "ordinal": 55,
+      "heading_path": [
+        "What are technical specifications?",
+        "Key Points and policy intent",
+        "Requiring certification or evidence"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00056",
+      "block_type": "p",
+      "text": "b. has been assessed by comparable peer reviews; and",
+      "ordinal": 56,
+      "heading_path": [
+        "What are technical specifications?",
+        "Key Points and policy intent",
+        "Requiring certification or evidence"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00057",
+      "block_type": "p",
+      "text": "c. is a signatory to international multilateral recognition agreements alongside UKAS [footnote 3] .",
+      "ordinal": 57,
+      "heading_path": [
+        "What are technical specifications?",
+        "Key Points and policy intent",
+        "Requiring certification or evidence"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00058",
+      "block_type": "heading",
+      "text": "Referring to trademarks, trade names, etc. and providing for equivalents",
+      "ordinal": 58,
+      "heading_path": [
+        "What are technical specifications?",
+        "Key Points and policy intent",
+        "Referring to trademarks, trade names, etc. and providing for equivalents"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00059",
+      "block_type": "p",
+      "text": "27. Unless it is necessary to make its requirements understood, the procurement documents must not refer to trademarks, trade names, patents, designs or types, places of origin, or producers or suppliers. Where these are referred to, the procurement documents must provide that alternatives which demonstrate equivalence will not be disadvantaged.",
+      "ordinal": 59,
+      "heading_path": [
+        "What are technical specifications?",
+        "Key Points and policy intent",
+        "Referring to trademarks, trade names, etc. and providing for equivalents"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00060",
+      "block_type": "heading",
+      "text": "Defined terms in this section",
+      "ordinal": 60,
+      "heading_path": [
+        "What are technical specifications?",
+        "Key Points and policy intent",
+        "Defined terms in this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00061",
+      "block_type": "p",
+      "text": "28. Section 56(9) defines the terms used in section 56 .",
+      "ordinal": 61,
+      "heading_path": [
+        "What are technical specifications?",
+        "Key Points and policy intent",
+        "Defined terms in this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00062",
+      "block_type": "p",
+      "text": "29. Contracting authorities should be mindful that the definition of ‘procurement documents’ means that the technical specifications provisions apply more broadly than just, for example, to the technical annexes in the tender documents.",
+      "ordinal": 62,
+      "heading_path": [
+        "What are technical specifications?",
+        "Key Points and policy intent",
+        "Defined terms in this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00063",
+      "block_type": "p",
+      "text": "30. This subsection also defines the term ‘United Kingdom standard’ to add clarity for contracting authorities. Standards are documents which set out certain rules, guidelines and/or characteristics that a supplier, goods, services or works must meet or comply with.",
+      "ordinal": 63,
+      "heading_path": [
+        "What are technical specifications?",
+        "Key Points and policy intent",
+        "Defined terms in this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00064",
+      "block_type": "p",
+      "text": "31. If contracting authorities require specific labels as a way of indicating or demonstrating that suppliers, goods, services or works conform to particular standards, for example, in relation to environmental, social or other characteristics, these requirements like in standards generally, must comply with the provisions for technical specifications and the wider legal framework. For example, if a contracting authority wanted to require an environmental label as part of an environmental services contract, it would need to consider whether:",
+      "ordinal": 64,
+      "heading_path": [
+        "What are technical specifications?",
+        "Key Points and policy intent",
+        "Defined terms in this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00065",
+      "block_type": "p",
+      "text": "a. the label is internationally recognised (if not, equivalents must be accepted);",
+      "ordinal": 65,
+      "heading_path": [
+        "What are technical specifications?",
+        "Key Points and policy intent",
+        "Defined terms in this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00066",
+      "block_type": "p",
+      "text": "b. if this is part of the award criteria, it complies with section 23 . For example, whether it relates to the subject-matter of the contract and is a proportionate means of assessing tenders, etc.;",
+      "ordinal": 66,
+      "heading_path": [
+        "What are technical specifications?",
+        "Key Points and policy intent",
+        "Defined terms in this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00067",
+      "block_type": "p",
+      "text": "c. it fulfils the non-discrimination obligations in section 90 relating to treaty state suppliers;",
+      "ordinal": 67,
+      "heading_path": [
+        "What are technical specifications?",
+        "Key Points and policy intent",
+        "Defined terms in this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00068",
+      "block_type": "p",
+      "text": "d. the requirements are clear in the procurement documents.",
+      "ordinal": 68,
+      "heading_path": [
+        "What are technical specifications?",
+        "Key Points and policy intent",
+        "Defined terms in this section"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00069",
+      "block_type": "heading",
+      "text": "What other guidance is of particular relevance to this topic area?",
+      "ordinal": 69,
+      "heading_path": [
+        "What are technical specifications?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00070",
+      "block_type": "p",
+      "text": "Guidance on conditions of participation",
+      "ordinal": 70,
+      "heading_path": [
+        "What are technical specifications?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00071",
+      "block_type": "p",
+      "text": "Guidance on assessing competitive tenders",
+      "ordinal": 71,
+      "heading_path": [
+        "What are technical specifications?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00072",
+      "block_type": "p",
+      "text": "Guidance on competitive tendering procedures",
+      "ordinal": 72,
+      "heading_path": [
+        "What are technical specifications?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00073",
+      "block_type": "p",
+      "text": "Guidance on frameworks",
+      "ordinal": 73,
+      "heading_path": [
+        "What are technical specifications?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00074",
+      "block_type": "p",
+      "text": "Guidance on dynamic markets",
+      "ordinal": 74,
+      "heading_path": [
+        "What are technical specifications?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00075",
+      "block_type": "heading",
+      "text": "Where can I go for more information or training?",
+      "ordinal": 75,
+      "heading_path": [
+        "What are technical specifications?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00076",
+      "block_type": "p",
+      "text": "The Government Commercial Function (GCF): the GCF is a cross-government network that procures or supports the procurement of goods and services for the government. The GCF has published a series of Playbooks to help drive best commercial practice.",
+      "ordinal": 76,
+      "heading_path": [
+        "What are technical specifications?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00077",
+      "block_type": "p",
+      "text": "The Office for Product Safety & Standards (OPSS): the OPSS is part of the Department for Business and Trade (DBT) and leads standards and accreditation policy across Government.",
+      "ordinal": 77,
+      "heading_path": [
+        "What are technical specifications?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00078",
+      "block_type": "p",
+      "text": "The British Standards Institution (BSI): the BSI is the UK’s National Standards Body. It is responsible for producing national and international standards under a Memorandum of Understanding with DBT.",
+      "ordinal": 78,
+      "heading_path": [
+        "What are technical specifications?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00079",
+      "block_type": "p",
+      "text": "The United Kingdom Accreditation Service (UKAS): UKAS is the UK’s National Accreditation Body. UKAS accreditation assures the competence, impartiality and integrity of conformity assessment bodies that deliver services such as testing, calibration, inspection and certification. UKAS operates within the terms of a Memorandum of Understanding with DBT.",
+      "ordinal": 79,
+      "heading_path": [
+        "What are technical specifications?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00080",
+      "block_type": "p",
+      "text": "Internal department/organisational guidance or policies: depending on the organisation, a contracting authority might have its own toolkit, checklist or policies with regards to specifications.",
+      "ordinal": 80,
+      "heading_path": [
+        "What are technical specifications?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00081",
+      "block_type": "p",
+      "text": "© Crown copyright 2024",
+      "ordinal": 81,
+      "heading_path": [
+        "What are technical specifications?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00082",
+      "block_type": "p",
+      "text": "This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated. To view this licence, visit nationalarchives.gov.uk/doc/open-government-licence/version/3",
+      "ordinal": 82,
+      "heading_path": [
+        "What are technical specifications?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00083",
+      "block_type": "p",
+      "text": "Where we have identified any third-party copyright information you will need to obtain permission from the copyright holders concerned.",
+      "ordinal": 83,
+      "heading_path": [
+        "What are technical specifications?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00084",
+      "block_type": "p",
+      "text": "This publication is available at www.gov.uk/government/publications",
+      "ordinal": 84,
+      "heading_path": [
+        "What are technical specifications?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00085",
+      "block_type": "p",
+      "text": "Any enquiries regarding this publication should be sent to us at procurement.reform@cabinetoffice.gov.uk .",
+      "ordinal": 85,
+      "heading_path": [
+        "What are technical specifications?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00086",
+      "block_type": "li",
+      "text": "Section 56 of the Act replaces various provisions which were included in the Public Contracts Regulations 2015, including: regulations 42 (technical specifications), 43 (labels) and 44 (test reports, certificates and other means of proof). It also replaces similar provisions in regulations 60, 61 and 62 in the Utilities Contracts Regulations 2016, regulation 36 in the Concession Contracts Regulations 2016 and regulation 12 of the Defence and Security Public Contracts Regulations 2011. ↩",
+      "ordinal": 86,
+      "heading_path": [
+        "What are technical specifications?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00087",
+      "block_type": "p",
+      "text": "Section 56 of the Act replaces various provisions which were included in the Public Contracts Regulations 2015, including: regulations 42 (technical specifications), 43 (labels) and 44 (test reports, certificates and other means of proof). It also replaces similar provisions in regulations 60, 61 and 62 in the Utilities Contracts Regulations 2016, regulation 36 in the Concession Contracts Regulations 2016 and regulation 12 of the Defence and Security Public Contracts Regulations 2011. ↩",
+      "ordinal": 87,
+      "heading_path": [
+        "What are technical specifications?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00088",
+      "block_type": "li",
+      "text": "Conformity assessment and accreditation policy in the UK can be found online . ↩",
+      "ordinal": 88,
+      "heading_path": [
+        "What are technical specifications?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00089",
+      "block_type": "p",
+      "text": "Conformity assessment and accreditation policy in the UK can be found online . ↩",
+      "ordinal": 89,
+      "heading_path": [
+        "What are technical specifications?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00090",
+      "block_type": "li",
+      "text": "UKAS, together with many other National Accreditation Bodies, is a signatory to the International Accreditation Forum (IAF) and the International Laboratory Accreditation Cooperation (ILAC) multilateral agreements. These agreements are based on the peer assessment of National Accreditation Bodies and mean that the accreditations of signatories are considered technically equivalent. Contracting authorities should be wary of accepting accreditation by any organisations that are not signatories of these agreements (or any replacement or successor agreements having the same effect and to which UKAS is a signatory). ↩",
+      "ordinal": 90,
+      "heading_path": [
+        "What are technical specifications?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00091",
+      "block_type": "p",
+      "text": "UKAS, together with many other National Accreditation Bodies, is a signatory to the International Accreditation Forum (IAF) and the International Laboratory Accreditation Cooperation (ILAC) multilateral agreements. These agreements are based on the peer assessment of National Accreditation Bodies and mean that the accreditations of signatories are considered technically equivalent. Contracting authorities should be wary of accepting accreditation by any organisations that are not signatories of these agreements (or any replacement or successor agreements having the same effect and to which UKAS is a signatory). ↩",
+      "ordinal": 91,
+      "heading_path": [
+        "What are technical specifications?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "section 22",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/22",
+      "block_id": "b00004",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 56",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/56",
+      "block_id": "b00011",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 56(9)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/56",
+      "block_id": "b00011",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 56",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/56",
+      "block_id": "b00012",
+      "ordinal": 3,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 56",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/56",
+      "block_id": "b00012",
+      "ordinal": 4,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 22(2)(a)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/22",
+      "block_id": "b00012",
+      "ordinal": 5,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 56",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/56",
+      "block_id": "b00012",
+      "ordinal": 6,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 21",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/21",
+      "block_id": "b00013",
+      "ordinal": 7,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 22",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/22",
+      "block_id": "b00014",
+      "ordinal": 8,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 46",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/46",
+      "block_id": "b00015",
+      "ordinal": 9,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 36",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/36",
+      "block_id": "b00016",
+      "ordinal": 10,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 23",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/23",
+      "block_id": "b00017",
+      "ordinal": 11,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 149",
+      "href": "https://www.legislation.gov.uk/ukpga/2010/15/section/149",
+      "block_id": "b00019",
+      "ordinal": 12,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Equality Act 2010",
+      "href": "https://www.legislation.gov.uk/ukpga/2010/15/contents",
+      "block_id": "b00019",
+      "ordinal": 13,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement Act 2023 (Act)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/contents",
+      "block_id": "b00021",
+      "ordinal": 14,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "[footnote 1]",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-technical-specifications-html#fn:1",
+      "block_id": "b00021",
+      "ordinal": 15,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Schedule 9",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/9",
+      "block_id": "b00025",
+      "ordinal": 16,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 56",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/56",
+      "block_id": "b00028",
+      "ordinal": 17,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 56",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/56",
+      "block_id": "b00041",
+      "ordinal": 18,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 56(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/56",
+      "block_id": "b00042",
+      "ordinal": 19,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 59(6)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/59",
+      "block_id": "b00047",
+      "ordinal": 20,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "[footnote 2]",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-technical-specifications-html#fn:2",
+      "block_id": "b00052",
+      "ordinal": 21,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Accreditation Regulations 2009",
+      "href": "https://www.legislation.gov.uk/uksi/2009/3155/contents",
+      "block_id": "b00053",
+      "ordinal": 22,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "[footnote 3]",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-technical-specifications-html#fn:3",
+      "block_id": "b00057",
+      "ordinal": 23,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Section 56(9)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/56",
+      "block_id": "b00061",
+      "ordinal": 24,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 56",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/56",
+      "block_id": "b00061",
+      "ordinal": 25,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 23",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/23",
+      "block_id": "b00066",
+      "ordinal": 26,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 90",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/90",
+      "block_id": "b00067",
+      "ordinal": 27,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "conditions of participation",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-conditions-of-participation-html",
+      "block_id": "b00070",
+      "ordinal": 28,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "assessing competitive tenders",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/assessing-competitive-tenders-html",
+      "block_id": "b00071",
+      "ordinal": 29,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "competitive tendering procedures",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/competitive-tendering-procedures-html",
+      "block_id": "b00072",
+      "ordinal": 30,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "frameworks",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-frameworks-html",
+      "block_id": "b00073",
+      "ordinal": 31,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "dynamic markets",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-dynamic-markets-html",
+      "block_id": "b00074",
+      "ordinal": 32,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Government Commercial Function",
+      "href": "https://www.gov.uk/government/organisations/government-commercial-function",
+      "block_id": "b00076",
+      "ordinal": 33,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Office for Product Safety & Standards",
+      "href": "https://www.gov.uk/government/organisations/office-for-product-safety-and-standards",
+      "block_id": "b00077",
+      "ordinal": 34,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "British Standards Institution",
+      "href": "https://www.bsigroup.com/en-GB/",
+      "block_id": "b00078",
+      "ordinal": 35,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "United Kingdom Accreditation Service",
+      "href": "https://www.ukas.com/",
+      "block_id": "b00079",
+      "ordinal": 36,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "nationalarchives.gov.uk/doc/open-government-licence/version/3",
+      "href": "http://nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "block_id": "b00082",
+      "ordinal": 37,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "www.gov.uk/government/publications",
+      "href": "http://www.gov.uk/government/publications",
+      "block_id": "b00084",
+      "ordinal": 38,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "procurement.reform@cabinetoffice.gov.uk",
+      "href": "mailto:procurement.reform@cabinetoffice.gov.uk",
+      "block_id": "b00085",
+      "ordinal": 39,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "Section 56",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/56",
+      "block_id": "b00086",
+      "ordinal": 40,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-technical-specifications-html#fnref:1",
+      "block_id": "b00086",
+      "ordinal": 41,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Section 56",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/56",
+      "block_id": "b00087",
+      "ordinal": 42,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-technical-specifications-html#fnref:1",
+      "block_id": "b00087",
+      "ordinal": 43,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "online",
+      "href": "https://www.gov.uk/government/publications/conformity-assessment-and-accreditation-policy-the-uks-quality-infrastructure/conformity-assessement-and-accreditation-policy-in-the-uk",
+      "block_id": "b00088",
+      "ordinal": 44,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-technical-specifications-html#fnref:2",
+      "block_id": "b00088",
+      "ordinal": 45,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "online",
+      "href": "https://www.gov.uk/government/publications/conformity-assessment-and-accreditation-policy-the-uks-quality-infrastructure/conformity-assessement-and-accreditation-policy-in-the-uk",
+      "block_id": "b00089",
+      "ordinal": 46,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-technical-specifications-html#fnref:2",
+      "block_id": "b00089",
+      "ordinal": 47,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-technical-specifications-html#fnref:3",
+      "block_id": "b00090",
+      "ordinal": 48,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-technical-specifications-html#fnref:3",
+      "block_id": "b00091",
+      "ordinal": 49,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Guidance: Technical Specifications (HTML)",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-technical-specifications-html",
+      "block_id": "__document__",
+      "ordinal": 50,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2022 to 2024 Sunak Conservative government",
+      "href": "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 51,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 52,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Procurement Act 2023 guidance documents - Define phase",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase",
+      "block_id": "__document__",
+      "ordinal": 53,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 54,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 22",
+      "block_id": "b00004",
+      "start": 37,
+      "end": 47,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "22"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 56",
+      "block_id": "b00011",
+      "start": 3,
+      "end": 13,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "56"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 56(9)",
+      "block_id": "b00011",
+      "start": 150,
+      "end": 163,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "56",
+        "tail": "(9)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 56",
+      "block_id": "b00012",
+      "start": 13,
+      "end": 23,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "56"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 56",
+      "block_id": "b00012",
+      "start": 408,
+      "end": 418,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "56"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 22(2)(a)",
+      "block_id": "b00012",
+      "start": 486,
+      "end": 502,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "22",
+        "tail": "(2)(a)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 56",
+      "block_id": "b00012",
+      "start": 690,
+      "end": 700,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "56"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 21",
+      "block_id": "b00013",
+      "start": 34,
+      "end": 44,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "21"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 22",
+      "block_id": "b00014",
+      "start": 115,
+      "end": 125,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "22"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 46",
+      "block_id": "b00015",
+      "start": 217,
+      "end": 227,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "46"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 36",
+      "block_id": "b00016",
+      "start": 162,
+      "end": 172,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "36"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 23",
+      "block_id": "b00017",
+      "start": 20,
+      "end": 30,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "23"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 149",
+      "block_id": "b00019",
+      "start": 474,
+      "end": 485,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "149"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 9",
+      "block_id": "b00025",
+      "start": 183,
+      "end": 193,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "9"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 56",
+      "block_id": "b00028",
+      "start": 4,
+      "end": 14,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "56"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 56",
+      "block_id": "b00041",
+      "start": 438,
+      "end": 448,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "56"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 56(2)",
+      "block_id": "b00042",
+      "start": 112,
+      "end": 125,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "56",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 22",
+      "block_id": "b00044",
+      "start": 516,
+      "end": 528,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "22"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 59(6)",
+      "block_id": "b00047",
+      "start": 239,
+      "end": 252,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "59",
+        "tail": "(6)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2009",
+      "block_id": "b00053",
+      "start": 415,
+      "end": 431,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2009"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 56(9)",
+      "block_id": "b00061",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "56",
+        "tail": "(9)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 56",
+      "block_id": "b00061",
+      "start": 44,
+      "end": 54,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "56"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 23",
+      "block_id": "b00066",
+      "start": 59,
+      "end": 69,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "23"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 90",
+      "block_id": "b00067",
+      "start": 52,
+      "end": 62,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "90"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 56",
+      "block_id": "b00086",
+      "start": 0,
+      "end": 10,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "56"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015",
+      "block_id": "b00086",
+      "start": 94,
+      "end": 110,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulations 42",
+      "block_id": "b00086",
+      "start": 123,
+      "end": 137,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "42"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulations 60",
+      "block_id": "b00086",
+      "start": 279,
+      "end": 293,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "60"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2016",
+      "block_id": "b00086",
+      "start": 332,
+      "end": 348,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2016"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 36",
+      "block_id": "b00086",
+      "start": 350,
+      "end": 363,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "36"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2016",
+      "block_id": "b00086",
+      "start": 392,
+      "end": 408,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2016"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 12",
+      "block_id": "b00086",
+      "start": 413,
+      "end": 426,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "12"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2011",
+      "block_id": "b00086",
+      "start": 472,
+      "end": 488,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2011"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 56",
+      "block_id": "b00087",
+      "start": 0,
+      "end": 10,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "56"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015",
+      "block_id": "b00087",
+      "start": 94,
+      "end": 110,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulations 42",
+      "block_id": "b00087",
+      "start": 123,
+      "end": 137,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "42"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulations 60",
+      "block_id": "b00087",
+      "start": 279,
+      "end": 293,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "60"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2016",
+      "block_id": "b00087",
+      "start": 332,
+      "end": 348,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2016"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 36",
+      "block_id": "b00087",
+      "start": 350,
+      "end": 363,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "36"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2016",
+      "block_id": "b00087",
+      "start": 392,
+      "end": 408,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2016"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 12",
+      "block_id": "b00087",
+      "start": 413,
+      "end": 426,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "12"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2011",
+      "block_id": "b00087",
+      "start": 472,
+      "end": 488,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2011"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

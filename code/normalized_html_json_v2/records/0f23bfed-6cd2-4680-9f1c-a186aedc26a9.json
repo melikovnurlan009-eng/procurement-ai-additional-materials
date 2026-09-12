@@ -1,0 +1,3279 @@
+{
+  "document_id": "0f23bfed-6cd2-4680-9f1c-a186aedc26a9",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/0f0eb853f854df3b03f49a8c.json",
+  "input_sha256": "ddf5bd83374c41a8007555a5920fc42c361da17a70b02056de4359291d3a4add",
+  "processed_at": "2026-08-27T02:26:04.715916+00:00",
+  "title": "PPN 005: Guide to reserving below threshold (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/ppn-005-reserving-below-threshold-procurements/ppn-005-guide-to-reserving-below-threshold-html",
+  "description": null,
+  "publication_date": "2025-02-17T14:44:07+00:00",
+  "updated_date": "2025-02-17T00:00:00+00:00",
+  "source_metadata": {
+    "content_id": "0f23bfed-6cd2-4680-9f1c-a186aedc26a9",
+    "base_path": "/government/publications/ppn-005-reserving-below-threshold-procurements/ppn-005-guide-to-reserving-below-threshold-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Introduction",
+      "ordinal": 2,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Reserving contracts",
+      "ordinal": 5,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Definitions",
+      "ordinal": 12,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Considerations",
+      "ordinal": 17,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Ensuring value for money",
+      "ordinal": 20,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Identifying and managing risks",
+      "ordinal": 26,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Using model contracts",
+      "ordinal": 43,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Developing KPIs and data reporting",
+      "ordinal": 56,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Undertaking supplier due diligence",
+      "ordinal": 60,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Publishing transparency notices",
+      "ordinal": 76,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Contact",
+      "ordinal": 83,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Annex A: Reserving by supplier location template",
+      "ordinal": 85,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Section A: Requirement",
+      "ordinal": 87,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Section B: Rationale",
+      "ordinal": 94,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Section C: Approval",
+      "ordinal": 98,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Annex B: FAQs",
+      "ordinal": 104,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q1. Which type of procurements does the policy apply to?",
+      "ordinal": 105,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q2. Can the policy be applied to framework agreements and dynamic markets?",
+      "ordinal": 107,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q3. Are there any exceptions that apply to this policy?",
+      "ordinal": 109,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q4. Am I obliged to reserve below threshold procurements?",
+      "ordinal": 114,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q5. Am I obliged to reserve below threshold procurements for UK SMEs and VCSEs?",
+      "ordinal": 116,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q6. Am I able to reserve below threshold procurements for SMEs and VCSEs without applying the location reservation?",
+      "ordinal": 118,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q7. Am I able to reserve below threshold procurements only for SMEs?",
+      "ordinal": 120,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q8. How do we ensure procurers do not disaggregate requirements to avoid above threshold obligations?",
+      "ordinal": 122,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q9. Am I able to direct award under this policy?",
+      "ordinal": 127,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q10. Does the policy apply to consortia bidding?",
+      "ordinal": 141,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q11. How do I verify that a supplier is an SME?",
+      "ordinal": 144,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q12. What options are available when reserving a procurement by supplier location?",
+      "ordinal": 146,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q13. Can a combined authority that represents more than a single county reserve for all the counties it represents under this policy?",
+      "ordinal": 148,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q14. Can I reserve a procurement for suppliers in England under this policy?",
+      "ordinal": 150,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q15. If an in-scope organisation is procuring overseas, can it reserve a procurement for suppliers within that location under this policy?",
+      "ordinal": 153,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q16. Could I reserve a procurement for suppliers located in a ‘historic county’ such as Yorkshire under this policy?",
+      "ordinal": 155,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q17. Is the policy open to contracting authorities in Northern Ireland and Wales to use?",
+      "ordinal": 157,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q18. How would a county reservation apply in Northern Ireland or Wales?",
+      "ordinal": 160,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q19. What do I need to consider when deciding whether to reserve a procurement by supplier location under this policy?",
+      "ordinal": 162,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q20. Should the decision to reserve procurements be taken on a case-by-case basis or as part of a wider organisational approach?",
+      "ordinal": 166,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q21. If I reserve by supplier location (i.e. UK) without reserving for SMEs / VCSEs, would the supplier’s subcontractors and supply chain also need to be based within the UK?",
+      "ordinal": 168,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q22. How do we prevent businesses setting up ‘phantom’ offices in order to be eligible for the UK reservation?",
+      "ordinal": 170,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q23. How do we ensure that contracts are not awarded to suppliers where a conflict of interest exists with a member of the in-scope organisation?",
+      "ordinal": 173,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q24. What should I do if I am aware of a conflict of interest between someone within my organisation and a supplier which has not been flagged?",
+      "ordinal": 183,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q25. Is there a simple contract document that I can use for below threshold contracts?",
+      "ordinal": 185,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q26. Are KPIs required for below threshold contracts?",
+      "ordinal": 188,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q27. What are the transparency requirements for below threshold contracts?",
+      "ordinal": 196,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q28. How do I include information about the reservation I’m applying to a procurement on a ‘Below Threshold Tender Notice’ on FTS?",
+      "ordinal": 198,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "Previously issued: December 2020",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "Updated: February 2025",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "heading",
+      "text": "Introduction",
+      "ordinal": 2,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "1. This guide describes what to consider in deciding whether and how to reserve procurements for below threshold contracts. Commercial practitioners at all levels within central government departments, their executive agencies and non- departmental public bodies (referred to in this document as ‘in-scope organisations’) should consider this guide when seeking to apply the specified reservations. Other contracting authorities may apply the principles outlined in this PPN. However, application of the PPN should be considered in the light of authorities’ relevant legal obligations.",
+      "ordinal": 3,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "2. This guidance covers options that may be considered by in-scope organisations when the estimated value of the procurement is less than the relevant threshold applicable under Schedule 1 to the Procurement Act 2023, and the contract is a regulated below threshold contract. [footnote 1]",
+      "ordinal": 4,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "heading",
+      "text": "Reserving contracts",
+      "ordinal": 5,
+      "heading_path": [
+        "Introduction",
+        "Reserving contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "p",
+      "text": "3. In-scope organisations should consider, where appropriate, the following options for the procurement of below threshold contracts:",
+      "ordinal": 6,
+      "heading_path": [
+        "Introduction",
+        "Reserving contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "li",
+      "text": "Reserve the procurement by supplier location. This means being able to run a competition and specify that only suppliers located in a geographical area can bid. This could be UK-wide to support domestic supply chains and promote resilience and capacity, or where appropriate, by county (metropolitan or non-metropolitan, or by borough for London) to tackle economic inequality and support local recruitment, training, skills and investment. In-scope organisations should not define by nations of the UK (i.e. England, Scotland, Wales, Northern Ireland) and where a county reservation is to be applied, only a single county (or borough for London) may be reserved. Supplier location should be described by reference to where the supplier is based or established and has substantive business operations and not by location of corporate ownership.",
+      "ordinal": 7,
+      "heading_path": [
+        "Introduction",
+        "Reserving contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "li",
+      "text": "Reserve the procurement for small and medium sized enterprises (SMEs) and voluntary, community and social enterprises (VCSEs) – this means being able to run a competition and specify that only SMEs and VCSEs can bid.",
+      "ordinal": 8,
+      "heading_path": [
+        "Introduction",
+        "Reserving contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "4. These options should be considered on a case-by-case basis. For example, for one procurement an in-scope organisation may wish to reserve the procurement for suppliers based in a particular location (UK-wide, county, borough) only, but for another procurement they may want to reserve for SMEs and VCSEs in a particular location. To note, the reservation for SMEs and VCSEs cannot be applied independently of the location reservation, which must always apply when reserving under this policy. Whichever option(s) is selected, in-scope organisations should not reserve procurements by nations of the UK (i.e. England, Scotland, Wales, Northern Ireland).",
+      "ordinal": 9,
+      "heading_path": [
+        "Introduction",
+        "Reserving contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "p",
+      "text": "5. In-scope organisations may still choose to compete below threshold contracts on an open basis without any reservation for supplier type or supplier location where it is considered the approach will deliver better value for money, for example because there is a lack of a competitive market. This could include bids from overseas suppliers.",
+      "ordinal": 10,
+      "heading_path": [
+        "Introduction",
+        "Reserving contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "6. In order to ensure value for money, in-scope organisations should not direct award a contract when reserving procurements under this policy.",
+      "ordinal": 11,
+      "heading_path": [
+        "Introduction",
+        "Reserving contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "heading",
+      "text": "Definitions",
+      "ordinal": 12,
+      "heading_path": [
+        "Introduction",
+        "Definitions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "7. In-scope organisations should describe clearly in their procurement notices and documentation which reservations are to be applied, including the standardised definitions of SME and VCSE, and any supplier location restrictions. The following definitions should be used:",
+      "ordinal": 13,
+      "heading_path": [
+        "Introduction",
+        "Definitions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "li",
+      "text": "Small and medium sized enterprise (SME): Any business with fewer than 250 staff and have a turnover of an amount less than or equal to £44 million, or a balance sheet total of an amount less than or equal to £38 million.",
+      "ordinal": 14,
+      "heading_path": [
+        "Introduction",
+        "Definitions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "li",
+      "text": "Voluntary, community and social enterprises (VCSEs): Any organisation (incorporated or not) working with a social purpose. This ranges from small community-based groups/schemes, through to larger registered charities and social enterprises, public service mutuals and co-operatives that operate locally, regionally and nationally. This term is often interchangeable with the terms ‘third sector’ or ‘civil society’ organisations.",
+      "ordinal": 15,
+      "heading_path": [
+        "Introduction",
+        "Definitions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "li",
+      "text": "Supplier location: Where the supplier is based or established in a particular location and has substantive business operations in that location. In this context, this means having a registered office, factory or other permanent base in that location from which meaningful business operations have been conducted for at least 12 months. For example, if the reservation is for the UK or a county such as Dorset (non-metropolitan county), this should not preclude foreign suppliers from participating as long as they are based or established and have substantive business operations in the UK in the first example or in Dorset in the second example.",
+      "ordinal": 16,
+      "heading_path": [
+        "Introduction",
+        "Definitions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "heading",
+      "text": "Considerations",
+      "ordinal": 17,
+      "heading_path": [
+        "Introduction",
+        "Considerations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "p",
+      "text": "8. In opting to reserve a procurement by supplier location/type, in-scope organisations will still need to comply with their own internal guidance, governance and procedures. This includes considering a range of additional information to identify and manage risks and ensure value for money, as well as good commercial practices.",
+      "ordinal": 18,
+      "heading_path": [
+        "Introduction",
+        "Considerations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "9. In-scope organisations should keep appropriate records of all their commercial decisions. Spot checks on below threshold procurements may be undertaken by the Public Procurement Review Service.",
+      "ordinal": 19,
+      "heading_path": [
+        "Introduction",
+        "Considerations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "heading",
+      "text": "Ensuring value for money",
+      "ordinal": 20,
+      "heading_path": [
+        "Introduction",
+        "Ensuring value for money"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "10. Value for money is a fundamental principle of Managing Public Money . It requires cost and quality to be balanced and this can be achieved by securing the best mix of quality and effectiveness for the least outlay over the period of use of the goods or services bought. It is not about minimising upfront prices; value for money is about securing the best whole life cost, demonstrated throughout the contract and beyond.",
+      "ordinal": 21,
+      "heading_path": [
+        "Introduction",
+        "Ensuring value for money"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "p",
+      "text": "11. In the context of this policy, value for money will not be achieved through direct award of a contract. Competition may be achieved through obtaining written quotes or through a full tender process.",
+      "ordinal": 22,
+      "heading_path": [
+        "Introduction",
+        "Ensuring value for money"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "12. Consideration should be given to the appropriate method of competition based on factors such as transparency, the sector, supply base, value and complexity of the requirement.",
+      "ordinal": 23,
+      "heading_path": [
+        "Introduction",
+        "Ensuring value for money"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "13. When opting to reserve a procurement for suppliers located in a specific location, in- scope organisations should record the rationale/approval of their decision and keep this with other procurement documentation. A sample template is provided at Annex A: Reserving by supplier location template",
+      "ordinal": 24,
+      "heading_path": [
+        "Introduction",
+        "Ensuring value for money"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "p",
+      "text": "14. In-scope organisations may choose to compete below threshold contracts on an open basis without any reservation for supplier location/type where it is considered the approach will deliver value for money more effectively, for example because there is a lack of a competitive market. This could include bids from overseas suppliers.",
+      "ordinal": 25,
+      "heading_path": [
+        "Introduction",
+        "Ensuring value for money"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "heading",
+      "text": "Identifying and managing risks",
+      "ordinal": 26,
+      "heading_path": [
+        "Introduction",
+        "Identifying and managing risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "p",
+      "text": "15. The purpose of commercial and reputational risk management is to ensure government contracts are awarded and completed successfully in support of government policy or organisation objectives, taking into account the extent of identified threats and opportunities. Overall risk should be managed within the organisation’s risk appetite and tolerance and in accordance with the Orange Book .",
+      "ordinal": 27,
+      "heading_path": [
+        "Introduction",
+        "Identifying and managing risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "16. While there are a broad range of risk categories which may apply to specific procurements, in-scope organisations should always consider the potential commercial, and fraud and corruption risks when undertaking below threshold procurements.",
+      "ordinal": 28,
+      "heading_path": [
+        "Introduction",
+        "Identifying and managing risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "p",
+      "text": "17. Commercial risks may include:",
+      "ordinal": 29,
+      "heading_path": [
+        "Introduction",
+        "Identifying and managing risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "li",
+      "text": "the ability of the market to provide the quantity and quality of services or goods required",
+      "ordinal": 30,
+      "heading_path": [
+        "Introduction",
+        "Identifying and managing risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "li",
+      "text": "interruptions to public services which rely on suppliers",
+      "ordinal": 31,
+      "heading_path": [
+        "Introduction",
+        "Identifying and managing risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "li",
+      "text": "poor performance by suppliers",
+      "ordinal": 32,
+      "heading_path": [
+        "Introduction",
+        "Identifying and managing risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "li",
+      "text": "impact of uncertainties in volume of service or goods provided",
+      "ordinal": 33,
+      "heading_path": [
+        "Introduction",
+        "Identifying and managing risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "li",
+      "text": "failure of a supplier to meet all or part of their obligations",
+      "ordinal": 34,
+      "heading_path": [
+        "Introduction",
+        "Identifying and managing risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "p",
+      "text": "18. In-scope organisations should ensure effective risk management is established in their commercial assurance and governance processes that is proportionate to the value, complexity and criticality of the contract to the organisation. A proactive approach to identifying and managing risks and opportunities using contracts effectively can drive improvement, innovation and value throughout the commercial lifecycle. The key is to have joined up, transparent mechanisms to identify and handle foreseen and unforeseen risks and opportunities when they arise. For further guidance on risk identification, allocation and management in services and works contracts refer to the Sourcing Playbook and Construction Playbook .",
+      "ordinal": 35,
+      "heading_path": [
+        "Introduction",
+        "Identifying and managing risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "p",
+      "text": "19. Fraud and corruption risks may include:",
+      "ordinal": 36,
+      "heading_path": [
+        "Introduction",
+        "Identifying and managing risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "li",
+      "text": "conflicts of interest, where a relationship exists between a member of the in-scope organisation and the supplier",
+      "ordinal": 37,
+      "heading_path": [
+        "Introduction",
+        "Identifying and managing risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "li",
+      "text": "disaggregation of contracts, purposely splitting out requirements to avoid above threshold obligations",
+      "ordinal": 38,
+      "heading_path": [
+        "Introduction",
+        "Identifying and managing risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "li",
+      "text": "gaming the policy, setting up ‘phantom’ offices to be eligible for geographically defined contracts",
+      "ordinal": 39,
+      "heading_path": [
+        "Introduction",
+        "Identifying and managing risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "li",
+      "text": "abuse of contract amendments/change orders to increase contract price after award",
+      "ordinal": 40,
+      "heading_path": [
+        "Introduction",
+        "Identifying and managing risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "p",
+      "text": "20. In-scope organisations should identify and manage fraud and corruption risks in their below threshold procurements, identifying appropriate safeguards and mitigating actions through which to manage those risks. Relevant actions may relate to internal assurance and governance processes, conflict of interest (guidance, declarations), contract oversight (pipeline, register), spend analysis, supplier due diligence etc. It is recommended that an assessment of fraud and corruption risks for below threshold procurements is undertaken with the counter fraud team/person within the organisation.",
+      "ordinal": 41,
+      "heading_path": [
+        "Introduction",
+        "Identifying and managing risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "p",
+      "text": "21. For further guidance on managing fraud and corruption risks refer to Annex B: FAQs",
+      "ordinal": 42,
+      "heading_path": [
+        "Introduction",
+        "Identifying and managing risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "heading",
+      "text": "Using model contracts",
+      "ordinal": 43,
+      "heading_path": [
+        "Introduction",
+        "Using model contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "p",
+      "text": "22. Choosing the right terms and conditions of contract is essential for government and public sector buyers to achieve best value. These should not be burdensome and be relevant and proportionate to the value and risk of the procurement.",
+      "ordinal": 44,
+      "heading_path": [
+        "Introduction",
+        "Using model contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "li",
+      "text": "Goods and services: The Short Form Contract has been developed by the Cabinet Office for general goods and/or services contracts with a value below the relevant thresholds. The document is designed to ensure that you are able to use appropriate and proportionately ‘light touch’ contract terms for below threshold procurements. This is aimed at avoiding the use of overly complex terms which can increase costs and act as a barrier to the involvement of SMEs and VCSEs. Further guidance is included in the introductory notes at the beginning of the Short Form Contract.",
+      "ordinal": 45,
+      "heading_path": [
+        "Introduction",
+        "Using model contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "li",
+      "text": "The Short Form Contract has been developed by the Cabinet Office for general goods and/or services contracts with a value below the relevant thresholds.",
+      "ordinal": 46,
+      "heading_path": [
+        "Introduction",
+        "Using model contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "li",
+      "text": "The document is designed to ensure that you are able to use appropriate and proportionately ‘light touch’ contract terms for below threshold procurements. This is aimed at avoiding the use of overly complex terms which can increase costs and act as a barrier to the involvement of SMEs and VCSEs. Further guidance is included in the introductory notes at the beginning of the Short Form Contract.",
+      "ordinal": 47,
+      "heading_path": [
+        "Introduction",
+        "Using model contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "li",
+      "text": "Works: There are many benefits to using industry model contracts for works, including: they are industry recognised, tested and accepted contractual terms they are regularly updated to take account of changes in statute and relevant case law users are familiar with the administration requirements and risk apportionment of the various different contracts their precise meaning and terminology has been tested through the courts there is no need to spend time and cost negotiating terms of bespoke contracts model forms of contract for construction, suitable for varying levels of value and complexity are referenced in the Construction Playbook",
+      "ordinal": 48,
+      "heading_path": [
+        "Introduction",
+        "Using model contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "li",
+      "text": "There are many benefits to using industry model contracts for works, including:",
+      "ordinal": 49,
+      "heading_path": [
+        "Introduction",
+        "Using model contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00050",
+      "block_type": "li",
+      "text": "they are industry recognised, tested and accepted contractual terms",
+      "ordinal": 50,
+      "heading_path": [
+        "Introduction",
+        "Using model contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00051",
+      "block_type": "li",
+      "text": "they are regularly updated to take account of changes in statute and relevant case law",
+      "ordinal": 51,
+      "heading_path": [
+        "Introduction",
+        "Using model contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00052",
+      "block_type": "li",
+      "text": "users are familiar with the administration requirements and risk apportionment of the various different contracts",
+      "ordinal": 52,
+      "heading_path": [
+        "Introduction",
+        "Using model contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00053",
+      "block_type": "li",
+      "text": "their precise meaning and terminology has been tested through the courts",
+      "ordinal": 53,
+      "heading_path": [
+        "Introduction",
+        "Using model contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00054",
+      "block_type": "li",
+      "text": "there is no need to spend time and cost negotiating terms of bespoke contracts",
+      "ordinal": 54,
+      "heading_path": [
+        "Introduction",
+        "Using model contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00055",
+      "block_type": "li",
+      "text": "model forms of contract for construction, suitable for varying levels of value and complexity are referenced in the Construction Playbook",
+      "ordinal": 55,
+      "heading_path": [
+        "Introduction",
+        "Using model contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00056",
+      "block_type": "heading",
+      "text": "Developing KPIs and data reporting",
+      "ordinal": 56,
+      "heading_path": [
+        "Introduction",
+        "Developing KPIs and data reporting"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00057",
+      "block_type": "p",
+      "text": "23. The central aim of any contract is to obtain the goods or services as agreed in the contract and achieve value for money. This means optimising the efficiency, effectiveness and economy of the product/service described by the contract, balancing costs against risks and actively managing the supplier relationship.",
+      "ordinal": 57,
+      "heading_path": [
+        "Introduction",
+        "Developing KPIs and data reporting"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00058",
+      "block_type": "p",
+      "text": "24. While there is no obligation under the Procurement Act for below threshold contracts to have key performance indicators (KPIs), it may be appropriate for below threshold contracts to include KPIs in order to track successful performance of the contract. KPIs may also be used to mitigate identified contract risks. KPI categories typically include delivery, product/service quality, best practice and continuous improvement, asset/service availability, customer focus, environmental factors and ethical and social issues. The number of KPIs included should be proportionate and will depend on the value, complexity and criticality of the contract.",
+      "ordinal": 58,
+      "heading_path": [
+        "Introduction",
+        "Developing KPIs and data reporting"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00059",
+      "block_type": "p",
+      "text": "25. A performance baseline for the contract – i.e. the existing level at which the service is being delivered – should be identified in order that performance measures and any improvements in performance are then tracked and monitored against the baseline during the life of the contract. Assessment and reporting of KPIs should be undertaken on a regular basis. Depending on the KPIs selected, assessment may be binary (satisfactory or unsatisfactory) or numerical (counted or measured). Other KPIs may be more subjective, i.e. those relating to useability or flexibility. Assessment is still important, and the approach should ensure the information collected is analysed and used in a meaningful and objective way. To note, there is no requirement under the Procurement Act for in-scope organisations to publish KPIs for below threshold contracts.",
+      "ordinal": 59,
+      "heading_path": [
+        "Introduction",
+        "Developing KPIs and data reporting"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00060",
+      "block_type": "heading",
+      "text": "Undertaking supplier due diligence",
+      "ordinal": 60,
+      "heading_path": [
+        "Introduction",
+        "Undertaking supplier due diligence"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00061",
+      "block_type": "p",
+      "text": "26. Due diligence can help minimise common purchasing risks and can help organisations make better purchasing decisions. The level of due diligence to be undertaken will vary depending on the nature, size, complexity and value of a contract. For below threshold contracts, due diligence may include:",
+      "ordinal": 61,
+      "heading_path": [
+        "Introduction",
+        "Undertaking supplier due diligence"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00062",
+      "block_type": "li",
+      "text": "verifying the supplier meets the relevant definitions for an SME, VCSE, or the supplier location specific to this policy checking supplier details with Companies House and other open information sources",
+      "ordinal": 62,
+      "heading_path": [
+        "Introduction",
+        "Undertaking supplier due diligence"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00063",
+      "block_type": "li",
+      "text": "checking supplier details with Companies House and other open information sources",
+      "ordinal": 63,
+      "heading_path": [
+        "Introduction",
+        "Undertaking supplier due diligence"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00064",
+      "block_type": "li",
+      "text": "referring to Companies House disqualified directors register",
+      "ordinal": 64,
+      "heading_path": [
+        "Introduction",
+        "Undertaking supplier due diligence"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00065",
+      "block_type": "li",
+      "text": "verifying VAT numbers (if applicable)",
+      "ordinal": 65,
+      "heading_path": [
+        "Introduction",
+        "Undertaking supplier due diligence"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00066",
+      "block_type": "li",
+      "text": "undertaking ethical practices and criminal checks",
+      "ordinal": 66,
+      "heading_path": [
+        "Introduction",
+        "Undertaking supplier due diligence"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00067",
+      "block_type": "li",
+      "text": "requesting and verifying references/evidence of previous work (with consideration given for startups/new entrants)",
+      "ordinal": 67,
+      "heading_path": [
+        "Introduction",
+        "Undertaking supplier due diligence"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00068",
+      "block_type": "li",
+      "text": "requesting and verifying (where relevant) qualifications, trade certificates etc.",
+      "ordinal": 68,
+      "heading_path": [
+        "Introduction",
+        "Undertaking supplier due diligence"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00069",
+      "block_type": "li",
+      "text": "undertaking site visits (where appropriate)",
+      "ordinal": 69,
+      "heading_path": [
+        "Introduction",
+        "Undertaking supplier due diligence"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00070",
+      "block_type": "p",
+      "text": "27. In-scope organisations should comply with their own internal guidance on due diligence for below threshold contracts, record due diligence undertaken and keep with other procurement documents. In-scope organisations are reminded to ensure that contract requirements are proportionate and do not create barriers for SMEs. In particular, financial turnover requirements and requirements for insurance and other liability should be proportionate.",
+      "ordinal": 70,
+      "heading_path": [
+        "Introduction",
+        "Undertaking supplier due diligence"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00071",
+      "block_type": "p",
+      "text": "28. In-scope organisations are also reminded that in accordance with section 85 of the Procurement Act, where they invite the submission of tenders in relation to the award of a regulated below threshold contract, they may not restrict the submission of tenders by reference to an assessment of a supplier’s suitability to perform the contract. However, a supplier’s suitability (legal and financial capacity and technical ability) can be considered alongside a full tender submission with accompanying due diligence as referenced above.",
+      "ordinal": 71,
+      "heading_path": [
+        "Introduction",
+        "Undertaking supplier due diligence"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00072",
+      "block_type": "p",
+      "text": "29. There is an exception at section 85(3) to the rule prohibiting a separate suitability stage in relation to a below-threshold works contract if the contract has an estimated value of:",
+      "ordinal": 72,
+      "heading_path": [
+        "Introduction",
+        "Undertaking supplier due diligence"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00073",
+      "block_type": "p",
+      "text": "a. in the case of a contract to be awarded by a central government authority, not less than £139,688; or",
+      "ordinal": 73,
+      "heading_path": [
+        "Introduction",
+        "Undertaking supplier due diligence"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00074",
+      "block_type": "p",
+      "text": "b. otherwise, not less than £214,904",
+      "ordinal": 74,
+      "heading_path": [
+        "Introduction",
+        "Undertaking supplier due diligence"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00075",
+      "block_type": "p",
+      "text": "30. This exception is because the works threshold is much higher, and it is appropriate that in-scope organisations carrying out procurements for higher value below-threshold works contracts that are still above the goods and services thresholds, are able to include a separate suitability stage before the award stage, if desired.",
+      "ordinal": 75,
+      "heading_path": [
+        "Introduction",
+        "Undertaking supplier due diligence"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00076",
+      "block_type": "heading",
+      "text": "Publishing transparency notices",
+      "ordinal": 76,
+      "heading_path": [
+        "Introduction",
+        "Publishing transparency notices"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00077",
+      "block_type": "p",
+      "text": "31. It is government policy to adopt and encourage greater transparency in its commercial activity. Section 87 of the Procurement Act sets out the legal requirements in respect of notices applicable to regulated below threshold contracts. Where these requirements apply, in-scope organisations must:",
+      "ordinal": 77,
+      "heading_path": [
+        "Introduction",
+        "Publishing transparency notices"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00078",
+      "block_type": "li",
+      "text": "publish a Below Threshold Tender Notice where it is the in-scope organisation’s intention to advertise. This means the notice must be published on the Central Digital Platform before being published elsewhere and complies with the requirements of regulation 24 of the Procurement Regulations 2024; and",
+      "ordinal": 78,
+      "heading_path": [
+        "Introduction",
+        "Publishing transparency notices"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00079",
+      "block_type": "li",
+      "text": "publish a Contract Details Notice and contract documents on the Central Digital Platform for all advertised contract opportunities above £12,000 including VAT for central government, and otherwise not less than £30,000 including VAT. The Contract Details Notice must comply with the requirements of regulation 36 of the Procurement Regulations 2024",
+      "ordinal": 79,
+      "heading_path": [
+        "Introduction",
+        "Publishing transparency notices"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00080",
+      "block_type": "p",
+      "text": "32. For below threshold contracts awarded from a framework, if the contract is a notifiable below threshold contract the transparency requirement is only a Contract Details Notice for any award (i.e. what was previously known as call-off).",
+      "ordinal": 80,
+      "heading_path": [
+        "Introduction",
+        "Publishing transparency notices"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00081",
+      "block_type": "p",
+      "text": "33. It is important that in-scope organisations identify their intention to reserve a procurement by supplier type/location within the Below Threshold Tender Notice by inserting appropriate text in the ‘contract subject-matter’ field. For example: (This contract is reserved for [insert suppliers or SMEs and VCSEs (if also reserving by supplier type)] based in [insert UK, county or borough]).",
+      "ordinal": 81,
+      "heading_path": [
+        "Introduction",
+        "Publishing transparency notices"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00082",
+      "block_type": "p",
+      "text": "34. In-scope organisations should also indicate in the relevant field(s) whether the contract is suitable for SMEs and VCSEs even when they opt not to reserve by supplier type.",
+      "ordinal": 82,
+      "heading_path": [
+        "Introduction",
+        "Publishing transparency notices"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00083",
+      "block_type": "heading",
+      "text": "Contact",
+      "ordinal": 83,
+      "heading_path": [
+        "Introduction",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00084",
+      "block_type": "p",
+      "text": "35. For further information on how to apply this policy refer to Annex B: FAQs. Should you have an enquiry not covered by the FAQs, please contact Crown Commercial Service Helpdesk on 0345 410 2222 or info@crowncommercial.gov.uk",
+      "ordinal": 84,
+      "heading_path": [
+        "Introduction",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00085",
+      "block_type": "heading",
+      "text": "Annex A: Reserving by supplier location template",
+      "ordinal": 85,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Reserving by supplier location template"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00086",
+      "block_type": "p",
+      "text": "[You must refer to PPN:005 ‘Reserving below threshold contracts’ before completing this template. Spot checks on procurements reserved by supplier location may be undertaken by the Public Procurement Review Service and therefore you should ensure your rationale is clear and robust.]",
+      "ordinal": 86,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Reserving by supplier location template"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00087",
+      "block_type": "heading",
+      "text": "Section A: Requirement",
+      "ordinal": 87,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Reserving by supplier location template",
+        "Section A: Requirement"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00088",
+      "block_type": "p",
+      "text": "Title of contract:",
+      "ordinal": 88,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Reserving by supplier location template",
+        "Section A: Requirement"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00089",
+      "block_type": "p",
+      "text": "Brief outline of the requirement:",
+      "ordinal": 89,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Reserving by supplier location template",
+        "Section A: Requirement"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00090",
+      "block_type": "p",
+      "text": "Estimated value:",
+      "ordinal": 90,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Reserving by supplier location template",
+        "Section A: Requirement"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00091",
+      "block_type": "p",
+      "text": "Period of contract (including extensions):",
+      "ordinal": 91,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Reserving by supplier location template",
+        "Section A: Requirement"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00092",
+      "block_type": "p",
+      "text": "Senior responsible officer:",
+      "ordinal": 92,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Reserving by supplier location template",
+        "Section A: Requirement"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00093",
+      "block_type": "p",
+      "text": "Geographical reservation to be applied: [UK-wide or specific county or borough for London]",
+      "ordinal": 93,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Reserving by supplier location template",
+        "Section A: Requirement"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00094",
+      "block_type": "heading",
+      "text": "Section B: Rationale",
+      "ordinal": 94,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Reserving by supplier location template",
+        "Section B: Rationale"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00095",
+      "block_type": "p",
+      "text": "[Provide details outlining why the proposed geographical reservation (UK-wide or county / borough) has been chosen. This may include but is not restricted to aspects including supporting domestic supply chains, promoting resilience, attracting new entrants to government markets, tackling economic inequality, supporting more localised recruitment, training, skills, investment and start-up businesses. Supporting examples should be included.",
+      "ordinal": 95,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Reserving by supplier location template",
+        "Section B: Rationale"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00096",
+      "block_type": "p",
+      "text": "If you have opted to apply a county (or borough for London) reservation, you should also demonstrate you have considered any adverse effects of applying a narrower geographical reservation. This may include higher costs which cannot be balanced against non-cost benefits; the local area’s dependency on the public sector; impact on suppliers in the surrounding counties excluded from contracts etc.",
+      "ordinal": 96,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Reserving by supplier location template",
+        "Section B: Rationale"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00097",
+      "block_type": "p",
+      "text": "Also detail any other options considered and why these were subsequently discounted].",
+      "ordinal": 97,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Reserving by supplier location template",
+        "Section B: Rationale"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00098",
+      "block_type": "heading",
+      "text": "Section C: Approval",
+      "ordinal": 98,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Reserving by supplier location template",
+        "Section C: Approval"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00099",
+      "block_type": "p",
+      "text": "Approved/Not approved",
+      "ordinal": 99,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Reserving by supplier location template",
+        "Section C: Approval"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00100",
+      "block_type": "p",
+      "text": "Name:",
+      "ordinal": 100,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Reserving by supplier location template",
+        "Section C: Approval"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00101",
+      "block_type": "p",
+      "text": "Position:",
+      "ordinal": 101,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Reserving by supplier location template",
+        "Section C: Approval"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00102",
+      "block_type": "p",
+      "text": "Date:",
+      "ordinal": 102,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Reserving by supplier location template",
+        "Section C: Approval"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00103",
+      "block_type": "p",
+      "text": "Comments:",
+      "ordinal": 103,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Reserving by supplier location template",
+        "Section C: Approval"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00104",
+      "block_type": "heading",
+      "text": "Annex B: FAQs",
+      "ordinal": 104,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00105",
+      "block_type": "heading",
+      "text": "Q1. Which type of procurements does the policy apply to?",
+      "ordinal": 105,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q1. Which type of procurements does the policy apply to?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00106",
+      "block_type": "p",
+      "text": "A. The policy can be applied to below threshold procurements for supplies, services and works where the estimated value of the procurement is less than the relevant threshold applicable under the Procurement Act 2023 (Schedule 1) for Public Contracts and the contract is a regulated below threshold contract (see section 84 of the Procurement Act 2023).",
+      "ordinal": 106,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q1. Which type of procurements does the policy apply to?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00107",
+      "block_type": "heading",
+      "text": "Q2. Can the policy be applied to framework agreements and dynamic markets?",
+      "ordinal": 107,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q2. Can the policy be applied to framework agreements and dynamic markets?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00108",
+      "block_type": "p",
+      "text": "A. No. It is not intended that the policy applies to the award of framework agreements and dynamic markets, or to the award of contracts under those agreements or systems.",
+      "ordinal": 108,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q2. Can the policy be applied to framework agreements and dynamic markets?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00109",
+      "block_type": "heading",
+      "text": "Q3. Are there any exceptions that apply to this policy?",
+      "ordinal": 109,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q3. Are there any exceptions that apply to this policy?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00110",
+      "block_type": "p",
+      "text": "A. The policy should not be applied to below threshold procurements which are of cross- border interest (i.e. which may be of potential interest to suppliers from EU Member States including the Republic of Ireland) and which involve the provision of goods into Northern Ireland.",
+      "ordinal": 110,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q3. Are there any exceptions that apply to this policy?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00111",
+      "block_type": "p",
+      "text": "EU Treaty rights relating to the free movement of goods continue to apply in Northern Ireland beyond the end of the transition period under the terms of the Northern Ireland Protocol. This means that below threshold procurements involving the provision of goods into Northern Ireland continue to be subject to a cross-border interest test (i.e. which may be of interest to suppliers from EU Member States including the Republic of Ireland).",
+      "ordinal": 111,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q3. Are there any exceptions that apply to this policy?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00112",
+      "block_type": "p",
+      "text": "Consequently, this policy should not be applied for supplies, services or works procurements where goods are to be provided into Northern Ireland and where there is cross-border interest,",
+      "ordinal": 112,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q3. Are there any exceptions that apply to this policy?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00113",
+      "block_type": "p",
+      "text": "More generally, application of the PPN should be considered in the light of authorities’ relevant legal obligations.",
+      "ordinal": 113,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q3. Are there any exceptions that apply to this policy?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00114",
+      "block_type": "heading",
+      "text": "Q4. Am I obliged to reserve below threshold procurements?",
+      "ordinal": 114,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q4. Am I obliged to reserve below threshold procurements?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00115",
+      "block_type": "p",
+      "text": "A. No. In-scope organisations may still choose to compete on an open basis without any reservation for supplier location/type, where this approach is considered to deliver better value for money. This could include bids from overseas suppliers.",
+      "ordinal": 115,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q4. Am I obliged to reserve below threshold procurements?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00116",
+      "block_type": "heading",
+      "text": "Q5. Am I obliged to reserve below threshold procurements for UK SMEs and VCSEs?",
+      "ordinal": 116,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q5. Am I obliged to reserve below threshold procurements for UK SMEs and VCSEs?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00117",
+      "block_type": "p",
+      "text": "A. No. It is permissible to reserve by supplier location only, which would open competition to a broader range of suppliers, or alternatively not apply any reservations at all.",
+      "ordinal": 117,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q5. Am I obliged to reserve below threshold procurements for UK SMEs and VCSEs?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00118",
+      "block_type": "heading",
+      "text": "Q6. Am I able to reserve below threshold procurements for SMEs and VCSEs without applying the location reservation?",
+      "ordinal": 118,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q6. Am I able to reserve below threshold procurements for SMEs and VCSEs without applying the location reservation?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00119",
+      "block_type": "p",
+      "text": "A.No. If reserving under this policy, the location reservation will always apply. In-scope organisations may then choose to add a secondary reservation for SMEs and VCSEs.",
+      "ordinal": 119,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q6. Am I able to reserve below threshold procurements for SMEs and VCSEs without applying the location reservation?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00120",
+      "block_type": "heading",
+      "text": "Q7. Am I able to reserve below threshold procurements only for SMEs?",
+      "ordinal": 120,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q7. Am I able to reserve below threshold procurements only for SMEs?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00121",
+      "block_type": "p",
+      "text": "A. No. When applying the supplier type reservation this applies to both SMEs and VCSEs.",
+      "ordinal": 121,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q7. Am I able to reserve below threshold procurements only for SMEs?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00122",
+      "block_type": "heading",
+      "text": "Q8. How do we ensure procurers do not disaggregate requirements to avoid above threshold obligations?",
+      "ordinal": 122,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q8. How do we ensure procurers do not disaggregate requirements to avoid above threshold obligations?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00123",
+      "block_type": "p",
+      "text": "A. In-scope organisations are under a legal duty not to disaggregate requirements to prevent them from falling within the scope of the above threshold rules. There are a range of actions which in-scope organisations can take to ensure that requirements are not artificially disaggregated. These may include:",
+      "ordinal": 123,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q8. How do we ensure procurers do not disaggregate requirements to avoid above threshold obligations?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00124",
+      "block_type": "li",
+      "text": "ensuring requirements are legitimate and cannot be delivered through a pre-existing commercial vehicle (catalogue, framework, contract)",
+      "ordinal": 124,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q8. How do we ensure procurers do not disaggregate requirements to avoid above threshold obligations?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00125",
+      "block_type": "li",
+      "text": "referring to a contract register and/or procurement pipeline",
+      "ordinal": 125,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q8. How do we ensure procurers do not disaggregate requirements to avoid above threshold obligations?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00126",
+      "block_type": "li",
+      "text": "making staff aware that spend is monitored and contract reviews and/or spot checks are carried out",
+      "ordinal": 126,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q8. How do we ensure procurers do not disaggregate requirements to avoid above threshold obligations?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00127",
+      "block_type": "heading",
+      "text": "Q9. Am I able to direct award under this policy?",
+      "ordinal": 127,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q9. Am I able to direct award under this policy?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00128",
+      "block_type": "p",
+      "text": "A. No. This policy does not promote direct award. In order to ensure value for money, in-scope organisations should not direct award under this policy, although they may of course take advantage of the additional freedoms in relation to below threshold procurements in other ways.",
+      "ordinal": 128,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q9. Am I able to direct award under this policy?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00129",
+      "block_type": "p",
+      "text": "While sections 41 and 42 of the Procurement Act do not apply to below threshold contracts, where in-scope organisations are considering direct award for below threshold contracts outside of the scope of this policy (i.e. where reservations are not being applied), they are reminded to consider whether:",
+      "ordinal": 129,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q9. Am I able to direct award under this policy?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00130",
+      "block_type": "li",
+      "text": "the requirement can be met through an existing contract, catalogue or framework agreement",
+      "ordinal": 130,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q9. Am I able to direct award under this policy?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00131",
+      "block_type": "li",
+      "text": "they can demonstrate the direct award represents value for money based on market research, price/cost benchmarking, social value factors etc.",
+      "ordinal": 131,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q9. Am I able to direct award under this policy?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00132",
+      "block_type": "li",
+      "text": "a below threshold single source approach is justified. For example: a supplier has already provided goods, services, work in the same field, that were awarded from open competition (subject to compliance with rules on disaggregation, contract modifications, etc.) there is a compatibility issue which needs to be met, e.g. specific equipment required, or compliance with a warranty cover clause it involves the protection of exclusive rights, e.g. supplier intellectual property rights there is genuinely only one supplier there is a need to retain a particular supplier for business continuity reasons, not just preference only one supplier has responded to a competitive process, e.g. quotes or formal tender the requirement is urgent, brought about by events unforeseeable by the in-scope organisation",
+      "ordinal": 132,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q9. Am I able to direct award under this policy?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00133",
+      "block_type": "li",
+      "text": "a supplier has already provided goods, services, work in the same field, that were awarded from open competition (subject to compliance with rules on disaggregation, contract modifications, etc.)",
+      "ordinal": 133,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q9. Am I able to direct award under this policy?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00134",
+      "block_type": "li",
+      "text": "there is a compatibility issue which needs to be met, e.g. specific equipment required, or compliance with a warranty cover clause",
+      "ordinal": 134,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q9. Am I able to direct award under this policy?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00135",
+      "block_type": "li",
+      "text": "it involves the protection of exclusive rights, e.g. supplier intellectual property rights",
+      "ordinal": 135,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q9. Am I able to direct award under this policy?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00136",
+      "block_type": "li",
+      "text": "there is genuinely only one supplier",
+      "ordinal": 136,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q9. Am I able to direct award under this policy?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00137",
+      "block_type": "li",
+      "text": "there is a need to retain a particular supplier for business continuity reasons, not just preference",
+      "ordinal": 137,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q9. Am I able to direct award under this policy?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00138",
+      "block_type": "li",
+      "text": "only one supplier has responded to a competitive process, e.g. quotes or formal tender",
+      "ordinal": 138,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q9. Am I able to direct award under this policy?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00139",
+      "block_type": "li",
+      "text": "the requirement is urgent, brought about by events unforeseeable by the in-scope organisation",
+      "ordinal": 139,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q9. Am I able to direct award under this policy?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00140",
+      "block_type": "p",
+      "text": "Where a direct award is appropriate, aspects of this guidance relating to risk management, model contracts, supplier due diligence, KPIs etc. will still be relevant. In-scope organisations should refer to their internal policies and procedures for further guidance.",
+      "ordinal": 140,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q9. Am I able to direct award under this policy?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00141",
+      "block_type": "heading",
+      "text": "Q10. Does the policy apply to consortia bidding?",
+      "ordinal": 141,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q10. Does the policy apply to consortia bidding?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00142",
+      "block_type": "p",
+      "text": "A. Yes. If you reserve a procurement for SMEs and VCSEs, it is possible to accept a consortia bid from a group of SMEs and VCSEs. The consortia cannot include non-SMEs and VCSEs.",
+      "ordinal": 142,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q10. Does the policy apply to consortia bidding?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00143",
+      "block_type": "p",
+      "text": "If you reserve for supplier location without also reserving for SMEs and VCSEs, the consortia may include supplier types other than SMEs and VCSEs, however all members of the consortia must meet the supplier location reservation.",
+      "ordinal": 143,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q10. Does the policy apply to consortia bidding?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00144",
+      "block_type": "heading",
+      "text": "Q11. How do I verify that a supplier is an SME?",
+      "ordinal": 144,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q11. How do I verify that a supplier is an SME?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00145",
+      "block_type": "p",
+      "text": "A. As part of your due diligence you could ask the supplier to confirm they are an SME and do not have a parent company. You could also request details of their DUNS number which will show if they are an SME.",
+      "ordinal": 145,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q11. How do I verify that a supplier is an SME?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00146",
+      "block_type": "heading",
+      "text": "Q12. What options are available when reserving a procurement by supplier location?",
+      "ordinal": 146,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q12. What options are available when reserving a procurement by supplier location?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00147",
+      "block_type": "p",
+      "text": "A. There are two options available under this policy. The first is UK-wide, the second is by county (or borough for London). Contracts can only be reserved to a single county and metropolitan / non-metropolitan boundaries should be applied. The exception to this is London. As it is neither a metropolitan or non-metropolitan county, reservations may instead be applied by London borough. Justification for reserving for a county or London borough should be recorded and kept with other procurement documentation. A template is provided at Annex A.",
+      "ordinal": 147,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q12. What options are available when reserving a procurement by supplier location?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00148",
+      "block_type": "heading",
+      "text": "Q13. Can a combined authority that represents more than a single county reserve for all the counties it represents under this policy?",
+      "ordinal": 148,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q13. Can a combined authority that represents more than a single county reserve for all the counties it represents under this policy?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00149",
+      "block_type": "p",
+      "text": "A. No. Under this policy, geographic reservations for multiple counties should be avoided as the policy relates to single county (or borough for London) reservations or a UK-wide approach.",
+      "ordinal": 149,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q13. Can a combined authority that represents more than a single county reserve for all the counties it represents under this policy?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00150",
+      "block_type": "heading",
+      "text": "Q14. Can I reserve a procurement for suppliers in England under this policy?",
+      "ordinal": 150,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q14. Can I reserve a procurement for suppliers in England under this policy?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00151",
+      "block_type": "p",
+      "text": "A. No. This policy does not promote reservations for nations of the UK. It is not the government’s policy to discriminate between nations of the UK. Under this policy, in-scope organisations can choose to reserve a procurement for suppliers located in the UK or where appropriate, for suppliers located in a specific county (metropolitan / non- metropolitan) or London borough.",
+      "ordinal": 151,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q14. Can I reserve a procurement for suppliers in England under this policy?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00152",
+      "block_type": "p",
+      "text": "A procurement reserved for Dorset for example will exclude suppliers who are not based or established in Dorset and do not have substantive business operations in Dorset but may do so in other regions in England, as well as suppliers who do not have substantive business operations in England but do so in other nations of the UK.",
+      "ordinal": 152,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q14. Can I reserve a procurement for suppliers in England under this policy?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00153",
+      "block_type": "heading",
+      "text": "Q15. If an in-scope organisation is procuring overseas, can it reserve a procurement for suppliers within that location under this policy?",
+      "ordinal": 153,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q15. If an in-scope organisation is procuring overseas, can it reserve a procurement for suppliers within that location under this policy?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00154",
+      "block_type": "p",
+      "text": "A. No. This policy does not promote reservations for supplier locations outside of the UK.",
+      "ordinal": 154,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q15. If an in-scope organisation is procuring overseas, can it reserve a procurement for suppliers within that location under this policy?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00155",
+      "block_type": "heading",
+      "text": "Q16. Could I reserve a procurement for suppliers located in a ‘historic county’ such as Yorkshire under this policy?",
+      "ordinal": 155,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q16. Could I reserve a procurement for suppliers located in a ‘historic county’ such as Yorkshire under this policy?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00156",
+      "block_type": "p",
+      "text": "A. No. This policy does not promote geographic reservations based on historic counties. For the purposes of this policy, metropolitan / non-metropolitan boundaries should be applied (or boroughs for London).",
+      "ordinal": 156,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q16. Could I reserve a procurement for suppliers located in a ‘historic county’ such as Yorkshire under this policy?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00157",
+      "block_type": "heading",
+      "text": "Q17. Is the policy open to contracting authorities in Northern Ireland and Wales to use?",
+      "ordinal": 157,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q17. Is the policy open to contracting authorities in Northern Ireland and Wales to use?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00158",
+      "block_type": "p",
+      "text": "A. The policy applies to central government departments, their executive agencies and non-departmental public bodies, in conducting procurements for contracts, where the core legal framework set out in the Procurement Act 2023 does not apply because the estimated value of the procurement is less than the relevant threshold applicable under the Procurement Act 2023 and the contract is a regulated below threshold contract (see section 84 of the Procurement Act 2023). On this basis it would also apply to in-scope organisations based in Northern Ireland and Wales. To note, below threshold procurement by transferred Northern Ireland authorities (unless it takes place under a devolved Welsh or reserved procurement arrangement) or under a transferred Northern Ireland procurement arrangement [footnote 2] is not regulated by the Procurement Act 2023.",
+      "ordinal": 158,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q17. Is the policy open to contracting authorities in Northern Ireland and Wales to use?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00159",
+      "block_type": "p",
+      "text": "Please refer to Q3 above.",
+      "ordinal": 159,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q17. Is the policy open to contracting authorities in Northern Ireland and Wales to use?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00160",
+      "block_type": "heading",
+      "text": "Q18. How would a county reservation apply in Northern Ireland or Wales?",
+      "ordinal": 160,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q18. How would a county reservation apply in Northern Ireland or Wales?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00161",
+      "block_type": "p",
+      "text": "A. Counties in Northern Ireland and Wales are not defined as metropolitan or non- metropolitan. In this instance, in-scope organisations should define by equivalent location. Justification for the reservation should be recorded (refer to template at Annex A) and kept with other procurement documentation.",
+      "ordinal": 161,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q18. How would a county reservation apply in Northern Ireland or Wales?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00162",
+      "block_type": "heading",
+      "text": "Q19. What do I need to consider when deciding whether to reserve a procurement by supplier location under this policy?",
+      "ordinal": 162,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q19. What do I need to consider when deciding whether to reserve a procurement by supplier location under this policy?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00163",
+      "block_type": "p",
+      "text": "A. When choosing to reserve a procurement by supplier location under this policy you will need to consider what you are procuring and your primary drivers (economic, commercial, social). For example, if these are to support domestic supply chains, promote resilience, attract new entrants to government markets etc. a UK reservation may be appropriate. Where the drivers are to tackle economic inequality, support more localised recruitment, training, skills, investment, start-up businesses etc. a county (or borough for London) approach might be the preferred option. Procurements can only be reserved to a single county and in-scope organisations should consider any adverse effects of applying a narrower geographic reservation. This may include whether giving preference to local suppliers means higher costs which cannot be balanced against non-cost benefits; the local area’s dependency on the public sector; impact on suppliers in the surrounding area excluded from contracts etc.",
+      "ordinal": 163,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q19. What do I need to consider when deciding whether to reserve a procurement by supplier location under this policy?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00164",
+      "block_type": "p",
+      "text": "When opting to reserve a procurement by supplier location, in-scope organisations are required to record the rationale/approval of their decision and keep with other procurement documentation. A template is provided at Annex A.",
+      "ordinal": 164,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q19. What do I need to consider when deciding whether to reserve a procurement by supplier location under this policy?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00165",
+      "block_type": "p",
+      "text": "If reserving a procurement by supplier location removes competition (i.e. there is only one supplier) then the reservation should not be applied.",
+      "ordinal": 165,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q19. What do I need to consider when deciding whether to reserve a procurement by supplier location under this policy?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00166",
+      "block_type": "heading",
+      "text": "Q20. Should the decision to reserve procurements be taken on a case-by-case basis or as part of a wider organisational approach?",
+      "ordinal": 166,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q20. Should the decision to reserve procurements be taken on a case-by-case basis or as part of a wider organisational approach?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00167",
+      "block_type": "p",
+      "text": "A. The same approach and justification is unlikely to apply to all of an in-scope organisation’s below threshold procurements and therefore consideration to reserve a procurement by supplier type (SME and VCSE) or supplier location, should be undertaken on an individual procurement basis.",
+      "ordinal": 167,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q20. Should the decision to reserve procurements be taken on a case-by-case basis or as part of a wider organisational approach?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00168",
+      "block_type": "heading",
+      "text": "Q21. If I reserve by supplier location (i.e. UK) without reserving for SMEs / VCSEs, would the supplier’s subcontractors and supply chain also need to be based within the UK?",
+      "ordinal": 168,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q21. If I reserve by supplier location (i.e. UK) without reserving for SMEs / VCSEs, would the supplier’s subcontractors and supply chain also need to be based within the UK?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00169",
+      "block_type": "p",
+      "text": "A. It is not a requirement for the lead supplier’s subcontractors and supply chain to meet the supplier location reservation, but you will need to assure yourself that the lead supplier does meet the requirements and will play a meaningful role in the delivery of the contract.",
+      "ordinal": 169,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q21. If I reserve by supplier location (i.e. UK) without reserving for SMEs / VCSEs, would the supplier’s subcontractors and supply chain also need to be based within the UK?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00170",
+      "block_type": "heading",
+      "text": "Q22. How do we prevent businesses setting up ‘phantom’ offices in order to be eligible for the UK reservation?",
+      "ordinal": 170,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q22. How do we prevent businesses setting up ‘phantom’ offices in order to be eligible for the UK reservation?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00171",
+      "block_type": "p",
+      "text": "A. The Supplier Code of Conduct underlines the importance of government acting together with trusted suppliers to deliver better public services. Government expects the highest standards of professionalism, ethical behaviour, transparency and honesty from its suppliers.",
+      "ordinal": 171,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q22. How do we prevent businesses setting up ‘phantom’ offices in order to be eligible for the UK reservation?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00172",
+      "block_type": "p",
+      "text": "Undertaking appropriate levels of supplier due diligence can help to minimise the risk of impropriety or gaming of the policy. Check supplier details with Companies House and other open information sources, seek verification directly from the supplier and/or where appropriate, conduct a site visit to ensure that the supplier has a substantive business operation in that location. If you are not satisfied with the answers you have received, and the evidence suggests that the supplier is not substantially operating from a defined geographical location, you should not allow the supplier to participate in the procurement.",
+      "ordinal": 172,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q22. How do we prevent businesses setting up ‘phantom’ offices in order to be eligible for the UK reservation?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00173",
+      "block_type": "heading",
+      "text": "Q23. How do we ensure that contracts are not awarded to suppliers where a conflict of interest exists with a member of the in-scope organisation?",
+      "ordinal": 173,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q23. How do we ensure that contracts are not awarded to suppliers where a conflict of interest exists with a member of the in-scope organisation?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00174",
+      "block_type": "p",
+      "text": "A. There are a range of actions that in-scope organisations can take to appropriately manage conflicts of interest (COI). These may include:",
+      "ordinal": 174,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q23. How do we ensure that contracts are not awarded to suppliers where a conflict of interest exists with a member of the in-scope organisation?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00175",
+      "block_type": "li",
+      "text": "checking their organisational COI register to identify any pre-existing interest",
+      "ordinal": 175,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q23. How do we ensure that contracts are not awarded to suppliers where a conflict of interest exists with a member of the in-scope organisation?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00176",
+      "block_type": "li",
+      "text": "requiring new/updated COI declarations at the beginning of a procurement and as and when a conflict arises",
+      "ordinal": 176,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q23. How do we ensure that contracts are not awarded to suppliers where a conflict of interest exists with a member of the in-scope organisation?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00177",
+      "block_type": "li",
+      "text": "ensuring separation of duties and approvals",
+      "ordinal": 177,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q23. How do we ensure that contracts are not awarded to suppliers where a conflict of interest exists with a member of the in-scope organisation?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00178",
+      "block_type": "li",
+      "text": "undertaking spot checks for links between the supplier and staff members – addresses, persons of significant control on Companies House, bank details etc.",
+      "ordinal": 178,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q23. How do we ensure that contracts are not awarded to suppliers where a conflict of interest exists with a member of the in-scope organisation?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00179",
+      "block_type": "li",
+      "text": "where a COI is identified, agreeing effective remedies to manage the conflict – this will vary on a case-by-case basis but may for example include the removal of the staff member from the team managing the procurement",
+      "ordinal": 179,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q23. How do we ensure that contracts are not awarded to suppliers where a conflict of interest exists with a member of the in-scope organisation?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00180",
+      "block_type": "li",
+      "text": "retaining records of conflicts and remedies for audit trail purposes",
+      "ordinal": 180,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q23. How do we ensure that contracts are not awarded to suppliers where a conflict of interest exists with a member of the in-scope organisation?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00181",
+      "block_type": "li",
+      "text": "ensuring all requests to change bank account details undergo third party checks prior to being actioned",
+      "ordinal": 181,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q23. How do we ensure that contracts are not awarded to suppliers where a conflict of interest exists with a member of the in-scope organisation?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00182",
+      "block_type": "p",
+      "text": "In-scope organisations should refer to their internal guidance and/or procedures on identifying, reporting and managing conflicts of interest. Further guidance on managing COI is also contained within the Procurement Act guidance on Managing Conflicts of Interest .",
+      "ordinal": 182,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q23. How do we ensure that contracts are not awarded to suppliers where a conflict of interest exists with a member of the in-scope organisation?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00183",
+      "block_type": "heading",
+      "text": "Q24. What should I do if I am aware of a conflict of interest between someone within my organisation and a supplier which has not been flagged?",
+      "ordinal": 183,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q24. What should I do if I am aware of a conflict of interest between someone within my organisation and a supplier which has not been flagged?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00184",
+      "block_type": "p",
+      "text": "A. Concerns should, in the first instance, be raised with your line manager or, if that is not possible, with somebody more senior in the line management chain. You may also wish to consider if this is a matter for whistleblowing. If you are a public sector employee concerned about a procurement activity within your own organisation, you should refer to your internal whistleblowing policy which will outline the process which you should follow.",
+      "ordinal": 184,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q24. What should I do if I am aware of a conflict of interest between someone within my organisation and a supplier which has not been flagged?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00185",
+      "block_type": "heading",
+      "text": "Q25. Is there a simple contract document that I can use for below threshold contracts?",
+      "ordinal": 185,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q25. Is there a simple contract document that I can use for below threshold contracts?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00186",
+      "block_type": "p",
+      "text": "A. Yes. The Short Form Contract has been developed by the Cabinet Office for general goods and services contracts with a value below the relevant thresholds. The document is designed to ensure that you are able to use appropriate and proportionately light touch contract terms. This is aimed at avoiding the use of overly complex terms which can increase costs and act as a barrier to the involvement of SMEs.",
+      "ordinal": 186,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q25. Is there a simple contract document that I can use for below threshold contracts?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00187",
+      "block_type": "p",
+      "text": "Model forms of contract for works/construction contracts, suitable for varying levels of value and complexity, are published by various industry bodies. These are referenced in the Construction Playbook .",
+      "ordinal": 187,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q25. Is there a simple contract document that I can use for below threshold contracts?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00188",
+      "block_type": "heading",
+      "text": "Q26. Are KPIs required for below threshold contracts?",
+      "ordinal": 188,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q26. Are KPIs required for below threshold contracts?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00189",
+      "block_type": "p",
+      "text": "A. No but it may be appropriate for below threshold contracts to include key performance indicators (KPIs) in order to track successful performance of the contract. KPIs may also be used to mitigate identified contract risks.",
+      "ordinal": 189,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q26. Are KPIs required for below threshold contracts?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00190",
+      "block_type": "p",
+      "text": "KPI categories typically include delivery, product/service quality, best practice and continuous improvement, asset/service availability, customer focus, environmental factors and ethical and social issues. It is important to choose to measure what matters most.",
+      "ordinal": 190,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q26. Are KPIs required for below threshold contracts?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00191",
+      "block_type": "p",
+      "text": "Key things to remember when developing KPIs include being able to:",
+      "ordinal": 191,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q26. Are KPIs required for below threshold contracts?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00192",
+      "block_type": "li",
+      "text": "identify what success looks like",
+      "ordinal": 192,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q26. Are KPIs required for below threshold contracts?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00193",
+      "block_type": "li",
+      "text": "measure success",
+      "ordinal": 193,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q26. Are KPIs required for below threshold contracts?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00194",
+      "block_type": "li",
+      "text": "define in SMART (specific, measurable, attainable, relevant and time-bound) terms that are easily understood by both the organisation and the supplier",
+      "ordinal": 194,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q26. Are KPIs required for below threshold contracts?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00195",
+      "block_type": "p",
+      "text": "The number of KPIs you select should be proportionate to the value, complexity and criticality of the below threshold contract.",
+      "ordinal": 195,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q26. Are KPIs required for below threshold contracts?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00196",
+      "block_type": "heading",
+      "text": "Q27. What are the transparency requirements for below threshold contracts?",
+      "ordinal": 196,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q27. What are the transparency requirements for below threshold contracts?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00197",
+      "block_type": "p",
+      "text": "A. For details of the transparency requirements for below threshold contracts refer to guidance on Below Threshold provisions in Part 6 of the Procurement Act .",
+      "ordinal": 197,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q27. What are the transparency requirements for below threshold contracts?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00198",
+      "block_type": "heading",
+      "text": "Q28. How do I include information about the reservation I’m applying to a procurement on a ‘Below Threshold Tender Notice’ on FTS?",
+      "ordinal": 198,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q28. How do I include information about the reservation I’m applying to a procurement on a ‘Below Threshold Tender Notice’ on FTS?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00199",
+      "block_type": "p",
+      "text": "A. You can include details of the reservation you plan to apply for by inserting appropriate text in the ‘contract subject-matter’ field. You should also indicate in the relevant field(s) whether the contract is suitable for SMEs and VCSEs even if you opt not to reserve by supplier type. For example: (This contract is reserved for [insert suppliers or SMEs and VCSEs if reserving by supplier type] based in [insert UK, county or borough])",
+      "ordinal": 199,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q28. How do I include information about the reservation I’m applying to a procurement on a ‘Below Threshold Tender Notice’ on FTS?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00200",
+      "block_type": "li",
+      "text": "A regulated below threshold contract is a contract with a value below those set out in Schedule 1 of the PA 2023, which is not exempt, a concession contract, a utilities contract, or awarded by a school, a transferred NI authority (unless under a reserved or devolved Welsh procurement arrangement) or under a transferred NI procurement arrangement. For full details please see section 84 of the PA 2023. ↩",
+      "ordinal": 200,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q28. How do I include information about the reservation I’m applying to a procurement on a ‘Below Threshold Tender Notice’ on FTS?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00201",
+      "block_type": "p",
+      "text": "A regulated below threshold contract is a contract with a value below those set out in Schedule 1 of the PA 2023, which is not exempt, a concession contract, a utilities contract, or awarded by a school, a transferred NI authority (unless under a reserved or devolved Welsh procurement arrangement) or under a transferred NI procurement arrangement. For full details please see section 84 of the PA 2023. ↩",
+      "ordinal": 201,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q28. How do I include information about the reservation I’m applying to a procurement on a ‘Below Threshold Tender Notice’ on FTS?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00202",
+      "block_type": "li",
+      "text": "The term “transferred Northern Ireland authority” is defined in section 112 of the Procurement Act 2023, and the terms “reserved procurement arrangement”, “devolved Welsh procurement arrangement” and “transferred Northern Ireland procurement arrangement” are defined in section 114 of that Act. ↩",
+      "ordinal": 202,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q28. How do I include information about the reservation I’m applying to a procurement on a ‘Below Threshold Tender Notice’ on FTS?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00203",
+      "block_type": "p",
+      "text": "The term “transferred Northern Ireland authority” is defined in section 112 of the Procurement Act 2023, and the terms “reserved procurement arrangement”, “devolved Welsh procurement arrangement” and “transferred Northern Ireland procurement arrangement” are defined in section 114 of that Act. ↩",
+      "ordinal": 203,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Q28. How do I include information about the reservation I’m applying to a procurement on a ‘Below Threshold Tender Notice’ on FTS?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "[footnote 1]",
+      "href": "https://www.gov.uk/government/publications/ppn-005-reserving-below-threshold-procurements/ppn-005-guide-to-reserving-below-threshold-html#fn:1",
+      "block_id": "b00004",
+      "ordinal": 0,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Managing Public Money",
+      "href": "https://www.gov.uk/government/publications/managing-public-money",
+      "block_id": "b00021",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Orange Book",
+      "href": "https://www.gov.uk/government/publications/orange-book",
+      "block_id": "b00027",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Sourcing Playbook",
+      "href": "https://www.gov.uk/government/publications/the-sourcing-and-consultancy-playbooks",
+      "block_id": "b00035",
+      "ordinal": 3,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Construction Playbook",
+      "href": "https://www.gov.uk/government/publications/the-construction-playbook",
+      "block_id": "b00035",
+      "ordinal": 4,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "The Short Form Contract",
+      "href": "https://www.gov.uk/government/publications/short-form-terms-and-conditions",
+      "block_id": "b00045",
+      "ordinal": 5,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "The Short Form Contract",
+      "href": "https://www.gov.uk/government/publications/short-form-terms-and-conditions",
+      "block_id": "b00046",
+      "ordinal": 6,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "info@crowncommercial.gov.uk",
+      "href": "mailto:info@crowncommercial.gov.uk",
+      "block_id": "b00084",
+      "ordinal": 7,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "[footnote 2]",
+      "href": "https://www.gov.uk/government/publications/ppn-005-reserving-below-threshold-procurements/ppn-005-guide-to-reserving-below-threshold-html#fn:2",
+      "block_id": "b00158",
+      "ordinal": 8,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "The Supplier Code of Conduct",
+      "href": "https://www.gov.uk/government/publications/supplier-code-of-conduct",
+      "block_id": "b00171",
+      "ordinal": 9,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Managing Conflicts of Interest",
+      "href": "https://www.gov.uk/government/collections/procurement-act-2023-guidance-documents",
+      "block_id": "b00182",
+      "ordinal": 10,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Short Form Contract",
+      "href": "https://www.gov.uk/government/publications/short-form-terms-and-conditions",
+      "block_id": "b00186",
+      "ordinal": 11,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Construction Playbook",
+      "href": "https://www.gov.uk/government/publications/the-construction-playbook",
+      "block_id": "b00187",
+      "ordinal": 12,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Below Threshold provisions in Part 6 of the Procurement Act",
+      "href": "https://www.gov.uk/government/collections/procurement-act-2023-guidance-documents",
+      "block_id": "b00197",
+      "ordinal": 13,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-005-reserving-below-threshold-procurements/ppn-005-guide-to-reserving-below-threshold-html#fnref:1",
+      "block_id": "b00200",
+      "ordinal": 14,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-005-reserving-below-threshold-procurements/ppn-005-guide-to-reserving-below-threshold-html#fnref:1",
+      "block_id": "b00201",
+      "ordinal": 15,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-005-reserving-below-threshold-procurements/ppn-005-guide-to-reserving-below-threshold-html#fnref:2",
+      "block_id": "b00202",
+      "ordinal": 16,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-005-reserving-below-threshold-procurements/ppn-005-guide-to-reserving-below-threshold-html#fnref:2",
+      "block_id": "b00203",
+      "ordinal": 17,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "PPN 005: Guide to reserving below threshold (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-005-reserving-below-threshold-procurements/ppn-005-guide-to-reserving-below-threshold-html",
+      "block_id": "__document__",
+      "ordinal": 18,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2024 to 2026 Starmer Labour government",
+      "href": "https://www.gov.uk/government/2024-starmer-labour-government",
+      "block_id": "__document__",
+      "ordinal": 19,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 20,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "PPN 005: Reserving below threshold procurements",
+      "href": "https://www.gov.uk/government/publications/ppn-005-reserving-below-threshold-procurements",
+      "block_id": "__document__",
+      "ordinal": 21,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 22,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 1",
+      "block_id": "b00004",
+      "start": 178,
+      "end": 188,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 85",
+      "block_id": "b00071",
+      "start": 69,
+      "end": 79,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "85"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 85(3)",
+      "block_id": "b00072",
+      "start": 29,
+      "end": 42,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "85",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 87",
+      "block_id": "b00077",
+      "start": 100,
+      "end": 110,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "87"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 24",
+      "block_id": "b00078",
+      "start": 247,
+      "end": 260,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "24"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2024",
+      "block_id": "b00078",
+      "start": 280,
+      "end": 296,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2024"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 36",
+      "block_id": "b00079",
+      "start": 299,
+      "end": 312,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "36"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2024",
+      "block_id": "b00079",
+      "start": 332,
+      "end": 348,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2024"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 84",
+      "block_id": "b00106",
+      "start": 313,
+      "end": 323,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "84"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 1",
+      "block_id": "b00106",
+      "start": 218,
+      "end": 228,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "sections 41",
+      "block_id": "b00129",
+      "start": 6,
+      "end": 17,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "41"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 84",
+      "block_id": "b00158",
+      "start": 429,
+      "end": 439,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "84"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 84",
+      "block_id": "b00200",
+      "start": 378,
+      "end": 388,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "84"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 1",
+      "block_id": "b00200",
+      "start": 87,
+      "end": 97,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 84",
+      "block_id": "b00201",
+      "start": 378,
+      "end": 388,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "84"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 1",
+      "block_id": "b00201",
+      "start": 87,
+      "end": 97,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 112",
+      "block_id": "b00202",
+      "start": 64,
+      "end": 75,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "112"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 114",
+      "block_id": "b00202",
+      "start": 270,
+      "end": 281,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "114"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 112",
+      "block_id": "b00203",
+      "start": 64,
+      "end": 75,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "112"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 114",
+      "block_id": "b00203",
+      "start": 270,
+      "end": 281,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "114"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

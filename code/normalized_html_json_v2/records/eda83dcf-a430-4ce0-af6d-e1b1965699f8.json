@@ -1,0 +1,1760 @@
+{
+  "document_id": "eda83dcf-a430-4ce0-af6d-e1b1965699f8",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/c4e5ca64fde5ef6499664a1c.json",
+  "input_sha256": "73071aac01e5483f78c52bbc183e5b3d23f19edad1c57130d2dee64034e29371",
+  "processed_at": "2026-08-27T02:26:40.903838+00:00",
+  "title": "PPN 01/22: Frequently asked questions",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-policy-note-0122-contracts-with-suppliers-from-russia-and-belarus/ppn-0122-frequently-asked-questions",
+  "description": null,
+  "publication_date": "2022-08-10T10:54:47+01:00",
+  "updated_date": "2022-08-10T10:54:46+01:00",
+  "source_metadata": {
+    "content_id": "eda83dcf-a430-4ce0-af6d-e1b1965699f8",
+    "base_path": "/government/publications/procurement-policy-note-0122-contracts-with-suppliers-from-russia-and-belarus/ppn-0122-frequently-asked-questions",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "1. General",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "1.1 Which public bodies are in scope of this PPN?",
+      "ordinal": 1,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "1.2 Does this policy apply to the Devolved Administrations?",
+      "ordinal": 3,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "1.3 What about UK registered suppliers controlled by a ’Russian or Belarusian supplier’?",
+      "ordinal": 5,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "1.4 What if my existing supplier has a Russian/Belarusian parent but the supplier’s registered office is in a GPA territory or another country with which the UK has an international agreement on procurement?",
+      "ordinal": 10,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "1.5 Is Russia or Belarus a member of the World Trade Organisation (WTO) Agreement on Government Procurement (GPA)?",
+      "ordinal": 12,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "1.6 What sectors are Russian/Belarusian suppliers active in?",
+      "ordinal": 14,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "1.7 What reason should I give to the Contractor as to why I am terminating the contract?",
+      "ordinal": 16,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "2. Existing contracts",
+      "ordinal": 18,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "2.1 Do I have to terminate all in-scope contracts?",
+      "ordinal": 19,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "2.2 Should I terminate my contracts with Russian/Belarusian suppliers now?",
+      "ordinal": 21,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "2.3 Which clauses in my contract can be used to terminate my contract if there are no other performance issues?",
+      "ordinal": 23,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "2.4 My contract requires me to give 90 days notice of termination? What should I do?",
+      "ordinal": 25,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "2.5 Will I incur financial penalties for terminating my contract?",
+      "ordinal": 27,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "2.6 Where might terminating a contract benefit a supplier?",
+      "ordinal": 29,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "2.7 What about subcontractors?",
+      "ordinal": 31,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "2.8 How do I know if I have Russian/Belarusian suppliers in the supply chain?",
+      "ordinal": 33,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "2.9 My contract is via a Framework Agreement - how do I access information relating to the supply chain?",
+      "ordinal": 35,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "2.10 Should I map my supply chain to ascertain the risks? / What is supply chain mapping?",
+      "ordinal": 37,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "2.11 Who should I consult if I am unsure whether to recommend termination?",
+      "ordinal": 40,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "2.12 Who should make the decision to terminate the contract?",
+      "ordinal": 42,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "2.13 What if the contract I want to terminate is critical / there are no alternative suppliers?",
+      "ordinal": 44,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "3. New Contracts",
+      "ordinal": 46,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "3.1 Can I let a new contract to a Russian/Belarusian supplier?",
+      "ordinal": 47,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "3.2 Do I have to check whether an exclusion ground applies?",
+      "ordinal": 52,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "3.3 How do I treat a Russian/Belarusian supplier who has submitted a bid for a new contract?",
+      "ordinal": 54,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "3.4 How do I confirm if a bidder is Russian/Belarusian?",
+      "ordinal": 58,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "3.5 What is a Person of Significant Control?",
+      "ordinal": 60,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "3.6 How do I verify the information I receive?",
+      "ordinal": 67,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "4. Local Government Specific FAQs",
+      "ordinal": 69,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "4.1 What is Section 17 of the Local Government Act 1988?",
+      "ordinal": 70,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "4.2 Are local government contracting authorities required to review their contract portfolio as set out in this PPN?",
+      "ordinal": 73,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "4.3 Can local government contracting authorities terminate contracts for commercial reasons?",
+      "ordinal": 75,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "4.4 What are the Best Value considerations that local government should take into account in relation to this PPN?",
+      "ordinal": 81,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "4.5 Will local government’s social value considerations apply to this PPN?",
+      "ordinal": 84,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "4.6 Does the new 2022 Order also cover contracts let under Framework Agreements?",
+      "ordinal": 86,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "4.7 The Local Government Act 1988 refers to subcontractors, supplier, associated bodies and customers of the contractor – should best value authorities and parish councils prioritise their consideration of any of these?",
+      "ordinal": 88,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "4.8 Should best value authorities and parish councils terminate contracts with suppliers which have a significant Russian or Belarusian customer base?",
+      "ordinal": 90,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "1. General",
+      "ordinal": 0,
+      "heading_path": [
+        "1. General"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "heading",
+      "text": "1.1 Which public bodies are in scope of this PPN?",
+      "ordinal": 1,
+      "heading_path": [
+        "1. General",
+        "1.1 Which public bodies are in scope of this PPN?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "All Central Government Departments, their Executive Agencies and Non-Departmental Public Bodies are in scope, as are Best Value Authorities in England within the meaning of section 1 of the Local Government Act 1999 and parish councils in England. Local government specific FAQs are set out in questions 26-32. Other public sector contracting authorities should consider applying the PPN.",
+      "ordinal": 2,
+      "heading_path": [
+        "1. General",
+        "1.1 Which public bodies are in scope of this PPN?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "heading",
+      "text": "1.2 Does this policy apply to the Devolved Administrations?",
+      "ordinal": 3,
+      "heading_path": [
+        "1. General",
+        "1.1 Which public bodies are in scope of this PPN?",
+        "1.2 Does this policy apply to the Devolved Administrations?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "No. The Devolved Administrations will issue separate guidance.",
+      "ordinal": 4,
+      "heading_path": [
+        "1. General",
+        "1.1 Which public bodies are in scope of this PPN?",
+        "1.2 Does this policy apply to the Devolved Administrations?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "heading",
+      "text": "1.3 What about UK registered suppliers controlled by a ’Russian or Belarusian supplier’?",
+      "ordinal": 5,
+      "heading_path": [
+        "1. General",
+        "1.1 Which public bodies are in scope of this PPN?",
+        "1.3 What about UK registered suppliers controlled by a ’Russian or Belarusian supplier’?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "p",
+      "text": "These can be considered as a ’Russian or Belarusian supplier’ when it comes to contract termination. However, for new procurements, In-Scope Organisations must consider whether the supplier is constituted or organised under the law of Russia or Belarus or their ‘Persons of Significant Control’ information states Russia or Belarus as the place of residency. In those cases, you can exclude the supplier from the procurement or decline to consider their bid, providing that supplier (or any member of their supply chain they rely on to deliver the contract):",
+      "ordinal": 6,
+      "heading_path": [
+        "1. General",
+        "1.1 Which public bodies are in scope of this PPN?",
+        "1.3 What about UK registered suppliers controlled by a ’Russian or Belarusian supplier’?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "li",
+      "text": "is not registered in the UK (or in a country the UK has a relevant international agreement with reciprocal rights of access to public procurement); and",
+      "ordinal": 7,
+      "heading_path": [
+        "1. General",
+        "1.1 Which public bodies are in scope of this PPN?",
+        "1.3 What about UK registered suppliers controlled by a ’Russian or Belarusian supplier’?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "li",
+      "text": "does not have significant business operations in the UK (or in a country the UK has a relevant international agreement with reciprocal rights of access to public procurement).",
+      "ordinal": 8,
+      "heading_path": [
+        "1. General",
+        "1.1 Which public bodies are in scope of this PPN?",
+        "1.3 What about UK registered suppliers controlled by a ’Russian or Belarusian supplier’?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "Special consideration should be given where the supplier has a more complex group structure involving parent or group companies based or operating in the UK (or in a country the UK has a relevant international agreement with reciprocal rights of access to procurement).",
+      "ordinal": 9,
+      "heading_path": [
+        "1. General",
+        "1.1 Which public bodies are in scope of this PPN?",
+        "1.3 What about UK registered suppliers controlled by a ’Russian or Belarusian supplier’?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "heading",
+      "text": "1.4 What if my existing supplier has a Russian/Belarusian parent but the supplier’s registered office is in a GPA territory or another country with which the UK has an international agreement on procurement?",
+      "ordinal": 10,
+      "heading_path": [
+        "1. General",
+        "1.1 Which public bodies are in scope of this PPN?",
+        "1.4 What if my existing supplier has a Russian/Belarusian parent but the supplier’s registered office is in a GPA territory or another country with which the UK has an international agreement on procurement?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "This would be classed as a Russian/Belarusian supplier for contract termination. However, for new procurements, special consideration should be given where the supplier has a more complex group structure, such as a parent or group companies based in or operating in the UK or in a country the UK has a relevant international agreement with reciprocal rights of access to procurement.",
+      "ordinal": 11,
+      "heading_path": [
+        "1. General",
+        "1.1 Which public bodies are in scope of this PPN?",
+        "1.4 What if my existing supplier has a Russian/Belarusian parent but the supplier’s registered office is in a GPA territory or another country with which the UK has an international agreement on procurement?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "heading",
+      "text": "1.5 Is Russia or Belarus a member of the World Trade Organisation (WTO) Agreement on Government Procurement (GPA)?",
+      "ordinal": 12,
+      "heading_path": [
+        "1. General",
+        "1.1 Which public bodies are in scope of this PPN?",
+        "1.5 Is Russia or Belarus a member of the World Trade Organisation (WTO) Agreement on Government Procurement (GPA)?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "No, neither Russia or Belarus are members of GPA and the UK does not have any international agreements containing procurement obligations with either country.",
+      "ordinal": 13,
+      "heading_path": [
+        "1. General",
+        "1.1 Which public bodies are in scope of this PPN?",
+        "1.5 Is Russia or Belarus a member of the World Trade Organisation (WTO) Agreement on Government Procurement (GPA)?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "heading",
+      "text": "1.6 What sectors are Russian/Belarusian suppliers active in?",
+      "ordinal": 14,
+      "heading_path": [
+        "1. General",
+        "1.1 Which public bodies are in scope of this PPN?",
+        "1.6 What sectors are Russian/Belarusian suppliers active in?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "Several sectors including oil and gas. However, it should not be assumed they are not involved in other sectors.",
+      "ordinal": 15,
+      "heading_path": [
+        "1. General",
+        "1.1 Which public bodies are in scope of this PPN?",
+        "1.6 What sectors are Russian/Belarusian suppliers active in?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "heading",
+      "text": "1.7 What reason should I give to the Contractor as to why I am terminating the contract?",
+      "ordinal": 16,
+      "heading_path": [
+        "1. General",
+        "1.1 Which public bodies are in scope of this PPN?",
+        "1.7 What reason should I give to the Contractor as to why I am terminating the contract?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "The prime contractor should be advised that its contract is being terminated in response to the situation in Ukraine and the resulting sanctions.",
+      "ordinal": 17,
+      "heading_path": [
+        "1. General",
+        "1.1 Which public bodies are in scope of this PPN?",
+        "1.7 What reason should I give to the Contractor as to why I am terminating the contract?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "heading",
+      "text": "2. Existing contracts",
+      "ordinal": 18,
+      "heading_path": [
+        "1. General",
+        "2. Existing contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "heading",
+      "text": "2.1 Do I have to terminate all in-scope contracts?",
+      "ordinal": 19,
+      "heading_path": [
+        "1. General",
+        "2. Existing contracts",
+        "2.1 Do I have to terminate all in-scope contracts?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "p",
+      "text": "There is no central policy mandate to terminate any contracts with Russian/Belarusian prime contractors. The UK government has made a statement which calls on relevant contracting authorities to exit relevant contracts at their earliest convenience, but the decision whether or not to terminate a relevant contract lies with individual contracting authorities. There may be valid financial, operational, national security, or commercial reasons why a contract cannot or should not be terminated.",
+      "ordinal": 20,
+      "heading_path": [
+        "1. General",
+        "2. Existing contracts",
+        "2.1 Do I have to terminate all in-scope contracts?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "heading",
+      "text": "2.2 Should I terminate my contracts with Russian/Belarusian suppliers now?",
+      "ordinal": 21,
+      "heading_path": [
+        "1. General",
+        "2. Existing contracts",
+        "2.2 Should I terminate my contracts with Russian/Belarusian suppliers now?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "p",
+      "text": "Contracting authorities should consider each contract individually, bearing in mind its criticality, risk profile, value, and the availability and cost of alternative supply, as well as whether the terms of the contract allow termination at will, and the likelihood of any financial penalties or other liabilities, such as intellectual property implications, before making a decision. You should seek legal advice where necessary.",
+      "ordinal": 22,
+      "heading_path": [
+        "1. General",
+        "2. Existing contracts",
+        "2.2 Should I terminate my contracts with Russian/Belarusian suppliers now?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "heading",
+      "text": "2.3 Which clauses in my contract can be used to terminate my contract if there are no other performance issues?",
+      "ordinal": 23,
+      "heading_path": [
+        "1. General",
+        "2. Existing contracts",
+        "2.3 Which clauses in my contract can be used to terminate my contract if there are no other performance issues?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "We would expect contracts to contain clear termination clauses. These might offer termination with or without notice but without a cost to the contracting authority, e.g. in the form of a break clause, or with notice for convenience, which describes how any payments due are calculated. You must ascertain and assess the consequences of terminating the contract, particularly the cost to the contracting authority, before a decision to terminate is made.",
+      "ordinal": 24,
+      "heading_path": [
+        "1. General",
+        "2. Existing contracts",
+        "2.3 Which clauses in my contract can be used to terminate my contract if there are no other performance issues?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "heading",
+      "text": "2.4 My contract requires me to give 90 days notice of termination? What should I do?",
+      "ordinal": 25,
+      "heading_path": [
+        "1. General",
+        "2. Existing contracts",
+        "2.4 My contract requires me to give 90 days notice of termination? What should I do?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "p",
+      "text": "Notice to terminate should be given in accordance with the terms of the contract. Where a decision is made to terminate a contract, as a guide, the contracting authority should take the termination option which results in the lowest overall payment to the prime contractor, from a whole life cost perspective. The financial implications of terminating the contract and the impact of different notice periods, and supplier switching costs, should be carefully assessed.",
+      "ordinal": 26,
+      "heading_path": [
+        "1. General",
+        "2. Existing contracts",
+        "2.4 My contract requires me to give 90 days notice of termination? What should I do?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "heading",
+      "text": "2.5 Will I incur financial penalties for terminating my contract?",
+      "ordinal": 27,
+      "heading_path": [
+        "1. General",
+        "2. Existing contracts",
+        "2.5 Will I incur financial penalties for terminating my contract?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "This depends entirely on the terms of the contract. You should consider each contract individually and check whether it allows for termination at will/convenience and whether this will incur any financial penalties. If the termination will incur additional costs, these will need to be covered by the existing budgets.",
+      "ordinal": 28,
+      "heading_path": [
+        "1. General",
+        "2. Existing contracts",
+        "2.5 Will I incur financial penalties for terminating my contract?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "heading",
+      "text": "2.6 Where might terminating a contract benefit a supplier?",
+      "ordinal": 29,
+      "heading_path": [
+        "1. General",
+        "2. Existing contracts",
+        "2.6 Where might terminating a contract benefit a supplier?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "p",
+      "text": "There could be a scenario where it is better to not terminate the contract because the supplier would considerably benefit. For example, a customer might have just started a fixed three-year energy contract with a supplier at an agreed price of 50p/therm. The current market price however is much higher. If the customer terminates the contract, the supplier can now sell their energy at a higher rate. Meanwhile, the previous customer might secure a contract with a different supplier but this too is at the higher market rate.",
+      "ordinal": 30,
+      "heading_path": [
+        "1. General",
+        "2. Existing contracts",
+        "2.6 Where might terminating a contract benefit a supplier?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "heading",
+      "text": "2.7 What about subcontractors?",
+      "ordinal": 31,
+      "heading_path": [
+        "1. General",
+        "2. Existing contracts",
+        "2.7 What about subcontractors?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "p",
+      "text": "Where you identify subcontractors that are Russian or Belarusian suppliers you should start to understand their impact on your supply chain and discuss with your prime contractor their links to Russia or Belarus. There is no requirement at this stage to consider the termination of subcontracts with Russian or Belarusian subcontractors.",
+      "ordinal": 32,
+      "heading_path": [
+        "1. General",
+        "2. Existing contracts",
+        "2.7 What about subcontractors?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "heading",
+      "text": "2.8 How do I know if I have Russian/Belarusian suppliers in the supply chain?",
+      "ordinal": 33,
+      "heading_path": [
+        "1. General",
+        "2. Existing contracts",
+        "2.8 How do I know if I have Russian/Belarusian suppliers in the supply chain?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "p",
+      "text": "Prime contractors should identify their main subcontractors (i.e. those being relied on to deliver the contract) when bidding for the contract so this information should be available to you, for example in their response to the standard supplier questionnaire or in a schedule to the contract. Supply chain mapping can help to identify those suppliers involved in the supply chain, to source (if necessary) to identify risks. The Companies House Register may be a useful information source.",
+      "ordinal": 34,
+      "heading_path": [
+        "1. General",
+        "2. Existing contracts",
+        "2.8 How do I know if I have Russian/Belarusian suppliers in the supply chain?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "heading",
+      "text": "2.9 My contract is via a Framework Agreement - how do I access information relating to the supply chain?",
+      "ordinal": 35,
+      "heading_path": [
+        "1. General",
+        "2. Existing contracts",
+        "2.9 My contract is via a Framework Agreement - how do I access information relating to the supply chain?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "p",
+      "text": "You should contact the Framework Agreement owner to request the information if you are not able to get it from your supplier directly. Where your contract is via a Crown Commercial Service (CCS) commercial agreement, you should contact the helpdesk on 0345 410 2222 or info@crowncommercial.gov.uk . For other Public Buying Organisations you should contact them directly.",
+      "ordinal": 36,
+      "heading_path": [
+        "1. General",
+        "2. Existing contracts",
+        "2.9 My contract is via a Framework Agreement - how do I access information relating to the supply chain?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "heading",
+      "text": "2.10 Should I map my supply chain to ascertain the risks? / What is supply chain mapping?",
+      "ordinal": 37,
+      "heading_path": [
+        "1. General",
+        "2. Existing contracts",
+        "2.10 Should I map my supply chain to ascertain the risks? / What is supply chain mapping?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "p",
+      "text": "It should not be necessary to undertake full supply chain mapping to source, to execute the actions set out in this PPN. However, you should ensure you have sufficient information on which to identify and assess the risks effectively.",
+      "ordinal": 38,
+      "heading_path": [
+        "1. General",
+        "2. Existing contracts",
+        "2.10 Should I map my supply chain to ascertain the risks? / What is supply chain mapping?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "p",
+      "text": "Mapping your supply chain means gathering information about your suppliers, their own suppliers, and the people who work in your supply chain to create a global map of your supply network. Its primary function is to identify and manage risk at all levels of the supply chain. Supply chain mapping involves working collaboratively with your prime contractor to gather data on subsequent tiers to manage risks particularly where a supplier is unable to deliver or has become unreliable as a result of sanctions, inability to travel or other disruptions.",
+      "ordinal": 39,
+      "heading_path": [
+        "1. General",
+        "2. Existing contracts",
+        "2.10 Should I map my supply chain to ascertain the risks? / What is supply chain mapping?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "heading",
+      "text": "2.11 Who should I consult if I am unsure whether to recommend termination?",
+      "ordinal": 40,
+      "heading_path": [
+        "1. General",
+        "2. Existing contracts",
+        "2.11 Who should I consult if I am unsure whether to recommend termination?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "p",
+      "text": "The decision as to whether to terminate a contract is for the contracting authority to make. Legal, financial and commercial advice will assist decision making.",
+      "ordinal": 41,
+      "heading_path": [
+        "1. General",
+        "2. Existing contracts",
+        "2.11 Who should I consult if I am unsure whether to recommend termination?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "heading",
+      "text": "2.12 Who should make the decision to terminate the contract?",
+      "ordinal": 42,
+      "heading_path": [
+        "1. General",
+        "2. Existing contracts",
+        "2.12 Who should make the decision to terminate the contract?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "p",
+      "text": "The decision whether to terminate a contract is for each contracting authority to make. Recommendations to terminate should be well-documented and be approved by your Commercial Director and Accounting Officer (or their equivalents in other parts of the public sector). If the termination is contentious, central government departments should seek approval from their Permanent Secretary.",
+      "ordinal": 43,
+      "heading_path": [
+        "1. General",
+        "2. Existing contracts",
+        "2.12 Who should make the decision to terminate the contract?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "heading",
+      "text": "2.13 What if the contract I want to terminate is critical / there are no alternative suppliers?",
+      "ordinal": 44,
+      "heading_path": [
+        "1. General",
+        "2. Existing contracts",
+        "2.13 What if the contract I want to terminate is critical / there are no alternative suppliers?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "p",
+      "text": "You should always carefully consider the risks associated with terminating a contract before taking any action. Critical contracts should not be terminated before there is a suitable alternative solution available that can be implemented without incurring disproportionate costs. Contracts with no alternative source of supply should not be terminated unless the contracting authority is assured the risk in doing so is manageable.",
+      "ordinal": 45,
+      "heading_path": [
+        "1. General",
+        "2. Existing contracts",
+        "2.13 What if the contract I want to terminate is critical / there are no alternative suppliers?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "heading",
+      "text": "3. New Contracts",
+      "ordinal": 46,
+      "heading_path": [
+        "1. General",
+        "3. New Contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "heading",
+      "text": "3.1 Can I let a new contract to a Russian/Belarusian supplier?",
+      "ordinal": 47,
+      "heading_path": [
+        "1. General",
+        "3. New Contracts",
+        "3.1 Can I let a new contract to a Russian/Belarusian supplier?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "p",
+      "text": "It is possible to not consider Russian or Belarusian suppliers in new procurements in certain cases. Suppliers who are constituted or organised under the law of Russia or Belarus or their ‘Persons of Significant Control’ information states Russia or Belarus as the place of residency can be excluded, as long as the supplier or any member of their supply chain they rely on to deliver the contract:",
+      "ordinal": 48,
+      "heading_path": [
+        "1. General",
+        "3. New Contracts",
+        "3.1 Can I let a new contract to a Russian/Belarusian supplier?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "li",
+      "text": "is not registered in the UK or in a country the UK has a relevant international agreement with reciprocal rights of access to public procurement; and",
+      "ordinal": 49,
+      "heading_path": [
+        "1. General",
+        "3. New Contracts",
+        "3.1 Can I let a new contract to a Russian/Belarusian supplier?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00050",
+      "block_type": "li",
+      "text": "does not have substantive business operations in the UK or in a country the UK has a relevant international agreement with reciprocal rights of access to public procurement.",
+      "ordinal": 50,
+      "heading_path": [
+        "1. General",
+        "3. New Contracts",
+        "3.1 Can I let a new contract to a Russian/Belarusian supplier?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00051",
+      "block_type": "p",
+      "text": "If either of these two criteria are met, the supplier should not be automatically excluded from a new procurement, as the non-discrimination, equal treatment and remedy provisions contained within the Public Contracts Regulations 2015 apply. Where the supplier has a more complex group structure involving parent or group companies based or operating in the UK or in a country the UK has a relevant international agreement with reciprocal rights of access to procurement, you should consider the specific circumstances and take legal advice where appropriate.",
+      "ordinal": 51,
+      "heading_path": [
+        "1. General",
+        "3. New Contracts",
+        "3.1 Can I let a new contract to a Russian/Belarusian supplier?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00052",
+      "block_type": "heading",
+      "text": "3.2 Do I have to check whether an exclusion ground applies?",
+      "ordinal": 52,
+      "heading_path": [
+        "1. General",
+        "3. New Contracts",
+        "3.2 Do I have to check whether an exclusion ground applies?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00053",
+      "block_type": "p",
+      "text": "Excluding a supplier from a procurement in this context does not rely on the exclusion grounds in the Public Contracts Regulations 2015. It is not necessary to consider these exclusion grounds since duties under the Regulations do not extend to Russian or Belarusian suppliers.",
+      "ordinal": 53,
+      "heading_path": [
+        "1. General",
+        "3. New Contracts",
+        "3.2 Do I have to check whether an exclusion ground applies?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00054",
+      "block_type": "heading",
+      "text": "3.3 How do I treat a Russian/Belarusian supplier who has submitted a bid for a new contract?",
+      "ordinal": 54,
+      "heading_path": [
+        "1. General",
+        "3. New Contracts",
+        "3.3 How do I treat a Russian/Belarusian supplier who has submitted a bid for a new contract?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00055",
+      "block_type": "p",
+      "text": "It is possible to decline to consider bids from Russian or Belarusian suppliers in certain circumstances. For suppliers who are constituted or organised under the law of Russia or Belarus or their ‘Persons of Significant Control’ information states Russia or Belarus as the place of residency, the supplier’s bid can be discounted as long as the supplier or any member of their supply chain they rely on to deliver the contract:",
+      "ordinal": 55,
+      "heading_path": [
+        "1. General",
+        "3. New Contracts",
+        "3.3 How do I treat a Russian/Belarusian supplier who has submitted a bid for a new contract?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00056",
+      "block_type": "li",
+      "text": "does not have significant business operations in the UK or in a country the UK has a relevant international agreement with reciprocal rights of access to public procurement.",
+      "ordinal": 56,
+      "heading_path": [
+        "1. General",
+        "3. New Contracts",
+        "3.3 How do I treat a Russian/Belarusian supplier who has submitted a bid for a new contract?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00057",
+      "block_type": "p",
+      "text": "If either of these criteria are met, the supplier’s bid should not be automatically discounted, as the non-discrimination, equal treatment and remedy provisions contained within the Public Contracts Regulations 2015 apply. Where the supplier has a more complex group structure involving parent or group companies based or operating in the UK or in a country the UK has a relevant international agreement with reciprocal rights of access to procurement, you should consider the specific circumstances and take legal advice where appropriate.",
+      "ordinal": 57,
+      "heading_path": [
+        "1. General",
+        "3. New Contracts",
+        "3.3 How do I treat a Russian/Belarusian supplier who has submitted a bid for a new contract?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00058",
+      "block_type": "heading",
+      "text": "3.4 How do I confirm if a bidder is Russian/Belarusian?",
+      "ordinal": 58,
+      "heading_path": [
+        "1. General",
+        "3. New Contracts",
+        "3.4 How do I confirm if a bidder is Russian/Belarusian?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00059",
+      "block_type": "p",
+      "text": "This information should be provided at the selection stage of the procurement process, where the bidder is required to set out details of their registered office address. It will also require them to set out details of their supply chain and their Persons of Significant Control (i.e. beneficial owner). You can use this information to validate whether or not they are Russian/Belarusian.",
+      "ordinal": 59,
+      "heading_path": [
+        "1. General",
+        "3. New Contracts",
+        "3.4 How do I confirm if a bidder is Russian/Belarusian?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00060",
+      "block_type": "heading",
+      "text": "3.5 What is a Person of Significant Control?",
+      "ordinal": 60,
+      "heading_path": [
+        "1. General",
+        "3. New Contracts",
+        "3.5 What is a Person of Significant Control?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00061",
+      "block_type": "p",
+      "text": "A person with significant control (PSC) is someone who owns or controls a company. They are sometimes called ‘beneficial owners’. UK registered companies must identify their PSCs and tell Companies House who they are. A company can have one or more PSCs. Most PSCs are those who hold:",
+      "ordinal": 61,
+      "heading_path": [
+        "1. General",
+        "3. New Contracts",
+        "3.5 What is a Person of Significant Control?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00062",
+      "block_type": "li",
+      "text": "more than 25% of shares in the company;",
+      "ordinal": 62,
+      "heading_path": [
+        "1. General",
+        "3. New Contracts",
+        "3.5 What is a Person of Significant Control?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00063",
+      "block_type": "li",
+      "text": "more than 25% of voting rights in the company; or",
+      "ordinal": 63,
+      "heading_path": [
+        "1. General",
+        "3. New Contracts",
+        "3.5 What is a Person of Significant Control?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00064",
+      "block_type": "li",
+      "text": "the right to appoint or remove the majority of the board of directors.",
+      "ordinal": 64,
+      "heading_path": [
+        "1. General",
+        "3. New Contracts",
+        "3.5 What is a Person of Significant Control?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00065",
+      "block_type": "p",
+      "text": "A PSC might influence or control a company through other means. This could be directly, or on behalf of someone else. For example, someone may influence or control the actions of directors or shareholders. This condition will only apply in limited circumstances. The full PSC guidance has more information on the meaning of ‘significant influence or control’.",
+      "ordinal": 65,
+      "heading_path": [
+        "1. General",
+        "3. New Contracts",
+        "3.5 What is a Person of Significant Control?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00066",
+      "block_type": "p",
+      "text": "If a company is controlled by a trust or firm without ‘legal personality’:- This condition will only apply in limited circumstances. If a trust or firm meets any nature of control, all trustees or members/partners of the firm should be recorded as PSCs of the company and this information registered at Companies House.",
+      "ordinal": 66,
+      "heading_path": [
+        "1. General",
+        "3. New Contracts",
+        "3.5 What is a Person of Significant Control?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00067",
+      "block_type": "heading",
+      "text": "3.6 How do I verify the information I receive?",
+      "ordinal": 67,
+      "heading_path": [
+        "1. General",
+        "3. New Contracts",
+        "3.6 How do I verify the information I receive?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00068",
+      "block_type": "p",
+      "text": "You should conduct due diligence in the usual way to check supplier details, for example from the Companies House Register and other open information sources, or seek verification directly from the supplier.",
+      "ordinal": 68,
+      "heading_path": [
+        "1. General",
+        "3. New Contracts",
+        "3.6 How do I verify the information I receive?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00069",
+      "block_type": "heading",
+      "text": "4. Local Government Specific FAQs",
+      "ordinal": 69,
+      "heading_path": [
+        "1. General",
+        "4. Local Government Specific FAQs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00070",
+      "block_type": "heading",
+      "text": "4.1 What is Section 17 of the Local Government Act 1988?",
+      "ordinal": 70,
+      "heading_path": [
+        "1. General",
+        "4. Local Government Specific FAQs",
+        "4.1 What is Section 17 of the Local Government Act 1988?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00071",
+      "block_type": "p",
+      "text": "Contracting Authorities subject to section 17 of the Local Government Act 1988 should note that in general they are prohibited from taking into account non-commercial considerations in procurement decisions.",
+      "ordinal": 71,
+      "heading_path": [
+        "1. General",
+        "4. Local Government Specific FAQs",
+        "4.1 What is Section 17 of the Local Government Act 1988?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00072",
+      "block_type": "p",
+      "text": "However, Local Government (Exclusion of Non-Commercial Considerations)(England) Order 2022 (“the 2022 Order”) came into force on 1 July 2022 to enable best value authorities and parish councils to apply this PPN.",
+      "ordinal": 72,
+      "heading_path": [
+        "1. General",
+        "4. Local Government Specific FAQs",
+        "4.1 What is Section 17 of the Local Government Act 1988?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00073",
+      "block_type": "heading",
+      "text": "4.2 Are local government contracting authorities required to review their contract portfolio as set out in this PPN?",
+      "ordinal": 73,
+      "heading_path": [
+        "1. General",
+        "4. Local Government Specific FAQs",
+        "4.2 Are local government contracting authorities required to review their contract portfolio as set out in this PPN?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00074",
+      "block_type": "p",
+      "text": "No. Best value authorities and parish councils should consider whether it is proportionate to conduct a risk assessment and review of contract portfolios bearing in mind resource implications and take action accordingly.",
+      "ordinal": 74,
+      "heading_path": [
+        "1. General",
+        "4. Local Government Specific FAQs",
+        "4.2 Are local government contracting authorities required to review their contract portfolio as set out in this PPN?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00075",
+      "block_type": "heading",
+      "text": "4.3 Can local government contracting authorities terminate contracts for commercial reasons?",
+      "ordinal": 75,
+      "heading_path": [
+        "1. General",
+        "4. Local Government Specific FAQs",
+        "4.3 Can local government contracting authorities terminate contracts for commercial reasons?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00076",
+      "block_type": "p",
+      "text": "Local authorities are subject to section 17 of the Local Government Act 1988 (listed in Schedule 2 to the Act) and with regard to their procurement functions may not take into account ‘non-commercial considerations’ in deciding whether to terminate existing contracts or letting new contracts. This includes for reasons relating to the location or country of origin of a supplier.",
+      "ordinal": 76,
+      "heading_path": [
+        "1. General",
+        "4. Local Government Specific FAQs",
+        "4.3 Can local government contracting authorities terminate contracts for commercial reasons?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00077",
+      "block_type": "p",
+      "text": "In response to the invasion of Ukraine, the Government brought forward the Local Government (Exclusion of Non-Commercial Considerations) (England) Order 2022. This Order provides that, for best value authorities and parish councils in England, the country or territory of origin of entities (both suppliers and subcontractors) with which these organisations hold public supply or works contracts can be taken into consideration where either:",
+      "ordinal": 77,
+      "heading_path": [
+        "1. General",
+        "4. Local Government Specific FAQs",
+        "4.3 Can local government contracting authorities terminate contracts for commercial reasons?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00078",
+      "block_type": "li",
+      "text": "the country or territory of origin of supplies to the contractor is the Russian Federation or the Republic of Belarus, or",
+      "ordinal": 78,
+      "heading_path": [
+        "1. General",
+        "4. Local Government Specific FAQs",
+        "4.3 Can local government contracting authorities terminate contracts for commercial reasons?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00079",
+      "block_type": "li",
+      "text": "the location of the business activities or interests of a contractor is the Russian Federation or the Republic of Belarus. [footnote 1]",
+      "ordinal": 79,
+      "heading_path": [
+        "1. General",
+        "4. Local Government Specific FAQs",
+        "4.3 Can local government contracting authorities terminate contracts for commercial reasons?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00080",
+      "block_type": "p",
+      "text": "This could include entities which are constituted or organised under the law of Russia or Belarus, or whose ‘Persons of Significant Control’ information states Russia or Belarus as the place of residency. However, during new procurements best value authorities and parish councils must also pay careful attention to entities registered in the UK or those which have significant business operations in the UK (or a country to which the UK has a relevant international agreement) but are controlled by entities in Russia or Belarus.",
+      "ordinal": 80,
+      "heading_path": [
+        "1. General",
+        "4. Local Government Specific FAQs",
+        "4.3 Can local government contracting authorities terminate contracts for commercial reasons?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00081",
+      "block_type": "heading",
+      "text": "4.4 What are the Best Value considerations that local government should take into account in relation to this PPN?",
+      "ordinal": 81,
+      "heading_path": [
+        "1. General",
+        "4. Local Government Specific FAQs",
+        "4.4 What are the Best Value considerations that local government should take into account in relation to this PPN?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00082",
+      "block_type": "p",
+      "text": "Local authorities have a Best Value Duty under section 3 of the Local Government Act 1999, which is a duty to secure continuous improvement in the exercise of their functions, having regard to economy, efficiency and effectiveness. Generally, terminating contracts for non-commercial reasons, or paying any significant termination charges, or terminating contracts for a more expensive alternative, could be incompatible with the Best Value Duty, depending on the contractual arrangements and the circumstances.",
+      "ordinal": 82,
+      "heading_path": [
+        "1. General",
+        "4. Local Government Specific FAQs",
+        "4.4 What are the Best Value considerations that local government should take into account in relation to this PPN?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00083",
+      "block_type": "p",
+      "text": "However, the changes made by the 2022 Order enable best value authorities and parish councils in England to apply this PPN.",
+      "ordinal": 83,
+      "heading_path": [
+        "1. General",
+        "4. Local Government Specific FAQs",
+        "4.4 What are the Best Value considerations that local government should take into account in relation to this PPN?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00084",
+      "block_type": "heading",
+      "text": "4.5 Will local government’s social value considerations apply to this PPN?",
+      "ordinal": 84,
+      "heading_path": [
+        "1. General",
+        "4. Local Government Specific FAQs",
+        "4.5 Will local government’s social value considerations apply to this PPN?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00085",
+      "block_type": "p",
+      "text": "Section 1 of the Public Services (Social Value) Act 2012 requires local authorities to consider how they might use their procurement to improve the economic, social and environmental wellbeing of their local area. This applies only at the pre-procurement stage and so should be considered for new procurements if existing arrangements are due to expire, but does not apply to contract termination.",
+      "ordinal": 85,
+      "heading_path": [
+        "1. General",
+        "4. Local Government Specific FAQs",
+        "4.5 Will local government’s social value considerations apply to this PPN?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00086",
+      "block_type": "heading",
+      "text": "4.6 Does the new 2022 Order also cover contracts let under Framework Agreements?",
+      "ordinal": 86,
+      "heading_path": [
+        "1. General",
+        "4. Local Government Specific FAQs",
+        "4.6 Does the new 2022 Order also cover contracts let under Framework Agreements?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00087",
+      "block_type": "p",
+      "text": "Yes. The new legislation disapplies Section 17(5)(e) of the Local Government Act 1988 for these entities. As such it applies to all ‘procurement functions’, which includes functions relating to proposed or subsisting contracts for public supply, services or works and also applies to call offs from Framework Agreements.",
+      "ordinal": 87,
+      "heading_path": [
+        "1. General",
+        "4. Local Government Specific FAQs",
+        "4.6 Does the new 2022 Order also cover contracts let under Framework Agreements?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00088",
+      "block_type": "heading",
+      "text": "4.7 The Local Government Act 1988 refers to subcontractors, supplier, associated bodies and customers of the contractor – should best value authorities and parish councils prioritise their consideration of any of these?",
+      "ordinal": 88,
+      "heading_path": [
+        "1. General",
+        "4. Local Government Specific FAQs",
+        "4.7 The Local Government Act 1988 refers to subcontractors, supplier, associated bodies and customers of the contractor – should best value authorities and parish councils prioritise their consideration of any of these?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00089",
+      "block_type": "p",
+      "text": "Council leaders have expressed a clear desire to cut ties with companies backed by, or linked to, the Russian and Belarusian state regimes, while minimising the impact to taxpayers and the delivery of public services. Identifying contracts with Russian or Belarusian contractors is a probable first step and such activity is for each body to determine individually. Best value authorities and parish councils will need to consider the resource implications associated with undertaking such a review and whether it is proportionate to also review the subcontractors, suppliers, associated bodies and customers of their contractors.",
+      "ordinal": 89,
+      "heading_path": [
+        "1. General",
+        "4. Local Government Specific FAQs",
+        "4.7 The Local Government Act 1988 refers to subcontractors, supplier, associated bodies and customers of the contractor – should best value authorities and parish councils prioritise their consideration of any of these?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00090",
+      "block_type": "heading",
+      "text": "4.8 Should best value authorities and parish councils terminate contracts with suppliers which have a significant Russian or Belarusian customer base?",
+      "ordinal": 90,
+      "heading_path": [
+        "1. General",
+        "4. Local Government Specific FAQs",
+        "4.8 Should best value authorities and parish councils terminate contracts with suppliers which have a significant Russian or Belarusian customer base?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00091",
+      "block_type": "p",
+      "text": "The new legislation disapplies Section 17(5)(e) of the Local Government Act 1988, enabling best value authorities and parish councils to consider the country or territory of origin of supplies to the contractor or the location of the business activities or interests of a contractor, where this is the Russian Federation or the Republic of Belarus. This also applies to a supplier or customer of the contractor; a sub-contractor of the contractor or his supplier or customer; an associated body of the contractor or his supplier or customer; or a sub-contractor of an associated body of the contractor or his supplier or customer.",
+      "ordinal": 91,
+      "heading_path": [
+        "1. General",
+        "4. Local Government Specific FAQs",
+        "4.8 Should best value authorities and parish councils terminate contracts with suppliers which have a significant Russian or Belarusian customer base?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00092",
+      "block_type": "p",
+      "text": "As such the new legislation also enables best value authorities and parish councils to consider whether a customer of a contractor is the Russian Federation or the Republic of Belarus, in line with the guidance set out in this PPN, and if it is accordingly appropriate to terminate the contracts.",
+      "ordinal": 92,
+      "heading_path": [
+        "1. General",
+        "4. Local Government Specific FAQs",
+        "4.8 Should best value authorities and parish councils terminate contracts with suppliers which have a significant Russian or Belarusian customer base?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00093",
+      "block_type": "li",
+      "text": "The Local Government (Exclusion of Non-commercial Considerations) (England) Order 2022 - ↩",
+      "ordinal": 93,
+      "heading_path": [
+        "1. General",
+        "4. Local Government Specific FAQs",
+        "4.8 Should best value authorities and parish councils terminate contracts with suppliers which have a significant Russian or Belarusian customer base?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00094",
+      "block_type": "p",
+      "text": "The Local Government (Exclusion of Non-commercial Considerations) (England) Order 2022 - ↩",
+      "ordinal": 94,
+      "heading_path": [
+        "1. General",
+        "4. Local Government Specific FAQs",
+        "4.8 Should best value authorities and parish councils terminate contracts with suppliers which have a significant Russian or Belarusian customer base?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "Companies House Register",
+      "href": "https://find-and-update.company-information.service.gov.uk/",
+      "block_id": "b00034",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "info@crowncommercial.gov.uk",
+      "href": "mailto:info@crowncommercial.gov.uk",
+      "block_id": "b00036",
+      "ordinal": 1,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "full PSC guidance",
+      "href": "https://www.gov.uk/government/publications/guidance-to-the-people-with-significant-control-requirements-for-companies-and-limited-liability-partnerships",
+      "block_id": "b00065",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Companies House Register",
+      "href": "https://find-and-update.company-information.service.gov.uk/",
+      "block_id": "b00068",
+      "ordinal": 3,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "[footnote 1]",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0122-contracts-with-suppliers-from-russia-and-belarus/ppn-0122-frequently-asked-questions#fn:1",
+      "block_id": "b00079",
+      "ordinal": 4,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "The Local Government (Exclusion of Non-commercial Considerations) (England) Order 2022",
+      "href": "https://www.legislation.gov.uk/ukdsi/2022/9780348235500",
+      "block_id": "b00093",
+      "ordinal": 5,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0122-contracts-with-suppliers-from-russia-and-belarus/ppn-0122-frequently-asked-questions#fnref:1",
+      "block_id": "b00093",
+      "ordinal": 6,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "The Local Government (Exclusion of Non-commercial Considerations) (England) Order 2022",
+      "href": "https://www.legislation.gov.uk/ukdsi/2022/9780348235500",
+      "block_id": "b00094",
+      "ordinal": 7,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0122-contracts-with-suppliers-from-russia-and-belarus/ppn-0122-frequently-asked-questions#fnref:1",
+      "block_id": "b00094",
+      "ordinal": 8,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "PPN 01/22: Frequently asked questions",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0122-contracts-with-suppliers-from-russia-and-belarus/ppn-0122-frequently-asked-questions",
+      "block_id": "__document__",
+      "ordinal": 9,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2019 to 2022 Johnson Conservative government",
+      "href": "https://www.gov.uk/government/2019-to-2022-johnson-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 10,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 11,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Procurement Policy Note 01/22: contracts with suppliers from Russia and Belarus",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0122-contracts-with-suppliers-from-russia-and-belarus",
+      "block_id": "__document__",
+      "ordinal": 12,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 13,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 1",
+      "block_id": "b00002",
+      "start": 173,
+      "end": 182,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015",
+      "block_id": "b00051",
+      "start": 218,
+      "end": 234,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015",
+      "block_id": "b00053",
+      "start": 119,
+      "end": 135,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015",
+      "block_id": "b00057",
+      "start": 199,
+      "end": 215,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 17",
+      "block_id": "b00070",
+      "start": 12,
+      "end": 22,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "17"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 17",
+      "block_id": "b00071",
+      "start": 35,
+      "end": 45,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "17"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 17",
+      "block_id": "b00076",
+      "start": 33,
+      "end": 43,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "17"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 2",
+      "block_id": "b00076",
+      "start": 88,
+      "end": 98,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "2"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 3",
+      "block_id": "b00082",
+      "start": 47,
+      "end": 56,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "3"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 1",
+      "block_id": "b00085",
+      "start": 0,
+      "end": 9,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 17(5)(e)",
+      "block_id": "b00087",
+      "start": 36,
+      "end": 52,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "17",
+        "tail": "(5)(e)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 17(5)(e)",
+      "block_id": "b00091",
+      "start": 31,
+      "end": 47,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "17",
+        "tail": "(5)(e)"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

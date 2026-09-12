@@ -1,0 +1,1533 @@
+{
+  "document_id": "30a103ad-2075-4db3-bf4b-f60dd1319302",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/286eca6148f207c1c2af80e7.json",
+  "input_sha256": "1a32f37a4808eb92953c0e1b71269213b61620232d7ab53ba22c675cc6a33e5d",
+  "processed_at": "2026-08-27T02:26:08.990305+00:00",
+  "title": "Guidance: Key Performance Indicators (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-key-performance-indicators-html",
+  "description": null,
+  "publication_date": "2024-08-06T16:19:03+01:00",
+  "updated_date": "2026-07-20T15:07:48+01:00",
+  "source_metadata": {
+    "content_id": "30a103ad-2075-4db3-bf4b-f60dd1319302",
+    "base_path": "/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-key-performance-indicators-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What is a key performance indicator?",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What is the legal framework that governs KPIs?",
+      "ordinal": 3,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What has changed?",
+      "ordinal": 8,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Key points and policy intent",
+      "ordinal": 11,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Setting and publishing KPIs ( section 52 and section 53 )",
+      "ordinal": 12,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Assessment and publication of contract performance against KPIs ( section 71 )",
+      "ordinal": 22,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What notices are linked to this aspect of the Act?",
+      "ordinal": 28,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What other guidance is of particular relevance to this topic area?",
+      "ordinal": 32,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Where can I go for more information or training?",
+      "ordinal": 36,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "What is a key performance indicator?",
+      "ordinal": 0,
+      "heading_path": [
+        "What is a key performance indicator?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "1. A key performance indicator (KPI) is defined in the Procurement Act 2023 (Act) as a factor or measure against which a supplier’s performance of a contract can be assessed during the life-cycle of the contract ( section 52(1) ).",
+      "ordinal": 1,
+      "heading_path": [
+        "What is a key performance indicator?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "2. By setting targets for the desired level of performance against KPIs, a contracting authority can measure and demonstrate a supplier’s progress against those targets. Where KPIs apply, they will be set out in the contract between the contracting authority and the supplier.",
+      "ordinal": 2,
+      "heading_path": [
+        "What is a key performance indicator?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "heading",
+      "text": "What is the legal framework that governs KPIs?",
+      "ordinal": 3,
+      "heading_path": [
+        "What is a key performance indicator?",
+        "What is the legal framework that governs KPIs?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "3. Section 52 of the Act defines a KPI and sets out the circumstances in which a contracting authority must set and publish KPIs. Section 71 sets out when the contracting authority must assess the supplier’s performance against the KPIs set and the information to be published in relation to that assessment.",
+      "ordinal": 4,
+      "heading_path": [
+        "What is a key performance indicator?",
+        "What is the legal framework that governs KPIs?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "4. Regulation 32 requires three KPIs to be published in the contract details notice (published under section 53(1) ) where KPIs were set in accordance with section 52(1) of the Act [footnote 1] .",
+      "ordinal": 5,
+      "heading_path": [
+        "What is a key performance indicator?",
+        "What is the legal framework that governs KPIs?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "p",
+      "text": "5. Section 71(2) requires contracting authorities to assess performance against all the KPIs set in accordance with section 52(1) and to publish certain information about that assessment. Regulation 39 requires contracting authorities to publish assessment information with respect to the three KPIs set out in the contract performance notice [footnote 2] .",
+      "ordinal": 6,
+      "heading_path": [
+        "What is a key performance indicator?",
+        "What is the legal framework that governs KPIs?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "6. There are differences for Wales in relation to this aspect of the legislation so devolved Welsh contracting authorities should refer to the Welsh-specific guidance. Other contracting authorities will need to refer to Welsh-specific guidance if awarding a contract under a procurement arrangement established by a devolved Welsh contracting authority.",
+      "ordinal": 7,
+      "heading_path": [
+        "What is a key performance indicator?",
+        "What is the legal framework that governs KPIs?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "heading",
+      "text": "What has changed?",
+      "ordinal": 8,
+      "heading_path": [
+        "What is a key performance indicator?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "7. This is the first time that KPIs have been legislated for in UK public procurement legislation. However, all contracting authorities that are central government departments and their associated arm’s length bodies are currently required to comply with the government’s policy on reporting requirements for KPIs set out in the Cabinet Office’s Commercial Playbooks and their accompanying guidance notes. These requirements will continue to apply alongside the requirements set out in the Act. If a contracting authority is required, by one of the Commercial Playbooks, to provide the Cabinet Office with a KPI report, that is separate from the requirements under the Act.",
+      "ordinal": 9,
+      "heading_path": [
+        "What is a key performance indicator?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "p",
+      "text": "8. Contracting authorities should also be aware of the new discretionary exclusion grounds in Schedule 7, paragraphs 12(3) and (4) which permit exclusion on the grounds of poor performance. This places more emphasis on the setting of KPIs and assessment of performance than has previously been the case. See guidance on exclusions for more information",
+      "ordinal": 10,
+      "heading_path": [
+        "What is a key performance indicator?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "heading",
+      "text": "Key points and policy intent",
+      "ordinal": 11,
+      "heading_path": [
+        "What is a key performance indicator?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "heading",
+      "text": "Setting and publishing KPIs ( section 52 and section 53 )",
+      "ordinal": 12,
+      "heading_path": [
+        "What is a key performance indicator?",
+        "Key points and policy intent",
+        "Setting and publishing KPIs ( section 52 and section 53 )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "9. Before entering into a public contract with an estimated value of more than £5 million, section 52(1) generally requires that a contracting authority must set at least three KPIs in respect of the contract.",
+      "ordinal": 13,
+      "heading_path": [
+        "What is a key performance indicator?",
+        "Key points and policy intent",
+        "Setting and publishing KPIs ( section 52 and section 53 )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "10. The obligation to set at least three KPIs does not apply if the contracting authority considers that the supplier’s performance could not appropriately be assessed by reference to KPIs. This might include, for example, where the contract is for a one-off delivery of or off-the-shelf goods.",
+      "ordinal": 14,
+      "heading_path": [
+        "What is a key performance indicator?",
+        "Key points and policy intent",
+        "Setting and publishing KPIs ( section 52 and section 53 )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "11. Where more than three KPIs are set, section 52(3) requires that all of those KPIs must be published. In most cases, contracting authorities will satisfy the obligation in section 52(3) to publish all their KPIs by complying with the obligation in section 53(3) to publish a copy of any contract with an estimated value of more than £5 million. Contracts over £5 million awarded by a devolved Welsh authority or a transferred Northern Irish authority or awarded under a devolved Welsh procurement arrangement or a transferred Northern Ireland procurement arrangement are not required (under section 53(3) ) to be published. However, contracting authorities entering into such contracts are still required to comply with section 52(3) and to publish any KPIs set under section 52(1) ; this means that they will need to publish KPIs in some other way (for example, in the contract details notice).",
+      "ordinal": 15,
+      "heading_path": [
+        "What is a key performance indicator?",
+        "Key points and policy intent",
+        "Setting and publishing KPIs ( section 52 and section 53 )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "12. In addition to publishing all of the KPIs set under section 52(1) , regulation 32(2)(r) requires that a contracting authority must also publish, in the contract details notice, a description of the three KPIs which the contracting authority regards as most material to performance of the contract obligations at the time the contract details notice is published. If the three KPIs that are most material to performance of the contract obligations at the time the contract details notice is published are only a snapshot in time and different KPIs would be relevant when considering those that are most material to performance of the contract obligations over the life of the contract, contracting authorities should also include those KPIs in the contract details notice. This might occur, for example, where the initial performance of the contract is concerned with transition arrangements or manufacture and delivery, but the main objective of the contract is the subsequent associated service delivery. In this scenario, contracting authorities should use the free text box in the KPI description field to indicate which KPIs are most material at the time the notice is published and which are most material over the life of the contract.",
+      "ordinal": 16,
+      "heading_path": [
+        "What is a key performance indicator?",
+        "Key points and policy intent",
+        "Setting and publishing KPIs ( section 52 and section 53 )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "13. The obligation to set and publish at least three KPIs does not apply in relation to certain types of public contracts:",
+      "ordinal": 17,
+      "heading_path": [
+        "What is a key performance indicator?",
+        "Key points and policy intent",
+        "Setting and publishing KPIs ( section 52 and section 53 )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "p",
+      "text": "a. a framework (although it does apply to call off contracts under frameworks where these are over £5m);",
+      "ordinal": 18,
+      "heading_path": [
+        "What is a key performance indicator?",
+        "Key points and policy intent",
+        "Setting and publishing KPIs ( section 52 and section 53 )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "b. a utilities contract awarded by a private utility;",
+      "ordinal": 19,
+      "heading_path": [
+        "What is a key performance indicator?",
+        "Key points and policy intent",
+        "Setting and publishing KPIs ( section 52 and section 53 )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "p",
+      "text": "c. a concession contract; or",
+      "ordinal": 20,
+      "heading_path": [
+        "What is a key performance indicator?",
+        "Key points and policy intent",
+        "Setting and publishing KPIs ( section 52 and section 53 )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "d. a light touch contract.",
+      "ordinal": 21,
+      "heading_path": [
+        "What is a key performance indicator?",
+        "Key points and policy intent",
+        "Setting and publishing KPIs ( section 52 and section 53 )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "heading",
+      "text": "Assessment and publication of contract performance against KPIs ( section 71 )",
+      "ordinal": 22,
+      "heading_path": [
+        "What is a key performance indicator?",
+        "Key points and policy intent",
+        "Assessment and publication of contract performance against KPIs ( section 71 )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "14. Where a contracting authority has set KPIs under section 52(1) , section 71 requires that it must, at least once in every twelve month period during the lifetime of the contract and on termination, assess the supplier’s performance against those KPIs, and publish certain information in relation to that assessment in the contract performance notice. A contracting authority may choose to assess performance (and publish information) more frequently if it chooses. Where a contract is terminated in full for poor performance, certain performance information must also be included in the contract termination notice. The information to be published in the contract performance notice is specified in regulation 39 and requires the contracting authority to publish an assessment of performance against the three KPIs set under section 52(1) which the contracting authority regards, at the time the contract performance notice is published, as most material to performance of the contract obligations. These KPIs may be different from those set out in the contract details notice or in previous contract performance notices as the KPIs to be included must be those regarded as most material at the time the contract performance notice is published, so may change over time.",
+      "ordinal": 23,
+      "heading_path": [
+        "What is a key performance indicator?",
+        "Key points and policy intent",
+        "Assessment and publication of contract performance against KPIs ( section 71 )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "15. The KPIs included in the contract performance notice must be assessed in accordance with the ratings set out in regulation 39(5) , and include the time period to which the assessment applies. The ratings are replicated in the table below. These ratings align with the rating system established by the Commercial Playbooks, minimising change and disruption to contracting authorities who are required to comply with that policy. If a contracting authority has an internal rating system in place, it may still internally assess its suppliers against that rating system. However, it must use the ratings set out in regulation 39 when completing the contract performance notice. See the guidance on contract performance notices for further information.",
+      "ordinal": 24,
+      "heading_path": [
+        "What is a key performance indicator?",
+        "Key points and policy intent",
+        "Assessment and publication of contract performance against KPIs ( section 71 )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "table",
+      "text": "Rating\tDescription\nGood\tPerformance is meeting or exceeding the KPI\nApproaching target\tPerformance is close to meeting the KPI\nRequires improvement\tPerformance is below the KPI\nInadequate\tPerformance is significantly below the KPI\nOther\tPerformance cannot be described as good, approaching target, requires improvement or inadequate",
+      "ordinal": 25,
+      "heading_path": [
+        "What is a key performance indicator?",
+        "Key points and policy intent",
+        "Assessment and publication of contract performance against KPIs ( section 71 )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {
+        "rows": [
+          [
+            "Rating",
+            "Description"
+          ],
+          [
+            "Good",
+            "Performance is meeting or exceeding the KPI"
+          ],
+          [
+            "Approaching target",
+            "Performance is close to meeting the KPI"
+          ],
+          [
+            "Requires improvement",
+            "Performance is below the KPI"
+          ],
+          [
+            "Inadequate",
+            "Performance is significantly below the KPI"
+          ],
+          [
+            "Other",
+            "Performance cannot be described as good, approaching target, requires improvement or inadequate"
+          ]
+        ],
+        "row_count": 6
+      }
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "p",
+      "text": "16. The ratings allow for an assessment of ‘Other’ to be recorded where performance does not fall within any of the other four descriptions. This rating could be used, for example, where no KPI data has been recorded by the contracting authority for that KPI for the relevant reporting period, for example, where the contracting authority publishes the contract performance notice quarterly but measures performance against a specified KPI on a six monthly basis.",
+      "ordinal": 26,
+      "heading_path": [
+        "What is a key performance indicator?",
+        "Key points and policy intent",
+        "Assessment and publication of contract performance against KPIs ( section 71 )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "p",
+      "text": "17. Where the contracting authority considers that fewer than three KPIs set in accordance with section 52(1) are material to performance of the contract obligations at the time the contract performance notice is published, it could (provided this would be a permitted modification under section 74 of the Act) consider introducing a new (or amending an existing) KPI to be assessed against and reported on or continue reporting on the KPIs used in the contract details notice or last contract performance notice (as relevant) but with an ‘Other’ rating. Contracting authorities should use the free text box in the KPI description field to indicate which KPIs included in the contract performance notice are new or amended KPIs.",
+      "ordinal": 27,
+      "heading_path": [
+        "What is a key performance indicator?",
+        "Key points and policy intent",
+        "Assessment and publication of contract performance against KPIs ( section 71 )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "heading",
+      "text": "What notices are linked to this aspect of the Act?",
+      "ordinal": 28,
+      "heading_path": [
+        "What is a key performance indicator?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "p",
+      "text": "18. Contract details notice: used to publish the three KPIs most material to performance of the contract obligations at the time the contract details notice is published, as well as the three most material to performance over the lifetime of the contract, where these are different.",
+      "ordinal": 29,
+      "heading_path": [
+        "What is a key performance indicator?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "p",
+      "text": "19. Contract performance notice: used to publish performance against the three KPIs most relevant to performance of the contract obligations at the time that the contract performance notice is published. Also used where poor performance has resulted in partial termination of a contract.",
+      "ordinal": 30,
+      "heading_path": [
+        "What is a key performance indicator?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "p",
+      "text": "20. Contract termination notice: used to publish information about supplier performance against KPIs when the contract is terminated in full for poor performance.",
+      "ordinal": 31,
+      "heading_path": [
+        "What is a key performance indicator?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "heading",
+      "text": "What other guidance is of particular relevance to this topic area?",
+      "ordinal": 32,
+      "heading_path": [
+        "What is a key performance indicator?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "p",
+      "text": "Guidance on contract performance notices",
+      "ordinal": 33,
+      "heading_path": [
+        "What is a key performance indicator?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "p",
+      "text": "Guidance on contract details notices",
+      "ordinal": 34,
+      "heading_path": [
+        "What is a key performance indicator?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "p",
+      "text": "Guidance on contract termination notices",
+      "ordinal": 35,
+      "heading_path": [
+        "What is a key performance indicator?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "heading",
+      "text": "Where can I go for more information or training?",
+      "ordinal": 36,
+      "heading_path": [
+        "What is a key performance indicator?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "p",
+      "text": "The Sourcing Playbook (p39)",
+      "ordinal": 37,
+      "heading_path": [
+        "What is a key performance indicator?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "p",
+      "text": "The Construction Playbook (p46)",
+      "ordinal": 38,
+      "heading_path": [
+        "What is a key performance indicator?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "p",
+      "text": "The Digital, Data and Technology Playbook (pp70-71)",
+      "ordinal": 39,
+      "heading_path": [
+        "What is a key performance indicator?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "p",
+      "text": "© Crown copyright 2024",
+      "ordinal": 40,
+      "heading_path": [
+        "What is a key performance indicator?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "p",
+      "text": "This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated. To view this licence, visit nationalarchives.gov.uk/doc/open-government-licence/version/3",
+      "ordinal": 41,
+      "heading_path": [
+        "What is a key performance indicator?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "p",
+      "text": "Where we have identified any third party copyright information you will need to obtain permission from the copyright holders concerned.",
+      "ordinal": 42,
+      "heading_path": [
+        "What is a key performance indicator?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "p",
+      "text": "This publication is available at www.gov.uk/government/publications",
+      "ordinal": 43,
+      "heading_path": [
+        "What is a key performance indicator?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "p",
+      "text": "Any enquiries regarding this publication should be sent to us at procurement.reform@cabinetoffice.gov.uk .",
+      "ordinal": 44,
+      "heading_path": [
+        "What is a key performance indicator?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "li",
+      "text": "This guidance reflects planned changes to the KPI information required in the contract details notice at regulation 32(2)(r) . The regulations will be amended to reflect this position before the Act comes into force. ↩",
+      "ordinal": 45,
+      "heading_path": [
+        "What is a key performance indicator?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "p",
+      "text": "This guidance reflects planned changes to the KPI information required in the contract details notice at regulation 32(2)(r) . The regulations will be amended to reflect this position before the Act comes into force. ↩",
+      "ordinal": 46,
+      "heading_path": [
+        "What is a key performance indicator?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "li",
+      "text": "This guidance reflects planned changes to the KPI information required in the contract performance notice at regulation 39(4)(d-e) . The regulations will be amended to reflect this position before the Act comes into force ↩",
+      "ordinal": 47,
+      "heading_path": [
+        "What is a key performance indicator?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "p",
+      "text": "This guidance reflects planned changes to the KPI information required in the contract performance notice at regulation 39(4)(d-e) . The regulations will be amended to reflect this position before the Act comes into force ↩",
+      "ordinal": 48,
+      "heading_path": [
+        "What is a key performance indicator?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "Procurement Act 2023 (Act)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/contents",
+      "block_id": "b00001",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 52(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/52",
+      "block_id": "b00001",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 52",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/52",
+      "block_id": "b00004",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 71",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/71",
+      "block_id": "b00004",
+      "ordinal": 3,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Regulation 32",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/32",
+      "block_id": "b00005",
+      "ordinal": 4,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 53(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/53",
+      "block_id": "b00005",
+      "ordinal": 5,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 52(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/52",
+      "block_id": "b00005",
+      "ordinal": 6,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "[footnote 1]",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-key-performance-indicators-html#fn:1",
+      "block_id": "b00005",
+      "ordinal": 7,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Section 71(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/71",
+      "block_id": "b00006",
+      "ordinal": 8,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 52(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/52",
+      "block_id": "b00006",
+      "ordinal": 9,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Regulation 39",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/39",
+      "block_id": "b00006",
+      "ordinal": 10,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "[footnote 2]",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-key-performance-indicators-html#fn:2",
+      "block_id": "b00006",
+      "ordinal": 11,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Schedule 7, paragraphs 12(3) and (4)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/7/paragraph/12",
+      "block_id": "b00010",
+      "ordinal": 12,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "exclusions",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-exclusions-html",
+      "block_id": "b00010",
+      "ordinal": 13,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 52",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/52",
+      "block_id": "b00012",
+      "ordinal": 14,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 53",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/53",
+      "block_id": "b00012",
+      "ordinal": 15,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 52(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/52",
+      "block_id": "b00013",
+      "ordinal": 16,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 52(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/52",
+      "block_id": "b00015",
+      "ordinal": 17,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 52(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/52",
+      "block_id": "b00015",
+      "ordinal": 18,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 53(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/53",
+      "block_id": "b00015",
+      "ordinal": 19,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 53(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/53",
+      "block_id": "b00015",
+      "ordinal": 20,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 52(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/52",
+      "block_id": "b00015",
+      "ordinal": 21,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 52(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/52",
+      "block_id": "b00015",
+      "ordinal": 22,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 52(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/52",
+      "block_id": "b00016",
+      "ordinal": 23,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 32(2)(r)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/32",
+      "block_id": "b00016",
+      "ordinal": 24,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 71",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/71",
+      "block_id": "b00022",
+      "ordinal": 25,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 52(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/52",
+      "block_id": "b00023",
+      "ordinal": 26,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 71",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/71",
+      "block_id": "b00023",
+      "ordinal": 27,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 39",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/39",
+      "block_id": "b00023",
+      "ordinal": 28,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 52(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/52",
+      "block_id": "b00023",
+      "ordinal": 29,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 39(5)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/39",
+      "block_id": "b00024",
+      "ordinal": 30,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 39",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/39",
+      "block_id": "b00024",
+      "ordinal": 31,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "contract performance notices",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-performance-notices-html",
+      "block_id": "b00024",
+      "ordinal": 32,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 52(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/52",
+      "block_id": "b00027",
+      "ordinal": 33,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 74",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/74",
+      "block_id": "b00027",
+      "ordinal": 34,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "contract performance notices",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-performance-notices-html",
+      "block_id": "b00033",
+      "ordinal": 35,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "contract details notices",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-contract-details-notices-html",
+      "block_id": "b00034",
+      "ordinal": 36,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "contract termination notices",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-termination-html",
+      "block_id": "b00035",
+      "ordinal": 37,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "The Sourcing Playbook",
+      "href": "https://www.gov.uk/government/publications/the-sourcing-and-consultancy-playbooks",
+      "block_id": "b00037",
+      "ordinal": 38,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "The Construction Playbook",
+      "href": "https://www.gov.uk/government/publications/the-construction-playbook",
+      "block_id": "b00038",
+      "ordinal": 39,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "The Digital, Data and Technology Playbook",
+      "href": "https://www.gov.uk/government/publications/the-digital-data-and-technology-playbook",
+      "block_id": "b00039",
+      "ordinal": 40,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "nationalarchives.gov.uk/doc/open-government-licence/version/3",
+      "href": "http://nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "block_id": "b00041",
+      "ordinal": 41,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "www.gov.uk/government/publications",
+      "href": "http://www.gov.uk/government/publications",
+      "block_id": "b00043",
+      "ordinal": 42,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "procurement.reform@cabinetoffice.gov.uk",
+      "href": "mailto:procurement.reform@cabinetoffice.gov.uk",
+      "block_id": "b00044",
+      "ordinal": 43,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "regulation 32(2)(r)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/32",
+      "block_id": "b00045",
+      "ordinal": 44,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-key-performance-indicators-html#fnref:1",
+      "block_id": "b00045",
+      "ordinal": 45,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "regulation 32(2)(r)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/32",
+      "block_id": "b00046",
+      "ordinal": 46,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-key-performance-indicators-html#fnref:1",
+      "block_id": "b00046",
+      "ordinal": 47,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "regulation 39(4)(d-e)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/39",
+      "block_id": "b00047",
+      "ordinal": 48,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-key-performance-indicators-html#fnref:2",
+      "block_id": "b00047",
+      "ordinal": 49,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "regulation 39(4)(d-e)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/39",
+      "block_id": "b00048",
+      "ordinal": 50,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-key-performance-indicators-html#fnref:2",
+      "block_id": "b00048",
+      "ordinal": 51,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Guidance: Key Performance Indicators (HTML)",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-key-performance-indicators-html",
+      "block_id": "__document__",
+      "ordinal": 52,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2024 to 2026 Starmer Labour government",
+      "href": "https://www.gov.uk/government/2024-starmer-labour-government",
+      "block_id": "__document__",
+      "ordinal": 53,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 54,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Procurement Act 2023 guidance documents - Manage phase",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase",
+      "block_id": "__document__",
+      "ordinal": 55,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 56,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 52(1)",
+      "block_id": "b00001",
+      "start": 214,
+      "end": 227,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "52",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 52",
+      "block_id": "b00004",
+      "start": 3,
+      "end": 13,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "52"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 71",
+      "block_id": "b00004",
+      "start": 130,
+      "end": 140,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "71"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 53(1)",
+      "block_id": "b00005",
+      "start": 101,
+      "end": 114,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "53",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 52(1)",
+      "block_id": "b00005",
+      "start": 156,
+      "end": 169,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "52",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 32",
+      "block_id": "b00005",
+      "start": 3,
+      "end": 16,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "32"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 71(2)",
+      "block_id": "b00006",
+      "start": 3,
+      "end": 16,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "71",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 52(1)",
+      "block_id": "b00006",
+      "start": 116,
+      "end": 129,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "52",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 39",
+      "block_id": "b00006",
+      "start": 188,
+      "end": 201,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "39"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 7",
+      "block_id": "b00010",
+      "start": 94,
+      "end": 104,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "7"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraphs 12(3)",
+      "block_id": "b00010",
+      "start": 106,
+      "end": 122,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "12",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 52",
+      "block_id": "b00012",
+      "start": 30,
+      "end": 40,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "52"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 53",
+      "block_id": "b00012",
+      "start": 45,
+      "end": 55,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "53"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 52(1)",
+      "block_id": "b00013",
+      "start": 91,
+      "end": 104,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "52",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 52(3)",
+      "block_id": "b00015",
+      "start": 40,
+      "end": 53,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "52",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 52(3)",
+      "block_id": "b00015",
+      "start": 175,
+      "end": 188,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "52",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 53(3)",
+      "block_id": "b00015",
+      "start": 251,
+      "end": 264,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "53",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 53(3)",
+      "block_id": "b00015",
+      "start": 594,
+      "end": 607,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "53",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 52(3)",
+      "block_id": "b00015",
+      "start": 723,
+      "end": 736,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "52",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 52(1)",
+      "block_id": "b00015",
+      "start": 771,
+      "end": 784,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "52",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 52(1)",
+      "block_id": "b00016",
+      "start": 56,
+      "end": 69,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "52",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 32(2)(r)",
+      "block_id": "b00016",
+      "start": 72,
+      "end": 91,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "32",
+        "tail": "(2)(r)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 71",
+      "block_id": "b00022",
+      "start": 66,
+      "end": 76,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "71"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 52(1)",
+      "block_id": "b00023",
+      "start": 53,
+      "end": 66,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "52",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 71",
+      "block_id": "b00023",
+      "start": 69,
+      "end": 79,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "71"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 52(1)",
+      "block_id": "b00023",
+      "start": 829,
+      "end": 842,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "52",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 39",
+      "block_id": "b00023",
+      "start": 703,
+      "end": 716,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "39"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 39(5)",
+      "block_id": "b00024",
+      "start": 116,
+      "end": 132,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "39",
+        "tail": "(5)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 39",
+      "block_id": "b00024",
+      "start": 616,
+      "end": 629,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "39"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 52(1)",
+      "block_id": "b00027",
+      "start": 96,
+      "end": 109,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "52",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 74",
+      "block_id": "b00027",
+      "start": 288,
+      "end": 298,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "74"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 32(2)(r)",
+      "block_id": "b00045",
+      "start": 105,
+      "end": 124,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "32",
+        "tail": "(2)(r)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 32(2)(r)",
+      "block_id": "b00046",
+      "start": 105,
+      "end": 124,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "32",
+        "tail": "(2)(r)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 39(4)",
+      "block_id": "b00047",
+      "start": 109,
+      "end": 125,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "39",
+        "tail": "(4)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 39(4)",
+      "block_id": "b00048",
+      "start": 109,
+      "end": 125,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "39",
+        "tail": "(4)"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

@@ -1,0 +1,126 @@
+{
+  "document_id": "a43f9125-70dc-49c7-98d7-712594a927ac",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/58ecabd2cd1f503ead241752.json",
+  "input_sha256": "7ae6a329dd0d74832db56c0f4902307f9ee697fb97dafd8cffa9dca270514678",
+  "processed_at": "2026-08-27T02:26:18.508637+00:00",
+  "title": "PPN 017: Improving transparency of AI use in procurement",
+  "canonical_url": "https://www.gov.uk/government/publications/ppn-017-improving-transparency-of-ai-use-in-procurement",
+  "description": "This PPN provides optional questions to help identify the use of Artificial Intelligence in procurements, and in the delivery of government services.",
+  "publication_date": "2025-02-17T14:45:25+00:00",
+  "updated_date": "2025-02-17T14:45:25+00:00",
+  "source_metadata": {
+    "content_id": "a43f9125-70dc-49c7-98d7-712594a927ac",
+    "base_path": "/government/publications/ppn-017-improving-transparency-of-ai-use-in-procurement",
+    "document_type": "guidance",
+    "schema_name": "publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "This PPN has been updated to reflect new terminology introduced by the Procurement Act 2023 and the Procurement Regulations 2024. For procurements commenced and contracts awarded before this date, please refer to PPN 02/24.",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "PPN 017: Improving transparency of AI use in procurement",
+      "href": "https://www.gov.uk/government/publications/ppn-017-improving-transparency-of-ai-use-in-procurement",
+      "block_id": "__document__",
+      "ordinal": 0,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "PPN 017: Improving transparency of AI use in procurement (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-017-improving-transparency-of-ai-use-in-procurement/ppn-017-improving-transparency-of-ai-use-in-procurement-html",
+      "block_id": "__document__",
+      "ordinal": 1,
+      "link_type": "GOVUK_CHILDREN"
+    },
+    {
+      "text": "Procurement policy notes",
+      "href": "https://www.gov.uk/government/collections/procurement-policy-notes",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_DOCUMENT_COLLECTIONS"
+    },
+    {
+      "text": "2024 to 2026 Starmer Labour government",
+      "href": "https://www.gov.uk/government/2024-starmer-labour-government",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_ORIGINAL_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Government spending",
+      "href": "https://www.gov.uk/government/government-spending",
+      "block_id": "__document__",
+      "ordinal": 7,
+      "link_type": "GOVUK_TAXONS"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2024",
+      "block_id": "b00000",
+      "start": 112,
+      "end": 128,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2024"
+      }
+    }
+  ],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/67af7ba0e270ceae39f9e279/PPN_017_Improving_transparency_of_AI_use_in_procurement.pdf",
+      "title": "PPN 017: Improving transparency of AI use in procurement (PDF)",
+      "content_type": "application/pdf",
+      "filename": "PPN_017_Improving_transparency_of_AI_use_in_procurement.pdf",
+      "id": "8467589",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "/government/publications/ppn-017-improving-transparency-of-ai-use-in-procurement/ppn-017-improving-transparency-of-ai-use-in-procurement-html",
+      "title": "PPN 017: Improving transparency of AI use in procurement (HTML)",
+      "content_type": null,
+      "filename": null,
+      "id": "8467588",
+      "logical_role": "ATTACHMENT"
+    }
+  ],
+  "warnings": []
+}

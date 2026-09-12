@@ -1,0 +1,655 @@
+{
+  "document_id": "f6d50990-be2f-417f-a77a-6ff4dab180b7",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/752d61b8ff17e8f0b7827bd5.json",
+  "input_sha256": "169d6d975c60ecaf07d3e2697d46ad163fe081bcb2e5713451dd931cc37f9236",
+  "processed_at": "2026-08-27T02:26:25.758303+00:00",
+  "title": "PPN 013: Using standard contracts (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/ppn-013-using-standard-contracts/ppn-013-using-standard-contracts-html",
+  "description": null,
+  "publication_date": "2025-02-17T14:45:03+00:00",
+  "updated_date": "2025-04-25T10:10:07+01:00",
+  "source_metadata": {
+    "content_id": "f6d50990-be2f-417f-a77a-6ff4dab180b7",
+    "base_path": "/government/publications/ppn-013-using-standard-contracts/ppn-013-using-standard-contracts-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Issue",
+      "ordinal": 3,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Dissemination and scope",
+      "ordinal": 7,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Timing",
+      "ordinal": 11,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Action",
+      "ordinal": 13,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "1. The Model Services Contract (“MSC”)",
+      "ordinal": 16,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "2. The Mid-Tier Contract",
+      "ordinal": 18,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "3. The Short Form Contract",
+      "ordinal": 20,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Background",
+      "ordinal": 27,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Contact",
+      "ordinal": 34,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "Action Note: 013",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "Previously issued: February 2025",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "Updated: April 2025",
+      "ordinal": 2,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "heading",
+      "text": "Issue",
+      "ordinal": 3,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "1. Standardisation of terms and conditions can assist government and all public sector buyers to obtain the best value for citizens. The Government Commercial Function (GCF) and Government Legal Department (GLD) have published three standard contracts for use by government departments, and many other public sector organisations, as part of their commercial activity.",
+      "ordinal": 4,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "2. This PPN was previously issued in February 2025 and updated PPN 08/23 to reflect new terminology introduced by the Procurement Act 2023 and the Procurement Regulations 2024. The Procurement Act 2023 and the Procurement Regulations 2024 apply to procurements commenced on or after 24 February 2025.",
+      "ordinal": 5,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "p",
+      "text": "3. This PPN was updated in April 2025 to expand the appropriate use of the Short Form Contract. In-scope organisations may now utilise the Short Form Contract for the provision of non-complex goods and services above the relevant procurement thresholds, where it is proportionate and appropriate to do so (see paragraph 9).",
+      "ordinal": 6,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "heading",
+      "text": "Dissemination and scope",
+      "ordinal": 7,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "4. This Procurement Policy Note (PPN) applies to all central government departments, their executive agencies and non-departmental public bodies. Such bodies are referred to as ‘in-scope organisations’.",
+      "ordinal": 8,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "5. Please circulate this PPN within your organisation, particularly to those with a commercial procurement and/or contract management role. It may also be relevant to those in finance, operational and sustainability roles.",
+      "ordinal": 9,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "p",
+      "text": "6. Other public sector contracting authorities may wish to apply the approach set out in this PPN.",
+      "ordinal": 10,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "heading",
+      "text": "Timing",
+      "ordinal": 11,
+      "heading_path": [
+        "Issue",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "7. In-scope organisations must apply the provisions of this PPN with immediate effect.",
+      "ordinal": 12,
+      "heading_path": [
+        "Issue",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "heading",
+      "text": "Action",
+      "ordinal": 13,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "8. Where in-scope organisations are purchasing bespoke goods or services, or goods or services that cannot be facilitated by a suitable government commercial tool, such as a Crown Commercial Service Framework they should adopt one of the Standard Contracts as the basis for all relevant procurements, rather than creating bespoke contracts.",
+      "ordinal": 14,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "9. The three Standard Contracts in the suite are:",
+      "ordinal": 15,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "heading",
+      "text": "1. The Model Services Contract (“MSC”)",
+      "ordinal": 16,
+      "heading_path": [
+        "Issue",
+        "Action",
+        "1. The Model Services Contract (“MSC”)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "This is designed as a template for complex services/services procurements which will typically require some form of formal dialogue or negotiation with potential suppliers, for example clarifying the scope of existing arrangements or desired service outcomes, or ensuring that there is an appropriate balance of risk and reward. It is particularly suitable for Business Process Outsourcing (BPO) and/or ICT delivery services. Use of the MSC is encouraged where the likely contract value (over the whole of the intended contract term) is £20m or more, or where a contract is rated ‘Gold’ using the Cabinet Office Contract Tiering Tool. The Model Service Contract",
+      "ordinal": 17,
+      "heading_path": [
+        "Issue",
+        "Action",
+        "1. The Model Services Contract (“MSC”)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "heading",
+      "text": "2. The Mid-Tier Contract",
+      "ordinal": 18,
+      "heading_path": [
+        "Issue",
+        "Action",
+        "2. The Mid-Tier Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "This is designed as a template for goods and/or services procurements which are not particularly complex and do not require formal dialogue or negotiation with potential suppliers. The Mid-Tier Contract may be used where the likely contract value (over the whole of the intended contract term) is above the relevant procurement thresholds, but falls below approximately £20m. It may also be used if a contract is more complex or critical, but below the relevant procurement thresholds. The Mid-Tier Contract .",
+      "ordinal": 19,
+      "heading_path": [
+        "Issue",
+        "Action",
+        "2. The Mid-Tier Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "heading",
+      "text": "3. The Short Form Contract",
+      "ordinal": 20,
+      "heading_path": [
+        "Issue",
+        "Action",
+        "3. The Short Form Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "This is designed as a template for low value, non-complex goods and/or services procurements. The Short Form Contract should be used when the likely contract value (over the whole of the intended contract term) is below the relevant procurement thresholds, unless the contract is more complex or critical, in which case, another contract, such as the Mid-Tier Contract may be used.",
+      "ordinal": 21,
+      "heading_path": [
+        "Issue",
+        "Action",
+        "3. The Short Form Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "p",
+      "text": "However, in-scope organisations may use the Short Form Contract for non-complex above-threshold procurements where it is proportionate and appropriate to do so, within limits (e.g., Cabinet Office Contract Tiering Tool tiering level (Gold/Silver/Bronze) limits; value (£) limits; use by exception only limits) put in place by that in-scope organisation. In-scope organisations should also consider the risks of the particular procurement (e.g., data protection, security, intellectual property rights, SME access) as well as proportionality and value.",
+      "ordinal": 22,
+      "heading_path": [
+        "Issue",
+        "Action",
+        "3. The Short Form Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "If used for an above-threshold procurement, the Short Form Contract will be missing several clauses as compared to the Mid-Tier Contract, and is likely to need to be amended to work for the procurement (e.g., by introducing additional clauses from the Mid-Tier Contract to cover missing but required clauses). The Short Form Contract Guidance note sets out the missing clauses.",
+      "ordinal": 23,
+      "heading_path": [
+        "Issue",
+        "Action",
+        "3. The Short Form Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "The Short Form Contract .",
+      "ordinal": 24,
+      "heading_path": [
+        "Issue",
+        "Action",
+        "3. The Short Form Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "p",
+      "text": "10. The Standard Contracts need not be used where a more suitable form of contract is available - for example, Departmental terms and conditions attached to purchase orders for very low value procurements, a government framework, or an industry-specific contract, such as those available for construction.",
+      "ordinal": 25,
+      "heading_path": [
+        "Issue",
+        "Action",
+        "3. The Short Form Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "p",
+      "text": "11. In-scope organisations should always seek appropriate legal advice, as these template Standard Contracts will need to be tailored to specific procurements and any Department-specific needs. Organisations which are not in scope of this PPN, such as NHS bodies, should consider having regard to these Standard Contracts when updating their own terms and conditions.",
+      "ordinal": 26,
+      "heading_path": [
+        "Issue",
+        "Action",
+        "3. The Short Form Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "heading",
+      "text": "Background",
+      "ordinal": 27,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "12. The Sourcing Playbook states that common goods and services should be purchased through a government framework and that the MSC is a convenient and flexible starting point for a wide range of government services, providing contractual clauses to support Playbook policies.",
+      "ordinal": 28,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "p",
+      "text": "13. Creating bespoke contracts creates additional expenditure, may increase negotiation and resource time, and risks Departments reinventing contracts that otherwise exist, or failing to include contractual clauses in support of government policies. It also risks inconsistent policy positions, which may confuse suppliers and create inefficiencies in procurement through additional clarification questions.",
+      "ordinal": 29,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "p",
+      "text": "14. The suite of Standard Contracts is designed to simplify the procurement process, support businesses, and create a level playing field for small and medium-sized enterprises. These Standard Contracts set out a consistent government approach to terms and conditions and doing business with government. This is intended to reduce administration, resource (including legal) costs and negotiation time, and aid consistency and compliance with relevant legislation and procurement policy.",
+      "ordinal": 30,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "p",
+      "text": "15. The Standard Contracts will be subject to ongoing continuous improvement and we value feedback on their use in practice. In-scope organisations are encouraged to share any feedback on using the Standard Contracts, and should do so via the email address below.",
+      "ordinal": 31,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "p",
+      "text": "16. Guidance notes on the use of the Standard Contracts can be found alongside each Standard Contracts template and throughout each template contract.",
+      "ordinal": 32,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "p",
+      "text": "17. PPN 013 has been updated in April 2025 to permit in-scope organisations to use the Short Form Contract for the provision of non-complex goods and services above the relevant procurement thresholds, where it is proportionate and appropriate to do so (see paragraph 9 above).",
+      "ordinal": 33,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "heading",
+      "text": "Contact",
+      "ordinal": 34,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "p",
+      "text": "18. Enquiries about this PPN should be directed to the Standard Contracts Policy Team at modelservicescontract@cabinetoffice.gov.uk or the Crown Commercial Service Helpdesk (telephone 0345 410 2222, email info@crowncommercial.gov.uk )",
+      "ordinal": 35,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "The Model Service Contract",
+      "href": "https://www.gov.uk/government/collections/model-services-contract",
+      "block_id": "b00017",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "The Mid-Tier Contract",
+      "href": "https://www.gov.uk/government/collections/the-mid-tier-contract",
+      "block_id": "b00019",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "The Short Form Contract Guidance note",
+      "href": "https://www.gov.uk/government/publications/guidance-on-the-short-form-contract",
+      "block_id": "b00023",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "The Short Form Contract",
+      "href": "https://www.gov.uk/government/publications/short-form-terms-and-conditions",
+      "block_id": "b00024",
+      "ordinal": 3,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Sourcing Playbook",
+      "href": "https://www.gov.uk/government/publications/the-sourcing-and-consultancy-playbooks",
+      "block_id": "b00028",
+      "ordinal": 4,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "modelservicescontract@cabinetoffice.gov.uk",
+      "href": "mailto:modelservicescontract@cabinetoffice.gov.uk",
+      "block_id": "b00035",
+      "ordinal": 5,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "info@crowncommercial.gov.uk",
+      "href": "mailto:info@crowncommercial.gov.uk",
+      "block_id": "b00035",
+      "ordinal": 6,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "PPN 013: Using standard contracts (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-013-using-standard-contracts/ppn-013-using-standard-contracts-html",
+      "block_id": "__document__",
+      "ordinal": 7,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2024 to 2026 Starmer Labour government",
+      "href": "https://www.gov.uk/government/2024-starmer-labour-government",
+      "block_id": "__document__",
+      "ordinal": 8,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 9,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "PPN 013: Using standard contracts",
+      "href": "https://www.gov.uk/government/publications/ppn-013-using-standard-contracts",
+      "block_id": "__document__",
+      "ordinal": 10,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 11,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2024",
+      "block_id": "b00005",
+      "start": 159,
+      "end": 175,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2024"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2024",
+      "block_id": "b00005",
+      "start": 222,
+      "end": 238,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2024"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 9",
+      "block_id": "b00006",
+      "start": 310,
+      "end": 321,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "9"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 9",
+      "block_id": "b00033",
+      "start": 258,
+      "end": 269,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "9"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

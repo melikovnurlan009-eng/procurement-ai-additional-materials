@@ -1,0 +1,131 @@
+{
+  "document_id": "60302b0d-7631-11e4-a3cb-005056011aef",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/f3d75f56a44379f62a2caa3d.json",
+  "input_sha256": "ef0447157f8f1e7972da5e7d470fef5c673614998a16243a1270f1c92ab4fb45",
+  "processed_at": "2026-08-27T02:26:47.605252+00:00",
+  "title": "Procurement Policy Note 10/14: the plan for public procurement of food and catering",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-policy-note-1014-the-plan-for-public-procurement-of-food-and-catering",
+  "description": "This public procurement plan aims to help government procurers to take a more consistent approach to buying food and catering services.",
+  "publication_date": "2014-11-13T08:56:42+00:00",
+  "updated_date": "2014-11-13T08:56:42+00:00",
+  "source_metadata": {
+    "content_id": "60302b0d-7631-11e4-a3cb-005056011aef",
+    "base_path": "/government/publications/procurement-policy-note-1014-the-plan-for-public-procurement-of-food-and-catering",
+    "document_type": "guidance",
+    "schema_name": "publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "The Plan for Public Procurement of Food and Catering aims to improve transparency for government suppliers. It aims to open up the supply chain to a wider range of companies, including small and medium businesses (SMEs) and companies that have not supplied government before.",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "Using the toolkit, central government departments, their executive agencies and non-departmental public bodies should commit to procuring food using the balanced scorecard method and revised Government Buying Standards for food and catering services . They will find suppliers that can help them achieve this via the procurement portal .",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "Departments should also manage their contracts proactively, and work with suppliers to source responsibly and comply with the balanced scorecard approach.",
+      "ordinal": 2,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "Government Buying Standards for food and catering services",
+      "href": "https://www.gov.uk/government/publications/sustainable-procurement-the-gbs-for-food-and-catering-services",
+      "block_id": "b00001",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "procurement portal",
+      "href": "https://sid4gov.cabinetoffice.gov.uk/gbfood",
+      "block_id": "b00001",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement Policy Note 10/14: the plan for public procurement of food and catering",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-1014-the-plan-for-public-procurement-of-food-and-catering",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "Procurement policy notes",
+      "href": "https://www.gov.uk/government/collections/procurement-policy-notes",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_DOCUMENT_COLLECTIONS"
+    },
+    {
+      "text": "2010 to 2015 Conservative and Liberal Democrat coalition government",
+      "href": "https://www.gov.uk/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_ORIGINAL_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 7,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Government spending",
+      "href": "https://www.gov.uk/government/government-spending",
+      "block_id": "__document__",
+      "ordinal": 8,
+      "link_type": "GOVUK_TAXONS"
+    }
+  ],
+  "legal_references": [],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/5a7cfc02ed915d321c2de1d6/PPN_10-14_The_Plan_for_Public_Procurement_of_Food_and_Catering_Services.pdf",
+      "title": "Procurement Policy Note – the Plan for Public Procurement of Food and Catering Services",
+      "content_type": "application/pdf",
+      "filename": "PPN_10-14_The_Plan_for_Public_Procurement_of_Food_and_Catering_Services.pdf",
+      "id": "785496",
+      "logical_role": "ATTACHMENT"
+    }
+  ],
+  "warnings": []
+}

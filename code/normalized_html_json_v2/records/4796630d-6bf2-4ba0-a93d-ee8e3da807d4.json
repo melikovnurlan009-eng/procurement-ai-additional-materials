@@ -1,0 +1,1812 @@
+{
+  "document_id": "4796630d-6bf2-4ba0-a93d-ee8e3da807d4",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/319a078d52abafa6b4cc6880.json",
+  "input_sha256": "f80813f49a85baa7fcb8c6777657af70fc9c552d1885258f9837f966ee33638d",
+  "processed_at": "2026-08-27T02:26:10.679694+00:00",
+  "title": "Guidance: Dynamic Markets (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-dynamic-markets-html",
+  "description": null,
+  "publication_date": "2024-07-09T09:33:36+01:00",
+  "updated_date": "2026-07-13T09:24:55+01:00",
+  "source_metadata": {
+    "content_id": "4796630d-6bf2-4ba0-a93d-ee8e3da807d4",
+    "base_path": "/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-dynamic-markets-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What are dynamic markets?",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What is the legal framework that governs dynamic markets?",
+      "ordinal": 9,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What has changed?",
+      "ordinal": 11,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Key points and policy intent",
+      "ordinal": 15,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Establishment and membership of dynamic markets",
+      "ordinal": 20,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Removing members from a dynamic market",
+      "ordinal": 36,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Dynamic markets: fees",
+      "ordinal": 45,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What are the primary notices linked to this aspect of the Act?",
+      "ordinal": 48,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Noticing requirements for the establishment and management of a dynamic market",
+      "ordinal": 49,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Stage 1: Dynamic market intention notice",
+      "ordinal": 53,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Stage 2: Dynamic market establishment notice",
+      "ordinal": 61,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Stage 3: Dynamic market modification notice",
+      "ordinal": 66,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Stage 4: Dynamic market cessation notice",
+      "ordinal": 71,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Noticing requirements for the award of public contracts under a dynamic market",
+      "ordinal": 73,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What other guidance is of particular relevance to this topic area?",
+      "ordinal": 78,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "What are dynamic markets?",
+      "ordinal": 0,
+      "heading_path": [
+        "What are dynamic markets?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "1. A dynamic market under the Procurement Act 2023 (Act) is a list of qualified suppliers (i.e. suppliers who have met the ‘conditions for membership’ of the dynamic market (see paragraph 15 below)) who are eligible to participate in future procurements. A dynamic market may be split into categories (referred to as ‘parts’ in the Act), with suppliers only eligible to participate in the parts for which they have qualified. (In this guidance, references to a dynamic market include references to a part of a dynamic market.)",
+      "ordinal": 1,
+      "heading_path": [
+        "What are dynamic markets?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "2. Dynamic markets are dynamic insofar as they must remain open to new suppliers to join at any time. Dynamic markets are available for all types of purchases of goods, services or works, other than those purchased under concession contracts unless the concession contract is also utilities contracts.",
+      "ordinal": 2,
+      "heading_path": [
+        "What are dynamic markets?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "3. Dynamic markets can be established and used by all contracting authorities, and utilities can also establish and use utilities dynamic markets. Utilities dynamic markets are dynamic markets established only for the purpose of the award of utility contracts by utilities; so a public authority could not set up a utilities dynamic market for its own use if the goods, services or works to be provided under the dynamic market were not wholly or mainly for the purpose of a utility activity.",
+      "ordinal": 3,
+      "heading_path": [
+        "What are dynamic markets?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "4. Aside from only being available for the award of utilities contracts and allowing for the award of concession contracts that are utilities contracts, where utilities dynamic markets differ most significantly from ‘standard’ dynamic markets is where they have been established under section 40 (Qualifying utilities dynamic market: no duty to publish a tender notice), by way of a qualifying utilities dynamic market notice. The differences for utilities dynamic markets established under section 40 are that:",
+      "ordinal": 4,
+      "heading_path": [
+        "What are dynamic markets?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "a. the qualifying utilities dynamic market notice has a slightly different content requirement to notice establishing a standard dynamic market;",
+      "ordinal": 5,
+      "heading_path": [
+        "What are dynamic markets?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "p",
+      "text": "b. the tender notice inviting suppliers to tender for a procurement under a qualifying utilities dynamic market notice is also different from the tender notice under a standard dynamic market; and",
+      "ordinal": 6,
+      "heading_path": [
+        "What are dynamic markets?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "c. when a procurement is commenced under a utilities dynamic market established by a qualifying utilities dynamic market notice, the tender notice is provided only to suppliers on the utilities dynamic market, it is not published.",
+      "ordinal": 7,
+      "heading_path": [
+        "What are dynamic markets?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "5. This guidance does not fully deal with utilities dynamic markets. For more information, please see the guidance on utilities .",
+      "ordinal": 8,
+      "heading_path": [
+        "What are dynamic markets?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "heading",
+      "text": "What is the legal framework that governs dynamic markets?",
+      "ordinal": 9,
+      "heading_path": [
+        "What are dynamic markets?",
+        "What is the legal framework that governs dynamic markets?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "p",
+      "text": "6. Sections 34-40 of the Act deal with awarding contracts under dynamic markets. They set out matters such as the rules that apply when setting up a dynamic market, the procedure to be used for awarding a contract under a dynamic market and the rules governing fees relating to dynamic markets. Dynamic markets are also subject to wider provisions in the Act, such as section 12 (covered procurement: objectives) and section 13 (national procurement policy statement (NPPS)). Within these parameters, contracting authorities have flexibility in setting out how a dynamic market may be operated.",
+      "ordinal": 10,
+      "heading_path": [
+        "What are dynamic markets?",
+        "What is the legal framework that governs dynamic markets?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "heading",
+      "text": "What has changed?",
+      "ordinal": 11,
+      "heading_path": [
+        "What are dynamic markets?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "7. The Act replaces dynamic purchasing systems and qualification systems with a single new ‘commercial tool’ called a dynamic market.",
+      "ordinal": 12,
+      "heading_path": [
+        "What are dynamic markets?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "8. Dynamic markets have many of the features of the current dynamic purchasing systems and qualification systems, but have been developed to better suit the needs of contracting authorities and utilities and to add clarity.",
+      "ordinal": 13,
+      "heading_path": [
+        "What are dynamic markets?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "9. The scope of what could be purchased using a dynamic purchasing system under the previous legislation has been expanded beyond commonly used purchases generally available on the market so that now contracting authorities could choose to undertake any procurement through a dynamic market.",
+      "ordinal": 14,
+      "heading_path": [
+        "What are dynamic markets?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "heading",
+      "text": "Key points and policy intent",
+      "ordinal": 15,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "10. Section 34 allows contracting authorities to award a contract under an ‘appropriate dynamic market’, provided the competitive flexible procedure is used. (An appropriate dynamic market is one which covers the goods, services or works that the contracting authority wishes to purchase.) This means that neither the open procedure nor direct award can be used to award a contract under a dynamic market, although in the case of direct award, there is no prohibition on awarding a contract to a supplier that is on a dynamic market, the contract just isn’t awarded by reference to the market. Admittance to a dynamic market does not (unlike the award of a framework) amount to the award of a public contract.",
+      "ordinal": 16,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "11. When procuring a contract under a dynamic market, a contracting authority must exclude suppliers that are not members of the dynamic market from participating or progressing in the competitive flexible procedure and must not award a contract to a supplier that is not a member of the relevant dynamic market. However, if a supplier has submitted a request to participate or a tender in respect of a procurement under a dynamic market but it is not a member of the relevant market, it can submit an application for membership of the market. The contracting authority must consider this application before excluding the supplier or disregarding the request or tender on the basis that the supplier is not a member of the dynamic market. This allows suppliers who are not on the dynamic market at the time a tender notice for a procurement is published to still participate in that procurement if they are successful in their application for membership of the dynamic market. The obligation to consider the application for membership does not apply if there are exceptional circumstances arising from the complexity of the particular procurement which mean that the contracting authority has insufficient time to consider the application before the relevant deadline.",
+      "ordinal": 17,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "p",
+      "text": "12. In order to effectively manage the requirement to consider applications for membership, contracting authorities may want to state in the dynamic market notice, the documents establishing the dynamic market, the tender notice or the associated tender documents for the relevant procurement (as relevant in the circumstances), a date by which applications to join the dynamic market must be submitted to ensure that there is sufficient time to consider them before the deadline for requests or tenders.",
+      "ordinal": 18,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "13. Concession contracts, other than those which are also utilities contracts, cannot be awarded under dynamic markets.",
+      "ordinal": 19,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "heading",
+      "text": "Establishment and membership of dynamic markets",
+      "ordinal": 20,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Key points and policy intent",
+        "Establishment and membership of dynamic markets"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "14. The documents establishing (or modifying) a dynamic market are not a contract for the purpose of the Act. This means that the rules in the Act regarding the award (or modification) of contracts do not apply when establishing (or modifying) a dynamic market, although other obligations do apply, such as those in Part 2 of the Act.",
+      "ordinal": 21,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Key points and policy intent",
+        "Establishment and membership of dynamic markets"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "p",
+      "text": "15. Conditions for membership of a dynamic market are similar to conditions for participation used in the award of a public contract (see section 22 (Conditions of participation) and guidance on conditions of participation ). Like conditions of participation, conditions for membership must be a proportionate way of assessing suppliers’ legal and financial capacity or technical ability to perform contracts.",
+      "ordinal": 22,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Key points and policy intent",
+        "Establishment and membership of dynamic markets"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "16. As with conditions of participation, the Act sets out rules to apply when setting conditions for membership of a dynamic market. This is to ensure that suppliers are not put at an unfair advantage or disadvantage with respect to such matters and can, in particular, support small and medium-sized enterprises who wish to tender for public contracts.",
+      "ordinal": 23,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Key points and policy intent",
+        "Establishment and membership of dynamic markets"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "17. In terms of legal and financial capacity, contracting authorities must not require the provision of audited annual accounts from suppliers that are not required by the Companies Act 2006 , or an overseas equivalent, to have their accounts audited; or to require insurance relating to the performance of the contract to be in place before award of the contract. These provisions allow suppliers that are not required to have their accounts audited to provide alternative evidence of financial capacity and allows suppliers to commit to having insurance in place at the time of the award of the contract.",
+      "ordinal": 24,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Key points and policy intent",
+        "Establishment and membership of dynamic markets"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "p",
+      "text": "18. In terms of technical ability, contracting authorities cannot require suppliers to have been awarded a contract by a particular contracting authority, break the rules on technical specifications in section 56 (technical specifications) or require particular qualifications without allowing for equivalents.",
+      "ordinal": 25,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Key points and policy intent",
+        "Establishment and membership of dynamic markets"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "p",
+      "text": "19. In considering whether a condition for membership is proportionate, contracting authorities must take into account the nature, complexity and cost of contracts to be awarded under the dynamic market.",
+      "ordinal": 26,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Key points and policy intent",
+        "Establishment and membership of dynamic markets"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "p",
+      "text": "20. A contracting authority may require evidence that is verifiable by a third party to satisfy a condition for membership of a dynamic market, for example, certification to an ISO standard.",
+      "ordinal": 27,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Key points and policy intent",
+        "Establishment and membership of dynamic markets"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "21. Setting conditions for membership for admittance to a dynamic market is an assessment of suitability that is prohibited by section 85(1) for the award of regulated below-threshold contracts. More information can be found in the guidance on below-threshold contracts .",
+      "ordinal": 28,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Key points and policy intent",
+        "Establishment and membership of dynamic markets"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "p",
+      "text": "22. Contracting authorities establishing a dynamic market must:",
+      "ordinal": 29,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Key points and policy intent",
+        "Establishment and membership of dynamic markets"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "p",
+      "text": "a. accept applications for membership at any time;",
+      "ordinal": 30,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Key points and policy intent",
+        "Establishment and membership of dynamic markets"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "p",
+      "text": "b. consider applications within a reasonable period of time;",
+      "ordinal": 31,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Key points and policy intent",
+        "Establishment and membership of dynamic markets"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "p",
+      "text": "c. admit suppliers to the dynamic market (as long as they are not excluded suppliers and they meet the conditions for membership) as soon as reasonably practicable;",
+      "ordinal": 32,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Key points and policy intent",
+        "Establishment and membership of dynamic markets"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "p",
+      "text": "d. consider whether to admit suppliers that are excludable suppliers and that meet the conditions for membership; and",
+      "ordinal": 33,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Key points and policy intent",
+        "Establishment and membership of dynamic markets"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "p",
+      "text": "e. inform suppliers of the outcome of their applications, and the reasons for the decision, as soon as reasonably practicable.",
+      "ordinal": 34,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Key points and policy intent",
+        "Establishment and membership of dynamic markets"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "p",
+      "text": "23. The number of suppliers on a dynamic market cannot be limited and the conditions for membership of a dynamic market cannot be modified during the life of the dynamic market. The conditions for membership must remain consistent throughout the life of the dynamic market to ensure fairness to all suppliers.",
+      "ordinal": 35,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Key points and policy intent",
+        "Establishment and membership of dynamic markets"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "heading",
+      "text": "Removing members from a dynamic market",
+      "ordinal": 36,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Key points and policy intent",
+        "Removing members from a dynamic market"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "p",
+      "text": "24. Contracting authorities are required to remove a supplier from a dynamic market where the supplier is an excluded supplier under section 57(1)(b) . (See guidance on debarment for more information.)",
+      "ordinal": 37,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Key points and policy intent",
+        "Removing members from a dynamic market"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "p",
+      "text": "25. Contracting authorities have a discretion to remove a supplier from a dynamic market where:",
+      "ordinal": 38,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Key points and policy intent",
+        "Removing members from a dynamic market"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "p",
+      "text": "a. the supplier is an excluded supplier under section 57(1)(a) (Meaning of excluded and excludable supplier);",
+      "ordinal": 39,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Key points and policy intent",
+        "Removing members from a dynamic market"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "p",
+      "text": "b. the supplier does not meet the conditions for membership of the dynamic market;",
+      "ordinal": 40,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Key points and policy intent",
+        "Removing members from a dynamic market"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "p",
+      "text": "c. the supplier has become an excludable supplier since joining the dynamic market; or",
+      "ordinal": 41,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Key points and policy intent",
+        "Removing members from a dynamic market"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "p",
+      "text": "d. the contracting authority has become aware that the supplier was an excludable supplier when it was admitted to the dynamic market and so could have been excluded at that point.",
+      "ordinal": 42,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Key points and policy intent",
+        "Removing members from a dynamic market"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "p",
+      "text": "26. Before removing a supplier from a dynamic market, the contracting authority must inform the supplier that it is being removed, and the reasons for its removal.",
+      "ordinal": 43,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Key points and policy intent",
+        "Removing members from a dynamic market"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "p",
+      "text": "27. The supplier can reapply for membership of the dynamic market if it can subsequently demonstrate that it now satisfies the conditions for membership or is no longer an excluded or excludable supplier.",
+      "ordinal": 44,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Key points and policy intent",
+        "Removing members from a dynamic market"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "heading",
+      "text": "Dynamic markets: fees",
+      "ordinal": 45,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Key points and policy intent",
+        "Dynamic markets: fees"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "p",
+      "text": "28. Section 38 provides that fees may be charged to suppliers on a dynamic market provided they are set out in the documents establishing the dynamic market. This applies to dynamic markets and utilities dynamic markets, although the basis of charging is different for each, as set out in the section. The regulations require that fees and information relating to the fees are set out in the tender notice, which would satisfy this requirement, although contracting authorities may want to set this out in the associated tender documents also.",
+      "ordinal": 46,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Key points and policy intent",
+        "Dynamic markets: fees"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "p",
+      "text": "29. For a dynamic market that is not a utilities dynamic market, fees can only be charged to suppliers that are awarded a contract under the dynamic market, i.e. not for membership of the dynamic market. Such fees can only be a fixed percentage of the estimated value of the contract awarded to the supplier under the dynamic market.",
+      "ordinal": 47,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Key points and policy intent",
+        "Dynamic markets: fees"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "heading",
+      "text": "What are the primary notices linked to this aspect of the Act?",
+      "ordinal": 48,
+      "heading_path": [
+        "What are dynamic markets?",
+        "What are the primary notices linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "heading",
+      "text": "Noticing requirements for the establishment and management of a dynamic market",
+      "ordinal": 49,
+      "heading_path": [
+        "What are dynamic markets?",
+        "What are the primary notices linked to this aspect of the Act?",
+        "Noticing requirements for the establishment and management of a dynamic market"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00050",
+      "block_type": "p",
+      "text": "30. As a dynamic market is not a public contract, the usual notices do not apply when a contracting authority is establishing or modifying a dynamic market or when the market ceases to operate. Notices relating specifically to a dynamic market are called ‘dynamic market notices’.",
+      "ordinal": 50,
+      "heading_path": [
+        "What are dynamic markets?",
+        "What are the primary notices linked to this aspect of the Act?",
+        "Noticing requirements for the establishment and management of a dynamic market"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00051",
+      "block_type": "p",
+      "text": "31. Section 39 provides that dynamic market notices must be published at various stages, as set out below in paragraphs 33-36. Each dynamic market notice must cover only one dynamic market. If a contracting authority is setting up more than one dynamic market, it will need to publish dynamic market notices for each dynamic market.",
+      "ordinal": 51,
+      "heading_path": [
+        "What are dynamic markets?",
+        "What are the primary notices linked to this aspect of the Act?",
+        "Noticing requirements for the establishment and management of a dynamic market"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00052",
+      "block_type": "p",
+      "text": "32. A contracting authority planning to establish a dynamic market is not required to include the dynamic market in its assessment of whether it is obliged to publish a pipeline notice, or include the dynamic market in the pipeline notice itself.",
+      "ordinal": 52,
+      "heading_path": [
+        "What are dynamic markets?",
+        "What are the primary notices linked to this aspect of the Act?",
+        "Noticing requirements for the establishment and management of a dynamic market"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00053",
+      "block_type": "heading",
+      "text": "Stage 1: Dynamic market intention notice",
+      "ordinal": 53,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Stage 1: Dynamic market intention notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00054",
+      "block_type": "p",
+      "text": "33. Regulation 25(2) sets out the information required to be included in a notice to be published under section 39(2) (‘dynamic market intention notice’) before a dynamic market is established. This includes:",
+      "ordinal": 54,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Stage 1: Dynamic market intention notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00055",
+      "block_type": "p",
+      "text": "a. information about the goods, services or works that may be procured under the dynamic market",
+      "ordinal": 55,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Stage 1: Dynamic market intention notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00056",
+      "block_type": "p",
+      "text": "b. information establishing how the dynamic market will operate and any technical requirements;",
+      "ordinal": 56,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Stage 1: Dynamic market intention notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00057",
+      "block_type": "p",
+      "text": "c. conditions for membership of the dynamic market and how applications can be made to join the dynamic market;",
+      "ordinal": 57,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Stage 1: Dynamic market intention notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00058",
+      "block_type": "p",
+      "text": "d. information about the charging of fees under the dynamic market; and",
+      "ordinal": 58,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Stage 1: Dynamic market intention notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00059",
+      "block_type": "p",
+      "text": "e. identification of the authorities (contracting authorities or persons) who are permitted to use the dynamic market.",
+      "ordinal": 59,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Stage 1: Dynamic market intention notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00060",
+      "block_type": "p",
+      "text": "The information provided in this notice should be sufficient to enable suppliers to determine whether they meet the conditions for membership and can decide whether they wish to apply to join the dynamic market.",
+      "ordinal": 60,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Stage 1: Dynamic market intention notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00061",
+      "block_type": "heading",
+      "text": "Stage 2: Dynamic market establishment notice",
+      "ordinal": 61,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Stage 2: Dynamic market establishment notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00062",
+      "block_type": "p",
+      "text": "34. Regulation 25(4) sets out the information required to be included in a notice published under section 39(3) (‘dynamic market establishment notice’). This notice must be published as soon as reasonably practicable after the dynamic market has been established and includes:",
+      "ordinal": 62,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Stage 2: Dynamic market establishment notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00063",
+      "block_type": "p",
+      "text": "a. the date the dynamic market was established;",
+      "ordinal": 63,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Stage 2: Dynamic market establishment notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00064",
+      "block_type": "p",
+      "text": "b. details of the suppliers who have been admitted to the dynamic market; and",
+      "ordinal": 64,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Stage 2: Dynamic market establishment notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00065",
+      "block_type": "p",
+      "text": "c. where the dynamic market has been divided into parts, the part to which each supplier has been admitted.",
+      "ordinal": 65,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Stage 2: Dynamic market establishment notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00066",
+      "block_type": "heading",
+      "text": "Stage 3: Dynamic market modification notice",
+      "ordinal": 66,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Stage 3: Dynamic market modification notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00067",
+      "block_type": "p",
+      "text": "35. Regulation 25(6) . sets out the information required to be included in a notice published under section 39(4) (‘dynamic market modification notice’). This notice must be published as soon as reasonably practicable after the dynamic market has been established and includes:",
+      "ordinal": 67,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Stage 3: Dynamic market modification notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00068",
+      "block_type": "p",
+      "text": "a. the date from which the modification has effect;",
+      "ordinal": 68,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Stage 3: Dynamic market modification notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00069",
+      "block_type": "p",
+      "text": "b. if the list of suppliers on the dynamic market is being amended, details of any supplier being added or removed. It is important to ensure the list of members of the dynamic market is kept up to date to ensure that the information available publicly about suppliers that are on the dynamic market is available to contracting authorities considering using the dynamic market; and",
+      "ordinal": 69,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Stage 3: Dynamic market modification notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00070",
+      "block_type": "p",
+      "text": "c. a summary explaining any other modifications being made. This should be sufficiently detailed to allow interested parties to identify the nature and scope of the modification to the dynamic market that is being made. For example, whether the modification is to add a new part to the dynamic market or new specifications for goods that can be procured under the dynamic market.",
+      "ordinal": 70,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Stage 3: Dynamic market modification notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00071",
+      "block_type": "heading",
+      "text": "Stage 4: Dynamic market cessation notice",
+      "ordinal": 71,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Stage 4: Dynamic market cessation notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00072",
+      "block_type": "p",
+      "text": "36. Regulation 25(8) sets out the information to be included in a notice published under section 39(5) (dynamic market cessation notice’). This notice must be published as soon as reasonably practicable after the dynamic market ceases to operate and comprises basic administrative information and the date on which the dynamic market ceased to operate.",
+      "ordinal": 72,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Stage 4: Dynamic market cessation notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00073",
+      "block_type": "heading",
+      "text": "Noticing requirements for the award of public contracts under a dynamic market",
+      "ordinal": 73,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Stage 4: Dynamic market cessation notice",
+        "Noticing requirements for the award of public contracts under a dynamic market"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00074",
+      "block_type": "p",
+      "text": "37. Where contracts awarded under dynamic markets are public contracts, the provisions relating to transparency and noticing for competitive flexible procedures generally apply. This means that if a contracting authority intends to award any contracts under a dynamic market, it will need to include the expenditure it anticipates to incur on those contracts when considering if it will spend over £100 million on relevant contracts (which includes below-threshold contracts) in the coming financial year and include contracts over £2 million to be awarded under a dynamic market in the pipeline notice itself.",
+      "ordinal": 74,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Stage 4: Dynamic market cessation notice",
+        "Noticing requirements for the award of public contracts under a dynamic market"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00075",
+      "block_type": "p",
+      "text": "38. Where a contracting authority has published a planned procurement notice for a contract to be awarded under a dynamic market, the reduction in the tendering period to 10 days provided for in section 54(4) is not relevant (as the minimum tendering period is already 10 days (unless a negotiated tendering period applies)).",
+      "ordinal": 75,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Stage 4: Dynamic market cessation notice",
+        "Noticing requirements for the award of public contracts under a dynamic market"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00076",
+      "block_type": "p",
+      "text": "39. A tender notice is required to advertise a procurement under a dynamic market. Whilst regulation 21(2) requires that the tender notice includes a statement that the contract will be awarded by reference to suppliers’ membership of a dynamic market, contracting authorities should also consider making it clear in the notice or associated tender documents that being a member of the dynamic market is a requirement of the procurement. This helps to ensure that suppliers are aware that they must be members of the dynamic market in order to participate in the procurement and may encourage suppliers to apply for membership.",
+      "ordinal": 76,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Stage 4: Dynamic market cessation notice",
+        "Noticing requirements for the award of public contracts under a dynamic market"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00077",
+      "block_type": "p",
+      "text": "40. Contracting authorities are not required to observe a mandatory standstill period when awarding a contract under a dynamic market but may choose to apply a voluntary standstill. See the guidance on contract award notices and standstill for more information.",
+      "ordinal": 77,
+      "heading_path": [
+        "What are dynamic markets?",
+        "Stage 4: Dynamic market cessation notice",
+        "Noticing requirements for the award of public contracts under a dynamic market"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00078",
+      "block_type": "heading",
+      "text": "What other guidance is of particular relevance to this topic area?",
+      "ordinal": 78,
+      "heading_path": [
+        "What are dynamic markets?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00079",
+      "block_type": "p",
+      "text": "Guidance on conditions of participation",
+      "ordinal": 79,
+      "heading_path": [
+        "What are dynamic markets?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00080",
+      "block_type": "p",
+      "text": "Guidance on competitive tendering procedures",
+      "ordinal": 80,
+      "heading_path": [
+        "What are dynamic markets?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00081",
+      "block_type": "p",
+      "text": "Guidance on assessing competitive tenders",
+      "ordinal": 81,
+      "heading_path": [
+        "What are dynamic markets?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00082",
+      "block_type": "p",
+      "text": "Guidance on contract award notices and standstill",
+      "ordinal": 82,
+      "heading_path": [
+        "What are dynamic markets?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00083",
+      "block_type": "p",
+      "text": "© Crown copyright 2024",
+      "ordinal": 83,
+      "heading_path": [
+        "What are dynamic markets?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00084",
+      "block_type": "p",
+      "text": "This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated. To view this licence, visit nationalarchives.gov.uk/doc/open-government-licence/version/3",
+      "ordinal": 84,
+      "heading_path": [
+        "What are dynamic markets?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00085",
+      "block_type": "p",
+      "text": "Where we have identified any third party copyright information you will need to obtain permission from the copyright holders concerned.",
+      "ordinal": 85,
+      "heading_path": [
+        "What are dynamic markets?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00086",
+      "block_type": "p",
+      "text": "This publication is available at www.gov.uk/government/publications",
+      "ordinal": 86,
+      "heading_path": [
+        "What are dynamic markets?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00087",
+      "block_type": "p",
+      "text": "Any enquiries regarding this publication should be sent to us at procurement.reform@cabinetoffice.gov.uk .",
+      "ordinal": 87,
+      "heading_path": [
+        "What are dynamic markets?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "Procurement Act 2023 (Act)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/contents",
+      "block_id": "b00001",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 40",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/40",
+      "block_id": "b00004",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 40",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/40",
+      "block_id": "b00004",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "utilities",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-utilities-contracts-html",
+      "block_id": "b00008",
+      "ordinal": 3,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Sections 34-40",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/part/3/chapter/2/crossheading/awarding-contracts-by-reference-to-dynamic-markets",
+      "block_id": "b00010",
+      "ordinal": 4,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 12",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/12",
+      "block_id": "b00010",
+      "ordinal": 5,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 13",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/13",
+      "block_id": "b00010",
+      "ordinal": 6,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 34",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/34",
+      "block_id": "b00016",
+      "ordinal": 7,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Part 2",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/part/2",
+      "block_id": "b00021",
+      "ordinal": 8,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 22",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/22",
+      "block_id": "b00022",
+      "ordinal": 9,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "conditions of participation",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-conditions-of-participation-html",
+      "block_id": "b00022",
+      "ordinal": 10,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Companies Act 2006",
+      "href": "https://www.legislation.gov.uk/ukpga/2006/46/contents",
+      "block_id": "b00024",
+      "ordinal": 11,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 56",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/56",
+      "block_id": "b00025",
+      "ordinal": 12,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 85(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/85",
+      "block_id": "b00028",
+      "ordinal": 13,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "below-threshold contracts",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-below-threshold-contracts-html",
+      "block_id": "b00028",
+      "ordinal": 14,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 57(1)(b)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/57",
+      "block_id": "b00037",
+      "ordinal": 15,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "debarment",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-debarment-html",
+      "block_id": "b00037",
+      "ordinal": 16,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 57(1)(a)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/57",
+      "block_id": "b00039",
+      "ordinal": 17,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 38",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/38",
+      "block_id": "b00046",
+      "ordinal": 18,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 39",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/39",
+      "block_id": "b00051",
+      "ordinal": 19,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Regulation 25(2)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/25",
+      "block_id": "b00054",
+      "ordinal": 20,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 39(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/39",
+      "block_id": "b00054",
+      "ordinal": 21,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Regulation 25(4)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/25",
+      "block_id": "b00062",
+      "ordinal": 22,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 39(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/39",
+      "block_id": "b00062",
+      "ordinal": 23,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Regulation 25(6)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/25",
+      "block_id": "b00067",
+      "ordinal": 24,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 39(4)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/39",
+      "block_id": "b00067",
+      "ordinal": 25,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Regulation 25(8)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/25",
+      "block_id": "b00072",
+      "ordinal": 26,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 39(5)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/39",
+      "block_id": "b00072",
+      "ordinal": 27,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 54(4)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/54",
+      "block_id": "b00075",
+      "ordinal": 28,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 21(2)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/21",
+      "block_id": "b00076",
+      "ordinal": 29,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "contract award notices and standstill",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-contract-award-notices-and-standstill-html",
+      "block_id": "b00077",
+      "ordinal": 30,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "conditions of participation",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-conditions-of-participation-html",
+      "block_id": "b00079",
+      "ordinal": 31,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "competitive tendering procedures",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/competitive-tendering-procedures-html",
+      "block_id": "b00080",
+      "ordinal": 32,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "assessing competitive tenders",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/assessing-competitive-tenders-html",
+      "block_id": "b00081",
+      "ordinal": 33,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "contract award notices and standstill",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-contract-award-notices-and-standstill-html",
+      "block_id": "b00082",
+      "ordinal": 34,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "nationalarchives.gov.uk/doc/open-government-licence/version/3",
+      "href": "http://nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "block_id": "b00084",
+      "ordinal": 35,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "www.gov.uk/government/publications",
+      "href": "http://www.gov.uk/government/publications",
+      "block_id": "b00086",
+      "ordinal": 36,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "procurement.reform@cabinetoffice.gov.uk",
+      "href": "mailto:procurement.reform@cabinetoffice.gov.uk",
+      "block_id": "b00087",
+      "ordinal": 37,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "Guidance: Dynamic Markets (HTML)",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-dynamic-markets-html",
+      "block_id": "__document__",
+      "ordinal": 38,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2022 to 2024 Sunak Conservative government",
+      "href": "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 39,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 40,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Procurement Act 2023 guidance documents - Define phase",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase",
+      "block_id": "__document__",
+      "ordinal": 41,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 42,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 15",
+      "block_id": "b00001",
+      "start": 178,
+      "end": 190,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "15"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 40",
+      "block_id": "b00004",
+      "start": 285,
+      "end": 295,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "40"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 40",
+      "block_id": "b00004",
+      "start": 491,
+      "end": 501,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "40"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Sections 34",
+      "block_id": "b00010",
+      "start": 3,
+      "end": 14,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "34"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 12",
+      "block_id": "b00010",
+      "start": 368,
+      "end": 378,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "12"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 13",
+      "block_id": "b00010",
+      "start": 417,
+      "end": 427,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "13"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 34",
+      "block_id": "b00016",
+      "start": 4,
+      "end": 14,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "34"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 22",
+      "block_id": "b00022",
+      "start": 138,
+      "end": 148,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "22"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 56",
+      "block_id": "b00025",
+      "start": 202,
+      "end": 212,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "56"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 85(1)",
+      "block_id": "b00028",
+      "start": 127,
+      "end": 140,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "85",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 57(1)(b)",
+      "block_id": "b00037",
+      "start": 133,
+      "end": 149,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "57",
+        "tail": "(1)(b)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 57(1)(a)",
+      "block_id": "b00039",
+      "start": 46,
+      "end": 62,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "57",
+        "tail": "(1)(a)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 38",
+      "block_id": "b00046",
+      "start": 4,
+      "end": 14,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "38"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 39",
+      "block_id": "b00051",
+      "start": 4,
+      "end": 14,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "39"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraphs 33",
+      "block_id": "b00051",
+      "start": 109,
+      "end": 122,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "33"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 39(2)",
+      "block_id": "b00054",
+      "start": 104,
+      "end": 117,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "39",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 25(2)",
+      "block_id": "b00054",
+      "start": 4,
+      "end": 20,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "25",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 39(3)",
+      "block_id": "b00062",
+      "start": 98,
+      "end": 111,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "39",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 25(4)",
+      "block_id": "b00062",
+      "start": 4,
+      "end": 20,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "25",
+        "tail": "(4)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 39(4)",
+      "block_id": "b00067",
+      "start": 100,
+      "end": 113,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "39",
+        "tail": "(4)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 25(6)",
+      "block_id": "b00067",
+      "start": 4,
+      "end": 20,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "25",
+        "tail": "(6)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 39(5)",
+      "block_id": "b00072",
+      "start": 89,
+      "end": 102,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "39",
+        "tail": "(5)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 25(8)",
+      "block_id": "b00072",
+      "start": 4,
+      "end": 20,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "25",
+        "tail": "(8)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 54(4)",
+      "block_id": "b00075",
+      "start": 195,
+      "end": 208,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "54",
+        "tail": "(4)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 21(2)",
+      "block_id": "b00076",
+      "start": 90,
+      "end": 106,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "21",
+        "tail": "(2)"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

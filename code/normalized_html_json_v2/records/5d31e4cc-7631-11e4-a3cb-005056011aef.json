@@ -1,0 +1,138 @@
+{
+  "document_id": "5d31e4cc-7631-11e4-a3cb-005056011aef",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/586cbd939729f88b83ee18d0.json",
+  "input_sha256": "48d94e9d2a0654ce98335035abb58fe9fbce8c13677110b65f11c507a4472c0a",
+  "processed_at": "2026-08-27T02:26:18.466373+00:00",
+  "title": "Procurement policy note 02/11: published guidance on implementing requirements for greater transparency",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-policy-note-02-11-published-guidance-on-implementing-requirements-for-greater-transparency",
+  "description": "This Procurement Policy Note (PPN) [and guidance / documents] is now out of date",
+  "publication_date": "2011-01-18T00:00:00+00:00",
+  "updated_date": "2011-01-18T00:00:00+00:00",
+  "source_metadata": {
+    "content_id": "5d31e4cc-7631-11e4-a3cb-005056011aef",
+    "base_path": "/government/publications/procurement-policy-note-02-11-published-guidance-on-implementing-requirements-for-greater-transparency",
+    "document_type": "guidance",
+    "schema_name": "publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "This Procurement Policy Note (PPN) is now out of date.",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "The practical guidance published by Cabinet Office sets out common principles which departments should follow to help ensure consistency of approach across central government in meeting these requirements.",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "li",
+      "text": "Previously released Procurement Policy Notes",
+      "ordinal": 2,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "Previously released Procurement Policy Notes",
+      "href": "http://webarchive.nationalarchives.gov.uk/20110601212617/http://www.ogc.gov.uk/procurement_policy_and_application_of_eu_rules_procurement_policy_notes.asp",
+      "block_id": "b00002",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement policy note 02/11: published guidance on implementing requirements for greater transparency",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-02-11-published-guidance-on-implementing-requirements-for-greater-transparency",
+      "block_id": "__document__",
+      "ordinal": 1,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "Procurement policy notes",
+      "href": "https://www.gov.uk/government/collections/procurement-policy-notes",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_DOCUMENT_COLLECTIONS"
+    },
+    {
+      "text": "2010 to 2015 Conservative and Liberal Democrat coalition government",
+      "href": "https://www.gov.uk/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Efficiency and Reform Group",
+      "href": "https://www.gov.uk/government/organisations/efficiency-and-reform-group",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Crown Commercial Service",
+      "href": "https://www.gov.uk/government/organisations/crown-commercial-service",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 7,
+      "link_type": "GOVUK_ORIGINAL_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 8,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Government spending",
+      "href": "https://www.gov.uk/government/government-spending",
+      "block_id": "__document__",
+      "ordinal": 9,
+      "link_type": "GOVUK_TAXONS"
+    }
+  ],
+  "legal_references": [],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/5a78b1e2e5274a2acd189138/PPN_202_11_20Transparency_20PPN_20_2_.pdf",
+      "title": "[Withdrawn] Procurement policy note: transparency",
+      "content_type": "application/pdf",
+      "filename": "PPN_202_11_20Transparency_20PPN_20_2_.pdf",
+      "id": "7166084",
+      "logical_role": "ATTACHMENT"
+    }
+  ],
+  "warnings": []
+}

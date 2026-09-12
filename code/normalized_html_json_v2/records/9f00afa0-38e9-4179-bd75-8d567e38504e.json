@@ -1,0 +1,617 @@
+{
+  "document_id": "9f00afa0-38e9-4179-bd75-8d567e38504e",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/bcbe16d1aa9f82de76318de3.json",
+  "input_sha256": "46ff253cd1e1043a6243a3dc2ab6c46cf89c11867cd8cd20fa2f0b3b286cfb3c",
+  "processed_at": "2026-08-27T02:26:39.492982+00:00",
+  "title": "Procurment Policy Note 12/23: North Macedonia Accession to the Agreement on Government Procurement & CPV Code Amendments (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/ppn-1223-north-macedonia-accession-to-the-agreement-on-government-procurement-cpv-code-amendments/procurment-policy-note-1223-north-macedonia-accession-to-the-agreement-on-government-procurement-cpv-code-amendments-html",
+  "description": null,
+  "publication_date": "2023-12-19T11:00:15+00:00",
+  "updated_date": "2023-12-19T11:00:15+00:00",
+  "source_metadata": {
+    "content_id": "9f00afa0-38e9-4179-bd75-8d567e38504e",
+    "base_path": "/government/publications/ppn-1223-north-macedonia-accession-to-the-agreement-on-government-procurement-cpv-code-amendments/procurment-policy-note-1223-north-macedonia-accession-to-the-agreement-on-government-procurement-cpv-code-amendments-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Issue",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Dissemination and Scope",
+      "ordinal": 2,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Timing",
+      "ordinal": 4,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Information",
+      "ordinal": 6,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Background",
+      "ordinal": 9,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "North Macedonia’s accession to the GPA",
+      "ordinal": 10,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Common Procurement Vocabulary (CPV) Codes",
+      "ordinal": 15,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Contact",
+      "ordinal": 22,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "Issue",
+      "ordinal": 0,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "1. This Procurement Policy Note (PPN) sets out new requirements for contracting authorities following North Macedonia’s accession to the World Trade Organisation’s (WTO) Agreement on Government Procurement (GPA), and amendments to two Common Procurement Vocabulary (CPV) codes to address outdated language.",
+      "ordinal": 1,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "heading",
+      "text": "Dissemination and Scope",
+      "ordinal": 2,
+      "heading_path": [
+        "Issue",
+        "Dissemination and Scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "2. The contents of this PPN apply to all contracting authorities, as defined by the UK regulations. This includes all central government departments, their executive agencies, non-departmental public bodies and other public sector organisations including utilities. Together these are referred to in this PPN as ‘In-Scope Organisations’. Please circulate this PPN within your organisation, drawing it to the attention of those with a commercial and procurement role.",
+      "ordinal": 3,
+      "heading_path": [
+        "Issue",
+        "Dissemination and Scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "heading",
+      "text": "Timing",
+      "ordinal": 4,
+      "heading_path": [
+        "Issue",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "3. This PPN should be implemented with immediate effect.",
+      "ordinal": 5,
+      "heading_path": [
+        "Issue",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "heading",
+      "text": "Information",
+      "ordinal": 6,
+      "heading_path": [
+        "Issue",
+        "Information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "4. Contracting authorities must ensure that the treatment of North Macedonia’s suppliers complies with the UK’s commitments under the GPA, as set out in PPN 02/21 .",
+      "ordinal": 7,
+      "heading_path": [
+        "Issue",
+        "Information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "5. Contracting authorities should note that amendments have been made to two CPV codes, and ensure updated language is used in relevant public procurements and documentation.",
+      "ordinal": 8,
+      "heading_path": [
+        "Issue",
+        "Information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "heading",
+      "text": "Background",
+      "ordinal": 9,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "heading",
+      "text": "North Macedonia’s accession to the GPA",
+      "ordinal": 10,
+      "heading_path": [
+        "Issue",
+        "Background",
+        "North Macedonia’s accession to the GPA"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "6. The GPA is a plurilateral agreement between 21 Parties (covering 48 WTO Members) including major economies such as the United States, Canada, Australia and Japan, which acts to open government procurement markets among its participants.",
+      "ordinal": 11,
+      "heading_path": [
+        "Issue",
+        "Background",
+        "North Macedonia’s accession to the GPA"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "The UK has an existing trade agreement with North Macedonia with government procurement provisions that give respective suppliers guaranteed access to each country’s procurement markets at a level that exceeds GPA coverage. However, North Macedonia’s accession to the GPA will allow British suppliers access to North Macedonia’s government procurement markets under the standards set by the GPA rules.",
+      "ordinal": 12,
+      "heading_path": [
+        "Issue",
+        "Background",
+        "North Macedonia’s accession to the GPA"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "7. The Government has amended UK procurement legislation [footnote 1] to update the effective date of the GPA so that it now encompasses North Macedonia’s accession.",
+      "ordinal": 13,
+      "heading_path": [
+        "Issue",
+        "Background",
+        "North Macedonia’s accession to the GPA"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "8. North Macedonia’s accession to the GPA requires contracting authorities to comply with the GPA for covered procurement by applying non-discrimination and no less favourable treatment than that accorded to domestic goods, services and suppliers.",
+      "ordinal": 14,
+      "heading_path": [
+        "Issue",
+        "Background",
+        "North Macedonia’s accession to the GPA"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "heading",
+      "text": "Common Procurement Vocabulary (CPV) Codes",
+      "ordinal": 15,
+      "heading_path": [
+        "Issue",
+        "Background",
+        "Common Procurement Vocabulary (CPV) Codes"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "9. CPV codes are a single classification system used in public procurement to standardise the references used by procurers to describe the subject matter of the contract. They are contained in Regulation 2195/2002 of the European Parliament and of the Council of 5th November 2002 on the Common Procurement Vocabulary (CPV) which forms part of UK law as retained EU law.",
+      "ordinal": 16,
+      "heading_path": [
+        "Issue",
+        "Background",
+        "Common Procurement Vocabulary (CPV) Codes"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "10. The language previously used in two of these codes was outdated and incompatible with the Equality Act 2010.",
+      "ordinal": 17,
+      "heading_path": [
+        "Issue",
+        "Background",
+        "Common Procurement Vocabulary (CPV) Codes"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "p",
+      "text": "11. The Government has made a statutory instrument [footnote 2] to make amendments to these two CPV codes and update their wording following advice set out in the Government’s Inclusive language: words to use and avoid when writing about disability guidance . The amendments will ensure that any references to these CPV codes in either procurement legislation or public procurements uses the appropriate language.",
+      "ordinal": 18,
+      "heading_path": [
+        "Issue",
+        "Background",
+        "Common Procurement Vocabulary (CPV) Codes"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "12. The following wording has been adopted in respect of the two CPV codes set out below:",
+      "ordinal": 19,
+      "heading_path": [
+        "Issue",
+        "Background",
+        "Common Procurement Vocabulary (CPV) Codes"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "li",
+      "text": "85311200-4 - Welfare services for disabled people; and",
+      "ordinal": 20,
+      "heading_path": [
+        "Issue",
+        "Background",
+        "Common Procurement Vocabulary (CPV) Codes"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "li",
+      "text": "85312120-6 -Day-care services for disabled children and young people.",
+      "ordinal": 21,
+      "heading_path": [
+        "Issue",
+        "Background",
+        "Common Procurement Vocabulary (CPV) Codes"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "heading",
+      "text": "Contact",
+      "ordinal": 22,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "13. Enquiries about this PPN should be directed to the Crown Commercial Service Helpdesk on 0345 410 2222 or info@crowncommercial.gov.uk.",
+      "ordinal": 23,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "li",
+      "text": "The Public Procurement (Agreement on Government Procurement) (Amendment) Regulations 2023 ↩",
+      "ordinal": 24,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "p",
+      "text": "The Public Procurement (Agreement on Government Procurement) (Amendment) Regulations 2023 ↩",
+      "ordinal": 25,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "li",
+      "text": "The Common Procurement Vocabulary (Amendment) Regulations 2023 ↩",
+      "ordinal": 26,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "p",
+      "text": "The Common Procurement Vocabulary (Amendment) Regulations 2023 ↩",
+      "ordinal": 27,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "PPN 02/21",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0221-the-wto-gpa-and-the-uk-eu-tca",
+      "block_id": "b00007",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "[footnote 1]",
+      "href": "https://www.gov.uk/government/publications/ppn-1223-north-macedonia-accession-to-the-agreement-on-government-procurement-cpv-code-amendments/procurment-policy-note-1223-north-macedonia-accession-to-the-agreement-on-government-procurement-cpv-code-amendments-html#fn:1",
+      "block_id": "b00013",
+      "ordinal": 1,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 2]",
+      "href": "https://www.gov.uk/government/publications/ppn-1223-north-macedonia-accession-to-the-agreement-on-government-procurement-cpv-code-amendments/procurment-policy-note-1223-north-macedonia-accession-to-the-agreement-on-government-procurement-cpv-code-amendments-html#fn:2",
+      "block_id": "b00018",
+      "ordinal": 2,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Inclusive language: words to use and avoid when writing about disability guidance",
+      "href": "https://www.gov.uk/government/publications/inclusive-communication/inclusive-language-words-to-use-and-avoid-when-writing-about-disability",
+      "block_id": "b00018",
+      "ordinal": 3,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "info@crowncommercial.gov.uk.",
+      "href": "mailto:info@crowncommercial.gov.uk",
+      "block_id": "b00023",
+      "ordinal": 4,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "The Public Procurement (Agreement on Government Procurement) (Amendment) Regulations 2023",
+      "href": "http://www.legislation.gov.uk/uksi/2023/1169/contents/made",
+      "block_id": "b00024",
+      "ordinal": 5,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-1223-north-macedonia-accession-to-the-agreement-on-government-procurement-cpv-code-amendments/procurment-policy-note-1223-north-macedonia-accession-to-the-agreement-on-government-procurement-cpv-code-amendments-html#fnref:1",
+      "block_id": "b00024",
+      "ordinal": 6,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "The Public Procurement (Agreement on Government Procurement) (Amendment) Regulations 2023",
+      "href": "http://www.legislation.gov.uk/uksi/2023/1169/contents/made",
+      "block_id": "b00025",
+      "ordinal": 7,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-1223-north-macedonia-accession-to-the-agreement-on-government-procurement-cpv-code-amendments/procurment-policy-note-1223-north-macedonia-accession-to-the-agreement-on-government-procurement-cpv-code-amendments-html#fnref:1",
+      "block_id": "b00025",
+      "ordinal": 8,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "The Common Procurement Vocabulary (Amendment) Regulations 2023",
+      "href": "http://www.legislation.gov.uk/uksi/2023/601/contents/made",
+      "block_id": "b00026",
+      "ordinal": 9,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-1223-north-macedonia-accession-to-the-agreement-on-government-procurement-cpv-code-amendments/procurment-policy-note-1223-north-macedonia-accession-to-the-agreement-on-government-procurement-cpv-code-amendments-html#fnref:2",
+      "block_id": "b00026",
+      "ordinal": 10,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "The Common Procurement Vocabulary (Amendment) Regulations 2023",
+      "href": "http://www.legislation.gov.uk/uksi/2023/601/contents/made",
+      "block_id": "b00027",
+      "ordinal": 11,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-1223-north-macedonia-accession-to-the-agreement-on-government-procurement-cpv-code-amendments/procurment-policy-note-1223-north-macedonia-accession-to-the-agreement-on-government-procurement-cpv-code-amendments-html#fnref:2",
+      "block_id": "b00027",
+      "ordinal": 12,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Procurment Policy Note 12/23: North Macedonia Accession to the Agreement on Government Procurement & CPV Code Amendments (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-1223-north-macedonia-accession-to-the-agreement-on-government-procurement-cpv-code-amendments/procurment-policy-note-1223-north-macedonia-accession-to-the-agreement-on-government-procurement-cpv-code-amendments-html",
+      "block_id": "__document__",
+      "ordinal": 13,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2022 to 2024 Sunak Conservative government",
+      "href": "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 14,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 15,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "PPN 12/23: North Macedonia Accession to the Agreement on Government Procurement & CPV Code Amendments",
+      "href": "https://www.gov.uk/government/publications/ppn-1223-north-macedonia-accession-to-the-agreement-on-government-procurement-cpv-code-amendments",
+      "block_id": "__document__",
+      "ordinal": 16,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 17,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 2195",
+      "block_id": "b00016",
+      "start": 193,
+      "end": 208,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2195"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2023",
+      "block_id": "b00024",
+      "start": 73,
+      "end": 89,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2023"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2023",
+      "block_id": "b00025",
+      "start": 73,
+      "end": 89,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2023"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2023",
+      "block_id": "b00026",
+      "start": 46,
+      "end": 62,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2023"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2023",
+      "block_id": "b00027",
+      "start": 46,
+      "end": 62,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2023"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

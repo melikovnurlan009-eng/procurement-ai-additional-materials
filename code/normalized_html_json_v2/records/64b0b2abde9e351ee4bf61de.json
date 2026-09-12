@@ -1,0 +1,523 @@
+{
+  "document_id": "64b0b2abde9e351ee4bf61de",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "html",
+  "source_path": "corpus_ingest_v2/raw/c2c022d9f4b021b9a85c378a.html",
+  "input_sha256": "7b7d6318799079d38624ac6a57f9f4fb6d8626f63537e92c82eceacf058c5004",
+  "processed_at": "2026-08-27T02:26:40.633336+00:00",
+  "title": "Award | Procurement Journey",
+  "canonical_url": "https://www.procurementjourney.scot/route-2/contract-award-and-implementation/award",
+  "description": null,
+  "publication_date": null,
+  "updated_date": null,
+  "source_metadata": {
+    "html_lang": "en"
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Contract Award Notice",
+      "ordinal": 9
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Contract Award Notices for Lots",
+      "ordinal": 19
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Contracts Register",
+      "ordinal": 28
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "li",
+      "text": "View PDF",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "You can award the contract once you have followed the stages outlined in the previous stations. You should also obtain the internal approvals that your organisation's governance requires.",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "The contract documentation should be collated and finalised to reflect the successful tenderer’s submission and agreed terms and conditions.",
+      "ordinal": 2,
+      "heading_path": [],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "Where required, the documentation must be signed in duplicate by the appropriate authority levels in both the contracting and tenderer's organisations.",
+      "ordinal": 3,
+      "heading_path": [],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "You should consider who you need to inform when a contract has been awarded and the information they require.",
+      "ordinal": 4,
+      "heading_path": [],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "For example:",
+      "ordinal": 5,
+      "heading_path": [],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "p",
+      "text": "notify stakeholders and users of the contract award, providing them with: timescales; details of the contract; and any migration considerations.",
+      "ordinal": 6,
+      "heading_path": [],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "If using PCS-Tender , the Contract Award must be activated on this system. This activation does not generate correspondence to the tenderers. As a result you must issue the Contract Award Notice on Public Contracts Scotland .",
+      "ordinal": 7,
+      "heading_path": [],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "Please note in all cases below, \"days\" are calendar days and not working days. The final day must however be a working day in Scotland.",
+      "ordinal": 8,
+      "heading_path": [],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "heading",
+      "text": "Contract Award Notice",
+      "ordinal": 9,
+      "heading_path": [
+        "Contract Award Notice"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "p",
+      "text": "The Contract Award Notice is a public announcement of the public procurement exercise outcome.",
+      "ordinal": 10,
+      "heading_path": [
+        "Contract Award Notice"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "The publication of a Contract Award Notice is mandatory for ALL regulated procurement exercises i.e. those where the estimated value is £50k or over (excluding VAT).",
+      "ordinal": 11,
+      "heading_path": [
+        "Contract Award Notice"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "The Contract Award Notice must be despatched no later than 30 calendar days after the contract or framework agreement award date. This also applies when a mini competition has been held for a Framework Agreement and the value is £50k or more for goods and services.",
+      "ordinal": 12,
+      "heading_path": [
+        "Contract Award Notice"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "Contract Award Notice(s) must be published on the Public Contracts Scotland (PCS) portal. Contract Award Notices published via PCS will contain all of the mandatory information required.",
+      "ordinal": 13,
+      "heading_path": [
+        "Contract Award Notice"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "For Dynamic Purchasing Systems , Contract Award Notices do not need to be published for each and every award. These can be grouped together and published on a quarterly basis within 30 calendar days of quarter end.",
+      "ordinal": 14,
+      "heading_path": [
+        "Contract Award Notice"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "The Contract Award Notice should not include any information which would:",
+      "ordinal": 15,
+      "heading_path": [
+        "Contract Award Notice"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "li",
+      "text": "impede law enforcement or otherwise be contrary to the public interest;",
+      "ordinal": 16,
+      "heading_path": [
+        "Contract Award Notice"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "li",
+      "text": "prejudice the commercial interests of any person; or",
+      "ordinal": 17,
+      "heading_path": [
+        "Contract Award Notice"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "li",
+      "text": "prejudice fair competition between bidders.",
+      "ordinal": 18,
+      "heading_path": [
+        "Contract Award Notice"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "heading",
+      "text": "Contract Award Notices for Lots",
+      "ordinal": 19,
+      "heading_path": [
+        "Contract Award Notice",
+        "Contract Award Notices for Lots"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "p",
+      "text": "When running a procurement exercise, there may be circumstances where you wish to award some lots and not others.",
+      "ordinal": 20,
+      "heading_path": [
+        "Contract Award Notice",
+        "Contract Award Notices for Lots"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "li",
+      "text": "Delaying a contract award on a specific lot because of a delay to the standstill period but still awarding the other lots in the procurement exercise.",
+      "ordinal": 21,
+      "heading_path": [
+        "Contract Award Notice",
+        "Contract Award Notices for Lots"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "li",
+      "text": "There are no compliant bids on a specific lot and an alternative exercise may be required for this lot but the bids on the other lots are compliant and can still be awarded.",
+      "ordinal": 22,
+      "heading_path": [
+        "Contract Award Notice",
+        "Contract Award Notices for Lots"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "To support this, in Public Contracts Scotland (PCS) , you have the capability to award selected lots through separate award notices.",
+      "ordinal": 23,
+      "heading_path": [
+        "Contract Award Notice",
+        "Contract Award Notices for Lots"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "The process in PCS is:",
+      "ordinal": 24,
+      "heading_path": [
+        "Contract Award Notice",
+        "Contract Award Notices for Lots"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "li",
+      "text": "Select your notice and click on “award”",
+      "ordinal": 25,
+      "heading_path": [
+        "Contract Award Notice",
+        "Contract Award Notices for Lots"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "li",
+      "text": "The page will be displayed with all lots (if any). If there are no lots, the award process stays the same",
+      "ordinal": 26,
+      "heading_path": [
+        "Contract Award Notice",
+        "Contract Award Notices for Lots"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "li",
+      "text": "You will need to deselect lots you don’t want to award and then click “award”.",
+      "ordinal": 27,
+      "heading_path": [
+        "Contract Award Notice",
+        "Contract Award Notices for Lots"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "heading",
+      "text": "Contracts Register",
+      "ordinal": 28,
+      "heading_path": [
+        "Contract Award Notice",
+        "Contract Award Notices for Lots",
+        "Contracts Register"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "p",
+      "text": "The Public Contract Scotland (PCS ) Contracts Register module provides the facility for buying organisations to operate a private register of all contracts they have in place and a public register of these contracts to meet the obligations of Section 35 of the Procurement Reform Act (Scotland) 2014 .",
+      "ordinal": 29,
+      "heading_path": [
+        "Contract Award Notice",
+        "Contract Award Notices for Lots",
+        "Contracts Register"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "p",
+      "text": "When you publish a PCS award notice an entry is automatically made in your contracts register. Your organisation will need to make the decision whether to make the contracts register publicly viewable or not.",
+      "ordinal": 30,
+      "heading_path": [
+        "Contract Award Notice",
+        "Contract Award Notices for Lots",
+        "Contracts Register"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "p",
+      "text": "PLEASE NOTE: if you do not use PCS for producing a contract register, you must still produce a publicly available one.",
+      "ordinal": 31,
+      "heading_path": [
+        "Contract Award Notice",
+        "Contract Award Notices for Lots",
+        "Contracts Register"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "p",
+      "text": "The PCS contracts register will pull through the contract value from your contract award notice. You should always be as open and transparent as possible when completing this field. This field can be manually amended but all relevant amendments have to be manually duplicated in the Scottish Procurement Information Hub (there is no integration between the two systems for manual amendments).",
+      "ordinal": 32,
+      "heading_path": [
+        "Contract Award Notice",
+        "Contract Award Notices for Lots",
+        "Contracts Register"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "p",
+      "text": "Even if you withhold the contract value from a contract award notice, this does not provide an exemption from the Freedom Of Information (Scotland) Act 2002 (FOISA) . To withhold under FOISA, the information would have to, or be likely to cause substantial prejudice. Also the public interest in withholding the information would have to outweigh the public interest in its release.",
+      "ordinal": 33,
+      "heading_path": [
+        "Contract Award Notice",
+        "Contract Award Notices for Lots",
+        "Contracts Register"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "p",
+      "text": "Detailed contracts register user guidance can be found in PCS.",
+      "ordinal": 34,
+      "heading_path": [
+        "Contract Award Notice",
+        "Contract Award Notices for Lots",
+        "Contracts Register"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "View PDF",
+      "href": "https://www.procurementjourney.scot/print/pdf/node/268",
+      "block_id": "b00000",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "PCS-Tender",
+      "href": "https://www.publictendersscotland.publiccontractsscotland.gov.uk/esop/pts-host/public/pts/web/login.html",
+      "block_id": "b00007",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Contract Award Notice",
+      "href": "https://procurementjourney.scot/route-3/develop-documents/contract-notice-and-advertising",
+      "block_id": "b00007",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Public Contracts Scotland",
+      "href": "https://www.publiccontractsscotland.gov.uk/",
+      "block_id": "b00007",
+      "ordinal": 3,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Contract Award Notice",
+      "href": "https://procurementjourney.scot/route-3/develop-documents/contract-notice-and-advertising",
+      "block_id": "b00010",
+      "ordinal": 4,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Public Contracts Scotland (PCS)",
+      "href": "https://www.publiccontractsscotland.gov.uk/",
+      "block_id": "b00013",
+      "ordinal": 5,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Dynamic Purchasing Systems",
+      "href": "https://procurementjourney.scot/dynamic-purchasing-system-dps",
+      "block_id": "b00014",
+      "ordinal": 6,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Public Contracts Scotland (PCS)",
+      "href": "https://www.publiccontractsscotland.gov.uk/",
+      "block_id": "b00023",
+      "ordinal": 7,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Public Contract Scotland (PCS",
+      "href": "https://www.publiccontractsscotland.gov.uk/Default.aspx",
+      "block_id": "b00029",
+      "ordinal": 8,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement Reform Act (Scotland) 2014",
+      "href": "http://www.legislation.gov.uk/asp/2014/12/contents",
+      "block_id": "b00029",
+      "ordinal": 9,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Freedom Of Information (Scotland) Act 2002 (FOISA)",
+      "href": "https://www.legislation.gov.uk/asp/2002/13/contents",
+      "block_id": "b00033",
+      "ordinal": 10,
+      "link_type": "EXTERNAL_OR_RELATED"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 35",
+      "block_id": "b00029",
+      "start": 243,
+      "end": 253,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "35"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

@@ -1,0 +1,3866 @@
+{
+  "document_id": "f4defb6d-7ff1-4b8a-ad68-c8548ae53893",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/0a77f5545238bb80d9a9df16.json",
+  "input_sha256": "2fe804eb88b231173ff56bdf17acda406e53ef4f1a5d8026485d13e4544a2279",
+  "processed_at": "2026-08-27T02:26:04.130241+00:00",
+  "title": "Guidance: Frameworks (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-frameworks-html",
+  "description": null,
+  "publication_date": "2024-07-09T09:33:36+01:00",
+  "updated_date": "2026-07-13T09:24:55+01:00",
+  "source_metadata": {
+    "content_id": "f4defb6d-7ff1-4b8a-ad68-c8548ae53893",
+    "base_path": "/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-frameworks-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What are frameworks and open frameworks?",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What is the legal framework that governs frameworks?",
+      "ordinal": 4,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What has changed?",
+      "ordinal": 6,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Key points and policy intent",
+      "ordinal": 10,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Award of frameworks",
+      "ordinal": 11,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Third party frameworks and centralised procurement authorities",
+      "ordinal": 15,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Valuation",
+      "ordinal": 22,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Fees (section 45(7))",
+      "ordinal": 26,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Maximum framework terms",
+      "ordinal": 30,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Amendment to the maximum term",
+      "ordinal": 39,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Open frameworks",
+      "ordinal": 41,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Awarding frameworks to suppliers when re-opening the framework",
+      "ordinal": 54,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Single supplier open frameworks",
+      "ordinal": 64,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Awarding call-off contracts",
+      "ordinal": 69,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "What to look for when awarding call-off contracts under a third party framework",
+      "ordinal": 79,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Conditions of Participation",
+      "ordinal": 90,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Direct award",
+      "ordinal": 96,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Excluding suppliers from participating in a selection process under a framework",
+      "ordinal": 98,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Assessment summaries",
+      "ordinal": 102,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Below-threshold frameworks and contracts",
+      "ordinal": 104,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Frameworks that are light touch contracts",
+      "ordinal": 111,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Intra-UK considerations",
+      "ordinal": 115,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What notices are linked to this aspect of the Act?",
+      "ordinal": 118,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Notices relevant to frameworks",
+      "ordinal": 119,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Notices and other information relevant to call-off contracts",
+      "ordinal": 147,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What other guidance is of particular relevance to this topic area?",
+      "ordinal": 165,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "What are frameworks and open frameworks?",
+      "ordinal": 0,
+      "heading_path": [
+        "What are frameworks and open frameworks?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "1. The Procurement Act 2023 (Act) defines a framework as a: ‘contract between a contracting authority and one or more suppliers that provides for the future award of contracts by a contracting authority to the supplier or suppliers.’ (section 45(2)). This means that a framework sets out the provisions under which future contracts for the supply of goods, services and/or works are to be awarded.",
+      "ordinal": 1,
+      "heading_path": [
+        "What are frameworks and open frameworks?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "The Act defines an open framework as a: ‘scheme of frameworks that provides for the award of successive frameworks on substantially the same terms’ (section 49(1)).",
+      "ordinal": 2,
+      "heading_path": [
+        "What are frameworks and open frameworks?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "2. A framework that is above-threshold and not exempt is a public contract and is generally awarded following a competitive tendering procedure (see paragraph 8 below for directly award frameworks). Contracts awarded under a framework are referred to in this guidance as ‘call-off contracts’ and, unless otherwise stated, call-off contracts means call-off contracts that are public contracts. In most cases a framework will not commit a contracting authority to enter into a call-off contract, but it is possible that some do.",
+      "ordinal": 3,
+      "heading_path": [
+        "What are frameworks and open frameworks?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "heading",
+      "text": "What is the legal framework that governs frameworks?",
+      "ordinal": 4,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What is the legal framework that governs frameworks?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "3. Sections 45-49 of the Act explain what a framework is and set out the rules that govern both the framework itself and call-off contracts awarded under it. Sections 45, 46 and 48 generally apply to all frameworks; section 47 does not apply to open frameworks, frameworks awarded by private utilities and ‘light touch frameworks’ (see paragraph 69-71 for light touch frameworks); and section 49 applies only to open frameworks.",
+      "ordinal": 5,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What is the legal framework that governs frameworks?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "heading",
+      "text": "What has changed?",
+      "ordinal": 6,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "4. The Act refers to ‘frameworks’ rather than ‘framework agreements’, as in the previous legislation, but otherwise they are generally similar. It also includes open frameworks, which did not previously exist, and which are more flexible than framework agreements under the previous legislation.",
+      "ordinal": 7,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "5. The Act provides that ‘conditions of participation’ can be applied as part of the process for award of a call-off contract and implies a term into every framework that a contracting authority is permitted to exclude a supplier that becomes an excluded or excludable supplier from participating in any selection process (which includes any selection process to award without further competition) for the award of a call-off contract.",
+      "ordinal": 8,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "6. Unlike under the previous legislation, contracting authorities must publish a contract award notice following the award of a call-off contract.",
+      "ordinal": 9,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "heading",
+      "text": "Key points and policy intent",
+      "ordinal": 10,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "heading",
+      "text": "Award of frameworks",
+      "ordinal": 11,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Award of frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "7. Frameworks that are public contracts are most likely to be awarded following a competitive tendering procedure.",
+      "ordinal": 12,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Award of frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "8. Contracting authorities are permitted to directly award a framework under sections 41 or 43, provided the framework is not an open framework (section 49(10)).",
+      "ordinal": 13,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Award of frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "9. As frameworks are awarded either following a competitive tendering procedure or, where permitted, directly, the provisions in the Act relating to competitive tendering procedures and direct award generally apply to the award of a framework, for example, the requirement to publish a tender or transparency notice relating to the framework and provisions on excluded and excludable suppliers. The statutory duty at section 13(9) to have regard to any National Procurement Policy Statement (NPPS) also applies when awarding a framework.",
+      "ordinal": 14,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Award of frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "heading",
+      "text": "Third party frameworks and centralised procurement authorities",
+      "ordinal": 15,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Third party frameworks and centralised procurement authorities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "10. Contracting authorities can only award call-off contracts under a framework established by a contracting authority. This means that if, for example, a local authority wishes to use a framework established by a third party, that framework must have been set up by another contracting authority, such as a centralised procurement authority or another local authority. It is for the contracting authority to ensure that the framework under which it awards a call-off contract has been established by a contracting authority.",
+      "ordinal": 16,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Third party frameworks and centralised procurement authorities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "11. A centralised procurement authority is a contracting authority that differs from other contracting authorities in that it is in the ‘business’ of carrying out procurements for the benefit of other contracting authorities (section 1(4)). Contracting authorities can, in whole or part, delegate their obligation to carry out procurements to a centralised procurement authority, including where a centralised procurement authority establishes a framework for use by one or more other contracting authorities. This means that the centralised procurement authority is responsible for complying with the Act when setting up the framework. However, the contracting authority procuring under the framework will be responsible for complying with the Act when carrying out a procurement and awarding a call-off contract under the framework.",
+      "ordinal": 17,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Third party frameworks and centralised procurement authorities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "p",
+      "text": "12. For example, a group of local authority contracting authorities could jointly create a special purpose vehicle (SPV) for the sole purpose of carrying out procurements for the authorities that established the SPV and other public bodies. As the SPV is in the business of carrying out procurements for the contracting authority members and other contracting authorities, it will be a centralised procurement authority. Another example of a centralised procurement authority is an organisation such as Crown Commercial Services, which is in the business of awarding large frameworks for use by a wide range of public authorities.",
+      "ordinal": 18,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Third party frameworks and centralised procurement authorities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "13. Where contracting authorities are not centralised procurement authorities and are acting on a more ad hoc basis to carry out procurements on behalf of other contracting authorities, including setting up frameworks that other contracting authorities can use, then contracting authorities cannot delegate any part of their obligation to comply with the Act and remain fully liable for any unlawful award made by them as a consequence of the arrangement. In terms of frameworks established by a contracting authority for use by itself and other contracting authorities, this means that the contracting authority procuring under the framework must be satisfied that the framework itself complies with the Act as it will be liable both for compliance with the Act when establishing the framework and when carrying out a procurement and awarding a call-off contract under the framework.",
+      "ordinal": 19,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Third party frameworks and centralised procurement authorities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "p",
+      "text": "14. The Act does not regulate entities that are not contracting authorities (for example private companies). If a contracting authority wishes to award a contract under a framework established by a person that is not a contracting authority (‘third party frameworks’), the framework must have been set up in the name of a contracting authority or authorities; the non-contracting authority entity would have to be acting as the agent of the named contracting authority (or authorities) (the ‘principal contracting authority’) if it sets up and administers the framework.",
+      "ordinal": 20,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Third party frameworks and centralised procurement authorities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "15. In the case of a third party framework, it will be the principal contracting authority (or authorities) that is responsible for ensuring that the framework complies with the Act, as it will be acting as a centralised procurement authority. Principal contracting authorities should be aware of their liability as central procurement authorities for compliance of the framework with the Act.",
+      "ordinal": 21,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Third party frameworks and centralised procurement authorities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "heading",
+      "text": "Valuation",
+      "ordinal": 22,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Valuation"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "16. The estimated value of a framework must be included in the tender notice and the framework and must not be exceeded (but see paragraph 18 below). When estimating the value of a framework contract, Schedule 3, paragraph 2(1) requires the contracting authority to estimate the value of all call-off contracts to be awarded under the framework.",
+      "ordinal": 23,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Valuation"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "17. If a framework is divided into lots, regulation 18(2) requires a contracting authority to include the estimated values for each lot in the tender notice, if known. The contracting authority may also wish to include the estimated values for each lot in the framework itself although there is no requirement to do so. Where these are included in the tender notice or the framework, the individual lot estimates cannot be exceeded, although it may be permissible to amend the values included in a framework under section 74 (Modifying a public contract).",
+      "ordinal": 24,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Valuation"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "p",
+      "text": "18. If the estimated value of the framework or, if relevant, an individual lot, is about to be exceeded the contracting authority may wish to consider whether it is possible to modify the framework to amend the estimated value under section 74.",
+      "ordinal": 25,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Valuation"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "heading",
+      "text": "Fees (section 45(7))",
+      "ordinal": 26,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Fees (section 45(7))"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "p",
+      "text": "19. Section 45 provides that fees may be charged in respect of a framework but that they can only be charged to suppliers that have been awarded a call-off contract and must be set as a fixed percentage of the estimated value of the call-off contract awarded to the supplier. The reference to fees being a ‘fixed’ percentage means that the fees may not change during the lifetime of the framework.",
+      "ordinal": 27,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Fees (section 45(7))"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "20. It is not permissible to charge suppliers to gain access to a framework or any other fees associated with the management of the framework.",
+      "ordinal": 28,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Fees (section 45(7))"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "p",
+      "text": "21. Fees can only be charged if the details are set out in the framework (section 45(7)) and the tender or transparency notice (regulations 20(2)(k) and 26(2)(w)).",
+      "ordinal": 29,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Fees (section 45(7))"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "heading",
+      "text": "Maximum framework terms",
+      "ordinal": 30,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Maximum framework terms"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "p",
+      "text": "22. Except in relation to open frameworks (see paragraphs 35 and 44 below), the maximum term for a defence and security framework or a utilities framework is generally eight years and for all other frameworks four years (section 47(1)).",
+      "ordinal": 31,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Maximum framework terms"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "p",
+      "text": "23. The maximum term does not apply where the contracting authority considers the nature of the goods, services, or works to be supplied under the call-off contracts to be awarded under the framework means that a longer term is required (section 47(2)).",
+      "ordinal": 32,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Maximum framework terms"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "p",
+      "text": "24. An example of where it might be necessary to have a longer term than the maximum set out in section 47(1) is for large construction or infrastructure projects where a variety of call-off contracts are awarded under a framework throughout the life of a development. Contracts may need to be awarded, for example, for initial professional services, such as design, as well as for various aspects of the construction/development, which may be undertaken in phases, through to completion.",
+      "ordinal": 33,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Maximum framework terms"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "p",
+      "text": "25. Another example might be if the framework required an upfront investment by a supplier to deliver the call-off contracts, for example an IT system development, and the return on that investment would require call-off contracts to be awarded over a longer term than the maximum term.",
+      "ordinal": 34,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Maximum framework terms"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "p",
+      "text": "26. It may also be necessary for a framework to last longer than the maximum permitted term if the funding cycle for the project (i.e. the contracting authority’s ability to pay for the project) exceeded the maximum term (assuming the development of the project to be provided under the framework was tied to the funding cycle).",
+      "ordinal": 35,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Maximum framework terms"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "p",
+      "text": "27. Where a framework exceeds the maximum term, the contracting authority must publish the rationale for the longer term in the tender or transparency notice for the framework (section 47(3)).",
+      "ordinal": 36,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Maximum framework terms"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "p",
+      "text": "28. The maximum terms set out in section 47(1) do not apply to a framework awarded under an open framework, a framework awarded by a private utility or a light touch framework (section 47(5)).",
+      "ordinal": 37,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Maximum framework terms"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "p",
+      "text": "29. Call-off contracts may extend beyond the term of the framework.",
+      "ordinal": 38,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Maximum framework terms"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "heading",
+      "text": "Amendment to the maximum term",
+      "ordinal": 39,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Maximum framework terms",
+        "Amendment to the maximum term"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "p",
+      "text": "30. Once the framework has been awarded, it might be possible, relying on section 74, to extend the term of a framework, as with any other public contract. However, if a contracting authority amends the term so that the maximum 4/8 year term is then exceeded, section 47(2) still applies and the extension must be justified under section 47(3). It is recommended that this justification is set out in the contract change notice.",
+      "ordinal": 40,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Maximum framework terms",
+        "Amendment to the maximum term"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "heading",
+      "text": "Open frameworks",
+      "ordinal": 41,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Open frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "p",
+      "text": "31. Section 49(1) provides that an open framework is a scheme of successive frameworks awarded on substantially the same terms. The effect of section 49(9) is that ‘substantially the same terms’ requires there to be no substantial amendments to the tender or transparency notice for the successive frameworks in the scheme, this includes to the award criteria for the award of the framework. Section 49(9) refers to section 31 when considering whether the terms are substantially the same and means that the successive tender or transparency notice must allow the same suppliers to submit requests or tenders as did the original tender or transparency notice.",
+      "ordinal": 42,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Open frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "p",
+      "text": "32. Whilst open frameworks are different from ‘standard’ frameworks, generally, the rules for standard frameworks apply equally to open frameworks, but there are some differences:",
+      "ordinal": 43,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Open frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "p",
+      "text": "a. sections 45, 46 and 48 apply to all frameworks;",
+      "ordinal": 44,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Open frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "p",
+      "text": "b. section 47 applies only to frameworks that are not open frameworks (although does not apply to frameworks awarded by private utilities and light touch frameworks); and",
+      "ordinal": 45,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Open frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "p",
+      "text": "c. section 49 applies only to open frameworks.",
+      "ordinal": 46,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Open frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "p",
+      "text": "33. Unlike a standard framework, with an open framework, new suppliers can be added when the framework is re-opened (see paragraphs 40-43 below).",
+      "ordinal": 47,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Open frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "p",
+      "text": "34. Open frameworks will be particularly beneficial, for example, in markets where there are a large number of suppliers, to avoid some suppliers being locked out for long periods of time (as may be the case with standard frameworks), or in expanding markets where new entrants are expected.",
+      "ordinal": 48,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Open frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "p",
+      "text": "35. Except where there is only one supplier on the open framework (see paragraph 44 below), an open framework must provide for the framework to be re-opened at least once in the first three years of its life and at least every five years thereafter, and to last 8 years in total (see section 49(2)). This means the first framework can last for a maximum of 3 years but subsequent frameworks can last for a maximum of 5 years each.",
+      "ordinal": 49,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Open frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00050",
+      "block_type": "p",
+      "text": "36. However, it is important to point out that this is the minimum number of times an open framework may be opened. An open framework could, for example, be re-opened annually for the whole of the 8 years.",
+      "ordinal": 50,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Open frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00051",
+      "block_type": "p",
+      "text": "37. The term of each framework in the scheme must be set out in each framework (section 45(5)(e)). Whilst it isn’t expressly required by the Act or the regulations, it is recommended that the open framework sets out the indicative term of each framework in the scheme (i.e. when the framework is anticipated to be re-opened); this is to ensure transparency and to allow suppliers to understand how the open framework will operate, but at the same time it gives some flexibility. Contracting authorities could also include options to extend one or more of the frameworks within the scheme if required, which would give additional flexibility.",
+      "ordinal": 51,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Open frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00052",
+      "block_type": "p",
+      "text": "38. For example a contracting authority could set out that it intends to re-open an open framework at the end of year 2 and at the end of year 6, but that both frameworks will include an option to extend each framework by a year. It would not be possible for the contracting authority to extend the first framework beyond the end of year 3 because of the requirement at section 49(2)(a)(i) for the framework to be opened within the first 3 years. This would mean that the first framework would be for a term of 2 years, with an option to extend to 3 years and the second framework would be for a term of 4 years, with an option to extend to 5 years. The contracting authority could decide at the time not to open the first framework at the end of year 2, as long as it did so at the end of year 3. If the option is not exercised for the first framework and the open framework is re-opened at the end of year 2, the second framework in the scheme could last 4 or 5 years, depending on whether the contracting authority exercised the option to extend the second framework. The final framework in the scheme would last 1 or 2 years, depending on whether the authority exercised the option in the second framework.",
+      "ordinal": 52,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Open frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00053",
+      "block_type": "p",
+      "text": "39. Section 49(2)(b) requires that an open framework must provide for the expiry of one framework on the award of the next framework in the scheme, although section 49(3) allows contracting authorities to make a provision in the open framework that any processes for the award of a call-off contract under the expired framework that have already commenced can continue following expiry of that framework. Contracting authorities should make it clear in the open framework whether this is to be the case.",
+      "ordinal": 53,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Open frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00054",
+      "block_type": "heading",
+      "text": "Awarding frameworks to suppliers when re-opening the framework",
+      "ordinal": 54,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Open frameworks",
+        "Awarding frameworks to suppliers when re-opening the framework"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00055",
+      "block_type": "p",
+      "text": "40. Section 49(4) and section 49(5) set out how contracting authorities may award contracts to ‘existing suppliers’. Section 49(8) provides that an existing supplier is a supplier that is party to a framework under an open framework - this reference to a framework under an open framework means the framework in existence immediately prior to the next framework in the scheme being awarded.",
+      "ordinal": 55,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Open frameworks",
+        "Awarding frameworks to suppliers when re-opening the framework"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00056",
+      "block_type": "p",
+      "text": "41. Section 49(4) provides that where a framework places no limit on the number of suppliers that can be party to the framework, an existing supplier can be appointed to the new framework based on, at its choice, one of the following:",
+      "ordinal": 56,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Open frameworks",
+        "Awarding frameworks to suppliers when re-opening the framework"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00057",
+      "block_type": "p",
+      "text": "a. the fact that the supplier has previously been awarded a framework in the scheme i.e. there is no requirement for the supplier to submit a new tender if it does not wish to update its offer. For this option to be available, as explained in paragraph 40, the supplier must be a party to the framework in existence immediately prior to the framework being awarded. Where the supplier chooses this option, the contracting authority does not re-assess the earlier tender and the supplier simply remains on the open framework;",
+      "ordinal": 57,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Open frameworks",
+        "Awarding frameworks to suppliers when re-opening the framework"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00058",
+      "block_type": "p",
+      "text": "b. the re-assessment of a tender relating to an earlier award; or",
+      "ordinal": 58,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Open frameworks",
+        "Awarding frameworks to suppliers when re-opening the framework"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00059",
+      "block_type": "p",
+      "text": "c. the assessment of a new tender relating to the new framework.",
+      "ordinal": 59,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Open frameworks",
+        "Awarding frameworks to suppliers when re-opening the framework"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00060",
+      "block_type": "p",
+      "text": "42. Section 49(5) provides that where the framework limits the number of suppliers that can be a party to the framework, an existing supplier can be appointed to the new framework based on, at its choice, either of the following:",
+      "ordinal": 60,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Open frameworks",
+        "Awarding frameworks to suppliers when re-opening the framework"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00061",
+      "block_type": "p",
+      "text": "a. the re-assessment of a tender relating to an earlier award; or",
+      "ordinal": 61,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Open frameworks",
+        "Awarding frameworks to suppliers when re-opening the framework"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00062",
+      "block_type": "p",
+      "text": "b. the assessment of a new tender relating to the new framework.",
+      "ordinal": 62,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Open frameworks",
+        "Awarding frameworks to suppliers when re-opening the framework"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00063",
+      "block_type": "p",
+      "text": "43. The contracting authority should set out the procedure for re-opening the open framework and awarding successive frameworks in the associated tender documents for the new framework to be awarded in the scheme. This should include the options available to and what is required of existing suppliers if they wish to participate in the award of the new framework. For example, setting out that they are required to formally declare on what basis they wish to participate, for example, based on the fact that they have previously been awarded a framework under the scheme (where relevant), whether they wish a tender relating to an earlier award to be assessed or whether they have submitted a new tender for assessment.",
+      "ordinal": 63,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Open frameworks",
+        "Awarding frameworks to suppliers when re-opening the framework"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00064",
+      "block_type": "heading",
+      "text": "Single supplier open frameworks",
+      "ordinal": 64,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Open frameworks",
+        "Single supplier open frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00065",
+      "block_type": "p",
+      "text": "44. Section 49(6) provides that if only one supplier is awarded a framework, the maximum term of the open framework is 4 years from the point at which the open framework becomes a single supplier framework, rather than 8 years from the date the first framework is awarded. This remains the case even if more than 1 supplier is awarded a subsequent framework in the scheme.",
+      "ordinal": 65,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Open frameworks",
+        "Single supplier open frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00066",
+      "block_type": "p",
+      "text": "45. Set out below are two examples to show how clause 49(6) works in two different scenarios:",
+      "ordinal": 66,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Open frameworks",
+        "Single supplier open frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00067",
+      "block_type": "p",
+      "text": "a. example 1: framework 1 awarded to a single supplier, framework 2 awarded to 3 suppliers. The open framework can only last 4 years from the date the framework is awarded to the supplier and framework 1 can last a maximum of 3 years as it is the first framework in the scheme (section 49(2)(a)(i)). If the framework is re-opened at the end of year 2 and 3 suppliers are appointed to framework 2, the open framework can still only last 4 years from the date framework 1 was awarded because it was initially awarded to a single supplier. This means the maximum time framework 2 can last is 2 years to ensure the open framework does not exceed 4 years in total;",
+      "ordinal": 67,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Open frameworks",
+        "Single supplier open frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00068",
+      "block_type": "p",
+      "text": "b. example 2: framework 1 awarded to 3 suppliers, framework 2 awarded to a single supplier. If the framework is re-opened at the end of year 2 and only 1 supplier is awarded the framework, framework 2, and the open framework can now only last 4 years from the date framework 2 is awarded. This would mean the open framework could last a total of 6 years (the first 2 years under framework 1, plus 4 years under framework 2). Again, if more suppliers are awarded the framework if it is re-opened at a later date, the maximum term remains 6 years (i.e. 4 years from the commencement of the single supplier framework 2).",
+      "ordinal": 68,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Open frameworks",
+        "Single supplier open frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00069",
+      "block_type": "heading",
+      "text": "Awarding call-off contracts",
+      "ordinal": 69,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Awarding call-off contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00070",
+      "block_type": "p",
+      "text": "46. Section 45 expressly permits contracting authorities to award call-off contracts that are public contracts under frameworks.",
+      "ordinal": 70,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Awarding call-off contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00071",
+      "block_type": "p",
+      "text": "47. Call-off contracts may be awarded with or without competition between suppliers on the framework. A ‘competitive selection process’ is used where contracting authorities carry out a competition for the award of a call-off contract (section 45(3) and section 46).The selection process for awarding call-off contracts must be set out in the framework (section 45(5)(d)). However, there is some flexibility in that whilst the selection process must be set out, the level of detail is not specified in the Act and this may be in high level or more detailed terms. For example, a contracting authority may provide that a framework allows contracting authorities using the framework to include conditions of participation (see paragraphs 56 - 60 below) to assess suppliers’ technical ability to perform the contract as part of the competitive selection process for call-offs and leave it up to the contracting authorities to determine these, taking into account their own particular circumstances. Alternatively, the contracting authority may set out high level conditions of participation in the framework and allow contracting authorities using the framework to only add further detail to those already set out.",
+      "ordinal": 71,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Awarding call-off contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00072",
+      "block_type": "p",
+      "text": "48. In a competitive selection process, any assessment of suppliers’ proposals must be based only on some or all of the award criteria that were used to assess tenders when the framework was awarded. Section 46(9) allows for these criteria to be refined, for example, additional sub-criteria may be included or the criteria explained further.",
+      "ordinal": 72,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Awarding call-off contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00073",
+      "block_type": "p",
+      "text": "49. Sections 45(3-4) provide that unless there is only one supplier on the framework, a contracting authority can only award a contract without competition when the framework sets out an objective mechanism for supplier selection and the core terms of the call-off contracts to be awarded. The core terms set out in the framework cannot be amended unless amended under section 74 and include, for example, deliverables (i.e. the basic requirements regarding what the supplier has to deliver under the call-off contract, such as compliance with the authority’s requirements the supplier’s framework tender, standards, policies and timeliness), warranties, charges and pricing mechanism, record keeping, indemnities, termination provisions, variation mechanism.",
+      "ordinal": 73,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Awarding call-off contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00074",
+      "block_type": "p",
+      "text": "50. An objective mechanism for supplier selection may, for example, be a ‘taxi-rank’ system where call-off contracts are awarded on a rotational basis, or a ‘highest ranking’ system with a limitation on the number or value of call-off contracts to be awarded to any one supplier. Once the supplier submitting the highest ranking tender reaches the cap, the next call-off contract would be awarded to the supplier that submitted the next highest scoring tender.",
+      "ordinal": 74,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Awarding call-off contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00075",
+      "block_type": "p",
+      "text": "51. Section 45(8) provides that a framework cannot be used to award:",
+      "ordinal": 75,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Awarding call-off contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00076",
+      "block_type": "p",
+      "text": "a. another framework; or",
+      "ordinal": 76,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Awarding call-off contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00077",
+      "block_type": "p",
+      "text": "b. a concession contract.",
+      "ordinal": 77,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Awarding call-off contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00078",
+      "block_type": "p",
+      "text": "52. Section 13(10)(b)(i) provides that the statutory duty to have regard to the NPPS does not apply to contracts awarded under a framework. This does not preclude a contracting authority from taking NPPS priorities into account when calling-off from a framework where it would be relevant and appropriate to do so.",
+      "ordinal": 78,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Awarding call-off contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00079",
+      "block_type": "heading",
+      "text": "What to look for when awarding call-off contracts under a third party framework",
+      "ordinal": 79,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Awarding call-off contracts",
+        "What to look for when awarding call-off contracts under a third party framework"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00080",
+      "block_type": "p",
+      "text": "53. If a contracting authority wishes to award a call-off contract under a framework established by another contracting authority, it must ensure that the framework is suitable for the contract it intends to award. The contracting authority should in particular check that:",
+      "ordinal": 80,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Awarding call-off contracts",
+        "What to look for when awarding call-off contracts under a third party framework"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00081",
+      "block_type": "p",
+      "text": "a. the framework has been established by a contracting authority (see paragraphs 10-15 above);",
+      "ordinal": 81,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Awarding call-off contracts",
+        "What to look for when awarding call-off contracts under a third party framework"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00082",
+      "block_type": "p",
+      "text": "b. as relevant, a tender or transparency notice has been published;",
+      "ordinal": 82,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Awarding call-off contracts",
+        "What to look for when awarding call-off contracts under a third party framework"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00083",
+      "block_type": "p",
+      "text": "c. the tender or transparency notice (where relevant) and framework:",
+      "ordinal": 83,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Awarding call-off contracts",
+        "What to look for when awarding call-off contracts under a third party framework"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00084",
+      "block_type": "p",
+      "text": "i. clearly identify the contracting authority as one of those permitted to use the framework;",
+      "ordinal": 84,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Awarding call-off contracts",
+        "What to look for when awarding call-off contracts under a third party framework"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00085",
+      "block_type": "p",
+      "text": "ii. include goods, services or works of a type to be awarded under the call-off contract;",
+      "ordinal": 85,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Awarding call-off contracts",
+        "What to look for when awarding call-off contracts under a third party framework"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00086",
+      "block_type": "p",
+      "text": "iii. set out the other matters required by section 45(5) and regulation 20 or 26 (as relevant), such as the price payable, or mechanism for determining the price payable under the call-off contract and any selection process to be applied;",
+      "ordinal": 86,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Awarding call-off contracts",
+        "What to look for when awarding call-off contracts under a third party framework"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00087",
+      "block_type": "p",
+      "text": "d. the total value of call-off contracts awarded under the framework to date does not exceed the estimated value of the framework as set out in the tender notice and framework.",
+      "ordinal": 87,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Awarding call-off contracts",
+        "What to look for when awarding call-off contracts under a third party framework"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00088",
+      "block_type": "p",
+      "text": "54. Contracting authorities should understand the liability position for the framework, in particular where a framework has been established by another contracting authority in a manner described in paragraphs 11 and 13, or where a contracting authority is liable as principal for a third party framework as described in paragraph 15.",
+      "ordinal": 88,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Awarding call-off contracts",
+        "What to look for when awarding call-off contracts under a third party framework"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00089",
+      "block_type": "p",
+      "text": "55. When awarding a call-off contract, the contracting authority must comply with the selection process set out in the framework, noting in particular when it is permissible to award a contract without following a competitive selection process.",
+      "ordinal": 89,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Awarding call-off contracts",
+        "What to look for when awarding call-off contracts under a third party framework"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00090",
+      "block_type": "heading",
+      "text": "Conditions of Participation",
+      "ordinal": 90,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Awarding call-off contracts",
+        "Conditions of Participation"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00091",
+      "block_type": "p",
+      "text": "56. As stated above, the Act permits contracting authorities to include conditions of participation as part of a competitive selection process for the award of a call-off contract (section 46(1)).",
+      "ordinal": 91,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Awarding call-off contracts",
+        "Conditions of Participation"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00092",
+      "block_type": "p",
+      "text": "57. A condition of participation in a competitive selection process is defined as a condition that a supplier must satisfy in order to be awarded a call-off contract (section 46(2)) and is similar to a condition of participation in a competitive tendering procedure (see section 22). For example, in a competitive selection process, there is a requirement that conditions of participation must be a proportionate means of ensuring that the suppliers on the framework have the legal and financial capacity and technical ability to perform the contract being procured (section 46(1)), rules around what can be required to demonstrate legal and financial capacity (section 46(3)) and what proportionate means, which are similar to those in section 22. In addition, the definition of ‘proportionate’ in section 46(5) is the same as in section 22(5).",
+      "ordinal": 92,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Awarding call-off contracts",
+        "Conditions of Participation"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00093",
+      "block_type": "p",
+      "text": "58. Any assessment of conditions of participation that are included as part of a competitive selection process under a framework is not legally a ‘reassessment’ of any conditions of participation that applied to the award of the framework. However, a condition of participation for the award of a call-off contract may include a requirement that the conditions of participation for the award of the framework must be met or may include some or all of the same conditions of participation. It may also include additional conditions that did not apply to the award of the framework, for example, bespoke insurance requirements relevant to the particular call-off contract to be awarded.",
+      "ordinal": 93,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Awarding call-off contracts",
+        "Conditions of Participation"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00094",
+      "block_type": "p",
+      "text": "59. If the competitive selection process includes an assessment against conditions of participation, this must be set out in the framework (see section 45(5)(d)).",
+      "ordinal": 94,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Awarding call-off contracts",
+        "Conditions of Participation"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00095",
+      "block_type": "p",
+      "text": "60. A contracting authority is not required to exclude suppliers that do not meet the conditions of participation from participating or progressing in a competitive selection process (section 46(7)), but the effect of section 46(2) is that the successful supplier must satisfy the conditions to be awarded the contract. This allows suppliers to continue in the process whilst at the same time working towards satisfying the conditions before award. Please see guidance on conditions of participation for more information.",
+      "ordinal": 95,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Awarding call-off contracts",
+        "Conditions of Participation"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00096",
+      "block_type": "heading",
+      "text": "Direct award",
+      "ordinal": 96,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Awarding call-off contracts",
+        "Direct award"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00097",
+      "block_type": "p",
+      "text": "61. Direct award under sections 41 or 43 cannot be used to award a call-off contract under a framework and is unnecessary. In practice, if a direct award is permissible under the Act, the contracting authority may directly award a contract to any supplier, including to a supplier on a framework, outside of the selection process for the framework.",
+      "ordinal": 97,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Awarding call-off contracts",
+        "Direct award"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00098",
+      "block_type": "heading",
+      "text": "Excluding suppliers from participating in a selection process under a framework",
+      "ordinal": 98,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Awarding call-off contracts",
+        "Excluding suppliers from participating in a selection process under a framework"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00099",
+      "block_type": "p",
+      "text": "62. Section 45(6) provides that a framework may not permit a contracting authority to award a call-off contract to an excluded supplier or prevent a contracting authority from requesting additional information from suppliers before awarding a call-off contract. This means that contracting authorities must consider whether suppliers are excluded suppliers before awarding a call-off contract, even though this will have been considered at the time the framework was awarded. Where the framework was set up by another contracting authority for use by other contracting authorities, the contracting authority awarding the call-off contract should check with the contracting authority responsible for the framework whether the supplier has become an excluded supplier since the award of the framework, although it should also consider this itself and check directly with the supplier.",
+      "ordinal": 99,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Awarding call-off contracts",
+        "Excluding suppliers from participating in a selection process under a framework"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00100",
+      "block_type": "p",
+      "text": "63. Section 48(1) allows contracting authorities to exclude a supplier from participating in a selection process under a framework if it is an excluded supplier or becomes an excludable supplier. This is done by implying a term into every framework that the contracting authority may exclude a supplier on this basis.",
+      "ordinal": 100,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Awarding call-off contracts",
+        "Excluding suppliers from participating in a selection process under a framework"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00101",
+      "block_type": "p",
+      "text": "64. Section 78 provides that there is an implied right in every public contract, which would include a framework that is a public contract, to terminate the contract on certain grounds (see guidance on contract termination). If a ground applies, and a framework has multiple suppliers, the contracting authority party to the framework can terminate the framework in respect of the relevant supplier only, without terminating the framework for every supplier. In this scenario, the contracting authority establishing the framework should publish a notice under section 78(2)(b) (‘contract performance notice’) to declare partial termination of the framework, and set out in the notice that the supplier has been removed from the framework to ensure that all contracting authorities who are permitted to use the framework are aware. (There is no requirement to publish a contract termination notice under section 80 in this scenario because the contract has not been terminated and continues for other suppliers and the contracting authority.)",
+      "ordinal": 101,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Awarding call-off contracts",
+        "Excluding suppliers from participating in a selection process under a framework"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00102",
+      "block_type": "heading",
+      "text": "Assessment summaries",
+      "ordinal": 102,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Awarding call-off contracts",
+        "Assessment summaries"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00103",
+      "block_type": "p",
+      "text": "65. Assessment summaries are not required to be provided to suppliers following the award of a call-off contract. However, contracting authorities are encouraged to provide them as a matter of best practice.",
+      "ordinal": 103,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Awarding call-off contracts",
+        "Assessment summaries"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00104",
+      "block_type": "heading",
+      "text": "Below-threshold frameworks and contracts",
+      "ordinal": 104,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Below-threshold frameworks and contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00105",
+      "block_type": "p",
+      "text": "66. The Act does not preclude the establishment of a framework for the award of only below-threshold contracts (referred to in this guidance as a ‘below-threshold framework’) but it would need to be considered carefully. Because of the prohibition in section 85(1) on contracting authorities restricting the submission of tenders for regulated below-threshold contracts [footnote 1] by reference to an assessment of a supplier’s suitability to perform the contract, all tenders for the award of the below-threshold framework would have to be considered, with no ability to initially assess suppliers’ suitability to perform the contracts to be awarded under the framework.",
+      "ordinal": 105,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Below-threshold frameworks and contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00106",
+      "block_type": "p",
+      "text": "67. A contracting authority may choose to award a regulated below-threshold contract under a framework that is not a below-threshold framework. As the contract awarded under the framework is a below-threshold contract, this means that:",
+      "ordinal": 106,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Below-threshold frameworks and contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00107",
+      "block_type": "p",
+      "text": "a. contracting authorities are not obliged to publish any of the notices required for public contracts awarded under frameworks for the contract, though they may voluntarily do so; and",
+      "ordinal": 107,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Below-threshold frameworks and contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00108",
+      "block_type": "p",
+      "text": "b. where relevant, contracting authorities will need to comply with the rules in Part 6 of the Act on below-threshold contracts (for example, section 87(3) requires a contract details notice if the contract is a notifiable below-threshold contract).",
+      "ordinal": 108,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Below-threshold frameworks and contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00109",
+      "block_type": "p",
+      "text": "See guidance on below-threshold contracts for more information.",
+      "ordinal": 109,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Below-threshold frameworks and contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00110",
+      "block_type": "p",
+      "text": "68. If a call-off contract is a mixed contract, where one or more elements of the contract are below-threshold, the call-off contract must be awarded in accordance with the provisions in the Act relating to frameworks and will generally be subject to the full requirements of the Act (i.e. not just those relevant to below-threshold contracts). See guidance on mixed procurement for more information.",
+      "ordinal": 110,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Below-threshold frameworks and contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00111",
+      "block_type": "heading",
+      "text": "Frameworks that are light touch contracts",
+      "ordinal": 111,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Frameworks that are light touch contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00112",
+      "block_type": "p",
+      "text": "69. Section 9(5) of the Act provides that the a reference in the Act to a light touch contract includes a framework that provides for the future award of contracts by a contracting authority to a supplier or suppliers that are either wholly or mainly for light touch services (referred to in this guidance as a ‘light touch framework’).",
+      "ordinal": 112,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Frameworks that are light touch contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00113",
+      "block_type": "p",
+      "text": "70. Generally, light touch frameworks are subject to the same rules in the Act that apply to other frameworks. For example, a light touch framework may not permit the award of a call-off contract to an excluded supplier (section 45(6)(a)). However, there are certain exceptions for light touch frameworks (see sections 45(9), 46(11) and 47(5)).",
+      "ordinal": 113,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Frameworks that are light touch contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00114",
+      "block_type": "p",
+      "text": "71. Where a framework that is not a light touch framework is used to award a light touch contract, no exemptions apply to the award of the light touch contract and the standard framework provisions in the Act must be followed. The sections 45(9), 46(11) and 47(5) do not apply.",
+      "ordinal": 114,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Frameworks that are light touch contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00115",
+      "block_type": "heading",
+      "text": "Intra-UK considerations",
+      "ordinal": 115,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Intra-UK considerations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00116",
+      "block_type": "p",
+      "text": "72. The UK and Scottish Governments have agreed an approach to ensuring that contracting authorities in Scotland and the rest of the UK can work together. There are some instances where devolved Scottish authorities might want to award a call-off contract under a framework established under the Act and vice versa.",
+      "ordinal": 116,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Intra-UK considerations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00117",
+      "block_type": "p",
+      "text": "73. Both the UK and Scottish Governments will be laying secondary legislation to ensure that this can happen and this guidance will be updated when that occurs.",
+      "ordinal": 117,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "Key points and policy intent",
+        "Intra-UK considerations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00118",
+      "block_type": "heading",
+      "text": "What notices are linked to this aspect of the Act?",
+      "ordinal": 118,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00119",
+      "block_type": "heading",
+      "text": "Notices relevant to frameworks",
+      "ordinal": 119,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What notices are linked to this aspect of the Act?",
+        "Notices relevant to frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00120",
+      "block_type": "p",
+      "text": "74. Contracting authorities will need to comply with the Act’s standard noticing provisions when setting up and managing a framework with the exceptions set out in paragraphs 75 - 78 below.",
+      "ordinal": 120,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What notices are linked to this aspect of the Act?",
+        "Notices relevant to frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00121",
+      "block_type": "p",
+      "text": "75. Pipeline notice A pipeline notice is required if a contracting authority considers that it will, in the coming financial year, pay more than £100 million under contracts for the supply of goods, services or works other than exempted contracts (‘relevant contracts’). For the purpose of calculating whether a contracting authority will exceed the £100 million threshold, the calculation must include all payments that will be made under existing and future contracts. Whilst a framework is a contract, the value of a framework itself is not taken into account. This is because payments will not be made under the framework itself, but instead will be made under each relevant contract awarded under the framework. Where a contracting authority is required to publish a pipeline notice, there is no requirement under the Act to include planned future awards of frameworks in the notice. However, a centralised procurement authority that is planning to establish a framework for use by other contracting authorities that is valued over £2 million should include the framework on its pipeline notice in order to provide early visibility to the market.",
+      "ordinal": 121,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What notices are linked to this aspect of the Act?",
+        "Notices relevant to frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00122",
+      "block_type": "p",
+      "text": "76. Tender notice Frameworks can be established under both the open and competitive flexible procedures. Tender notices for frameworks are generally the same as for other contracts, with some additional information. This additional information is set out in regulation 20(2), and is (in summary):",
+      "ordinal": 122,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What notices are linked to this aspect of the Act?",
+        "Notices relevant to frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00123",
+      "block_type": "p",
+      "text": "a. details of the selection process to be applied on the award of call-off contracts;",
+      "ordinal": 123,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What notices are linked to this aspect of the Act?",
+        "Notices relevant to frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00124",
+      "block_type": "p",
+      "text": "b. the term (duration) of the framework and the reasons (where relevant) for awarding a framework with a term exceeding four or eight years in accordance with section 47(2) of the Act;",
+      "ordinal": 124,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What notices are linked to this aspect of the Act?",
+        "Notices relevant to frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00125",
+      "block_type": "p",
+      "text": "c. identification of all contracting authorities that may award call-off contracts under the framework during its term. This can be done either by listing the names of those authorities, or by describing categories of authorities, for example ‘all local authorities within Norfolk’, or ‘all central government authorities as defined in the Procurement Act 2023’, or ‘all NHS Foundation Trusts’;",
+      "ordinal": 125,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What notices are linked to this aspect of the Act?",
+        "Notices relevant to frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00126",
+      "block_type": "p",
+      "text": "d. whether the contracting authority intends to award the framework to a single supplier, a maximum number of suppliers (in which case, what the maximum number is), or an unlimited number of suppliers;",
+      "ordinal": 126,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What notices are linked to this aspect of the Act?",
+        "Notices relevant to frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00127",
+      "block_type": "p",
+      "text": "e. whether or not the framework provides for the charging of fees in accordance with section 45(7), and, if so, the fixed percentage of the estimated value of any contract awarded to the supplier in accordance with the framework and any other information needed in order to understand how fees will be charged;",
+      "ordinal": 127,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What notices are linked to this aspect of the Act?",
+        "Notices relevant to frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00128",
+      "block_type": "p",
+      "text": "f. whether the framework to be established is an open framework and if so, the estimated end date of the open framework; and",
+      "ordinal": 128,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What notices are linked to this aspect of the Act?",
+        "Notices relevant to frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00129",
+      "block_type": "p",
+      "text": "g. where the framework is awarded under an open framework, the unique identifier used in the procurement of the previous framework in the scheme (this is done in the same way as linking to an earlier notice in a procurement, for example, by looking up the notice in the contracting authority’s systems or on the central digital platform).",
+      "ordinal": 129,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What notices are linked to this aspect of the Act?",
+        "Notices relevant to frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00130",
+      "block_type": "p",
+      "text": "77. Transparency notice This notice is generally used in place of a tender notice if a contracting authority intends to directly award a framework (it is not relevant for open frameworks as they cannot be directly awarded). The additional information required to be included in a transparency notice for the award of a framework is set out in regulation 26(2)(w) and is:",
+      "ordinal": 130,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What notices are linked to this aspect of the Act?",
+        "Notices relevant to frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00131",
+      "block_type": "p",
+      "text": "a. the term of the framework;",
+      "ordinal": 131,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What notices are linked to this aspect of the Act?",
+        "Notices relevant to frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00132",
+      "block_type": "p",
+      "text": "b. whether the framework will allow for fees to be charged to a supplier in accordance with the framework and, if so, details of the fixed percentage by which they will be charged in accordance with section 45(7); and",
+      "ordinal": 132,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What notices are linked to this aspect of the Act?",
+        "Notices relevant to frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00133",
+      "block_type": "p",
+      "text": "c. the contracting authorities entitled to award contracts in accordance with the framework (whether by listing the names of those authorities or by describing categories of authorities).",
+      "ordinal": 133,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What notices are linked to this aspect of the Act?",
+        "Notices relevant to frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00134",
+      "block_type": "p",
+      "text": "78. Contract details notice This notice is required following the award of a framework. In addition to much of the information required to be included in a contract details notice for an open or competitive flexible procedure, it also requires the following additional information, which is set out in regulation 33:",
+      "ordinal": 134,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What notices are linked to this aspect of the Act?",
+        "Notices relevant to frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00135",
+      "block_type": "p",
+      "text": "a. the contracting authorities entitled to award public contracts in accordance with the framework (whether by listing the names of those authorities or by describing categories of authorities);",
+      "ordinal": 135,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What notices are linked to this aspect of the Act?",
+        "Notices relevant to frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00136",
+      "block_type": "p",
+      "text": "b. the term of the framework (section 47);",
+      "ordinal": 136,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What notices are linked to this aspect of the Act?",
+        "Notices relevant to frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00137",
+      "block_type": "p",
+      "text": "c. whether the framework is awarded under an open framework, and if so, the estimated end date of the open framework;",
+      "ordinal": 137,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What notices are linked to this aspect of the Act?",
+        "Notices relevant to frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00138",
+      "block_type": "p",
+      "text": "d. whether the framework was awarded:",
+      "ordinal": 138,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What notices are linked to this aspect of the Act?",
+        "Notices relevant to frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00139",
+      "block_type": "p",
+      "text": "i. following an open procedure;",
+      "ordinal": 139,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What notices are linked to this aspect of the Act?",
+        "Notices relevant to frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00140",
+      "block_type": "p",
+      "text": "ii. following a competitive flexible procedure; or",
+      "ordinal": 140,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What notices are linked to this aspect of the Act?",
+        "Notices relevant to frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00141",
+      "block_type": "p",
+      "text": "iii. directly, in accordance with section 41 or 43 of the Act;",
+      "ordinal": 141,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What notices are linked to this aspect of the Act?",
+        "Notices relevant to frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00142",
+      "block_type": "p",
+      "text": "e. details of how the successive frameworks under an open framework will be awarded;",
+      "ordinal": 142,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What notices are linked to this aspect of the Act?",
+        "Notices relevant to frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00143",
+      "block_type": "p",
+      "text": "f. whether the framework provides for fees to be charged to a supplier in accordance with the framework and, if so, details of the fixed percentage by which they will be charged in accordance with section 45(7);",
+      "ordinal": 143,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What notices are linked to this aspect of the Act?",
+        "Notices relevant to frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00144",
+      "block_type": "p",
+      "text": "g. the price payable, or mechanism for determining the price payable, under a public contract awarded in accordance with the framework;",
+      "ordinal": 144,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What notices are linked to this aspect of the Act?",
+        "Notices relevant to frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00145",
+      "block_type": "p",
+      "text": "h. details of the selection process to be applied on the award of a public contract in accordance with the framework; and",
+      "ordinal": 145,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What notices are linked to this aspect of the Act?",
+        "Notices relevant to frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00146",
+      "block_type": "p",
+      "text": "i. where the framework is awarded under an open framework, the unique identifier used in the procurement of the previous framework in the scheme.",
+      "ordinal": 146,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What notices are linked to this aspect of the Act?",
+        "Notices relevant to frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00147",
+      "block_type": "heading",
+      "text": "Notices and other information relevant to call-off contracts",
+      "ordinal": 147,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What notices are linked to this aspect of the Act?",
+        "Notices and other information relevant to call-off contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00148",
+      "block_type": "p",
+      "text": "79. Contracting authorities will generally need to follow the Act’s standard noticing provisions when awarding contracts under a framework. The following exceptions apply to noticing provisions for contracts awarded under a framework.",
+      "ordinal": 148,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What notices are linked to this aspect of the Act?",
+        "Notices and other information relevant to call-off contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00149",
+      "block_type": "p",
+      "text": "80. Pipeline notice Whilst not a requirement of the Act, contracting authorities are encouraged to include call-off contracts valued at over £2 million in their pipeline notices.",
+      "ordinal": 149,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What notices are linked to this aspect of the Act?",
+        "Notices and other information relevant to call-off contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00150",
+      "block_type": "p",
+      "text": "81. Preliminary market engagement notice Whilst the provisions on preliminary market engagement and preliminary market engagement notices in the Act do not apply when awarding a call-off contract, contracting authorities may, where relevant and appropriate, conduct preliminary market engagement and publish preliminary market engagement notices prior to awarding a contract in accordance with a framework.",
+      "ordinal": 150,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What notices are linked to this aspect of the Act?",
+        "Notices and other information relevant to call-off contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00151",
+      "block_type": "p",
+      "text": "82. Tender notice Tender notices are not published for call-off contracts.",
+      "ordinal": 151,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What notices are linked to this aspect of the Act?",
+        "Notices and other information relevant to call-off contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00152",
+      "block_type": "p",
+      "text": "83. Transparency notice Transparency notices are not relevant for call-off contracts.",
+      "ordinal": 152,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What notices are linked to this aspect of the Act?",
+        "Notices and other information relevant to call-off contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00153",
+      "block_type": "p",
+      "text": "84. Contract award notice Contract award notices are required for all call-off contracts, except for defence and security contracts awarded under a defence and security framework and direct award: user choice contracts awarded under Schedule 5, paragraph 15. The information requirements for contract award notices published by private utilities differ slightly from those required for other contracting authorities. See guidance on contract award notices and standstill for more information.",
+      "ordinal": 153,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What notices are linked to this aspect of the Act?",
+        "Notices and other information relevant to call-off contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00154",
+      "block_type": "p",
+      "text": "85. Assessment summaries A competitive selection process for the award of a call-off contract is not a competitive tendering procedure for the award of a contract under section 19. This means that the provisions on assessment summaries and mandatory standstill do not apply, although contracting authority may choose to provide assessment summaries and implement a voluntary standstill period.",
+      "ordinal": 154,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What notices are linked to this aspect of the Act?",
+        "Notices and other information relevant to call-off contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00155",
+      "block_type": "p",
+      "text": "86. Note that as the competitive selection process does not involve the assessment of tenders, (although it may require the assessment of suppliers’ proposals in accordance with section 46(8)), there is no requirement to include in the contract award notice the information set out at regulation 27(2)(n) or (o) relating to unsuccessful suppliers.",
+      "ordinal": 155,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What notices are linked to this aspect of the Act?",
+        "Notices and other information relevant to call-off contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00156",
+      "block_type": "p",
+      "text": "87. Contract details notice Regulation 34 sets out the information to be included in a contract details notice published following the award of a call-off contract. Again, as for frameworks, much of the same information is required as is required for an open or competitive flexible procedure, plus the following additional information:",
+      "ordinal": 156,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What notices are linked to this aspect of the Act?",
+        "Notices and other information relevant to call-off contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00157",
+      "block_type": "p",
+      "text": "a. the unique identifier for the procurement of the framework in accordance with which the contract is being awarded;",
+      "ordinal": 157,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What notices are linked to this aspect of the Act?",
+        "Notices and other information relevant to call-off contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00158",
+      "block_type": "p",
+      "text": "b. whether the framework is a defence and security framework within the meaning given by section 47(4)(a) of the Act;",
+      "ordinal": 158,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What notices are linked to this aspect of the Act?",
+        "Notices and other information relevant to call-off contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00159",
+      "block_type": "p",
+      "text": "c. where the framework is arranged by reference to lots, the distinct number given by the contracting authority to the lot under which the contract is being awarded;",
+      "ordinal": 159,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What notices are linked to this aspect of the Act?",
+        "Notices and other information relevant to call-off contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00160",
+      "block_type": "p",
+      "text": "d. details of which of the following procedures was used to award the public contract:",
+      "ordinal": 160,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What notices are linked to this aspect of the Act?",
+        "Notices and other information relevant to call-off contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00161",
+      "block_type": "p",
+      "text": "i. a competitive selection process for frameworks, or",
+      "ordinal": 161,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What notices are linked to this aspect of the Act?",
+        "Notices and other information relevant to call-off contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00162",
+      "block_type": "p",
+      "text": "ii. an award without further competition, and",
+      "ordinal": 162,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What notices are linked to this aspect of the Act?",
+        "Notices and other information relevant to call-off contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00163",
+      "block_type": "p",
+      "text": "e. if it is an award without further competition, an explanation of why the contracting authority considered that it applies by reference to section 45(4) of the Act.",
+      "ordinal": 163,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What notices are linked to this aspect of the Act?",
+        "Notices and other information relevant to call-off contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00164",
+      "block_type": "p",
+      "text": "88. Contracting authorities awarding a ‘notifiable below-threshold contract’ under a framework must publish a contract details notice containing the information set out in regulation 36 and, whilst not required under the Act, the notice should include information about the framework they are using.",
+      "ordinal": 164,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What notices are linked to this aspect of the Act?",
+        "Notices and other information relevant to call-off contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00165",
+      "block_type": "heading",
+      "text": "What other guidance is of particular relevance to this topic area?",
+      "ordinal": 165,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00166",
+      "block_type": "li",
+      "text": "Guidance on conditions of participation",
+      "ordinal": 166,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00167",
+      "block_type": "li",
+      "text": "Guidance on competitive tendering procedures",
+      "ordinal": 167,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00168",
+      "block_type": "li",
+      "text": "Guidance on assessing competitive tenders",
+      "ordinal": 168,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00169",
+      "block_type": "li",
+      "text": "Guidance on direct award",
+      "ordinal": 169,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00170",
+      "block_type": "li",
+      "text": "Guidance on below-threshold contracts",
+      "ordinal": 170,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00171",
+      "block_type": "li",
+      "text": "Guidance on contract award notices and standstill",
+      "ordinal": 171,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00172",
+      "block_type": "li",
+      "text": "Section 84(1) provides that a regulated below-threshold contract is a below-threshold contract which is not an exempted contract, a concession contract, or a utilities contract ↩",
+      "ordinal": 172,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00173",
+      "block_type": "p",
+      "text": "Section 84(1) provides that a regulated below-threshold contract is a below-threshold contract which is not an exempted contract, a concession contract, or a utilities contract ↩",
+      "ordinal": 173,
+      "heading_path": [
+        "What are frameworks and open frameworks?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "[footnote 1]",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-frameworks-html#fn:1",
+      "block_id": "b00105",
+      "ordinal": 0,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-frameworks-html#fnref:1",
+      "block_id": "b00172",
+      "ordinal": 1,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-frameworks-html#fnref:1",
+      "block_id": "b00173",
+      "ordinal": 2,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Guidance: Frameworks (HTML)",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-frameworks-html",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2022 to 2024 Sunak Conservative government",
+      "href": "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Procurement Act 2023 guidance documents - Define phase",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 7,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 45(2)",
+      "block_id": "b00001",
+      "start": 235,
+      "end": 248,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "45",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 49(1)",
+      "block_id": "b00002",
+      "start": 149,
+      "end": 162,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "49",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 8",
+      "block_id": "b00003",
+      "start": 149,
+      "end": 160,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "8"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Sections 45",
+      "block_id": "b00005",
+      "start": 3,
+      "end": 14,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "45"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Sections 45",
+      "block_id": "b00005",
+      "start": 158,
+      "end": 169,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "45"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 47",
+      "block_id": "b00005",
+      "start": 216,
+      "end": 226,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "47"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 49",
+      "block_id": "b00005",
+      "start": 385,
+      "end": 395,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "49"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 69",
+      "block_id": "b00005",
+      "start": 336,
+      "end": 348,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "69"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "sections 41",
+      "block_id": "b00013",
+      "start": 77,
+      "end": 88,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "41"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 49(10)",
+      "block_id": "b00013",
+      "start": 145,
+      "end": 159,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "49",
+        "tail": "(10)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 13(9)",
+      "block_id": "b00014",
+      "start": 417,
+      "end": 430,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "13",
+        "tail": "(9)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 1(4)",
+      "block_id": "b00017",
+      "start": 226,
+      "end": 238,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "1",
+        "tail": "(4)"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 3, paragraph 2(1)",
+      "block_id": "b00023",
+      "start": 201,
+      "end": 227,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "3",
+        "paragraph": "2",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 18",
+      "block_id": "b00023",
+      "start": 129,
+      "end": 141,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "18"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 2(1)",
+      "block_id": "b00023",
+      "start": 213,
+      "end": 227,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "2",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 74",
+      "block_id": "b00024",
+      "start": 514,
+      "end": 524,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "74"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 18(2)",
+      "block_id": "b00024",
+      "start": 41,
+      "end": 57,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "18",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 74",
+      "block_id": "b00025",
+      "start": 233,
+      "end": 243,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "74"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 45(7)",
+      "block_id": "b00026",
+      "start": 6,
+      "end": 19,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "45",
+        "tail": "(7)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 45",
+      "block_id": "b00027",
+      "start": 4,
+      "end": 14,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "45"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 45(7)",
+      "block_id": "b00029",
+      "start": 74,
+      "end": 87,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "45",
+        "tail": "(7)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulations 20(2)(k)",
+      "block_id": "b00029",
+      "start": 128,
+      "end": 148,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "20",
+        "tail": "(2)(k)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 47(1)",
+      "block_id": "b00031",
+      "start": 221,
+      "end": 234,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "47",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraphs 35",
+      "block_id": "b00031",
+      "start": 47,
+      "end": 60,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "35"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 47(2)",
+      "block_id": "b00032",
+      "start": 238,
+      "end": 251,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "47",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 47(1)",
+      "block_id": "b00033",
+      "start": 96,
+      "end": 109,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "47",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 47(3)",
+      "block_id": "b00036",
+      "start": 177,
+      "end": 190,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "47",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 47(1)",
+      "block_id": "b00037",
+      "start": 33,
+      "end": 46,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "47",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 47(5)",
+      "block_id": "b00037",
+      "start": 177,
+      "end": 190,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "47",
+        "tail": "(5)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 74",
+      "block_id": "b00040",
+      "start": 74,
+      "end": 84,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "74"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 47(2)",
+      "block_id": "b00040",
+      "start": 260,
+      "end": 273,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "47",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 47(3)",
+      "block_id": "b00040",
+      "start": 330,
+      "end": 343,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "47",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 49(1)",
+      "block_id": "b00042",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "49",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 49(9)",
+      "block_id": "b00042",
+      "start": 142,
+      "end": 155,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "49",
+        "tail": "(9)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 49(9)",
+      "block_id": "b00042",
+      "start": 392,
+      "end": 405,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "49",
+        "tail": "(9)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 31",
+      "block_id": "b00042",
+      "start": 416,
+      "end": 426,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "31"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "sections 45",
+      "block_id": "b00044",
+      "start": 3,
+      "end": 14,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "45"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 47",
+      "block_id": "b00045",
+      "start": 3,
+      "end": 13,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "47"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 49",
+      "block_id": "b00046",
+      "start": 3,
+      "end": 13,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "49"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraphs 40",
+      "block_id": "b00047",
+      "start": 121,
+      "end": 134,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "40"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 49(2)",
+      "block_id": "b00049",
+      "start": 284,
+      "end": 297,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "49",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 44",
+      "block_id": "b00049",
+      "start": 71,
+      "end": 83,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "44"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 45(5)(e)",
+      "block_id": "b00051",
+      "start": 80,
+      "end": 96,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "45",
+        "tail": "(5)(e)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 49(2)(a)(i)",
+      "block_id": "b00052",
+      "start": 370,
+      "end": 389,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "49",
+        "tail": "(2)(a)(i)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 49(2)(b)",
+      "block_id": "b00053",
+      "start": 4,
+      "end": 20,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "49",
+        "tail": "(2)(b)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 49(3)",
+      "block_id": "b00053",
+      "start": 157,
+      "end": 170,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "49",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 49(4)",
+      "block_id": "b00055",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "49",
+        "tail": "(4)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 49(5)",
+      "block_id": "b00055",
+      "start": 22,
+      "end": 35,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "49",
+        "tail": "(5)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 49(8)",
+      "block_id": "b00055",
+      "start": 117,
+      "end": 130,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "49",
+        "tail": "(8)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 49(4)",
+      "block_id": "b00056",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "49",
+        "tail": "(4)"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 40",
+      "block_id": "b00057",
+      "start": 243,
+      "end": 255,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "40"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 49(5)",
+      "block_id": "b00060",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "49",
+        "tail": "(5)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 49(6)",
+      "block_id": "b00065",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "49",
+        "tail": "(6)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 49(2)(a)(i)",
+      "block_id": "b00067",
+      "start": 278,
+      "end": 297,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "49",
+        "tail": "(2)(a)(i)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 45",
+      "block_id": "b00070",
+      "start": 4,
+      "end": 14,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "45"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 45(3)",
+      "block_id": "b00071",
+      "start": 236,
+      "end": 249,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "45",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 46",
+      "block_id": "b00071",
+      "start": 254,
+      "end": 264,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "46"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 45(5)(d)",
+      "block_id": "b00071",
+      "start": 354,
+      "end": 370,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "45",
+        "tail": "(5)(d)"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraphs 56",
+      "block_id": "b00071",
+      "start": 725,
+      "end": 738,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "56"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 46(9)",
+      "block_id": "b00072",
+      "start": 200,
+      "end": 213,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "46",
+        "tail": "(9)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Sections 45",
+      "block_id": "b00073",
+      "start": 4,
+      "end": 15,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "45"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 74",
+      "block_id": "b00073",
+      "start": 369,
+      "end": 379,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "74"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 45(8)",
+      "block_id": "b00075",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "45",
+        "tail": "(8)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 13(10)(b)(i)",
+      "block_id": "b00078",
+      "start": 4,
+      "end": 24,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "13",
+        "tail": "(10)(b)(i)"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraphs 10",
+      "block_id": "b00081",
+      "start": 70,
+      "end": 83,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "10"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 45(5)",
+      "block_id": "b00086",
+      "start": 43,
+      "end": 56,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "45",
+        "tail": "(5)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 20",
+      "block_id": "b00086",
+      "start": 61,
+      "end": 74,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "20"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraphs 11",
+      "block_id": "b00088",
+      "start": 199,
+      "end": 212,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "11"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 15",
+      "block_id": "b00088",
+      "start": 321,
+      "end": 333,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "15"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 46(1)",
+      "block_id": "b00091",
+      "start": 181,
+      "end": 194,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "46",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 46(2)",
+      "block_id": "b00092",
+      "start": 167,
+      "end": 180,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "46",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 22",
+      "block_id": "b00092",
+      "start": 271,
+      "end": 281,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "22"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 46(1)",
+      "block_id": "b00092",
+      "start": 567,
+      "end": 580,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "46",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 46(3)",
+      "block_id": "b00092",
+      "start": 662,
+      "end": 675,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "46",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 22",
+      "block_id": "b00092",
+      "start": 737,
+      "end": 747,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "22"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 46(5)",
+      "block_id": "b00092",
+      "start": 799,
+      "end": 812,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "46",
+        "tail": "(5)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 22(5)",
+      "block_id": "b00092",
+      "start": 831,
+      "end": 844,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "22",
+        "tail": "(5)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 45(5)(d)",
+      "block_id": "b00094",
+      "start": 144,
+      "end": 160,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "45",
+        "tail": "(5)(d)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 46(7)",
+      "block_id": "b00095",
+      "start": 184,
+      "end": 197,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "46",
+        "tail": "(7)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 46(2)",
+      "block_id": "b00095",
+      "start": 218,
+      "end": 231,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "46",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "sections 41",
+      "block_id": "b00097",
+      "start": 23,
+      "end": 34,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "41"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 45(6)",
+      "block_id": "b00099",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "45",
+        "tail": "(6)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 48(1)",
+      "block_id": "b00100",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "48",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 78",
+      "block_id": "b00101",
+      "start": 4,
+      "end": 14,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "78"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 78(2)(b)",
+      "block_id": "b00101",
+      "start": 560,
+      "end": 576,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "78",
+        "tail": "(2)(b)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 80",
+      "block_id": "b00101",
+      "start": 903,
+      "end": 913,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "80"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 85(1)",
+      "block_id": "b00105",
+      "start": 251,
+      "end": 264,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "85",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 87(3)",
+      "block_id": "b00108",
+      "start": 142,
+      "end": 155,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "87",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 9(5)",
+      "block_id": "b00112",
+      "start": 4,
+      "end": 16,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "9",
+        "tail": "(5)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 45(6)(a)",
+      "block_id": "b00113",
+      "start": 221,
+      "end": 237,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "45",
+        "tail": "(6)(a)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "sections 45(9)",
+      "block_id": "b00113",
+      "start": 310,
+      "end": 324,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "45",
+        "tail": "(9)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "sections 45(9)",
+      "block_id": "b00114",
+      "start": 231,
+      "end": 245,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "45",
+        "tail": "(9)"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraphs 75",
+      "block_id": "b00120",
+      "start": 164,
+      "end": 177,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "75"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 20(2)",
+      "block_id": "b00122",
+      "start": 258,
+      "end": 274,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "20",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 47(2)",
+      "block_id": "b00124",
+      "start": 159,
+      "end": 172,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "47",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 45(7)",
+      "block_id": "b00127",
+      "start": 85,
+      "end": 98,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "45",
+        "tail": "(7)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 26(2)(w)",
+      "block_id": "b00130",
+      "start": 343,
+      "end": 362,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "26",
+        "tail": "(2)(w)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 45(7)",
+      "block_id": "b00132",
+      "start": 199,
+      "end": 212,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "45",
+        "tail": "(7)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 33",
+      "block_id": "b00134",
+      "start": 302,
+      "end": 315,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "33"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 47",
+      "block_id": "b00136",
+      "start": 30,
+      "end": 40,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "47"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 41",
+      "block_id": "b00141",
+      "start": 34,
+      "end": 44,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "41"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 45(7)",
+      "block_id": "b00143",
+      "start": 197,
+      "end": 210,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "45",
+        "tail": "(7)"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 5, paragraph 15",
+      "block_id": "b00153",
+      "start": 233,
+      "end": 257,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "5",
+        "paragraph": "15"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 15",
+      "block_id": "b00153",
+      "start": 245,
+      "end": 257,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "15"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 19",
+      "block_id": "b00154",
+      "start": 169,
+      "end": 179,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "19"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 46(8)",
+      "block_id": "b00155",
+      "start": 178,
+      "end": 191,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "46",
+        "tail": "(8)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 27(2)(n)",
+      "block_id": "b00155",
+      "start": 285,
+      "end": 304,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "27",
+        "tail": "(2)(n)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 34",
+      "block_id": "b00156",
+      "start": 28,
+      "end": 41,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "34"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 47(4)(a)",
+      "block_id": "b00158",
+      "start": 89,
+      "end": 105,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "47",
+        "tail": "(4)(a)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 45(4)",
+      "block_id": "b00163",
+      "start": 141,
+      "end": 154,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "45",
+        "tail": "(4)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 36",
+      "block_id": "b00164",
+      "start": 172,
+      "end": 185,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "36"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 84(1)",
+      "block_id": "b00172",
+      "start": 0,
+      "end": 13,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "84",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 84(1)",
+      "block_id": "b00173",
+      "start": 0,
+      "end": 13,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "84",
+        "tail": "(1)"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

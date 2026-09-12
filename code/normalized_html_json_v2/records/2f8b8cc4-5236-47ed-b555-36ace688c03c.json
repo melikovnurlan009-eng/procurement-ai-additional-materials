@@ -1,0 +1,333 @@
+{
+  "document_id": "2f8b8cc4-5236-47ed-b555-36ace688c03c",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/82260130c265a562bcb1c9bb.json",
+  "input_sha256": "fe4a361cd0a45d49591e8a0d42f7917103c42dc7059770f8c86314789bc53331",
+  "processed_at": "2026-08-27T02:26:28.275523+00:00",
+  "title": "PPN 02/23 - Tackling Modern Slavery in Government Supply Chains (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/ppn-0223-tackling-modern-slavery-in-government-supply-chains/ppn-0223-tackling-modern-slavery-in-government-supply-chains-html",
+  "description": null,
+  "publication_date": "2023-02-10T15:00:03+00:00",
+  "updated_date": "2024-03-25T09:00:04+00:00",
+  "source_metadata": {
+    "content_id": "2f8b8cc4-5236-47ed-b555-36ace688c03c",
+    "base_path": "/government/publications/ppn-0223-tackling-modern-slavery-in-government-supply-chains/ppn-0223-tackling-modern-slavery-in-government-supply-chains-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Issue",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Dissemination and Scope",
+      "ordinal": 2,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Timing",
+      "ordinal": 4,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Action",
+      "ordinal": 6,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Background",
+      "ordinal": 11,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Contact",
+      "ordinal": 14,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "Issue",
+      "ordinal": 0,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "1 - The Government is committed to tackling the scourge of modern slavery (an umbrella term that encompasses the offences of slavery, servitude, forced and compulsory labour and human trafficking). Departments must take action to ensure modern slavery risks are identified and managed effectively in government supply chains.",
+      "ordinal": 1,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "heading",
+      "text": "Dissemination and Scope",
+      "ordinal": 2,
+      "heading_path": [
+        "Issue",
+        "Dissemination and Scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "2 - The contents of this Procurement Policy Note (PPN) apply to all Central Government Departments, their Executive Agencies and Non-Departmental Public Bodies, and NHS bodies, and are referred to in this PPN as ‘In-Scope Organisations’. Please circulate this PPN within your organisation, particularly to those with a commercial, procurement and/or contract management role. Other public sector contracting authorities may wish to apply the approach set out in this PPN.",
+      "ordinal": 3,
+      "heading_path": [
+        "Issue",
+        "Dissemination and Scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "heading",
+      "text": "Timing",
+      "ordinal": 4,
+      "heading_path": [
+        "Issue",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "3 - In-Scope Organisations should begin to take action to apply this PPN to existing contracts, and to new procurement activity from 1 April 2023.",
+      "ordinal": 5,
+      "heading_path": [
+        "Issue",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "heading",
+      "text": "Action",
+      "ordinal": 6,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "4 - In-Scope Organisations must use the guidance ‘Tackling Modern Slavery in Government Supply Chains’ to identify and manage risks in both new procurement activity and existing contracts.",
+      "ordinal": 7,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "5 - In-Scope Organisations should note the table used for assessing the risk of modern slavery has been updated to include current global modern slavery risks in key sectors of concern such as cotton, PPE and polysilicon.",
+      "ordinal": 8,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "6 - In-scope Organisations should note there is a new requirement for supply chain information to be provided at the selection stage of new procurements designated as high risk of modern slavery.",
+      "ordinal": 9,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "p",
+      "text": "7 - In-scope Organisations should note there is additional guidance on enhanced due diligence activities and on using existing exclusion grounds more effectively.",
+      "ordinal": 10,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "heading",
+      "text": "Background",
+      "ordinal": 11,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "8 - The Government has made clear its determination to tackle modern slavery crimes, referring to them as “the great human rights issue of our time”. The International Labour Organisation estimates that there are 50 million people living in modern slavery across the world.1 It is thought to be prevalent across the UK and can occur in any business sector. To tackle these crimes, the Modern Slavery Act 2015 was introduced. The Act consolidates and clarifies modern slavery offences, toughens penalties and prosecution, and introduces greater support and protection for victims.",
+      "ordinal": 12,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "9 - Whilst there are laws in place which punish instances of modern slavery, The Government has the opportunity to use its extensive buying power to help mitigate the risks of it occurring in its supply chain by adopting new processes and procedures, in both procurement and supplier management.",
+      "ordinal": 13,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "heading",
+      "text": "Contact",
+      "ordinal": 14,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "10 - Commercial and procurement enquiries should be directed to the Crown Commercial Service Helpdesk on 0345 410 2222 or info@crowncommercial.gov.uk .",
+      "ordinal": 15,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "11 - For more information on modern slavery visit the Home Office modern slavery webpages on GOV.uk.",
+      "ordinal": 16,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "info@crowncommercial.gov.uk",
+      "href": "mailto:info@crowncommercial.gov.uk",
+      "block_id": "b00015",
+      "ordinal": 0,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "modern slavery",
+      "href": "https://www.gov.uk/government/collections/modern-slavery",
+      "block_id": "b00016",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "webpages",
+      "href": "https://www.gov.uk/government/collections/modern-slavery",
+      "block_id": "b00016",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "PPN 02/23 - Tackling Modern Slavery in Government Supply Chains (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-0223-tackling-modern-slavery-in-government-supply-chains/ppn-0223-tackling-modern-slavery-in-government-supply-chains-html",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2022 to 2024 Sunak Conservative government",
+      "href": "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "PPN 02/23: Tackling Modern Slavery in Government Supply Chains",
+      "href": "https://www.gov.uk/government/publications/ppn-0223-tackling-modern-slavery-in-government-supply-chains",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 7,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [],
+  "attachments": [],
+  "warnings": []
+}

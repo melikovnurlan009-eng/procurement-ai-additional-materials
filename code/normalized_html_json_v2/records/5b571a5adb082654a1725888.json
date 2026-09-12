@@ -1,0 +1,72 @@
+{
+  "document_id": "5b571a5adb082654a1725888",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "html",
+  "source_path": "corpus_ingest_v2/raw/316387aa2d3abdb863af22f4.html",
+  "input_sha256": "a8608bc47a000dc1daa324cc71649253d7338b3852c04a7ea193b6ab78f5b450",
+  "processed_at": "2026-08-27T02:26:10.639917+00:00",
+  "title": "Private Sector Member",
+  "canonical_url": null,
+  "description": "Private Sector Membership Your subscription will start today and will cost £30 per year. Your membership will automatically renew in 12 months’ time if you pay […]",
+  "publication_date": null,
+  "updated_date": "2025-06-04T11:01:55+00:00",
+  "source_metadata": {
+    "html_lang": "en-GB"
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 1,
+      "title": "Private Sector Member",
+      "ordinal": 0
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Private Sector Membership",
+      "ordinal": 1
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "Private Sector Member",
+      "ordinal": 0,
+      "heading_path": [
+        "Private Sector Member"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "heading",
+      "text": "Private Sector Membership",
+      "ordinal": 1,
+      "heading_path": [
+        "Private Sector Member",
+        "Private Sector Membership"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "Your subscription will start today and will cost £30 per year . Your membership will automatically renew in 12 months’ time if you pay online today.",
+      "ordinal": 2,
+      "heading_path": [
+        "Private Sector Member",
+        "Private Sector Membership"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    }
+  ],
+  "links": [],
+  "legal_references": [],
+  "attachments": [],
+  "warnings": []
+}

@@ -1,0 +1,804 @@
+{
+  "document_id": "b2822cf7-4211-404f-808a-2cd35ea5fdb3",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/e33eecff0eb535ab505f5436.json",
+  "input_sha256": "abfc50416d62d8e434348545845c938e1c5593f5523618cbd88171b50950555b",
+  "processed_at": "2026-08-27T02:26:45.114680+00:00",
+  "title": "Buyers and Suppliers: How to use the Central Digital Platform, the enhanced Find a Tender service (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-act-2023-short-guides/buyers-and-suppliers-how-to-use-the-central-digital-platform-the-enhanced-find-a-tender-service-html",
+  "description": null,
+  "publication_date": "2025-01-21T14:25:38+00:00",
+  "updated_date": "2026-06-23T10:02:16+01:00",
+  "source_metadata": {
+    "content_id": "b2822cf7-4211-404f-808a-2cd35ea5fdb3",
+    "base_path": "/government/publications/procurement-act-2023-short-guides/buyers-and-suppliers-how-to-use-the-central-digital-platform-the-enhanced-find-a-tender-service-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Introduction",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Why is there a central digital platform?",
+      "ordinal": 6,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Pipeline Notice (UK1)",
+      "ordinal": 19,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Tender Notice (UK4)",
+      "ordinal": 23,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Contract Award Notice (UK6)",
+      "ordinal": 26,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Searching for opportunities and setting up notifications",
+      "ordinal": 29,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Use of the Central Digital Platform Data",
+      "ordinal": 41,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "Introduction",
+      "ordinal": 0,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "On the 24th February 2025, the rules that shape how public bodies buy goods and services changed. In this guide, we will give you an overview of the central digital platform including what can be found there, how to look at the notices, notifications and the use of data.",
+      "ordinal": 1,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "li",
+      "text": "https://www.gov.uk/find-tender",
+      "ordinal": 2,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "Additional video guidance is available detailing these steps.",
+      "ordinal": 3,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "video guidance",
+      "ordinal": 4,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "For more detailed walkthrough videos on how to register for the Central Digital Platform, please check out the GCF Youtube site.",
+      "ordinal": 5,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "heading",
+      "text": "Why is there a central digital platform?",
+      "ordinal": 6,
+      "heading_path": [
+        "Introduction",
+        "Why is there a central digital platform?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "The central digital platform is an online resource which will make it easier for suppliers to find and bid for contract opportunities. It is the place where all the regulated public procurement notices are published.",
+      "ordinal": 7,
+      "heading_path": [
+        "Introduction",
+        "Why is there a central digital platform?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "These notices are important for transparency as they set out the details about:",
+      "ordinal": 8,
+      "heading_path": [
+        "Introduction",
+        "Why is there a central digital platform?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "li",
+      "text": "What goods, services or works the public sector is going to buy,",
+      "ordinal": 9,
+      "heading_path": [
+        "Introduction",
+        "Why is there a central digital platform?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "li",
+      "text": "Opportunities for suppliers to tender for contracts,",
+      "ordinal": 10,
+      "heading_path": [
+        "Introduction",
+        "Why is there a central digital platform?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "li",
+      "text": "Information about the process by which a decision to enter into a public contract is made, and",
+      "ordinal": 11,
+      "heading_path": [
+        "Introduction",
+        "Why is there a central digital platform?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "li",
+      "text": "Information about the awarded contract throughout its life.",
+      "ordinal": 12,
+      "heading_path": [
+        "Introduction",
+        "Why is there a central digital platform?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "The notices are issued throughout the process of the procurement, into contract management, and are designed to allow interested parties to look at them free of charge.",
+      "ordinal": 13,
+      "heading_path": [
+        "Introduction",
+        "Why is there a central digital platform?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "There are 17 notices across all the parts of the procurement and contract management cycle. Not all the notices are used in every procurement as some relate to special activities.",
+      "ordinal": 14,
+      "heading_path": [
+        "Introduction",
+        "Why is there a central digital platform?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "In this guide, we will look in depth at 3 key notices to watch out for:",
+      "ordinal": 15,
+      "heading_path": [
+        "Introduction",
+        "Why is there a central digital platform?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "li",
+      "text": "The Pipeline Notice (UK1)",
+      "ordinal": 16,
+      "heading_path": [
+        "Introduction",
+        "Why is there a central digital platform?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "li",
+      "text": "The Tender Notice (UK4)",
+      "ordinal": 17,
+      "heading_path": [
+        "Introduction",
+        "Why is there a central digital platform?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "li",
+      "text": "The Contract Award Notice (UK6)",
+      "ordinal": 18,
+      "heading_path": [
+        "Introduction",
+        "Why is there a central digital platform?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "heading",
+      "text": "Pipeline Notice (UK1)",
+      "ordinal": 19,
+      "heading_path": [
+        "Introduction",
+        "Pipeline Notice (UK1)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "p",
+      "text": "The pipeline notice lets suppliers know what procurements are expected.",
+      "ordinal": 20,
+      "heading_path": [
+        "Introduction",
+        "Pipeline Notice (UK1)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "This is a mandatory notice for any contracting authority that spends more than £100 million, under relevant contracts, in any financial year. In-scope contracting authorities must publish this notice for any intended requirement over £2 million.",
+      "ordinal": 21,
+      "heading_path": [
+        "Introduction",
+        "Pipeline Notice (UK1)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "p",
+      "text": "For more information on the pipeline notice, please read the Procurement Act 2023 Section 93 and the Procurement Regulations 2024 Regulation 15 . Supplementary guidance is available on Gov.UK .",
+      "ordinal": 22,
+      "heading_path": [
+        "Introduction",
+        "Pipeline Notice (UK1)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "heading",
+      "text": "Tender Notice (UK4)",
+      "ordinal": 23,
+      "heading_path": [
+        "Introduction",
+        "Tender Notice (UK4)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "The tender notice lets suppliers know that there is an opportunity to tender for.",
+      "ordinal": 24,
+      "heading_path": [
+        "Introduction",
+        "Tender Notice (UK4)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "p",
+      "text": "For more information on the tender notice, please read the Procurement Act 2023 Section 21 and the Procurement Regulations 2024 Regulation 18-24 . Supplementary guidance is available on Gov.UK .",
+      "ordinal": 25,
+      "heading_path": [
+        "Introduction",
+        "Tender Notice (UK4)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "heading",
+      "text": "Contract Award Notice (UK6)",
+      "ordinal": 26,
+      "heading_path": [
+        "Introduction",
+        "Contract Award Notice (UK6)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "p",
+      "text": "Once tenders have been assessed, the contract award notice is published to let suppliers know that the contracting authority intends to enter into a public contract. This includes details of the awarded supplier and the estimated value of the contract.",
+      "ordinal": 27,
+      "heading_path": [
+        "Introduction",
+        "Contract Award Notice (UK6)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "For more information on the contract award notice, please read the Procurement Act 2023 Section 50 and the Procurement Regulations 2024 Regulation 27-41 . Supplementary guidance is available on Gov.UK .",
+      "ordinal": 28,
+      "heading_path": [
+        "Introduction",
+        "Contract Award Notice (UK6)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "heading",
+      "text": "Searching for opportunities and setting up notifications",
+      "ordinal": 29,
+      "heading_path": [
+        "Introduction",
+        "Searching for opportunities and setting up notifications"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "p",
+      "text": "There will be lots of notices published over time. To help in locating specific notices, there are search tools and notifications available.",
+      "ordinal": 30,
+      "heading_path": [
+        "Introduction",
+        "Searching for opportunities and setting up notifications"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "p",
+      "text": "To demonstrate the functionality, this guide will walkthrough an example of a small supplier looking for a suitable contract in the East of England.",
+      "ordinal": 31,
+      "heading_path": [
+        "Introduction",
+        "Searching for opportunities and setting up notifications"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "p",
+      "text": "To begin looking for notices, you should select ‘Search’ on the homepage of Find a Tender.",
+      "ordinal": 32,
+      "heading_path": [
+        "Introduction",
+        "Searching for opportunities and setting up notifications"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "p",
+      "text": "You will then be presented with all of the notices on the platform. As you can see, there are a range of filters to help you narrow down the options.",
+      "ordinal": 33,
+      "heading_path": [
+        "Introduction",
+        "Searching for opportunities and setting up notifications"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "p",
+      "text": "You can select which notices you would like to see under the ‘notice type’ filter. By selecting Tender Notice you will be able to see all of the available tender notices.",
+      "ordinal": 34,
+      "heading_path": [
+        "Introduction",
+        "Searching for opportunities and setting up notifications"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "p",
+      "text": "Next, using the ‘Suitability’ filter, select ‘Small and medium-sized enterprises’ to see those opportunities that have been marked as particularly suitable for Small and Medium Enterprises.",
+      "ordinal": 35,
+      "heading_path": [
+        "Introduction",
+        "Searching for opportunities and setting up notifications"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "p",
+      "text": "You also have the option to filter opportunities by delivery location. You will be able to select regions from the ‘Contract location’ filter.",
+      "ordinal": 36,
+      "heading_path": [
+        "Introduction",
+        "Searching for opportunities and setting up notifications"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "p",
+      "text": "By clicking ‘Select regions’, it will open the below pop-up. From here, you can select one, or many, regions for the contract delivery, then click ‘Add regions to filter’.",
+      "ordinal": 37,
+      "heading_path": [
+        "Introduction",
+        "Searching for opportunities and setting up notifications"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "p",
+      "text": "Once you have added all the filters necessary for your search, click ‘Update results’ to search for notices that are within your filters.",
+      "ordinal": 38,
+      "heading_path": [
+        "Introduction",
+        "Searching for opportunities and setting up notifications"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "p",
+      "text": "To make this easier, you can also set up alerts on the system using ‘saved searches’. This means you will get an email to tell you when someone has posted a notice that meets your criteria.",
+      "ordinal": 39,
+      "heading_path": [
+        "Introduction",
+        "Searching for opportunities and setting up notifications"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "p",
+      "text": "Once you have selected the filters you would like to search for, you can select ‘save search’ which will open the below pop up. You will be able to name the search and select how frequently you would like a notification emailed to you.",
+      "ordinal": 40,
+      "heading_path": [
+        "Introduction",
+        "Searching for opportunities and setting up notifications"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "heading",
+      "text": "Use of the Central Digital Platform Data",
+      "ordinal": 41,
+      "heading_path": [
+        "Introduction",
+        "Use of the Central Digital Platform Data"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "p",
+      "text": "All the published notices contain data that is structured and searchable in the Open Contracting Data Standard and is available for re-use under the open government licence 3.0, directly from the central digital platform.",
+      "ordinal": 42,
+      "heading_path": [
+        "Introduction",
+        "Use of the Central Digital Platform Data"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "https://www.gov.uk/find-tender",
+      "href": "https://www.gov.uk/find-tender",
+      "block_id": "b00002",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "video guidance",
+      "href": "https://youtu.be/TSfxoZoV3yI",
+      "block_id": "b00004",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement Act 2023 Section 93",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/93",
+      "block_id": "b00022",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement Regulations 2024 Regulation 15",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/15",
+      "block_id": "b00022",
+      "ordinal": 3,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Gov.UK",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-pipeline-notice-html",
+      "block_id": "b00022",
+      "ordinal": 4,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement Act 2023 Section 21",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/21",
+      "block_id": "b00025",
+      "ordinal": 5,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement Regulations 2024 Regulation 18-24",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/part/2",
+      "block_id": "b00025",
+      "ordinal": 6,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Gov.UK",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/competitive-tendering-procedures-html",
+      "block_id": "b00025",
+      "ordinal": 7,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement Act 2023 Section 50",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/50",
+      "block_id": "b00028",
+      "ordinal": 8,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement Regulations 2024 Regulation 27-41",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/part/2",
+      "block_id": "b00028",
+      "ordinal": 9,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Gov.UK",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-contract-award-notices-and-standstill-html",
+      "block_id": "b00028",
+      "ordinal": 10,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Buyers and Suppliers: How to use the Central Digital Platform, the enhanced Find a Tender service (HTML)",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-short-guides/buyers-and-suppliers-how-to-use-the-central-digital-platform-the-enhanced-find-a-tender-service-html",
+      "block_id": "__document__",
+      "ordinal": 11,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2022 to 2024 Sunak Conservative government",
+      "href": "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 12,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Government Commercial Function",
+      "href": "https://www.gov.uk/government/organisations/government-commercial-function",
+      "block_id": "__document__",
+      "ordinal": 13,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Procurement Act 2023: short guides",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-short-guides",
+      "block_id": "__document__",
+      "ordinal": 14,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Government Commercial Function",
+      "href": "https://www.gov.uk/government/organisations/government-commercial-function",
+      "block_id": "__document__",
+      "ordinal": 15,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 93",
+      "block_id": "b00022",
+      "start": 82,
+      "end": 92,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "93"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2024",
+      "block_id": "b00022",
+      "start": 113,
+      "end": 129,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2024"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 15",
+      "block_id": "b00022",
+      "start": 130,
+      "end": 143,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "15"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 21",
+      "block_id": "b00025",
+      "start": 80,
+      "end": 90,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "21"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2024",
+      "block_id": "b00025",
+      "start": 111,
+      "end": 127,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2024"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 18",
+      "block_id": "b00025",
+      "start": 128,
+      "end": 141,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "18"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 50",
+      "block_id": "b00028",
+      "start": 88,
+      "end": 98,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "50"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2024",
+      "block_id": "b00028",
+      "start": 119,
+      "end": 135,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2024"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 27",
+      "block_id": "b00028",
+      "start": 136,
+      "end": 149,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "27"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

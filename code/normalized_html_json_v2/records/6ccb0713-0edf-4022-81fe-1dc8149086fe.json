@@ -1,0 +1,151 @@
+{
+  "document_id": "6ccb0713-0edf-4022-81fe-1dc8149086fe",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/0b1a7f04f25bf74cdc8cdae2.json",
+  "input_sha256": "c94d381906bd217fd3ca8a54d39a100d35ea373ae9fc1641231aef49651ce154",
+  "processed_at": "2026-08-27T02:26:04.233120+00:00",
+  "title": "Procurement policy note 8/16: Standard Selection Questionnaire (SQ) template",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-policy-note-816-standard-selection-questionnaire-sq-template",
+  "description": "This note provides the revised standard Selection Questionnaire (SQ) template and guidance.",
+  "publication_date": "2016-09-26T13:04:00+01:00",
+  "updated_date": "2017-02-08T13:31:53+00:00",
+  "source_metadata": {
+    "content_id": "6ccb0713-0edf-4022-81fe-1dc8149086fe",
+    "base_path": "/government/publications/procurement-policy-note-816-standard-selection-questionnaire-sq-template",
+    "document_type": "guidance",
+    "schema_name": "publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "This Procurement Policy Note (PPN) provides the revised standard Selection Questionnaire (SQ) template and guidance. It replaces the current standard Pre-Qualification Questionnaire (PQQ). This PPN supersedes the guidance on supplier selection and PQQs in PPN 03/15.",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "This PPN applies to all contracting authorities in England, and contracting authorities in Wales and Northern Ireland that exercise wholly or mainly reserved functions for procurements above the thresholds laid down in the Public Contracts Regulations 2015 (PCR 2015). Please circulate this PPN within your organisation, drawing it to the attention of those with a purchasing role.",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "Procurement policy note 8/16: Standard Selection Questionnaire (SQ) template",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-816-standard-selection-questionnaire-sq-template",
+      "block_id": "__document__",
+      "ordinal": 0,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "Procurement policy notes",
+      "href": "https://www.gov.uk/government/collections/procurement-policy-notes",
+      "block_id": "__document__",
+      "ordinal": 1,
+      "link_type": "GOVUK_DOCUMENT_COLLECTIONS"
+    },
+    {
+      "text": "2016 to 2019 May Conservative government",
+      "href": "https://www.gov.uk/government/2016-to-2019-may-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Crown Commercial Service",
+      "href": "https://www.gov.uk/government/organisations/crown-commercial-service",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_ORIGINAL_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Government efficiency, transparency and accountability",
+      "href": "https://www.gov.uk/government/government-efficiency-transparency-and-accountability",
+      "block_id": "__document__",
+      "ordinal": 7,
+      "link_type": "GOVUK_TAXONS"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015",
+      "block_id": "b00001",
+      "start": 240,
+      "end": 256,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015"
+      }
+    }
+  ],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/5a74be17e5274a3f93b48726/PPN_8_16_StandardSQ_Template_v3.pdf",
+      "title": "Procurement Policy Note: Standard Selection Questionnaire (SQ) ",
+      "content_type": "application/pdf",
+      "filename": "PPN_8_16_StandardSQ_Template_v3.pdf",
+      "id": "1950207",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/5a81b607e5274a2e87dbf19f/PPN816StandardSQTemplatev3.odt",
+      "title": "Standard Selection Questionnaire: ODT format",
+      "content_type": "application/vnd.oasis.opendocument.text",
+      "filename": "PPN816StandardSQTemplatev3.odt",
+      "id": "1950208",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/5a8180f740f0b62305b8f4ed/PPN_8_16_StandardSQ_Template_v3.docx",
+      "title": "Standard Selection Questionnaire: Word format",
+      "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "filename": "PPN_8_16_StandardSQ_Template_v3.docx",
+      "id": "1950209",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/5a80217ce5274a2e8ab4e5c7/FrequentlyAskedQuestions_on_SQ_Feb17.docx",
+      "title": "Selection Questionnaire FAQ",
+      "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "filename": "FrequentlyAskedQuestions_on_SQ_Feb17.docx",
+      "id": "1950211",
+      "logical_role": "ATTACHMENT"
+    }
+  ],
+  "warnings": []
+}

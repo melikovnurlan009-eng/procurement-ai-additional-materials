@@ -1,0 +1,115 @@
+{
+  "document_id": "0bc9c778-ec90-438c-b7a3-1c717e964412",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/c91b51198a9e79a3ce8c0ecd.json",
+  "input_sha256": "23153463ec459282dd3803b932bf1c3ce19ad8261d5c4c6a7022b9a2971c3e14",
+  "processed_at": "2026-08-27T02:26:41.366265+00:00",
+  "title": "Procurement Policy Note 01/21: Procurement in an Emergency",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-policy-note-0121-procurement-in-an-emergency",
+  "description": "Reminds contracting authorities of the options available to them when undertaking procurements in an emergency.",
+  "publication_date": "2021-02-04T14:00:12+00:00",
+  "updated_date": "2021-02-04T14:00:12+00:00",
+  "source_metadata": {
+    "content_id": "0bc9c778-ec90-438c-b7a3-1c717e964412",
+    "base_path": "/government/publications/procurement-policy-note-0121-procurement-in-an-emergency",
+    "document_type": "policy_paper",
+    "schema_name": "publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "This Procurement Policy Note (PPN) reminds contracting authorities of the options available to them when undertaking procurements in an emergency.",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "This includes extremely urgent procurements required by the ongoing response to the COVID-19 pandemic and this PPN builds on the guidance in “ PPN 01/20 - Responding to COVID-19 ”. It includes further information on the commercial risks inherent in direct awards without competition.",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "PPN 01/20 - Responding to COVID-19",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0120-responding-to-covid-19",
+      "block_id": "b00001",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement Policy Note 01/21: Procurement in an Emergency",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0121-procurement-in-an-emergency",
+      "block_id": "__document__",
+      "ordinal": 1,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "Procurement policy notes",
+      "href": "https://www.gov.uk/government/collections/procurement-policy-notes",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_DOCUMENT_COLLECTIONS"
+    },
+    {
+      "text": "2019 to 2022 Johnson Conservative government",
+      "href": "https://www.gov.uk/government/2019-to-2022-johnson-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_ORIGINAL_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Business and industry",
+      "href": "https://www.gov.uk/business-and-industry",
+      "block_id": "__document__",
+      "ordinal": 7,
+      "link_type": "GOVUK_TAXONS"
+    }
+  ],
+  "legal_references": [],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/601ad2e5d3bf7f70b531ec1d/PPN-01_21-Procurement-in-an-Emergency.pdf",
+      "title": "Procurement Policy Note 01/21: Procurement in an Emergency",
+      "content_type": "application/pdf",
+      "filename": "PPN-01_21-Procurement-in-an-Emergency.pdf",
+      "id": "4934882",
+      "logical_role": "ATTACHMENT"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,1207 @@
+{
+  "document_id": "188affa0-b2fc-444f-9ad9-f29ad9e28986",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/7befef6ae9005da5e58bf881.json",
+  "input_sha256": "1666df062f7a0a44476413e104360fe4f51f0d1230b8c40a6f2af791fb846492",
+  "processed_at": "2026-08-27T02:26:27.195173+00:00",
+  "title": "Supplementary information: Small and Medium-sized Enterprises definition (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-act-2023-short-guides/supplementary-information-small-and-medium-sized-enterprises-definition-html",
+  "description": null,
+  "publication_date": "2024-11-12T09:28:04+00:00",
+  "updated_date": "2026-06-23T10:02:16+01:00",
+  "source_metadata": {
+    "content_id": "188affa0-b2fc-444f-9ad9-f29ad9e28986",
+    "base_path": "/government/publications/procurement-act-2023-short-guides/supplementary-information-small-and-medium-sized-enterprises-definition-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Small and medium-sized enterprises definition: supplementary guidance",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Defining a small and medium-sized enterprise",
+      "ordinal": 9,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Essential definitions",
+      "ordinal": 13,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Core threshold criteria",
+      "ordinal": 18,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Ownership considerations",
+      "ordinal": 29,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Re-assessment of numeric thresholds in light of ownership considerations",
+      "ordinal": 36,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Other reporting situations",
+      "ordinal": 59,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "SME Ownership Identification Guide",
+      "ordinal": 63,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Exceptions",
+      "ordinal": 67,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "Small and medium-sized enterprises definition: supplementary guidance",
+      "ordinal": 0,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "1. Small and medium-sized enterprises (SMEs) accounted for 99.9% of the UK business population at the start of 2024, with 99.2% being small businesses with fewer than 50 employees. [footnote 1]",
+      "ordinal": 1,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "2. The Government wants to leverage the power of public sector procurement to open up competition in public contracts to SMEs and remove barriers to their participation. The Procurement Act 2023 (Act) introduces a number of reforms intended to remove unnecessary burdens and costs in order to make it easier for SMEs to access public procurement opportunities, including:",
+      "ordinal": 2,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "a. placing a new duty on contracting authorities to have regard to SME participation and consider removing or reducing barriers to entry;",
+      "ordinal": 3,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "b. ensuring greater visibility of upcoming public sector opportunities and preliminary market engagement to involve suppliers at an early stage and provide more time to prepare to bid;",
+      "ordinal": 4,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "c. banning some common barriers to SME participation (for example by preventing contracting authorities from requiring an SME to have insurance in place before the award of a contract);",
+      "ordinal": 5,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "p",
+      "text": "d. requiring 30 day payment terms throughout the public sector supply chain;",
+      "ordinal": 6,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "e. requiring contracting authorities to publish their payment performance data in one place and bringing reporting in line with the private sector.",
+      "ordinal": 7,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "3. SMEs are defined at section 123(1) of the Act. This guidance sets out additional considerations to be taken into account to help ensure that SMEs are properly identified. SMEs will have the opportunity to self-declare their status when registering on the central digital platform and submitting supplier information to contracting authorities.",
+      "ordinal": 8,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "heading",
+      "text": "Defining a small and medium-sized enterprise",
+      "ordinal": 9,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Defining a small and medium-sized enterprise"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "p",
+      "text": "4. To qualify as an SME, an enterprise must meet the requisite core threshold criteria for staff, turnover, and balance sheet total (total assets) as specified in the Procurement Act 2023 (Act). The values assessed against these thresholds may be affected by specific ownership and relationship considerations described at paragraph 15 below.",
+      "ordinal": 10,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Defining a small and medium-sized enterprise"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "5. This definition is simple for businesses to apply, factors in an enterprise’s relationship to any wider corporate group, and provides flexibility for new businesses and SMEs newly exceeding the thresholds (see paragraphs 32 and 33 below).",
+      "ordinal": 11,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Defining a small and medium-sized enterprise"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "6. The definition remains substantively the same as that in the previous legislation derived from EU guidance but it has been updated to reflect more specific and relevant UK financial nomenclature, and to translate the thresholds into pounds sterling.",
+      "ordinal": 12,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Defining a small and medium-sized enterprise"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "heading",
+      "text": "Essential definitions",
+      "ordinal": 13,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Essential definitions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "7. Enterprise - Although this guidance is generally applicable to business structures such as limited liability companies, the key test is engagement in economic activity, rather than the organisation’s legal form. If engaged in economic activity, the self-employed, sole traders, partnerships, associations, or any other economically active organisation may qualify as an SME.",
+      "ordinal": 14,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Essential definitions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "8. Staff - This is the Full Time Equivalent (not overall headcount) measure of all staff of an enterprise, including those seconded to the enterprise and considered employees, owner-managers, and those partners engaged in regular activity and drawing financial benefits from the partnership.",
+      "ordinal": 15,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Essential definitions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "9. Turnover - The total annual income from the sale of products and/or services that are part of the enterprise’s ordinary or regular activities, less any rebates. For further information on calculating turnover, please consider Financial Reporting Standard 102 (FRS 102) Section 23. [footnote 2]",
+      "ordinal": 16,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Essential definitions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "10. Balance sheet total (or total assets) - This is the total of the fixed and current assets of the enterprise, before any liabilities are deducted, as stated in the annual accounts. Please consult FRS 102 for further information on assets.",
+      "ordinal": 17,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Essential definitions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "heading",
+      "text": "Core threshold criteria",
+      "ordinal": 18,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Core threshold criteria"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "11. In order to qualify as an SME an enterprise must have:",
+      "ordinal": 19,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Core threshold criteria"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "p",
+      "text": "a. fewer than 250 staff (see paragraph 8 above); and",
+      "ordinal": 20,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Core threshold criteria"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "b. less than or equal to £44m in annual turnover or a balance sheet total of less than or equal to £38m.",
+      "ordinal": 21,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Core threshold criteria"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "p",
+      "text": "12. For illustrative purposes, under this definition:",
+      "ordinal": 22,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Core threshold criteria"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "a. an enterprise with 250 staff is not an SME.",
+      "ordinal": 23,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Core threshold criteria"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "b. an enterprise with 100 staff, £50m in turnover, and £40m balance sheet total is not an SME.",
+      "ordinal": 24,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Core threshold criteria"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "p",
+      "text": "c. an enterprise with 249 staff, £44m in turnover, and £40m balance sheet total may be an SME (subject to ownership considerations explained below).",
+      "ordinal": 25,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Core threshold criteria"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "p",
+      "text": "d. an enterprise with 249 staff, £50m in turnover and £38m balance sheet total may be an SME (subject to ownership considerations explained below).",
+      "ordinal": 26,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Core threshold criteria"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "p",
+      "text": "13. However, an enterprise that meets the criteria at paragraph 11 above will need to consider its ownership status and re-apply the thresholds in light of any adjustments in line with paragraph 15 below to determine whether it qualifies as an SME.",
+      "ordinal": 27,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Core threshold criteria"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "14. These thresholds are not the same as those used by Companies House or HMRC for financial reporting or transfer pricing purposes. This definition is solely for the purposes of complying with the terms of the Act.",
+      "ordinal": 28,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Core threshold criteria"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "heading",
+      "text": "Ownership considerations",
+      "ordinal": 29,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Ownership considerations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "p",
+      "text": "15. An enterprise that meets the core threshold criteria set out at paragraph 11 above must consider its ownership status and re-assess those thresholds in light of any adjustments made as a result. The general principle is that an independent enterprise may be considered on its own merits and a linked or substantially connected enterprise must be considered alongside its own links and connections. Therefore, an enterprise must consider which of the following three categories it falls into:",
+      "ordinal": 30,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Ownership considerations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "p",
+      "text": "a. Independent - No other single enterprise or person controls more than 25% of the capital or voting rights of the enterprise and the enterprise does not control more than 25% of the capital or voting rights in any other enterprise. If the enterprise is independent and meets the core threshold requirements in paragraph 11 above, then it is an SME.",
+      "ordinal": 31,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Ownership considerations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "p",
+      "text": "b. Linked - A single person or other enterprise controls more than 25%, but less than 50%, of the capital or voting rights of the enterprise; or the enterprise controls more than 25%, but less than 50%, of the capital or voting rights in another enterprise. A linked enterprise will need to reassess the core thresholds in accordance with paragraph 23 below to determine its SME status.",
+      "ordinal": 32,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Ownership considerations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "p",
+      "text": "c. Substantially connected - A single person or other enterprise controls more than 50% of the capital or voting rights of the enterprise; or the enterprise controls more than 50% of the voting rights of capital in another enterprise. A substantially connected enterprise will need to reassess the core thresholds in accordance with paragraph 27 below to determine its SME status.",
+      "ordinal": 33,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Ownership considerations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "p",
+      "text": "16. ‘Control’ may refer to an individual or enterprise which has an equity stake in the enterprise, the voting rights, or the right to appoint those with voting rights. It may also mean control over any other bodies which have control over the enterprise in question. It is important to consider both the capital and voting rights in the enterprise in question, but also any capital or voting rights in other enterprises that it controls. When considering the entities with controlling interests, any enterprises with controlling interests in those entities must also be considered. The practical effect of this is to ensure that entire corporate groups are considered as a whole where appropriate.",
+      "ordinal": 34,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Ownership considerations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "p",
+      "text": "17. Where the controller of capital or voting rights is a public investment corporation, venture capital fund, business angel, university, not-for-profit research centre or institutional investor and has a stake in the capital or voting rights of less than 50%, it does not need to be considered when determining SME status. This is referred to as the ‘investor exception’. Under the investor exception, a company can remain independent if 49% of its capital or voting rights are controlled by an individual enterprise of a type listed above. If the stake exceeds 50%, it should be treated as a substantially connected enterprise. This exception does not apply if a public body not of a type listed above controls more than 25% of the capital or voting rights, in which case the enterprise is not an SME. This is due to additional benefits conveyed by public ownership.",
+      "ordinal": 35,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Ownership considerations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "heading",
+      "text": "Re-assessment of numeric thresholds in light of ownership considerations",
+      "ordinal": 36,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Re-assessment of numeric thresholds in light of ownership considerations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "p",
+      "text": "18. Independent enterprise - Where an enterprise is independent (including where the investor exception at paragraph 17 applies), it only needs to consider its own staff, turnover and balance sheet total numbers.",
+      "ordinal": 37,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Re-assessment of numeric thresholds in light of ownership considerations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "p",
+      "text": "19. Example: Enterprise A owns 15% of Enterprise B. Enterprise A has 1000 staff, £150m in turnover, and £70m balance sheet total. Enterprise B has 100 staff, £20m turnover, and £10m balance sheet total.",
+      "ordinal": 38,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Re-assessment of numeric thresholds in light of ownership considerations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "p",
+      "text": "20. All staff, turnover and asset numbers from Enterprise A can be disregarded, as it owns less than 25% of Enterprise B.",
+      "ordinal": 39,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Re-assessment of numeric thresholds in light of ownership considerations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "p",
+      "text": "21. The figures that must be considered to determine if Enterprise B is an SME are thus:",
+      "ordinal": 40,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Re-assessment of numeric thresholds in light of ownership considerations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "p",
+      "text": "a. Staff: 100",
+      "ordinal": 41,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Re-assessment of numeric thresholds in light of ownership considerations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "p",
+      "text": "b. Turnover: £20m",
+      "ordinal": 42,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Re-assessment of numeric thresholds in light of ownership considerations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "p",
+      "text": "c. Balance sheet total: £10m",
+      "ordinal": 43,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Re-assessment of numeric thresholds in light of ownership considerations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "p",
+      "text": "22. Enterprise B therefore meets the criteria to be classed as an SME.",
+      "ordinal": 44,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Re-assessment of numeric thresholds in light of ownership considerations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "p",
+      "text": "23. Linked enterprise - Where an enterprise is linked, it must consider its own staff, turnover, and balance sheet total figures, plus a proportion of the same metrics from the linked enterprise. If two or more persons or entities with controlling interests are linked, their individual percentages must be combined and treated collectively. The proportion of the linked entity’s staff, turnover, and balance sheet total numbers to be considered should be equal to the proportion of capital or voting rights (whichever is higher) it holds in (or is held by) the enterprise.",
+      "ordinal": 45,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Re-assessment of numeric thresholds in light of ownership considerations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "p",
+      "text": "24. Example: Enterprise C owns 30% of Enterprise D. Enterprise C has 1000 staff, £150m in turnover, and £70m balance sheet total. Enterprise D has 100 staff, £20m turnover, and £10m balance sheet total.",
+      "ordinal": 46,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Re-assessment of numeric thresholds in light of ownership considerations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "p",
+      "text": "25. The figures that must be considered to determine if Enterprise D is an SME are thus:",
+      "ordinal": 47,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Re-assessment of numeric thresholds in light of ownership considerations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "p",
+      "text": "a. Staff: 100 + (30% of 1000) = 400",
+      "ordinal": 48,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Re-assessment of numeric thresholds in light of ownership considerations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "p",
+      "text": "b. Turnover: £20m + (30% of £150m) = £65m",
+      "ordinal": 49,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Re-assessment of numeric thresholds in light of ownership considerations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00050",
+      "block_type": "p",
+      "text": "c. Balance sheet total: £10m + (30% of £70m) = £31m",
+      "ordinal": 50,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Re-assessment of numeric thresholds in light of ownership considerations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00051",
+      "block_type": "p",
+      "text": "26. Enterprise D exceeds the core thresholds on the basis of staff numbers and is therefore not an SME.",
+      "ordinal": 51,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Re-assessment of numeric thresholds in light of ownership considerations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00052",
+      "block_type": "p",
+      "text": "27. Substantially connected enterprise - Where an enterprise is connected, it must consider its own staff, turnover, and total assets figures, plus all of the same metrics from the connected enterprise.",
+      "ordinal": 52,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Re-assessment of numeric thresholds in light of ownership considerations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00053",
+      "block_type": "p",
+      "text": "28. Example: Enterprise E owns 60% of Enterprise F. Enterprise E has 1000 staff, £150m in turnover, and £70m balance sheet total. Enterprise F has 100 staff, £20m turnover, and £10m balance sheet total.",
+      "ordinal": 53,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Re-assessment of numeric thresholds in light of ownership considerations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00054",
+      "block_type": "p",
+      "text": "29. The figures that must be considered to determine if Enterprise F is an SME are thus:",
+      "ordinal": 54,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Re-assessment of numeric thresholds in light of ownership considerations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00055",
+      "block_type": "p",
+      "text": "a. Staff: 100 + 1,000 = 1,100",
+      "ordinal": 55,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Re-assessment of numeric thresholds in light of ownership considerations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00056",
+      "block_type": "p",
+      "text": "b. Turnover: £20m + £150m = £170m",
+      "ordinal": 56,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Re-assessment of numeric thresholds in light of ownership considerations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00057",
+      "block_type": "p",
+      "text": "c. Total Assets: £10m + £70m = £80m",
+      "ordinal": 57,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Re-assessment of numeric thresholds in light of ownership considerations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00058",
+      "block_type": "p",
+      "text": "30. Enterprise F is not an SME because it exceeds the core thresholds for staff numbers and both turnover and balance sheet total figures.",
+      "ordinal": 58,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Re-assessment of numeric thresholds in light of ownership considerations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00059",
+      "block_type": "heading",
+      "text": "Other reporting situations",
+      "ordinal": 59,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Other reporting situations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00060",
+      "block_type": "p",
+      "text": "31. Wherever possible, the staff and financial data should be the data contained in the most recent set of accounts filed with Companies House (or in accounts filed with its international or other appropriate equivalent). Where turnover information is not required as part of this filing (for example, due to the enterprise not being required to publish a profit and loss account), the turnover figure for the SME core threshold calculation should nevertheless be the turnover for the most recent reporting period.",
+      "ordinal": 60,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Other reporting situations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00061",
+      "block_type": "p",
+      "text": "32. Start-ups/ new enterprises - Where an enterprise is newly established, and has not yet reported a full year’s accounts, calculations should be made on the basis of a reasonable estimate in the form of a business plan, over the course of the financial year.",
+      "ordinal": 61,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Other reporting situations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00062",
+      "block_type": "p",
+      "text": "33. Transition cases - If an enterprise exceeds the turnover or balance sheet threshold requirements in its annual accounts, it may retain its SME status if it met the threshold requirements in both of the two preceding annual accounting periods. This exception does not apply if the enterprise exceeds threshold requirements due to a merger or acquisition whereupon the enterprise immediately ceases to qualify as an SME.",
+      "ordinal": 62,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "Other reporting situations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00063",
+      "block_type": "heading",
+      "text": "SME Ownership Identification Guide",
+      "ordinal": 63,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "SME Ownership Identification Guide"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00064",
+      "block_type": "p",
+      "text": "If an enterprise is substantially connected, it must consider its own employee, turnover, and balance sheet total numbers plus all the same metrics for the substantially connected entity, and any entities linked or substantially connected to that one.",
+      "ordinal": 64,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "SME Ownership Identification Guide"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00065",
+      "block_type": "p",
+      "text": "If an enterprise is linked, it must consider its own employee, turnover, and balance sheet total numbers plus a proportion equal to the controlling percentage of the same metrics for the linked entity, and any entities linked or substantially connected to that one.",
+      "ordinal": 65,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "SME Ownership Identification Guide"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00066",
+      "block_type": "p",
+      "text": "If an enterprise is independent, it only needs to consider its own independent employee, turnover, and balance sheet total numbers when calculating if it is an SME.",
+      "ordinal": 66,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "SME Ownership Identification Guide"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00067",
+      "block_type": "heading",
+      "text": "Exceptions",
+      "ordinal": 67,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "SME Ownership Identification Guide",
+        "Exceptions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00068",
+      "block_type": "p",
+      "text": "Investor exceptions - If the controller is a public investment corporation, venture capital fund, business angel, university, not for-profit research centre or institutional investor, if its stake is less than 50%, it is not considered when determining the SME status.",
+      "ordinal": 68,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "SME Ownership Identification Guide",
+        "Exceptions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00069",
+      "block_type": "p",
+      "text": "Public bodies exception - If a public body which is not on the above list controls more than 25% of the capital or voting rights, the enterprise is not an SME.",
+      "ordinal": 69,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "SME Ownership Identification Guide",
+        "Exceptions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00070",
+      "block_type": "li",
+      "text": "DBT - Business population estimates for the UK and regions 2024 ↩",
+      "ordinal": 70,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "SME Ownership Identification Guide",
+        "Exceptions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00071",
+      "block_type": "p",
+      "text": "DBT - Business population estimates for the UK and regions 2024 ↩",
+      "ordinal": 71,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "SME Ownership Identification Guide",
+        "Exceptions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00072",
+      "block_type": "li",
+      "text": "Wherever there is any doubt over the calculation of turnover or assets, the most recent FRS should be applied. ↩",
+      "ordinal": 72,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "SME Ownership Identification Guide",
+        "Exceptions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00073",
+      "block_type": "p",
+      "text": "Wherever there is any doubt over the calculation of turnover or assets, the most recent FRS should be applied. ↩",
+      "ordinal": 73,
+      "heading_path": [
+        "Small and medium-sized enterprises definition: supplementary guidance",
+        "SME Ownership Identification Guide",
+        "Exceptions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "[footnote 1]",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-short-guides/supplementary-information-small-and-medium-sized-enterprises-definition-html#fn:1",
+      "block_id": "b00001",
+      "ordinal": 0,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 2]",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-short-guides/supplementary-information-small-and-medium-sized-enterprises-definition-html#fn:2",
+      "block_id": "b00016",
+      "ordinal": 1,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "DBT - Business population estimates for the UK and regions 2024",
+      "href": "https://www.gov.uk/government/statistics/business-population-estimates-2024/business-population-estimates-for-the-uk-and-regions-2024-statistical-release#composition-of-the-2024-business-population",
+      "block_id": "b00070",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-short-guides/supplementary-information-small-and-medium-sized-enterprises-definition-html#fnref:1",
+      "block_id": "b00070",
+      "ordinal": 3,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "DBT - Business population estimates for the UK and regions 2024",
+      "href": "https://www.gov.uk/government/statistics/business-population-estimates-2024/business-population-estimates-for-the-uk-and-regions-2024-statistical-release#composition-of-the-2024-business-population",
+      "block_id": "b00071",
+      "ordinal": 4,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-short-guides/supplementary-information-small-and-medium-sized-enterprises-definition-html#fnref:1",
+      "block_id": "b00071",
+      "ordinal": 5,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-short-guides/supplementary-information-small-and-medium-sized-enterprises-definition-html#fnref:2",
+      "block_id": "b00072",
+      "ordinal": 6,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-short-guides/supplementary-information-small-and-medium-sized-enterprises-definition-html#fnref:2",
+      "block_id": "b00073",
+      "ordinal": 7,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Supplementary information: Small and Medium-sized Enterprises definition (HTML)",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-short-guides/supplementary-information-small-and-medium-sized-enterprises-definition-html",
+      "block_id": "__document__",
+      "ordinal": 8,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2022 to 2024 Sunak Conservative government",
+      "href": "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 9,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Government Commercial Function",
+      "href": "https://www.gov.uk/government/organisations/government-commercial-function",
+      "block_id": "__document__",
+      "ordinal": 10,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Procurement Act 2023: short guides",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-short-guides",
+      "block_id": "__document__",
+      "ordinal": 11,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Government Commercial Function",
+      "href": "https://www.gov.uk/government/organisations/government-commercial-function",
+      "block_id": "__document__",
+      "ordinal": 12,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 123(1)",
+      "block_id": "b00008",
+      "start": 23,
+      "end": 37,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "123",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 15",
+      "block_id": "b00010",
+      "start": 323,
+      "end": 335,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "15"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraphs 32",
+      "block_id": "b00011",
+      "start": 213,
+      "end": 226,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "32"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 23",
+      "block_id": "b00016",
+      "start": 272,
+      "end": 282,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "23"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 8",
+      "block_id": "b00020",
+      "start": 29,
+      "end": 40,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "8"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 11",
+      "block_id": "b00027",
+      "start": 54,
+      "end": 66,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "11"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 15",
+      "block_id": "b00027",
+      "start": 185,
+      "end": 197,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "15"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 11",
+      "block_id": "b00030",
+      "start": 68,
+      "end": 80,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "11"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 11",
+      "block_id": "b00031",
+      "start": 312,
+      "end": 324,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "11"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 23",
+      "block_id": "b00032",
+      "start": 339,
+      "end": 351,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "23"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 27",
+      "block_id": "b00033",
+      "start": 333,
+      "end": 345,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "27"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 17",
+      "block_id": "b00037",
+      "start": 107,
+      "end": 119,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "17"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

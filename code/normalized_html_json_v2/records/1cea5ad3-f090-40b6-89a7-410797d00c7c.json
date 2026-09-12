@@ -1,0 +1,3606 @@
+{
+  "document_id": "1cea5ad3-f090-40b6-89a7-410797d00c7c",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/262f17a18535a13f6180f23d.json",
+  "input_sha256": "91b05013c3800d4a4f17ea8e3584a8bc92dd92d77be6395276788e1c0df5b985",
+  "processed_at": "2026-08-27T02:26:08.344250+00:00",
+  "title": "PPN 022: Guidance on Procuring Steel in Government Contracts (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/ppn-022-procuring-steel-in-government-contracts/ppn-022-guidance-on-procuring-steel-in-government-contracts-html",
+  "description": null,
+  "publication_date": "2025-06-26T10:00:08+01:00",
+  "updated_date": "2026-07-13T17:02:46+01:00",
+  "source_metadata": {
+    "content_id": "1cea5ad3-f090-40b6-89a7-410797d00c7c",
+    "base_path": "/government/publications/ppn-022-procuring-steel-in-government-contracts/ppn-022-guidance-on-procuring-steel-in-government-contracts-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Introduction",
+      "ordinal": 1,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Scope",
+      "ordinal": 4,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Overview",
+      "ordinal": 10,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Key outcomes and actions",
+      "ordinal": 25,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Recording steel origin data in the Contract Details Notice",
+      "ordinal": 42,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Key considerations through the commercial lifecycle",
+      "ordinal": 53,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Plan",
+      "ordinal": 55,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Pipelines",
+      "ordinal": 56,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Business case",
+      "ordinal": 59,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "National Security Exemption",
+      "ordinal": 77,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Define",
+      "ordinal": 80,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Preliminary market engagement",
+      "ordinal": 81,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Specifications",
+      "ordinal": 108,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Procure",
+      "ordinal": 121,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Exclusions Grounds",
+      "ordinal": 122,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Conditions of participation",
+      "ordinal": 124,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Assessing tenders",
+      "ordinal": 130,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Whole life costs",
+      "ordinal": 132,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Quality",
+      "ordinal": 135,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Manage",
+      "ordinal": 146,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Contract terms and conditions",
+      "ordinal": 147,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Contract performance",
+      "ordinal": 161,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Frameworks",
+      "ordinal": 166,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Monitoring and compliance",
+      "ordinal": 168,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Origin of the procured steel",
+      "ordinal": 180,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Steel product type",
+      "ordinal": 182,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Contractual provisions and reporting arrangements",
+      "ordinal": 195,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Contact",
+      "ordinal": 197,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Annex: Summary of Project Appraisal and Commercial Policy, Tools and Methodologies",
+      "ordinal": 199,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Green Book",
+      "ordinal": 200,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "National Procurement Policy Statement",
+      "ordinal": 203,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Construction Playbook",
+      "ordinal": 206,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "Updated: July 2026",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "heading",
+      "text": "Introduction",
+      "ordinal": 1,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "1. The Government wants to ensure that public procurement plays its full role in delivering the Industrial Strategy and fostering a resilient economy that supports British businesses and creates good jobs in communities across the country. UK-produced steel has a significant role to play in construction and infrastructure projects.",
+      "ordinal": 2,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "2. This guidance supports Procurement Policy Note (PPN) 022 which has been updated to include an additional transparency measure to report whether UK produced steel is going to be used by the prime contractor or within the supply chain if known at the point the contract is awarded.The data collected from this transparency measure is designed to support the UK steel strategy and will help identify gaps in UK production capability and UK demand for steel. This PPN also aims to highlight that national security considerations may be relevant to steel procurement, as well as require UK Steel’s Digital Catalogue [footnote 1] to be consulted, to aid accurate assessments of what the domestic market can produce.",
+      "ordinal": 3,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "heading",
+      "text": "Scope",
+      "ordinal": 4,
+      "heading_path": [
+        "Introduction",
+        "Scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "3. This guidance applies only to all central government departments, their executive agencies and non-departmental public bodies. Such bodies are referred to as ‘in-scope organisations’. Other public sector contracting authorities may wish to adopt the approach set out in this PPN.",
+      "ordinal": 5,
+      "heading_path": [
+        "Introduction",
+        "Scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "p",
+      "text": "4. This guidance applies to covered procurements under the Procurement Act 2023 where steel is being procured in the supply chain meaning both direct or indirect procurement of steel. This is referred to as ‘relevant steel procurement’.",
+      "ordinal": 6,
+      "heading_path": [
+        "Introduction",
+        "Scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "5. The scope of the new transparency measure and the reporting of actuals data include a value threshold, applying to projects/programmes with a value of £10 million or more; or where it is anticipated that the project will require in excess of 500 tonnes of steel (as outlined in paragraph 13 of PPN 022).",
+      "ordinal": 7,
+      "heading_path": [
+        "Introduction",
+        "Scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "6. Where this guidance refers to other policies, tools and methodologies, they should be applied where appropriate in accordance with the provisions set out in the relevant policy, tool or methodology.",
+      "ordinal": 8,
+      "heading_path": [
+        "Introduction",
+        "Scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "7. In applying this PPN, organisations must comply with their legal obligations and in particular the obligation not to discriminate against treaty state suppliers or to treat suppliers differently without justification.",
+      "ordinal": 9,
+      "heading_path": [
+        "Introduction",
+        "Scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "heading",
+      "text": "Overview",
+      "ordinal": 10,
+      "heading_path": [
+        "Introduction",
+        "Overview"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "8. This guidance reflects the legislative, project appraisal and commercial policy landscape relevant to steel procurements, including consulting UK Steel’s Digital Catalogue and considering the national security exemption in Schedule 2 to the Procurement Act 2023.",
+      "ordinal": 11,
+      "heading_path": [
+        "Introduction",
+        "Overview"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "9. Together these policies, tools and methodologies emphasise the importance of:",
+      "ordinal": 12,
+      "heading_path": [
+        "Introduction",
+        "Overview"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "li",
+      "text": "Developing strong business cases that are aligned with government policy objectives in relation to social value and organisational strategies and objectives.",
+      "ordinal": 13,
+      "heading_path": [
+        "Introduction",
+        "Overview"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "li",
+      "text": "Ensuring the key objectives identified in the business case (including the strategic and economic case) are applied through all policy and procurement design stages.",
+      "ordinal": 14,
+      "heading_path": [
+        "Introduction",
+        "Overview"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "li",
+      "text": "Ensuring that public procurements deliver best value over the life of the asset being procured.",
+      "ordinal": 15,
+      "heading_path": [
+        "Introduction",
+        "Overview"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "li",
+      "text": "Adopting commercial best practice and a suitable delivery model.",
+      "ordinal": 16,
+      "heading_path": [
+        "Introduction",
+        "Overview"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "li",
+      "text": "Undertaking preliminary market engagement, involving the whole supply chain, to combine both an understanding of the capability and capacity of the market (including the domestic market) and to make suppliers aware of future opportunities.",
+      "ordinal": 17,
+      "heading_path": [
+        "Introduction",
+        "Overview"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "li",
+      "text": "Taking account of the wider social, economic and environmental considerations, using policy outcomes aligned with the Government’s priorities.",
+      "ordinal": 18,
+      "heading_path": [
+        "Introduction",
+        "Overview"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "li",
+      "text": "Ensuring a level playing field for suppliers including a duty to have regard to particular barriers facing SMEs and considering whether such barriers can be removed or reduced.",
+      "ordinal": 19,
+      "heading_path": [
+        "Introduction",
+        "Overview"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "li",
+      "text": "Making it more straightforward for buyers to exclude suppliers that present unacceptable risks or may be unfit to bid for public contracts due to misconduct or other circumstances.",
+      "ordinal": 20,
+      "heading_path": [
+        "Introduction",
+        "Overview"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "li",
+      "text": "Ensuring value for money for the taxpayer.",
+      "ordinal": 21,
+      "heading_path": [
+        "Introduction",
+        "Overview"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "p",
+      "text": "10. For a summary of the relevant policies, tools and methodologies – (including the Green Book , National Procurement Policy Statement , Social Value Model (PPN 002) and Construction Playbook ), refer to the Annex. These policies, tools and methodologies should be applied as appropriate in accordance with the relevant instructions in each case.",
+      "ordinal": 22,
+      "heading_path": [
+        "Introduction",
+        "Overview"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "11. An overview of when these policies, tools and methodologies should be considered by in-scope organisations is included in the table below. For example, application of the Social Value Model [footnote 2] is only mandatory for covered procurements under the Procurement Act 2023 (exemptions may apply). Nothing in this PPN requires the application of policies, tools and methodologies beyond their original scope.",
+      "ordinal": 23,
+      "heading_path": [
+        "Introduction",
+        "Overview"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "table",
+      "text": "Title\tPolicy/tool/ methodology\tApplication to relevant steel procurements\tCommercial lifecycle stage\nGreen Book\tPolicy Methodology\tAll business cases\tPlan\nNational Procurement Policy Statement\tPolicy\tAll covered procurements (apart from where exceptions and exemptions apply)\tPlan Define Procure Manage\nSocial Value Model (PPN 002)\tPolicy Methodology\tAll covered procurements (apart from where exceptions and exemptions apply)\tPlan Define Procure Manage\nConstruction Playbook\tPolicy\tAll covered procurements\tDefine Procure Manage",
+      "ordinal": 24,
+      "heading_path": [
+        "Introduction",
+        "Overview"
+      ],
+      "source_locator": "details.body",
+      "metadata": {
+        "rows": [
+          [
+            "Title",
+            "Policy/tool/ methodology",
+            "Application to relevant steel procurements",
+            "Commercial lifecycle stage"
+          ],
+          [
+            "Green Book",
+            "Policy Methodology",
+            "All business cases",
+            "Plan"
+          ],
+          [
+            "National Procurement Policy Statement",
+            "Policy",
+            "All covered procurements (apart from where exceptions and exemptions apply)",
+            "Plan Define Procure Manage"
+          ],
+          [
+            "Social Value Model (PPN 002)",
+            "Policy Methodology",
+            "All covered procurements (apart from where exceptions and exemptions apply)",
+            "Plan Define Procure Manage"
+          ],
+          [
+            "Construction Playbook",
+            "Policy",
+            "All covered procurements",
+            "Define Procure Manage"
+          ]
+        ],
+        "row_count": 5
+      }
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "heading",
+      "text": "Key outcomes and actions",
+      "ordinal": 25,
+      "heading_path": [
+        "Introduction",
+        "Key outcomes and actions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "p",
+      "text": "12. In light of the new measures and the project appraisal and commercial policies described above, the key outcomes and actions on which in-scope organisations should or could (as appropriate) focus are:",
+      "ordinal": 26,
+      "heading_path": [
+        "Introduction",
+        "Key outcomes and actions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "li",
+      "text": "Considering if the national security exemption in Schedule 2 to the Procurement Act 2023 is relevant to the procurement and applying as appropriate.",
+      "ordinal": 27,
+      "heading_path": [
+        "Introduction",
+        "Key outcomes and actions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "li",
+      "text": "Ensuring that the Green Book and any relevant supplementary guidance has been applied at project design stage.",
+      "ordinal": 28,
+      "heading_path": [
+        "Introduction",
+        "Key outcomes and actions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "li",
+      "text": "Considering relevant commercial best practice and policy priorities and outcomes in the subsequent design of the procurement(s).",
+      "ordinal": 29,
+      "heading_path": [
+        "Introduction",
+        "Key outcomes and actions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "li",
+      "text": "Seeking to deliver best value over the life of the asset through the procurement process.",
+      "ordinal": 30,
+      "heading_path": [
+        "Introduction",
+        "Key outcomes and actions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "li",
+      "text": "Undertaking preliminary market engagement, to include all tiers of the supply chain, to inform and test the procurement approach.",
+      "ordinal": 31,
+      "heading_path": [
+        "Introduction",
+        "Key outcomes and actions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "li",
+      "text": "Consulting UK Steel’s Digital Catalogue to aid accurate assessments of what the domestic market can produce.",
+      "ordinal": 32,
+      "heading_path": [
+        "Introduction",
+        "Key outcomes and actions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "li",
+      "text": "Creating visibility of subcontract opportunities.",
+      "ordinal": 33,
+      "heading_path": [
+        "Introduction",
+        "Key outcomes and actions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "li",
+      "text": "Ensuring government only contracts with those suppliers that comply with relevant social and labour laws, and health and safety legislation as appropriate.",
+      "ordinal": 34,
+      "heading_path": [
+        "Introduction",
+        "Key outcomes and actions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "li",
+      "text": "Ensuring responsible and sustainable steel production.",
+      "ordinal": 35,
+      "heading_path": [
+        "Introduction",
+        "Key outcomes and actions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "li",
+      "text": "Ensuring price and cost calculations are based on whole life cost and not lowest purchase price.",
+      "ordinal": 36,
+      "heading_path": [
+        "Introduction",
+        "Key outcomes and actions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "li",
+      "text": "Ensuring the steel origin data requirement is included in contracts and subcontracts.",
+      "ordinal": 37,
+      "heading_path": [
+        "Introduction",
+        "Key outcomes and actions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "li",
+      "text": "Ensuring the requirement to consult UK Steel’s Digital Catalogue is included in contracts and subcontracts.",
+      "ordinal": 38,
+      "heading_path": [
+        "Introduction",
+        "Key outcomes and actions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "li",
+      "text": "Taking account of appropriate social and environmental impacts at the award stage.",
+      "ordinal": 39,
+      "heading_path": [
+        "Introduction",
+        "Key outcomes and actions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "li",
+      "text": "Ensuring strong supply chain management capability at Tier 1 level, which will establish robust, secure supply chains and performance management throughout the life of the project/programme.",
+      "ordinal": 40,
+      "heading_path": [
+        "Introduction",
+        "Key outcomes and actions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "li",
+      "text": "Ensuring that there is full supply chain understanding of the outcomes that are being sought, and that obligations and commitments are effectively cascaded through the supply chain",
+      "ordinal": 41,
+      "heading_path": [
+        "Introduction",
+        "Key outcomes and actions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "heading",
+      "text": "Recording steel origin data in the Contract Details Notice",
+      "ordinal": 42,
+      "heading_path": [
+        "Introduction",
+        "Recording steel origin data in the Contract Details Notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "p",
+      "text": "13. For all new relevant steel procurements commencing from 1st October 2026 in-scope organisations should confirm in the Contract Details Notice (CDN) whether UK-produced [footnote 3] steel is to be used by the prime contractor or within the supply chain. Where UK-produced steel will not be used, or where origin data is not known at the point of contract award, this should be recorded in the free text box labelled “procurement description”, and a rationale provided, as outlined below:",
+      "ordinal": 43,
+      "heading_path": [
+        "Introduction",
+        "Recording steel origin data in the Contract Details Notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "li",
+      "text": "Where all steel will be UK-produced, write [STEEL-ORIGIN: YES] in the “procurement description” box.",
+      "ordinal": 44,
+      "heading_path": [
+        "Introduction",
+        "Recording steel origin data in the Contract Details Notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "li",
+      "text": "Where all steel will be non-UK produced, write [STEEL-ORIGIN: NO] in the “procurement description” box followed by a rationale.",
+      "ordinal": 45,
+      "heading_path": [
+        "Introduction",
+        "Recording steel origin data in the Contract Details Notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "p",
+      "text": "Examples of a rationale for ‘No’ include: cost, quality, product not made in the UK, product not currently available/partially available in the UK, lead time for the UK product, differential in embodied carbon or other environmental reasons. Please note that this list is not exhaustive, and other rationales can be provided.",
+      "ordinal": 46,
+      "heading_path": [
+        "Introduction",
+        "Recording steel origin data in the Contract Details Notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "li",
+      "text": "Where there is a combination of UK and non-UK produced steel, write [STEEL-ORIGIN: MIXED] in the “procurement description” box followed by a rationale for the non-UK produced steel elements.",
+      "ordinal": 47,
+      "heading_path": [
+        "Introduction",
+        "Recording steel origin data in the Contract Details Notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "li",
+      "text": "Where the origin is not yet known, write [STEEL-ORIGIN: NOT KNOWN] in the “procurement description” box followed by a rationale.",
+      "ordinal": 48,
+      "heading_path": [
+        "Introduction",
+        "Recording steel origin data in the Contract Details Notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "p",
+      "text": "Examples of a rationale for ‘Not Known’ include: project planning status (i.e., the contract is not yet sufficiently detailed), absence of an appointed subcontractor. Please note that this list is not exhaustive, and other rationales can be provided.",
+      "ordinal": 49,
+      "heading_path": [
+        "Introduction",
+        "Recording steel origin data in the Contract Details Notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00050",
+      "block_type": "li",
+      "text": "Use the following model texts as a guide:",
+      "ordinal": 50,
+      "heading_path": [
+        "Introduction",
+        "Recording steel origin data in the Contract Details Notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00051",
+      "block_type": "p",
+      "text": "Example 1: [STEEL-ORIGIN: MIXED] The structural hollow sections (approx. 30% of total tonnage) will be sourced from outside the UK due to a lack of current UK manufacturing capability for this specific diameter. The remaining 70% (reinforcing bar and heavy structural sections) will be UK-produced steel.",
+      "ordinal": 51,
+      "heading_path": [
+        "Introduction",
+        "Recording steel origin data in the Contract Details Notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00052",
+      "block_type": "p",
+      "text": "Example 2: [STEEL-ORIGIN: NOT KNOWN] Information on the steel’s origin is currently unavailable as the selection of the cladding subcontractor has not been finalised",
+      "ordinal": 52,
+      "heading_path": [
+        "Introduction",
+        "Recording steel origin data in the Contract Details Notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00053",
+      "block_type": "heading",
+      "text": "Key considerations through the commercial lifecycle",
+      "ordinal": 53,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00054",
+      "block_type": "p",
+      "text": "14. This guidance provides advice and guidance on matters which either should or could (as appropriate) be considered by in-scope organisations throughout the commercial lifecycle of a relevant steel procurement. It includes guidance relating to data reporting and summarises the requirements, advice and guidance included in other policies, tools and methodologies. This guidance is not a substitute for those other policies, tools and methodologies, which in-scope organisations should refer to, particularly in relation to their application to their individual procurements. In-scope organisations should also refer to relevant Procurement Act 2023 guidance .",
+      "ordinal": 54,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00055",
+      "block_type": "heading",
+      "text": "Plan",
+      "ordinal": 55,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Plan"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00056",
+      "block_type": "heading",
+      "text": "Pipelines",
+      "ordinal": 56,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Plan",
+        "Pipelines"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00057",
+      "block_type": "p",
+      "text": "15. Publishing commercial pipelines enables suppliers to understand the likely future demand for steel across government. Sharing early insights on planned activities is likely to achieve wider participation and greater diversity in supply chains and support capability building for the longer term.",
+      "ordinal": 57,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Plan",
+        "Pipelines"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00058",
+      "block_type": "p",
+      "text": "16. Since 2017 the UK government has published a pipeline of its steel requirements with the 2024 steel pipeline showing that more than 8 million tonnes of steel will be needed over the coming years on infrastructure projects for maintaining and upgrading of the UK’s motorway network, maintaining our railways and the construction of schools and hospitals.",
+      "ordinal": 58,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Plan",
+        "Pipelines"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00059",
+      "block_type": "heading",
+      "text": "Business case",
+      "ordinal": 59,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Plan",
+        "Business case"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00060",
+      "block_type": "p",
+      "text": "17. When deciding how, when, and where to invest money, there are a number of formative steps to be taken prior to any goods, works or services being procured. The Green Book is the critical guiding framework for business case appraisal and evaluation in central government and applies to in-scope organisations. The principles underlying the Green Book, and the five case model that should underpin all business cases, remain the starting point for all major projects, including those requiring steel.",
+      "ordinal": 60,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Plan",
+        "Business case"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00061",
+      "block_type": "p",
+      "text": "18. The five case model (strategic, economic, commercial, financial and management), is the recommended framework for developing business cases, providing decision makers and stakeholders with a proven framework for structured thinking and assurance that the project:",
+      "ordinal": 61,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Plan",
+        "Business case"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00062",
+      "block_type": "li",
+      "text": "Provides strategic fit and is supported by a compelling case for change.",
+      "ordinal": 62,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Plan",
+        "Business case"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00063",
+      "block_type": "li",
+      "text": "Will maximise public value to society through the selection of the optimal combination of components, products and related activities.",
+      "ordinal": 63,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Plan",
+        "Business case"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00064",
+      "block_type": "li",
+      "text": "Is commercially viable and attractive to the supply side.",
+      "ordinal": 64,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Plan",
+        "Business case"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00065",
+      "block_type": "li",
+      "text": "Is affordable and is fundable over time.",
+      "ordinal": 65,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Plan",
+        "Business case"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00066",
+      "block_type": "li",
+      "text": "Can be delivered successfully by the organisation and its partners.",
+      "ordinal": 66,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Plan",
+        "Business case"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00067",
+      "block_type": "p",
+      "text": "19. A business case is recommended best practice and should be prepared following the approval of senior management to the organisational strategy, mandate and brief for the project. Further guidance on how to appraise and evaluate policies, projects and programmes, including business case guidance for projects and programmes can be found in the Green Book.",
+      "ordinal": 67,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Plan",
+        "Business case"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00068",
+      "block_type": "p",
+      "text": "20. In procurements requiring significant amounts of steel (e.g. major infrastructure projects), decision makers should ensure that broader economic and strategic goals established in the business case are fully reflected in the subsequent procurement strategy.",
+      "ordinal": 68,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Plan",
+        "Business case"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00069",
+      "block_type": "p",
+      "text": "21. For example, if a major project involving steel was designed to drive decarbonisation, its procurement strategy should be expected to reflect that. One way that could happen is through the in-scope organisation making a decision to procure low carbon steel.",
+      "ordinal": 69,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Plan",
+        "Business case"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00070",
+      "block_type": "p",
+      "text": "22. During this stage, the National Procurement Policy Statement (NPPS) is also relevant. Section 13 of the Procurement Act 2023 makes clear that contracting authorities (including in-scope organisations) should have regard to the national priorities contained within the NPPS in exercising their functions relating to procurement.",
+      "ordinal": 70,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Plan",
+        "Business case"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00071",
+      "block_type": "p",
+      "text": "23. Any social, economic and environmental considerations identified at this stage, should be tested (and adapted as required) by the in-scope organisation through their preliminary market engagement activities and include all relevant tiers of the supply chain. This will ensure the market understands the priority policy outcomes that are relevant and proportionate to the procurement and enable them to consider and articulate how they might contribute to them, including through their supply chains.",
+      "ordinal": 71,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Plan",
+        "Business case"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00072",
+      "block_type": "p",
+      "text": "24. In-scope organisations are also required to undertake a modern slavery risk assessment using the risk characteristics tool contained within government’s Tackling Modern Slavery in Government Supply Chains guidance (PPN 009). For a works contract which involves a reliance on subcontracted workers, as may be the case with some relevant steel procurements, in-scope organisations may conclude that modern slavery risks are relevant to the contract as it falls within some of the characteristics which are known to signal a risk of modern slavery:",
+      "ordinal": 72,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Plan",
+        "Business case"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00073",
+      "block_type": "p",
+      "text": "a) Industry – construction.",
+      "ordinal": 73,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Plan",
+        "Business case"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00074",
+      "block_type": "p",
+      "text": "b) Nature of the work – dangerous or physically demanding work.",
+      "ordinal": 74,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Plan",
+        "Business case"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00075",
+      "block_type": "p",
+      "text": "c) Business/supply chain model – reliance on subcontracted workers.",
+      "ordinal": 75,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Plan",
+        "Business case"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00076",
+      "block_type": "p",
+      "text": "25. The identified level of risk and appropriate mitigations at each stage of the commercial lifecycle: plan, define, procure, manage should be included in the business case (commercial case).",
+      "ordinal": 76,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Plan",
+        "Business case"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00077",
+      "block_type": "heading",
+      "text": "National Security Exemption",
+      "ordinal": 77,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Plan",
+        "National Security Exemption"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00078",
+      "block_type": "p",
+      "text": "26. Paragraph 25 of Schedule 2 to the Procurement Act provides that, where a contracting authority determines that a contract should not, in the interests of national security, be subject to the Act (or a part of the Act) that contracting authority may determine that the contract is exempt from most regulatory requirements in the Act, including the requirement to compete the contract.",
+      "ordinal": 78,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Plan",
+        "National Security Exemption"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00079",
+      "block_type": "p",
+      "text": "27. To support this, PPN 025: Protecting the UK’s national security through public procurement , provides guidance for in-scope organisations procuring steel, shipbuilding, AI and energy infrastructure, regarding the appropriate use of the national security exemption in the Procurement Act to safeguard essential capabilities and supply chains.",
+      "ordinal": 79,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Plan",
+        "National Security Exemption"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00080",
+      "block_type": "heading",
+      "text": "Define",
+      "ordinal": 80,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Define"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00081",
+      "block_type": "heading",
+      "text": "Preliminary market engagement",
+      "ordinal": 81,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Define",
+        "Preliminary market engagement"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00082",
+      "block_type": "p",
+      "text": "28. Engaging early with steel producers and fabricators is likely to help in-scope organisations understand the range of solutions and options available from the market and the deliverability of their requirements. An accurate assessment of the capacity and capability of the UK market should form an important part of this – particularly given global supply chain pressures, and potential supply chain reliability issues, that have been exposed through the COVID-19 pandemic and the invasion of Ukraine.",
+      "ordinal": 82,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Define",
+        "Preliminary market engagement"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00083",
+      "block_type": "p",
+      "text": "29. It is therefore a requirement on all new relevant steel procurements, for in-scope organisations to consult UK Steel’s Digital Catalogue prior to design and procurement decisions being made. The preliminary market engagement stage (or earlier if designs are commissioned in advance of preliminary market engagement) is one example of when the Catalogue may be consulted, to help build sector knowledge and target the right suppliers. Where steel is to be procured indirectly through a Tier 1 contractor or one of its subcontractors, in-scope organisations should include in contracts an obligation based on the attached example clause, which also requires the Catalogue to be consulted by the relevant parties prior to design and procurement decisions being made.",
+      "ordinal": 83,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Define",
+        "Preliminary market engagement"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00084",
+      "block_type": "p",
+      "text": "30. Early engagement encourages market interest (including from SMEs and new entrants) and can provide in-scope organisations with valuable information to develop the delivery model and shape the procurement design, by testing and piloting approaches, routes to market, conditions of participation, and award criteria, including social value considerations.",
+      "ordinal": 84,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Define",
+        "Preliminary market engagement"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00085",
+      "block_type": "p",
+      "text": "31. Projects/programmes should be tested at the first business case stage (Strategic Outline Case) to ensure that preliminary market engagement takes place sufficiently early for suppliers to understand the requirement and for in-scope organisations to reflect on any feedback received.",
+      "ordinal": 85,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Define",
+        "Preliminary market engagement"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00086",
+      "block_type": "p",
+      "text": "32. Preliminary market engagement should involve all tiers of the supply chain including steel producers, fabricators and stockists.",
+      "ordinal": 86,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Define",
+        "Preliminary market engagement"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00087",
+      "block_type": "p",
+      "text": "33. In most instances, steel is not procured directly by in-scope organisations or by their appointed contractor but by their subcontractors. Bringing the market together through preliminary market engagement activity provides an opportunity for:",
+      "ordinal": 87,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Define",
+        "Preliminary market engagement"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00088",
+      "block_type": "li",
+      "text": "Business to business networking and relationship building.",
+      "ordinal": 88,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Define",
+        "Preliminary market engagement"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00089",
+      "block_type": "li",
+      "text": "Highlighting potential supply chain opportunities.",
+      "ordinal": 89,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Define",
+        "Preliminary market engagement"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00090",
+      "block_type": "li",
+      "text": "Improved knowledge of the market and supply chain structure.",
+      "ordinal": 90,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Define",
+        "Preliminary market engagement"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00091",
+      "block_type": "li",
+      "text": "Access to industry experts.",
+      "ordinal": 91,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Define",
+        "Preliminary market engagement"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00092",
+      "block_type": "li",
+      "text": "Increased competition in the supply chain.",
+      "ordinal": 92,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Define",
+        "Preliminary market engagement"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00093",
+      "block_type": "li",
+      "text": "Increased supplier diversity.",
+      "ordinal": 93,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Define",
+        "Preliminary market engagement"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00094",
+      "block_type": "li",
+      "text": "Increased awareness and understanding of the issues and risks relating to supply chain resilience.",
+      "ordinal": 94,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Define",
+        "Preliminary market engagement"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00095",
+      "block_type": "li",
+      "text": "Early identification of innovative solutions.",
+      "ordinal": 95,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Define",
+        "Preliminary market engagement"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00096",
+      "block_type": "li",
+      "text": "Ensuring contractors understand how their supply chain members can contribute to the success of the overall tender, for example by better understanding their capability, capacity and social value contributions.",
+      "ordinal": 96,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Define",
+        "Preliminary market engagement"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00097",
+      "block_type": "p",
+      "text": "34. Where potential contractors have pre-established vertical supply chain arrangements in place, it is important for in-scope organisations to understand this in advance, to ensure all opportunities to maximise supply chain diversity, resilience and innovation, and to ensure a level playing field, will be met.",
+      "ordinal": 97,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Define",
+        "Preliminary market engagement"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00098",
+      "block_type": "p",
+      "text": "35. A project/programme may use one or more types of engagement, depending on its size and complexity. The types of market engagement activities that are undertaken may, for example, include market analysis, market briefings, industry workshops, supplier group meetings, questionnaires and requests for information.",
+      "ordinal": 98,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Define",
+        "Preliminary market engagement"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00099",
+      "block_type": "p",
+      "text": "36. When undertaking preliminary market engagement activities, it is important to:",
+      "ordinal": 99,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Define",
+        "Preliminary market engagement"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00100",
+      "block_type": "li",
+      "text": "Refer to the Procurement Act 2023 and supporting guidance for details of how preliminary market engagement can be used and which notices apply.",
+      "ordinal": 100,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Define",
+        "Preliminary market engagement"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00101",
+      "block_type": "li",
+      "text": "Ensure fairness, openness, and transparency.",
+      "ordinal": 101,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Define",
+        "Preliminary market engagement"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00102",
+      "block_type": "li",
+      "text": "Be clear about the purpose and objectives of market engagement activities.",
+      "ordinal": 102,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Define",
+        "Preliminary market engagement"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00103",
+      "block_type": "li",
+      "text": "Keep an accurate record of discussions and feedback.",
+      "ordinal": 103,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Define",
+        "Preliminary market engagement"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00104",
+      "block_type": "li",
+      "text": "Give equal access and information to all suppliers (including to those that did not participate or attend).",
+      "ordinal": 104,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Define",
+        "Preliminary market engagement"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00105",
+      "block_type": "li",
+      "text": "Be proportionate in the approach, ensuring barriers to participating in new procurements (e.g. for SMEs, VCSEs, new entrants etc.) are removed or reduced.",
+      "ordinal": 105,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Define",
+        "Preliminary market engagement"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00106",
+      "block_type": "li",
+      "text": "Treat suppliers equally and act within legal obligations not to discriminate against suppliers who benefit from one of the UK’s international trade agreements.",
+      "ordinal": 106,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Define",
+        "Preliminary market engagement"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00107",
+      "block_type": "p",
+      "text": "37. For further advice and guidance on preliminary market engagement, you should refer to Procurement Act 2023 Preliminary Market Engagement Guidance , the Construction Playbook , and the accompanying Market, Supplier and Supply Chain Engagement in Construction Guidance Note .",
+      "ordinal": 107,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Define",
+        "Preliminary market engagement"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00108",
+      "block_type": "heading",
+      "text": "Specifications",
+      "ordinal": 108,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Define",
+        "Specifications"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00109",
+      "block_type": "p",
+      "text": "38. Developing clear, appropriate outcome-based technical specifications is key to facilitating innovative, cost-effective solutions.",
+      "ordinal": 109,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Define",
+        "Specifications"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00110",
+      "block_type": "p",
+      "text": "39. As steel is typically not bought directly, it is necessary to ensure that the contractor cascades any important technical requirements, which define the characteristics required of the material, product or supply of the steel, both through the specification and contract conditions, where appropriate. For example, where there is an issue of the safety of the production process or quality assurance of the steel being produced, in-scope organisations may wish to specify minimum standards to ensure conformity to those requirements. Contractual mechanisms which manage and incentivise safe production and delivery of the steel can also be considered.",
+      "ordinal": 110,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Define",
+        "Specifications"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00111",
+      "block_type": "p",
+      "text": "40. It is important that technical specifications do not unnecessarily narrow the competitive pool of suppliers and suppliers are treated equally. Even with the use of a competitive tendering procedure, it is important that in-scope organisations do not design their requirements in such a way that they narrow the number of suppliers capable of meeting their needs or give an unfair advantage to particular suppliers.",
+      "ordinal": 111,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Define",
+        "Specifications"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00112",
+      "block_type": "p",
+      "text": "41. Unless the in-scope organisation considers it necessary in order to make its requirements understood, technical specifications (including those for steel) may not refer to a particular:",
+      "ordinal": 112,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Define",
+        "Specifications"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00113",
+      "block_type": "li",
+      "text": "(a) trademark, trade name, patent, design or type",
+      "ordinal": 113,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Define",
+        "Specifications"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00114",
+      "block_type": "li",
+      "text": "(b) place of origin, or",
+      "ordinal": 114,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Define",
+        "Specifications"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00115",
+      "block_type": "li",
+      "text": "(c) producer or supplier",
+      "ordinal": 115,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Define",
+        "Specifications"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00116",
+      "block_type": "p",
+      "text": "If these matters are referred to, the procurement documents must also state that tenders, proposals or applications demonstrating equivalent quality or performance will not be disadvantaged.",
+      "ordinal": 116,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Define",
+        "Specifications"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00117",
+      "block_type": "p",
+      "text": "42. Consultation of UK Steel’s Digital Catalogue will enable in-scope organisations to understand what types of steel are manufactured in the UK and how UK steel products are specified. This will ensure they have an appropriate level of product information prior to specifying their requirements. Consultation of the Catalogue is required prior to design and procurement decisions being made including where steel is being procured by a Tier 1 supplier or their subcontractors. In-scope organisations should be aware of certain steel products (such as reinforcing bar and sections) where different standards exist between UK and EU markets. Specifying requirements only in either UK or non-UK standards can introduce a barrier to non-UK or UK steel producers supplying in public projects and this should be considered at the planning stages of projects.",
+      "ordinal": 117,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Define",
+        "Specifications"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00118",
+      "block_type": "p",
+      "text": "43. Where standards are considered appropriate, the procurement documents must refer to international standards or UK standards that adopt international equivalent standards. Only when these do not exist can the documents refer to a standard that is set by the British Standards Institution or primarily developed for use in the UK or part of the UK. In referring to UK standards, in-scope organisations must make it clear in the procurement documents that if they consider equivalent standards from overseas have been satisfied, this will be treated as having satisfied the UK standard.",
+      "ordinal": 118,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Define",
+        "Specifications"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00119",
+      "block_type": "p",
+      "text": "44. An example of a technical standard which might be relevant in major projects requiring steel is BES 6001. This enables construction product manufacturers to prove that their products have been produced with responsibly sourced materials. It provides a framework for governance, supply chain management and environmental and social management, and can be used by a manufacturer of any construction product that uses a foundation product – including steel. Certification of meeting the standard is provided by independent third-party bodies.",
+      "ordinal": 119,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Define",
+        "Specifications"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00120",
+      "block_type": "p",
+      "text": "45. For further information on technical specifications please refer to Procurement Act 2023 guidance on Technical Specifications .",
+      "ordinal": 120,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Define",
+        "Specifications"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00121",
+      "block_type": "heading",
+      "text": "Procure",
+      "ordinal": 121,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Procure"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00122",
+      "block_type": "heading",
+      "text": "Exclusions Grounds",
+      "ordinal": 122,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Procure",
+        "Exclusions Grounds"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00123",
+      "block_type": "p",
+      "text": "46. In-scope organisations must also consider if there is a basis to exclude a supplier from the procurement. Suppliers can be excluded, or in some cases must be excluded, where an exclusion ground applies to the supplier themselves or to their connected persons (such as directors and parent or subsidiary companies), associated persons (such as consortium members) or sub-contractors, and where the circumstances giving rise to that ground are continuing or likely to occur again. The exclusion grounds include offences and misconduct such as modern slavery, human trafficking and labour market offences, which are particularly relevant in the steel industry. Further detail is provided in the Procurement Act 2023 guidance on Exclusions .",
+      "ordinal": 123,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Procure",
+        "Exclusions Grounds"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00124",
+      "block_type": "heading",
+      "text": "Conditions of participation",
+      "ordinal": 124,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Procure",
+        "Conditions of participation"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00125",
+      "block_type": "p",
+      "text": "47. The Procurement Act 2023 allows contracting authorities to set conditions of participation in relation to a supplier’s technical ability to perform the contract, which a supplier must satisfy in order to be awarded a public contract. Any condition of participation set must be a proportionate means of ensuring the supplier’s ability, having regard to the nature, complexity and cost of the public contract.",
+      "ordinal": 125,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Procure",
+        "Conditions of participation"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00126",
+      "block_type": "p",
+      "text": "48. For projects/programmes involving a relevant steel procurement, health & safety and steel related questions in Part 3 of the Procurement Specific Questionnaire (PSQ) should be included where proportionate to do so. These questions will enable in-scope organisations to assess, as conditions of participation, matters relating to the supplier’s ability to manage its supply chain, deliver steel safely and ensure compliance with health and safety legislation.",
+      "ordinal": 126,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Procure",
+        "Conditions of participation"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00127",
+      "block_type": "p",
+      "text": "49. For works contracts, including the procurement of mixed contracts that include supplies and services, in-scope organisations can continue to make use of industry pre-qualification questionnaires such as the Common Assessment Standard (CAS) provided they meet the requirements of the Procurement Act 2023. It will be for individual in- scope organisations to ensure the questions used are proportionate to the contract being procured, do not break the rules on technical specifications in section 56 of the Act and permit the in-scope organisation to have regard to the procurement objectives in section 12 of the Act, including regard for barriers to SMEs.",
+      "ordinal": 127,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Procure",
+        "Conditions of participation"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00128",
+      "block_type": "p",
+      "text": "50. Additionally, where they are required to do so in accordance with the relevant PPN and subject to the instructions set out in each PPN, in-scope organisations should include conditions of participation relating to government policies on modern slavery (PPN 009), and carbon reduction (PPN 006).",
+      "ordinal": 128,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Procure",
+        "Conditions of participation"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00129",
+      "block_type": "p",
+      "text": "51. For further information refer to section 22 of the Procurement Act 2023 and guidance on Conditions of Participation .",
+      "ordinal": 129,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Procure",
+        "Conditions of participation"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00130",
+      "block_type": "heading",
+      "text": "Assessing tenders",
+      "ordinal": 130,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Procure",
+        "Assessing tenders"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00131",
+      "block_type": "p",
+      "text": "52. The government has been clear that it intends to drive wider value through public works projects and programmes, including the publication of the UK Infrastructure: A 10 Year Strategy which sets out the government’s long-term plan for economic, housing and social infrastructure to drive growth. Steel will often be a crucial element in the delivery of public infrastructure. Award criteria should be designed to reflect the central aims of the project. Tenders do not have to be awarded on the basis of lowest price/cost, or that price/cost must always take precedence over non price/cost factors. In addition, false economies, unhealthy markets, and poor quality infrastructure could result from a narrow focus on up-front capital cost.",
+      "ordinal": 131,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Procure",
+        "Assessing tenders"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00132",
+      "block_type": "heading",
+      "text": "Whole life costs",
+      "ordinal": 132,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Procure",
+        "Whole life costs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00133",
+      "block_type": "p",
+      "text": "53. When considering value for money, the key factor is the whole life cost, not the lowest purchase price. Whole life cost takes into account the total cost over the life of an asset, including capital, maintenance, management, operation and exit or decommissioning/disposal, and can be very different from the initial purchase price. In regard to steel, the resources required by the production process, and costs connected with environmental impacts, including the cost of emissions at the production plant and during transport, are likely to be relevant in determining the whole life cost of an asset.",
+      "ordinal": 133,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Procure",
+        "Whole life costs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00134",
+      "block_type": "p",
+      "text": "54. Having a clear understanding of the whole life costs and risks of delivering a project/ programme is best achieved by producing a Should Cost Model (SCM) (as referred to in the Construction Playbook). An SCM provides a forecast of what a project/programme ‘should’ cost over its whole life, including both the build phase and the expected design life. A Should Cost Modelling guidance note is available as part of the Sourcing Playbook guidance documents.",
+      "ordinal": 134,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Procure",
+        "Whole life costs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00135",
+      "block_type": "heading",
+      "text": "Quality",
+      "ordinal": 135,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Procure",
+        "Quality"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00136",
+      "block_type": "p",
+      "text": "55. In respect of quality, relevant criteria for projects/programmes requiring steel may cover:",
+      "ordinal": 136,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Procure",
+        "Quality"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00137",
+      "block_type": "li",
+      "text": "The cost/benefits of specialised niche solutions (e.g. design, weight, durability, adaptability for subsequent use), speed of response, service and responsiveness to changes, at all points in the life cycle of the product.",
+      "ordinal": 137,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Procure",
+        "Quality"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00138",
+      "block_type": "li",
+      "text": "Supply chain management (e.g. requiring a good, secure supply chain and management performance).",
+      "ordinal": 138,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Procure",
+        "Quality"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00139",
+      "block_type": "li",
+      "text": "The outcomes identified through the Social Value Model and any relevant priorities set out in the NPPS.",
+      "ordinal": 139,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Procure",
+        "Quality"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00140",
+      "block_type": "li",
+      "text": "Health and safety (requiring the same standards of health and safety throughout the supply chain, including steel production).",
+      "ordinal": 140,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Procure",
+        "Quality"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00141",
+      "block_type": "p",
+      "text": "56. For covered procurements, in-scope organisations are required to apply the Social Value Model.",
+      "ordinal": 141,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Procure",
+        "Quality"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00142",
+      "block_type": "p",
+      "text": "57. In-scope organisations may assess tenders against a wide range of factors to determine the best solution. These factors may include wider social, economic and environmental issues and benefits.",
+      "ordinal": 142,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Procure",
+        "Quality"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00143",
+      "block_type": "p",
+      "text": "58. Wider social, economic and environmental issues and benefits can be delivered anywhere in the supply chain and therefore preliminary market engagement activities should be used as an opportunity for in-scope organisations and contractors to understand how supply chain members (including steel manufacturers/fabricators), can contribute to the success of the overall bid, through the delivery of these wider outcomes.",
+      "ordinal": 143,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Procure",
+        "Quality"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00144",
+      "block_type": "p",
+      "text": "59. The award criteria, including the assessment methodology, evidence required, scoring system and proposed weightings should also have been pre-tested with the market to ensure they are reasonable and will not deter businesses, including SMEs, from bidding.",
+      "ordinal": 144,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Procure",
+        "Quality"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00145",
+      "block_type": "p",
+      "text": "60. Where the Social Value Model (PDF, 249KB) is applicable, a minimum weighting for social value of 10% of the overall score is mandated. Where absolute methodologies are used (for example Price per Quality Point (PQP) or Value for Money index) this will be 10% of the non-price criteria (overall quality score). For further guidance on setting award criteria and assessing tenders refer to relevant Procurement Act 2023 guidance on Assessing Competitive Tenders , Social Value Model (PDF, 249KB) , Construction Playbook, and the Sourcing Playbook Bid Evaluation Guidance Note .",
+      "ordinal": 145,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Procure",
+        "Quality"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00146",
+      "block_type": "heading",
+      "text": "Manage",
+      "ordinal": 146,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Manage"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00147",
+      "block_type": "heading",
+      "text": "Contract terms and conditions",
+      "ordinal": 147,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Manage",
+        "Contract terms and conditions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00148",
+      "block_type": "p",
+      "text": "61. Choosing the right terms and conditions of contract is essential for government and public sector buyers to achieve best value. These should not be burdensome and should be proportionate to the value and risk of the procurement.",
+      "ordinal": 148,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Manage",
+        "Contract terms and conditions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00149",
+      "block_type": "p",
+      "text": "62. In-scope organisations should ensure the contract includes any obligations that the contractor, its subcontractors and other supply chain members are required to meet. This includes (but is not restricted to) terms and conditions which:",
+      "ordinal": 149,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Manage",
+        "Contract terms and conditions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00150",
+      "block_type": "li",
+      "text": "Require the contractor and its subcontractors to consult UK Steel’s Digital Catalogue prior to making design or procurement decisions involving steel (refer to ‘Preliminary Market Engagement’ above and attached example clause).",
+      "ordinal": 150,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Manage",
+        "Contract terms and conditions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00151",
+      "block_type": "li",
+      "text": "Give the in-scope organisation the right to terminate if the contractor fails to comply with obligations in respect of environmental, social, or employment law.",
+      "ordinal": 151,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Manage",
+        "Contract terms and conditions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00152",
+      "block_type": "li",
+      "text": "Require the contractor to include in its subcontracts the right for the contractor to terminate the subcontract for the subcontractor’s failure to comply with environmental, social, or employment law.",
+      "ordinal": 152,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Manage",
+        "Contract terms and conditions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00153",
+      "block_type": "li",
+      "text": "Require the contractor to exercise due skill and care when it selects and appoints subcontractors.",
+      "ordinal": 153,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Manage",
+        "Contract terms and conditions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00154",
+      "block_type": "li",
+      "text": "Give the in-scope organisation the option to approve new subcontractors.",
+      "ordinal": 154,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Manage",
+        "Contract terms and conditions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00155",
+      "block_type": "li",
+      "text": "Give the in-scope organisation the right to require the replacement of a subcontractor where the subcontractor becomes an excluded or excludable supplier; and the right to terminate the contract where a replacement is not provided (as long as such terms are consistent with section 78 of the Procurement Act 2023).",
+      "ordinal": 155,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Manage",
+        "Contract terms and conditions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00156",
+      "block_type": "li",
+      "text": "Require the contractor to pay its subcontractors within 30 days of receipt of a valid, undisputed invoice.",
+      "ordinal": 156,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Manage",
+        "Contract terms and conditions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00157",
+      "block_type": "li",
+      "text": "Where necessary, require the contractor to cascade any relevant terms and conditions through its supply chain and monitor performance and compliance with those conditions.",
+      "ordinal": 157,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Manage",
+        "Contract terms and conditions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00158",
+      "block_type": "li",
+      "text": "Give the in-scope organisation the option to require data from the contractor and its subcontractors (refer to ‘Monitoring and compliance’ below and attached example clause).",
+      "ordinal": 158,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Manage",
+        "Contract terms and conditions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00159",
+      "block_type": "p",
+      "text": "63. Such terms and conditions will help in-scope organisations to ensure that excluded or excludable steel suppliers are not present in the supply chain, that contractors and their subcontractors are appropriately informed on market capability and capacity, that steel data requirements are met and that steel suppliers in the supply chain are paid in full and on time.",
+      "ordinal": 159,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Manage",
+        "Contract terms and conditions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00160",
+      "block_type": "p",
+      "text": "64. Model forms of contract for construction, suitable for varying levels of value and complexity are referenced in the Construction Playbook. These can be amended as necessary in accordance with the relevant model form.",
+      "ordinal": 160,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Manage",
+        "Contract terms and conditions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00161",
+      "block_type": "heading",
+      "text": "Contract performance",
+      "ordinal": 161,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Manage",
+        "Contract performance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00162",
+      "block_type": "p",
+      "text": "65. Contractual KPIs and service levels are used to measure progress and performance of suppliers in the delivery phases of a project/programme. The contractor’s performance against KPIs and service levels may be impacted by the performance of its supply chain and contractors should therefore cascade KPIs and service levels down the supply chain where appropriate.",
+      "ordinal": 162,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Manage",
+        "Contract performance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00163",
+      "block_type": "p",
+      "text": "66. KPIs should drive both a focus on outcomes and continuous improvement (aligning with the Social Value Model where appropriate) and the intended benefits to be realised during contract delivery.",
+      "ordinal": 163,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Manage",
+        "Contract performance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00164",
+      "block_type": "p",
+      "text": "67. Contract terms and conditions should require the contractor to cascade actively managed performance management reviews down the steel supply chain.",
+      "ordinal": 164,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Manage",
+        "Contract performance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00165",
+      "block_type": "p",
+      "text": "68. Further guidance on setting and assessing KPIs and social value KPIs can be found in the Procurement Act 2023 guidance on Key Performance Indicators , Construction Playbook and the PPN 002 Guide to using the Social Value Model (PDF, 381KB) .",
+      "ordinal": 165,
+      "heading_path": [
+        "Introduction",
+        "Key considerations through the commercial lifecycle",
+        "Manage",
+        "Contract performance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00166",
+      "block_type": "heading",
+      "text": "Frameworks",
+      "ordinal": 166,
+      "heading_path": [
+        "Introduction",
+        "Frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00167",
+      "block_type": "p",
+      "text": "69. This guidance also applies to covered procurements establishing frameworks under the Procurement Act 2023. This guidance applies only as appropriate for call-off contracts, for example, effective contract management of call-off contracts is important to ensure that contractual obligations, including those in relation to steel, are being met. In-scope organisations should refer to the relevant policy, tool or methodology for specific guidance on their application to frameworks and contracts awarded in accordance with a framework agreement.",
+      "ordinal": 167,
+      "heading_path": [
+        "Introduction",
+        "Frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00168",
+      "block_type": "heading",
+      "text": "Monitoring and compliance",
+      "ordinal": 168,
+      "heading_path": [
+        "Introduction",
+        "Frameworks",
+        "Monitoring and compliance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00169",
+      "block_type": "p",
+      "text": "70. In-scope organisations are required to provide an annual steel data return [footnote 6] to the Department for Business and Trade (DBT), which is collated and published on Gov.uk",
+      "ordinal": 169,
+      "heading_path": [
+        "Introduction",
+        "Frameworks",
+        "Monitoring and compliance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00170",
+      "block_type": "p",
+      "text": "71. The reporting requirement consists of data on two elements:",
+      "ordinal": 170,
+      "heading_path": [
+        "Introduction",
+        "Frameworks",
+        "Monitoring and compliance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00171",
+      "block_type": "p",
+      "text": "b) Pipelines of projected demand for steel procurement for future projects and programmes.",
+      "ordinal": 171,
+      "heading_path": [
+        "Introduction",
+        "Frameworks",
+        "Monitoring and compliance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00172",
+      "block_type": "p",
+      "text": "c) Actuals data on steel procured in the previous financial year, including:",
+      "ordinal": 172,
+      "heading_path": [
+        "Introduction",
+        "Frameworks",
+        "Monitoring and compliance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00173",
+      "block_type": "li",
+      "text": "How much steel they have procured (directly or indirectly) over the previous financial year.",
+      "ordinal": 173,
+      "heading_path": [
+        "Introduction",
+        "Frameworks",
+        "Monitoring and compliance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00174",
+      "block_type": "li",
+      "text": "The steel product type.",
+      "ordinal": 174,
+      "heading_path": [
+        "Introduction",
+        "Frameworks",
+        "Monitoring and compliance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00175",
+      "block_type": "li",
+      "text": "The origin of the procured steel.",
+      "ordinal": 175,
+      "heading_path": [
+        "Introduction",
+        "Frameworks",
+        "Monitoring and compliance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00176",
+      "block_type": "li",
+      "text": "How they have applied steel public procurement guidance.",
+      "ordinal": 176,
+      "heading_path": [
+        "Introduction",
+        "Frameworks",
+        "Monitoring and compliance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00177",
+      "block_type": "p",
+      "text": "72. In relation to element b), the requirement applies to projects/programmes:",
+      "ordinal": 177,
+      "heading_path": [
+        "Introduction",
+        "Frameworks",
+        "Monitoring and compliance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00178",
+      "block_type": "li",
+      "text": "With a value of £10 million or more; or",
+      "ordinal": 178,
+      "heading_path": [
+        "Introduction",
+        "Frameworks",
+        "Monitoring and compliance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00179",
+      "block_type": "li",
+      "text": "Where it is anticipated that the project/programme will require in excess of 500 tonnes of steel.",
+      "ordinal": 179,
+      "heading_path": [
+        "Introduction",
+        "Frameworks",
+        "Monitoring and compliance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00180",
+      "block_type": "heading",
+      "text": "Origin of the procured steel",
+      "ordinal": 180,
+      "heading_path": [
+        "Introduction",
+        "Frameworks",
+        "Monitoring and compliance",
+        "Origin of the procured steel"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00181",
+      "block_type": "p",
+      "text": "73. This data should be recorded as set out in the Inspection Certificate (EN10204 Type 3.1) and contractors should indicate whether the origin stated is also recorded in the certificate as where the steel was melted and poured. There may be some variations in the exact wording used in the certificate concerning melted and poured location. ‘Melted and poured in (name of country)’, ‘Melt and pour location (name of country)’, or ‘Melted, poured and manufactured in (name of country)’ are all acceptable – as is any phrase which clearly conveys where the steel was melted and poured. If the melted and poured location wording is not found on test certificates provided with steel purchased, contractors are not expected to investigate origin further. From 2023, the UK’s steel producers will include on test certificates a clear indication of whether the steel was melted and poured in the UK.",
+      "ordinal": 181,
+      "heading_path": [
+        "Introduction",
+        "Frameworks",
+        "Monitoring and compliance",
+        "Origin of the procured steel"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00182",
+      "block_type": "heading",
+      "text": "Steel product type",
+      "ordinal": 182,
+      "heading_path": [
+        "Introduction",
+        "Frameworks",
+        "Monitoring and compliance",
+        "Steel product type"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00183",
+      "block_type": "p",
+      "text": "74. The steel product type data requirement is the description of the steel purchased under one of the product headings below (e.g. flat rolled steel products, steel plate etc.). Other product headings not included in this list are not within the scope of the requirement. However, the specific product examples under each product heading, are for guidance only and do not represent an exhaustive list:",
+      "ordinal": 183,
+      "heading_path": [
+        "Introduction",
+        "Frameworks",
+        "Monitoring and compliance",
+        "Steel product type"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00184",
+      "block_type": "li",
+      "text": "Flat rolled steel products: Products commonly referred to as hot and cold rolled coil, sheet, and strip, including those clad, plated, and galvanised. This will include products such as coated steel building panels, tinmill steel, or corrugated sheeting.",
+      "ordinal": 184,
+      "heading_path": [
+        "Introduction",
+        "Frameworks",
+        "Monitoring and compliance",
+        "Steel product type"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00185",
+      "block_type": "li",
+      "text": "Steel plate: Products often referred to as heavy or quarto plate, and typically of flat rolled steels exceeding 10mm in thickness.",
+      "ordinal": 185,
+      "heading_path": [
+        "Introduction",
+        "Frameworks",
+        "Monitoring and compliance",
+        "Steel product type"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00186",
+      "block_type": "li",
+      "text": "Sections and shapes: Products commonly referred to as beams, columns, bearing piles, flange channels, bulb flats and angles.",
+      "ordinal": 186,
+      "heading_path": [
+        "Introduction",
+        "Frameworks",
+        "Monitoring and compliance",
+        "Steel product type"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00187",
+      "block_type": "li",
+      "text": "Reinforcing bar: Products commonly referred to as rebar, whether in rod, coils, or products suitable for mesh.",
+      "ordinal": 187,
+      "heading_path": [
+        "Introduction",
+        "Frameworks",
+        "Monitoring and compliance",
+        "Steel product type"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00188",
+      "block_type": "li",
+      "text": "Other bars and rods: Wide range of other steel mill products commonly referred to as wire rod, merchant bar, bright bar, black bar.",
+      "ordinal": 188,
+      "heading_path": [
+        "Introduction",
+        "Frameworks",
+        "Monitoring and compliance",
+        "Steel product type"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00189",
+      "block_type": "li",
+      "text": "Tubes/pipes/hollow sections: Steel products commonly referred to as hollow sections/profiles, welded tube, seamless tube, pipes, and hollow sections.",
+      "ordinal": 189,
+      "heading_path": [
+        "Introduction",
+        "Frameworks",
+        "Monitoring and compliance",
+        "Steel product type"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00190",
+      "block_type": "li",
+      "text": "Wire: steel products commonly referred to as wire or strand, produced though the drawing of rod to produce wire of varying diameters. This would include construction products such as pre-stressed wire, and those coated and plated.",
+      "ordinal": 190,
+      "heading_path": [
+        "Introduction",
+        "Frameworks",
+        "Monitoring and compliance",
+        "Steel product type"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00191",
+      "block_type": "li",
+      "text": "Rail: Railway or tramway track construction material of iron or steel, including grooved rail. (Note: This would not include products such as switch blades, point rods, sleepers, rail clips, crossing frogs.)",
+      "ordinal": 191,
+      "heading_path": [
+        "Introduction",
+        "Frameworks",
+        "Monitoring and compliance",
+        "Steel product type"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00192",
+      "block_type": "li",
+      "text": "Sheet piling: Sheet piling made from assembled elements; welded angles, shapes, and sections.",
+      "ordinal": 192,
+      "heading_path": [
+        "Introduction",
+        "Frameworks",
+        "Monitoring and compliance",
+        "Steel product type"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00193",
+      "block_type": "p",
+      "text": "75. These product headings refer to those steel products made either from non-alloy or alloy/stainless steel. Broadly speaking they are categorised under the harmonised tariff codes system as headings 7208 through to 7306.",
+      "ordinal": 193,
+      "heading_path": [
+        "Introduction",
+        "Frameworks",
+        "Monitoring and compliance",
+        "Steel product type"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00194",
+      "block_type": "p",
+      "text": "76. The reporting requirements have been designed to capture ‘steel products’ for public projects, as opposed to ‘steel containing products’ such as screws, or steel containers. For example, if a contractor or subcontractor purchases fabricated steel containers to fulfil its public contract it would not be expected to report on the origin of the steel used to make those containers. Conversely, if it purchases steel sections to make a fabricated steel structure for supply into a public project, they should report on the origin of the steel sections.",
+      "ordinal": 194,
+      "heading_path": [
+        "Introduction",
+        "Frameworks",
+        "Monitoring and compliance",
+        "Steel product type"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00195",
+      "block_type": "heading",
+      "text": "Contractual provisions and reporting arrangements",
+      "ordinal": 195,
+      "heading_path": [
+        "Introduction",
+        "Frameworks",
+        "Monitoring and compliance",
+        "Contractual provisions and reporting arrangements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00196",
+      "block_type": "p",
+      "text": "77. For element (b) data, in-scope organisations should ensure that there are provisions within their contractual terms and conditions requiring suppliers to provide the relevant data. An example clause is attached. It is advisable that subcontractors are made aware of this requirement early in the procurement process, and that they are encouraged to record the origin information at the time of delivery ‘on-site’. The data should be submitted no later than 10 weeks after the end of the financial year by the contractor to the relevant in-scope organisation. These returns will then be consolidated by the in-scope organisation into their annual steel data return to DBT. Where the in-scope organisation is an executive agency or a non departmental public body, their data should be submitted to their parent department who is responsible for collating and submitting the data return to DBT. For example, the Environment Agency would submit their data to the Department for Environment, Food & Rural Affairs who would consolidate the data and submit it to DBT. A standardised template for data returns is provided. In-scope organisations should familiarise themselves with the template to ensure that the correct data requirements can be provided in their annual return.",
+      "ordinal": 196,
+      "heading_path": [
+        "Introduction",
+        "Frameworks",
+        "Monitoring and compliance",
+        "Contractual provisions and reporting arrangements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00197",
+      "block_type": "heading",
+      "text": "Contact",
+      "ordinal": 197,
+      "heading_path": [
+        "Introduction",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00198",
+      "block_type": "p",
+      "text": "78. For questions relating to this PPN and guidance, in the first instance please refer to the FAQs. Any other queries should be directed to the Government Commercial Agency helpdesk on 0345 410 2222 or info@gca.gov.uk .",
+      "ordinal": 198,
+      "heading_path": [
+        "Introduction",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00199",
+      "block_type": "heading",
+      "text": "Annex: Summary of Project Appraisal and Commercial Policy, Tools and Methodologies",
+      "ordinal": 199,
+      "heading_path": [
+        "Introduction",
+        "Annex: Summary of Project Appraisal and Commercial Policy, Tools and Methodologies"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00200",
+      "block_type": "heading",
+      "text": "Green Book",
+      "ordinal": 200,
+      "heading_path": [
+        "Introduction",
+        "Green Book"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00201",
+      "block_type": "p",
+      "text": "The Green Book is the government’s guidance on options appraisal and applies to all proposals that concern public spending, taxation, changes to regulations, and changes to the use of existing public assets and resources. It supports the design and appraisal of proposals that both achieve government policy objectives and deliver social value.",
+      "ordinal": 201,
+      "heading_path": [
+        "Introduction",
+        "Green Book"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00202",
+      "block_type": "p",
+      "text": "The Green Book supports the five case model, which is the government’s recommended framework for developing business cases including for infrastructure projects that require steel. It is also supported by supplementary guidance that addresses appraisal issues relevant to specific policies. This includes the Project/Programme Outcome Profile (see below).",
+      "ordinal": 202,
+      "heading_path": [
+        "Introduction",
+        "Green Book"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00203",
+      "block_type": "heading",
+      "text": "National Procurement Policy Statement",
+      "ordinal": 203,
+      "heading_path": [
+        "Introduction",
+        "National Procurement Policy Statement"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00204",
+      "block_type": "p",
+      "text": "The National Procurement Policy Statement sets out the strategic priorities for public procurement that contracting authorities must have regard to when carrying out a procurement. The national priorities relate to value for money, social value, small and medium-sized enterprises, commercial and procurement delivery, and skills and capability for procurement.",
+      "ordinal": 204,
+      "heading_path": [
+        "Introduction",
+        "National Procurement Policy Statement"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00205",
+      "block_type": "p",
+      "text": "Social Value Model: In 2020 the government launched a model to deliver social value through the government’s commercial activities. For covered procurements under the Procurement Act 2023 (exemptions may apply), in-scope organisations are required to use the updated model to take account of the additional social benefits that can be achieved in the delivery of their contracts, using policy outcomes aligned with the government’s missions. The model provides award criteria that can allow in-scope organisations to conduct robust assessments of quality, wider public policy delivery and whole-life value. Refer to the ‘Assessing Tenders’ section of this guidance for further information on how to apply the social value model in the supply chain.",
+      "ordinal": 205,
+      "heading_path": [
+        "Introduction",
+        "National Procurement Policy Statement"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00206",
+      "block_type": "heading",
+      "text": "Construction Playbook",
+      "ordinal": 206,
+      "heading_path": [
+        "Introduction",
+        "Construction Playbook"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00207",
+      "block_type": "p",
+      "text": "Originally published in 2020, the Construction Playbook captures commercial best practices and specific sector reforms outlining the government’s expectations of how contracting authorities and suppliers, including the supply chain, should engage with each other. These are set out across a range of key policies relating to how the government should assess, procure and deliver public works projects and programmes. Together, these policies drive better, faster, greener delivery and will provide greater transparency about what is constructed and how, in terms of material and product origin and performance, carbon emissions and sustainability.",
+      "ordinal": 207,
+      "heading_path": [
+        "Introduction",
+        "Construction Playbook"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00208",
+      "block_type": "li",
+      "text": "The Catalogue is compiled by UK Steel and as such the Cabinet Office is not responsible for the accuracy of the information it contains, nor for its ongoing availability. Nothing in the Catalogue removes an in-scope organisation’s requirement to comply with any legal obligations and in particular the obligation not to discriminate against treaty state suppliers or to treat suppliers differently without justification. ↩",
+      "ordinal": 208,
+      "heading_path": [
+        "Introduction",
+        "Construction Playbook"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00209",
+      "block_type": "p",
+      "text": "The Catalogue is compiled by UK Steel and as such the Cabinet Office is not responsible for the accuracy of the information it contains, nor for its ongoing availability. Nothing in the Catalogue removes an in-scope organisation’s requirement to comply with any legal obligations and in particular the obligation not to discriminate against treaty state suppliers or to treat suppliers differently without justification. ↩",
+      "ordinal": 209,
+      "heading_path": [
+        "Introduction",
+        "Construction Playbook"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00210",
+      "block_type": "li",
+      "text": "For procurements conducted under the Public Contracts Regulations, 2015 refer to PPN 06/20 ↩",
+      "ordinal": 210,
+      "heading_path": [
+        "Introduction",
+        "Construction Playbook"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00211",
+      "block_type": "p",
+      "text": "For procurements conducted under the Public Contracts Regulations, 2015 refer to PPN 06/20 ↩",
+      "ordinal": 211,
+      "heading_path": [
+        "Introduction",
+        "Construction Playbook"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00212",
+      "block_type": "li",
+      "text": "Contracting authorities should indicate the expected origin of the steel as set out in the Inspection Certificate (EN10204 Type 3.1) – which will accompany the steel when purchased. ↩",
+      "ordinal": 212,
+      "heading_path": [
+        "Introduction",
+        "Construction Playbook"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00213",
+      "block_type": "p",
+      "text": "Contracting authorities should indicate the expected origin of the steel as set out in the Inspection Certificate (EN10204 Type 3.1) – which will accompany the steel when purchased. ↩",
+      "ordinal": 213,
+      "heading_path": [
+        "Introduction",
+        "Construction Playbook"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00214",
+      "block_type": "li",
+      "text": "This applies to domestic projects/programmes only. ↩",
+      "ordinal": 214,
+      "heading_path": [
+        "Introduction",
+        "Construction Playbook"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00215",
+      "block_type": "p",
+      "text": "This applies to domestic projects/programmes only. ↩",
+      "ordinal": 215,
+      "heading_path": [
+        "Introduction",
+        "Construction Playbook"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "Industrial Strategy",
+      "href": "https://www.gov.uk/government/publications/industrial-strategy",
+      "block_id": "b00002",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "UK Steel’s Digital Catalogue",
+      "href": "https://catalogue.uksteel.org/",
+      "block_id": "b00003",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "[footnote 1]",
+      "href": "https://www.gov.uk/government/publications/ppn-022-procuring-steel-in-government-contracts/ppn-022-guidance-on-procuring-steel-in-government-contracts-html#fn:1",
+      "block_id": "b00003",
+      "ordinal": 2,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Green Book",
+      "href": "https://www.gov.uk/government/collections/the-green-book-and-accompanying-guidance-and-documents",
+      "block_id": "b00022",
+      "ordinal": 3,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "National Procurement Policy Statement",
+      "href": "https://www.gov.uk/government/publications/national-procurement-policy-statement",
+      "block_id": "b00022",
+      "ordinal": 4,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Social Value Model (PPN 002)",
+      "href": "https://www.gov.uk/government/publications/ppn-002-taking-account-of-social-value-in-the-award-of-contracts",
+      "block_id": "b00022",
+      "ordinal": 5,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Construction",
+      "href": "https://www.gov.uk/government/publications/the-construction-playbook",
+      "block_id": "b00022",
+      "ordinal": 6,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Playbook",
+      "href": "https://www.gov.uk/government/publications/the-construction-playbook",
+      "block_id": "b00022",
+      "ordinal": 7,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "[footnote 2]",
+      "href": "https://www.gov.uk/government/publications/ppn-022-procuring-steel-in-government-contracts/ppn-022-guidance-on-procuring-steel-in-government-contracts-html#fn:2",
+      "block_id": "b00023",
+      "ordinal": 8,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 3]",
+      "href": "https://www.gov.uk/government/publications/ppn-022-procuring-steel-in-government-contracts/ppn-022-guidance-on-procuring-steel-in-government-contracts-html#fn:3",
+      "block_id": "b00043",
+      "ordinal": 9,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Procurement Act 2023 guidance",
+      "href": "https://www.gov.uk/government/collections/procurement-act-2023-guidance-documents",
+      "block_id": "b00054",
+      "ordinal": 10,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "pipeline",
+      "href": "https://www.gov.uk/government/collections/steel-public-procurement",
+      "block_id": "b00058",
+      "ordinal": 11,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Green Book",
+      "href": "https://www.gov.uk/government/collections/the-green-book-and-accompanying-guidance-and-documents",
+      "block_id": "b00060",
+      "ordinal": 12,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "National Procurement Policy Statement",
+      "href": "https://www.gov.uk/government/publications/national-procurement-policy-statement",
+      "block_id": "b00070",
+      "ordinal": 13,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Tackling Modern Slavery in Government Supply Chains",
+      "href": "https://www.gov.uk/government/publications/ppn-009-tackling-modern-slavery-in-government-supply-chains",
+      "block_id": "b00072",
+      "ordinal": 14,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "PPN 025: Protecting the UK’s national security through public procurement",
+      "href": "https://www.gov.uk/government/publications/ppn-025-protecting-the-uks-national-security-through-public-procurement",
+      "block_id": "b00079",
+      "ordinal": 15,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Preliminary Market Engagement Guidance",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase",
+      "block_id": "b00107",
+      "ordinal": 16,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Construction Playbook",
+      "href": "https://www.gov.uk/government/publications/the-construction-playbook",
+      "block_id": "b00107",
+      "ordinal": 17,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Guidance Note",
+      "href": "https://www.gov.uk/government/publications/the-construction-playbook",
+      "block_id": "b00107",
+      "ordinal": 18,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Technical Specifications",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase",
+      "block_id": "b00120",
+      "ordinal": 19,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Exclusions",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase",
+      "block_id": "b00123",
+      "ordinal": 20,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Conditions of Participation",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase",
+      "block_id": "b00129",
+      "ordinal": 21,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "UK Infrastructure: A 10 Year Strategy",
+      "href": "https://www.gov.uk/government/publications/uk-infrastructure-a-10-year-strategy",
+      "block_id": "b00131",
+      "ordinal": 22,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Should Cost Modelling guidance note",
+      "href": "https://www.gov.uk/government/publications/the-sourcing-and-consultancy-playbooks",
+      "block_id": "b00134",
+      "ordinal": 23,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Social Value Model (PDF, 249KB)",
+      "href": "https://assets.publishing.service.gov.uk/media/67ae1529e270ceae39f9e1a0/2025-02-11_PPN_002_The_social_value_model.docx.pdf",
+      "block_id": "b00145",
+      "ordinal": 24,
+      "link_type": "ATTACHMENT"
+    },
+    {
+      "text": "Assessing Competitive Tenders",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase",
+      "block_id": "b00145",
+      "ordinal": 25,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Social Value Model (PDF, 249KB)",
+      "href": "https://assets.publishing.service.gov.uk/media/67ae1529e270ceae39f9e1a0/2025-02-11_PPN_002_The_social_value_model.docx.pdf",
+      "block_id": "b00145",
+      "ordinal": 26,
+      "link_type": "ATTACHMENT"
+    },
+    {
+      "text": "Bid Evaluation Guidance Note",
+      "href": "https://www.gov.uk/government/publications/the-sourcing-and-consultancy-playbooks",
+      "block_id": "b00145",
+      "ordinal": 27,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Key Performance Indicators",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase",
+      "block_id": "b00165",
+      "ordinal": 28,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Construction Playbook",
+      "href": "https://www.gov.uk/government/publications/the-construction-playbook",
+      "block_id": "b00165",
+      "ordinal": 29,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "PPN 002 Guide to using the Social Value Model (PDF, 381KB)",
+      "href": "https://assets.publishing.service.gov.uk/media/67c8206b2ecc810ad1fc656b/2025-02-08_PPN_002_Guide_to_using_the_social_value_model.docx__3_.pdf",
+      "block_id": "b00165",
+      "ordinal": 30,
+      "link_type": "ATTACHMENT"
+    },
+    {
+      "text": "[footnote 6]",
+      "href": "https://www.gov.uk/government/publications/ppn-022-procuring-steel-in-government-contracts/ppn-022-guidance-on-procuring-steel-in-government-contracts-html#fn:6",
+      "block_id": "b00169",
+      "ordinal": 31,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "info@gca.gov.uk",
+      "href": "mailto:info@gca.gov.uk",
+      "block_id": "b00198",
+      "ordinal": 32,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "Green Book",
+      "href": "https://www.gov.uk/government/collections/the-green-book-and-accompanying-guidance-and-documents",
+      "block_id": "b00201",
+      "ordinal": 33,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "National Procurement Policy Statement",
+      "href": "https://www.gov.uk/government/publications/national-procurement-policy-statement",
+      "block_id": "b00204",
+      "ordinal": 34,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Construction Playbook",
+      "href": "https://www.gov.uk/government/publications/the-construction-playbook",
+      "block_id": "b00207",
+      "ordinal": 35,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-022-procuring-steel-in-government-contracts/ppn-022-guidance-on-procuring-steel-in-government-contracts-html#fnref:1",
+      "block_id": "b00208",
+      "ordinal": 36,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-022-procuring-steel-in-government-contracts/ppn-022-guidance-on-procuring-steel-in-government-contracts-html#fnref:1",
+      "block_id": "b00209",
+      "ordinal": 37,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-022-procuring-steel-in-government-contracts/ppn-022-guidance-on-procuring-steel-in-government-contracts-html#fnref:2",
+      "block_id": "b00210",
+      "ordinal": 38,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-022-procuring-steel-in-government-contracts/ppn-022-guidance-on-procuring-steel-in-government-contracts-html#fnref:2",
+      "block_id": "b00211",
+      "ordinal": 39,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-022-procuring-steel-in-government-contracts/ppn-022-guidance-on-procuring-steel-in-government-contracts-html#fnref:3",
+      "block_id": "b00212",
+      "ordinal": 40,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-022-procuring-steel-in-government-contracts/ppn-022-guidance-on-procuring-steel-in-government-contracts-html#fnref:3",
+      "block_id": "b00213",
+      "ordinal": 41,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-022-procuring-steel-in-government-contracts/ppn-022-guidance-on-procuring-steel-in-government-contracts-html#fnref:6",
+      "block_id": "b00214",
+      "ordinal": 42,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-022-procuring-steel-in-government-contracts/ppn-022-guidance-on-procuring-steel-in-government-contracts-html#fnref:6",
+      "block_id": "b00215",
+      "ordinal": 43,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "PPN 022: Guidance on Procuring Steel in Government Contracts (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-022-procuring-steel-in-government-contracts/ppn-022-guidance-on-procuring-steel-in-government-contracts-html",
+      "block_id": "__document__",
+      "ordinal": 44,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2024 to 2026 Starmer Labour government",
+      "href": "https://www.gov.uk/government/2024-starmer-labour-government",
+      "block_id": "__document__",
+      "ordinal": 45,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 46,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "PPN 022: Procuring steel in government contracts",
+      "href": "https://www.gov.uk/government/publications/ppn-022-procuring-steel-in-government-contracts",
+      "block_id": "__document__",
+      "ordinal": 47,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 48,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 13",
+      "block_id": "b00007",
+      "start": 281,
+      "end": 293,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "13"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 2",
+      "block_id": "b00011",
+      "start": 226,
+      "end": 236,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "2"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 2",
+      "block_id": "b00027",
+      "start": 50,
+      "end": 60,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "2"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 13",
+      "block_id": "b00070",
+      "start": 90,
+      "end": 100,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "13"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 2",
+      "block_id": "b00078",
+      "start": 20,
+      "end": 30,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "2"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "Paragraph 25",
+      "block_id": "b00078",
+      "start": 4,
+      "end": 16,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "25"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 56",
+      "block_id": "b00127",
+      "start": 492,
+      "end": 502,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "56"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 12",
+      "block_id": "b00127",
+      "start": 599,
+      "end": 609,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "12"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 22",
+      "block_id": "b00129",
+      "start": 37,
+      "end": 47,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "22"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 78",
+      "block_id": "b00155",
+      "start": 274,
+      "end": 284,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "78"
+      }
+    }
+  ],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/67ae1529e270ceae39f9e1a0/2025-02-11_PPN_002_The_social_value_model.docx.pdf",
+      "title": "Social Value Model (PDF, 249KB)",
+      "discovered_in_block": "b00145"
+    },
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/67c8206b2ecc810ad1fc656b/2025-02-08_PPN_002_Guide_to_using_the_social_value_model.docx__3_.pdf",
+      "title": "PPN 002 Guide to using the Social Value Model (PDF, 381KB)",
+      "discovered_in_block": "b00165"
+    }
+  ],
+  "warnings": []
+}

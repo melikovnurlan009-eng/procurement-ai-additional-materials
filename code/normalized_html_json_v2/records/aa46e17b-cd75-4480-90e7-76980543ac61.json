@@ -1,0 +1,676 @@
+{
+  "document_id": "aa46e17b-cd75-4480-90e7-76980543ac61",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/2413fd65ec2fb2a5878c2e3a.json",
+  "input_sha256": "56cbd0b9af70da273c0f7143be892cfe957d2cd66fe56f41cbd9d481b435a1ba",
+  "processed_at": "2026-08-27T02:26:07.724292+00:00",
+  "title": "PPN 016: Carbon reduction contract schedule (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/ppn-016-carbon-reduction-contract-schedule/ppn-016-carbon-reduction-contract-schedule-html",
+  "description": null,
+  "publication_date": "2025-02-17T14:45:19+00:00",
+  "updated_date": "2025-02-17T00:00:00+00:00",
+  "source_metadata": {
+    "content_id": "aa46e17b-cd75-4480-90e7-76980543ac61",
+    "base_path": "/government/publications/ppn-016-carbon-reduction-contract-schedule/ppn-016-carbon-reduction-contract-schedule-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Issue",
+      "ordinal": 3,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Dissemination and scope",
+      "ordinal": 6,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Timing",
+      "ordinal": 13,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Action",
+      "ordinal": 15,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Background",
+      "ordinal": 25,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Contact",
+      "ordinal": 30,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "Action Note: 016",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "Previously issued: March 2024",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "Updated: February 2025",
+      "ordinal": 2,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "heading",
+      "text": "Issue",
+      "ordinal": 3,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "1. In 2019, the UK government amended the Climate Change Act 2008 by introducing a target of at least a 100% reduction in the net UK territorial carbon account by 2050. This is otherwise known as the ‘net zero’ target. As environmental and greenhouse gas (GHG) emissions considerations feature in the aspects of delivery of most public contracts, there are opportunities for in-scope organisations to take steps to support the net zero commitment and reduce GHG emissions through public procurement.",
+      "ordinal": 4,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "2. Cabinet Office has developed a standard carbon reduction contract schedule which contains standard terms and conditions (T&Cs) that are intended to be considered alongside broader sustainability obligations and included, where relevant to the subject matter and proportionate, in government contracts.",
+      "ordinal": 5,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "heading",
+      "text": "Dissemination and scope",
+      "ordinal": 6,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "3. The contents of this Procurement Policy Note (PPN) apply to all central government departments, their executive agencies and non-departmental public bodies and are referred to in this PPN as ‘in-scope organisations’.",
+      "ordinal": 7,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "4. Please circulate this PPN within your organisation, particularly to those with a commercial procurement and/or contract management role. It may also be relevant to those in finance, operational and sustainability roles.",
+      "ordinal": 8,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "5. Other public sector contracting authorities may wish to apply the approach set out in this PPN.",
+      "ordinal": 9,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "p",
+      "text": "6. This PPN has been updated to reflect new terminology introduced by the Procurement Act 2023 and the Procurement Regulations 2024. The Procurement Act 2023 and the Procurement Regulations 2024 apply to procurements commenced on or after 24 February 2025. For more detail on the meaning of ‘commenced’ please refer to the Procurement Act 2023 Guidance on Transitional and Savings Arrangements.",
+      "ordinal": 10,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "7. The Procurement Act 2023 does not apply to procurements commenced before 24 February 2025 or to contracts awarded prior to this date (including via framework agreements, dynamic purchasing systems or qualification systems established under the previous legislation). For procurements commenced and contracts awarded before this date, please refer to PPN 01/24.",
+      "ordinal": 11,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "8. This update does not constitute a change in policy or a new call for action, but in-scope organisations should continue to apply any ongoing obligations set out in the provisions of this PPN.",
+      "ordinal": 12,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "heading",
+      "text": "Timing",
+      "ordinal": 13,
+      "heading_path": [
+        "Issue",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "9. In-scope organisations should note the provisions of this PPN from 24 February 2025.",
+      "ordinal": 14,
+      "heading_path": [
+        "Issue",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "heading",
+      "text": "Action",
+      "ordinal": 15,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "10. The carbon reduction schedule published alongside this PPN provides standard T&Cs to support contract specific decarbonisation objectives to be set and delivered and provides a framework to monitor and assess the supplier’s decarbonisation performance. These include contract specific GHG emissions reporting, setting supplier GHG emissions reduction targets and monitoring and reducing GHG emissions throughout the life of the contract through a supplier Carbon Reduction Plan.",
+      "ordinal": 16,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "11. Use of the carbon reduction schedule is optional but should be included where relevant to the subject matter of the contract and proportionate to do so. It may not be appropriate to include the carbon reduction schedule in all contracts.",
+      "ordinal": 17,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "p",
+      "text": "12. Before including the carbon reduction schedule in a contract, in-scope organisations should assess:",
+      "ordinal": 18,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "li",
+      "text": "their understanding (i.e. maturity) of carbon reduction initiatives and how to apply and monitor these",
+      "ordinal": 19,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "li",
+      "text": "the supplier’s understanding (i.e. maturity) of carbon reduction initiatives and ability to introduce effective measures",
+      "ordinal": 20,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "li",
+      "text": "the value and estimated carbon GHG emissions linked to the contract",
+      "ordinal": 21,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "li",
+      "text": "the criticality of the contract",
+      "ordinal": 22,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "13. Further guidance on applying the carbon reduction schedule is published alongside this PPN and in the carbon reduction schedule itself.",
+      "ordinal": 23,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "14. It is expected that the carbon reduction schedule will be incorporated into future iterations of the suite of Model Contracts (see PPN 013 Using Standard Contracts). In-scope organisations may also choose to use these terms in relevant procurements, or apply them to existing contracts, through contract variation, where appropriate.",
+      "ordinal": 24,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "heading",
+      "text": "Background",
+      "ordinal": 25,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "p",
+      "text": "15. The UK has a record of global leadership in tackling climate change and supporting clean growth. In 2006, the UK published the first global review into the economics of climate change. This led to the Climate Change Act 2008, which established a comprehensive legal framework for delivering emission reductions in the UK, including a 2050 carbon reduction target and the introduction of carbon budgets.",
+      "ordinal": 26,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "p",
+      "text": "16. The UK’s 2050 net zero target is one of the most ambitious in the world and was recommended by the Committee on Climate Change, the UK’s independent climate advisory body. Net zero requires a reduction in GHG emissions and (if necessary) that any GHG emissions generated are balanced by schemes to offset an equivalent amount of greenhouse gases from the atmosphere, such as planting trees or using technology like carbon capture and storage.",
+      "ordinal": 27,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "17. This PPN supports PPN 006 Taking account of Carbon Reduction Plans in the procurement of major government contracts. It applies to public contracts, including frameworks, dynamic markets, and contracts awarded in accordance with frameworks and dynamic markets, for goods, services, and works. [footnote 1] Special regime contracts are excluded. [footnote 2] The PPN applies to contracts with an estimated value above £5 million per year (including VAT) under the Procurement Act 2023, except where it would not be relevant and proportionate to the contract. It requires bidding suppliers to detail their commitment to achieving net zero through the publication of a CRP.",
+      "ordinal": 28,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "p",
+      "text": "18. The government is committed to continuing its efforts to reduce GHG emissions and deliver on its carbon budget commitments, while keeping costs down for consumers and supporting the creation of good jobs and growing the economy. As environmental and carbon considerations feature in the aspects of delivery of most public contracts, this is an opportunity to take further steps to support the reduction of GHG emissions through public procurement.",
+      "ordinal": 29,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "heading",
+      "text": "Contact",
+      "ordinal": 30,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "p",
+      "text": "19. Enquiries about this PPN should be directed to the Crown Commercial Service Helpdesk (telephone 0345 410 2222, email info@crowncommercial.gov.uk )",
+      "ordinal": 31,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "li",
+      "text": "See section 3 of the Procurement Act 2023 ↩",
+      "ordinal": 32,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "p",
+      "text": "See section 3 of the Procurement Act 2023 ↩",
+      "ordinal": 33,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "li",
+      "text": "See section 10(6) of the Procurement Act 2023 ↩",
+      "ordinal": 34,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "p",
+      "text": "See section 10(6) of the Procurement Act 2023 ↩",
+      "ordinal": 35,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "[footnote 1]",
+      "href": "https://www.gov.uk/government/publications/ppn-016-carbon-reduction-contract-schedule/ppn-016-carbon-reduction-contract-schedule-html#fn:1",
+      "block_id": "b00028",
+      "ordinal": 0,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 2]",
+      "href": "https://www.gov.uk/government/publications/ppn-016-carbon-reduction-contract-schedule/ppn-016-carbon-reduction-contract-schedule-html#fn:2",
+      "block_id": "b00028",
+      "ordinal": 1,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "info@crowncommercial.gov.uk",
+      "href": "mailto:info@crowncommercial.gov.uk",
+      "block_id": "b00031",
+      "ordinal": 2,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "section 3 of the Procurement Act 2023",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/3/enacted",
+      "block_id": "b00032",
+      "ordinal": 3,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-016-carbon-reduction-contract-schedule/ppn-016-carbon-reduction-contract-schedule-html#fnref:1",
+      "block_id": "b00032",
+      "ordinal": 4,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "section 3 of the Procurement Act 2023",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/3/enacted",
+      "block_id": "b00033",
+      "ordinal": 5,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-016-carbon-reduction-contract-schedule/ppn-016-carbon-reduction-contract-schedule-html#fnref:1",
+      "block_id": "b00033",
+      "ordinal": 6,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "section 10(6) of the Procurement Act 2023",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/10/enacted",
+      "block_id": "b00034",
+      "ordinal": 7,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-016-carbon-reduction-contract-schedule/ppn-016-carbon-reduction-contract-schedule-html#fnref:2",
+      "block_id": "b00034",
+      "ordinal": 8,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "section 10(6) of the Procurement Act 2023",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/10/enacted",
+      "block_id": "b00035",
+      "ordinal": 9,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-016-carbon-reduction-contract-schedule/ppn-016-carbon-reduction-contract-schedule-html#fnref:2",
+      "block_id": "b00035",
+      "ordinal": 10,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "PPN 016: Carbon reduction contract schedule (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-016-carbon-reduction-contract-schedule/ppn-016-carbon-reduction-contract-schedule-html",
+      "block_id": "__document__",
+      "ordinal": 11,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2024 to 2026 Starmer Labour government",
+      "href": "https://www.gov.uk/government/2024-starmer-labour-government",
+      "block_id": "__document__",
+      "ordinal": 12,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 13,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "PPN 016: Carbon Reduction Contract Schedule",
+      "href": "https://www.gov.uk/government/publications/ppn-016-carbon-reduction-contract-schedule",
+      "block_id": "__document__",
+      "ordinal": 14,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 15,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2024",
+      "block_id": "b00010",
+      "start": 115,
+      "end": 131,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2024"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2024",
+      "block_id": "b00010",
+      "start": 178,
+      "end": 194,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2024"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 3",
+      "block_id": "b00032",
+      "start": 4,
+      "end": 13,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "3"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 3",
+      "block_id": "b00033",
+      "start": 4,
+      "end": 13,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "3"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 10(6)",
+      "block_id": "b00034",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "10",
+        "tail": "(6)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 10(6)",
+      "block_id": "b00035",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "10",
+        "tail": "(6)"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

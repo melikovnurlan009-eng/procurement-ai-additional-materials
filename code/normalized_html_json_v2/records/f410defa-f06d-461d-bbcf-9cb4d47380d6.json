@@ -1,0 +1,94 @@
+{
+  "document_id": "f410defa-f06d-461d-bbcf-9cb4d47380d6",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/95602e81f4f43d1b145c8977.json",
+  "input_sha256": "6cc6170a79882f25251e292c6762b1e2060f25ef50f33e9341cb2e0c2c54b8eb",
+  "processed_at": "2026-08-27T02:26:31.921516+00:00",
+  "title": "PPN 022: UK Steel’s Digital Catalogue - Example Contract Clause (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/ppn-022-procuring-steel-in-government-contracts/ppn-022-uk-steels-digital-catalogue-example-contract-clause-html",
+  "description": null,
+  "publication_date": "2025-06-26T10:00:09+01:00",
+  "updated_date": "2026-07-13T17:02:46+01:00",
+  "source_metadata": {
+    "content_id": "f410defa-f06d-461d-bbcf-9cb4d47380d6",
+    "base_path": "/government/publications/ppn-022-procuring-steel-in-government-contracts/ppn-022-uk-steels-digital-catalogue-example-contract-clause-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "CONSULTATION OF UK STEEL’S DIGITAL CATALOGUE [include this requirement in the main body of the contract for new relevant steel procurements]",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "1.1. Where in performance of the Contract the Supplier is required to procure steel products, the Supplier shall first consult UK Steel’s Digital Catalogue.",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "1.2. Where the Supplier is procuring steel products indirectly, it shall ensure that its Sub-Contractor(s) comply with Clause 1.1.",
+      "ordinal": 2,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "PPN 022: UK Steel’s Digital Catalogue - Example Contract Clause (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-022-procuring-steel-in-government-contracts/ppn-022-uk-steels-digital-catalogue-example-contract-clause-html",
+      "block_id": "__document__",
+      "ordinal": 0,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2024 to 2026 Starmer Labour government",
+      "href": "https://www.gov.uk/government/2024-starmer-labour-government",
+      "block_id": "__document__",
+      "ordinal": 1,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "PPN 022: Procuring steel in government contracts",
+      "href": "https://www.gov.uk/government/publications/ppn-022-procuring-steel-in-government-contracts",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [],
+  "attachments": [],
+  "warnings": []
+}

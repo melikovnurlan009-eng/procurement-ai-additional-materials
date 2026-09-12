@@ -1,0 +1,1280 @@
+{
+  "document_id": "5b5675e8-497c-4853-8a26-7e8d48784d3e",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/77dea274f037a3df77d43fee.json",
+  "input_sha256": "dc267ec046a409f96c34654d76f6845ca1c58b7c4d6b22e40f0f8567786d0980",
+  "processed_at": "2026-08-27T02:26:26.040545+00:00",
+  "title": "Guidance: Thresholds (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-thresholds-html",
+  "description": null,
+  "publication_date": "2024-05-24T15:08:23+01:00",
+  "updated_date": "2026-07-13T09:24:55+01:00",
+  "source_metadata": {
+    "content_id": "5b5675e8-497c-4853-8a26-7e8d48784d3e",
+    "base_path": "/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-thresholds-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What are thresholds?",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What is the legal framework that governs thresholds?",
+      "ordinal": 3,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Key points and policy intent",
+      "ordinal": 9,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "International agreements",
+      "ordinal": 10,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Defence and security contracts",
+      "ordinal": 17,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Light touch contracts",
+      "ordinal": 20,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Definition of terms",
+      "ordinal": 24,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What other guidance is of particular relevance to this topic area?",
+      "ordinal": 27,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Where can I go for more information or training?",
+      "ordinal": 30,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "What are thresholds?",
+      "ordinal": 0,
+      "heading_path": [
+        "What are thresholds?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "1. The majority of the provisions in the Procurement Act 2023 (Act) only apply to a public contract (as defined in section 3 ). A contract is only a public contract where it is not exempted (as set out in Schedule 2 ) and has an estimated value (including VAT) [footnote 1] of not less than the threshold amounts set out in Schedule 1 . These thresholds are therefore critical in ensuring that contracting authorities understand when they need to comply with the standard provisions in the Act.",
+      "ordinal": 1,
+      "heading_path": [
+        "What are thresholds?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "2. Certain contracts less than the threshold amounts in Schedule 1 are subject to the below-threshold provisions in Part 6 . For further information, please see the guidance on below-threshold contracts .",
+      "ordinal": 2,
+      "heading_path": [
+        "What are thresholds?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "heading",
+      "text": "What is the legal framework that governs thresholds?",
+      "ordinal": 3,
+      "heading_path": [
+        "What are thresholds?",
+        "What is the legal framework that governs thresholds?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "3. The applicable thresholds are set out in Schedule 1 and can be grouped into three main categories:",
+      "ordinal": 4,
+      "heading_path": [
+        "What are thresholds?",
+        "What is the legal framework that governs thresholds?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "a. those aligned to international agreements;",
+      "ordinal": 5,
+      "heading_path": [
+        "What are thresholds?",
+        "What is the legal framework that governs thresholds?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "p",
+      "text": "b. defence and security contracts; and",
+      "ordinal": 6,
+      "heading_path": [
+        "What are thresholds?",
+        "What is the legal framework that governs thresholds?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "c. light touch contracts.",
+      "ordinal": 7,
+      "heading_path": [
+        "What are thresholds?",
+        "What is the legal framework that governs thresholds?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "4. As explained in more detail at paragraph 9 below, the thresholds in the Act are periodically updated to align with the UK’s international obligations on public procurement. The current thresholds are set out in Procurement Policy Note 023: 2026 Threshold Amounts and are replicated below.",
+      "ordinal": 8,
+      "heading_path": [
+        "What are thresholds?",
+        "What is the legal framework that governs thresholds?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "heading",
+      "text": "Key points and policy intent",
+      "ordinal": 9,
+      "heading_path": [
+        "What are thresholds?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "heading",
+      "text": "International agreements",
+      "ordinal": 10,
+      "heading_path": [
+        "What are thresholds?",
+        "Key points and policy intent",
+        "International agreements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "5. The UK has a duty to give access to its public procurement markets to suppliers from states which it has a relevant trade agreement with. [footnote 2] These trade agreements are listed in Schedule 9 to the Act.",
+      "ordinal": 11,
+      "heading_path": [
+        "What are thresholds?",
+        "Key points and policy intent",
+        "International agreements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "6. The UK’s thresholds in its relevant trade agreements either align with or are higher than the thresholds in the UK schedules to the WTO Government Procurement Agreement (GPA). Accordingly, the UK remains compliant with its international obligations by aligning relevant thresholds in the Act to the UK GPA thresholds.",
+      "ordinal": 12,
+      "heading_path": [
+        "What are thresholds?",
+        "Key points and policy intent",
+        "International agreements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "7. The UK GPA thresholds are in Special Drawing Rights (SDRs). Every two years, the UK is obliged to provide the GPA with the sterling equivalent of its SDR thresholds. The revised threshold then takes effect from 1 January of every even year. This is to adjust for currency fluctuations.",
+      "ordinal": 13,
+      "heading_path": [
+        "What are thresholds?",
+        "Key points and policy intent",
+        "International agreements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "8. To ensure the Act remains aligned to the sterling UK GPA thresholds, Schedule 1 contains a power for an appropriate authority (a Minister of the Crown, the Welsh Ministers or a Northern Ireland department) to update relevant thresholds in the Act by statutory instrument. A Procurement Policy Note is issued every two years to confirm the new sterling thresholds.",
+      "ordinal": 14,
+      "heading_path": [
+        "What are thresholds?",
+        "Key points and policy intent",
+        "International agreements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "9. The thresholds listed in rows 4, 6 and 9 to 12 in Schedule 1, paragraph 1(1) correspond to the UK GPA sterling thresholds for the period 1 January 2026 to 31 December 2027. For reference the up to date thresholds are set out in the table below:",
+      "ordinal": 15,
+      "heading_path": [
+        "What are thresholds?",
+        "Key points and policy intent",
+        "International agreements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "table",
+      "text": "Type of contract\tThresholds (including VAT): 1 January 2026 to 31 December 2027\nUtility works contract\t£5,193,000\nUtility contract that is not a works contract, a defence and security contract or a light touch contract\t£415,440\nConcession works and services contract\t£5,193,000\nWorks contract\t£5,193,000\nContract for the supply of goods or services (which may be mixed contracts that contain some works elements) to a central government authority not within any other row\t£135,018\nContract for the supply of goods or services (which may be mixed contracts that contain some works elements) to a sub-central government authority not within any other row\t£207,720",
+      "ordinal": 16,
+      "heading_path": [
+        "What are thresholds?",
+        "Key points and policy intent",
+        "International agreements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {
+        "rows": [
+          [
+            "Type of contract",
+            "Thresholds (including VAT): 1 January 2026 to 31 December 2027"
+          ],
+          [
+            "Utility works contract",
+            "£5,193,000"
+          ],
+          [
+            "Utility contract that is not a works contract, a defence and security contract or a light touch contract",
+            "£415,440"
+          ],
+          [
+            "Concession works and services contract",
+            "£5,193,000"
+          ],
+          [
+            "Works contract",
+            "£5,193,000"
+          ],
+          [
+            "Contract for the supply of goods or services (which may be mixed contracts that contain some works elements) to a central government authority not within any other row",
+            "£135,018"
+          ],
+          [
+            "Contract for the supply of goods or services (which may be mixed contracts that contain some works elements) to a sub-central government authority not within any other row",
+            "£207,720"
+          ]
+        ],
+        "row_count": 7
+      }
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "heading",
+      "text": "Defence and security contracts",
+      "ordinal": 17,
+      "heading_path": [
+        "What are thresholds?",
+        "Key points and policy intent",
+        "Defence and security contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "p",
+      "text": "10. It has been standard practice to update the defence and security thresholds, set out in rows 1 to 3 of Schedule 1, to keep pace with the GPA thresholds (although there is no international obligation to do so). The up to date thresholds are set out in the table below:",
+      "ordinal": 18,
+      "heading_path": [
+        "What are thresholds?",
+        "Key points and policy intent",
+        "Defence and security contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "table",
+      "text": "Type of contract\tThresholds (including VAT): 1 January 2026 to 31 December 2027\nDefence and security contract that is a works contract\t£5,193,000\nDefence and security contract that is a concession contract\t£5,193,000\nDefence and security contract that is not a works contract, a concession contract or a light touch contract (i.e. goods and services)\t£415,440",
+      "ordinal": 19,
+      "heading_path": [
+        "What are thresholds?",
+        "Key points and policy intent",
+        "Defence and security contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {
+        "rows": [
+          [
+            "Type of contract",
+            "Thresholds (including VAT): 1 January 2026 to 31 December 2027"
+          ],
+          [
+            "Defence and security contract that is a works contract",
+            "£5,193,000"
+          ],
+          [
+            "Defence and security contract that is a concession contract",
+            "£5,193,000"
+          ],
+          [
+            "Defence and security contract that is not a works contract, a concession contract or a light touch contract (i.e. goods and services)",
+            "£415,440"
+          ]
+        ],
+        "row_count": 4
+      }
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "heading",
+      "text": "Light touch contracts",
+      "ordinal": 20,
+      "heading_path": [
+        "What are thresholds?",
+        "Key points and policy intent",
+        "Light touch contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "11. Paragraph 3 of Schedule 1 provides a power to update the thresholds for light touch contracts set out in rows 5, 7 and 8 of Schedule 1. These thresholds are not determined by the GPA and as such are not subject to change every two years.",
+      "ordinal": 21,
+      "heading_path": [
+        "What are thresholds?",
+        "Key points and policy intent",
+        "Light touch contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "p",
+      "text": "12. While it’s not necessary to formally align the light touch contracts thresholds with the GPA thresholds, the thresholds may be updated for other purposes, for example to allow for inflation or reflect changing priorities for this category of contract.",
+      "ordinal": 22,
+      "heading_path": [
+        "What are thresholds?",
+        "Key points and policy intent",
+        "Light touch contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "table",
+      "text": "Type of contract\tThreshold (including VAT)\nLight touch utilities contract\t£884,720\nLight touch concession contract\t£5,372,609\nAll other light touch contracts\t£663,540",
+      "ordinal": 23,
+      "heading_path": [
+        "What are thresholds?",
+        "Key points and policy intent",
+        "Light touch contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {
+        "rows": [
+          [
+            "Type of contract",
+            "Threshold (including VAT)"
+          ],
+          [
+            "Light touch utilities contract",
+            "£884,720"
+          ],
+          [
+            "Light touch concession contract",
+            "£5,372,609"
+          ],
+          [
+            "All other light touch contracts",
+            "£663,540"
+          ]
+        ],
+        "row_count": 4
+      }
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "heading",
+      "text": "Definition of terms",
+      "ordinal": 24,
+      "heading_path": [
+        "What are thresholds?",
+        "Key points and policy intent",
+        "Definition of terms"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "p",
+      "text": "13. Paragraph 5 of Schedule 1 defines the following expressions used in Schedule 1 and throughout the Act:",
+      "ordinal": 25,
+      "heading_path": [
+        "What are thresholds?",
+        "Key points and policy intent",
+        "Definition of terms"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "table",
+      "text": "Term\tDefinition\nCentral government authority\tThe Crown and each of the entities (and their successors) as specified in regulations - see columns 1 and 2 of the table in Schedule 2 to the Procurement Regulations 2024 ). (Paragraph 5 of Schedule 1 contains a regulation making power permitting an appropriate authority to specify those contracting authorities that are “central government authorities”.)\nComplete work\tA functioning structure that results from the carrying out of works.\nGPA\tThe Agreement on Government Procurement signed at Marrakesh on 15 April 1994, as amended from time to time.\nSub-central government authority\tA contracting authority which is neither (i) a central government authority, nor (ii) a private utility or a public undertaking.\nWorks\tAs defined by regulations - see activities which fall within the CPV codes listed in Schedule 3 to the Procurement Regulations 2024 . (Paragraph 5 of Schedule 1 contains a regulation making power permitting an appropriate authority to define the meaning of “works” (which is then used for the purposes of defining a “works contract”, see below).)\nWorks contract\tA contract whose main purpose is either (i) the carrying out of “works” (see definition above) under that contract (whether or not resulting in a complete work), or (ii) to facilitate the carrying out of works under a separate arrangement, where those works are intended to result in a complete work that complies with specifications set out in that contract.",
+      "ordinal": 26,
+      "heading_path": [
+        "What are thresholds?",
+        "Key points and policy intent",
+        "Definition of terms"
+      ],
+      "source_locator": "details.body",
+      "metadata": {
+        "rows": [
+          [
+            "Term",
+            "Definition"
+          ],
+          [
+            "Central government authority",
+            "The Crown and each of the entities (and their successors) as specified in regulations - see columns 1 and 2 of the table in Schedule 2 to the Procurement Regulations 2024 ). (Paragraph 5 of Schedule 1 contains a regulation making power permitting an appropriate authority to specify those contracting authorities that are “central government authorities”.)"
+          ],
+          [
+            "Complete work",
+            "A functioning structure that results from the carrying out of works."
+          ],
+          [
+            "GPA",
+            "The Agreement on Government Procurement signed at Marrakesh on 15 April 1994, as amended from time to time."
+          ],
+          [
+            "Sub-central government authority",
+            "A contracting authority which is neither (i) a central government authority, nor (ii) a private utility or a public undertaking."
+          ],
+          [
+            "Works",
+            "As defined by regulations - see activities which fall within the CPV codes listed in Schedule 3 to the Procurement Regulations 2024 . (Paragraph 5 of Schedule 1 contains a regulation making power permitting an appropriate authority to define the meaning of “works” (which is then used for the purposes of defining a “works contract”, see below).)"
+          ],
+          [
+            "Works contract",
+            "A contract whose main purpose is either (i) the carrying out of “works” (see definition above) under that contract (whether or not resulting in a complete work), or (ii) to facilitate the carrying out of works under a separate arrangement, where those works are intended to result in a complete work that complies with specifications set out in that contract."
+          ]
+        ],
+        "row_count": 7
+      }
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "heading",
+      "text": "What other guidance is of particular relevance to this topic area?",
+      "ordinal": 27,
+      "heading_path": [
+        "What are thresholds?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "Guidance on covered procurement",
+      "ordinal": 28,
+      "heading_path": [
+        "What are thresholds?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "p",
+      "text": "Guidance on exempted contracts",
+      "ordinal": 29,
+      "heading_path": [
+        "What are thresholds?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "heading",
+      "text": "Where can I go for more information or training?",
+      "ordinal": 30,
+      "heading_path": [
+        "What are thresholds?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "p",
+      "text": "PPN 023: 2026 Thresholds Amounts",
+      "ordinal": 31,
+      "heading_path": [
+        "What are thresholds?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "p",
+      "text": "© Crown copyright 2024",
+      "ordinal": 32,
+      "heading_path": [
+        "What are thresholds?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "p",
+      "text": "This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated. To view this licence, visit nationalarchives.gov.uk/doc/open-government-licence/version/3",
+      "ordinal": 33,
+      "heading_path": [
+        "What are thresholds?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "p",
+      "text": "Where we have identified any third-party copyright information you will need to obtain permission from the copyright holders concerned.",
+      "ordinal": 34,
+      "heading_path": [
+        "What are thresholds?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "p",
+      "text": "This publication is available at www.gov.uk/government/publications",
+      "ordinal": 35,
+      "heading_path": [
+        "What are thresholds?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "p",
+      "text": "Any enquiries regarding this publication should be sent to us at procurement.reform@cabinetoffice.gov.uk .",
+      "ordinal": 36,
+      "heading_path": [
+        "What are thresholds?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "li",
+      "text": "Section 123 of the Act, ‘Interpretation’, explains that a reference to an amount payable or paid, receivable or received, or to be paid or received, under a contract includes a reference to any amount referable to VAT (the terms receivable and received are used to reflect the different way in which concession contracts are valued). ↩",
+      "ordinal": 37,
+      "heading_path": [
+        "What are thresholds?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "p",
+      "text": "Section 123 of the Act, ‘Interpretation’, explains that a reference to an amount payable or paid, receivable or received, or to be paid or received, under a contract includes a reference to any amount referable to VAT (the terms receivable and received are used to reflect the different way in which concession contracts are valued). ↩",
+      "ordinal": 38,
+      "heading_path": [
+        "What are thresholds?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "li",
+      "text": "This duty is only to the extent of the terms agreed within the trade agreement. ↩",
+      "ordinal": 39,
+      "heading_path": [
+        "What are thresholds?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "p",
+      "text": "This duty is only to the extent of the terms agreed within the trade agreement. ↩",
+      "ordinal": 40,
+      "heading_path": [
+        "What are thresholds?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "Procurement Act 2023 (Act)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/contents",
+      "block_id": "b00001",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 3",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/3",
+      "block_id": "b00001",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 2",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/2",
+      "block_id": "b00001",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "[footnote 1]",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-thresholds-html#fn:1",
+      "block_id": "b00001",
+      "ordinal": 3,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Schedule 1",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/1",
+      "block_id": "b00001",
+      "ordinal": 4,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 1",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/1",
+      "block_id": "b00002",
+      "ordinal": 5,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Part 6",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/part/6",
+      "block_id": "b00002",
+      "ordinal": 6,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "below-threshold contracts",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-below-threshold-contracts-html",
+      "block_id": "b00002",
+      "ordinal": 7,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 1",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/1",
+      "block_id": "b00004",
+      "ordinal": 8,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "[footnote 2]",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-thresholds-html#fn:2",
+      "block_id": "b00011",
+      "ordinal": 9,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Schedule 9",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/9",
+      "block_id": "b00011",
+      "ordinal": 10,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 1",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/1",
+      "block_id": "b00014",
+      "ordinal": 11,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 1, paragraph 1(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/1/paragraph/1",
+      "block_id": "b00015",
+      "ordinal": 12,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 1",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/1",
+      "block_id": "b00021",
+      "ordinal": 13,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 1",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/1",
+      "block_id": "b00025",
+      "ordinal": 14,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 1",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/1",
+      "block_id": "b00025",
+      "ordinal": 15,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 2",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/schedule/2",
+      "block_id": "b00026",
+      "ordinal": 16,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement Regulations 2024",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/contents",
+      "block_id": "b00026",
+      "ordinal": 17,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 1",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/1",
+      "block_id": "b00026",
+      "ordinal": 18,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 3",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/schedule/3",
+      "block_id": "b00026",
+      "ordinal": 19,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement Regulations 2024",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/contents",
+      "block_id": "b00026",
+      "ordinal": 20,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 1",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/1",
+      "block_id": "b00026",
+      "ordinal": 21,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "covered procurement",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-covered-procurement-definition-html",
+      "block_id": "b00028",
+      "ordinal": 22,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "exempted contracts",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-exempted-contracts-html--2",
+      "block_id": "b00029",
+      "ordinal": 23,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "PPN 023: 2026 Thresholds Amounts",
+      "href": "https://www.gov.uk/government/publications/ppn-023-2026-threshold-amounts/ppn-023-2026-threshold-amounts-html",
+      "block_id": "b00031",
+      "ordinal": 24,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "nationalarchives.gov.uk/doc/open-government-licence/version/3",
+      "href": "http://nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "block_id": "b00033",
+      "ordinal": 25,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "www.gov.uk/government/publications",
+      "href": "http://www.gov.uk/government/publications",
+      "block_id": "b00035",
+      "ordinal": 26,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "procurement.reform@cabinetoffice.gov.uk",
+      "href": "mailto:procurement.reform@cabinetoffice.gov.uk",
+      "block_id": "b00036",
+      "ordinal": 27,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "Section 123",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/123",
+      "block_id": "b00037",
+      "ordinal": 28,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-thresholds-html#fnref:1",
+      "block_id": "b00037",
+      "ordinal": 29,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Section 123",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/123",
+      "block_id": "b00038",
+      "ordinal": 30,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-thresholds-html#fnref:1",
+      "block_id": "b00038",
+      "ordinal": 31,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-thresholds-html#fnref:2",
+      "block_id": "b00039",
+      "ordinal": 32,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-thresholds-html#fnref:2",
+      "block_id": "b00040",
+      "ordinal": 33,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Guidance: Thresholds (HTML)",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-thresholds-html",
+      "block_id": "__document__",
+      "ordinal": 34,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2022 to 2024 Sunak Conservative government",
+      "href": "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 35,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 36,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Procurement Act 2023 guidance documents - Define phase",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase",
+      "block_id": "__document__",
+      "ordinal": 37,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 38,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 3",
+      "block_id": "b00001",
+      "start": 115,
+      "end": 124,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "3"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 2",
+      "block_id": "b00001",
+      "start": 205,
+      "end": 215,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "2"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 1",
+      "block_id": "b00001",
+      "start": 324,
+      "end": 334,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 1",
+      "block_id": "b00002",
+      "start": 56,
+      "end": 66,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 1",
+      "block_id": "b00004",
+      "start": 44,
+      "end": 54,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 9",
+      "block_id": "b00008",
+      "start": 34,
+      "end": 45,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "9"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 9",
+      "block_id": "b00011",
+      "start": 191,
+      "end": 201,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "9"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 1",
+      "block_id": "b00014",
+      "start": 72,
+      "end": 82,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 1, paragraph 1(1)",
+      "block_id": "b00015",
+      "start": 53,
+      "end": 79,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "1",
+        "paragraph": "1",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 1(1)",
+      "block_id": "b00015",
+      "start": 65,
+      "end": 79,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "1",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 1",
+      "block_id": "b00018",
+      "start": 107,
+      "end": 117,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 1",
+      "block_id": "b00021",
+      "start": 19,
+      "end": 29,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 1",
+      "block_id": "b00021",
+      "start": 128,
+      "end": 138,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "Paragraph 3",
+      "block_id": "b00021",
+      "start": 4,
+      "end": 15,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "3"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 1",
+      "block_id": "b00025",
+      "start": 19,
+      "end": 29,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 1",
+      "block_id": "b00025",
+      "start": 72,
+      "end": 82,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "Paragraph 5",
+      "block_id": "b00025",
+      "start": 4,
+      "end": 15,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "5"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2024",
+      "block_id": "b00026",
+      "start": 199,
+      "end": 215,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2024"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2024",
+      "block_id": "b00026",
+      "start": 880,
+      "end": 896,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2024"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 2",
+      "block_id": "b00026",
+      "start": 169,
+      "end": 179,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "2"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 1",
+      "block_id": "b00026",
+      "start": 235,
+      "end": 245,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 3",
+      "block_id": "b00026",
+      "start": 850,
+      "end": 860,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "3"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 1",
+      "block_id": "b00026",
+      "start": 915,
+      "end": 925,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "Paragraph 5",
+      "block_id": "b00026",
+      "start": 220,
+      "end": 231,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "5"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "Paragraph 5",
+      "block_id": "b00026",
+      "start": 900,
+      "end": 911,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "5"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 123",
+      "block_id": "b00037",
+      "start": 0,
+      "end": 11,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "123"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 123",
+      "block_id": "b00038",
+      "start": 0,
+      "end": 11,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "123"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

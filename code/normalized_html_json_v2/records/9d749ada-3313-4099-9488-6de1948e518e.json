@@ -1,0 +1,519 @@
+{
+  "document_id": "9d749ada-3313-4099-9488-6de1948e518e",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/922cb5db6a259aefeaa5f58a.json",
+  "input_sha256": "0ea0c427faeb17839c1d5c8d81ddc35296a0042210e1d55495e30db25078f373",
+  "processed_at": "2026-08-27T02:26:31.129461+00:00",
+  "title": "UK1 - the new Pipeline Notice (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-act-2023-short-guides/uk1-the-new-pipeline-notice-html",
+  "description": null,
+  "publication_date": "2025-04-11T10:49:13+01:00",
+  "updated_date": "2026-06-23T10:02:16+01:00",
+  "source_metadata": {
+    "content_id": "9d749ada-3313-4099-9488-6de1948e518e",
+    "base_path": "/government/publications/procurement-act-2023-short-guides/uk1-the-new-pipeline-notice-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Introducing: UK1 - the Pipeline Notice",
+      "ordinal": 4,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "For Buyers",
+      "ordinal": 5,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "1. What is a Pipeline?",
+      "ordinal": 8,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "2. Can I publish pipeline notices voluntarily?",
+      "ordinal": 12,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Future Plans",
+      "ordinal": 16,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Information required",
+      "ordinal": 18,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "For Suppliers",
+      "ordinal": 25,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "The Procurement Act 2023 provides a more flexible commercial system and embeds greater transparency throughout the lifecycle - this will help open up public procurement to new entrants such as small businesses and social enterprises.",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "Pipelines are live from 1st April 2025.",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "Publishing a forward-looking pipeline of public contract opportunities is one of the main ways a public body can set out its commercial agenda for the future, energising and exciting its supply base ahead of pre-market engagement for each contract.",
+      "ordinal": 2,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "It can be used as a tool to reach out to new potential market providers, or to prompt discussion around new or innovative approaches. Promoted through social media or stakeholder channels it will help raise awareness of forthcoming procurements, ensuring a competitive and diverse market. Crucially, pipelines are also of particular benefit to SMEs and VCSEs, providing them with time to plan for future work and collaborate with partners on delivery solutions.",
+      "ordinal": 3,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "heading",
+      "text": "Introducing: UK1 - the Pipeline Notice",
+      "ordinal": 4,
+      "heading_path": [
+        "Introducing: UK1 - the Pipeline Notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "heading",
+      "text": "For Buyers",
+      "ordinal": 5,
+      "heading_path": [
+        "Introducing: UK1 - the Pipeline Notice",
+        "For Buyers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "p",
+      "text": "Large contracting authorities (with a spend above £100m p.a.) are required to publish a pipeline notice for each opportunity in the next 18 months with an estimated value of more than £2 million.",
+      "ordinal": 6,
+      "heading_path": [
+        "Introducing: UK1 - the Pipeline Notice",
+        "For Buyers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "Contracting authorities will have 56 days from 1st April to meet compliance (ie by 26th May 2025) by publishing their notices on the new central digital platform (Find a Tender service). Thereafter they must update the notice at least annually.",
+      "ordinal": 7,
+      "heading_path": [
+        "Introducing: UK1 - the Pipeline Notice",
+        "For Buyers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "heading",
+      "text": "1. What is a Pipeline?",
+      "ordinal": 8,
+      "heading_path": [
+        "Introducing: UK1 - the Pipeline Notice",
+        "For Buyers",
+        "1. What is a Pipeline?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "A pipeline notice is a notice setting out specific information about any public contract with an estimated value of more than £2 million (inclusive of VAT and options).",
+      "ordinal": 9,
+      "heading_path": [
+        "Introducing: UK1 - the Pipeline Notice",
+        "For Buyers",
+        "1. What is a Pipeline?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "p",
+      "text": "The collection of these individual pipeline notices (each about a unique procurement) will make up a contracting authority’s procurement pipeline over the upcoming 18 months.",
+      "ordinal": 10,
+      "heading_path": [
+        "Introducing: UK1 - the Pipeline Notice",
+        "For Buyers",
+        "1. What is a Pipeline?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "There may be occasions when contracting authorities need to amend or republish a procurement published in a pipeline - procurement teams are encouraged to keep this information up to date in order to make sure prospective suppliers have information they need.",
+      "ordinal": 11,
+      "heading_path": [
+        "Introducing: UK1 - the Pipeline Notice",
+        "For Buyers",
+        "1. What is a Pipeline?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "heading",
+      "text": "2. Can I publish pipeline notices voluntarily?",
+      "ordinal": 12,
+      "heading_path": [
+        "Introducing: UK1 - the Pipeline Notice",
+        "For Buyers",
+        "2. Can I publish pipeline notices voluntarily?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "Yes, contracting authorities are encouraged to go further than what is required by the Act by, for example, including in their pipeline notice contracts below £2 million where the contracting authority is intending to advertise the opportunity as this can be particularly beneficial to SMEs.",
+      "ordinal": 13,
+      "heading_path": [
+        "Introducing: UK1 - the Pipeline Notice",
+        "For Buyers",
+        "2. Can I publish pipeline notices voluntarily?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "Contracting authorities who are uncertain as to whether the £100 million annual spend will be reached in a given financial year are also encouraged to publish a pipeline notice.",
+      "ordinal": 14,
+      "heading_path": [
+        "Introducing: UK1 - the Pipeline Notice",
+        "For Buyers",
+        "2. Can I publish pipeline notices voluntarily?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "Additionally, contracting authorities who do not need to publish pipeline notices as per the legislation may also publish them voluntarily.",
+      "ordinal": 15,
+      "heading_path": [
+        "Introducing: UK1 - the Pipeline Notice",
+        "For Buyers",
+        "2. Can I publish pipeline notices voluntarily?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "heading",
+      "text": "Future Plans",
+      "ordinal": 16,
+      "heading_path": [
+        "Introducing: UK1 - the Pipeline Notice",
+        "For Buyers",
+        "Future Plans"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "There will be more functionality in the system which will allow an aggregated view of individual/ location and sector-based pipelines - this will come later this year.",
+      "ordinal": 17,
+      "heading_path": [
+        "Introducing: UK1 - the Pipeline Notice",
+        "For Buyers",
+        "Future Plans"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "heading",
+      "text": "Information required",
+      "ordinal": 18,
+      "heading_path": [
+        "Introducing: UK1 - the Pipeline Notice",
+        "For Buyers",
+        "Information required"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "li",
+      "text": "Contracting authority information",
+      "ordinal": 19,
+      "heading_path": [
+        "Introducing: UK1 - the Pipeline Notice",
+        "For Buyers",
+        "Information required"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "li",
+      "text": "Title of the procurement",
+      "ordinal": 20,
+      "heading_path": [
+        "Introducing: UK1 - the Pipeline Notice",
+        "For Buyers",
+        "Information required"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "li",
+      "text": "Procurement reference",
+      "ordinal": 21,
+      "heading_path": [
+        "Introducing: UK1 - the Pipeline Notice",
+        "For Buyers",
+        "Information required"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "li",
+      "text": "Contract subject-matter",
+      "ordinal": 22,
+      "heading_path": [
+        "Introducing: UK1 - the Pipeline Notice",
+        "For Buyers",
+        "Information required"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "li",
+      "text": "Estimated date when the notice will be published",
+      "ordinal": 23,
+      "heading_path": [
+        "Introducing: UK1 - the Pipeline Notice",
+        "For Buyers",
+        "Information required"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "li",
+      "text": "Optional information such as contract value and sourcing method",
+      "ordinal": 24,
+      "heading_path": [
+        "Introducing: UK1 - the Pipeline Notice",
+        "For Buyers",
+        "Information required"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "heading",
+      "text": "For Suppliers",
+      "ordinal": 25,
+      "heading_path": [
+        "Introducing: UK1 - the Pipeline Notice",
+        "For Buyers",
+        "For Suppliers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "p",
+      "text": "To search for a notice, visit Find a Tender and using the left hand menu:",
+      "ordinal": 26,
+      "heading_path": [
+        "Introducing: UK1 - the Pipeline Notice",
+        "For Buyers",
+        "For Suppliers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "li",
+      "text": "Select ‘UK1 Pipeline notice’ under ‘Notice type’",
+      "ordinal": 27,
+      "heading_path": [
+        "Introducing: UK1 - the Pipeline Notice",
+        "For Buyers",
+        "For Suppliers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "li",
+      "text": "De-select ‘Other notice types’",
+      "ordinal": 28,
+      "heading_path": [
+        "Introducing: UK1 - the Pipeline Notice",
+        "For Buyers",
+        "For Suppliers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "li",
+      "text": "Enter date range [NB - please specify from 1 April 2025]",
+      "ordinal": 29,
+      "heading_path": [
+        "Introducing: UK1 - the Pipeline Notice",
+        "For Buyers",
+        "For Suppliers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "li",
+      "text": "You can also search by CPV Code (e.g. tech services)…",
+      "ordinal": 30,
+      "heading_path": [
+        "Introducing: UK1 - the Pipeline Notice",
+        "For Buyers",
+        "For Suppliers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "li",
+      "text": "..and for opportunities which are particularly suitable for SMEs",
+      "ordinal": 31,
+      "heading_path": [
+        "Introducing: UK1 - the Pipeline Notice",
+        "For Buyers",
+        "For Suppliers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "Find a Tender",
+      "href": "https://www.find-tender.service.gov.uk/Search",
+      "block_id": "b00026",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "UK1 - the new Pipeline Notice (HTML)",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-short-guides/uk1-the-new-pipeline-notice-html",
+      "block_id": "__document__",
+      "ordinal": 1,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2022 to 2024 Sunak Conservative government",
+      "href": "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Government Commercial Function",
+      "href": "https://www.gov.uk/government/organisations/government-commercial-function",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Procurement Act 2023: short guides",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-short-guides",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Government Commercial Function",
+      "href": "https://www.gov.uk/government/organisations/government-commercial-function",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [],
+  "attachments": [],
+  "warnings": []
+}

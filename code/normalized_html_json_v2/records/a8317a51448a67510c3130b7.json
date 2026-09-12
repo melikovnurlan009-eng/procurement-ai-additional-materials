@@ -1,0 +1,57 @@
+{
+  "document_id": "a8317a51448a67510c3130b7",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "html",
+  "source_path": "corpus_ingest_v2/raw/ded8cb05912c81aa1db6cd5c.html",
+  "input_sha256": "39cbfd095e87a6eb8e52467c714b40d93893efb37ae1c1792159fd2f9c4076d4",
+  "processed_at": "2026-08-27T02:26:44.339412+00:00",
+  "title": "Provide Site Feedback | Procurement Journey",
+  "canonical_url": "https://www.procurementjourney.scot/provide-site-feedback",
+  "description": null,
+  "publication_date": null,
+  "updated_date": null,
+  "source_metadata": {
+    "html_lang": "en"
+  },
+  "logical_structure": [],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "We will only use the personal information you provide below to respond to your message, if required. We will read all direct messages and ensure that any emerging themes or helpful suggestions are passed to the relevant people in the Scottish Government. We will not use these details to contact you for any other purpose.",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "Further information can be found on the Scottish Government Data Officer and the Information Commissioner's Office . For full details please see our Privacy Policy .",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": null,
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "Scottish Government Data Officer and the Information Commissioner's Office",
+      "href": "https://www.gov.scot/privacy/",
+      "block_id": "b00001",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Privacy Policy",
+      "href": "https://procurement-journey.test.wsdev.org/privacy-policy-and-content-disclaimer",
+      "block_id": "b00001",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    }
+  ],
+  "legal_references": [],
+  "attachments": [],
+  "warnings": []
+}

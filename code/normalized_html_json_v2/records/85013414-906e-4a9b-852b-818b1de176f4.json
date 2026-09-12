@@ -1,0 +1,3239 @@
+{
+  "document_id": "85013414-906e-4a9b-852b-818b1de176f4",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/55f83f434c86d4ac684244af.json",
+  "input_sha256": "9bae865dcc949b18b08f35f4667f51ca03fc5f8a7f1df35b4b12fc73ba5cb919",
+  "processed_at": "2026-08-27T02:26:18.315986+00:00",
+  "title": "Guidance: Payments Compliance Notices (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-payments-compliance-notices-html",
+  "description": null,
+  "publication_date": "2025-02-13T10:04:19+00:00",
+  "updated_date": "2026-07-20T15:07:48+01:00",
+  "source_metadata": {
+    "content_id": "85013414-906e-4a9b-852b-818b1de176f4",
+    "base_path": "/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-payments-compliance-notices-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What are payments compliance notices?",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What is the legal framework that governs payments compliance notices?",
+      "ordinal": 4,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What has changed?",
+      "ordinal": 8,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Key points and policy intent",
+      "ordinal": 17,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Calculating payment periods",
+      "ordinal": 35,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Delays in payment being received",
+      "ordinal": 40,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Calculating the average number of days to pay an invoice ( regulation 38(2)(c)(i) )",
+      "ordinal": 42,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Calculating the percentage of invoices paid within specified timeframes in a reporting period ( regulation 38(2)(c)(ii) )",
+      "ordinal": 47,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Reporting on the contracting authority’s payments compliance with the term set out in section 68(2) ( regulation 38(2)(ca) )",
+      "ordinal": 54,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Reporting the percentage of payments due to be made in the reporting period but not paid ( regulation 38(2)(d) )",
+      "ordinal": 60,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Approving a payments compliance notice ( regulation 38(2)(e) )",
+      "ordinal": 63,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Payment types and methods",
+      "ordinal": 66,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Partially paid invoices",
+      "ordinal": 67,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Payments by instalments",
+      "ordinal": 69,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Direct debits",
+      "ordinal": 73,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Payment card solutions",
+      "ordinal": 75,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Batch upload/feeder files",
+      "ordinal": 80,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Other payments",
+      "ordinal": 83,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Credit notes",
+      "ordinal": 85,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "BACS payments",
+      "ordinal": 88,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "International payments",
+      "ordinal": 90,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Ensuring the invoice is sent to the correct address for payment",
+      "ordinal": 92,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "What is an invoice?",
+      "ordinal": 95,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "How should supply chain finance be treated?",
+      "ordinal": 97,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Where should the payments compliance notice be published?",
+      "ordinal": 101,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Reporting on payments relating to below-threshold contracts",
+      "ordinal": 103,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Reporting on payments relating to contracts awarded under other procurement regimes",
+      "ordinal": 105,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Worked example",
+      "ordinal": 107,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What other guidance is of particular relevance to this topic area?",
+      "ordinal": 115,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "What are payments compliance notices?",
+      "ordinal": 0,
+      "heading_path": [
+        "What are payments compliance notices?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "1. A payments compliance notice is a notice setting out the extent to which, over a reporting period of 6 months, the contracting authority has paid its invoices in accordance with the term set out in section 68(2) of the Procurement Act 2023 (Act) . It also includes other reporting requirements (set out in regulation 38(2)(c) of the Procurement Regulations 2024 ) relating to when invoices were paid.",
+      "ordinal": 1,
+      "heading_path": [
+        "What are payments compliance notices?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "2. Contracting authorities are required to publish a payments compliance notice on the central digital platform (see paragraph 45 for more information on commencement and place of publication). The purpose of this notice is to provide transparency over contracting authorities’ compliance with the Act and, more specifically, how promptly they pay their suppliers. Publication of payments compliance notices should incentivise faster payment, and allow contracting authorities’ payment practices to be directly comparable with those of the private sector.",
+      "ordinal": 2,
+      "heading_path": [
+        "What are payments compliance notices?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "3. This guidance should be read in conjunction with the guidance on electronic invoicing and payment , which will provide further information on payments and may be helpful when collating information for the payments compliance notice.",
+      "ordinal": 3,
+      "heading_path": [
+        "What are payments compliance notices?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "heading",
+      "text": "What is the legal framework that governs payments compliance notices?",
+      "ordinal": 4,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "What is the legal framework that governs payments compliance notices?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "4. Section 69(1) of the Act requires that a contracting authority publish a payments compliance notice within 30 days of the end of a ‘reporting period’ (see paragraph 11 below) if it made a payment under a public contract or a sum became payable under a public contract during the reporting period.",
+      "ordinal": 5,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "What is the legal framework that governs payments compliance notices?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "p",
+      "text": "5. Regulation 38 sets out the information that must be included in a payments compliance notice published under section 69(1) .",
+      "ordinal": 6,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "What is the legal framework that governs payments compliance notices?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "6. Section 68 of the Act is also relevant as this sets out the implied payment term that contracting authorities are required to report against in the payments compliance notice.",
+      "ordinal": 7,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "What is the legal framework that governs payments compliance notices?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "heading",
+      "text": "What has changed?",
+      "ordinal": 8,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "7. Payments compliance notices are intended to replace and strengthen regulation 113(7) of the Public Contracts Regulations 2015.",
+      "ordinal": 9,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "p",
+      "text": "8. The principal changes from the PCR are:",
+      "ordinal": 10,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "a. the requirement under the Act to report on a six-monthly (rather than annual) basis;",
+      "ordinal": 11,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "b. the requirement under regulation 38(2)(ca) [footnote 1] ( Procurement Regulations 2024 ) to report on payments made from the day an invoice is received",
+      "ordinal": 12,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "c. the requirement under regulation 38(2)(c) to provide the average number of days taken to make payments and the timescales in which payments were made (1-30 days, 31-60 days, or 61+ days)",
+      "ordinal": 13,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "d. the requirement under regulation 38(2)(e) for sign off of the payment compliance notice by a finance director or equivalent",
+      "ordinal": 14,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "e. there is no requirement under the Act or regulation 38 to publish late payment liability interest.",
+      "ordinal": 15,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "8. Under the Act, payments compliance notices must be published on the central digital platform.",
+      "ordinal": 16,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "heading",
+      "text": "Key points and policy intent",
+      "ordinal": 17,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "p",
+      "text": "9. The requirement to publish a payments compliance notice applies to any public contract (defined in section 3 of the Act) other than:",
+      "ordinal": 18,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "a. those entered into by a transferred Northern Ireland authority;",
+      "ordinal": 19,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "p",
+      "text": "b. those entered into by a private utility;",
+      "ordinal": 20,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "c. those entered into by a school; and",
+      "ordinal": 21,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "p",
+      "text": "d. concession contracts.",
+      "ordinal": 22,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "10. Grants payments are not caught by the requirement to publish a payment compliance notice as grants are not public contracts.",
+      "ordinal": 23,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "11. Section 69(3) defines a reporting period. The first reporting period starts 1 October 2025 and ends 31 March 2026 and the second reporting period will be 1 April 2026 until 30 September 2026. Each successive six months is a new reporting period.",
+      "ordinal": 24,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "p",
+      "text": "12. Regulation 38 sets out that the payment compliance notice must include:",
+      "ordinal": 25,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "p",
+      "text": "a. the contracting authority information;",
+      "ordinal": 26,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "p",
+      "text": "b. the dates of the first and the last days of the reporting period;",
+      "ordinal": 27,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "c. in respect of payments under public contracts during the reporting period:",
+      "ordinal": 28,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "p",
+      "text": "i. the average number of days taken to make those payments, (see paragraphs 18-19); and",
+      "ordinal": 29,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "p",
+      "text": "ii. the percentage of those payments which were paid within specified timeframes (see paragraphs 20-22).",
+      "ordinal": 30,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "p",
+      "text": "These metrics are intended to enable the data to be directly compared with the data submitted by private companies under the Reporting on Payment Practices and Performance Regulations 2017 [footnote 2] ; and",
+      "ordinal": 31,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "p",
+      "text": "d. the percentage of invoices paid in accordance with the term in section 68(2) of the Act during the reporting period (see paragraphs 27-30)",
+      "ordinal": 32,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "p",
+      "text": "e. a statement of the director or similar officer approving the payments compliance notice (see paragraphs 27-28).",
+      "ordinal": 33,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "p",
+      "text": "13. The objective of section 68(2) is to ensure contracting authorities pay invoices within 30 days from the day the invoice is received.",
+      "ordinal": 34,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "heading",
+      "text": "Calculating payment periods",
+      "ordinal": 35,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Calculating payment periods"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "p",
+      "text": "14. To provide the payment information required in the payments compliance notice, contracting authorities will need to calculate the number of days it takes them to pay each invoice:",
+      "ordinal": 36,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Calculating payment periods"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "p",
+      "text": "a. for the purpose of reporting under regulation 38(2)(c) , day 1 is the day following the day a contracting authority receives an invoice",
+      "ordinal": 37,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Calculating payment periods"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "p",
+      "text": "b. for the purpose of reporting against compliance with section 68(2) , day 1 is the day the invoice is received",
+      "ordinal": 38,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Calculating payment periods"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "p",
+      "text": "15. If the contracting authority uses an electronic invoicing system, the day that the invoice is received onto the system is the invoice day ( regulation 38(3) ).",
+      "ordinal": 39,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Calculating payment periods"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "heading",
+      "text": "Delays in payment being received",
+      "ordinal": 40,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Delays in payment being received"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "p",
+      "text": "16. Regulation 38(4) provides that payment is made when it is received by the supplier. If there is a delay in the supplier receiving payment for which the contracting authority is not responsible, then the regulation provides that payment is made when it would have been received without that delay. A delay for which the contracting authority is not responsible may occur, for example, when a payment processing system suffers a system outage.",
+      "ordinal": 41,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Delays in payment being received"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "heading",
+      "text": "Calculating the average number of days to pay an invoice ( regulation 38(2)(c)(i) )",
+      "ordinal": 42,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Calculating the average number of days to pay an invoice ( regulation 38(2)(c)(i) )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "p",
+      "text": "17. Regulation 38(2)(c)(i) requires that the payments compliance notice sets out the average number of days the contracting authority took to pay its suppliers during the reporting period, where day 1 is the day after the invoice day. Regulation 38(3) provides that ‘average’ means the arithmetic mean (the sum of all days taken to pay, divided by the number of invoices that were paid).",
+      "ordinal": 43,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Calculating the average number of days to pay an invoice ( regulation 38(2)(c)(i) )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "p",
+      "text": "18. Invoices that a contracting authority has received but has not yet paid should not be included when calculating the average number of days taken to make payments in the reporting period.",
+      "ordinal": 44,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Calculating the average number of days to pay an invoice ( regulation 38(2)(c)(i) )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "p",
+      "text": "19. For example, if an invoice was received in the middle of the reporting period and was not paid before the end of the reporting period, it should not be included. When calculating the number of invoices paid during the relevant reporting period, the contracting authority should include invoices that were received in a previous reporting period and paid in the relevant reporting period.",
+      "ordinal": 45,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Calculating the average number of days to pay an invoice ( regulation 38(2)(c)(i) )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "p",
+      "text": "20. If a contracting authority received an invalid invoice or disputed an invoice, but still paid the invoice within the reporting period, it should be included in the calculation.",
+      "ordinal": 46,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Calculating the average number of days to pay an invoice ( regulation 38(2)(c)(i) )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "heading",
+      "text": "Calculating the percentage of invoices paid within specified timeframes in a reporting period ( regulation 38(2)(c)(ii) )",
+      "ordinal": 47,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Calculating the percentage of invoices paid within specified timeframes in a reporting period ( regulation 38(2)(c)(ii) )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "p",
+      "text": "21. Regulation 38(2)(c)(ii) requires that the payment compliance notice includes the percentage of payments made during the reporting period within certain specified timeframes, where day 1 is the day after the invoice day. The percentage of invoices paid in each timeframe should be worked out by calculating the number of payments made within each period as a percentage of the total number of payments made in the relevant reporting period.",
+      "ordinal": 48,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Calculating the percentage of invoices paid within specified timeframes in a reporting period ( regulation 38(2)(c)(ii) )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "p",
+      "text": "22. The three specified timeframes for payment align with the Reporting on Payment Practices and Reporting Regulations 2017 and are: within 30 days, between 31 and 60 days, and on or after day 61. The figures included against these timeframes should add up to 100% when entered into the payments compliance notice. Values may need to be rounded up or down to add up to 100%.",
+      "ordinal": 49,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Calculating the percentage of invoices paid within specified timeframes in a reporting period ( regulation 38(2)(c)(ii) )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00050",
+      "block_type": "p",
+      "text": "23. Invoices that a contracting authority has received but has not yet paid should not be included in the calculation.",
+      "ordinal": 50,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Calculating the percentage of invoices paid within specified timeframes in a reporting period ( regulation 38(2)(c)(ii) )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00051",
+      "block_type": "p",
+      "text": "24. For example, if an invoice was received in the middle of the reporting period and was not paid before the end of the reporting period, it should not be included. When calculating the number of invoices paid during the relevant reporting period, the contracting authority should include invoices that were received in a previous reporting period and paid in the relevant reporting period.",
+      "ordinal": 51,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Calculating the percentage of invoices paid within specified timeframes in a reporting period ( regulation 38(2)(c)(ii) )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00052",
+      "block_type": "p",
+      "text": "25. If a contracting authority received an invalid invoice or disputed an invoice, but still paid the invoice within the reporting period, it should be included in the calculation.",
+      "ordinal": 52,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Calculating the percentage of invoices paid within specified timeframes in a reporting period ( regulation 38(2)(c)(ii) )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00053",
+      "block_type": "p",
+      "text": "26. All percentages reported should be against the total number of invoices received, rather than against the total value of the invoices.",
+      "ordinal": 53,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Calculating the percentage of invoices paid within specified timeframes in a reporting period ( regulation 38(2)(c)(ii) )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00054",
+      "block_type": "heading",
+      "text": "Reporting on the contracting authority’s payments compliance with the term set out in section 68(2) ( regulation 38(2)(ca) )",
+      "ordinal": 54,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Reporting on the contracting authority’s payments compliance with the term set out in section 68(2) ( regulation 38(2)(ca) )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00055",
+      "block_type": "p",
+      "text": "27. Regulation 38(2)(ca) requires contracting authorities to report on their compliance with the payment term in section 68(2) of the Act. Reporting this metric provides transparency on the percentage of payments which were not made by a contracting authority in accordance with section 68(2) of the Act because an invoice was paid in more than 30 days or has been disputed or deemed invalid by the contracting authority.",
+      "ordinal": 55,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Reporting on the contracting authority’s payments compliance with the term set out in section 68(2) ( regulation 38(2)(ca) )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00056",
+      "block_type": "p",
+      "text": "28. This figure is the number of invoices a contracting authority paid in accordance with section 68(2) i.e. were paid within 30 days and were not disputed or considered invalid, during the reporting period as a proportion of the total number of invoices received during the reporting period.The below table sets out what invoices would be considered to be reported as an invoice paid in accordance with section 68(2) .",
+      "ordinal": 56,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Reporting on the contracting authority’s payments compliance with the term set out in section 68(2) ( regulation 38(2)(ca) )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00057",
+      "block_type": "table",
+      "text": "Invoice type\tInvoice paid within 30 days\tReported as an invoice paid in accordance with section 68(2)\nValid and undisputed invoice\tYes\tYes\nValid and undisputed invoice\tNo\tNo\nInvalid or disputed invoice\tYes\tNo\nInvalid or disputed invoice\tNo\tNo",
+      "ordinal": 57,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Reporting on the contracting authority’s payments compliance with the term set out in section 68(2) ( regulation 38(2)(ca) )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {
+        "rows": [
+          [
+            "Invoice type",
+            "Invoice paid within 30 days",
+            "Reported as an invoice paid in accordance with section 68(2)"
+          ],
+          [
+            "Valid and undisputed invoice",
+            "Yes",
+            "Yes"
+          ],
+          [
+            "Valid and undisputed invoice",
+            "No",
+            "No"
+          ],
+          [
+            "Invalid or disputed invoice",
+            "Yes",
+            "No"
+          ],
+          [
+            "Invalid or disputed invoice",
+            "No",
+            "No"
+          ]
+        ],
+        "row_count": 5
+      }
+    },
+    {
+      "block_id": "b00058",
+      "block_type": "p",
+      "text": "29. If a contracting authority was not required to pay an invoice in the reporting period because it was received less than 30 days before the end of the reporting period, that invoice is not taken into account in the calculation. However, if that same invoice was paid within the reporting period, it should be taken into account in the calculation.",
+      "ordinal": 58,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Reporting on the contracting authority’s payments compliance with the term set out in section 68(2) ( regulation 38(2)(ca) )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00059",
+      "block_type": "p",
+      "text": "30. Where a valid and undisputed invoice is received during the reporting period and the contracting authority was required to pay it in that reporting period (i.e. because the deadline for payment was a date within the reporting period), but did not pay it, that invoice is counted as an invoice that was not paid in accordance with section 68(2) .",
+      "ordinal": 59,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Reporting on the contracting authority’s payments compliance with the term set out in section 68(2) ( regulation 38(2)(ca) )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00060",
+      "block_type": "heading",
+      "text": "Reporting the percentage of payments due to be made in the reporting period but not paid ( regulation 38(2)(d) )",
+      "ordinal": 60,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Reporting the percentage of payments due to be made in the reporting period but not paid ( regulation 38(2)(d) )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00061",
+      "block_type": "p",
+      "text": "31. Regulation 38(2)(d) requires contracting authorities to report payments which were not made during the reporting period but were due to be paid. This is in effect the inverse of reporting on the contracting authority’s compliance with the term set out in section 68(2) under regulation 38(2)(ca) ).",
+      "ordinal": 61,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Reporting the percentage of payments due to be made in the reporting period but not paid ( regulation 38(2)(d) )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00062",
+      "block_type": "p",
+      "text": "32. The figure should be the proportion of invoices, out of all received invoices, a contracting authority did not pay in accordance with section 68(2) because they were either not paid within 30 days from the day the invoice was received, or were disputed or considered invalid by the contracting authority.",
+      "ordinal": 62,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Reporting the percentage of payments due to be made in the reporting period but not paid ( regulation 38(2)(d) )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00063",
+      "block_type": "heading",
+      "text": "Approving a payments compliance notice ( regulation 38(2)(e) )",
+      "ordinal": 63,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Approving a payments compliance notice ( regulation 38(2)(e) )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00064",
+      "block_type": "p",
+      "text": "33. The payment compliance notice must include a statement of the director or similar officer of the contracting authority who is responsible for the contracting authority’s finances setting out that they approve the payments compliance notice. The person’s name and job title must also be included in the payments compliance notice. The purpose of this requirement is to increase professional scrutiny and trust in the notices and hold the public sector to the same standards as the private sector.",
+      "ordinal": 64,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Approving a payments compliance notice ( regulation 38(2)(e) )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00065",
+      "block_type": "p",
+      "text": "34. The person providing the statement should be someone in a position of authority within the contracting authority. In central government contracting authorities, this should be someone of Senior Civil Service level. In other contracting authorities, this should be someone with the equivalent level of seniority.",
+      "ordinal": 65,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Approving a payments compliance notice ( regulation 38(2)(e) )"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00066",
+      "block_type": "heading",
+      "text": "Payment types and methods",
+      "ordinal": 66,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Payment types and methods"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00067",
+      "block_type": "heading",
+      "text": "Partially paid invoices",
+      "ordinal": 67,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Payment types and methods",
+        "Partially paid invoices"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00068",
+      "block_type": "p",
+      "text": "35. Invoices which are partially paid, for example, where 75% of the total invoiced amount is paid) should be treated as unpaid and reported as paid within the relevant reporting period in which they are fully paid where the supplier has not agreed to accept the partial payment as full payment of the invoice. If the supplier has agreed to the partial payment, the invoice is considered paid on the date the payment was made or, if later, the date the supplier agreed to the partial payment.",
+      "ordinal": 68,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Payment types and methods",
+        "Partially paid invoices"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00069",
+      "block_type": "heading",
+      "text": "Payments by instalments",
+      "ordinal": 69,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Payments by instalments"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00070",
+      "block_type": "p",
+      "text": "36. If an invoice is paid in instalments by mutual agreement at the outset, the payments can be reported as having been made for the purpose of calculating the information to be included in the payments compliance notice, provided the instalments are paid on time.",
+      "ordinal": 70,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Payments by instalments"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00071",
+      "block_type": "p",
+      "text": "37. Where payment by instalment has been agreed, contracting authorities should treat each instalment as a separate invoice. The 30 day period during which payment should be made will commence, for each instalment, on the day on which the invoice was received (for the first instalment), and for subsequent instalments, the day on which it was agreed each instalment was to be paid. Generally, if an invoice is being paid in multiple instalments (for example, monthly payments), contracting authorities should encourage suppliers to use separate invoice numbers for each instalment.",
+      "ordinal": 71,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Payments by instalments"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00072",
+      "block_type": "p",
+      "text": "38. If an invoice is being paid in instalments due to a supplier agreeing to defer payment to a later date, the number of days within which payments are made is measured from the day of receipt of the original full invoice.",
+      "ordinal": 72,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Payments by instalments"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00073",
+      "block_type": "heading",
+      "text": "Direct debits",
+      "ordinal": 73,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Payments by instalments",
+        "Direct debits"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00074",
+      "block_type": "p",
+      "text": "39. If an invoice has been paid in full using direct debit, then the invoice will be shown as paid on the date the supplier receives the money. If regular payments are set up, the invoice received date is the day of the scheduled direct debit, and the payment received date would be when the supplier received the money.",
+      "ordinal": 74,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Payments by instalments",
+        "Direct debits"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00075",
+      "block_type": "heading",
+      "text": "Payment card solutions",
+      "ordinal": 75,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Payments by instalments",
+        "Payment card solutions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00076",
+      "block_type": "p",
+      "text": "40. There are three main types of payment cards which may be used by contracting authorities for high volume, low value payments. When these cards are used, generally each purchase with the card should be treated as a separate invoice (rather than a statement containing a number of purchases being treated as a single invoice), although there are exceptions:",
+      "ordinal": 76,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Payments by instalments",
+        "Payment card solutions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00077",
+      "block_type": "p",
+      "text": "a. physical cards: each transaction is a separate invoice. Where physical cards are used for staff expenses (rather than designated expenses cards), these should be excluded and are not invoices for the purpose of the Act or regulations;",
+      "ordinal": 77,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Payments by instalments",
+        "Payment card solutions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00078",
+      "block_type": "p",
+      "text": "b. single use account cards: each transaction is a separate invoice;",
+      "ordinal": 78,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Payments by instalments",
+        "Payment card solutions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00079",
+      "block_type": "p",
+      "text": "c. lodge cards: these are typically replacing high volume invoices from suppliers. The number of transactions that should be included in an invoice relates to the number of invoices that the card has replaced. For example, if a supplier previously submitted a single monthly invoice covering a number of different purchases, the statement for the lodge card is a single invoice, even if it lists each purchase separately.",
+      "ordinal": 79,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Payments by instalments",
+        "Payment card solutions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00080",
+      "block_type": "heading",
+      "text": "Batch upload/feeder files",
+      "ordinal": 80,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Payments by instalments",
+        "Batch upload/feeder files"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00081",
+      "block_type": "p",
+      "text": "41. Invoices contained within batch upload files should be included when calculating the number of days or percentages for the purpose of the payments compliance notice. If each line within a batch upload file has been allocated an individual invoice number by the supplier, each invoice number should be counted once rather than counting each line relating to the same invoice number separately.",
+      "ordinal": 81,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Payments by instalments",
+        "Batch upload/feeder files"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00082",
+      "block_type": "p",
+      "text": "42. Feeder files that present general payment information are not invoices and should not be included when calculating the number of invoices for the purpose of the payments compliance notice.",
+      "ordinal": 82,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Payments by instalments",
+        "Batch upload/feeder files"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00083",
+      "block_type": "heading",
+      "text": "Other payments",
+      "ordinal": 83,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Payments by instalments",
+        "Other payments"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00084",
+      "block_type": "p",
+      "text": "43. Only sums payable under invoices for the supply of goods, services or works under a public contract should be taken into account in the calculations for a payments compliance notice. Contracting authorities should exclude payments that are unrelated to the purchase of goods, services or works. Pass-through costs such as benefit payments, staff reimbursements, compensation payments, doctors’ payments, etc. should not be inadvertently included as payments made.",
+      "ordinal": 84,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Payments by instalments",
+        "Other payments"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00085",
+      "block_type": "heading",
+      "text": "Credit notes",
+      "ordinal": 85,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Payments by instalments",
+        "Credit notes"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00086",
+      "block_type": "p",
+      "text": "44. Credit notes received from suppliers are not invoices and should not be inadvertently included when calculating the number of invoices for the purpose of the payments compliance notice.",
+      "ordinal": 86,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Payments by instalments",
+        "Credit notes"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00087",
+      "block_type": "p",
+      "text": "45. Invoices for which no payment is due because they are covered completely by a credit note do not count as a payment, and therefore not reported. For partial credit notes, if the supplier has agreed to a partial payment, the invoice is considered paid on the date the payment was made or, if later, the date the supplier agreed to the partial payment.",
+      "ordinal": 87,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Payments by instalments",
+        "Credit notes"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00088",
+      "block_type": "heading",
+      "text": "BACS payments",
+      "ordinal": 88,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Payments by instalments",
+        "BACS payments"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00089",
+      "block_type": "p",
+      "text": "46. To ensure payment is received within the period required in section 68(2) , contracting authorities making payments by BACS should arrange for payments to leave their bank accounts 3-5 days ahead of the due date for payment to allow for transaction time, weekends and bank holidays.",
+      "ordinal": 89,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Payments by instalments",
+        "BACS payments"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00090",
+      "block_type": "heading",
+      "text": "International payments",
+      "ordinal": 90,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Payments by instalments",
+        "International payments"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00091",
+      "block_type": "p",
+      "text": "47. International payments of invoices made by contracting authorities under public contracts should be included when calculating the payments made in the reporting period in the same way as any other payment, but if the international element is the primary reason for any late payment, this should be noted in the free-text field on the payments compliance notice.",
+      "ordinal": 91,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Payments by instalments",
+        "International payments"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00092",
+      "block_type": "heading",
+      "text": "Ensuring the invoice is sent to the correct address for payment",
+      "ordinal": 92,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Ensuring the invoice is sent to the correct address for payment"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00093",
+      "block_type": "p",
+      "text": "48. Section 68(11) and regulation 38(5) provide that an invoice is received by a contracting authority when, for example, the invoice is delivered to the address, or through an electronic invoicing system, specified in the contract in question for that purpose. This is not an exhaustive description of what it means for an invoice to be received and the relevant electronic invoicing system may not have been specified in the contract, but may be subsequently specified by the contracting authority, or an address may change. In the absence of any specific instructions, the invoice is received the day the invoice is received within the contracting authority, even if this is not received by the person responsible for processing it.",
+      "ordinal": 93,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Ensuring the invoice is sent to the correct address for payment"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00094",
+      "block_type": "p",
+      "text": "49. To avoid late payment and potential disputes, the contract should set out specific instructions for submitting invoices. For example, the email address and named person to which the invoice must be submitted, and the dispute resolution procedure to apply in the event the contracting authority disputes an invoice. Contracting authorities should note that section 68(4) requires the contracting authority, on receiving an invoice, to notify the payee without undue delay if it considers the invoice invalid or disputes it. For further information please refer to the guidance on implied payment terms and electronic invoicing and payment .",
+      "ordinal": 94,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Ensuring the invoice is sent to the correct address for payment"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00095",
+      "block_type": "heading",
+      "text": "What is an invoice?",
+      "ordinal": 95,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "What is an invoice?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00096",
+      "block_type": "p",
+      "text": "50. The term ‘invoice’ is not defined in the Act (unlike ‘electronic invoice’) or the regulations and may take different forms. Rather than a traditional invoice, the supplier may, for example, submit a timesheet setting out services delivered for a particular month under a services contract and the amount due. Provided the information submitted for payment includes the minimum required information (see section 68(9) ) (or is in the required electronic form (see section 68(8)(a) ), then it is a valid invoice. The period for payment in section 68(2) will apply and be calculated from the day the information is received by the contracting authority (provided it is valid and not disputed).",
+      "ordinal": 96,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "What is an invoice?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00097",
+      "block_type": "heading",
+      "text": "How should supply chain finance be treated?",
+      "ordinal": 97,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "How should supply chain finance be treated?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00098",
+      "block_type": "p",
+      "text": "51. Unless a shorter period is agreed, the payment period will always be as set out in section 68(2) . Using supply chain finance to ensure the supplier is paid within the implied payment period is not compliant with section 68(2) if the absence of supply chain finance means that the supplier would have been paid later than the 30 day payment period. If a supplier wishes to use supply chain finance to receive payment earlier than the payment period in section 68(2) , that is a matter for the supplier.",
+      "ordinal": 98,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "How should supply chain finance be treated?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00099",
+      "block_type": "p",
+      "text": "52. If a supplier using supply chain finance receives the full amount due under the invoice without having to pay a fee or having any amount deducted from the payment, the date the payment is made is the date on which the supplier receives the full payment from the supply chain finance provider.",
+      "ordinal": 99,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "How should supply chain finance be treated?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00100",
+      "block_type": "p",
+      "text": "53. If the supplier wishes to receive payment earlier than the period set out in section 68(2) and to do so is happy to bear the cost of any fee for the supply chain finance or to receive a reduced amount, the date the reduced payment is made is the date on which the payment should have been made in accordance with the invoice (even where payment is received before that date). For example, if payment is originally required in 30 days from the day of receipt of the invoice, but the supplier accepts a reduced amount to receive payment from supply chain finance in 15 days, the number of payment days should be recorded as 30. If the supplier had received the full amount (without any amount deducted from the payment), the number of payment days would be recorded as 15.",
+      "ordinal": 100,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "How should supply chain finance be treated?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00101",
+      "block_type": "heading",
+      "text": "Where should the payments compliance notice be published?",
+      "ordinal": 101,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Where should the payments compliance notice be published?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00102",
+      "block_type": "p",
+      "text": "54. Under the regulations, payments compliance notices must be published on the central digital platform.",
+      "ordinal": 102,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Where should the payments compliance notice be published?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00103",
+      "block_type": "heading",
+      "text": "Reporting on payments relating to below-threshold contracts",
+      "ordinal": 103,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Reporting on payments relating to below-threshold contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00104",
+      "block_type": "p",
+      "text": "55. The Act does not require payments compliance notices relating to below-threshold contracts to be published. However, it is permissible to publish a payments compliance notice relating to a below-threshold contract. This voluntary reporting is encouraged because it provides a more complete picture of a contracting authority’s payment performance and it may be easier for the contracting authority to publish payments compliance notices without having to identify and exclude payments relating to below-threshold contracts.",
+      "ordinal": 104,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Reporting on payments relating to below-threshold contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00105",
+      "block_type": "heading",
+      "text": "Reporting on payments relating to contracts awarded under other procurement regimes",
+      "ordinal": 105,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Reporting on payments relating to contracts awarded under other procurement regimes"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00106",
+      "block_type": "p",
+      "text": "56. The Act does not require payments compliance notices relating to payments made under contracts awarded under procurement regimes other than the Procurement Act 2023 to be published. However, it is permissible to publish a payments compliance notice relating to these payments.",
+      "ordinal": 106,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Reporting on payments relating to contracts awarded under other procurement regimes"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00107",
+      "block_type": "heading",
+      "text": "Worked example",
+      "ordinal": 107,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Worked example"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00108",
+      "block_type": "p",
+      "text": "An authority receives 10 invoices. 4 are paid in 7 days, 4 are paid in 27 days, 1 paid in 35 days, and 1 is disputed and not paid yet.",
+      "ordinal": 108,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Worked example"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00109",
+      "block_type": "p",
+      "text": "Reg 38(2)(c)(i) Average number of days taken: 19 This is the total number of days taken divided by the number of paid invoices. (171 / 9)",
+      "ordinal": 109,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Worked example"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00110",
+      "block_type": "p",
+      "text": "Reg 38(2)(c)(ii)(aa) Percentage paid in 1-30 days: 89% This is the total number paid in 30 days divided by the number of paid invoices (8 / 9)",
+      "ordinal": 110,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Worked example"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00111",
+      "block_type": "p",
+      "text": "Reg 38(2)(c)(ii)(bb) Percentage paid in 31-60 days: 11% This is the total number paid in 31-60 days divided by the number of paid invoices (8 / 9)",
+      "ordinal": 111,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Worked example"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00112",
+      "block_type": "p",
+      "text": "Reg 38(2)(c)(ii)(cc) Percentage paid in 61+ days: 0%",
+      "ordinal": 112,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Worked example"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00113",
+      "block_type": "p",
+      "text": "Reg 38(2)(ca) Percentage paid in accordance with the term in section 68(2) : 80% This is the total number paid in 30 days and undisputed, divided by the number of all invoices due to be paid (8 / 10). 10% of invoices were not paid in 30 days and 10% were disputed.",
+      "ordinal": 113,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Worked example"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00114",
+      "block_type": "p",
+      "text": "Reg 38(2)(d) Percentage of payments due to be made in the reporting period but not paid: 20% This is the total number of invoices not paid but due to be paid in the reporting period (2 / 10). 10% of invoices were not paid in 30 days and 10% were disputed.",
+      "ordinal": 114,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "Key points and policy intent",
+        "Worked example"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00115",
+      "block_type": "heading",
+      "text": "What other guidance is of particular relevance to this topic area?",
+      "ordinal": 115,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00116",
+      "block_type": "p",
+      "text": "Guidance on electronic invoicing and payment",
+      "ordinal": 116,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00117",
+      "block_type": "p",
+      "text": "Guidance on the central digital platform and publication of information",
+      "ordinal": 117,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00118",
+      "block_type": "p",
+      "text": "Guidance on thresholds",
+      "ordinal": 118,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00119",
+      "block_type": "p",
+      "text": "© Crown copyright 2024",
+      "ordinal": 119,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00120",
+      "block_type": "p",
+      "text": "This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated. To view this licence, visit nationalarchives.gov.uk/doc/open-government-licence/version/3",
+      "ordinal": 120,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00121",
+      "block_type": "p",
+      "text": "Where we have identified any third party copyright information you will need to obtain permission from the copyright holders concerned.",
+      "ordinal": 121,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00122",
+      "block_type": "p",
+      "text": "This publication is available at www.gov.uk/government/publications",
+      "ordinal": 122,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00123",
+      "block_type": "p",
+      "text": "Any enquiries regarding this publication should be sent to us at procurement.reform@cabinetoffice.gov.uk .",
+      "ordinal": 123,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00124",
+      "block_type": "li",
+      "text": "See regulation 8(10) of The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 ↩",
+      "ordinal": 124,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00125",
+      "block_type": "p",
+      "text": "See regulation 8(10) of The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 ↩",
+      "ordinal": 125,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00126",
+      "block_type": "li",
+      "text": "The Reporting on Payment Practices and Performance Regulations 2017 ↩",
+      "ordinal": 126,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00127",
+      "block_type": "p",
+      "text": "The Reporting on Payment Practices and Performance Regulations 2017 ↩",
+      "ordinal": 127,
+      "heading_path": [
+        "What are payments compliance notices?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "section 68(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00001",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement Act 2023 (Act)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/contents",
+      "block_id": "b00001",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 38(2)(c)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/38",
+      "block_id": "b00001",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement Regulations 2024",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/contents",
+      "block_id": "b00001",
+      "ordinal": 3,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "electronic invoicing and payment",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-electronic-invoicing-and-payment-html",
+      "block_id": "b00003",
+      "ordinal": 4,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 69(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/69",
+      "block_id": "b00005",
+      "ordinal": 5,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Regulation 38",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/38",
+      "block_id": "b00006",
+      "ordinal": 6,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 69(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/69",
+      "block_id": "b00006",
+      "ordinal": 7,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 38(2)(ca)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/38",
+      "block_id": "b00012",
+      "ordinal": 8,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "[footnote 1]",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-payments-compliance-notices-html#fn:1",
+      "block_id": "b00012",
+      "ordinal": 9,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Procurement Regulations 2024",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/contents",
+      "block_id": "b00012",
+      "ordinal": 10,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 38(2)(c)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/38",
+      "block_id": "b00013",
+      "ordinal": 11,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 38(2)(e)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/38",
+      "block_id": "b00014",
+      "ordinal": 12,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 38",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/38",
+      "block_id": "b00015",
+      "ordinal": 13,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 3",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/3",
+      "block_id": "b00018",
+      "ordinal": 14,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 69(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/69",
+      "block_id": "b00024",
+      "ordinal": 15,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Regulation 38",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/38",
+      "block_id": "b00025",
+      "ordinal": 16,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "[footnote 2]",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-payments-compliance-notices-html#fn:2",
+      "block_id": "b00031",
+      "ordinal": 17,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "section 68(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00032",
+      "ordinal": 18,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 68(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00034",
+      "ordinal": 19,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 38(2)(c)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/38",
+      "block_id": "b00037",
+      "ordinal": 20,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 68(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00038",
+      "ordinal": 21,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 38(3)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/38",
+      "block_id": "b00039",
+      "ordinal": 22,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Regulation 38(4)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/38",
+      "block_id": "b00041",
+      "ordinal": 23,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 38(2)(c)(i)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/38",
+      "block_id": "b00042",
+      "ordinal": 24,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Regulation 38(2)(c)(i)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/38",
+      "block_id": "b00043",
+      "ordinal": 25,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Regulation 38(3)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/38",
+      "block_id": "b00043",
+      "ordinal": 26,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 38(2)(c)(ii)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/38",
+      "block_id": "b00047",
+      "ordinal": 27,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Regulation 38(2)(c)(ii)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/38",
+      "block_id": "b00048",
+      "ordinal": 28,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Reporting on Payment Practices and Reporting Regulations 2017",
+      "href": "https://www.legislation.gov.uk/ukdsi/2017/9780111153598/contents",
+      "block_id": "b00049",
+      "ordinal": 29,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 68(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00054",
+      "ordinal": 30,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 38(2)(ca)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/38",
+      "block_id": "b00054",
+      "ordinal": 31,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Regulation 38(2)(ca)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/38",
+      "block_id": "b00055",
+      "ordinal": 32,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 68(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00055",
+      "ordinal": 33,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 68(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00055",
+      "ordinal": 34,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 68(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00056",
+      "ordinal": 35,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 68(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00056",
+      "ordinal": 36,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 68(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00057",
+      "ordinal": 37,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 68(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00059",
+      "ordinal": 38,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 38(2)(d)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/38",
+      "block_id": "b00060",
+      "ordinal": 39,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Regulation 38(2)(d)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/38",
+      "block_id": "b00061",
+      "ordinal": 40,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 68(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00061",
+      "ordinal": 41,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 38(2)(ca)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/38",
+      "block_id": "b00061",
+      "ordinal": 42,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 68(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00062",
+      "ordinal": 43,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 38(2)(e)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/38",
+      "block_id": "b00063",
+      "ordinal": 44,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 68(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00089",
+      "ordinal": 45,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 68(11)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00093",
+      "ordinal": 46,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 38(5)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/38",
+      "block_id": "b00093",
+      "ordinal": 47,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 68(4)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00094",
+      "ordinal": 48,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "implied payment terms and electronic invoicing and payment",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-electronic-invoicing-and-payment-html",
+      "block_id": "b00094",
+      "ordinal": 49,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 68(9)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00096",
+      "ordinal": 50,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 68(8)(a)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00096",
+      "ordinal": 51,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 68(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00096",
+      "ordinal": 52,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 68(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00098",
+      "ordinal": 53,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 68(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00098",
+      "ordinal": 54,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 68(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00098",
+      "ordinal": 55,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 68(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00100",
+      "ordinal": 56,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement Act 2023",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/contents",
+      "block_id": "b00106",
+      "ordinal": 57,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 68(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00113",
+      "ordinal": 58,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "electronic invoicing and payment",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-electronic-invoicing-and-payment-html",
+      "block_id": "b00116",
+      "ordinal": 59,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "the central digital platform and publication of information",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-central-digital-platform-and-publication-of-information-html",
+      "block_id": "b00117",
+      "ordinal": 60,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "thresholds",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-thresholds-html",
+      "block_id": "b00118",
+      "ordinal": 61,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "nationalarchives.gov.uk/doc/open-government-licence/version/3",
+      "href": "http://nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "block_id": "b00120",
+      "ordinal": 62,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "www.gov.uk/government/publications",
+      "href": "http://www.gov.uk/government/publications",
+      "block_id": "b00122",
+      "ordinal": 63,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "procurement.reform@cabinetoffice.gov.uk",
+      "href": "mailto:procurement.reform@cabinetoffice.gov.uk",
+      "block_id": "b00123",
+      "ordinal": 64,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-payments-compliance-notices-html#fnref:1",
+      "block_id": "b00124",
+      "ordinal": 65,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-payments-compliance-notices-html#fnref:1",
+      "block_id": "b00125",
+      "ordinal": 66,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "The Reporting on Payment Practices and Performance Regulations 2017",
+      "href": "https://www.legislation.gov.uk/uksi/2017/395/contents/made",
+      "block_id": "b00126",
+      "ordinal": 67,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-payments-compliance-notices-html#fnref:2",
+      "block_id": "b00126",
+      "ordinal": 68,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "The Reporting on Payment Practices and Performance Regulations 2017",
+      "href": "https://www.legislation.gov.uk/uksi/2017/395/contents/made",
+      "block_id": "b00127",
+      "ordinal": 69,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-payments-compliance-notices-html#fnref:2",
+      "block_id": "b00127",
+      "ordinal": 70,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Guidance: Payments Compliance Notices (HTML)",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-payments-compliance-notices-html",
+      "block_id": "__document__",
+      "ordinal": 71,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2024 to 2026 Starmer Labour government",
+      "href": "https://www.gov.uk/government/2024-starmer-labour-government",
+      "block_id": "__document__",
+      "ordinal": 72,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 73,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Procurement Act 2023 guidance documents - Manage phase",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase",
+      "block_id": "__document__",
+      "ordinal": 74,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 75,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 68(2)",
+      "block_id": "b00001",
+      "start": 201,
+      "end": 214,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 38(2)(c)",
+      "block_id": "b00001",
+      "start": 309,
+      "end": 328,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "38",
+        "tail": "(2)(c)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2024",
+      "block_id": "b00001",
+      "start": 348,
+      "end": 364,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2024"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 45",
+      "block_id": "b00002",
+      "start": 117,
+      "end": 129,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "45"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 69(1)",
+      "block_id": "b00005",
+      "start": 3,
+      "end": 16,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "69",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 11",
+      "block_id": "b00005",
+      "start": 158,
+      "end": 170,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "11"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 69(1)",
+      "block_id": "b00006",
+      "start": 112,
+      "end": 125,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "69",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 38",
+      "block_id": "b00006",
+      "start": 3,
+      "end": 16,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "38"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 68",
+      "block_id": "b00007",
+      "start": 3,
+      "end": 13,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 113(7)",
+      "block_id": "b00009",
+      "start": 70,
+      "end": 87,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "113",
+        "tail": "(7)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015",
+      "block_id": "b00009",
+      "start": 112,
+      "end": 128,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 38(2)(ca)",
+      "block_id": "b00012",
+      "start": 25,
+      "end": 45,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "38",
+        "tail": "(2)(ca)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2024",
+      "block_id": "b00012",
+      "start": 73,
+      "end": 89,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2024"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 38(2)(c)",
+      "block_id": "b00013",
+      "start": 25,
+      "end": 44,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "38",
+        "tail": "(2)(c)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 38(2)(e)",
+      "block_id": "b00014",
+      "start": 25,
+      "end": 44,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "38",
+        "tail": "(2)(e)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 38",
+      "block_id": "b00015",
+      "start": 44,
+      "end": 57,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "38"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 3",
+      "block_id": "b00018",
+      "start": 102,
+      "end": 111,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "3"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 69(3)",
+      "block_id": "b00024",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "69",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 38",
+      "block_id": "b00025",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "38"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraphs 18",
+      "block_id": "b00029",
+      "start": 65,
+      "end": 78,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "18"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraphs 20",
+      "block_id": "b00030",
+      "start": 86,
+      "end": 99,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "20"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2017",
+      "block_id": "b00031",
+      "start": 172,
+      "end": 188,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2017"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 68(2)",
+      "block_id": "b00032",
+      "start": 66,
+      "end": 79,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraphs 27",
+      "block_id": "b00032",
+      "start": 124,
+      "end": 137,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "27"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraphs 27",
+      "block_id": "b00033",
+      "start": 96,
+      "end": 109,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "27"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 68(2)",
+      "block_id": "b00034",
+      "start": 21,
+      "end": 34,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 38(2)(c)",
+      "block_id": "b00037",
+      "start": 38,
+      "end": 57,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "38",
+        "tail": "(2)(c)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 68(2)",
+      "block_id": "b00038",
+      "start": 56,
+      "end": 69,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 38(3)",
+      "block_id": "b00039",
+      "start": 144,
+      "end": 160,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "38",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 38(4)",
+      "block_id": "b00041",
+      "start": 4,
+      "end": 20,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "38",
+        "tail": "(4)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 38(2)(c)(i)",
+      "block_id": "b00042",
+      "start": 59,
+      "end": 81,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "38",
+        "tail": "(2)(c)(i)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 38(2)(c)(i)",
+      "block_id": "b00043",
+      "start": 4,
+      "end": 26,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "38",
+        "tail": "(2)(c)(i)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 38(3)",
+      "block_id": "b00043",
+      "start": 235,
+      "end": 251,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "38",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 38(2)(c)(ii)",
+      "block_id": "b00047",
+      "start": 96,
+      "end": 119,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "38",
+        "tail": "(2)(c)(ii)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 38(2)(c)(ii)",
+      "block_id": "b00048",
+      "start": 4,
+      "end": 27,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "38",
+        "tail": "(2)(c)(ii)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2017",
+      "block_id": "b00049",
+      "start": 107,
+      "end": 123,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2017"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 68(2)",
+      "block_id": "b00054",
+      "start": 86,
+      "end": 99,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 38(2)(ca)",
+      "block_id": "b00054",
+      "start": 102,
+      "end": 122,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "38",
+        "tail": "(2)(ca)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 68(2)",
+      "block_id": "b00055",
+      "start": 113,
+      "end": 126,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 68(2)",
+      "block_id": "b00055",
+      "start": 279,
+      "end": 292,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 38(2)(ca)",
+      "block_id": "b00055",
+      "start": 4,
+      "end": 24,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "38",
+        "tail": "(2)(ca)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 68(2)",
+      "block_id": "b00056",
+      "start": 90,
+      "end": 103,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 68(2)",
+      "block_id": "b00056",
+      "start": 404,
+      "end": 417,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 68(2)",
+      "block_id": "b00057",
+      "start": 88,
+      "end": 101,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 68(2)",
+      "block_id": "b00059",
+      "start": 334,
+      "end": 347,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 38(2)(d)",
+      "block_id": "b00060",
+      "start": 91,
+      "end": 110,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "38",
+        "tail": "(2)(d)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 68(2)",
+      "block_id": "b00061",
+      "start": 259,
+      "end": 272,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 38(2)(d)",
+      "block_id": "b00061",
+      "start": 4,
+      "end": 23,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "38",
+        "tail": "(2)(d)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 38(2)(ca)",
+      "block_id": "b00061",
+      "start": 279,
+      "end": 299,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "38",
+        "tail": "(2)(ca)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 68(2)",
+      "block_id": "b00062",
+      "start": 138,
+      "end": 151,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 38(2)(e)",
+      "block_id": "b00063",
+      "start": 41,
+      "end": 60,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "38",
+        "tail": "(2)(e)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 68(2)",
+      "block_id": "b00089",
+      "start": 64,
+      "end": 77,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 68(11)",
+      "block_id": "b00093",
+      "start": 4,
+      "end": 18,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68",
+        "tail": "(11)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 38(5)",
+      "block_id": "b00093",
+      "start": 23,
+      "end": 39,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "38",
+        "tail": "(5)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 68(4)",
+      "block_id": "b00094",
+      "start": 360,
+      "end": 373,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68",
+        "tail": "(4)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 68(9)",
+      "block_id": "b00096",
+      "start": 407,
+      "end": 420,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68",
+        "tail": "(9)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 68(8)(a)",
+      "block_id": "b00096",
+      "start": 467,
+      "end": 483,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68",
+        "tail": "(8)(a)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 68(2)",
+      "block_id": "b00096",
+      "start": 541,
+      "end": 554,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 68(2)",
+      "block_id": "b00098",
+      "start": 87,
+      "end": 100,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 68(2)",
+      "block_id": "b00098",
+      "start": 217,
+      "end": 230,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 68(2)",
+      "block_id": "b00098",
+      "start": 456,
+      "end": 469,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 68(2)",
+      "block_id": "b00100",
+      "start": 81,
+      "end": 94,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 68(2)",
+      "block_id": "b00113",
+      "start": 61,
+      "end": 74,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 8(10)",
+      "block_id": "b00124",
+      "start": 4,
+      "end": 20,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "8",
+        "tail": "(10)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2025",
+      "block_id": "b00124",
+      "start": 86,
+      "end": 102,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2025"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 8(10)",
+      "block_id": "b00125",
+      "start": 4,
+      "end": 20,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "8",
+        "tail": "(10)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2025",
+      "block_id": "b00125",
+      "start": 86,
+      "end": 102,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2025"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2017",
+      "block_id": "b00126",
+      "start": 51,
+      "end": 67,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2017"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2017",
+      "block_id": "b00127",
+      "start": 51,
+      "end": 67,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2017"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

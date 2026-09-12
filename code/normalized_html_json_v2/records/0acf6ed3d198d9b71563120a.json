@@ -1,0 +1,1479 @@
+{
+  "document_id": "0acf6ed3d198d9b71563120a",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "html",
+  "source_path": "corpus_ingest_v2/raw/1e5830ea1ee82e0c1437e626.html",
+  "input_sha256": "09b2d9d50f1fd2a22d0817c7a52efa2de53f58b08d9a2f13e6d179fffceac6a4",
+  "processed_at": "2026-08-27T02:26:06.921788+00:00",
+  "title": "Segmentation | Procurement Journey",
+  "canonical_url": "https://www.procurementjourney.scot/route-2/contract-and-supplier-management/segmentation",
+  "description": null,
+  "publication_date": null,
+  "updated_date": null,
+  "source_metadata": {
+    "html_lang": "en"
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "What Is Supplier Segmentation?",
+      "ordinal": 1
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Why Supplier Segmentation Matters in Contract Management",
+      "ordinal": 5
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Supplier Segmentation Model - Kraljic Matrix",
+      "ordinal": 7
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "How to Implement Supplier Segmentation in Contract Management",
+      "ordinal": 11
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Step 1: Gather Data",
+      "ordinal": 12
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Step 2: Define Segmentation Criteria",
+      "ordinal": 17
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Contract Value and Spend Profile",
+      "ordinal": 20
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Criticality of the Goods or Services",
+      "ordinal": 25
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Risk Profile",
+      "ordinal": 30
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Market Conditions and Supply Chain Resilience",
+      "ordinal": 36
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Performance and Compliance History",
+      "ordinal": 41
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Policy and Strategic Importance",
+      "ordinal": 46
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Contract Complexity",
+      "ordinal": 52
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Example dimensions:",
+      "ordinal": 57
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Step 3: Classify Suppliers",
+      "ordinal": 63
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Step 4: Tailor Contract Management Activities",
+      "ordinal": 65
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Step 5: Monitor and Review",
+      "ordinal": 71
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Supplier Segmentation Key Considerations",
+      "ordinal": 78
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Any documents you need are listed below",
+      "ordinal": 86
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Kraljic Matrix Tool",
+      "ordinal": 87
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Kraljic Matrix - Supply Positions Template",
+      "ordinal": 89
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "li",
+      "text": "View PDF",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "heading",
+      "text": "What Is Supplier Segmentation?",
+      "ordinal": 1,
+      "heading_path": [
+        "What Is Supplier Segmentation?"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "Supplier segmentation is the process of categorising suppliers based on their strategic importance , risk , spend , and relationship value to the organisation.",
+      "ordinal": 2,
+      "heading_path": [
+        "What Is Supplier Segmentation?"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "It helps determine how much attention, management effort, and governance each supplier should receive.",
+      "ordinal": 3,
+      "heading_path": [
+        "What Is Supplier Segmentation?"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "In Contract and Supplier Management (CSM), supplier segmentation ensures that resources are allocated appropriately — high-value or high-risk suppliers receive more oversight and collaboration, while low-value suppliers are managed more efficiently.",
+      "ordinal": 4,
+      "heading_path": [
+        "What Is Supplier Segmentation?"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "heading",
+      "text": "Why Supplier Segmentation Matters in Contract Management",
+      "ordinal": 5,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "table",
+      "text": "Benefit\tDescription\nImproved Governance\tHelps prioritise contract performance reviews, audits, and renewals.\nRisk Mitigation\tIdentifies critical suppliers where failures could disrupt operations.\nPerformance Management\tEnables differentiated Key Performance Indicators (KPIs) and Service Level Agreements (SLAs), based on supplier tier.\nRelationship Management\tSupports collaboration and innovation with strategic suppliers.\nEfficiency\tPrevents over-managing low-value suppliers.",
+      "ordinal": 6,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management"
+      ],
+      "source_locator": null,
+      "metadata": {
+        "rows": [
+          [
+            "Benefit",
+            "Description"
+          ],
+          [
+            "Improved Governance",
+            "Helps prioritise contract performance reviews, audits, and renewals."
+          ],
+          [
+            "Risk Mitigation",
+            "Identifies critical suppliers where failures could disrupt operations."
+          ],
+          [
+            "Performance Management",
+            "Enables differentiated Key Performance Indicators (KPIs) and Service Level Agreements (SLAs), based on supplier tier."
+          ],
+          [
+            "Relationship Management",
+            "Supports collaboration and innovation with strategic suppliers."
+          ],
+          [
+            "Efficiency",
+            "Prevents over-managing low-value suppliers."
+          ]
+        ],
+        "row_count": 6
+      }
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "heading",
+      "text": "Supplier Segmentation Model - Kraljic Matrix",
+      "ordinal": 7,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Supplier Segmentation Model - Kraljic Matrix"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "A Kraljic Matrix is a tool commonly used in procurement teams to segment suppliers based on supply risk and profit impact :",
+      "ordinal": 8,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Supplier Segmentation Model - Kraljic Matrix"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "table",
+      "text": "Quadrant\tExample\tContract Management Approach\nStrategic (High risk / High impact)\tCritical IT\tPartnership model, detailed performance reviews, joint development\nLeverage (Low risk / High impact)\tMajor office supplies\tCompetitive sourcing, standardised SLAs\nBottleneck (High risk / Minimal impact)\tSpecialised maintenance supplier\tRisk mitigation, dual sourcing, contingency planning\nRoutine (Low risk / Low impact)\tCleaning services\tSimplified contracts, efficiency focus",
+      "ordinal": 9,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Supplier Segmentation Model - Kraljic Matrix"
+      ],
+      "source_locator": null,
+      "metadata": {
+        "rows": [
+          [
+            "Quadrant",
+            "Example",
+            "Contract Management Approach"
+          ],
+          [
+            "Strategic (High risk / High impact)",
+            "Critical IT",
+            "Partnership model, detailed performance reviews, joint development"
+          ],
+          [
+            "Leverage (Low risk / High impact)",
+            "Major office supplies",
+            "Competitive sourcing, standardised SLAs"
+          ],
+          [
+            "Bottleneck (High risk / Minimal impact)",
+            "Specialised maintenance supplier",
+            "Risk mitigation, dual sourcing, contingency planning"
+          ],
+          [
+            "Routine (Low risk / Low impact)",
+            "Cleaning services",
+            "Simplified contracts, efficiency focus"
+          ]
+        ],
+        "row_count": 5
+      }
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "p",
+      "text": "There is a Kraljic Matrix tool available for you to use which can be found at the bottom of this page.",
+      "ordinal": 10,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Supplier Segmentation Model - Kraljic Matrix"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "heading",
+      "text": "How to Implement Supplier Segmentation in Contract Management",
+      "ordinal": 11,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Supplier Segmentation Model - Kraljic Matrix",
+        "How to Implement Supplier Segmentation in Contract Management"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "heading",
+      "text": "Step 1: Gather Data",
+      "ordinal": 12,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 1: Gather Data"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "li",
+      "text": "Spend analysis (annual spend per supplier)",
+      "ordinal": 13,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 1: Gather Data"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "li",
+      "text": "Risk assessment (financial, operational, reputational)",
+      "ordinal": 14,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 1: Gather Data"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "li",
+      "text": "Business dependency and strategic relevance",
+      "ordinal": 15,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 1: Gather Data"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "li",
+      "text": "Contract complexity and length",
+      "ordinal": 16,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 1: Gather Data"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "heading",
+      "text": "Step 2: Define Segmentation Criteria",
+      "ordinal": 17,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 2: Define Segmentation Criteria"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "p",
+      "text": "There are tools to support you when performing contract and supplier segmentation e.g. Kraljic Matrix , risk assessment, spend analysis etc.",
+      "ordinal": 18,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 2: Define Segmentation Criteria"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "When defining segmentation criteria, Organisations should consider a combination of financial, operational, risk, and policy-related factors:",
+      "ordinal": 19,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 2: Define Segmentation Criteria"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "heading",
+      "text": "Contract Value and Spend Profile",
+      "ordinal": 20,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 2: Define Segmentation Criteria",
+        "Contract Value and Spend Profile"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "li",
+      "text": "Total contract value (annual and whole-life cost)",
+      "ordinal": 21,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 2: Define Segmentation Criteria",
+        "Contract Value and Spend Profile"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "li",
+      "text": "Spend concentration (single supplier vs multiple suppliers)",
+      "ordinal": 22,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 2: Define Segmentation Criteria",
+        "Contract Value and Spend Profile"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "li",
+      "text": "Impact on budget if costs increase or savings are not achieved",
+      "ordinal": 23,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 2: Define Segmentation Criteria",
+        "Contract Value and Spend Profile"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "Purpose: Supports prioritisation of high-value contracts for enhanced oversight and benchmarking.",
+      "ordinal": 24,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 2: Define Segmentation Criteria",
+        "Contract Value and Spend Profile"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "heading",
+      "text": "Criticality of the Goods or Services",
+      "ordinal": 25,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 2: Define Segmentation Criteria",
+        "Criticality of the Goods or Services"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "li",
+      "text": "Impact on statutory duties and public service delivery",
+      "ordinal": 26,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 2: Define Segmentation Criteria",
+        "Criticality of the Goods or Services"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "li",
+      "text": "Consequences of service failure or interruption",
+      "ordinal": 27,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 2: Define Segmentation Criteria",
+        "Criticality of the Goods or Services"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "li",
+      "text": "Degree of substitutability or availability of alternative suppliers",
+      "ordinal": 28,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 2: Define Segmentation Criteria",
+        "Criticality of the Goods or Services"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "p",
+      "text": "Purpose: Identifies contracts requiring robust performance and continuity management.",
+      "ordinal": 29,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 2: Define Segmentation Criteria",
+        "Criticality of the Goods or Services"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "heading",
+      "text": "Risk Profile",
+      "ordinal": 30,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 2: Define Segmentation Criteria",
+        "Risk Profile"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "li",
+      "text": "Financial stability of the supplier",
+      "ordinal": 31,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 2: Define Segmentation Criteria",
+        "Risk Profile"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "li",
+      "text": "Complexity of delivery or reliance on subcontractors",
+      "ordinal": 32,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 2: Define Segmentation Criteria",
+        "Risk Profile"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "li",
+      "text": "Health, safety, information security, or safeguarding risks",
+      "ordinal": 33,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 2: Define Segmentation Criteria",
+        "Risk Profile"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "li",
+      "text": "Reputational risk to the contracting authority",
+      "ordinal": 34,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 2: Define Segmentation Criteria",
+        "Risk Profile"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "p",
+      "text": "Purpose: Aligns with risk-based governance and internal control requirements.",
+      "ordinal": 35,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 2: Define Segmentation Criteria",
+        "Risk Profile"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "heading",
+      "text": "Market Conditions and Supply Chain Resilience",
+      "ordinal": 36,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 2: Define Segmentation Criteria",
+        "Market Conditions and Supply Chain Resilience"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "li",
+      "text": "Level of market competition",
+      "ordinal": 37,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 2: Define Segmentation Criteria",
+        "Market Conditions and Supply Chain Resilience"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "li",
+      "text": "Supplier dependency or monopoly positions",
+      "ordinal": 38,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 2: Define Segmentation Criteria",
+        "Market Conditions and Supply Chain Resilience"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "li",
+      "text": "Supply chain fragility or geopolitical risk",
+      "ordinal": 39,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 2: Define Segmentation Criteria",
+        "Market Conditions and Supply Chain Resilience"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "p",
+      "text": "Purpose: Informs engagement strategy and contingency planning .",
+      "ordinal": 40,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 2: Define Segmentation Criteria",
+        "Market Conditions and Supply Chain Resilience"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "heading",
+      "text": "Performance and Compliance History",
+      "ordinal": 41,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 2: Define Segmentation Criteria",
+        "Performance and Compliance History"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "li",
+      "text": "Delivery against KPIs and service levels",
+      "ordinal": 42,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 2: Define Segmentation Criteria",
+        "Performance and Compliance History"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "li",
+      "text": "Contractual compliance and issue frequency",
+      "ordinal": 43,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 2: Define Segmentation Criteria",
+        "Performance and Compliance History"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "li",
+      "text": "Responsiveness to improvement actions",
+      "ordinal": 44,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 2: Define Segmentation Criteria",
+        "Performance and Compliance History"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "p",
+      "text": "Purpose: Enables differentiation between stable suppliers and those requiring closer management.",
+      "ordinal": 45,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 2: Define Segmentation Criteria",
+        "Performance and Compliance History"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "heading",
+      "text": "Policy and Strategic Importance",
+      "ordinal": 46,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 2: Define Segmentation Criteria",
+        "Policy and Strategic Importance"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "li",
+      "text": "Contribution to National Outcomes",
+      "ordinal": 47,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 2: Define Segmentation Criteria",
+        "Policy and Strategic Importance"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "li",
+      "text": "Community Benefits delivery",
+      "ordinal": 48,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 2: Define Segmentation Criteria",
+        "Policy and Strategic Importance"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "li",
+      "text": "Fair Work First compliance",
+      "ordinal": 49,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 2: Define Segmentation Criteria",
+        "Policy and Strategic Importance"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00050",
+      "block_type": "li",
+      "text": "Climate change, sustainability, and net zero commitments",
+      "ordinal": 50,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 2: Define Segmentation Criteria",
+        "Policy and Strategic Importance"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00051",
+      "block_type": "p",
+      "text": "Purpose: Ensures alignment with Scottish Government policy priorities and Scottish Procurement Policy Notes (SPPNs) .",
+      "ordinal": 51,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 2: Define Segmentation Criteria",
+        "Policy and Strategic Importance"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00052",
+      "block_type": "heading",
+      "text": "Contract Complexity",
+      "ordinal": 52,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 2: Define Segmentation Criteria",
+        "Contract Complexity"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00053",
+      "block_type": "li",
+      "text": "Degree of specification flexibility",
+      "ordinal": 53,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 2: Define Segmentation Criteria",
+        "Contract Complexity"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00054",
+      "block_type": "li",
+      "text": "Change frequency and variation levels",
+      "ordinal": 54,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 2: Define Segmentation Criteria",
+        "Contract Complexity"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00055",
+      "block_type": "li",
+      "text": "Contract duration and extension options",
+      "ordinal": 55,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 2: Define Segmentation Criteria",
+        "Contract Complexity"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00056",
+      "block_type": "p",
+      "text": "Purpose: Identifies contracts requiring specialist commercial or legal oversight.",
+      "ordinal": 56,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 2: Define Segmentation Criteria",
+        "Contract Complexity"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00057",
+      "block_type": "heading",
+      "text": "Example dimensions:",
+      "ordinal": 57,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 2: Define Segmentation Criteria",
+        "Example dimensions:"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00058",
+      "block_type": "li",
+      "text": "Annual spend",
+      "ordinal": 58,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 2: Define Segmentation Criteria",
+        "Example dimensions:"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00059",
+      "block_type": "li",
+      "text": "Business criticality",
+      "ordinal": 59,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 2: Define Segmentation Criteria",
+        "Example dimensions:"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00060",
+      "block_type": "li",
+      "text": "Risk exposure",
+      "ordinal": 60,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 2: Define Segmentation Criteria",
+        "Example dimensions:"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00061",
+      "block_type": "li",
+      "text": "Performance history",
+      "ordinal": 61,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 2: Define Segmentation Criteria",
+        "Example dimensions:"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00062",
+      "block_type": "li",
+      "text": "Innovation potential",
+      "ordinal": 62,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 2: Define Segmentation Criteria",
+        "Example dimensions:"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00063",
+      "block_type": "heading",
+      "text": "Step 3: Classify Suppliers",
+      "ordinal": 63,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 3: Classify Suppliers"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00064",
+      "block_type": "p",
+      "text": "Use the Kraljic Matrix to assign each supplier to a category (e.g. Strategic, Leverage, Bottleneck and Routine)",
+      "ordinal": 64,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 3: Classify Suppliers"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00065",
+      "block_type": "heading",
+      "text": "Step 4: Tailor Contract Management Activities",
+      "ordinal": 65,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 4: Tailor Contract Management Activities"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00066",
+      "block_type": "p",
+      "text": "Align contract management intensity to supplier category:",
+      "ordinal": 66,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 4: Tailor Contract Management Activities"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00067",
+      "block_type": "li",
+      "text": "Strategic: Ensure effective contract delivery and supplier performance, risk management and maximisation of supplier and market development opportunities.",
+      "ordinal": 67,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 4: Tailor Contract Management Activities"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00068",
+      "block_type": "li",
+      "text": "Leverage: Ensure continuity of supply, value for money, risk management and supplier performance. Seek supplier development where possible. Retain/gain market knowledge",
+      "ordinal": 68,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 4: Tailor Contract Management Activities"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00069",
+      "block_type": "li",
+      "text": "Bottleneck: Ensure continuity of supply, value for money, risk management and supplier performance. Seek supplier development where possible. Retain/gain market knowledge",
+      "ordinal": 69,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 4: Tailor Contract Management Activities"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00070",
+      "block_type": "li",
+      "text": "Routine: Ensure continuity of supply and risk awareness",
+      "ordinal": 70,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 4: Tailor Contract Management Activities"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00071",
+      "block_type": "heading",
+      "text": "Step 5: Monitor and Review",
+      "ordinal": 71,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 5: Monitor and Review"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00072",
+      "block_type": "li",
+      "text": "Reassess segmentation twice a year or when major changes occur",
+      "ordinal": 72,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 5: Monitor and Review"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00073",
+      "block_type": "li",
+      "text": "Track supplier performance KPIs and risk indicators",
+      "ordinal": 73,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 5: Monitor and Review"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00074",
+      "block_type": "p",
+      "text": "The Kraljic Matrix – Supply Management Positions Template , which can be found at the bottom of the page, allows you to record all CSM activities for each segment. There are some examples pre-populated in this document which can be deleted/amended as required and to suit your organisation.",
+      "ordinal": 74,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 5: Monitor and Review"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00075",
+      "block_type": "p",
+      "text": "The output from the Resource Planning Tool can be input into this tool. This document helps you segment your contract portfolio into four categories (Leverage, Strategic, Bottleneck, Routine). This will allow your organisation to record the extent of work involved in managing each category. This includes frequency of performance review meetings and frequency of Management Information, etc.",
+      "ordinal": 75,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 5: Monitor and Review"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00076",
+      "block_type": "p",
+      "text": "There is a natural tendency to over-estimate the work required and it is important to avoid this by being as pragmatic as possible. It is worthwhile comparing/collaborating with a similar organisation which has a more mature CSM operation. Especially where an organisation lacks the experienced managerial staff required to make informed judgements. This collaboration will allow your organisation to benefit from the mature organisation’s experience You should factor in distortions such as the learning curve they experienced on the journey towards maturity.",
+      "ordinal": 76,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 5: Monitor and Review"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00077",
+      "block_type": "p",
+      "text": "Checklist",
+      "ordinal": 77,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Step 5: Monitor and Review"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00078",
+      "block_type": "heading",
+      "text": "Supplier Segmentation Key Considerations",
+      "ordinal": 78,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Supplier Segmentation Key Considerations"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00079",
+      "block_type": "li",
+      "text": "Involve stakeholders (finance, operations, risk) in segmentation decisions",
+      "ordinal": 79,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Supplier Segmentation Key Considerations"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00080",
+      "block_type": "li",
+      "text": "Keep segmentation dynamic — update as business strategy or as markets evolve",
+      "ordinal": 80,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Supplier Segmentation Key Considerations"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00081",
+      "block_type": "li",
+      "text": "Use segmentation to inform contract renewal decisions",
+      "ordinal": 81,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Supplier Segmentation Key Considerations"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00082",
+      "block_type": "li",
+      "text": "Avoid segmentation based solely on contract value",
+      "ordinal": 82,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Supplier Segmentation Key Considerations"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00083",
+      "block_type": "li",
+      "text": "Ensure segmentation does not disadvantage SMEs unfairly",
+      "ordinal": 83,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Supplier Segmentation Key Considerations"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00084",
+      "block_type": "li",
+      "text": "Use segmentation to inform management activity , not to alter contract terms",
+      "ordinal": 84,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Supplier Segmentation Key Considerations"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00085",
+      "block_type": "li",
+      "text": "Ensure escalation routes are clear for higher-segment contracts",
+      "ordinal": 85,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Supplier Segmentation Key Considerations"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00086",
+      "block_type": "heading",
+      "text": "Any documents you need are listed below",
+      "ordinal": 86,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Any documents you need are listed below"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00087",
+      "block_type": "heading",
+      "text": "Kraljic Matrix Tool",
+      "ordinal": 87,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Any documents you need are listed below",
+        "Kraljic Matrix Tool"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00088",
+      "block_type": "p",
+      "text": "(file type: xlsx)",
+      "ordinal": 88,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Any documents you need are listed below",
+        "Kraljic Matrix Tool"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00089",
+      "block_type": "heading",
+      "text": "Kraljic Matrix - Supply Positions Template",
+      "ordinal": 89,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Any documents you need are listed below",
+        "Kraljic Matrix - Supply Positions Template"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00090",
+      "block_type": "p",
+      "text": "(file type: docx)",
+      "ordinal": 90,
+      "heading_path": [
+        "What Is Supplier Segmentation?",
+        "Why Supplier Segmentation Matters in Contract Management",
+        "Any documents you need are listed below",
+        "Kraljic Matrix - Supply Positions Template"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "View PDF",
+      "href": "https://www.procurementjourney.scot/print/pdf/node/882",
+      "block_id": "b00000",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Fair Work First",
+      "href": "https://www.procurementjourney.scot/additional-resources/fair-work-practices",
+      "block_id": "b00049",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Scottish Procurement Policy Notes (SPPNs)",
+      "href": "https://www.gov.scot/collections/scottish-procurement-policy-notes-sppns/",
+      "block_id": "b00051",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Resource Planning Tool",
+      "href": "https://www.procurementjourney.scot/route-2/contract-and-supplier-management/planning-and-governance",
+      "block_id": "b00075",
+      "ordinal": 3,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Kraljic Matrix Tool",
+      "href": "https://www.procurementjourney.scot/sites/default/files/Kraljic%20Matrix%20Tool.xlsx",
+      "block_id": "b00087",
+      "ordinal": 4,
+      "link_type": "ATTACHMENT"
+    },
+    {
+      "text": "Kraljic Matrix - Supply Positions Template",
+      "href": "https://www.procurementjourney.scot/sites/default/files/Kraljic%20Matrix%20-%20Contract%20Management%20Supply%20Positions%20Tool.docx",
+      "block_id": "b00089",
+      "ordinal": 5,
+      "link_type": "ATTACHMENT"
+    }
+  ],
+  "legal_references": [],
+  "attachments": [
+    {
+      "url": "https://www.procurementjourney.scot/sites/default/files/Kraljic%20Matrix%20Tool.xlsx",
+      "title": "Kraljic Matrix Tool",
+      "discovered_in_block": "b00087"
+    },
+    {
+      "url": "https://www.procurementjourney.scot/sites/default/files/Kraljic%20Matrix%20-%20Contract%20Management%20Supply%20Positions%20Tool.docx",
+      "title": "Kraljic Matrix - Supply Positions Template",
+      "discovered_in_block": "b00089"
+    }
+  ],
+  "warnings": []
+}

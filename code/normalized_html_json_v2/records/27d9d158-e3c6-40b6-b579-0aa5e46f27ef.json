@@ -1,0 +1,997 @@
+{
+  "document_id": "27d9d158-e3c6-40b6-b579-0aa5e46f27ef",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/8f45f152da9439fdc1245d0b.json",
+  "input_sha256": "7c1d87725df92b9ec31ebf398c14e343ea6c1525bb72ae9e86a0cab7632214de",
+  "processed_at": "2026-08-27T02:26:30.873033+00:00",
+  "title": "Suppliers: How to register your organisation and first administrator on Find a Tender in three easy steps (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-act-2023-short-guides/suppliers-how-to-register-your-organisation-and-first-administrator-on-find-a-tender-in-three-easy-steps-html",
+  "description": null,
+  "publication_date": "2025-01-21T14:25:37+00:00",
+  "updated_date": "2026-06-23T10:02:16+01:00",
+  "source_metadata": {
+    "content_id": "27d9d158-e3c6-40b6-b579-0aa5e46f27ef",
+    "base_path": "/government/publications/procurement-act-2023-short-guides/suppliers-how-to-register-your-organisation-and-first-administrator-on-find-a-tender-in-three-easy-steps-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What is the Central Digital Platform?",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Step 1: Registration",
+      "ordinal": 14,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Register for GOV.UK One Login",
+      "ordinal": 18,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Complete Central Digital Platform Registration",
+      "ordinal": 27,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Register an organisation",
+      "ordinal": 32,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Step 2: Enter your details",
+      "ordinal": 44,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Step 3: Declare and Share",
+      "ordinal": 57,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "What is the Central Digital Platform?",
+      "ordinal": 0,
+      "heading_path": [
+        "What is the Central Digital Platform?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "Central Digital Platform is an online portal which will make it easier for suppliers to find and bid for contracts, and for buyers to meet their transparency commitments under the Procurement Act 2023.",
+      "ordinal": 1,
+      "heading_path": [
+        "What is the Central Digital Platform?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "The Central Digital Platform has been designed to:",
+      "ordinal": 2,
+      "heading_path": [
+        "What is the Central Digital Platform?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "li",
+      "text": "Feature a simple registration and identification for both suppliers and buyers.",
+      "ordinal": 3,
+      "heading_path": [
+        "What is the Central Digital Platform?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "li",
+      "text": "Store suppliers’ core business details that can be used for multiple bids.",
+      "ordinal": 4,
+      "heading_path": [
+        "What is the Central Digital Platform?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "li",
+      "text": "Enable easy management and updating of core information quickly, and shared easily between suppliers, eSenders and buyers.",
+      "ordinal": 5,
+      "heading_path": [
+        "What is the Central Digital Platform?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "li",
+      "text": "Make public procurement opportunities visible making it easier to search at no cost and set up alerts for tenders of interest for suppliers.",
+      "ordinal": 6,
+      "heading_path": [
+        "What is the Central Digital Platform?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "li",
+      "text": "Allow for procurement noticing throughout the procurement lifecycle.",
+      "ordinal": 7,
+      "heading_path": [
+        "What is the Central Digital Platform?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "li",
+      "text": "Capture procurement data and eventually allow creation of dashboards to analyse that data.",
+      "ordinal": 8,
+      "heading_path": [
+        "What is the Central Digital Platform?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "Capture procurement data and eventually allow creation of dashboards to analyse that data.",
+      "ordinal": 9,
+      "heading_path": [
+        "What is the Central Digital Platform?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "li",
+      "text": "https://www.gov.uk/find-tender",
+      "ordinal": 10,
+      "heading_path": [
+        "What is the Central Digital Platform?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "Additional video guidanceis available detailing these steps:",
+      "ordinal": 11,
+      "heading_path": [
+        "What is the Central Digital Platform?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "video guidance",
+      "ordinal": 12,
+      "heading_path": [
+        "What is the Central Digital Platform?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "You should use this guide when registering your organisation on the service for the first time. If you need help with completing supplier information, please watch the walkthrough video or read the supporting user guide and follow the instructions provided.",
+      "ordinal": 13,
+      "heading_path": [
+        "What is the Central Digital Platform?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "heading",
+      "text": "Step 1: Registration",
+      "ordinal": 14,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 1: Registration"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "Every supplier should agree who its first person is to set up the organisation, and do the initial set up, and add and approve other users. The Administrator will also enter and amend all of the details about the organisation.",
+      "ordinal": 15,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 1: Registration"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "To get started, visit our user registration pageant complete the following information to create an account:",
+      "ordinal": 16,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 1: Registration"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "If you already have a GOV.UK One Login account, select ‘Sign in’ or, if you do not have an account, follow the steps below to register.",
+      "ordinal": 17,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 1: Registration"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "heading",
+      "text": "Register for GOV.UK One Login",
+      "ordinal": 18,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 1: Registration",
+        "Register for GOV.UK One Login"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "To register for a GOV.UK One Login account, select ‘Create your Gov.UK One Login’ which will load the following page:",
+      "ordinal": 19,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 1: Registration",
+        "Register for GOV.UK One Login"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "p",
+      "text": "Enter your individual work email address here, then view and agree to the terms of use, and privacy policy.",
+      "ordinal": 20,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 1: Registration",
+        "Register for GOV.UK One Login"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "A code will be sent to your email address. Once you receive the 6 digit security code, enter when prompted on the next screen. Your email might take a few minutes to arrive and you may need to check your spam folder.",
+      "ordinal": 21,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 1: Registration",
+        "Register for GOV.UK One Login"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "p",
+      "text": "You will then be asked to choose a password.",
+      "ordinal": 22,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 1: Registration",
+        "Register for GOV.UK One Login"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "Next, you will now have to choose how to receive security codes. You can choose from receiving a text message or by an authentication app.",
+      "ordinal": 23,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 1: Registration",
+        "Register for GOV.UK One Login"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "If you selected the text message option, an SMS text message will be sent from GOVUK to your registered mobile phone number with a 6-digit verification code. The code may take a few minutes to arrive and will expire after 15 minutes.",
+      "ordinal": 24,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 1: Registration",
+        "Register for GOV.UK One Login"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "p",
+      "text": "You should enter this code on the next page and continue.",
+      "ordinal": 25,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 1: Registration",
+        "Register for GOV.UK One Login"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "p",
+      "text": "You will have now created a GOV.UK One Login.",
+      "ordinal": 26,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 1: Registration",
+        "Register for GOV.UK One Login"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "heading",
+      "text": "Complete Central Digital Platform Registration",
+      "ordinal": 27,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 1: Registration",
+        "Complete Central Digital Platform Registration"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "Once you have created your GOV.UK One Login, you will then proceed to finalise your registration for the Central Digital Platform.",
+      "ordinal": 28,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 1: Registration",
+        "Complete Central Digital Platform Registration"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "p",
+      "text": "You should now read and agree to the Central Digital Platform service privacy policy.",
+      "ordinal": 29,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 1: Registration",
+        "Complete Central Digital Platform Registration"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "p",
+      "text": "You will then be asked to enter your first and last name.",
+      "ordinal": 30,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 1: Registration",
+        "Complete Central Digital Platform Registration"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "p",
+      "text": "Once you select continue, the following page will load displaying your account details and the option to register an organisation.",
+      "ordinal": 31,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 1: Registration",
+        "Complete Central Digital Platform Registration"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "heading",
+      "text": "Register an organisation",
+      "ordinal": 32,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 1: Registration",
+        "Register an organisation"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "p",
+      "text": "You will need to have to hand the organisation’s Companies House number or an equivalent, like a Charity Commission number, and the registered address.",
+      "ordinal": 33,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 1: Registration",
+        "Register an organisation"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "p",
+      "text": "You will first need to select ‘Register an organisation’ from the ‘My account’ page as shown above. You will then be asked whether you wish to register as a Buyer or Supplier - select Supplier.",
+      "ordinal": 34,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 1: Registration",
+        "Register an organisation"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "p",
+      "text": "You will now be asked if your organisation has a Companies House number. If you do, you will be prompted to enter one.",
+      "ordinal": 35,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 1: Registration",
+        "Register an organisation"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "p",
+      "text": "If you do not have a Companies House number, select ‘No’ and you will be prompted with the below alternative options. If none apply, you will be generated a unique identifier.",
+      "ordinal": 36,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 1: Registration",
+        "Register an organisation"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "p",
+      "text": "You will now check or enter your organisation’s registered name. If you previously entered a Companies House number, this will be automatically populated from Companies House.",
+      "ordinal": 37,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 1: Registration",
+        "Register an organisation"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "p",
+      "text": "You will now enter your organisation’s email address. This should be a shared email that other members of your team can assess. When registering, you have the option to retain the notices and save searches on your old account by reregistering with the same email addresses. If you register with a new email address, your old information will not be pulled through.",
+      "ordinal": 38,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 1: Registration",
+        "Register an organisation"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "p",
+      "text": "Next, check or enter your organisation’s registered address. As before, this will be automatically populated if you entered a Companies House number. You also have the option to enter a non-UK address on this page.",
+      "ordinal": 39,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 1: Registration",
+        "Register an organisation"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "p",
+      "text": "The next screen will allow you to check your answers, and make any necessary changes, before proceeding to select ‘save’ and completing the registration of your organisation.",
+      "ordinal": 40,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 1: Registration",
+        "Register an organisation"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "p",
+      "text": "Selecting ‘Save’ will load the following page to display your registered organisation.",
+      "ordinal": 41,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 1: Registration",
+        "Register an organisation"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "p",
+      "text": "To see the details of the organisation and complete supplier information, select ‘View’.",
+      "ordinal": 42,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 1: Registration",
+        "Register an organisation"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "p",
+      "text": "Further organisations can be added. For example, you might be a shareholding director in several businesses, and wish to register all of those businesses then set up further administrators and users for each.",
+      "ordinal": 43,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 1: Registration",
+        "Register an organisation"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "heading",
+      "text": "Step 2: Enter your details",
+      "ordinal": 44,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 2: Enter your details"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "p",
+      "text": "Now you will be required to enter the organisation’s supplier information. Having all the required information to hand will speed up the process. The administrator will be asked to input or upload:",
+      "ordinal": 45,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 2: Enter your details"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "li",
+      "text": "Basic Information,",
+      "ordinal": 46,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 2: Enter your details"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "li",
+      "text": "Connected Persons,",
+      "ordinal": 47,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 2: Enter your details"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "li",
+      "text": "Qualifications,",
+      "ordinal": 48,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 2: Enter your details"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "li",
+      "text": "Trade Assurances,",
+      "ordinal": 49,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 2: Enter your details"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00050",
+      "block_type": "li",
+      "text": "Exclusions, and",
+      "ordinal": 50,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 2: Enter your details"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00051",
+      "block_type": "li",
+      "text": "Financial Information.",
+      "ordinal": 51,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 2: Enter your details"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00052",
+      "block_type": "p",
+      "text": "Once you have the required information to hand, navigate to the organisation page by selecting ‘view’ next to your chosen organisation.",
+      "ordinal": 52,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 2: Enter your details"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00053",
+      "block_type": "p",
+      "text": "This will load the following page displaying the details of your organisation. To complete your supplier information, select ‘Complete Supplier Information’.",
+      "ordinal": 53,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 2: Enter your details"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00054",
+      "block_type": "p",
+      "text": "You should then work through each section and enter the information required. There are very simple dropdowns for each section and hint text to show what is needed.",
+      "ordinal": 54,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 2: Enter your details"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00055",
+      "block_type": "p",
+      "text": "If you need a more detailed walkthrough of how to enter supplier information, please watch the walkthrough video ‘A guide for suppliers: Detailed walkthrough How an administrator completes and updates supplier info’ or read the associated user guide and follow the instructions provided.",
+      "ordinal": 55,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 2: Enter your details"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00056",
+      "block_type": "p",
+      "text": "A guide for suppliers: Detailed walkthrough How an administrator completes and updates supplier info",
+      "ordinal": 56,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 2: Enter your details"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00057",
+      "block_type": "heading",
+      "text": "Step 3: Declare and Share",
+      "ordinal": 57,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 3: Declare and Share"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00058",
+      "block_type": "p",
+      "text": "Once supplier information has been completed, it is ready for checking and declaring that it is accurate. To share the information as part of the bid, there are two methods. It could be through a share code, a number that is entered in the contracting authority’s tendering portal, or, by downloading the information and sharing by email or uploading as an attachment.",
+      "ordinal": 58,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 3: Declare and Share"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00059",
+      "block_type": "p",
+      "text": "Once the Supplier Information has been completed, select ‘Share my information’ to begin the information sharing process.",
+      "ordinal": 59,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 3: Declare and Share"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00060",
+      "block_type": "p",
+      "text": "The following page will load where you can find out more about how sharing supplier information works or progress to sharing information by selecting ‘Create a share code’.",
+      "ordinal": 60,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 3: Declare and Share"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00061",
+      "block_type": "p",
+      "text": "From this page you will be able to see any previously generated share codes and the date they were created on. If your supplier information changes, you can update it and create a new share code and file to share the new information.",
+      "ordinal": 61,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 3: Declare and Share"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00062",
+      "block_type": "p",
+      "text": "To progress, you must read the declaration and select the box to confirm that you understand and agree to the declaration.",
+      "ordinal": 62,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 3: Declare and Share"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00063",
+      "block_type": "p",
+      "text": "Next, you will be prompted to enter your name.",
+      "ordinal": 63,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 3: Declare and Share"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00064",
+      "block_type": "p",
+      "text": "Then, enter your job title.",
+      "ordinal": 64,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 3: Declare and Share"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00065",
+      "block_type": "p",
+      "text": "You’ll then be asked to enter your work email address.",
+      "ordinal": 65,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 3: Declare and Share"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00066",
+      "block_type": "p",
+      "text": "Next, you will be prompted to enter the postal address of your organisation.",
+      "ordinal": 66,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 3: Declare and Share"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00067",
+      "block_type": "p",
+      "text": "You will then be prompted to check your answers and make changes as necessary. You should then select ‘Confirm and get share code’.",
+      "ordinal": 67,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 3: Declare and Share"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00068",
+      "block_type": "p",
+      "text": "The following screen will load which displays your share code. You can also download your supplier information file for onward sharing.",
+      "ordinal": 68,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 3: Declare and Share"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00069",
+      "block_type": "p",
+      "text": "You are now bid ready.",
+      "ordinal": 69,
+      "heading_path": [
+        "What is the Central Digital Platform?",
+        "Step 3: Declare and Share"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "https://www.gov.uk/find-tender",
+      "href": "https://www.gov.uk/find-tender",
+      "block_id": "b00010",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "video guidance",
+      "href": "https://youtu.be/lnjCa4swtjA",
+      "block_id": "b00012",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "walkthrough video",
+      "href": "https://youtu.be/i4ZdbMGRqeQ",
+      "block_id": "b00013",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "A guide for suppliers: Detailed walkthrough How an administrator completes and updates supplier info",
+      "href": "https://youtu.be/i4ZdbMGRqeQ",
+      "block_id": "b00056",
+      "ordinal": 3,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Suppliers: How to register your organisation and first administrator on Find a Tender in three easy steps (HTML)",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-short-guides/suppliers-how-to-register-your-organisation-and-first-administrator-on-find-a-tender-in-three-easy-steps-html",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2022 to 2024 Sunak Conservative government",
+      "href": "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Government Commercial Function",
+      "href": "https://www.gov.uk/government/organisations/government-commercial-function",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Procurement Act 2023: short guides",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-short-guides",
+      "block_id": "__document__",
+      "ordinal": 7,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Government Commercial Function",
+      "href": "https://www.gov.uk/government/organisations/government-commercial-function",
+      "block_id": "__document__",
+      "ordinal": 8,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [],
+  "attachments": [],
+  "warnings": []
+}

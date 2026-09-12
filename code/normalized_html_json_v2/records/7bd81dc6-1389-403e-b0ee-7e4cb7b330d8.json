@@ -1,0 +1,553 @@
+{
+  "document_id": "7bd81dc6-1389-403e-b0ee-7e4cb7b330d8",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/35535610b3a4d8092d3140fc.json",
+  "input_sha256": "5f5d718cd295a7e6e67c0d08730ac9c68be03bb9e16a7603ed09bebf4a6e875c",
+  "processed_at": "2026-08-27T02:26:11.122446+00:00",
+  "title": "PPN 021: Payment Spot Checks in Public Sub-Contracts (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/ppn-021-payment-spot-checks-in-public-sub-contracts/ppn-021-payment-spot-checks-in-public-sub-contracts-html",
+  "description": null,
+  "publication_date": "2025-04-24T12:00:09+01:00",
+  "updated_date": "2025-10-08T13:13:57+01:00",
+  "source_metadata": {
+    "content_id": "7bd81dc6-1389-403e-b0ee-7e4cb7b330d8",
+    "base_path": "/government/publications/ppn-021-payment-spot-checks-in-public-sub-contracts/ppn-021-payment-spot-checks-in-public-sub-contracts-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Issue",
+      "ordinal": 2,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Dissemination and scope",
+      "ordinal": 5,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Timing",
+      "ordinal": 11,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Action",
+      "ordinal": 13,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Guidance",
+      "ordinal": 18,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Background",
+      "ordinal": 20,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Contact",
+      "ordinal": 22,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "Action note: 021",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "Issued: April 2025",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "heading",
+      "text": "Issue",
+      "ordinal": 2,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "1. Being paid promptly for work done is critical for business cash flow and the government is committed to tackling late payment to businesses. Prompt payment ensures liquidity spreads throughout the economy, helps more small businesses within public procurement, and improves the resilience of public supply chains.",
+      "ordinal": 3,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "2. Section 73(1) of the Procurement Act 2023 implies 30-day payment terms into every public sub-contract [footnote 1] . This Procurement Policy Note (PPN) outlines how contracting authorities can use payment spot checks to ensure that 30-day payment terms are being implemented throughout the supply chain in public sub-contracts.",
+      "ordinal": 4,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "heading",
+      "text": "Dissemination and scope",
+      "ordinal": 5,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "p",
+      "text": "3. This PPN applies to all central government departments, their executive agencies and non-departmental public bodies. Such bodies are referred to as ‘in-scope organisations’.",
+      "ordinal": 6,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "4. This PPN applies to all sub-contracts substantially for the purpose of performing (or contributing to the performance of) all or any part of a public contract for goods and/or services and/or works, other than a special regime contract, with a value of more than £5 million per annum (including VAT).",
+      "ordinal": 7,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "5. This PPN does not apply to concession contracts, utilities contracts awarded by a private utility, or contracts awarded by a school.",
+      "ordinal": 8,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "6. Other public sector contracting authorities may use this guidance to carry out spot checks to ensure that 30-day payment terms are being implemented throughout their supply chain in public sub-contracts.",
+      "ordinal": 9,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "p",
+      "text": "7. Please circulate this PPN within your organisation, particularly to those in a commercial, procurement, and/or contract management role.",
+      "ordinal": 10,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "heading",
+      "text": "Timing",
+      "ordinal": 11,
+      "heading_path": [
+        "Issue",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "8. In-scope contracting authorities should apply this PPN from 1 October 2025.",
+      "ordinal": 12,
+      "heading_path": [
+        "Issue",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "heading",
+      "text": "Action",
+      "ordinal": 13,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "9. In-scope contracting authorities should include a model contractual term in new in-scope contracts, advertised [footnote 2] from 1 October 2025, to enable them to conduct payment spot checks to assess and assure that suppliers comply with the payment terms detailed in section 73 of the Procurement Act 2023.",
+      "ordinal": 14,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "10. In-scope contracting authorities should conduct payment spot checks on invoices at random to deter non-compliance with the terms set out in the Procurement Act 2023 (Section 73), but will be able to conduct targeted payment spot checks where an authority has assessed there to be an increased risk of poor performance. In-scope contracting authorities should remind suppliers that they may be subject to these payment spot checks.",
+      "ordinal": 15,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "11. In-scope contracting authorities should conduct payment spot checks within the supply chain for contracts in scope of this PPN at least once every six months from the award date of the contract. Less frequent payment spot checks may be permitted in certain circumstances, in accordance with the accompanying guidance.",
+      "ordinal": 16,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "12. The Public Procurement Review Service will investigate when a specific complaint has been raised against a contracting authority, a primary supplier, or any other supplier within the supply chain. Suppliers are encouraged to report any complaints for late or unfair payments in public sector contracts by contacting: publicprocurementreview@cabinetoffice.gov.uk .",
+      "ordinal": 17,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "heading",
+      "text": "Guidance",
+      "ordinal": 18,
+      "heading_path": [
+        "Issue",
+        "Guidance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "13. The accompanying guidance provides model contract wording to support payment spot checks being carried out, as well as further information on how in-scope contracting authorities should conduct a payment spot check to ensure the correct payment terms are being included and adhered to by suppliers.",
+      "ordinal": 19,
+      "heading_path": [
+        "Issue",
+        "Guidance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "heading",
+      "text": "Background",
+      "ordinal": 20,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "14. The Procurement Act 2023 (Section 73) builds on and strengthens 30-day payment terms to be cascaded throughout the supply chain, by implying these terms into public sub-contracts even if not specifically included. It also ensures that payment must be made within 30 days of a valid and undisputed invoice being received, rather than within 30 days of being validated.",
+      "ordinal": 21,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "heading",
+      "text": "Contact",
+      "ordinal": 22,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "15. Enquiries about this PPN, and requests to receive the standard templates should be directed to the Crown Commercial Service Helpdesk (0345 410 2222, info@crowncommercial.gov.uk ).",
+      "ordinal": 23,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "li",
+      "text": "A public sub-contract means a contract substantially for the purpose of performing (or contributing to the performance of) all or any part of a public contract. ↩",
+      "ordinal": 24,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "p",
+      "text": "A public sub-contract means a contract substantially for the purpose of performing (or contributing to the performance of) all or any part of a public contract. ↩",
+      "ordinal": 25,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "li",
+      "text": "Advertised means the publication of a UK4 tender notice. ↩",
+      "ordinal": 26,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "p",
+      "text": "Advertised means the publication of a UK4 tender notice. ↩",
+      "ordinal": 27,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "[footnote 1]",
+      "href": "https://www.gov.uk/government/publications/ppn-021-payment-spot-checks-in-public-sub-contracts/ppn-021-payment-spot-checks-in-public-sub-contracts-html#fn:1",
+      "block_id": "b00004",
+      "ordinal": 0,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 2]",
+      "href": "https://www.gov.uk/government/publications/ppn-021-payment-spot-checks-in-public-sub-contracts/ppn-021-payment-spot-checks-in-public-sub-contracts-html#fn:2",
+      "block_id": "b00014",
+      "ordinal": 1,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Public Procurement Review Service",
+      "href": "https://www.gov.uk/government/publications/public-procurement-review-service-scope-and-remit",
+      "block_id": "b00017",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "publicprocurementreview@cabinetoffice.gov.uk",
+      "href": "mailto:publicprocurementreview@cabinetoffice.gov.uk",
+      "block_id": "b00017",
+      "ordinal": 3,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "info@crowncommercial.gov.uk",
+      "href": "mailto:info@crowncommercial.gov.uk",
+      "block_id": "b00023",
+      "ordinal": 4,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-021-payment-spot-checks-in-public-sub-contracts/ppn-021-payment-spot-checks-in-public-sub-contracts-html#fnref:1",
+      "block_id": "b00024",
+      "ordinal": 5,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-021-payment-spot-checks-in-public-sub-contracts/ppn-021-payment-spot-checks-in-public-sub-contracts-html#fnref:1",
+      "block_id": "b00025",
+      "ordinal": 6,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-021-payment-spot-checks-in-public-sub-contracts/ppn-021-payment-spot-checks-in-public-sub-contracts-html#fnref:2",
+      "block_id": "b00026",
+      "ordinal": 7,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-021-payment-spot-checks-in-public-sub-contracts/ppn-021-payment-spot-checks-in-public-sub-contracts-html#fnref:2",
+      "block_id": "b00027",
+      "ordinal": 8,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "PPN 021: Payment Spot Checks in Public Sub-Contracts (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-021-payment-spot-checks-in-public-sub-contracts/ppn-021-payment-spot-checks-in-public-sub-contracts-html",
+      "block_id": "__document__",
+      "ordinal": 9,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2024 to 2026 Starmer Labour government",
+      "href": "https://www.gov.uk/government/2024-starmer-labour-government",
+      "block_id": "__document__",
+      "ordinal": 10,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 11,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "PPN 021: Payment Spot Checks in Public Sub-Contracts",
+      "href": "https://www.gov.uk/government/publications/ppn-021-payment-spot-checks-in-public-sub-contracts",
+      "block_id": "__document__",
+      "ordinal": 12,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 13,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 73(1)",
+      "block_id": "b00004",
+      "start": 3,
+      "end": 16,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "73",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 73",
+      "block_id": "b00014",
+      "start": 272,
+      "end": 282,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "73"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 73",
+      "block_id": "b00015",
+      "start": 170,
+      "end": 180,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "73"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 73",
+      "block_id": "b00021",
+      "start": 30,
+      "end": 40,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "73"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

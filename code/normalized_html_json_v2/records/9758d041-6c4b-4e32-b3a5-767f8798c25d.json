@@ -1,0 +1,153 @@
+{
+  "document_id": "9758d041-6c4b-4e32-b3a5-767f8798c25d",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/e2d2f149ca3b57d22eaa1301.json",
+  "input_sha256": "748d76906c7b9e88376691fa9517fd48074c411f180153fea383cb58573e1513",
+  "processed_at": "2026-08-27T02:26:44.996456+00:00",
+  "title": "Procurement policy note 03/16: publication of payment performance statistics",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-policy-note-0316-publication-of-payment-performance-statistics",
+  "description": "This note explains how public sector contracting authorities are to start publishing annual payment performance data after March 2016.",
+  "publication_date": "2016-03-29T20:04:00+01:00",
+  "updated_date": "2016-03-29T20:04:00+01:00",
+  "source_metadata": {
+    "content_id": "9758d041-6c4b-4e32-b3a5-767f8798c25d",
+    "base_path": "/government/publications/procurement-policy-note-0316-publication-of-payment-performance-statistics",
+    "document_type": "guidance",
+    "schema_name": "publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "This procurement policy note (PPN) restates the annual publication requirements under regulation 113(7) of the Public Contracts Regulations 2015. After March 2016, and then at the end of each financial year, contracting authorities are required to publish data demonstrating compliance with the obligation to pay invoices within 30 days to first tier suppliers/prime contractors over the previous 12 months.",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "This PPN supports the Public Contracts Regulations: statutory guidance for contracting authorities on paying undisputed invoices in 30 days down the supply chain .",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "Public Contracts Regulations: statutory guidance for contracting authorities on paying undisputed invoices in 30 days down the supply chain",
+      "href": "https://www.gov.uk/government/publications/public-contracts-regulations-2015-paying-invoices-in-30-days-down-the-supply-chain",
+      "block_id": "b00001",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement policy note 03/16: publication of payment performance statistics",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0316-publication-of-payment-performance-statistics",
+      "block_id": "__document__",
+      "ordinal": 1,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "Procurement policy notes",
+      "href": "https://www.gov.uk/government/collections/procurement-policy-notes",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_DOCUMENT_COLLECTIONS"
+    },
+    {
+      "text": "2015 to 2016 Cameron Conservative government",
+      "href": "https://www.gov.uk/government/2015-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Crown Commercial Service",
+      "href": "https://www.gov.uk/government/organisations/crown-commercial-service",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_ORIGINAL_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 7,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Government spending",
+      "href": "https://www.gov.uk/government/government-spending",
+      "block_id": "__document__",
+      "ordinal": 8,
+      "link_type": "GOVUK_TAXONS"
+    },
+    {
+      "text": "Business and industry",
+      "href": "https://www.gov.uk/business-and-industry",
+      "block_id": "__document__",
+      "ordinal": 9,
+      "link_type": "GOVUK_TAXONS"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 113(7)",
+      "block_id": "b00000",
+      "start": 86,
+      "end": 103,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "113",
+        "tail": "(7)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015",
+      "block_id": "b00000",
+      "start": 128,
+      "end": 144,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015"
+      }
+    }
+  ],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/5a81a5fae5274a2e87dbec24/PPN_0316_-_Publication_of_payment_performance_statistics__1_.pdf",
+      "title": "Procurement Policy Note: Publication of payment performance statistics",
+      "content_type": "application/pdf",
+      "filename": "PPN_0316_-_Publication_of_payment_performance_statistics__1_.pdf",
+      "id": "1485067",
+      "logical_role": "ATTACHMENT"
+    }
+  ],
+  "warnings": []
+}

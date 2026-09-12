@@ -1,0 +1,123 @@
+{
+  "document_id": "6174450d-eadd-4729-8bf0-881568ea0ce5",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/d12294e05d675f6b7487063c.json",
+  "input_sha256": "73733bbdd843f257fb4882760e8dad04f15a363b976c31d2136733de28b5ee97",
+  "processed_at": "2026-08-27T02:26:42.412414+00:00",
+  "title": "Procurement Policy Note 02/19: Preparing for the UK Leaving the EU",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-policy-note-0219-preparing-for-the-uk-leaving-the-eu",
+  "description": "This Procurement Policy Note (PPN) [and guidance / documents] is now out of date",
+  "publication_date": "2019-03-07T14:25:00+00:00",
+  "updated_date": "2023-01-31T17:00:11+00:00",
+  "source_metadata": {
+    "content_id": "6174450d-eadd-4729-8bf0-881568ea0ce5",
+    "base_path": "/government/publications/procurement-policy-note-0219-preparing-for-the-uk-leaving-the-eu",
+    "document_type": "policy_paper",
+    "schema_name": "publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "This Procurement Policy Note (PPN) and guidance is now out of date.",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "This PPN is directly applicable to all contracting authorities including Central Government Departments, Executive Agencies, Non Departmental Public Bodies, wider public sector, local authorities, NHS bodies and utilities. Together these are referred to in this PPN as ‘contracting authorities’.",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "Procurement Policy Note 02/19: Preparing for the UK Leaving the EU",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0219-preparing-for-the-uk-leaving-the-eu",
+      "block_id": "__document__",
+      "ordinal": 0,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "Procurement policy notes",
+      "href": "https://www.gov.uk/government/collections/procurement-policy-notes",
+      "block_id": "__document__",
+      "ordinal": 1,
+      "link_type": "GOVUK_DOCUMENT_COLLECTIONS"
+    },
+    {
+      "text": "2016 to 2019 May Conservative government",
+      "href": "https://www.gov.uk/government/2016-to-2019-may-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_ORIGINAL_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Government",
+      "href": "https://www.gov.uk/government/all",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_TAXONS"
+    },
+    {
+      "text": "Brexit",
+      "href": "https://www.gov.uk/government/brexit",
+      "block_id": "__document__",
+      "ordinal": 7,
+      "link_type": "GOVUK_TAXONS"
+    }
+  ],
+  "legal_references": [],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/5c9cb91e40f0b633fa7161c3/PPN-0219.pdf",
+      "title": "Procurement Policy Note  02/19: Preparing for the UK Leaving the EU",
+      "content_type": "application/pdf",
+      "filename": "PPN-0219.pdf",
+      "id": "7142246",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/5cd40c4fed915d788ea1f35f/20190508-FAQ-on-no-deal-exit.pdf",
+      "title": "Frequently Asked Questions on No-deal Exit PPN 02/19",
+      "content_type": "application/pdf",
+      "filename": "20190508-FAQ-on-no-deal-exit.pdf",
+      "id": "7142247",
+      "logical_role": "ATTACHMENT"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,129 @@
+{
+  "document_id": "a7b6291d-595e-42aa-b3e6-610b1ff934bf",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/d5e492d53a44f1b2b29e7474.json",
+  "input_sha256": "1330f87eaa69f934a562e117f1c9b066ab593678d6f91a60b404245cb2dec080",
+  "processed_at": "2026-08-27T02:26:42.913500+00:00",
+  "title": "Procurement Policy Note 05/15: prompt payment and performance reporting",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-policy-note-0515-prompt-payment-and-performance-reporting",
+  "description": "This note provides advice for central government on adopting new requirements to report performance on prompt payment.",
+  "publication_date": "2015-03-27T19:07:42+00:00",
+  "updated_date": "2015-03-27T19:07:42+00:00",
+  "source_metadata": {
+    "content_id": "a7b6291d-595e-42aa-b3e6-610b1ff934bf",
+    "base_path": "/government/publications/procurement-policy-note-0515-prompt-payment-and-performance-reporting",
+    "document_type": "guidance",
+    "schema_name": "publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "New reporting requirements on prompt payment were announced in the Budget 2015 .",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "This note sets out what central government departments, including their Executive Agencies and Non Departmental Public Bodies, must do to comply with the requirements. It also restates the policy on prompt payment for central government (Policy Procurement Note 08/10).",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "Budget 2015",
+      "href": "https://www.gov.uk/government/topical-events/budget-2015",
+      "block_id": "b00000",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement Policy Note 05/15: prompt payment and performance reporting",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0515-prompt-payment-and-performance-reporting",
+      "block_id": "__document__",
+      "ordinal": 1,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "How to publish central government transparency data",
+      "href": "https://www.gov.uk/government/collections/how-to-publish-central-government-transparency-data",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_DOCUMENT_COLLECTIONS"
+    },
+    {
+      "text": "Procurement policy notes",
+      "href": "https://www.gov.uk/government/collections/procurement-policy-notes",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_DOCUMENT_COLLECTIONS"
+    },
+    {
+      "text": "2010 to 2015 Conservative and Liberal Democrat coalition government",
+      "href": "https://www.gov.uk/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Crown Commercial Service",
+      "href": "https://www.gov.uk/government/organisations/crown-commercial-service",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 7,
+      "link_type": "GOVUK_ORIGINAL_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 8,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Government spending",
+      "href": "https://www.gov.uk/government/government-spending",
+      "block_id": "__document__",
+      "ordinal": 9,
+      "link_type": "GOVUK_TAXONS"
+    }
+  ],
+  "legal_references": [],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/5a814a65e5274a2e8ab532bf/PPN_05-15_Prompt_Payment_Policy_and_Reporting_of_Performance.pdf",
+      "title": "Procurement Policy Note 05/15: prompt payment policy and reporting of performance",
+      "content_type": "application/pdf",
+      "filename": "PPN_05-15_Prompt_Payment_Policy_and_Reporting_of_Performance.pdf",
+      "id": "980759",
+      "logical_role": "ATTACHMENT"
+    }
+  ],
+  "warnings": []
+}

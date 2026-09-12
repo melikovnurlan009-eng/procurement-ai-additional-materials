@@ -1,0 +1,108 @@
+{
+  "document_id": "5e5e7dc9-7631-11e4-a3cb-005056011aef",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/6be686f1bd5fb82df84f92d4.json",
+  "input_sha256": "f119c3b301c45bbe360df176e6cb9cbf24962e1efea0f06b1207f0578a1512a9",
+  "processed_at": "2026-08-27T02:26:21.774793+00:00",
+  "title": "Procurement policy note 07/13: EU statistics on public procurement annual return for calendar year 2012",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-policy-note-0713-eu-statistics-on-public-procurement-annual-return-for-calendar-year-2012",
+  "description": "This Procurement Policy Note (PPN) [and guidance / documents] is now out of date",
+  "publication_date": "2013-08-08T15:12:00+01:00",
+  "updated_date": "2023-01-31T17:00:10+00:00",
+  "source_metadata": {
+    "content_id": "5e5e7dc9-7631-11e4-a3cb-005056011aef",
+    "base_path": "/government/publications/procurement-policy-note-0713-eu-statistics-on-public-procurement-annual-return-for-calendar-year-2012",
+    "document_type": "guidance",
+    "schema_name": "publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "This Procurement Policy Note (PPN) is now out of date.",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "This procurement policy note details the request for annual statistical returns on utilities procurement contracts awarded in calendar year 2012.",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "Procurement policy note 07/13: EU statistics on public procurement annual return for calendar year 2012",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0713-eu-statistics-on-public-procurement-annual-return-for-calendar-year-2012",
+      "block_id": "__document__",
+      "ordinal": 0,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "Procurement policy notes",
+      "href": "https://www.gov.uk/government/collections/procurement-policy-notes",
+      "block_id": "__document__",
+      "ordinal": 1,
+      "link_type": "GOVUK_DOCUMENT_COLLECTIONS"
+    },
+    {
+      "text": "2010 to 2015 Conservative and Liberal Democrat coalition government",
+      "href": "https://www.gov.uk/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_ORIGINAL_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Government spending",
+      "href": "https://www.gov.uk/government/government-spending",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_TAXONS"
+    }
+  ],
+  "legal_references": [],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/5a7c389be5274a1f5cc769bb/PPN_0713_-_EU_Statistical_annual_returns_for_2012.pdf",
+      "title": "Procurement policy note 07/13: EU statistics on public procurement annual return for calendar year 2012",
+      "content_type": "application/pdf",
+      "filename": "PPN_0713_-_EU_Statistical_annual_returns_for_2012.pdf",
+      "id": "7142166",
+      "logical_role": "ATTACHMENT"
+    }
+  ],
+  "warnings": []
+}

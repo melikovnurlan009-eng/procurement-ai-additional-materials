@@ -1,0 +1,145 @@
+{
+  "document_id": "5f1a7377-7631-11e4-a3cb-005056011aef",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/fcaac5d7f95e2e44fbcbd1bb.json",
+  "input_sha256": "61e6e852a82c38c97f261178984a7e53a77d525b782a30730d07f46452e409ec",
+  "processed_at": "2026-08-27T02:26:49.020058+00:00",
+  "title": "Procurement Policy Note 04/14: model services contract",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-policy-note-0414-model-services-contract",
+  "description": "This Procurement Policy Note (PPN) [and guidance / documents] is now out of date",
+  "publication_date": "2014-03-03T16:22:00+00:00",
+  "updated_date": "2023-01-31T17:00:10+00:00",
+  "source_metadata": {
+    "content_id": "5f1a7377-7631-11e4-a3cb-005056011aef",
+    "base_path": "/government/publications/procurement-policy-note-0414-model-services-contract",
+    "document_type": "guidance",
+    "schema_name": "publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "This Procurement Policy Note (PPN) is now out of date. Please refer to the suite of standard contract terms, which can be found here: https://www.gov.uk/government/publications/model-services-contract",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "The Crown Commercial Service and the Government Legal Service have developed a substantially revised set of model terms and conditions for major services contracts. These are published for government departments and other public sector organisations to use along with this action note.",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "View the new model services contract on the Crown Commercial Service.",
+      "ordinal": 2,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "https://www.gov.uk/government/publications/model-services-contract",
+      "href": "https://www.gov.uk/government/publications/model-services-contract",
+      "block_id": "b00000",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "new model services contract on the Crown Commercial Service.",
+      "href": "https://ccs.cabinetoffice.gov.uk/about-government-procurement-service/contracting-value-model-services-contract",
+      "block_id": "b00002",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement Policy Note 04/14: model services contract",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0414-model-services-contract",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "Procurement policy notes",
+      "href": "https://www.gov.uk/government/collections/procurement-policy-notes",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_DOCUMENT_COLLECTIONS"
+    },
+    {
+      "text": "2010 to 2015 Conservative and Liberal Democrat coalition government",
+      "href": "https://www.gov.uk/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Efficiency and Reform Group",
+      "href": "https://www.gov.uk/government/organisations/efficiency-and-reform-group",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Crown Commercial Service",
+      "href": "https://www.gov.uk/government/organisations/crown-commercial-service",
+      "block_id": "__document__",
+      "ordinal": 7,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 8,
+      "link_type": "GOVUK_ORIGINAL_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 9,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Government spending",
+      "href": "https://www.gov.uk/government/government-spending",
+      "block_id": "__document__",
+      "ordinal": 10,
+      "link_type": "GOVUK_TAXONS"
+    }
+  ],
+  "legal_references": [],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/5a7ca3a5e5274a2f304ef238/PPN_New_Model_Services_Contract_3_march_2014.pdf",
+      "title": "Procurement Policy Note – Contracting for Value - Model Services Contract ",
+      "content_type": "application/pdf",
+      "filename": "PPN_New_Model_Services_Contract_3_march_2014.pdf",
+      "id": "7142172",
+      "logical_role": "ATTACHMENT"
+    }
+  ],
+  "warnings": []
+}

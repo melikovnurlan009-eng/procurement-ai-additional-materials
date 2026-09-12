@@ -1,0 +1,3632 @@
+{
+  "document_id": "8dfde616-a2fb-4eaa-bf55-e0a7ca02339c",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/def7e659ade4d3a310dcc715.json",
+  "input_sha256": "2fb41f96e9a495ef644dcd5b93863ffb8594f85bad398254c7a60f44ae4da8dc",
+  "processed_at": "2026-08-27T02:26:44.378652+00:00",
+  "title": "PPN 002 Guide to using the social value model (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/ppn-002-taking-account-of-social-value-in-the-award-of-contracts/ppn-002-guide-to-using-the-social-value-model-html",
+  "description": null,
+  "publication_date": "2025-02-13T11:00:40+00:00",
+  "updated_date": "2025-03-05T11:42:58+00:00",
+  "source_metadata": {
+    "content_id": "8dfde616-a2fb-4eaa-bf55-e0a7ca02339c",
+    "base_path": "/government/publications/ppn-002-taking-account-of-social-value-in-the-award-of-contracts/ppn-002-guide-to-using-the-social-value-model-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "1. Introduction",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "1.1 Who is this guide for?",
+      "ordinal": 1,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "1.2 Social value and the Public Services (Social Value) Act 2012",
+      "ordinal": 7,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "1.3 Social value, the Procurement Act 2023 and the National Procurement Policy Statement",
+      "ordinal": 16,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "1.4 Social value as distinct from core deliverables",
+      "ordinal": 18,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "1.5 The United Nations Sustainable Development Goals",
+      "ordinal": 20,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "1.6 Legal considerations",
+      "ordinal": 22,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "1.7 The Equality Act 2010",
+      "ordinal": 31,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "1.8 What actions do in-scope organisations need to take?",
+      "ordinal": 33,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "1.9 What training is available?",
+      "ordinal": 39,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "2. Using the Model",
+      "ordinal": 43,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "2.1 Relevance, proportionality, fair treatment and non-discrimination",
+      "ordinal": 55,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "2.2 How to apply the model",
+      "ordinal": 63,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "3. Assessing social value in tenders",
+      "ordinal": 66,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "3.1 Using the model award criteria",
+      "ordinal": 70,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "3.2 Using a qualitative approach for assessing social value",
+      "ordinal": 82,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "3.3 Social value deliverables versus general corporate policies",
+      "ordinal": 89,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "3.4 Minimum weighting for social value",
+      "ordinal": 91,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "3.5 Assessing social value in frameworks and dynamic markets",
+      "ordinal": 98,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Framework stage",
+      "ordinal": 102,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Call off stage",
+      "ordinal": 111,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Framework award without further competition",
+      "ordinal": 114,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Evaluation social value in procurements from dynamic markets",
+      "ordinal": 116,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "3.6 Assessing social value in procurements that include suppliers based overseas",
+      "ordinal": 118,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "4. Contract management, reporting and case studies",
+      "ordinal": 122,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "4.1 Model award criteria and standard reporting metrics",
+      "ordinal": 124,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "4.2 Entering into and managing contracts",
+      "ordinal": 127,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "4.3 SV KPI reporting thresholds",
+      "ordinal": 140,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "4.4 Case studies and social value awards",
+      "ordinal": 148,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "5. Definitions",
+      "ordinal": 151,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "6. Frequently asked questions",
+      "ordinal": 179,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q. Which public bodies are in scope of the model?",
+      "ordinal": 180,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q. Is the use of the model mandatory within all these organisations?",
+      "ordinal": 182,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q. Can in-scope organisations go further than what is set out in the model if desired?",
+      "ordinal": 184,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q. When must ‘The PPN002 Social Value Model’ be applied to new procurement activity?",
+      "ordinal": 186,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q. Does the PPN002 Social Value Model apply to all spend?",
+      "ordinal": 190,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q. Does the PPN002 Social Value Model apply to overseas suppliers?",
+      "ordinal": 192,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q. Does the model apply to contracts performed overseas?",
+      "ordinal": 194,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q. Does the model apply to frameworks?",
+      "ordinal": 196,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q. Can I apply social value at the call-off stage if it was not part of the criteria for the framework?",
+      "ordinal": 201,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q. Does the model disadvantage non-UK suppliers?",
+      "ordinal": 203,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q. Can I add policy outcomes to the model?",
+      "ordinal": 205,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q. Can I change the outcomes listed in the model?",
+      "ordinal": 207,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q. Does this apply to direct award?",
+      "ordinal": 209,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q. Can I adjust the assessment criteria to relate to a specific geographical location?",
+      "ordinal": 211,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q. Can elements of the model be applied as conditions of participation?",
+      "ordinal": 213,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q. Can I accept suppliers’ corporate social responsibility (CSR) statements, policies and/or case studies as proof of how they intend to deliver the social value policy outcomes in my procurement?",
+      "ordinal": 215,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q. How do I apply social value ward criteria in a multi-stage assessment which aims to reduce supplier numbers at final stage with additional criteria assessed at the second stage?",
+      "ordinal": 217,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q. How do I apply social value award criteria in a multi stage assessment where feedback given and suppliers can improve their offer?",
+      "ordinal": 219,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "1. Introduction",
+      "ordinal": 0,
+      "heading_path": [
+        "1. Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "heading",
+      "text": "1.1 Who is this guide for?",
+      "ordinal": 1,
+      "heading_path": [
+        "1. Introduction",
+        "1.1 Who is this guide for?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "This guide describes how to use Procurement Policy Note (PPN) 002 Social Value Model (‘the model’). In-scope organisations’ commercial practitioners must use this guide when implementing the model in all stages of the commercial lifecycle [footnote 1] .",
+      "ordinal": 2,
+      "heading_path": [
+        "1. Introduction",
+        "1.1 Who is this guide for?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "As well as commercial practitioners, this guide will also be useful to those whose role includes finance, policy or planning and delivering procurements. It will help those who manage contracts understand how to account for social value throughout the procurement lifecycle, including the preparation and planning, and contract management stages of a procurement.",
+      "ordinal": 3,
+      "heading_path": [
+        "1. Introduction",
+        "1.1 Who is this guide for?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "The guide assumes that users have both a sound working knowledge of the public sector procurement regulatory/policy framework and of the commercial lifecycle. As always, all users should apply commercial judgement when using this guide and seek legal advice where appropriate.",
+      "ordinal": 4,
+      "heading_path": [
+        "1. Introduction",
+        "1.1 Who is this guide for?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "The policies, projects and programmes to which public spending is directed are determined by the government, using the Green Book to develop proposals that both achieve their intended objectives and deliver improved social welfare or wellbeing - referred to as social value. Public procurement is critical in translating those decisions into the right contracts with the right suppliers to achieve the required outputs in the way that offers the best value for money.",
+      "ordinal": 5,
+      "heading_path": [
+        "1. Introduction",
+        "1.1 Who is this guide for?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "p",
+      "text": "Achieving value for money is always the overarching priority in public procurement. This must include consideration of outcomes and quality to avoid waste from low value, poor quality bids. This means optimising the use of public funds by balancing effectiveness, efficiency and economy over the life-cycle of a product, service or works to achieve the intended outcomes of the procurement. This includes wider socio-economic and environmental benefits and impacts. Government guidance (e.g. Managing Public Money and Best Value statutory guidance) sets out how to use public money responsibly.",
+      "ordinal": 6,
+      "heading_path": [
+        "1. Introduction",
+        "1.1 Who is this guide for?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "heading",
+      "text": "1.2 Social value and the Public Services (Social Value) Act 2012",
+      "ordinal": 7,
+      "heading_path": [
+        "1. Introduction",
+        "1.1 Who is this guide for?",
+        "1.2 Social value and the Public Services (Social Value) Act 2012"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "For procuring the provision of services, or the provision of services together with the purchase or hire of goods or the carrying out of works, the Public Services (Social Value) Act 2012 (‘the Act’) requires English and Welsh public authorities (subject to some exclusions in relation to Welsh authorities) to consider, at the preparation and planning stage:",
+      "ordinal": 8,
+      "heading_path": [
+        "1. Introduction",
+        "1.1 Who is this guide for?",
+        "1.2 Social value and the Public Services (Social Value) Act 2012"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "li",
+      "text": "how what is proposed to be procured might improve the economic, social and environmental wellbeing of the relevant area",
+      "ordinal": 9,
+      "heading_path": [
+        "1. Introduction",
+        "1.1 Who is this guide for?",
+        "1.2 Social value and the Public Services (Social Value) Act 2012"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "li",
+      "text": "how in conducting the process of procurement, it might act with a view to securing that improvement; and",
+      "ordinal": 10,
+      "heading_path": [
+        "1. Introduction",
+        "1.1 Who is this guide for?",
+        "1.2 Social value and the Public Services (Social Value) Act 2012"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "li",
+      "text": "whether to undertake any consultation on the above",
+      "ordinal": 11,
+      "heading_path": [
+        "1. Introduction",
+        "1.1 Who is this guide for?",
+        "1.2 Social value and the Public Services (Social Value) Act 2012"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "In line with these preparation and planning considerations, this guide focuses on the three key aspects of social value:",
+      "ordinal": 12,
+      "heading_path": [
+        "1. Introduction",
+        "1.1 Who is this guide for?",
+        "1.2 Social value and the Public Services (Social Value) Act 2012"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "li",
+      "text": "economic (e.g. employment or apprenticeship/training opportunities)",
+      "ordinal": 13,
+      "heading_path": [
+        "1. Introduction",
+        "1.1 Who is this guide for?",
+        "1.2 Social value and the Public Services (Social Value) Act 2012"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "li",
+      "text": "social (e.g. activities that promote cohesive communities), and",
+      "ordinal": 14,
+      "heading_path": [
+        "1. Introduction",
+        "1.1 Who is this guide for?",
+        "1.2 Social value and the Public Services (Social Value) Act 2012"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "li",
+      "text": "environmental (e.g. efforts in reducing carbon emissions)",
+      "ordinal": 15,
+      "heading_path": [
+        "1. Introduction",
+        "1.1 Who is this guide for?",
+        "1.2 Social value and the Public Services (Social Value) Act 2012"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "heading",
+      "text": "1.3 Social value, the Procurement Act 2023 and the National Procurement Policy Statement",
+      "ordinal": 16,
+      "heading_path": [
+        "1. Introduction",
+        "1.1 Who is this guide for?",
+        "1.3 Social value, the Procurement Act 2023 and the National Procurement Policy Statement"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "The Procurement Act 2023 sets out that contracting authorities must have regard to the National Procurement Policy Statement (NPPS) when procuring public contracts, unless they are exempted. The NPPS sets the Government’s strategic priorities for public procurement in support of the Government’s missions.",
+      "ordinal": 17,
+      "heading_path": [
+        "1. Introduction",
+        "1.1 Who is this guide for?",
+        "1.3 Social value, the Procurement Act 2023 and the National Procurement Policy Statement"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "heading",
+      "text": "1.4 Social value as distinct from core deliverables",
+      "ordinal": 18,
+      "heading_path": [
+        "1. Introduction",
+        "1.1 Who is this guide for?",
+        "1.4 Social value as distinct from core deliverables"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "In-scope organisations must ensure that any benefit identified as social value in tenders or contracts under this policy is over and above the core deliverable/s of the tender or the contract. For example, in a contract for the supply of employment support for the public, the core service (i.e. employment support) could not be defined as social value delivered through the contract. However, in this case, any benefits associated with how the supplier plans to recruit, train and retain the contract workforce carrying out that service could represent social value.",
+      "ordinal": 19,
+      "heading_path": [
+        "1. Introduction",
+        "1.1 Who is this guide for?",
+        "1.4 Social value as distinct from core deliverables"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "heading",
+      "text": "1.5 The United Nations Sustainable Development Goals",
+      "ordinal": 20,
+      "heading_path": [
+        "1. Introduction",
+        "1.1 Who is this guide for?",
+        "1.5 The United Nations Sustainable Development Goals"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "In 2015, the United Kingdom committed with other United Nations’ countries to deliver the Sustainable Development Goals (SDGs). These aim to end poverty, protect the planet and ensure prosperity for all, by achieving 17 goals by 2030. The SDGs apply to the UK domestically and call on government and business to contribute towards their achievement. There is a clear connection between the SDGs and government’s ambition around social value.",
+      "ordinal": 21,
+      "heading_path": [
+        "1. Introduction",
+        "1.1 Who is this guide for?",
+        "1.5 The United Nations Sustainable Development Goals"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "heading",
+      "text": "1.6 Legal considerations",
+      "ordinal": 22,
+      "heading_path": [
+        "1. Introduction",
+        "1.1 Who is this guide for?",
+        "1.6 Legal considerations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "The Procurement Act 2023 allows contracting authorities flexibility to incorporate social and environmental outcomes into procurement. In applying the Model, contracting authorities should be aware of the following requirements of the Act:",
+      "ordinal": 23,
+      "heading_path": [
+        "1. Introduction",
+        "1.1 Who is this guide for?",
+        "1.6 Legal considerations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "li",
+      "text": "to ensure that any award criteria they apply are (amongst other things) relate to the subject-matter of the contract, and are a proportionate means of assessing tenders, having regard to the nature, complexity and cost of the contract (see section 23(2)(a) and (d) respectively)",
+      "ordinal": 24,
+      "heading_path": [
+        "1. Introduction",
+        "1.1 Who is this guide for?",
+        "1.6 Legal considerations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "li",
+      "text": "relate to the subject-matter of the contract, and",
+      "ordinal": 25,
+      "heading_path": [
+        "1. Introduction",
+        "1.1 Who is this guide for?",
+        "1.6 Legal considerations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "li",
+      "text": "are a proportionate means of assessing tenders, having regard to the nature, complexity and cost of the contract (see section 23(2)(a) and (d) respectively)",
+      "ordinal": 26,
+      "heading_path": [
+        "1. Introduction",
+        "1.1 Who is this guide for?",
+        "1.6 Legal considerations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "li",
+      "text": "to ensure that they treat suppliers equally(as set out at section 12(2) and (3))",
+      "ordinal": 27,
+      "heading_path": [
+        "1. Introduction",
+        "1.1 Who is this guide for?",
+        "1.6 Legal considerations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "li",
+      "text": "not to discriminate against treaty-state suppliers, that is to say suppliers who benefit from any of the UK’s free trade agreements (see section 90).",
+      "ordinal": 28,
+      "heading_path": [
+        "1. Introduction",
+        "1.1 Who is this guide for?",
+        "1.6 Legal considerations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "p",
+      "text": "For example, these outcomes may be used as part of the award criteria when assessing the Most Advantageous Tender (MAT), or alternatively, they may be implemented in the way the procurement is structured or carried out. It is important that any benefits are achieved without overburdening suppliers and therefore in-scope organisations must take a reasonable approach, ensuring that they do not place onerous requirements on suppliers, or use disproportionate clauses in tenders and contracts.",
+      "ordinal": 29,
+      "heading_path": [
+        "1. Introduction",
+        "1.1 Who is this guide for?",
+        "1.6 Legal considerations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "p",
+      "text": "Social and environmental considerations in this context could, for example, include promoting innovation, fair working conditions and the wellbeing of the workforce, protection of the environment, habitat creation, energy efficiency and/or combating climate change.",
+      "ordinal": 30,
+      "heading_path": [
+        "1. Introduction",
+        "1.1 Who is this guide for?",
+        "1.6 Legal considerations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "heading",
+      "text": "1.7 The Equality Act 2010",
+      "ordinal": 31,
+      "heading_path": [
+        "1. Introduction",
+        "1.1 Who is this guide for?",
+        "1.7 The Equality Act 2010"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "p",
+      "text": "The Public Sector Equality Duty (PSED) in the Equality Act 2010 is subject to enforcement by the Equality and Human Rights Commission which has published advice on mainstreaming equality considerations in procurement. Contracting authorities should note that the PSED is non-delegable and that its requirements are not subject to any financial threshold.",
+      "ordinal": 32,
+      "heading_path": [
+        "1. Introduction",
+        "1.1 Who is this guide for?",
+        "1.7 The Equality Act 2010"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "heading",
+      "text": "1.8 What actions do in-scope organisations need to take?",
+      "ordinal": 33,
+      "heading_path": [
+        "1. Introduction",
+        "1.1 Who is this guide for?",
+        "1.8 What actions do in-scope organisations need to take?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "p",
+      "text": "Commercial practitioners within in-scope organisations should:",
+      "ordinal": 34,
+      "heading_path": [
+        "1. Introduction",
+        "1.1 Who is this guide for?",
+        "1.8 What actions do in-scope organisations need to take?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "p",
+      "text": "a) ensure there is collaboration between commercial, policy, project teams and any other relevant stakeholders at the earliest possible stage to identify the optimum mix of policy outcomes for the organisation and its delivery of social value",
+      "ordinal": 35,
+      "heading_path": [
+        "1. Introduction",
+        "1.1 Who is this guide for?",
+        "1.8 What actions do in-scope organisations need to take?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "p",
+      "text": "b) apply the Model to all procurements in scope set out in PPN 002",
+      "ordinal": 36,
+      "heading_path": [
+        "1. Introduction",
+        "1.1 Who is this guide for?",
+        "1.8 What actions do in-scope organisations need to take?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "p",
+      "text": "It is critical for in-scope organisations to maintain the ‘golden thread’ from government priorities via business cases through to procurement specifications and the assessment of price and quality (including social value) when awarding contracts.",
+      "ordinal": 37,
+      "heading_path": [
+        "1. Introduction",
+        "1.1 Who is this guide for?",
+        "1.8 What actions do in-scope organisations need to take?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "p",
+      "text": "The model sets out a menu of approved social value outcomes that contribute to the delivery of the government’s missions. The model comprises a model question and, for each approved outcome in the model, there is a menu of model award criteria (MACs), sub-criteria and metrics. Users should select appropriate outcomes from the model for their procurement. In the rare case that an in-scope organisation cannot identify a relevant and proportionate requirement in the model, users are permitted to draft an alternative outcome and criteria that supports the Government’s missions. For example, they can develop questions and criteria relating to policy outcomes which are specific to the organisation.",
+      "ordinal": 38,
+      "heading_path": [
+        "1. Introduction",
+        "1.1 Who is this guide for?",
+        "1.8 What actions do in-scope organisations need to take?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "heading",
+      "text": "1.9 What training is available?",
+      "ordinal": 39,
+      "heading_path": [
+        "1. Introduction",
+        "1.1 Who is this guide for?",
+        "1.9 What training is available?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "p",
+      "text": "To support in-scope organisations in the use of the model all relevant personnel are encouraged to carry out the relevant training by:",
+      "ordinal": 40,
+      "heading_path": [
+        "1. Introduction",
+        "1.1 Who is this guide for?",
+        "1.9 What training is available?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "li",
+      "text": "completing the ‘Social Value eLearning’ online eLearning course, available on the Government Commercial College website, and",
+      "ordinal": 41,
+      "heading_path": [
+        "1. Introduction",
+        "1.1 Who is this guide for?",
+        "1.9 What training is available?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "li",
+      "text": "attending Public Sector Commercial Standards Masterclasses on the Government Commercial College organised by the Cabinet Office",
+      "ordinal": 42,
+      "heading_path": [
+        "1. Introduction",
+        "1.1 Who is this guide for?",
+        "1.9 What training is available?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "heading",
+      "text": "2. Using the Model",
+      "ordinal": 43,
+      "heading_path": [
+        "1. Introduction",
+        "2. Using the Model"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "p",
+      "text": "Read this section in conjunction with:",
+      "ordinal": 44,
+      "heading_path": [
+        "1. Introduction",
+        "2. Using the Model"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "li",
+      "text": "Section 3: Assessing social value in tenders.",
+      "ordinal": 45,
+      "heading_path": [
+        "1. Introduction",
+        "2. Using the Model"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "li",
+      "text": "Section 4: Contract management, reporting and case studies.",
+      "ordinal": 46,
+      "heading_path": [
+        "1. Introduction",
+        "2. Using the Model"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "p",
+      "text": "When deciding which policy outcomes apply to a procurement, users will need to carefully consider, in the context of the procurement:",
+      "ordinal": 47,
+      "heading_path": [
+        "1. Introduction",
+        "2. Using the Model"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "li",
+      "text": "whether the model question, model award criteria (MAC) and sub-criteria, associated with each policy outcome are related to the subject matter of the contract",
+      "ordinal": 48,
+      "heading_path": [
+        "1. Introduction",
+        "2. Using the Model"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "li",
+      "text": "whether they are proportionate to the contract, and",
+      "ordinal": 49,
+      "heading_path": [
+        "1. Introduction",
+        "2. Using the Model"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00050",
+      "block_type": "li",
+      "text": "whether their application will ensure compliance with the principles of equal treatment and non-discrimination",
+      "ordinal": 50,
+      "heading_path": [
+        "1. Introduction",
+        "2. Using the Model"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00051",
+      "block_type": "p",
+      "text": "Except in government’s most important contracts, users are encouraged to focus and select one outcome from the model (e.g. Fair Work and its associated MACs and sub-criteria), to focus and streamline the process for suppliers.",
+      "ordinal": 51,
+      "heading_path": [
+        "1. Introduction",
+        "2. Using the Model"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00052",
+      "block_type": "p",
+      "text": "As far as possible, the criteria are designed to be ready to use with little or no modification. This will reduce the burden on commercial teams and provide consistency for the supplier community. They may be further refined in the tender notice and associated documentation as follows (ensuring that any changes are relevant to the subject matter of the contract, proportionate (having regard to the nature, complexity and cost of the contract) and non-discriminatory (taking into consideration our trade agreements):",
+      "ordinal": 52,
+      "heading_path": [
+        "1. Introduction",
+        "2. Using the Model"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00053",
+      "block_type": "li",
+      "text": "by removing any model award criteria, or sub-criteria",
+      "ordinal": 53,
+      "heading_path": [
+        "1. Introduction",
+        "2. Using the Model"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00054",
+      "block_type": "li",
+      "text": "by refining criteria or sub-criteria for example to target a particular cohort that is relevant (e.g. care leavers) or skills gaps (e.g. digital inclusion)",
+      "ordinal": 54,
+      "heading_path": [
+        "1. Introduction",
+        "2. Using the Model"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00055",
+      "block_type": "heading",
+      "text": "2.1 Relevance, proportionality, fair treatment and non-discrimination",
+      "ordinal": 55,
+      "heading_path": [
+        "1. Introduction",
+        "2. Using the Model",
+        "2.1 Relevance, proportionality, fair treatment and non-discrimination"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00056",
+      "block_type": "p",
+      "text": "There is further guidance in relation to each policy outcome within the model, but in general:",
+      "ordinal": 56,
+      "heading_path": [
+        "1. Introduction",
+        "2. Using the Model",
+        "2.1 Relevance, proportionality, fair treatment and non-discrimination"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00057",
+      "block_type": "li",
+      "text": "Social value award criteria are likely to be proportionate if they are framed specifically having regard to the nature, complexity and cost of the contract, and designed to meet the requirement and not go beyond this. For example, if there is a high proportion of labour costs in the contract, it is likely that it would be relevant to include a question and criteria about staff working on the contract.",
+      "ordinal": 57,
+      "heading_path": [
+        "1. Introduction",
+        "2. Using the Model",
+        "2.1 Relevance, proportionality, fair treatment and non-discrimination"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00058",
+      "block_type": "li",
+      "text": "Proportionality will also be relevant to the weighting applied to social value (see Section 3 for further detail on weighting). The overall weighting allocated to social value award criteria, and the weighting allocated to other award criteria, should be proportionate taking into account the nature, complexity and cost of the contract, how important the social value outcome is to the procurement and the other criteria.",
+      "ordinal": 58,
+      "heading_path": [
+        "1. Introduction",
+        "2. Using the Model",
+        "2.1 Relevance, proportionality, fair treatment and non-discrimination"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00059",
+      "block_type": "li",
+      "text": "Fair treatment requires that contracting authorities treat suppliers the same, unless differences between them justify different treatment and, where different treatment of suppliers is justified, take all reasonable steps to make sure the different treatment does not put a supplier at an unfair advantage or disadvantage.",
+      "ordinal": 59,
+      "heading_path": [
+        "1. Introduction",
+        "2. Using the Model",
+        "2.1 Relevance, proportionality, fair treatment and non-discrimination"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00060",
+      "block_type": "li",
+      "text": "Non-discrimination requires that contracting authorities do not discriminate against treaty-state suppliers, that is to say suppliers which benefit from one or more of the UK’s free trade agreements, such as the WTO’s Agreement on Government Procurement (“the Government Procurement Agreement”). This includes indirect discrimination, for example, if an award criterion would create a particular barrier for treaty-state suppliers.",
+      "ordinal": 60,
+      "heading_path": [
+        "1. Introduction",
+        "2. Using the Model",
+        "2.1 Relevance, proportionality, fair treatment and non-discrimination"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00061",
+      "block_type": "p",
+      "text": "In addition to the above, in-scope organisations should also ensure that there are no barriers to entry for start-ups, small and medium sized enterprises (SMEs), Voluntary, Community and Social Enterprises (VCSEs) and mutuals when choosing policy outcomes, MACs, sub-criteria and metrics. This can be done by allowing suppliers to offer solutions that they can integrate into their operating model for the contract.",
+      "ordinal": 61,
+      "heading_path": [
+        "1. Introduction",
+        "2. Using the Model",
+        "2.1 Relevance, proportionality, fair treatment and non-discrimination"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00062",
+      "block_type": "p",
+      "text": "When considering what outcomes to choose from the model in-scope organisations should have regard to whether their procurement aligns to a particular mission. Where the procurement closely aligns to one of the missions, outcomes from this mission should be considered in the first instance (checking for relevance to the subject matter of the contract, proportionality, equal treatment and non-discrimination as usual). In-scope organisations should also consider any opportunities throughout the commercial lifecycle to drive innovation and collaborate with other public authorities.",
+      "ordinal": 62,
+      "heading_path": [
+        "1. Introduction",
+        "2. Using the Model",
+        "2.1 Relevance, proportionality, fair treatment and non-discrimination"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00063",
+      "block_type": "heading",
+      "text": "2.2 How to apply the model",
+      "ordinal": 63,
+      "heading_path": [
+        "1. Introduction",
+        "2. Using the Model",
+        "2.2 How to apply the model"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00064",
+      "block_type": "p",
+      "text": "The below table shows how the model fits seamlessly into the commercial lifecycle (see the stages in table below.",
+      "ordinal": 64,
+      "heading_path": [
+        "1. Introduction",
+        "2. Using the Model",
+        "2.2 How to apply the model"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00065",
+      "block_type": "table",
+      "text": "Social value model activity carried out by the in-scope organisation’s commercial team\tCommercial lifecycle - Stage\tCommercial lifecycle - Activity\n1. Build awareness within the organisation Ensure internal clients, including the relevant policy and project teams, are familiar with social value and how it contributes to the delivery of the government’s missions.\tN/A\tN/A\n2. Identify the organisation’s pipeline of procurements Discuss with internal clients what they will need to procure in the coming year, based on estimates for programme spend in the budget. Talk to stakeholders to help determine any areas of improvement that could be delivered through contracts. Publish pipeline notice (if applicable)\tPreparation and planning\tDevelop a clear definition of the business need Publish pipeline notice (if applicable)\n3. Select social value themes and policy outcomes Work with internal clients to identify social value opportunities - consider the missions and your organisation’s policy priorities to contribute to them. Identify those listed in the model and choose the appropriate themes and policy outcomes in the model that are relevant to the forthcoming contract. Identify where the contract will be performed and whether there are any relevant local economic growth priorities for the region (e.g. set out in Local Economic Growth Plans or County Council social value plans). Review the model award criteria and model question to check they are relevant, proportionate and that their application in the procurement would ensure fair treatment of suppliers and not result in discrimination. Start considering what combination of model award criteria you may use to create the social value key performance indicators (SV KPIs) which will determine whether the contract is achieving its key social value objectives.\tDefine\tPlanned procurement notice (optional)\n4. Assess the market and relevant social value opportunities Determine market maturity in delivering social value by establishing what part it currently plays in the markets the organisation will be trading with. Many companies will actively promote their social value-related activities. Establish the characteristics of the market by supplier type (i.e. a vibrant, diverse, mixed market with varied sizes and types of supplier, including VCSEs, SMEs and mutual. Consider the cost structure of the market - particularly the proportion of labour and bought-in costs. Make reaching under-represented groups and removing barriers a key consideration in the assessment, considering the need to use positive action. Include relevant supply chains in the assessment.\tDefine\t\n5. Talk to the market Start talking to the supply market as early as possible to understand the drivers of cost, quality and efficiency, and include social value in these discussions. Use this engagement to assess whether the market in question has a mature Social Value offering. This allows you to design the specification and the procurement in a way that achieves best value for the taxpayer.\tDefine\tUndertake preliminary market engagement and (optional) publish notice\n6. Test the selected themes, policy outcomes, award criteria, etc. during preliminary market engagement Run events with potential suppliers to further understand the drivers of cost, quality and efficiency. In lower cost procurements without the capacity for a supplier event, these should be substituted with webinars, surveys or other engagement, as appropriate. Test the themes and policy outcomes in the model to confirm how to best drive social value through the procurement and to confirm these are relevant and proportionate having regard to the nature, complexity and cost of the contract Test options for the model question, model award criteria, standard reporting metrics and the SV KPIs that you will develop with the market. Test the 10% minimum weighting for social value and explore whether this can be increased, depending on market maturity in delivering social value. Test how the assessment criteria can be refined to support compliance with the PSED. Keep suppliers engaged and informed by publishing a preliminary market engagement notice.\tDefine\t\n7. Build the selected social value policy outcomes into the draft procurement documents For each policy outcome use the model question and corresponding model award criteria and Sub Criteria. It is important to review the model question and model award criteria for relevance, proportionality and to ensure equal treatment and non-discrimination. Check that model question will provide the evidence you need to demonstrate compliance with and to advance the objectives of the PSED. Make adjustments if necessary. Set an appropriate character limit for responses to questions. Particularly if you have included multiple MACs, ensure you provide sufficient space for suppliers to answer the question. In the rare occurrence that preliminary market engagement indicates no policy outcome in the model is relevant and proportionate to the subject matter of the contract, in-scope organisations should develop their own policy outcomes to achieve the Missions using the format set out in this model. This should be the exception, not the rule.\tProcure\tDevelop sourcing strategy Develop tender notice and any associated tender documents Publish tender notice and any associated tender documents Supplier engagement (if appropriate)\n8. Tender assessment Assess the quality of the suppliers’ responses using the questions for the procurement (which should be based on the model question). Assess against the award criteria (which should be the model award criteria and sub-criteria set out in the tender documentation) in the same way as the assessment of any other quality aspect in a procurement. Use standard techniques to assess the social value offered by suppliers and moderate scores in the usual way. Look for comprehensive answers that meet the award criteria and sub-criteria through good quality responses (see Section 3). (Note: Illustrative examples are provided within the model as a guide for suppliers and assessors. The examples they provide are not mandatory).\tProcure\tCheck exclusions and assess tenders against any conditions of participation (may be completed as a separate qualification stage) Disregard any tenders (as appropriate) Assess tenders against award criteria and determine the most advantageous tender (MAT)\n9. Tender award Notify unsuccessful suppliers by sending assessment summaries, which must include information around the social value award criteria.\t\tIssue assessment summaries Publish contract award notice Standstill period Publish contract details notice\n10. Contract management The contract manager should manage the social value deliverables in the contract against the commitments in the successful tender. If in-scope organisations chose to include a social value KPI as one of the three KPIs published under Procurement Regulations 2024, following the performance reporting publication requirements.\tContract implementation - management and monitoring\tManage and monitor the execution and publish contract performance notices (as appropriate) Receive goods/services and issue payments Deal with any modifications Close the contract and publish contract termination notice\n11. Social value reporting Use the data recorded against SV KPIs to record progress against social value priorities as required. Central government departments submit quarterly social value reports as agreed with the Cabinet Office comprising any commitments against the standard reporting metrics. Use records/reports to demonstrate PSED compliance.\t\tMonitor performance regularly, complying with Procurement Act 2023.",
+      "ordinal": 65,
+      "heading_path": [
+        "1. Introduction",
+        "2. Using the Model",
+        "2.2 How to apply the model"
+      ],
+      "source_locator": "details.body",
+      "metadata": {
+        "rows": [
+          [
+            "Social value model activity carried out by the in-scope organisation’s commercial team",
+            "Commercial lifecycle - Stage",
+            "Commercial lifecycle - Activity"
+          ],
+          [
+            "1. Build awareness within the organisation Ensure internal clients, including the relevant policy and project teams, are familiar with social value and how it contributes to the delivery of the government’s missions.",
+            "N/A",
+            "N/A"
+          ],
+          [
+            "2. Identify the organisation’s pipeline of procurements Discuss with internal clients what they will need to procure in the coming year, based on estimates for programme spend in the budget. Talk to stakeholders to help determine any areas of improvement that could be delivered through contracts. Publish pipeline notice (if applicable)",
+            "Preparation and planning",
+            "Develop a clear definition of the business need Publish pipeline notice (if applicable)"
+          ],
+          [
+            "3. Select social value themes and policy outcomes Work with internal clients to identify social value opportunities - consider the missions and your organisation’s policy priorities to contribute to them. Identify those listed in the model and choose the appropriate themes and policy outcomes in the model that are relevant to the forthcoming contract. Identify where the contract will be performed and whether there are any relevant local economic growth priorities for the region (e.g. set out in Local Economic Growth Plans or County Council social value plans). Review the model award criteria and model question to check they are relevant, proportionate and that their application in the procurement would ensure fair treatment of suppliers and not result in discrimination. Start considering what combination of model award criteria you may use to create the social value key performance indicators (SV KPIs) which will determine whether the contract is achieving its key social value objectives.",
+            "Define",
+            "Planned procurement notice (optional)"
+          ],
+          [
+            "4. Assess the market and relevant social value opportunities Determine market maturity in delivering social value by establishing what part it currently plays in the markets the organisation will be trading with. Many companies will actively promote their social value-related activities. Establish the characteristics of the market by supplier type (i.e. a vibrant, diverse, mixed market with varied sizes and types of supplier, including VCSEs, SMEs and mutual. Consider the cost structure of the market - particularly the proportion of labour and bought-in costs. Make reaching under-represented groups and removing barriers a key consideration in the assessment, considering the need to use positive action. Include relevant supply chains in the assessment.",
+            "Define",
+            ""
+          ],
+          [
+            "5. Talk to the market Start talking to the supply market as early as possible to understand the drivers of cost, quality and efficiency, and include social value in these discussions. Use this engagement to assess whether the market in question has a mature Social Value offering. This allows you to design the specification and the procurement in a way that achieves best value for the taxpayer.",
+            "Define",
+            "Undertake preliminary market engagement and (optional) publish notice"
+          ],
+          [
+            "6. Test the selected themes, policy outcomes, award criteria, etc. during preliminary market engagement Run events with potential suppliers to further understand the drivers of cost, quality and efficiency. In lower cost procurements without the capacity for a supplier event, these should be substituted with webinars, surveys or other engagement, as appropriate. Test the themes and policy outcomes in the model to confirm how to best drive social value through the procurement and to confirm these are relevant and proportionate having regard to the nature, complexity and cost of the contract Test options for the model question, model award criteria, standard reporting metrics and the SV KPIs that you will develop with the market. Test the 10% minimum weighting for social value and explore whether this can be increased, depending on market maturity in delivering social value. Test how the assessment criteria can be refined to support compliance with the PSED. Keep suppliers engaged and informed by publishing a preliminary market engagement notice.",
+            "Define",
+            ""
+          ],
+          [
+            "7. Build the selected social value policy outcomes into the draft procurement documents For each policy outcome use the model question and corresponding model award criteria and Sub Criteria. It is important to review the model question and model award criteria for relevance, proportionality and to ensure equal treatment and non-discrimination. Check that model question will provide the evidence you need to demonstrate compliance with and to advance the objectives of the PSED. Make adjustments if necessary. Set an appropriate character limit for responses to questions. Particularly if you have included multiple MACs, ensure you provide sufficient space for suppliers to answer the question. In the rare occurrence that preliminary market engagement indicates no policy outcome in the model is relevant and proportionate to the subject matter of the contract, in-scope organisations should develop their own policy outcomes to achieve the Missions using the format set out in this model. This should be the exception, not the rule.",
+            "Procure",
+            "Develop sourcing strategy Develop tender notice and any associated tender documents Publish tender notice and any associated tender documents Supplier engagement (if appropriate)"
+          ],
+          [
+            "8. Tender assessment Assess the quality of the suppliers’ responses using the questions for the procurement (which should be based on the model question). Assess against the award criteria (which should be the model award criteria and sub-criteria set out in the tender documentation) in the same way as the assessment of any other quality aspect in a procurement. Use standard techniques to assess the social value offered by suppliers and moderate scores in the usual way. Look for comprehensive answers that meet the award criteria and sub-criteria through good quality responses (see Section 3). (Note: Illustrative examples are provided within the model as a guide for suppliers and assessors. The examples they provide are not mandatory).",
+            "Procure",
+            "Check exclusions and assess tenders against any conditions of participation (may be completed as a separate qualification stage) Disregard any tenders (as appropriate) Assess tenders against award criteria and determine the most advantageous tender (MAT)"
+          ],
+          [
+            "9. Tender award Notify unsuccessful suppliers by sending assessment summaries, which must include information around the social value award criteria.",
+            "",
+            "Issue assessment summaries Publish contract award notice Standstill period Publish contract details notice"
+          ],
+          [
+            "10. Contract management The contract manager should manage the social value deliverables in the contract against the commitments in the successful tender. If in-scope organisations chose to include a social value KPI as one of the three KPIs published under Procurement Regulations 2024, following the performance reporting publication requirements.",
+            "Contract implementation - management and monitoring",
+            "Manage and monitor the execution and publish contract performance notices (as appropriate) Receive goods/services and issue payments Deal with any modifications Close the contract and publish contract termination notice"
+          ],
+          [
+            "11. Social value reporting Use the data recorded against SV KPIs to record progress against social value priorities as required. Central government departments submit quarterly social value reports as agreed with the Cabinet Office comprising any commitments against the standard reporting metrics. Use records/reports to demonstrate PSED compliance.",
+            "",
+            "Monitor performance regularly, complying with Procurement Act 2023."
+          ]
+        ],
+        "row_count": 12
+      }
+    },
+    {
+      "block_id": "b00066",
+      "block_type": "heading",
+      "text": "3. Assessing social value in tenders",
+      "ordinal": 66,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00067",
+      "block_type": "p",
+      "text": "Section 2: Using the model",
+      "ordinal": 67,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00068",
+      "block_type": "p",
+      "text": "Section 4: Contract management, reporting and case studies the comprehensive guidance on tender assessment in the Sourcing Playbook Bid Evaluation Guidance note published on GOV.UK.",
+      "ordinal": 68,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00069",
+      "block_type": "p",
+      "text": "There is a legal requirement for contracting authorities to be transparent with suppliers when carrying out a procurement for a public contract, including in respect of the award criteria and assessment methodology used. Contracting authorities are under a duty to have regard to the importance of sharing information for the purpose of allowing suppliers and others to understand the authority’s procurement policies and decisions.",
+      "ordinal": 69,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00070",
+      "block_type": "heading",
+      "text": "3.1 Using the model award criteria",
+      "ordinal": 70,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders",
+        "3.1 Using the model award criteria"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00071",
+      "block_type": "p",
+      "text": "As part of the assessment of the most advantageous tender, there are menus of model award criteria (MAC) and sub-criteria for each of the policy outcomes in the PPN 002 Social Value Model (‘the model’). From these, in-scope organisations can select those which are relevant and proportionate to the subject matter of the contract.",
+      "ordinal": 71,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders",
+        "3.1 Using the model award criteria"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00072",
+      "block_type": "p",
+      "text": "To allow in-scope organisations to objectively assess the tender against the model award criteria, the model also includes:",
+      "ordinal": 72,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders",
+        "3.1 Using the model award criteria"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00073",
+      "block_type": "li",
+      "text": "a model question, with standard award criteria for assessing the method statement and implementation plan, and",
+      "ordinal": 73,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders",
+        "3.1 Using the model award criteria"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00074",
+      "block_type": "li",
+      "text": "model award criteria and sub-criteria for each outcome",
+      "ordinal": 74,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders",
+        "3.1 Using the model award criteria"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00075",
+      "block_type": "p",
+      "text": "The model award criteria and sub-criteria tells suppliers what the in-scope organisation is looking for in tender responses, and provides the in-scope organisation evaluation panel with the criteria they will use to assess the quality of the tender in a consistent, fair and transparent manner.",
+      "ordinal": 75,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders",
+        "3.1 Using the model award criteria"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00076",
+      "block_type": "p",
+      "text": "The model question and model award criteria and sub-criteria are outcomes and outputs-focused to allow flexibility for innovative responses and prevent barriers to entry for start-ups, SMEs, VCSEs and mutuals by allowing suppliers to offer solutions that they can integrate into their operating model for the contract.",
+      "ordinal": 76,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders",
+        "3.1 Using the model award criteria"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00077",
+      "block_type": "p",
+      "text": "Wherever possible users should copy the model award criteria and sub-criteria directly into the tender documents. If appropriate, users can make adjustments to the model award criteria and sub-criteria, model questions and model response guidance to:",
+      "ordinal": 77,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders",
+        "3.1 Using the model award criteria"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00078",
+      "block_type": "li",
+      "text": "ensure relevance and proportionality to the subject matter of the contract",
+      "ordinal": 78,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders",
+        "3.1 Using the model award criteria"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00079",
+      "block_type": "li",
+      "text": "respond to intelligence gained through preliminary market engagement, or details of local economic growth plans, or local social value needs (for example to address a local skills gap)",
+      "ordinal": 79,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders",
+        "3.1 Using the model award criteria"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00080",
+      "block_type": "li",
+      "text": "ensure compliance with fair treatment and non-discrimination, and/or to",
+      "ordinal": 80,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders",
+        "3.1 Using the model award criteria"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00081",
+      "block_type": "li",
+      "text": "satisfy/achieve specific departmental policy objectives",
+      "ordinal": 81,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders",
+        "3.1 Using the model award criteria"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00082",
+      "block_type": "heading",
+      "text": "3.2 Using a qualitative approach for assessing social value",
+      "ordinal": 82,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders",
+        "3.2 Using a qualitative approach for assessing social value"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00083",
+      "block_type": "p",
+      "text": "Under the model users assess and score the quality of the social value offered in the tender against the selected policy outcome/s at assessment stage (whether intermediate or final), in the same way as they would do for any other award criteria designed to assess quality. Although users will ask the supplier to state the quantity of what they commit to deliver (and include the resultant offer as a commitment in the contract), the assessment is qualitative, scoring how the method statement and implementation plan meet the award criteria and sub-criteria (only) - volumes are not evaluated.",
+      "ordinal": 83,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders",
+        "3.2 Using a qualitative approach for assessing social value"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00084",
+      "block_type": "p",
+      "text": "Users should establish an effective scoring methodology to suit the procurement and allow clear differentiation between suppliers’ responses to the model question.",
+      "ordinal": 84,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders",
+        "3.2 Using a qualitative approach for assessing social value"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00085",
+      "block_type": "p",
+      "text": "Users must award marks against the objective, non-discriminatory scoring criteria set out for each scoring band, on a tender by tender basis.",
+      "ordinal": 85,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders",
+        "3.2 Using a qualitative approach for assessing social value"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00086",
+      "block_type": "p",
+      "text": "Another option is to adopt a minimum standard for the award criterion or across several award criteria. For example, an in-scope organisation could stipulate a minimum score for particular award criteria, or a minimum average score across a range of award criteria, such as all of the social value award criteria.",
+      "ordinal": 86,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders",
+        "3.2 Using a qualitative approach for assessing social value"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00087",
+      "block_type": "p",
+      "text": "In this example, any tender meeting the minimal acceptable standard or above would pass, whereas any tender scoring below the ‘quality line’ of minimal acceptable standard would fail and the tender would be excluded. This approach allows contracting authorities to set a minimum standard for particular award criteria, ensuring a supplier cannot be successful if its scores against these particular criteria do not meet the required standard. This guards against lower scores being diluted by higher scores in areas which have a higher weighting. This approach could maximise the potential for social value through the contract by ensuring that only those tenders which meet the minimum social value standard can be successful.",
+      "ordinal": 87,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders",
+        "3.2 Using a qualitative approach for assessing social value"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00088",
+      "block_type": "p",
+      "text": "One more option is to set a simple pass/fail standard for particular award criteria. Any supplier meeting the acceptable standard would pass. Any supplier not meeting it would fail and their tender would be excluded. As with the approach outlined above, this allows contracting authorities to set a minimum standard. However, the pass/fail approach does not allow for any differentiation in scoring under the specified award criterion between suppliers who achieve a pass. It is important to note that when using pass/fail award criteria there is a risk that suppliers could be excluded from the tender process if they fail a question.",
+      "ordinal": 88,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders",
+        "3.2 Using a qualitative approach for assessing social value"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00089",
+      "block_type": "heading",
+      "text": "3.3 Social value deliverables versus general corporate policies",
+      "ordinal": 89,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders",
+        "3.3 Social value deliverables versus general corporate policies"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00090",
+      "block_type": "p",
+      "text": "It is essential that any Award Criteria and standard reporting metrics used are clearly linked to the social value deliverables in the supplier’s tender. Criteria and metrics based on the supplier’s general corporate policies (e.g. corporate responsibility statements) are not relevant or proportionate to the subject of the contract so must not be used.",
+      "ordinal": 90,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders",
+        "3.3 Social value deliverables versus general corporate policies"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00091",
+      "block_type": "heading",
+      "text": "3.4 Minimum weighting for social value",
+      "ordinal": 91,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders",
+        "3.4 Minimum weighting for social value"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00092",
+      "block_type": "p",
+      "text": "PPN 002 mandates a minimum weighting for social value of 10% of the total scores available (or equivalent).",
+      "ordinal": 92,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders",
+        "3.4 Minimum weighting for social value"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00093",
+      "block_type": "p",
+      "text": "The Sourcing Playbook and associated guidance recommend a Price Per Quality Point assessment methodology. In a Price per Quality Point (PQP) assessment the total price of the solution is divided by the quality score (out of 100%) to create a final score. Therefore, where PQP is used, social value should be applied as a 10% minimum weighting of the quality score.",
+      "ordinal": 93,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders",
+        "3.4 Minimum weighting for social value"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00094",
+      "block_type": "p",
+      "text": "For more information on the different assessment methodologies available please refer to the Sourcing Playbook and Bid Evaluation Guidance Note . Departments should take their own legal advice when deciding upon assessment methodologies.",
+      "ordinal": 94,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders",
+        "3.4 Minimum weighting for social value"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00095",
+      "block_type": "p",
+      "text": "The only permissible exception to this minimum 10% of the overall score rule is where preliminary market engagement demonstrates that the approach would significantly reduce competition due to a lack of market maturity in delivering social value. In these exceptional cases, the in-scope organisation may specify the social value weighting to be 10% of the quality score.",
+      "ordinal": 95,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders",
+        "3.4 Minimum weighting for social value"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00096",
+      "block_type": "p",
+      "text": "Where there is higher market maturity the in-scope organisation can apply a weighting above 10% of the total. The opportunity and risk appetite of the commercial team and of the supply base are likely to be deciding factors when the in-scope organisation considers either of these options. This should be fully explored as part of preliminary market engagement.",
+      "ordinal": 96,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders",
+        "3.4 Minimum weighting for social value"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00097",
+      "block_type": "p",
+      "text": "Whether social value, or any other quality award criteria, should have a differentiating effect in the assessment can depend on factors such as whether price is the determining factor in certain services or commodities. Also, there is likely to be variation in the capacity of different supply markets to deliver a range of meaningful social value outcomes that match the ambition of in-scope organisations.",
+      "ordinal": 97,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders",
+        "3.4 Minimum weighting for social value"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00098",
+      "block_type": "heading",
+      "text": "3.5 Assessing social value in frameworks and dynamic markets",
+      "ordinal": 98,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders",
+        "3.5 Assessing social value in frameworks and dynamic markets"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00099",
+      "block_type": "p",
+      "text": "This section refers to Frameworks. Please see the ‘ Guidance: Frameworks ’, and ‘ Module 5: Frameworks and dynamic markets ’, for definitions and guidance.",
+      "ordinal": 99,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders",
+        "3.5 Assessing social value in frameworks and dynamic markets"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00100",
+      "block_type": "p",
+      "text": "Frameworks and Dynamic Markets (“DMs”) are in scope of PPN 002.",
+      "ordinal": 100,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders",
+        "3.5 Assessing social value in frameworks and dynamic markets"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00101",
+      "block_type": "p",
+      "text": "In-scope organisations should structure frameworks and DMs such that the model is accounted for at a framework level to ensure users can apply the outcomes to call-offs. They should take into account what is suitable to assess at the framework stage and subsequently at the call-off stage (without asking the same question twice). However, in cases where frameworks are set up for use of contracting authorities outside of the scope of this PPN, the contracting authority may permit alternative social value assessment methods to be used at the call-off stage.",
+      "ordinal": 101,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders",
+        "3.5 Assessing social value in frameworks and dynamic markets"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00102",
+      "block_type": "heading",
+      "text": "Framework stage",
+      "ordinal": 102,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders",
+        "3.5 Assessing social value in frameworks and dynamic markets",
+        "Framework stage"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00103",
+      "block_type": "p",
+      "text": "When establishing a framework, the in-scope organisation should agree the realistic social value priorities for that framework at the outset of the planning process. The in-scope organisation may consider:",
+      "ordinal": 103,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders",
+        "3.5 Assessing social value in frameworks and dynamic markets",
+        "Framework stage"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00104",
+      "block_type": "li",
+      "text": "views from potential suppliers via preliminary market engagement, prior to publishing the framework tender notice and details of the competitive selection process",
+      "ordinal": 104,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders",
+        "3.5 Assessing social value in frameworks and dynamic markets",
+        "Framework stage"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00105",
+      "block_type": "li",
+      "text": "their organisation’s policy priorities that feature in the menu of options in PPN 002 Social Value Model",
+      "ordinal": 105,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders",
+        "3.5 Assessing social value in frameworks and dynamic markets",
+        "Framework stage"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00106",
+      "block_type": "li",
+      "text": "(for frameworks that relate to a specific region) the regional economic growth objectives and related social value requirements",
+      "ordinal": 106,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders",
+        "3.5 Assessing social value in frameworks and dynamic markets",
+        "Framework stage"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00107",
+      "block_type": "li",
+      "text": "the needs of the customers who will use the framework. For example, Crown Commercial Service frameworks are used by different types of public authorities (and charities) across the country",
+      "ordinal": 107,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders",
+        "3.5 Assessing social value in frameworks and dynamic markets",
+        "Framework stage"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00108",
+      "block_type": "p",
+      "text": "The framework tender documents must outline the overarching social value outcomes that any interested supplier must be able to meet at the later stage of awarding contracts. This will include setting out the questions and model award criteria and sub-criteria that tenders will be assessed against at the framework stage and the call-off stage. Therefore, it is important that in-scope organisations ensure that any social value questions and award criteria included within the framework will be relevant and proportionate to each specific contract that will be awarded at the call-off stage.",
+      "ordinal": 108,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders",
+        "3.5 Assessing social value in frameworks and dynamic markets",
+        "Framework stage"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00109",
+      "block_type": "p",
+      "text": "In-scope organisations will need to consider what it is feasible to assess at the framework stage and what will require additional detail at the call-off stage. For example, at framework stage, this might include the SV model question, criteria and sub-criteria requesting the type of social value the supplier will commit to delivering and how they will go about this; whereas at the call-off stage, the supplier could be asked the specific quantity, location and timing of the offer for the specific contract.",
+      "ordinal": 109,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders",
+        "3.5 Assessing social value in frameworks and dynamic markets",
+        "Framework stage"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00110",
+      "block_type": "p",
+      "text": "In some cases, the high number of suppliers and customers of the framework will require the framework stage process to be streamlined. In this case, the in-scope organisation may ask yes or no questions about the type of social value the supplier commits to offer in each SV model outcome or model award criteria (and outline the call-off stage process), to establish what the supplier commits to offer at the call-off stage. Customers can then follow the process set out by the authority to request that suppliers make a specific social value offer compliant with the process described and the commitments made at the framework stage. This might include a more detailed description of the specific offer, quantity, location and target cohort.",
+      "ordinal": 110,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders",
+        "3.5 Assessing social value in frameworks and dynamic markets",
+        "Framework stage"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00111",
+      "block_type": "heading",
+      "text": "Call off stage",
+      "ordinal": 111,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders",
+        "3.5 Assessing social value in frameworks and dynamic markets",
+        "Call off stage"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00112",
+      "block_type": "p",
+      "text": "To assess the suppliers’ social value offer during the call-off stage, in-scope organisations must follow the competitive selection process set out in the framework documents, but where permitted to do so may consider refining the award criteria with the addition of sub-criteria so long as these relate to the award criteria. For users in scope of this PPN, this will include the relevant award criteria and sub-criteria, described in the framework contract.",
+      "ordinal": 112,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders",
+        "3.5 Assessing social value in frameworks and dynamic markets",
+        "Call off stage"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00113",
+      "block_type": "p",
+      "text": "Departments have discretion to exempt below-threshold call-offs in the terms of the framework.",
+      "ordinal": 113,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders",
+        "3.5 Assessing social value in frameworks and dynamic markets",
+        "Call off stage"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00114",
+      "block_type": "heading",
+      "text": "Framework award without further competition",
+      "ordinal": 114,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders",
+        "3.5 Assessing social value in frameworks and dynamic markets",
+        "Framework award without further competition"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00115",
+      "block_type": "p",
+      "text": "Where a framework permits award without further competition, the supplier will be bound by a commitment to deliver social value, entered into when accepting a place on the framework. For example, using the model at the framework stage, the in-scope organisation would request what social value the supplier will commit to deliver under each award (i.e. the activity) and at the award stage, the supplier would commit the specific quantity and timing of their commitment during the performance of the contract. The in-scope organisation should assess the supplier’s delivery against these policy outcomes and award criteria as part of ongoing contract performance management.",
+      "ordinal": 115,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders",
+        "3.5 Assessing social value in frameworks and dynamic markets",
+        "Framework award without further competition"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00116",
+      "block_type": "heading",
+      "text": "Evaluation social value in procurements from dynamic markets",
+      "ordinal": 116,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders",
+        "3.5 Assessing social value in frameworks and dynamic markets",
+        "Evaluation social value in procurements from dynamic markets"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00117",
+      "block_type": "p",
+      "text": "This section refers to dynamic markets. Please see ‘ Guidance: Dynamic Markets’ , and ‘ Module 5: Frameworks and dynamic markets’ , for definitions and guidance.",
+      "ordinal": 117,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders",
+        "3.5 Assessing social value in frameworks and dynamic markets",
+        "Evaluation social value in procurements from dynamic markets"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00118",
+      "block_type": "heading",
+      "text": "3.6 Assessing social value in procurements that include suppliers based overseas",
+      "ordinal": 118,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders",
+        "3.6 Assessing social value in procurements that include suppliers based overseas"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00119",
+      "block_type": "p",
+      "text": "Contracting authorities owe the same legal duties to suppliers which benefit from the Government Procurement Agreement or other free trade agreements. This may be because the supplier is based in a country which is a member of the Government Procurement Agreement or with which the UK has a free trade agreement, or because the goods, services or works to be provided originate in such a country. A supplier will only benefit from such an agreement if it covers the procurement in question.",
+      "ordinal": 119,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders",
+        "3.6 Assessing social value in procurements that include suppliers based overseas"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00120",
+      "block_type": "p",
+      "text": "When considering the above, in-scope organisations should also bear in mind that the aim of social value is to deliver the chosen outcomes within the United Kingdom, unless the contract is being performed overseas.",
+      "ordinal": 120,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders",
+        "3.6 Assessing social value in procurements that include suppliers based overseas"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00121",
+      "block_type": "p",
+      "text": "While social value is about delivering outcomes in the United Kingdom in-scope organisations should take care to ensure that social value requirements do not present an obstacle, or act as a deterrent to, those suppliers who benefit from the UK’s international agreements.",
+      "ordinal": 121,
+      "heading_path": [
+        "1. Introduction",
+        "3. Assessing social value in tenders",
+        "3.6 Assessing social value in procurements that include suppliers based overseas"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00122",
+      "block_type": "heading",
+      "text": "4. Contract management, reporting and case studies",
+      "ordinal": 122,
+      "heading_path": [
+        "1. Introduction",
+        "4. Contract management, reporting and case studies"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00123",
+      "block_type": "p",
+      "text": "Section 4: Assessing social value in tenders",
+      "ordinal": 123,
+      "heading_path": [
+        "1. Introduction",
+        "4. Contract management, reporting and case studies"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00124",
+      "block_type": "heading",
+      "text": "4.1 Model award criteria and standard reporting metrics",
+      "ordinal": 124,
+      "heading_path": [
+        "1. Introduction",
+        "4. Contract management, reporting and case studies",
+        "4.1 Model award criteria and standard reporting metrics"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00125",
+      "block_type": "p",
+      "text": "For each policy outcome the model includes a list of standard reporting metrics the intent is to standardise the way that frequently offered types of social value are measured, so that suppliers do not have to measure the same type of social value in many different ways. At the time of publication, central government departments report to the Cabinet Office any commitments that are listed in the standard reporting metrics.",
+      "ordinal": 125,
+      "heading_path": [
+        "1. Introduction",
+        "4. Contract management, reporting and case studies",
+        "4.1 Model award criteria and standard reporting metrics"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00126",
+      "block_type": "p",
+      "text": "Standard reporting metrics are the means by which we record and monitor the supplier’s commitments under the contract e.g. number of full-time equivalent (FTE) employment opportunities created under the contract, by UK region.",
+      "ordinal": 126,
+      "heading_path": [
+        "1. Introduction",
+        "4. Contract management, reporting and case studies",
+        "4.1 Model award criteria and standard reporting metrics"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00127",
+      "block_type": "heading",
+      "text": "4.2 Entering into and managing contracts",
+      "ordinal": 127,
+      "heading_path": [
+        "1. Introduction",
+        "4. Contract management, reporting and case studies",
+        "4.2 Entering into and managing contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00128",
+      "block_type": "p",
+      "text": "When the contract is entered into, the in-scope organisation should incorporate the social value deliverables, set out in the winning supplier’s proposals, into the contract and should consider whether it is appropriate to set social value key performance indicators (SV KPIs).",
+      "ordinal": 128,
+      "heading_path": [
+        "1. Introduction",
+        "4. Contract management, reporting and case studies",
+        "4.2 Entering into and managing contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00129",
+      "block_type": "p",
+      "text": "When determining whether SV KPIs should be set, in-scope organisations should consider what is proportionate in the context of the subject matter of the contract and its value, what is feasible in the circumstances, whether they provide sufficient incentive without driving up cost. In-scope organisations should discuss with participants during pre-market engagement whether the market in question has a mature social value offering. Where appropriate to do so, for markets which have a mature social value offering, social value targets should be documented in the contract as SV KPIs. For other, less mature, markets, and where it is not proportionate to include SV KPIs, social value targets should be designated as Social Value Performance Indicators (SV PIs), or as other contract terms.",
+      "ordinal": 129,
+      "heading_path": [
+        "1. Introduction",
+        "4. Contract management, reporting and case studies",
+        "4.2 Entering into and managing contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00130",
+      "block_type": "p",
+      "text": "Where SV KPIs or PIs are used they should always comprise a combination of a deliverable and a numeric element, by which the performance of that deliverable is to be measured.",
+      "ordinal": 130,
+      "heading_path": [
+        "1. Introduction",
+        "4. Contract management, reporting and case studies",
+        "4.2 Entering into and managing contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00131",
+      "block_type": "p",
+      "text": "Where the deliverable relates to a Standard Reporting Metric (SRM) listed in PPN 002 Social Value Model, the SRM should be used to draft the KPI, PI or commitment in the contract, as long as it is appropriate and proportionate to do so. Where the deliverable is not listed in the model list of SRMs or it is not appropriate or proportionate to use one of the SRMs, the authority should agree an appropriate metric with the supplier. Only where there is not a suitable SRM, consideration should be made of any sector-wide measurement of the deliverable, aligning to existing metrics used by the supplier for economies of scale where appropriate. In these circumstances SRMs from other model award criteria within the model can also be used if appropriate.",
+      "ordinal": 131,
+      "heading_path": [
+        "1. Introduction",
+        "4. Contract management, reporting and case studies",
+        "4.2 Entering into and managing contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00132",
+      "block_type": "p",
+      "text": "It is by collecting, recording and monitoring the social value commitments made by supplier throughout the contract lifespan that the in-scope organisations and the contractor will determine whether the contract is achieving its social value objectives.",
+      "ordinal": 132,
+      "heading_path": [
+        "1. Introduction",
+        "4. Contract management, reporting and case studies",
+        "4.2 Entering into and managing contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00133",
+      "block_type": "p",
+      "text": "Further guidance on contracts and contract management is available at these links:",
+      "ordinal": 133,
+      "heading_path": [
+        "1. Introduction",
+        "4. Contract management, reporting and case studies",
+        "4.2 Entering into and managing contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00134",
+      "block_type": "li",
+      "text": "Model Services Contract",
+      "ordinal": 134,
+      "heading_path": [
+        "1. Introduction",
+        "4. Contract management, reporting and case studies",
+        "4.2 Entering into and managing contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00135",
+      "block_type": "li",
+      "text": "Sourcing Playbook",
+      "ordinal": 135,
+      "heading_path": [
+        "1. Introduction",
+        "4. Contract management, reporting and case studies",
+        "4.2 Entering into and managing contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00136",
+      "block_type": "li",
+      "text": "Contract Management Professional Standards",
+      "ordinal": 136,
+      "heading_path": [
+        "1. Introduction",
+        "4. Contract management, reporting and case studies",
+        "4.2 Entering into and managing contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00137",
+      "block_type": "li",
+      "text": "Helping you with managing contracts and suppliers",
+      "ordinal": 137,
+      "heading_path": [
+        "1. Introduction",
+        "4. Contract management, reporting and case studies",
+        "4.2 Entering into and managing contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00138",
+      "block_type": "p",
+      "text": "We encourage in-scope organisations to include at least one SV KPI (in addition to any others) when first entering into a contract.",
+      "ordinal": 138,
+      "heading_path": [
+        "1. Introduction",
+        "4. Contract management, reporting and case studies",
+        "4.2 Entering into and managing contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00139",
+      "block_type": "p",
+      "text": "If in-scope organisations decide to include social value KPIs in their contract performance notice, then they must also ensure that they have in place any necessary contractual provisions to ensure they are able to do this, including informing suppliers that data may be published and, where appropriate, seeking agreement to do so. Note that the Model Services Contract and Mid-Tier Contract have been updated to reflect the increasing profile of social value in public sector procurement and the creation of SV KPIs and PIs. Further information on this can be found in the Model Services Contract Guidance .",
+      "ordinal": 139,
+      "heading_path": [
+        "1. Introduction",
+        "4. Contract management, reporting and case studies",
+        "4.2 Entering into and managing contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00140",
+      "block_type": "heading",
+      "text": "4.3 SV KPI reporting thresholds",
+      "ordinal": 140,
+      "heading_path": [
+        "1. Introduction",
+        "4. Contract management, reporting and case studies",
+        "4.3 SV KPI reporting thresholds"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00141",
+      "block_type": "p",
+      "text": "Where SV KPIs or PIs apply, in-scope organisations will need to develop reporting thresholds SV KPIs and PIs so that performance against them can be rated as one of the following:",
+      "ordinal": 141,
+      "heading_path": [
+        "1. Introduction",
+        "4. Contract management, reporting and case studies",
+        "4.3 SV KPI reporting thresholds"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00142",
+      "block_type": "li",
+      "text": "Good. The supplier is meeting or exceeding the SV KPI targets that are set out within the contract.",
+      "ordinal": 142,
+      "heading_path": [
+        "1. Introduction",
+        "4. Contract management, reporting and case studies",
+        "4.3 SV KPI reporting thresholds"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00143",
+      "block_type": "li",
+      "text": "Approaching target. The supplier is close to meeting the SV KPI targets that are set out within the contract.",
+      "ordinal": 143,
+      "heading_path": [
+        "1. Introduction",
+        "4. Contract management, reporting and case studies",
+        "4.3 SV KPI reporting thresholds"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00144",
+      "block_type": "li",
+      "text": "Requires improvement. The performance of the supplier is below that of the SV KPIs targets that are set out within the contract.",
+      "ordinal": 144,
+      "heading_path": [
+        "1. Introduction",
+        "4. Contract management, reporting and case studies",
+        "4.3 SV KPI reporting thresholds"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00145",
+      "block_type": "li",
+      "text": "Inadequate. The performance of the supplier is significantly below that of the SV KPIs targets that are set out within the contract.",
+      "ordinal": 145,
+      "heading_path": [
+        "1. Introduction",
+        "4. Contract management, reporting and case studies",
+        "4.3 SV KPI reporting thresholds"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00146",
+      "block_type": "li",
+      "text": "Recorded elsewhere. Data that is published by the department separately (a link should be provided).",
+      "ordinal": 146,
+      "heading_path": [
+        "1. Introduction",
+        "4. Contract management, reporting and case studies",
+        "4.3 SV KPI reporting thresholds"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00147",
+      "block_type": "p",
+      "text": "In-scope organisations should assess the nature of the contract and the social value outcome they are monitoring when setting the ratings for these reporting thresholds. Note that some thresholds will remain constant over the contract lifespan, while others may alter up or down incrementally to reflect wider circumstances or to challenge the contractor to become more efficient and/or innovative over time.",
+      "ordinal": 147,
+      "heading_path": [
+        "1. Introduction",
+        "4. Contract management, reporting and case studies",
+        "4.3 SV KPI reporting thresholds"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00148",
+      "block_type": "heading",
+      "text": "4.4 Case studies and social value awards",
+      "ordinal": 148,
+      "heading_path": [
+        "1. Introduction",
+        "4. Contract management, reporting and case studies",
+        "4.4 Case studies and social value awards"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00149",
+      "block_type": "p",
+      "text": "Throughout the preparation, planning, assessment, award and contract management phases of the contract lifecycle, in-scope organisations should retain records to help create social value case studies. These case studies will help to draw out the benefits of the social value approach it has developed and will promote continuous improvement in future contracts.",
+      "ordinal": 149,
+      "heading_path": [
+        "1. Introduction",
+        "4. Contract management, reporting and case studies",
+        "4.4 Case studies and social value awards"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00150",
+      "block_type": "p",
+      "text": "The Government Commercial and Grants Function (GCF) and some in-scope organisations have introduced annual competitions for social value awards. Wherever possible commercial staff should engage with these competitions and submit competition entries. Case studies, backed up with firm evidence, will form the backbone of submissions for such awards at either GCF or organisational level.",
+      "ordinal": 150,
+      "heading_path": [
+        "1. Introduction",
+        "4. Contract management, reporting and case studies",
+        "4.4 Case studies and social value awards"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00151",
+      "block_type": "heading",
+      "text": "5. Definitions",
+      "ordinal": 151,
+      "heading_path": [
+        "1. Introduction",
+        "5. Definitions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00152",
+      "block_type": "p",
+      "text": "The following definitions relate to terms used in the model.",
+      "ordinal": 152,
+      "heading_path": [
+        "1. Introduction",
+        "5. Definitions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00153",
+      "block_type": "p",
+      "text": "Charity: A legal status for an organisation, not a legal form or organisational structure. To be considered a charity, organisations must meet two criteria:",
+      "ordinal": 153,
+      "heading_path": [
+        "1. Introduction",
+        "5. Definitions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00154",
+      "block_type": "li",
+      "text": "the purposes of the organisation must be exclusively charitable - there cannot be a mix of charitable and non-charitable purposes",
+      "ordinal": 154,
+      "heading_path": [
+        "1. Introduction",
+        "5. Definitions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00155",
+      "block_type": "li",
+      "text": "the organisation must be set up for public benefit (rather than for an individual or small select group of people)",
+      "ordinal": 155,
+      "heading_path": [
+        "1. Introduction",
+        "5. Definitions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00156",
+      "block_type": "p",
+      "text": "Community businesses: Businesses that are rooted in a particular geographical place, responding to local community needs, driven by and accountable to the local community. All community businesses could be considered social enterprises but not all social enterprises are community businesses, as some operate nationally so not rooted in one particular community. Included in the definition ‘VCSE, Voluntary, Community or Social Enterprise’.",
+      "ordinal": 156,
+      "heading_path": [
+        "1. Introduction",
+        "5. Definitions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00157",
+      "block_type": "p",
+      "text": "Disability: The Equality Act 2010 defines a disability as a physical or mental impairment which has a substantial and long-term adverse effect on a person’s ability to carry out normal day-to-day activities. This covers a wide range of people and impairments, some of which may not be immediately obvious. For example, 3.4 million people have mental health-related impairment, 2 million have a learning disability and 1.7 million have a visual impairment.",
+      "ordinal": 157,
+      "heading_path": [
+        "1. Introduction",
+        "5. Definitions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00158",
+      "block_type": "p",
+      "text": "The Government Statistical Service has developed a ‘harmonised’ definition of disability based on the Equality Act 2010 which is designed to be consistently applied across Government Surveys. This definition is operationalised in the nationally representative UK Labour Force Survey as a two-part question. See here for more information.",
+      "ordinal": 158,
+      "heading_path": [
+        "1. Introduction",
+        "5. Definitions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00159",
+      "block_type": "p",
+      "text": "Future contract award: Future contracts let under a framework, commonly referred to as ‘call-off contracts’.",
+      "ordinal": 159,
+      "heading_path": [
+        "1. Introduction",
+        "5. Definitions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00160",
+      "block_type": "p",
+      "text": "Kinship Care: Any situation in which a child is being raised in the care of a friend or family member who is not their parent. The arrangement may be temporary or longer term.",
+      "ordinal": 160,
+      "heading_path": [
+        "1. Introduction",
+        "5. Definitions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00161",
+      "block_type": "p",
+      "text": "Prison leavers: Ex-offenders released from a prison environment in the previous 6 months (with flexibility to report to 12 months should onboarding take longer)",
+      "ordinal": 161,
+      "heading_path": [
+        "1. Introduction",
+        "5. Definitions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00162",
+      "block_type": "p",
+      "text": "Public Service Mutual (or ‘mutual’): Currently defined as an organisation that has left the public sector (known as ‘spinning out’), but continues to deliver public services and have a significant degree of employee ownership, influence, or control. This definition was set by the government in 2010 but is not enshrined in legislation. It does not refer to a specific legal form but rather a distinct type of business and public service delivery model.",
+      "ordinal": 162,
+      "heading_path": [
+        "1. Introduction",
+        "5. Definitions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00163",
+      "block_type": "p",
+      "text": "Relevant area: The area consisting of the area or areas of the one or more relevant authorities on whose behalf a public services contract is, or contracts based on a framework agreement are, intended to be made.",
+      "ordinal": 163,
+      "heading_path": [
+        "1. Introduction",
+        "5. Definitions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00164",
+      "block_type": "p",
+      "text": "Small and medium sized enterprise (SME). Means suppliers that -",
+      "ordinal": 164,
+      "heading_path": [
+        "1. Introduction",
+        "5. Definitions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00165",
+      "block_type": "li",
+      "text": "have fewer than 250 staff, and",
+      "ordinal": 165,
+      "heading_path": [
+        "1. Introduction",
+        "5. Definitions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00166",
+      "block_type": "li",
+      "text": "have a turnover of an amount less than or equal to £44 million, or a balance sheet total of an amount less than or equal to £38 million",
+      "ordinal": 166,
+      "heading_path": [
+        "1. Introduction",
+        "5. Definitions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00167",
+      "block_type": "p",
+      "text": "Social Enterprise: A business with primarily social objectives whose surpluses are principally reinvested for that purpose in the business or in the community. The most common forms are Company Limited by Guarantee (CLG), Company Limited by Shares (CLS), Community Interest Company (CIC), specifically created for social enterprises, Industrial and Provident Society (IPS) Bona Fide and IPS BenCom.",
+      "ordinal": 167,
+      "heading_path": [
+        "1. Introduction",
+        "5. Definitions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00168",
+      "block_type": "p",
+      "text": "Spinout: A spinout is a company that has been created to exploit research, expertise or IP developed in another context for example, either a university, national laboratory, or a parent company. For spinouts, the new company’s development would usually be supported by the parent institution’s enterprise team and the parent institution (or a connected venture arm), which will usually retain a significant stake in the company.",
+      "ordinal": 168,
+      "heading_path": [
+        "1. Introduction",
+        "5. Definitions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00169",
+      "block_type": "li",
+      "text": "Corporate spinouts are companies that have separated from their parent company to pursue a defined business goal.",
+      "ordinal": 169,
+      "heading_path": [
+        "1. Introduction",
+        "5. Definitions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00170",
+      "block_type": "li",
+      "text": "University spinouts are usually founded by researchers (or sometimes students) to exploit knowledge or inventions developed from university or publicly funded research.",
+      "ordinal": 170,
+      "heading_path": [
+        "1. Introduction",
+        "5. Definitions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00171",
+      "block_type": "p",
+      "text": "Note: When spinout companies are first formed, they would be classed as a type of start-up.",
+      "ordinal": 171,
+      "heading_path": [
+        "1. Introduction",
+        "5. Definitions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00172",
+      "block_type": "p",
+      "text": "Start up: Means a company that is young, typically operating for two years or less, which is independent and operates privately. These companies are usually founded by one or more entrepreneurs who want to develop a product or service for which they believe there is demand. They generally start with high costs and limited revenue, which is why they look for capital from a variety of sources such as venture capitalists.",
+      "ordinal": 172,
+      "heading_path": [
+        "1. Introduction",
+        "5. Definitions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00173",
+      "block_type": "p",
+      "text": "Start-up subgroups include:",
+      "ordinal": 173,
+      "heading_path": [
+        "1. Introduction",
+        "5. Definitions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00174",
+      "block_type": "li",
+      "text": "bootstrapped – a start-up using their own funds, debt, and revenue to grow and scale",
+      "ordinal": 174,
+      "heading_path": [
+        "1. Introduction",
+        "5. Definitions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00175",
+      "block_type": "li",
+      "text": "venture-backed – a start-up using formal equity-based funding and classical staged financing to grow and scale",
+      "ordinal": 175,
+      "heading_path": [
+        "1. Introduction",
+        "5. Definitions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00176",
+      "block_type": "p",
+      "text": "Note: A spinout is a particular type of start-up.",
+      "ordinal": 176,
+      "heading_path": [
+        "1. Introduction",
+        "5. Definitions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00177",
+      "block_type": "p",
+      "text": "Sustainable: Means a minimum of 6 months duration.",
+      "ordinal": 177,
+      "heading_path": [
+        "1. Introduction",
+        "5. Definitions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00178",
+      "block_type": "p",
+      "text": "Voluntary, Community and Social Enterprises (VCSEs): Collective term that includes any organisation (incorporated or not) working with a social purpose. This ranges from small community based groups/schemes (Good Neighbour Schemes, ‘Stitch & Knit’ or Cubs, Brownies, etc.), through to larger registered charities and social enterprises, public service mutuals and cooperatives that operate locally, regionally and nationally. This term is often interchangeable with the terms ‘third sector’ or ‘civil society’ organisations.",
+      "ordinal": 178,
+      "heading_path": [
+        "1. Introduction",
+        "5. Definitions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00179",
+      "block_type": "heading",
+      "text": "6. Frequently asked questions",
+      "ordinal": 179,
+      "heading_path": [
+        "1. Introduction",
+        "6. Frequently asked questions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00180",
+      "block_type": "heading",
+      "text": "Q. Which public bodies are in scope of the model?",
+      "ordinal": 180,
+      "heading_path": [
+        "1. Introduction",
+        "6. Frequently asked questions",
+        "Q. Which public bodies are in scope of the model?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00181",
+      "block_type": "p",
+      "text": "A. Please refer to dissemination and scope in PPN 002 Taking account of social value in the award of central government contracts.",
+      "ordinal": 181,
+      "heading_path": [
+        "1. Introduction",
+        "6. Frequently asked questions",
+        "Q. Which public bodies are in scope of the model?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00182",
+      "block_type": "heading",
+      "text": "Q. Is the use of the model mandatory within all these organisations?",
+      "ordinal": 182,
+      "heading_path": [
+        "1. Introduction",
+        "6. Frequently asked questions",
+        "Q. Is the use of the model mandatory within all these organisations?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00183",
+      "block_type": "p",
+      "text": "A. Yes, for organisations in scope of PPN 002 Taking account of social value in the award of central government contracts published on GOV.UK.",
+      "ordinal": 183,
+      "heading_path": [
+        "1. Introduction",
+        "6. Frequently asked questions",
+        "Q. Is the use of the model mandatory within all these organisations?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00184",
+      "block_type": "heading",
+      "text": "Q. Can in-scope organisations go further than what is set out in the model if desired?",
+      "ordinal": 184,
+      "heading_path": [
+        "1. Introduction",
+        "6. Frequently asked questions",
+        "Q. Can in-scope organisations go further than what is set out in the model if desired?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00185",
+      "block_type": "p",
+      "text": "A. Yes, in-scope organisations with a more developed level of social value procurement capability may increase the weighting applied to social value.",
+      "ordinal": 185,
+      "heading_path": [
+        "1. Introduction",
+        "6. Frequently asked questions",
+        "Q. Can in-scope organisations go further than what is set out in the model if desired?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00186",
+      "block_type": "heading",
+      "text": "Q. When must ‘The PPN002 Social Value Model’ be applied to new procurement activity?",
+      "ordinal": 186,
+      "heading_path": [
+        "1. Introduction",
+        "6. Frequently asked questions",
+        "Q. When must ‘The PPN002 Social Value Model’ be applied to new procurement activity?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00187",
+      "block_type": "p",
+      "text": "A. For procurements commenced prior to 24 February 2025 the original PPN 06/20 and the associated ‘Social Value Model’ applies.",
+      "ordinal": 187,
+      "heading_path": [
+        "1. Introduction",
+        "6. Frequently asked questions",
+        "Q. When must ‘The PPN002 Social Value Model’ be applied to new procurement activity?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00188",
+      "block_type": "p",
+      "text": "Procurements commenced after 24 February 2025 that have already developed a social value approach can also use the pre-existing model up until 1 October 2025. Please note the 1 October deadline is only for procurements started under the Procurement Act 2023.",
+      "ordinal": 188,
+      "heading_path": [
+        "1. Introduction",
+        "6. Frequently asked questions",
+        "Q. When must ‘The PPN002 Social Value Model’ be applied to new procurement activity?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00189",
+      "block_type": "p",
+      "text": "Where a procurement was published after the 24 February 2025 and has not already developed a social value strategy PPN 002 Social Value Model should be applied.",
+      "ordinal": 189,
+      "heading_path": [
+        "1. Introduction",
+        "6. Frequently asked questions",
+        "Q. When must ‘The PPN002 Social Value Model’ be applied to new procurement activity?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00190",
+      "block_type": "heading",
+      "text": "Q. Does the PPN002 Social Value Model apply to all spend?",
+      "ordinal": 190,
+      "heading_path": [
+        "1. Introduction",
+        "6. Frequently asked questions",
+        "Q. Does the PPN002 Social Value Model apply to all spend?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00191",
+      "block_type": "p",
+      "text": "A. No, only to spend relating to contracts within the scope of the Procurement Act 2023. However, it can be applied voluntarily to spend outside of these parameters if desired.",
+      "ordinal": 191,
+      "heading_path": [
+        "1. Introduction",
+        "6. Frequently asked questions",
+        "Q. Does the PPN002 Social Value Model apply to all spend?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00192",
+      "block_type": "heading",
+      "text": "Q. Does the PPN002 Social Value Model apply to overseas suppliers?",
+      "ordinal": 192,
+      "heading_path": [
+        "1. Introduction",
+        "6. Frequently asked questions",
+        "Q. Does the PPN002 Social Value Model apply to overseas suppliers?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00193",
+      "block_type": "p",
+      "text": "A. Yes. The government has an open market policy with respect to public procurement so tenders from other countries should not be discriminated against.",
+      "ordinal": 193,
+      "heading_path": [
+        "1. Introduction",
+        "6. Frequently asked questions",
+        "Q. Does the PPN002 Social Value Model apply to overseas suppliers?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00194",
+      "block_type": "heading",
+      "text": "Q. Does the model apply to contracts performed overseas?",
+      "ordinal": 194,
+      "heading_path": [
+        "1. Introduction",
+        "6. Frequently asked questions",
+        "Q. Does the model apply to contracts performed overseas?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00195",
+      "block_type": "p",
+      "text": "A. The model can be applied to contracts performed overseas (but it is not a requirement of this policy to do so).",
+      "ordinal": 195,
+      "heading_path": [
+        "1. Introduction",
+        "6. Frequently asked questions",
+        "Q. Does the model apply to contracts performed overseas?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00196",
+      "block_type": "heading",
+      "text": "Q. Does the model apply to frameworks?",
+      "ordinal": 196,
+      "heading_path": [
+        "1. Introduction",
+        "6. Frequently asked questions",
+        "Q. Does the model apply to frameworks?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00197",
+      "block_type": "p",
+      "text": "A. Yes, the model should be used to procure frameworks. If social value is included as award criteria within the competitive selection process, then:",
+      "ordinal": 197,
+      "heading_path": [
+        "1. Introduction",
+        "6. Frequently asked questions",
+        "Q. Does the model apply to frameworks?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00198",
+      "block_type": "li",
+      "text": "this must be explicitly provided for in the framework, but may be expanded on in more detail if desired",
+      "ordinal": 198,
+      "heading_path": [
+        "1. Introduction",
+        "6. Frequently asked questions",
+        "Q. Does the model apply to frameworks?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00199",
+      "block_type": "li",
+      "text": "there must be clear guidance on the procedure for including social value at the Call-off stage, in line with the tender notice and framework outcomes",
+      "ordinal": 199,
+      "heading_path": [
+        "1. Introduction",
+        "6. Frequently asked questions",
+        "Q. Does the model apply to frameworks?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00200",
+      "block_type": "li",
+      "text": "there should be no duplication of questions set in the procurement documents for the framework",
+      "ordinal": 200,
+      "heading_path": [
+        "1. Introduction",
+        "6. Frequently asked questions",
+        "Q. Does the model apply to frameworks?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00201",
+      "block_type": "heading",
+      "text": "Q. Can I apply social value at the call-off stage if it was not part of the criteria for the framework?",
+      "ordinal": 201,
+      "heading_path": [
+        "1. Introduction",
+        "6. Frequently asked questions",
+        "Q. Can I apply social value at the call-off stage if it was not part of the criteria for the framework?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00202",
+      "block_type": "p",
+      "text": "A. No.",
+      "ordinal": 202,
+      "heading_path": [
+        "1. Introduction",
+        "6. Frequently asked questions",
+        "Q. Can I apply social value at the call-off stage if it was not part of the criteria for the framework?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00203",
+      "block_type": "heading",
+      "text": "Q. Does the model disadvantage non-UK suppliers?",
+      "ordinal": 203,
+      "heading_path": [
+        "1. Introduction",
+        "6. Frequently asked questions",
+        "Q. Does the model disadvantage non-UK suppliers?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00204",
+      "block_type": "p",
+      "text": "A. No. The PPN 002 Social Value Model is outcomes-based, so it enables a diverse range of suppliers to contribute social value during the performance of a contract in a way that suits their operating model for that contract. Officials should conduct their usual reviews of the model question, model award criteria and methodology to ensure they are not discriminatory against non-UK suppliers.",
+      "ordinal": 204,
+      "heading_path": [
+        "1. Introduction",
+        "6. Frequently asked questions",
+        "Q. Does the model disadvantage non-UK suppliers?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00205",
+      "block_type": "heading",
+      "text": "Q. Can I add policy outcomes to the model?",
+      "ordinal": 205,
+      "heading_path": [
+        "1. Introduction",
+        "6. Frequently asked questions",
+        "Q. Can I add policy outcomes to the model?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00206",
+      "block_type": "p",
+      "text": "A. Government has defined its priority social value outcomes to provide focus, deliver a coherent message and drive synergies. Where an in-scope organisation has an opportunity to contribute to the delivery of specific objectives related to its own strategy and operations, additional policy outcomes may be added. However, this must not be instead of applying the model. In exceptional cases, none of the existing policy outcomes may apply, and in those instances additional policy outcomes may be developed. When developing additional outcomes, in-scope organisations must ensure they are designed to mirror the approach and style used in the model to ensure a consistent message to the supplier base.",
+      "ordinal": 206,
+      "heading_path": [
+        "1. Introduction",
+        "6. Frequently asked questions",
+        "Q. Can I add policy outcomes to the model?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00207",
+      "block_type": "heading",
+      "text": "Q. Can I change the outcomes listed in the model?",
+      "ordinal": 207,
+      "heading_path": [
+        "1. Introduction",
+        "6. Frequently asked questions",
+        "Q. Can I change the outcomes listed in the model?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00208",
+      "block_type": "p",
+      "text": "A. No. The model has been set up to deliver social value that contributes to the Government’s missions. However, additional department-specific policy outcomes can be added to the model locally where required and where they deliver the government’s missions (see ‘Can I add policy outcomes to the model?’).",
+      "ordinal": 208,
+      "heading_path": [
+        "1. Introduction",
+        "6. Frequently asked questions",
+        "Q. Can I change the outcomes listed in the model?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00209",
+      "block_type": "heading",
+      "text": "Q. Does this apply to direct award?",
+      "ordinal": 209,
+      "heading_path": [
+        "1. Introduction",
+        "6. Frequently asked questions",
+        "Q. Does this apply to direct award?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00210",
+      "block_type": "p",
+      "text": "A. Yes, it can be applied in these circumstances, for example where there is some competition but not a full competition, or by including KPIs in contracts.",
+      "ordinal": 210,
+      "heading_path": [
+        "1. Introduction",
+        "6. Frequently asked questions",
+        "Q. Does this apply to direct award?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00211",
+      "block_type": "heading",
+      "text": "Q. Can I adjust the assessment criteria to relate to a specific geographical location?",
+      "ordinal": 211,
+      "heading_path": [
+        "1. Introduction",
+        "6. Frequently asked questions",
+        "Q. Can I adjust the assessment criteria to relate to a specific geographical location?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00212",
+      "block_type": "p",
+      "text": "A. Yes, as long as this is relevant to the subject-matter of the contract, proportionate (having regard to the nature, cost and complexity of the contract) and does not result in unequal treatment or discrimination.",
+      "ordinal": 212,
+      "heading_path": [
+        "1. Introduction",
+        "6. Frequently asked questions",
+        "Q. Can I adjust the assessment criteria to relate to a specific geographical location?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00213",
+      "block_type": "heading",
+      "text": "Q. Can elements of the model be applied as conditions of participation?",
+      "ordinal": 213,
+      "heading_path": [
+        "1. Introduction",
+        "6. Frequently asked questions",
+        "Q. Can elements of the model be applied as conditions of participation?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00214",
+      "block_type": "p",
+      "text": "A. No, conditions of participation must relate to the supplier’s legal and financial capacity or technical ability to perform the contract. Social value must form part of the quality assessment.",
+      "ordinal": 214,
+      "heading_path": [
+        "1. Introduction",
+        "6. Frequently asked questions",
+        "Q. Can elements of the model be applied as conditions of participation?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00215",
+      "block_type": "heading",
+      "text": "Q. Can I accept suppliers’ corporate social responsibility (CSR) statements, policies and/or case studies as proof of how they intend to deliver the social value policy outcomes in my procurement?",
+      "ordinal": 215,
+      "heading_path": [
+        "1. Introduction",
+        "6. Frequently asked questions",
+        "Q. Can I accept suppliers’ corporate social responsibility (CSR) statements, policies and/or case studies as proof of how they intend to deliver the social value policy outcomes in my procurement?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00216",
+      "block_type": "p",
+      "text": "A. ‘CSR’ refers to how the organisation performs corporately. It is not contract-specific and therefore will not adequately address the social value award criteria. Suppliers may refer to existing schemes and policies (e.g. an existing relationship with an apprenticeship training provider) to explain their methodology, but scoring must relate to the specific actions that will be made in the performance of the contract.",
+      "ordinal": 216,
+      "heading_path": [
+        "1. Introduction",
+        "6. Frequently asked questions",
+        "Q. Can I accept suppliers’ corporate social responsibility (CSR) statements, policies and/or case studies as proof of how they intend to deliver the social value policy outcomes in my procurement?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00217",
+      "block_type": "heading",
+      "text": "Q. How do I apply social value ward criteria in a multi-stage assessment which aims to reduce supplier numbers at final stage with additional criteria assessed at the second stage?",
+      "ordinal": 217,
+      "heading_path": [
+        "1. Introduction",
+        "6. Frequently asked questions",
+        "Q. How do I apply social value ward criteria in a multi-stage assessment which aims to reduce supplier numbers at final stage with additional criteria assessed at the second stage?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00218",
+      "block_type": "p",
+      "text": "A. Social value must account for 10% of total scores available at the final stage of the procurement process (or equivalent where other assessment methodologies are used).",
+      "ordinal": 218,
+      "heading_path": [
+        "1. Introduction",
+        "6. Frequently asked questions",
+        "Q. How do I apply social value ward criteria in a multi-stage assessment which aims to reduce supplier numbers at final stage with additional criteria assessed at the second stage?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00219",
+      "block_type": "heading",
+      "text": "Q. How do I apply social value award criteria in a multi stage assessment where feedback given and suppliers can improve their offer?",
+      "ordinal": 219,
+      "heading_path": [
+        "1. Introduction",
+        "6. Frequently asked questions",
+        "Q. How do I apply social value award criteria in a multi stage assessment where feedback given and suppliers can improve their offer?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00220",
+      "block_type": "p",
+      "text": "A. Social value award criteria should be the same at both stages, (unless there is a provision to refine criteria in the tender notices). Feedback should be given at each assessment stage e.g. a specific SMART commitment is needed and social value must account for 10% of total scores available at the final stage of the procurement process (or equivalent where other assessment methodologies are used)",
+      "ordinal": 220,
+      "heading_path": [
+        "1. Introduction",
+        "6. Frequently asked questions",
+        "Q. How do I apply social value award criteria in a multi stage assessment where feedback given and suppliers can improve their offer?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00221",
+      "block_type": "li",
+      "text": "See The Sourcing Playbook ↩",
+      "ordinal": 221,
+      "heading_path": [
+        "1. Introduction",
+        "6. Frequently asked questions",
+        "Q. How do I apply social value award criteria in a multi stage assessment where feedback given and suppliers can improve their offer?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00222",
+      "block_type": "p",
+      "text": "See The Sourcing Playbook ↩",
+      "ordinal": 222,
+      "heading_path": [
+        "1. Introduction",
+        "6. Frequently asked questions",
+        "Q. How do I apply social value award criteria in a multi stage assessment where feedback given and suppliers can improve their offer?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "[footnote 1]",
+      "href": "https://www.gov.uk/government/publications/ppn-002-taking-account-of-social-value-in-the-award-of-contracts/ppn-002-guide-to-using-the-social-value-model-html#fn:1",
+      "block_id": "b00002",
+      "ordinal": 0,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Green Book",
+      "href": "https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-government",
+      "block_id": "b00005",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Public Services (Social Value) Act 2012",
+      "href": "https://www.legislation.gov.uk/ukpga/2012/3",
+      "block_id": "b00008",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Sustainable Development Goals",
+      "href": "https://sdgs.un.org/goals",
+      "block_id": "b00021",
+      "ordinal": 3,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Public Sector Equality Duty",
+      "href": "https://www.gov.uk/government/publications/public-sector-equality-duty",
+      "block_id": "b00032",
+      "ordinal": 4,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Equality Act 2010",
+      "href": "https://www.gov.uk/guidance/equality-act-2010-guidance",
+      "block_id": "b00032",
+      "ordinal": 5,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Government Commercial College",
+      "href": "https://www.govcommercialcollege.co.uk/",
+      "block_id": "b00041",
+      "ordinal": 6,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Sourcing Playbook and Bid Evaluation Guidance Note",
+      "href": "https://www.gov.uk/government/publications/the-sourcing-and-consultancy-playbooks",
+      "block_id": "b00094",
+      "ordinal": 7,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Guidance: Frameworks",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance",
+      "block_id": "b00099",
+      "ordinal": 8,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Module 5: Frameworks and dynamic markets",
+      "href": "https://www.gov.uk/government/publications/the-official-procurement-act-2023-e-learning",
+      "block_id": "b00099",
+      "ordinal": 9,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Guidance: Dynamic Markets’",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance",
+      "block_id": "b00117",
+      "ordinal": 10,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Module 5: Frameworks and dynamic markets’",
+      "href": "https://www.gov.uk/government/publications/the-official-procurement-act-2023-e-learning",
+      "block_id": "b00117",
+      "ordinal": 11,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Model Services Contract",
+      "href": "https://www.gov.uk/government/collections/model-services-contract",
+      "block_id": "b00134",
+      "ordinal": 12,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Sourcing Playbook",
+      "href": "https://www.gov.uk/government/publications/the-sourcing-and-consultancy-playbooks",
+      "block_id": "b00135",
+      "ordinal": 13,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Contract Management Professional Standards",
+      "href": "https://www.gov.uk/government/publications/contract-management",
+      "block_id": "b00136",
+      "ordinal": 14,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Helping you with managing contracts and suppliers",
+      "href": "https://www.gov.uk/government/publications/civil-service-helping-you-with-managing-suppliers-and-contracts",
+      "block_id": "b00137",
+      "ordinal": 15,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Model Services Contract",
+      "href": "https://www.gov.uk/government/collections/model-services-contract",
+      "block_id": "b00139",
+      "ordinal": 16,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Mid-Tier Contract",
+      "href": "https://www.gov.uk/government/collections/the-mid-tier-contract",
+      "block_id": "b00139",
+      "ordinal": 17,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Model Services Contract Guidance",
+      "href": "https://www.gov.uk/government/publications/guidance-on-the-model-services-contract",
+      "block_id": "b00139",
+      "ordinal": 18,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "The Sourcing Playbook",
+      "href": "https://www.gov.uk/government/publications/the-sourcing-and-consultancy-playbooks",
+      "block_id": "b00221",
+      "ordinal": 19,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-002-taking-account-of-social-value-in-the-award-of-contracts/ppn-002-guide-to-using-the-social-value-model-html#fnref:1",
+      "block_id": "b00221",
+      "ordinal": 20,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "The Sourcing Playbook",
+      "href": "https://www.gov.uk/government/publications/the-sourcing-and-consultancy-playbooks",
+      "block_id": "b00222",
+      "ordinal": 21,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-002-taking-account-of-social-value-in-the-award-of-contracts/ppn-002-guide-to-using-the-social-value-model-html#fnref:1",
+      "block_id": "b00222",
+      "ordinal": 22,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "PPN 002 Guide to using the social value model (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-002-taking-account-of-social-value-in-the-award-of-contracts/ppn-002-guide-to-using-the-social-value-model-html",
+      "block_id": "__document__",
+      "ordinal": 23,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2024 to 2026 Starmer Labour government",
+      "href": "https://www.gov.uk/government/2024-starmer-labour-government",
+      "block_id": "__document__",
+      "ordinal": 24,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 25,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "PPN 002: Taking account of social value in the award of contracts",
+      "href": "https://www.gov.uk/government/publications/ppn-002-taking-account-of-social-value-in-the-award-of-contracts",
+      "block_id": "__document__",
+      "ordinal": 26,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 27,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 23(2)(a)",
+      "block_id": "b00024",
+      "start": 240,
+      "end": 256,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "23",
+        "tail": "(2)(a)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 23(2)(a)",
+      "block_id": "b00026",
+      "start": 118,
+      "end": 134,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "23",
+        "tail": "(2)(a)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 12(2)",
+      "block_id": "b00027",
+      "start": 58,
+      "end": 71,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "12",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 90",
+      "block_id": "b00028",
+      "start": 137,
+      "end": 147,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "90"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 3",
+      "block_id": "b00045",
+      "start": 0,
+      "end": 9,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "3"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 4",
+      "block_id": "b00046",
+      "start": 0,
+      "end": 9,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "4"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 3",
+      "block_id": "b00058",
+      "start": 84,
+      "end": 93,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "3"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 3",
+      "block_id": "b00065",
+      "start": 6000,
+      "end": 6009,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "3"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2024",
+      "block_id": "b00065",
+      "start": 6948,
+      "end": 6964,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2024"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 2",
+      "block_id": "b00067",
+      "start": 0,
+      "end": 9,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "2"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 4",
+      "block_id": "b00068",
+      "start": 0,
+      "end": 9,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "4"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 4",
+      "block_id": "b00123",
+      "start": 0,
+      "end": 9,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "4"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

@@ -1,0 +1,539 @@
+{
+  "document_id": "b09ce4ab-7082-4341-91e8-e2fccdc9f30a",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/9e5d273fb78f1afdf04b8172.json",
+  "input_sha256": "fc14505fcbe26c72e3a5f8ac0162619529aa68aec7fc423b5c900bb658f77909",
+  "processed_at": "2026-08-27T02:26:33.917199+00:00",
+  "title": "PPN 025 - Protecting the UK’s national security through public procurement (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/ppn-025-protecting-the-uks-national-security-through-public-procurement/ppn-025-protecting-the-uks-national-security-through-public-procurement-html",
+  "description": null,
+  "publication_date": "2026-06-19T13:00:42+01:00",
+  "updated_date": "2026-07-03T09:03:03+01:00",
+  "source_metadata": {
+    "content_id": "b09ce4ab-7082-4341-91e8-e2fccdc9f30a",
+    "base_path": "/government/publications/ppn-025-protecting-the-uks-national-security-through-public-procurement/ppn-025-protecting-the-uks-national-security-through-public-procurement-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Issue",
+      "ordinal": 2,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Dissemination and scope",
+      "ordinal": 10,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Timing",
+      "ordinal": 15,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Action",
+      "ordinal": 17,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Background",
+      "ordinal": 22,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Contact",
+      "ordinal": 32,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "Action note: 025",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "Issued: June 2026",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "heading",
+      "text": "Issue",
+      "ordinal": 2,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "1. The Government’s National Security Strategy 2025 is clear that we are entering a new era of radical uncertainty and that a major cultural shift is needed for the UK to respond effectively. To ensure public procurement plays its part, the Government is taking action to recalibrate its approach so that the UK’s huge purchasing power is more effectively deployed to protect our national security.",
+      "ordinal": 3,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "2. National security extends beyond defence; true resilience requires supporting critical sectors and securing supply chains so they can be relied upon during crises to protect the UK’s national security. This means understanding that foundational assets like steel and shipbuilding are capabilities essential to the UK’s security rather than mere commodities, and treating them as such. It means procuring emerging essentials like artificial intelligence and energy infrastructure with strategic intent to strengthen our resilience and ensure the UK is not left vulnerable to supply chain shocks.",
+      "ordinal": 4,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "3. The Government has commissioned action in four critical sectors and identified organisations to act as Sector Leads for each:",
+      "ordinal": 5,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "li",
+      "text": "Shipbuilding - National Shipbuilding Office, Ministry of Defence",
+      "ordinal": 6,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "li",
+      "text": "Steel - Department for Business and Trade",
+      "ordinal": 7,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "li",
+      "text": "Artificial intelligence (AI) - Department for Science, Innovation and Technology",
+      "ordinal": 8,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "li",
+      "text": "Energy infrastructure - Department of Energy Security and Net Zero",
+      "ordinal": 9,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "heading",
+      "text": "Dissemination and scope",
+      "ordinal": 10,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "4. This Procurement Policy Note (PPN) applies only to central government departments, their executive agencies and non-departmental public bodies. Such bodies are referred to as “in-scope organisations”. Private utilities should strongly consider applying this PPN and accompanying guidance in relevant procurements in energy infrastructure, and engage with the Sector Lead on their proposed approach to relevant procurements.",
+      "ordinal": 11,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "5. Other organisations that are contracting authorities under the Procurement Act 2023 can consider their own pipelines in the context of the guidance. Where procurements are high value, complex or related to national interests, they are also encouraged to engage the Sector Leads.",
+      "ordinal": 12,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "6. The PPN applies to “relevant procurements” which are outlined for each critical sector in Annex A of the accompanying guidance to this PPN.",
+      "ordinal": 13,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "7. Please circulate this PPN and accompanying guidance within your organisation, particularly to those with a commercial, procurement, contract management and/or security role. It may also be relevant to those in finance, operational and sustainability roles.",
+      "ordinal": 14,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "heading",
+      "text": "Timing",
+      "ordinal": 15,
+      "heading_path": [
+        "Issue",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "8. In-scope organisations should note the provisions of this PPN with immediate effect.",
+      "ordinal": 16,
+      "heading_path": [
+        "Issue",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "heading",
+      "text": "Action",
+      "ordinal": 17,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "p",
+      "text": "9. In-scope organisations should, using the accompanying guidance to this PPN:",
+      "ordinal": 18,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "li",
+      "text": "Identify the procurements in your pipeline relevant to protecting the UK’s national security in shipbuilding, steel, AI and energy infrastructure.",
+      "ordinal": 19,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "li",
+      "text": "Engage early with the relevant Sector Lead to ensure their commercial approach will protect the UK’s national security interests.",
+      "ordinal": 20,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "li",
+      "text": "Deploy the national security exemption in the Procurement Act 2023 where appropriate and justified in a relevant procurement.",
+      "ordinal": 21,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "heading",
+      "text": "Background",
+      "ordinal": 22,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "10. This guidance responds to an increasingly complex and contested operating environment, placing greater emphasis on protecting national security in critical sectors and, in doing so, safeguarding supply chain resilience and long-term national resilience. Global market disruption and increasing dependency on critical supply chains have highlighted the need for public procurement to consider not only immediate commercial outcomes, but also broader strategic and national security implications.",
+      "ordinal": 23,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "11. However, organisations can face uncertainty regarding the circumstances in which the national security exemption may legitimately be considered. The guidance is intended to provide greater clarity, confidence and consistency for practitioners by explaining how, where relevant and appropriate, the exemption may be considered alongside wider strategic objectives such as security of supply and long-term market resilience.",
+      "ordinal": 24,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "p",
+      "text": "12. The Government Chief Commercial Officer has appointed departmental directors to take a lead on four ‘pathfinder’ sectors:",
+      "ordinal": 25,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "li",
+      "text": "Shipbuilding - National Shipbuilding Office, Ministry of Defence, nso-commercialandpipeline@mod.gov.uk",
+      "ordinal": 26,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "li",
+      "text": "Steel - Department for Business and Trade, steelstrategy@businessandtrade.gov.uk",
+      "ordinal": 27,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "li",
+      "text": "AI procurement - Department for Science, Innovation and Technology, CommercialDir@dsit.gov.uk",
+      "ordinal": 28,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "li",
+      "text": "Energy Infrastructure - Department of Energy Security and Net Zero, EnergyInfrastructureSectorLead@energysecurity.gov.uk",
+      "ordinal": 29,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "p",
+      "text": "13. Each Sector Lead will work to coordinate the procurement pipeline across the government. In-scope organisations should work with them and support the shift to a more interventionist, market-shaping approach in central government procurement as well as considering the national security exemption.",
+      "ordinal": 30,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "p",
+      "text": "14. The national security exemption must only be relied on in accordance with the Act, and, where relevant, consistently with the UK’s international trade agreements relating to procurement. In-scope organisations should make a case by case assessment of whether the exemption can be relied upon in relation to any relevant procurement. Suppliers from the UK’s close trading partners will continue to be important to our public procurement requirements and will often be well-placed to help us meet those requirements, particularly including where we need to secure continental resilience and interoperability of defence.",
+      "ordinal": 31,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "heading",
+      "text": "Contact",
+      "ordinal": 32,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "p",
+      "text": "15. Enquiries about this PPN should be directed to the Government Commercial Agency Helpdesk (0345 410 2222, info@gca.gov.uk ).",
+      "ordinal": 33,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "nso-commercialandpipeline@mod.gov.uk",
+      "href": "mailto:nso-commercialandpipeline@mod.gov.uk",
+      "block_id": "b00026",
+      "ordinal": 0,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "steelstrategy@businessandtrade.gov.uk",
+      "href": "mailto:steelstrategy@businessandtrade.gov.uk",
+      "block_id": "b00027",
+      "ordinal": 1,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "CommercialDir@dsit.gov.uk",
+      "href": "mailto:CommercialDir@dsit.gov.uk",
+      "block_id": "b00028",
+      "ordinal": 2,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "EnergyInfrastructureSectorLead@energysecurity.gov.uk",
+      "href": "mailto:EnergyInfrastructureSectorLead@energysecurity.gov.uk",
+      "block_id": "b00029",
+      "ordinal": 3,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "info@gca.gov.uk",
+      "href": "mailto:info@gca.gov.uk",
+      "block_id": "b00033",
+      "ordinal": 4,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "PPN 025 - Protecting the UK’s national security through public procurement (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-025-protecting-the-uks-national-security-through-public-procurement/ppn-025-protecting-the-uks-national-security-through-public-procurement-html",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2024 to 2026 Starmer Labour government",
+      "href": "https://www.gov.uk/government/2024-starmer-labour-government",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 7,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "PPN 025: Protecting the UK’s national security through public procurement",
+      "href": "https://www.gov.uk/government/publications/ppn-025-protecting-the-uks-national-security-through-public-procurement",
+      "block_id": "__document__",
+      "ordinal": 8,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 9,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [],
+  "attachments": [],
+  "warnings": []
+}

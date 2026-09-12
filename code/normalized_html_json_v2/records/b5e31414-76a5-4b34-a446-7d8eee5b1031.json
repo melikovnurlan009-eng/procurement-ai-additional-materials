@@ -1,0 +1,567 @@
+{
+  "document_id": "b5e31414-76a5-4b34-a446-7d8eee5b1031",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/890497803ed4b2ccf21ae032.json",
+  "input_sha256": "6f851e50b1465b0f715bbafca240924ee77ba91bc7d7ddc9c8752ee9f12c2c7b",
+  "processed_at": "2026-08-27T02:26:29.676988+00:00",
+  "title": "Contracting authorities: An overview of the Central Digital Platform, the enhanced Find a Tender service (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-act-2023-short-guides/contracting-authorities-an-overview-of-the-central-digital-platform-the-enhanced-find-a-tender-service-html",
+  "description": null,
+  "publication_date": "2025-01-21T14:25:38+00:00",
+  "updated_date": "2026-06-23T10:02:16+01:00",
+  "source_metadata": {
+    "content_id": "b5e31414-76a5-4b34-a446-7d8eee5b1031",
+    "base_path": "/government/publications/procurement-act-2023-short-guides/contracting-authorities-an-overview-of-the-central-digital-platform-the-enhanced-find-a-tender-service-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Introduction",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Tips for registering an organisation",
+      "ordinal": 6,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "How to select an organisation through ‘My Account’",
+      "ordinal": 8,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Explore My Notices Views",
+      "ordinal": 12,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Create a Notice",
+      "ordinal": 17,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "Introduction",
+      "ordinal": 0,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "On the 24th February 2025, the rules that shape how public bodies buy goods and services changed. In this guide for contracting authorities, we will give you an overview of the central digital platform and the enhanced Find a Tender service including ‘My Account’, ‘My Notices’, and how to publish a notice.",
+      "ordinal": 1,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "li",
+      "text": "https://www.gov.uk/find-tender",
+      "ordinal": 2,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "Additional video guidance is available detailing these steps.",
+      "ordinal": 3,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "video guidance",
+      "ordinal": 4,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "For more detailed walkthrough videos on how to register for the Central Digital Platform, please check out the GCF Youtube site.",
+      "ordinal": 5,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "heading",
+      "text": "Tips for registering an organisation",
+      "ordinal": 6,
+      "heading_path": [
+        "Introduction",
+        "Tips for registering an organisation"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "When registering for enhanced Find a Tender service, you have the option to retain the notices and save searches on your old account by reregistering with the same email addresses. If you register with a new email address, your old information will not be pulled through.",
+      "ordinal": 7,
+      "heading_path": [
+        "Introduction",
+        "Tips for registering an organisation"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "heading",
+      "text": "How to select an organisation through ‘My Account’",
+      "ordinal": 8,
+      "heading_path": [
+        "Introduction",
+        "How to select an organisation through ‘My Account’"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "Once logged in, contracting authorities or buyers will be able to access a section called ‘My account’. This page will show you all the organisations for which you are a registered user.",
+      "ordinal": 9,
+      "heading_path": [
+        "Introduction",
+        "How to select an organisation through ‘My Account’"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "p",
+      "text": "By selecting ‘View’ against your chosen organisation, you will be able to see your organisation’s details. From this page you can see the organisation’s public procurement organisation number (PPON). This is the unique identifier for the organisation. It will appear in every notice and is the way that information about that organisation is joined together digitally.",
+      "ordinal": 10,
+      "heading_path": [
+        "Introduction",
+        "How to select an organisation through ‘My Account’"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "This screen also allows you to manage the API keys that you give to third-party providers (often called ‘esenders’) who publish on your behalf. You can also register your organisation as a supplier here too, as your organisation may operate both as a buyer and as a supplier.",
+      "ordinal": 11,
+      "heading_path": [
+        "Introduction",
+        "How to select an organisation through ‘My Account’"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "heading",
+      "text": "Explore My Notices Views",
+      "ordinal": 12,
+      "heading_path": [
+        "Introduction",
+        "Explore My Notices Views"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "By selecting ‘My Notices’ from the top menu bar, you will be taken to the below page. Here you will see some search boxes to help you locate a notice that your organisation has published. Below that, there will be a list of all of the notices that have been published by your organisation.",
+      "ordinal": 13,
+      "heading_path": [
+        "Introduction",
+        "Explore My Notices Views"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "Alternatively, selecting ‘My Notices’ will take you to a similar screen as shown below. However, this view only shows notices published by you and will help you pinpoint notices that you wish to read, or edit, more quickly.",
+      "ordinal": 14,
+      "heading_path": [
+        "Introduction",
+        "Explore My Notices Views"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "In the quick links on the right hand side, you will see an option to ‘Create notice’. Selecting this will take you to a screen where you can select the notice that you wish to publish.",
+      "ordinal": 15,
+      "heading_path": [
+        "Introduction",
+        "Explore My Notices Views"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "In most cases, if a contracting authority uses an eSender to publish notices, they will use their eSender platform to publish the notice rather than publishing directly to Find A Tender. Notice publication and management can be done directly on Find a Tender, whether the contracting authority uses an eSender or not.",
+      "ordinal": 16,
+      "heading_path": [
+        "Introduction",
+        "Explore My Notices Views"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "heading",
+      "text": "Create a Notice",
+      "ordinal": 17,
+      "heading_path": [
+        "Introduction",
+        "Create a Notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "p",
+      "text": "Once you have selected ‘Create notice’, it will load the below page. To note, all the available notices can be seen here, and whilst we are in the transition period, this will include all the notices that exist under previous regimes.",
+      "ordinal": 18,
+      "heading_path": [
+        "Introduction",
+        "Create a Notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "You will see that the new regime notices are listed at the top in numerical order. This list of notices will grow as the remaining notices are commenced in the regulations with the pipeline notice (UK1) being the next notice to be added for publication from April 2025.",
+      "ordinal": 19,
+      "heading_path": [
+        "Introduction",
+        "Create a Notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "p",
+      "text": "To create a notice you will need to select the applicable notice from the list. In this illustrative example, we will select UK4 Tender Notice to commence an open procedure.",
+      "ordinal": 20,
+      "heading_path": [
+        "Introduction",
+        "Create a Notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "The tender notice is used for many different types of procurement and the answers you give to the questions will change the questions that you are asked. An example of this is the selection of ‘below threshold open competition’ which will ensure that you are presented with the questions that relate to below threshold procurement only. There is workflow and logic built into the new notices on FTS and the system will guide you if you miss something that must be completed.",
+      "ordinal": 21,
+      "heading_path": [
+        "Introduction",
+        "Create a Notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "p",
+      "text": "Once you have selected ‘Create notice’, the below page will ask you to link your notice to other notices related to the same procurement. For a tender notice, this could be a pipeline notice, a preliminary market engagement notice or a planned procurement notice.",
+      "ordinal": 22,
+      "heading_path": [
+        "Introduction",
+        "Create a Notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "Selecting yes here will allow you to form the link by searching for the relevant identifier or the title of the procurement. There are cases where the notice does not follow on from a previous notice and that is the journey we will follow here by selecting ‘No’. Click on ‘Save and continue’ to progress to the next section.",
+      "ordinal": 23,
+      "heading_path": [
+        "Introduction",
+        "Create a Notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "The next screen relates to the organisations that are responsible for the procurement and where needed, those who are running it on behalf of the responsible party.",
+      "ordinal": 24,
+      "heading_path": [
+        "Introduction",
+        "Create a Notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "p",
+      "text": "You will then be able to fill in details about the contracting authority such as: organisation type, devolved regulations, and contact details.",
+      "ordinal": 25,
+      "heading_path": [
+        "Introduction",
+        "Create a Notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "p",
+      "text": "You will also be asked to enter an ‘identifier’ and select the applicable ‘identification register’ from the drop down as shown below. This includes options such as a Public Procurement Organisation Number, NHS Organisation Data Service and Mutuals Public Register. You will also have the opportunity to enter multiple identifiers as needed.",
+      "ordinal": 26,
+      "heading_path": [
+        "Introduction",
+        "Create a Notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "p",
+      "text": "Once you have completed all contracting authority details, you will continue to complete the process part of the form. You will be asked to select the process type you are using including selecting special regimes, setting out whether the main procurement category is goods, works or services, choosing your procedure type and clarifying whether you are reducing the tendering period. Finally you have to state if Preliminary Market Engagement was carried out.",
+      "ordinal": 27,
+      "heading_path": [
+        "Introduction",
+        "Create a Notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "The next screen asks about the scope of the procurement and seeks details including a title, a reference and a description, along with questions relating to frameworks, lots, CPV codes, and details of where the delivery of the contract will take place.",
+      "ordinal": 28,
+      "heading_path": [
+        "Introduction",
+        "Create a Notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "p",
+      "text": "You finish the screen by adding contract values, this may be inclusive and exclusive of VAT where appropriate, the start date and the end date of the contract and extensions and options.",
+      "ordinal": 29,
+      "heading_path": [
+        "Introduction",
+        "Create a Notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "p",
+      "text": "The following screen relates to conditions of participation for suppliers in the procurement. You have the option to add details on financial or legal capacity conditions and technical ability of suppliers. You will then be asked if this procurement is particularly suitable for SME or VCSE.",
+      "ordinal": 30,
+      "heading_path": [
+        "Introduction",
+        "Create a Notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "p",
+      "text": "Next we move to the award criteria for the procurement. You will be asked about the nature of weighting to be used such as percentage or order of importance. Then you will enter details of each of the criteria used to make a decision, along with the type, description and weighting. You can continue to add more criteria as needed.",
+      "ordinal": 31,
+      "heading_path": [
+        "Introduction",
+        "Create a Notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "p",
+      "text": "The next screen relates to supporting documents that you might add optionally.",
+      "ordinal": 32,
+      "heading_path": [
+        "Introduction",
+        "Create a Notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "p",
+      "text": "The submission page seeks details about when the clarification deadline closes, when tenders must be submitted. It also asks whether these tenders should be submitted electronically, followed by further details relating to the way in which suppliers should submit their tenders.",
+      "ordinal": 33,
+      "heading_path": [
+        "Introduction",
+        "Create a Notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "p",
+      "text": "The final input screen is ‘other information’ and you will be asked details about the payment terms, risk to performance and the relevant trade agreements that apply to the procurement. Finally you will be asked to confirm if a conflicts assessment has been completed.",
+      "ordinal": 34,
+      "heading_path": [
+        "Introduction",
+        "Create a Notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "p",
+      "text": "The final page is a summary of all of the information with completion statuses for each headings. If you wish to edit a section, you can select the relevant header. You can also preview how your notice will appear when published.",
+      "ordinal": 35,
+      "heading_path": [
+        "Introduction",
+        "Create a Notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "p",
+      "text": "Once you are content with the information in your notice, you can publish the notice by pressing ‘publish notice’.",
+      "ordinal": 36,
+      "heading_path": [
+        "Introduction",
+        "Create a Notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "p",
+      "text": "Your notice is now published and viewable by suppliers.",
+      "ordinal": 37,
+      "heading_path": [
+        "Introduction",
+        "Create a Notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "https://www.gov.uk/find-tender",
+      "href": "https://www.gov.uk/find-tender",
+      "block_id": "b00002",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "video guidance",
+      "href": "https://youtu.be/AlKmv5SiItc",
+      "block_id": "b00004",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Contracting authorities: An overview of the Central Digital Platform, the enhanced Find a Tender service (HTML)",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-short-guides/contracting-authorities-an-overview-of-the-central-digital-platform-the-enhanced-find-a-tender-service-html",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2022 to 2024 Sunak Conservative government",
+      "href": "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Government Commercial Function",
+      "href": "https://www.gov.uk/government/organisations/government-commercial-function",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Procurement Act 2023: short guides",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-short-guides",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Government Commercial Function",
+      "href": "https://www.gov.uk/government/organisations/government-commercial-function",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [],
+  "attachments": [],
+  "warnings": []
+}

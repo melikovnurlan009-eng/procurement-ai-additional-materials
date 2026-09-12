@@ -1,0 +1,834 @@
+{
+  "document_id": "c22a0e38-458f-4d8c-a892-7c8b252dd9de",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/5466a316ec1ddd52b5381199.json",
+  "input_sha256": "724912d5abec42d120a92b4ee1354773f36be69f7cd77f26e5003d7485c999bd",
+  "processed_at": "2026-08-27T02:26:18.099580+00:00",
+  "title": "Guidance on adopting and applying PPN 06/21: Selection criteria (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-policy-note-0621-taking-account-of-carbon-reduction-plans-in-the-procurement-of-major-government-contracts/guidance-on-adopting-and-applying-ppn-0621-selection-criteria-html",
+  "description": null,
+  "publication_date": "2023-04-17T12:08:13+01:00",
+  "updated_date": "2023-04-17T12:08:13+01:00",
+  "source_metadata": {
+    "content_id": "c22a0e38-458f-4d8c-a892-7c8b252dd9de",
+    "base_path": "/government/publications/procurement-policy-note-0621-taking-account-of-carbon-reduction-plans-in-the-procurement-of-major-government-contracts/guidance-on-adopting-and-applying-ppn-0621-selection-criteria-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Introduction",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Assessment Methodology:",
+      "ordinal": 3,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Self-Declaration Questions (Q1 and Q2)",
+      "ordinal": 12,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Supplier Carbon Emissions Declaration",
+      "ordinal": 15,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Verification",
+      "ordinal": 22,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Exceptional Circumstances",
+      "ordinal": 25,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Annex A: Selection Criteria",
+      "ordinal": 30,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Selection Questionnaire",
+      "ordinal": 31,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Supplier Emissions Declaration:",
+      "ordinal": 33,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "Introduction",
+      "ordinal": 0,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "1 - In 2019 the UK Government amended the Climate Change Act 2008 [footnote 1] by introducing a target of at least a 100% reduction of greenhouse gas emissions [footnote 2] (compared to 1990 levels) in the UK by 2050. This is otherwise known as the ‘Net Zero’ target.",
+      "ordinal": 1,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "2 - This guidance supports Procurement Policy Note (PPN) 06/21 and sets out how suppliers’ carbon reduction plans and commitment to Net Zero can be taken into account in the procurement of relevant contracts (i.e. those subject to the Public Contracts Regulations 2015, with a value of £5 million per annum or above and where the measure is related and proportionate) by In-Scope Organisations. Assessment is by using the standard selection questions set out in Annex A.",
+      "ordinal": 2,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "heading",
+      "text": "Assessment Methodology:",
+      "ordinal": 3,
+      "heading_path": [
+        "Introduction",
+        "Assessment Methodology:"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "3 - The key issue to be assessed is whether a bidder has taken steps to understand their environmental impact and carbon footprint relevant to the delivery of the contract.",
+      "ordinal": 4,
+      "heading_path": [
+        "Introduction",
+        "Assessment Methodology:"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "4 - A supplier should only be excluded if they:",
+      "ordinal": 5,
+      "heading_path": [
+        "Introduction",
+        "Assessment Methodology:"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "p",
+      "text": "a - fail to make an organisational commitment to reduce their emissions over time to achieve Net Zero by 2050",
+      "ordinal": 6,
+      "heading_path": [
+        "Introduction",
+        "Assessment Methodology:"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "b - fail to declare their organisational Greenhouse Gas emissions in accordance with the required reporting standard",
+      "ordinal": 7,
+      "heading_path": [
+        "Introduction",
+        "Assessment Methodology:"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "c - fail to provide a Carbon Reduction Plan which has been appropriately signed off",
+      "ordinal": 8,
+      "heading_path": [
+        "Introduction",
+        "Assessment Methodology:"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "d - fail to provide details within the Carbon Reduction Plan of the environmental management measures that will be applied in the performance of the contract",
+      "ordinal": 9,
+      "heading_path": [
+        "Introduction",
+        "Assessment Methodology:"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "p",
+      "text": "e - fail to provide a Carbon Reduction Plan which meets the Technical Standard for completing a Carbon Reduction Plan.",
+      "ordinal": 10,
+      "heading_path": [
+        "Introduction",
+        "Assessment Methodology:"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "Further detail on the assessment methodology, including how to deal with circumstances where it may not be possible for a supplier to meet the full CRP requirements, can be found in Table 1.",
+      "ordinal": 11,
+      "heading_path": [
+        "Introduction",
+        "Assessment Methodology:"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "heading",
+      "text": "Self-Declaration Questions (Q1 and Q2)",
+      "ordinal": 12,
+      "heading_path": [
+        "Introduction",
+        "Self-Declaration Questions (Q1 and Q2)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "5 - Questions 1, and 2 should be assessed on a pass/fail basis based on self-declarations by the supplier.",
+      "ordinal": 13,
+      "heading_path": [
+        "Introduction",
+        "Self-Declaration Questions (Q1 and Q2)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "6 - Contracting authorities must confirm that the supplier has self-certified that their submitted Carbon Reduction Plan conforms to the required reporting methodology as defined in the Technical Standard for the completion of Carbon Reduction Plans, and that their reporting period is no more than 12 months prior to the date of commencement of the procurement.",
+      "ordinal": 14,
+      "heading_path": [
+        "Introduction",
+        "Self-Declaration Questions (Q1 and Q2)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "heading",
+      "text": "Supplier Carbon Emissions Declaration",
+      "ordinal": 15,
+      "heading_path": [
+        "Introduction",
+        "Supplier Carbon Emissions Declaration"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "7 - Suppliers should detail their current and baseline GHG emissions in Questions 3 and Question 4.",
+      "ordinal": 16,
+      "heading_path": [
+        "Introduction",
+        "Supplier Carbon Emissions Declaration"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "8 - Contracting authorities should note the supplier’s responses to Questions 3 and 4 as they are for information only. The provided emissions data is not to be used as a basis for assessment in the procurement process, but may be used to track suppliers’ progress in reducing their emissions over time.",
+      "ordinal": 17,
+      "heading_path": [
+        "Introduction",
+        "Supplier Carbon Emissions Declaration"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "p",
+      "text": "9 - The evaluation methodology to be applied for the measure is set out below. You must ensure this is included within the tender documentation so that suppliers are aware of the required assessment criteria.",
+      "ordinal": 18,
+      "heading_path": [
+        "Introduction",
+        "Supplier Carbon Emissions Declaration"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "table",
+      "text": "Entry\tSupplier Response\tAssessment Criteria\tOutcome\n1\tCarbon Reduction Plan submitted which: confirms the supplier’s commitment to achieving Net Zero by 2050, contains emissions reported for all required Scopes (in accordance with the required methodology), indicates the environmental management measures that the supplier will be able to apply when performing the contract and reporting period is falls no more than 12 months prior to the date of commencement of the procurement. Where the CRP applies to the supplier and its parent, please see requirements detailed in box 2 below\tSupplier has met the requirements\tPass\n2\tWhere the CRP applies to the supplier and its parent, the requirements of the CRP are met in full, as set out in the Technical Standard and Guidance, and all of the following criteria are met: - The bidding entity is wholly owned by the parent; The commitment to achieving net zero by 2050 is set out in the CRP for the parent and is supported and adopted by the bidding entity together with a statement that this will apply to the bidding entity; The environmental measures set out are stated to be able to be applied by the bidding entity when performing the relevant contract; and The CRP is published on the bidding entity’s website\tSupplier has met the requirements\tPass\n3\tParent CRP fails to meet the requirements of the CRP and additional requirements listed at item 2 above\tSupplier has failed to meet the required reporting standard\tFail\n4\tCarbon Reduction Plan not submitted\tSupplier has failed to meet the required reporting standard\tFail\n5\tCarbon Reduction Plan fails to confirm supplier’s commitment to achieving Net Zero by 2050\tSupplier has failed to meet the required reporting standard\tFail\n6\tEmissions in the Carbon Reduction Plan are not reported for any Scopes or only for some Scopes, without explanation why\tSupplier has failed to meet the required reporting standard\tFail\n7\tEmissions in the Carbon Reduction Plan not reported for any Scopes or only for some Scopes, but supplier provides an acceptable explanation why\tSupplier has met the requirements\tPass\n8\tReporting period is more than 12 months from the date of commencement of the procurement\tSupplier has failed to meet the required reporting standard\tFail\n9\tReporting period is more than 12 months from the date of commencement of the procurement, but provides an acceptable explanation why\tSupplier has met the requirements\tPass\n10\tSupplier fails to indicate the environmental management measures that the supplier will be able to apply when performing the contract\tSupplier has failed to meet the required reporting standard\tFail",
+      "ordinal": 19,
+      "heading_path": [
+        "Introduction",
+        "Supplier Carbon Emissions Declaration"
+      ],
+      "source_locator": "details.body",
+      "metadata": {
+        "rows": [
+          [
+            "Entry",
+            "Supplier Response",
+            "Assessment Criteria",
+            "Outcome"
+          ],
+          [
+            "1",
+            "Carbon Reduction Plan submitted which: confirms the supplier’s commitment to achieving Net Zero by 2050, contains emissions reported for all required Scopes (in accordance with the required methodology), indicates the environmental management measures that the supplier will be able to apply when performing the contract and reporting period is falls no more than 12 months prior to the date of commencement of the procurement. Where the CRP applies to the supplier and its parent, please see requirements detailed in box 2 below",
+            "Supplier has met the requirements",
+            "Pass"
+          ],
+          [
+            "2",
+            "Where the CRP applies to the supplier and its parent, the requirements of the CRP are met in full, as set out in the Technical Standard and Guidance, and all of the following criteria are met: - The bidding entity is wholly owned by the parent; The commitment to achieving net zero by 2050 is set out in the CRP for the parent and is supported and adopted by the bidding entity together with a statement that this will apply to the bidding entity; The environmental measures set out are stated to be able to be applied by the bidding entity when performing the relevant contract; and The CRP is published on the bidding entity’s website",
+            "Supplier has met the requirements",
+            "Pass"
+          ],
+          [
+            "3",
+            "Parent CRP fails to meet the requirements of the CRP and additional requirements listed at item 2 above",
+            "Supplier has failed to meet the required reporting standard",
+            "Fail"
+          ],
+          [
+            "4",
+            "Carbon Reduction Plan not submitted",
+            "Supplier has failed to meet the required reporting standard",
+            "Fail"
+          ],
+          [
+            "5",
+            "Carbon Reduction Plan fails to confirm supplier’s commitment to achieving Net Zero by 2050",
+            "Supplier has failed to meet the required reporting standard",
+            "Fail"
+          ],
+          [
+            "6",
+            "Emissions in the Carbon Reduction Plan are not reported for any Scopes or only for some Scopes, without explanation why",
+            "Supplier has failed to meet the required reporting standard",
+            "Fail"
+          ],
+          [
+            "7",
+            "Emissions in the Carbon Reduction Plan not reported for any Scopes or only for some Scopes, but supplier provides an acceptable explanation why",
+            "Supplier has met the requirements",
+            "Pass"
+          ],
+          [
+            "8",
+            "Reporting period is more than 12 months from the date of commencement of the procurement",
+            "Supplier has failed to meet the required reporting standard",
+            "Fail"
+          ],
+          [
+            "9",
+            "Reporting period is more than 12 months from the date of commencement of the procurement, but provides an acceptable explanation why",
+            "Supplier has met the requirements",
+            "Pass"
+          ],
+          [
+            "10",
+            "Supplier fails to indicate the environmental management measures that the supplier will be able to apply when performing the contract",
+            "Supplier has failed to meet the required reporting standard",
+            "Fail"
+          ]
+        ],
+        "row_count": 11
+      }
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "p",
+      "text": "10 -Suppliers should not be disadvantaged where they are a new entrant to the market\n(trading for less than 12 months). In these circumstances the supplier should confirm\ntheir commitment to achieving Net Zero by 2050 and should publish a full CRP as\nsoon as possible.",
+      "ordinal": 20,
+      "heading_path": [
+        "Introduction",
+        "Supplier Carbon Emissions Declaration"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "11 - Where the response is being completed on behalf of a consortium of suppliers, a CRP should be completed by each consortium member (see standard selection questionnaire guidance in PPN 08/16 for further guidance on groups of bidders).",
+      "ordinal": 21,
+      "heading_path": [
+        "Introduction",
+        "Supplier Carbon Emissions Declaration"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "heading",
+      "text": "Verification",
+      "ordinal": 22,
+      "heading_path": [
+        "Introduction",
+        "Verification"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "12 - Contracting authorities must verify that the successful supplier meets the selection criteria prior to award of the contract or appointment to a framework agreement or dynamic purchasing system. Contracting authorities may request this evidence at any time during the procurement process where this is necessary to ensure the proper conduct of the procurement. For multi-stage procurements, contracting authorities may want to consider verifying the evidence before taking suppliers on to the next stage. For contracts awarded under a framework agreement or dynamic purchasing system, contracting authorities should verify that the supplier continues to meet the selection criterion prior to entering into any contract awarded under a framework agreement or dynamic purchasing system.",
+      "ordinal": 23,
+      "heading_path": [
+        "Introduction",
+        "Verification"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "13 - Contracting authorities should not require a supplier to provide evidence where it can be obtained directly and free of charge by the contracting authority from a national database (although it is not unreasonable for the supplier to be required to provide details of how to access that database).",
+      "ordinal": 24,
+      "heading_path": [
+        "Introduction",
+        "Verification"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "heading",
+      "text": "Exceptional Circumstances",
+      "ordinal": 25,
+      "heading_path": [
+        "Introduction",
+        "Exceptional Circumstances"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "p",
+      "text": "14 - It may not be relevant or proportionate to apply this PPN in the following exceptional\ncircumstances (which may often be temporary):",
+      "ordinal": 26,
+      "heading_path": [
+        "Introduction",
+        "Exceptional Circumstances"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "li",
+      "text": "where the market for a contract of this type is distorted/narrowed/struggling to such a significant extent that delivery of public services is likely put at risk, or value for money is likely to be severely compromised;",
+      "ordinal": 27,
+      "heading_path": [
+        "Introduction",
+        "Exceptional Circumstances"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "li",
+      "text": "where there is a civil emergency.",
+      "ordinal": 28,
+      "heading_path": [
+        "Introduction",
+        "Exceptional Circumstances"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "p",
+      "text": "15 - The scenarios outlined above are not an exhaustive list. Departments would need to\ndocument their reasons for not applying the measure.",
+      "ordinal": 29,
+      "heading_path": [
+        "Introduction",
+        "Exceptional Circumstances"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "heading",
+      "text": "Annex A: Selection Criteria",
+      "ordinal": 30,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Selection Criteria"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "heading",
+      "text": "Selection Questionnaire",
+      "ordinal": 31,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Selection Criteria",
+        "Selection Questionnaire"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "table",
+      "text": "Question Number\tQuestion\tResponse\n1a\tPlease confirm that you have detailed your environmental management measures by completing and publishing a Carbon Reduction Plan which meets the required reporting standard\tYes / No PASS / FAIL\n1b\tProvide a link to your most recently published Carbon Reduction Plan here:\t\n2a\tPlease confirm that your organisation is taking steps to reduce your GHG Emissions over time and is publicly committed to achieving Net Zero by 2050\tYes / No PASS / FAIL\n2b\tPlease confirm your Net Zero target date: e.g. 2050\t",
+      "ordinal": 32,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Selection Criteria",
+        "Selection Questionnaire"
+      ],
+      "source_locator": "details.body",
+      "metadata": {
+        "rows": [
+          [
+            "Question Number",
+            "Question",
+            "Response"
+          ],
+          [
+            "1a",
+            "Please confirm that you have detailed your environmental management measures by completing and publishing a Carbon Reduction Plan which meets the required reporting standard",
+            "Yes / No PASS / FAIL"
+          ],
+          [
+            "1b",
+            "Provide a link to your most recently published Carbon Reduction Plan here:",
+            ""
+          ],
+          [
+            "2a",
+            "Please confirm that your organisation is taking steps to reduce your GHG Emissions over time and is publicly committed to achieving Net Zero by 2050",
+            "Yes / No PASS / FAIL"
+          ],
+          [
+            "2b",
+            "Please confirm your Net Zero target date: e.g. 2050",
+            ""
+          ]
+        ],
+        "row_count": 5
+      }
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "heading",
+      "text": "Supplier Emissions Declaration:",
+      "ordinal": 33,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Selection Criteria",
+        "Supplier Emissions Declaration:"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "table",
+      "text": "Question Number\tQuestion\tResponse\n3a\tBaseline Year:\t\n3b\tScope 1:\t\n3c\tScope 2:\t\n3d\tScope 3:\t\n4a\tReporting Year:\t\n4b\tScope 1:\t\n4c\tScope 2:\t\n4d\tScope 3:\t",
+      "ordinal": 34,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Selection Criteria",
+        "Supplier Emissions Declaration:"
+      ],
+      "source_locator": "details.body",
+      "metadata": {
+        "rows": [
+          [
+            "Question Number",
+            "Question",
+            "Response"
+          ],
+          [
+            "3a",
+            "Baseline Year:",
+            ""
+          ],
+          [
+            "3b",
+            "Scope 1:",
+            ""
+          ],
+          [
+            "3c",
+            "Scope 2:",
+            ""
+          ],
+          [
+            "3d",
+            "Scope 3:",
+            ""
+          ],
+          [
+            "4a",
+            "Reporting Year:",
+            ""
+          ],
+          [
+            "4b",
+            "Scope 1:",
+            ""
+          ],
+          [
+            "4c",
+            "Scope 2:",
+            ""
+          ],
+          [
+            "4d",
+            "Scope 3:",
+            ""
+          ]
+        ],
+        "row_count": 9
+      }
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "li",
+      "text": "Climate Change Act 2008 ↩",
+      "ordinal": 35,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Selection Criteria",
+        "Supplier Emissions Declaration:"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "p",
+      "text": "Climate Change Act 2008 ↩",
+      "ordinal": 36,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Selection Criteria",
+        "Supplier Emissions Declaration:"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "li",
+      "text": "When the reporting of GHG emissions is measured, it is often done so in carbon dioxide equivalent units (CO2e). The use of CO2e allows for more accessible reporting and straightforward tracking and reporting of emissions over time. CO2e includes all of the greenhouse gases defined within the Kyoto protocol: carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), hydrofluorocarbons (HFC), perfluorocarbons (PFC), sulphur hexafluoride (SF6) and nitrogen trifluoride (NF3). Each of these greenhouse gasses have a conversion factor as published by DEFRA . When the phrase ‘Net Zero Carbon’ is used, it is referring to both CO2 and CO2e emissions and means net zero GHG rather than net zero CO2. ↩",
+      "ordinal": 37,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Selection Criteria",
+        "Supplier Emissions Declaration:"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "p",
+      "text": "When the reporting of GHG emissions is measured, it is often done so in carbon dioxide equivalent units (CO2e). The use of CO2e allows for more accessible reporting and straightforward tracking and reporting of emissions over time. CO2e includes all of the greenhouse gases defined within the Kyoto protocol: carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), hydrofluorocarbons (HFC), perfluorocarbons (PFC), sulphur hexafluoride (SF6) and nitrogen trifluoride (NF3). Each of these greenhouse gasses have a conversion factor as published by DEFRA . When the phrase ‘Net Zero Carbon’ is used, it is referring to both CO2 and CO2e emissions and means net zero GHG rather than net zero CO2. ↩",
+      "ordinal": 38,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Selection Criteria",
+        "Supplier Emissions Declaration:"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "[footnote 1]",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0621-taking-account-of-carbon-reduction-plans-in-the-procurement-of-major-government-contracts/guidance-on-adopting-and-applying-ppn-0621-selection-criteria-html#fn:1",
+      "block_id": "b00001",
+      "ordinal": 0,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 2]",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0621-taking-account-of-carbon-reduction-plans-in-the-procurement-of-major-government-contracts/guidance-on-adopting-and-applying-ppn-0621-selection-criteria-html#fn:2",
+      "block_id": "b00001",
+      "ordinal": 1,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Climate Change Act 2008",
+      "href": "http://www.legislation.gov.uk/ukpga/2008/27/contents",
+      "block_id": "b00035",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0621-taking-account-of-carbon-reduction-plans-in-the-procurement-of-major-government-contracts/guidance-on-adopting-and-applying-ppn-0621-selection-criteria-html#fnref:1",
+      "block_id": "b00035",
+      "ordinal": 3,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Climate Change Act 2008",
+      "href": "http://www.legislation.gov.uk/ukpga/2008/27/contents",
+      "block_id": "b00036",
+      "ordinal": 4,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0621-taking-account-of-carbon-reduction-plans-in-the-procurement-of-major-government-contracts/guidance-on-adopting-and-applying-ppn-0621-selection-criteria-html#fnref:1",
+      "block_id": "b00036",
+      "ordinal": 5,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "published by DEFRA",
+      "href": "https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2020",
+      "block_id": "b00037",
+      "ordinal": 6,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0621-taking-account-of-carbon-reduction-plans-in-the-procurement-of-major-government-contracts/guidance-on-adopting-and-applying-ppn-0621-selection-criteria-html#fnref:2",
+      "block_id": "b00037",
+      "ordinal": 7,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "published by DEFRA",
+      "href": "https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2020",
+      "block_id": "b00038",
+      "ordinal": 8,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0621-taking-account-of-carbon-reduction-plans-in-the-procurement-of-major-government-contracts/guidance-on-adopting-and-applying-ppn-0621-selection-criteria-html#fnref:2",
+      "block_id": "b00038",
+      "ordinal": 9,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Guidance on adopting and applying PPN 06/21: Selection criteria (HTML)",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0621-taking-account-of-carbon-reduction-plans-in-the-procurement-of-major-government-contracts/guidance-on-adopting-and-applying-ppn-0621-selection-criteria-html",
+      "block_id": "__document__",
+      "ordinal": 10,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2019 to 2022 Johnson Conservative government",
+      "href": "https://www.gov.uk/government/2019-to-2022-johnson-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 11,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Government Commercial Function",
+      "href": "https://www.gov.uk/government/organisations/government-commercial-function",
+      "block_id": "__document__",
+      "ordinal": 12,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Procurement Policy Note 06/21: Taking account of Carbon Reduction Plans in the procurement of major government contracts",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0621-taking-account-of-carbon-reduction-plans-in-the-procurement-of-major-government-contracts",
+      "block_id": "__document__",
+      "ordinal": 13,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Government Commercial Function",
+      "href": "https://www.gov.uk/government/organisations/government-commercial-function",
+      "block_id": "__document__",
+      "ordinal": 14,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015",
+      "block_id": "b00002",
+      "start": 252,
+      "end": 268,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

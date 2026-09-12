@@ -1,0 +1,2003 @@
+{
+  "document_id": "317a93b8-3f78-4724-8f93-1d1adb6d10ed",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/610df2305a227e75bd383cf8.json",
+  "input_sha256": "671b031faceebf710232cf5a752a4bdf50c9ebc56988b8674895156ced34c0b5",
+  "processed_at": "2026-08-27T02:26:19.920608+00:00",
+  "title": "Procurement Policy Note: Updates to the Cyber Essentials Scheme (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/ppn-0923-updates-to-the-cyber-essentials-scheme/procurement-policy-note-updates-to-the-cyber-essentials-scheme-html",
+  "description": null,
+  "publication_date": "2023-09-19T10:50:07+01:00",
+  "updated_date": "2023-10-16T13:29:44+01:00",
+  "source_metadata": {
+    "content_id": "317a93b8-3f78-4724-8f93-1d1adb6d10ed",
+    "base_path": "/government/publications/ppn-0923-updates-to-the-cyber-essentials-scheme/procurement-policy-note-updates-to-the-cyber-essentials-scheme-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Issue",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Dissemination and Scope",
+      "ordinal": 3,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Timing",
+      "ordinal": 7,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Action",
+      "ordinal": 9,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Limitations",
+      "ordinal": 20,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Suppliers on G-Cloud Framework Agreements",
+      "ordinal": 29,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Background",
+      "ordinal": 33,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Contact and Sources of Further Information",
+      "ordinal": 38,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Annex A – Examples",
+      "ordinal": 51,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Annex B – Key Features of Cyber Essentials and Cyber Essential Plus",
+      "ordinal": 68,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Cyber Essentials",
+      "ordinal": 71,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Cyber Essentials Plus",
+      "ordinal": 77,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Annex C – Frequently Asked Questions (FAQs)",
+      "ordinal": 81,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q1 Why should Cyber Essentials / Cyber Essentials Plus be used in the Government’s supply chain?",
+      "ordinal": 82,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q2 Which technical areas does Cyber Essentials cover?",
+      "ordinal": 85,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q3 When should I notify suppliers of any applicable Cyber Essentials requirements?",
+      "ordinal": 91,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q4 How do suppliers undertake the certification process?",
+      "ordinal": 93,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q5 At which point in the procurement is the supplier required to demonstrate Cyber Essentials certification?",
+      "ordinal": 96,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q6 How much will it cost a supplier to become Cyber Essentials certified?",
+      "ordinal": 99,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q7 How often will Cyber Essentials certification need to be renewed?",
+      "ordinal": 101,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q8 What does the scope of Cyber Essentials cover?",
+      "ordinal": 103,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q9 How does Cyber Essentials fit in with/complement existing security requirements?",
+      "ordinal": 106,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q10 Are there alternatives to demonstrating compliance with Cyber Essentials technical requirements other than through gaining the certificate?",
+      "ordinal": 111,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "Issue",
+      "ordinal": 0,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "1. Cyber Essentials is a Government backed scheme to help businesses of any size protect themselves against a range of the most common cyber attacks and to demonstrate their commitment to cyber security. To ensure appropriate cyber security controls are in place and reduce cyber security risks in supply chains, since 2014 the government has required suppliers bidding for certain types of public contracts to hold Cyber Essentials or Cyber Essentials Plus certification (or demonstrate that equivalent controls are in place).",
+      "ordinal": 1,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "2. This Procurement Policy Note (PPN) sets out the actions In-scope organisations should take to identify and mitigate cyber threats for certain types of contracts, along with resources to support implementation.",
+      "ordinal": 2,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "heading",
+      "text": "Dissemination and Scope",
+      "ordinal": 3,
+      "heading_path": [
+        "Issue",
+        "Dissemination and Scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "3. The contents of this PPN apply to all Central Government Departments, their Executive Agencies and Non-Departmental Public Bodies, and NHS bodies, and are referred to in this PPN as ‘In-scope organisations’.",
+      "ordinal": 4,
+      "heading_path": [
+        "Issue",
+        "Dissemination and Scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "4. This PPN replaces PPN 09/14.",
+      "ordinal": 5,
+      "heading_path": [
+        "Issue",
+        "Dissemination and Scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "p",
+      "text": "5. Please circulate this PPN within your organisation, particularly to those with a commercial, procurement and/or contract management role. This PPN should also be of interest to those working in Cyber Security, Information Security and the Digital, Data and Technology Profession. Other public sector bodies may wish to apply the approach set out in this PPN.",
+      "ordinal": 6,
+      "heading_path": [
+        "Issue",
+        "Dissemination and Scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "heading",
+      "text": "Timing",
+      "ordinal": 7,
+      "heading_path": [
+        "Issue",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "6. In-scope organisations should implement this PPN within three months of its publication date.",
+      "ordinal": 8,
+      "heading_path": [
+        "Issue",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "heading",
+      "text": "Action",
+      "ordinal": 9,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "p",
+      "text": "7. In-scope organisations must ensure that effective and proportionate cyber security controls are applied to contracts to mitigate supply chain risks.",
+      "ordinal": 10,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "8. There are key characteristics associated with contracts considered to be at a higher risk of cyber security threats. In-scope organisations must ensure that all suppliers demonstrate that they meet certain technical requirements for contracts or services that include the following characteristics:",
+      "ordinal": 11,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "li",
+      "text": "where personal information of citizens, such as home addresses, bank details, or payment information is handled by a supplier;",
+      "ordinal": 12,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "li",
+      "text": "where personal information of Government employees, Ministers and Special Advisors is handled by a supplier (such as payroll, travel booking or expenses information);",
+      "ordinal": 13,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "li",
+      "text": "where ICT systems and services are supplied which are designed to store, or process data at the OFFICIAL level of the Government Security Classifications Policy [footnote 1] ; and/or",
+      "ordinal": 14,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "li",
+      "text": "where contracts deal with information related to the day-to-day business of Government, service delivery and public finances [footnote 2] .",
+      "ordinal": 15,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "Examples of contracts likely to meet these characteristics are set out in Annex A, however this is not an exhaustive list.",
+      "ordinal": 16,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "9. The quickest and most effective means of mitigating risks associated with such contracts, is for the technical requirements to include either Cyber Essentials or Cyber Essentials Plus certification [footnote 3] . Where Cyber Essentials certification is required, it must be renewed annually by the supplier for the duration of the contract.",
+      "ordinal": 17,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "p",
+      "text": "10. Where a supplier does not hold Cyber Essentials or Cyber Essentials Plus they must be able to demonstrate equivalent controls are in place through other means.",
+      "ordinal": 18,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "11. Suppliers and In-scope organisations should note that evidence of holding a Cyber Essentials certificate (or equivalent) is essential at the point when data is to be passed to the supplier.",
+      "ordinal": 19,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "heading",
+      "text": "Limitations",
+      "ordinal": 20,
+      "heading_path": [
+        "Issue",
+        "Limitations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "12. In-scope organisations should note that the Cyber Essentials Scheme does not assure specific products or services being supplied. Where specific assurance of products or services is required, further relevant standards should be applied.",
+      "ordinal": 21,
+      "heading_path": [
+        "Issue",
+        "Limitations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "p",
+      "text": "13. In some cases, the potential cyber risks associated with a contract, and the control measures required to mitigate them, may exceed the parameters of the Cyber Essentials Scheme. In these instances security teams or experts should be consulted to ensure proportionate additional measures are put in place. Examples of the types of contracts relevant here are provided at Annex A.",
+      "ordinal": 22,
+      "heading_path": [
+        "Issue",
+        "Limitations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "14. The Cyber Essentials Scheme does not negate risk and it is not designed to address more advanced, targeted attacks. Such risks will require significantly more sophisticated additional measures to tackle them. In-scope organisations facing these types of threats should develop a strategic approach as part of a wider organisational security strategy.",
+      "ordinal": 23,
+      "heading_path": [
+        "Issue",
+        "Limitations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "15. The Cyber Essentials Scheme should not be applied to all contracts as a matter of course. In-scope organisations must not take a blanket approach. Not all contracts will require suppliers to be certified under a Cyber Essentials Scheme, or to demonstrate equivalent controls.",
+      "ordinal": 24,
+      "heading_path": [
+        "Issue",
+        "Limitations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "p",
+      "text": "16. Security controls must be relevant and proportionate to the product, goods or services being procured. In-scope organisations should take care to only require Cyber Essentials certification where it is relevant to the subject matter of the contract, proportionate and necessary to manage cyber security risks. It is important not to over-burden suppliers or deter Small and Medium-Sized Enterprises (SMEs) and Voluntary, Community and Social Enterprises (VCSEs) from bidding for public contracts.",
+      "ordinal": 25,
+      "heading_path": [
+        "Issue",
+        "Limitations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "p",
+      "text": "17. Cyber Essentials is self assessment, with organisations completing a questionnaire. The questionnaire is then verified by an independent Certification Body to assess whether the appropriate standard has been achieved, and certification can be awarded. This option offers a basic level of assurance",
+      "ordinal": 26,
+      "heading_path": [
+        "Issue",
+        "Limitations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "p",
+      "text": "18. In-scope organisations should ensure decisions relating to appropriate cyber security controls are recorded in the audit trail, including circumstances where cyber security risks are assessed as very low, not relevant, or where no measures are required.",
+      "ordinal": 27,
+      "heading_path": [
+        "Issue",
+        "Limitations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "19. A more comprehensive update on the application of the Cyber Essentials scheme will be published in line with National Cyber Security Centre’s redevelopment of the CE scheme.",
+      "ordinal": 28,
+      "heading_path": [
+        "Issue",
+        "Limitations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "heading",
+      "text": "Suppliers on G-Cloud Framework Agreements",
+      "ordinal": 29,
+      "heading_path": [
+        "Issue",
+        "Suppliers on G-Cloud Framework Agreements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "p",
+      "text": "20. In-scope organisations accessing Cloud services through the Crown Commercial Service (CCS) G-Cloud Commercial Agreements should note that suppliers on these Agreements are required to demonstrate they comply with the Government’s Cloud Security Principles .",
+      "ordinal": 30,
+      "heading_path": [
+        "Issue",
+        "Suppliers on G-Cloud Framework Agreements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "p",
+      "text": "21. Suppliers are encouraged to state if they have Cyber Essentials or Cyber Essentials Plus certification as part of their service offer, but it is not a requirement of the Commercial Agreement for suppliers to hold this certification.",
+      "ordinal": 31,
+      "heading_path": [
+        "Issue",
+        "Suppliers on G-Cloud Framework Agreements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "p",
+      "text": "22. When awarding call-off contracts via G-Cloud, In-scope organisations should assure themselves that the supplier(s) are managing relevant cyber risks effectively before making a contract award.",
+      "ordinal": 32,
+      "heading_path": [
+        "Issue",
+        "Suppliers on G-Cloud Framework Agreements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "heading",
+      "text": "Background",
+      "ordinal": 33,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "p",
+      "text": "23. The Cyber Essentials Scheme provides a sound foundation of basic hygiene measures that all types of organisations can implement, and build upon, and can significantly reduce an organisation’s vulnerability. It was developed by Government and Industry to fulfil two functions:",
+      "ordinal": 34,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "li",
+      "text": "to provide a clear statement of the fundamental controls all organisations should implement in order to increase their cyber security, aiming to mitigate the risks from many common internet based threats, within the context of the Government’s 10 Steps to Cyber Security; and",
+      "ordinal": 35,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "li",
+      "text": "to offer a mechanism for organisations to demonstrate to customers, investors, insurers, and others, that they have taken these essential precautions.",
+      "ordinal": 36,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "p",
+      "text": "24. The full requirements of the Cyber Essentials Scheme can be found at: https://www.ncsc.gov.uk/cyberessentials/overview .",
+      "ordinal": 37,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "heading",
+      "text": "Contact and Sources of Further Information",
+      "ordinal": 38,
+      "heading_path": [
+        "Issue",
+        "Contact and Sources of Further Information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "p",
+      "text": "25. Enquiries about this PPN should be directed to the Helpdesk (telephone 0345 410 2222; email info@crowncommercial.gov.uk ).",
+      "ordinal": 39,
+      "heading_path": [
+        "Issue",
+        "Contact and Sources of Further Information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "p",
+      "text": "26. Frequently asked questions (FAQs) are set out in Annex C.",
+      "ordinal": 40,
+      "heading_path": [
+        "Issue",
+        "Contact and Sources of Further Information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "p",
+      "text": "27. Further information is available on the following websites:",
+      "ordinal": 41,
+      "heading_path": [
+        "Issue",
+        "Contact and Sources of Further Information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "li",
+      "text": "NCSC Cyber Essentials website: https://www.ncsc.gov.uk/cyberessentials/overview",
+      "ordinal": 42,
+      "heading_path": [
+        "Issue",
+        "Contact and Sources of Further Information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "li",
+      "text": "Cyber Essentials Scheme Partner: IASME: https://iasme.co.uk/cyber-essentials/",
+      "ordinal": 43,
+      "heading_path": [
+        "Issue",
+        "Contact and Sources of Further Information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "li",
+      "text": "Cyber Essentials readiness toolkit: https://getreadyforcyberessentials.iasme.co.uk/questions/",
+      "ordinal": 44,
+      "heading_path": [
+        "Issue",
+        "Contact and Sources of Further Information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "li",
+      "text": "Details of certification bodies: https://iasme.co.uk/certification-bodies",
+      "ordinal": 45,
+      "heading_path": [
+        "Issue",
+        "Contact and Sources of Further Information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "li",
+      "text": "Cyber Essentials Advice and Guidance: https://www.ncsc.gov.uk/section/advice-guidance/all-topics?topics=Cyber%20Essentials&sort=date%2Bdesc",
+      "ordinal": 46,
+      "heading_path": [
+        "Issue",
+        "Contact and Sources of Further Information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "li",
+      "text": "Cloud security principles: https://www.ncsc.gov.uk/collection/cloud/the-cloud-security-principles",
+      "ordinal": 47,
+      "heading_path": [
+        "Issue",
+        "Contact and Sources of Further Information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "li",
+      "text": "NCSC Supply Chain Risk Assessment Guidance: https://www.ncsc.gov.uk/collection/assess-supply-chain-cyber-security",
+      "ordinal": 48,
+      "heading_path": [
+        "Issue",
+        "Contact and Sources of Further Information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "li",
+      "text": "National Protective Security Authority Supply Chain Guidance: https://www.npsa.gov.uk/protected-procurement",
+      "ordinal": 49,
+      "heading_path": [
+        "Issue",
+        "Contact and Sources of Further Information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00050",
+      "block_type": "li",
+      "text": "The Digital, Data and Technology Playbook: https://www.gov.uk/government/publications/the-digital-data-and-technology-playbook",
+      "ordinal": 50,
+      "heading_path": [
+        "Issue",
+        "Contact and Sources of Further Information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00051",
+      "block_type": "heading",
+      "text": "Annex A – Examples",
+      "ordinal": 51,
+      "heading_path": [
+        "Issue",
+        "Annex A – Examples"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00052",
+      "block_type": "p",
+      "text": "1. The following are contract examples [footnote 4] which would be considered to meet the characteristics for the inclusion of Cyber Essentials requirements:",
+      "ordinal": 52,
+      "heading_path": [
+        "Issue",
+        "Annex A – Examples"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00053",
+      "block_type": "li",
+      "text": "Curriculum vitae (CV) writing services to support individuals back into the labour market. Data held by the supplier will include citizens’ personal information; such as name, address, telephone number, date of birth, email address and National Insurance number.",
+      "ordinal": 53,
+      "heading_path": [
+        "Issue",
+        "Annex A – Examples"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00054",
+      "block_type": "li",
+      "text": "Car hire services for members of staff. Data held by the supplier will include personal information of Civil Servants including name, work address, work email, home address and driving licence number.",
+      "ordinal": 54,
+      "heading_path": [
+        "Issue",
+        "Annex A – Examples"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00055",
+      "block_type": "li",
+      "text": "Contact centre services for advice, guidance and signposting for individuals. Data held by the supplier will include citizens’ personal information; such as name, address, telephone number, date of birth, email address and National Insurance number.",
+      "ordinal": 55,
+      "heading_path": [
+        "Issue",
+        "Annex A – Examples"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00056",
+      "block_type": "p",
+      "text": "2. Other types of contracts where Cyber Essentials, Cyber Essentials Plus, or equivalent controls, may be relevant, include:",
+      "ordinal": 56,
+      "heading_path": [
+        "Issue",
+        "Annex A – Examples"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00057",
+      "block_type": "li",
+      "text": "where data is held or accessed outside of the UK/EC;",
+      "ordinal": 57,
+      "heading_path": [
+        "Issue",
+        "Annex A – Examples"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00058",
+      "block_type": "li",
+      "text": "where data is subject to the EU-US Data Privacy Framework ;",
+      "ordinal": 58,
+      "heading_path": [
+        "Issue",
+        "Annex A – Examples"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00059",
+      "block_type": "li",
+      "text": "where data is regularly held in a separate Disaster Recovery location;",
+      "ordinal": 59,
+      "heading_path": [
+        "Issue",
+        "Annex A – Examples"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00060",
+      "block_type": "li",
+      "text": "escrow and disaster recovery suppliers with access to customer data.",
+      "ordinal": 60,
+      "heading_path": [
+        "Issue",
+        "Annex A – Examples"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00061",
+      "block_type": "p",
+      "text": "3. Additional control measures are likely to be required when letting contracts in the following categories:",
+      "ordinal": 61,
+      "heading_path": [
+        "Issue",
+        "Annex A – Examples"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00062",
+      "block_type": "li",
+      "text": "Professional services suppliers, where the data being handled is classified as higher than “Official”– this may include commercial, financial, legal, HR and business services.",
+      "ordinal": 62,
+      "heading_path": [
+        "Issue",
+        "Annex A – Examples"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00063",
+      "block_type": "li",
+      "text": "ICT– IT Managed, Outsourced and ICT Services Providers (running systems that store data).",
+      "ordinal": 63,
+      "heading_path": [
+        "Issue",
+        "Annex A – Examples"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00064",
+      "block_type": "p",
+      "text": "4. Examples where the Scheme would not be relevant in contracts includes:",
+      "ordinal": 64,
+      "heading_path": [
+        "Issue",
+        "Annex A – Examples"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00065",
+      "block_type": "li",
+      "text": "Communications and marketing planning services for a specific departmental product or service, which would not require access to personal data. In such instances, the supplier would have access to some OFFICIAL level communications and personal information of civil servants as points of contact that are necessary to administer the delivery of the service; but this may not meet the required security thresholds for the application of Cyber Essentials controls.",
+      "ordinal": 65,
+      "heading_path": [
+        "Issue",
+        "Annex A – Examples"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00066",
+      "block_type": "li",
+      "text": "Driving instructor services for 10 individuals with very limited access to personal data involved and delivered by a sole trader whose use of IT is limited and incidental to the service being delivered.",
+      "ordinal": 66,
+      "heading_path": [
+        "Issue",
+        "Annex A – Examples"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00067",
+      "block_type": "li",
+      "text": "Contract to deliver ICT support services which includes an element of Legacy IT provision. Effective cyber security controls would need to be implemented for all aspects of the service delivery, however Legacy systems cannot meet the requirements of Cyber Essentials. In such cases overarching Cyber Essentials requirements could be required for relevant areas, and effective alternative controls for those unable to be assured by Cyber Essentials controls.",
+      "ordinal": 67,
+      "heading_path": [
+        "Issue",
+        "Annex A – Examples"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00068",
+      "block_type": "heading",
+      "text": "Annex B – Key Features of Cyber Essentials and Cyber Essential Plus",
+      "ordinal": 68,
+      "heading_path": [
+        "Issue",
+        "Annex B – Key Features of Cyber Essentials and Cyber Essential Plus"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00069",
+      "block_type": "p",
+      "text": "Full details on the requirements of Cyber Essentials and Cyber Essentials Plus .",
+      "ordinal": 69,
+      "heading_path": [
+        "Issue",
+        "Annex B – Key Features of Cyber Essentials and Cyber Essential Plus"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00070",
+      "block_type": "p",
+      "text": "The key features are summarised below:",
+      "ordinal": 70,
+      "heading_path": [
+        "Issue",
+        "Annex B – Key Features of Cyber Essentials and Cyber Essential Plus"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00071",
+      "block_type": "heading",
+      "text": "Cyber Essentials",
+      "ordinal": 71,
+      "heading_path": [
+        "Issue",
+        "Annex B – Key Features of Cyber Essentials and Cyber Essential Plus",
+        "Cyber Essentials"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00072",
+      "block_type": "li",
+      "text": "Cyber Essentials assesses how an organisation has implemented five technical controls which protect from the vast majority of common (internet based) cyber attacks.",
+      "ordinal": 72,
+      "heading_path": [
+        "Issue",
+        "Annex B – Key Features of Cyber Essentials and Cyber Essential Plus",
+        "Cyber Essentials"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00073",
+      "block_type": "li",
+      "text": "This is important because vulnerability to basic attacks can mark out an organisation as a target for more in-depth unwanted attention from cyber criminals and others.",
+      "ordinal": 73,
+      "heading_path": [
+        "Issue",
+        "Annex B – Key Features of Cyber Essentials and Cyber Essential Plus",
+        "Cyber Essentials"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00074",
+      "block_type": "li",
+      "text": "Cyber Essentials is a self assessment option, with organisations completing a questionnaire. The questionnaire is then verified by an independent Certification Body to assess whether the appropriate standard has been achieved, and certification can be awarded. This option offers a basic level of assurance",
+      "ordinal": 74,
+      "heading_path": [
+        "Issue",
+        "Annex B – Key Features of Cyber Essentials and Cyber Essential Plus",
+        "Cyber Essentials"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00075",
+      "block_type": "li",
+      "text": "Certification gives you peace of mind that your defences will protect against the vast majority of common cyber attacks simply because these attacks are looking for targets which do not have the Cyber Essentials technical controls in place.",
+      "ordinal": 75,
+      "heading_path": [
+        "Issue",
+        "Annex B – Key Features of Cyber Essentials and Cyber Essential Plus",
+        "Cyber Essentials"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00076",
+      "block_type": "li",
+      "text": "When certified, organisations can demonstrate that they are meeting the minimum baseline of technical cyber security standards/controls that are prescribed by Government and Industry.",
+      "ordinal": 76,
+      "heading_path": [
+        "Issue",
+        "Annex B – Key Features of Cyber Essentials and Cyber Essential Plus",
+        "Cyber Essentials"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00077",
+      "block_type": "heading",
+      "text": "Cyber Essentials Plus",
+      "ordinal": 77,
+      "heading_path": [
+        "Issue",
+        "Annex B – Key Features of Cyber Essentials and Cyber Essential Plus",
+        "Cyber Essentials Plus"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00078",
+      "block_type": "li",
+      "text": "Cyber Essentials Plus assesses the same technical controls as Cyber Essentials, but also comprises remote and on-site vulnerability testing.",
+      "ordinal": 78,
+      "heading_path": [
+        "Issue",
+        "Annex B – Key Features of Cyber Essentials and Cyber Essential Plus",
+        "Cyber Essentials Plus"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00079",
+      "block_type": "li",
+      "text": "This checks whether the controls the supplier has put in place actually provides a defence against basic hacking and phishing attacks, using commodity tools that are widely available online.",
+      "ordinal": 79,
+      "heading_path": [
+        "Issue",
+        "Annex B – Key Features of Cyber Essentials and Cyber Essential Plus",
+        "Cyber Essentials Plus"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00080",
+      "block_type": "li",
+      "text": "It is a more rigorous assessment and should be used when there is a higher risk of cyber security threats.",
+      "ordinal": 80,
+      "heading_path": [
+        "Issue",
+        "Annex B – Key Features of Cyber Essentials and Cyber Essential Plus",
+        "Cyber Essentials Plus"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00081",
+      "block_type": "heading",
+      "text": "Annex C – Frequently Asked Questions (FAQs)",
+      "ordinal": 81,
+      "heading_path": [
+        "Issue",
+        "Annex C – Frequently Asked Questions (FAQs)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00082",
+      "block_type": "heading",
+      "text": "Q1 Why should Cyber Essentials / Cyber Essentials Plus be used in the Government’s supply chain?",
+      "ordinal": 82,
+      "heading_path": [
+        "Issue",
+        "Annex C – Frequently Asked Questions (FAQs)",
+        "Q1 Why should Cyber Essentials / Cyber Essentials Plus be used in the Government’s supply chain?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00083",
+      "block_type": "li",
+      "text": "To manage cyber security risk in Government’s supply chain; and",
+      "ordinal": 83,
+      "heading_path": [
+        "Issue",
+        "Annex C – Frequently Asked Questions (FAQs)",
+        "Q1 Why should Cyber Essentials / Cyber Essentials Plus be used in the Government’s supply chain?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00084",
+      "block_type": "li",
+      "text": "to allow Government’s suppliers to use a recognisable scheme to demonstrate to other potential customers that they take cyber security seriously.",
+      "ordinal": 84,
+      "heading_path": [
+        "Issue",
+        "Annex C – Frequently Asked Questions (FAQs)",
+        "Q1 Why should Cyber Essentials / Cyber Essentials Plus be used in the Government’s supply chain?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00085",
+      "block_type": "heading",
+      "text": "Q2 Which technical areas does Cyber Essentials cover?",
+      "ordinal": 85,
+      "heading_path": [
+        "Issue",
+        "Annex C – Frequently Asked Questions (FAQs)",
+        "Q2 Which technical areas does Cyber Essentials cover?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00086",
+      "block_type": "li",
+      "text": "Boundary firewalls and internet gateways",
+      "ordinal": 86,
+      "heading_path": [
+        "Issue",
+        "Annex C – Frequently Asked Questions (FAQs)",
+        "Q2 Which technical areas does Cyber Essentials cover?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00087",
+      "block_type": "li",
+      "text": "Secure configuration",
+      "ordinal": 87,
+      "heading_path": [
+        "Issue",
+        "Annex C – Frequently Asked Questions (FAQs)",
+        "Q2 Which technical areas does Cyber Essentials cover?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00088",
+      "block_type": "li",
+      "text": "Access control",
+      "ordinal": 88,
+      "heading_path": [
+        "Issue",
+        "Annex C – Frequently Asked Questions (FAQs)",
+        "Q2 Which technical areas does Cyber Essentials cover?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00089",
+      "block_type": "li",
+      "text": "Malware protection",
+      "ordinal": 89,
+      "heading_path": [
+        "Issue",
+        "Annex C – Frequently Asked Questions (FAQs)",
+        "Q2 Which technical areas does Cyber Essentials cover?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00090",
+      "block_type": "li",
+      "text": "Security update management",
+      "ordinal": 90,
+      "heading_path": [
+        "Issue",
+        "Annex C – Frequently Asked Questions (FAQs)",
+        "Q2 Which technical areas does Cyber Essentials cover?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00091",
+      "block_type": "heading",
+      "text": "Q3 When should I notify suppliers of any applicable Cyber Essentials requirements?",
+      "ordinal": 91,
+      "heading_path": [
+        "Issue",
+        "Annex C – Frequently Asked Questions (FAQs)",
+        "Q3 When should I notify suppliers of any applicable Cyber Essentials requirements?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00092",
+      "block_type": "p",
+      "text": "Ideally this should be discussed with potential suppliers in the pre-procurement stage where you are shaping your overall project requirements. Any applicable Cyber Essentials requirements must be specified in the Contract Notice under the Open procedure, and consideration should be given to highlighting any Cyber Essentials requirements in Contract Notices for other procedures to provide bidders with the longest possible time to seek certification.",
+      "ordinal": 92,
+      "heading_path": [
+        "Issue",
+        "Annex C – Frequently Asked Questions (FAQs)",
+        "Q3 When should I notify suppliers of any applicable Cyber Essentials requirements?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00093",
+      "block_type": "heading",
+      "text": "Q4 How do suppliers undertake the certification process?",
+      "ordinal": 93,
+      "heading_path": [
+        "Issue",
+        "Annex C – Frequently Asked Questions (FAQs)",
+        "Q4 How do suppliers undertake the certification process?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00094",
+      "block_type": "p",
+      "text": "This service is provided by Government approved certification bodies which are currently accredited by Information Assurance for Small and Medium Enterprises (IASME).",
+      "ordinal": 94,
+      "heading_path": [
+        "Issue",
+        "Annex C – Frequently Asked Questions (FAQs)",
+        "Q4 How do suppliers undertake the certification process?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00095",
+      "block_type": "p",
+      "text": "Further details .",
+      "ordinal": 95,
+      "heading_path": [
+        "Issue",
+        "Annex C – Frequently Asked Questions (FAQs)",
+        "Q4 How do suppliers undertake the certification process?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00096",
+      "block_type": "heading",
+      "text": "Q5 At which point in the procurement is the supplier required to demonstrate Cyber Essentials certification?",
+      "ordinal": 96,
+      "heading_path": [
+        "Issue",
+        "Annex C – Frequently Asked Questions (FAQs)",
+        "Q5 At which point in the procurement is the supplier required to demonstrate Cyber Essentials certification?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00097",
+      "block_type": "p",
+      "text": "Evidence of holding a Cyber Essentials certificate (whether basic level or Plus level), or equivalent, is required before contract award.",
+      "ordinal": 97,
+      "heading_path": [
+        "Issue",
+        "Annex C – Frequently Asked Questions (FAQs)",
+        "Q5 At which point in the procurement is the supplier required to demonstrate Cyber Essentials certification?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00098",
+      "block_type": "p",
+      "text": "Under exceptional circumstances, In-scope organisations may wish to make a risk-based decision and allow a contract to commence if Cyber Essentials certification of a supplier is not current i.e. it has expired and is in the process of being renewed. However, the supplier must be able to demonstrate that they hold the appropriate certification, or equivalent, at the point when data is to be passed to the supplier.",
+      "ordinal": 98,
+      "heading_path": [
+        "Issue",
+        "Annex C – Frequently Asked Questions (FAQs)",
+        "Q5 At which point in the procurement is the supplier required to demonstrate Cyber Essentials certification?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00099",
+      "block_type": "heading",
+      "text": "Q6 How much will it cost a supplier to become Cyber Essentials certified?",
+      "ordinal": 99,
+      "heading_path": [
+        "Issue",
+        "Annex C – Frequently Asked Questions (FAQs)",
+        "Q6 How much will it cost a supplier to become Cyber Essentials certified?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00100",
+      "block_type": "p",
+      "text": "The cost for smaller companies to be Cyber Essentials certified is currently expected to range between £300 and £500+ VAT at basic level. The cost of a Cyber Essentials Plus assessment will depend on the size and complexity of your network. Please contact IASME with any questions and for further advice and guidance. It is possible that costs may change in the future. Up-to-date information on costs .",
+      "ordinal": 100,
+      "heading_path": [
+        "Issue",
+        "Annex C – Frequently Asked Questions (FAQs)",
+        "Q6 How much will it cost a supplier to become Cyber Essentials certified?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00101",
+      "block_type": "heading",
+      "text": "Q7 How often will Cyber Essentials certification need to be renewed?",
+      "ordinal": 101,
+      "heading_path": [
+        "Issue",
+        "Annex C – Frequently Asked Questions (FAQs)",
+        "Q7 How often will Cyber Essentials certification need to be renewed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00102",
+      "block_type": "p",
+      "text": "Organisations must recertify every 12 months in order to maintain a valid certificate. Failure to do so renders the organisation uncertified. As Cyber Essentials provides assurance of compliance only at the time of testing; certified organisations failing to regularly patch their ICT or control secure configuration may become non-compliant in substantially less than one year. The requirement to certify at more regular intervals should be risk based and determined on a case-by-case basis, subject to the requirements of the contract.",
+      "ordinal": 102,
+      "heading_path": [
+        "Issue",
+        "Annex C – Frequently Asked Questions (FAQs)",
+        "Q7 How often will Cyber Essentials certification need to be renewed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00103",
+      "block_type": "heading",
+      "text": "Q8 What does the scope of Cyber Essentials cover?",
+      "ordinal": 103,
+      "heading_path": [
+        "Issue",
+        "Annex C – Frequently Asked Questions (FAQs)",
+        "Q8 What does the scope of Cyber Essentials cover?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00104",
+      "block_type": "p",
+      "text": "By default, Cyber Essentials applies to the legal entity providing the goods/services rather than any wider corporate entity of which the supplier may be a part. However, organisations can restrict the scope of certification to only part of the legal entity.",
+      "ordinal": 104,
+      "heading_path": [
+        "Issue",
+        "Annex C – Frequently Asked Questions (FAQs)",
+        "Q8 What does the scope of Cyber Essentials cover?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00105",
+      "block_type": "p",
+      "text": "In-scope organisations should be aware that a supplier may share a client’s information with a third party such as a cloud service provider. Cyber Essentials does not ensure that the security of the third party is in scope of certification. In-scope organisations are therefore advised to check the scope of a Cyber Essentials certificate and consider whether the risks of information sharing justify requiring Cyber Essentials certification with any third party.",
+      "ordinal": 105,
+      "heading_path": [
+        "Issue",
+        "Annex C – Frequently Asked Questions (FAQs)",
+        "Q8 What does the scope of Cyber Essentials cover?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00106",
+      "block_type": "heading",
+      "text": "Q9 How does Cyber Essentials fit in with/complement existing security requirements?",
+      "ordinal": 106,
+      "heading_path": [
+        "Issue",
+        "Annex C – Frequently Asked Questions (FAQs)",
+        "Q9 How does Cyber Essentials fit in with/complement existing security requirements?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00107",
+      "block_type": "p",
+      "text": "There is an existing set of information assurance and cyber security requirements that the Government has in place for suppliers. In some circumstances, Cyber Essentials will be used in areas not covered by these requirements or it will be used alongside these requirements, or used as part of them.",
+      "ordinal": 107,
+      "heading_path": [
+        "Issue",
+        "Annex C – Frequently Asked Questions (FAQs)",
+        "Q9 How does Cyber Essentials fit in with/complement existing security requirements?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00108",
+      "block_type": "li",
+      "text": "The Model Services Contract (MSC) is a standard contract used across Government to ensure consistency of terms and conditions for complex services contracts, particularly those with ICT and Business Process Outsourcing providers exceeding £20 million in value. The MSC addresses security management in the ‘Security Management’ schedule. This schedule requires that the supplier and relevant subcontractors have Cyber Essentials or Cyber Essentials Plus certifications (or equivalent), alongside other ongoing security requirements.",
+      "ordinal": 108,
+      "heading_path": [
+        "Issue",
+        "Annex C – Frequently Asked Questions (FAQs)",
+        "Q9 How does Cyber Essentials fit in with/complement existing security requirements?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00109",
+      "block_type": "li",
+      "text": "The Government Functional Standard GovS 007: Security describes the mandatory security outcomes that all Government organisations and third parties handling Government information must achieve covering physical, personnel and cyber security domains. The Cyber Essentials Scheme covers some of the cyber security measures outlined in the standard and in the Cyber Security Standard.",
+      "ordinal": 109,
+      "heading_path": [
+        "Issue",
+        "Annex C – Frequently Asked Questions (FAQs)",
+        "Q9 How does Cyber Essentials fit in with/complement existing security requirements?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00110",
+      "block_type": "li",
+      "text": "The ISO27001 standard is widely used but companies that attain this standard will not automatically conform to Cyber Essentials. This is because it is not usual for all of the five technical controls in Cyber Essentials to be included in the scope for ISO27001 implementation. It is also unlikely that any of these controls will be tested for ISO27001. Therefore most businesses with ISO27001 will have to adopt Cyber Essentials in addition to ISO27001 or demonstrate equivalent controls are in place.",
+      "ordinal": 110,
+      "heading_path": [
+        "Issue",
+        "Annex C – Frequently Asked Questions (FAQs)",
+        "Q9 How does Cyber Essentials fit in with/complement existing security requirements?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00111",
+      "block_type": "heading",
+      "text": "Q10 Are there alternatives to demonstrating compliance with Cyber Essentials technical requirements other than through gaining the certificate?",
+      "ordinal": 111,
+      "heading_path": [
+        "Issue",
+        "Annex C – Frequently Asked Questions (FAQs)",
+        "Q10 Are there alternatives to demonstrating compliance with Cyber Essentials technical requirements other than through gaining the certificate?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00112",
+      "block_type": "p",
+      "text": "Yes. To comply with the EU Public Contracts Regulations 2015 (PCR2015) for above threshold procurements, In-scope organisations must accept equivalents and suppliers need only demonstrate to the satisfaction of the In-scope organisation that they meet Cyber Essentials requirements. Normally, this should be verified by a technically competent and independent third party.",
+      "ordinal": 112,
+      "heading_path": [
+        "Issue",
+        "Annex C – Frequently Asked Questions (FAQs)",
+        "Q10 Are there alternatives to demonstrating compliance with Cyber Essentials technical requirements other than through gaining the certificate?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00113",
+      "block_type": "p",
+      "text": "To demonstrate that Cyber Essentials Plus requirements have been met, it is required in all cases that verification is provided by a technically competent and independent third party.",
+      "ordinal": 113,
+      "heading_path": [
+        "Issue",
+        "Annex C – Frequently Asked Questions (FAQs)",
+        "Q10 Are there alternatives to demonstrating compliance with Cyber Essentials technical requirements other than through gaining the certificate?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00114",
+      "block_type": "p",
+      "text": "The quickest and most effective means of ensuring risks associated with contracts displaying these characteristics is through the application of Cyber Essentials to the organisation.",
+      "ordinal": 114,
+      "heading_path": [
+        "Issue",
+        "Annex C – Frequently Asked Questions (FAQs)",
+        "Q10 Are there alternatives to demonstrating compliance with Cyber Essentials technical requirements other than through gaining the certificate?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00115",
+      "block_type": "li",
+      "text": "For information marked SECRET or TOP SECRET, the use of designated secure IT systems is necessary. More information on security classifications can be found here . ↩",
+      "ordinal": 115,
+      "heading_path": [
+        "Issue",
+        "Annex C – Frequently Asked Questions (FAQs)",
+        "Q10 Are there alternatives to demonstrating compliance with Cyber Essentials technical requirements other than through gaining the certificate?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00116",
+      "block_type": "p",
+      "text": "For information marked SECRET or TOP SECRET, the use of designated secure IT systems is necessary. More information on security classifications can be found here . ↩",
+      "ordinal": 116,
+      "heading_path": [
+        "Issue",
+        "Annex C – Frequently Asked Questions (FAQs)",
+        "Q10 Are there alternatives to demonstrating compliance with Cyber Essentials technical requirements other than through gaining the certificate?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00117",
+      "block_type": "li",
+      "text": "For example, contracts that deal with routine international relations and diplomatic activities, public safety, criminal justice and enforcement activities, many aspects of defence, security and resilience and commercial interests, including information provided in confidence, intellectual property and the contract itself. ↩",
+      "ordinal": 117,
+      "heading_path": [
+        "Issue",
+        "Annex C – Frequently Asked Questions (FAQs)",
+        "Q10 Are there alternatives to demonstrating compliance with Cyber Essentials technical requirements other than through gaining the certificate?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00118",
+      "block_type": "p",
+      "text": "For example, contracts that deal with routine international relations and diplomatic activities, public safety, criminal justice and enforcement activities, many aspects of defence, security and resilience and commercial interests, including information provided in confidence, intellectual property and the contract itself. ↩",
+      "ordinal": 118,
+      "heading_path": [
+        "Issue",
+        "Annex C – Frequently Asked Questions (FAQs)",
+        "Q10 Are there alternatives to demonstrating compliance with Cyber Essentials technical requirements other than through gaining the certificate?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00119",
+      "block_type": "li",
+      "text": "A summary of the key features of Cyber Essentials and Cyber Essential Plus can be found at Annex B. ↩",
+      "ordinal": 119,
+      "heading_path": [
+        "Issue",
+        "Annex C – Frequently Asked Questions (FAQs)",
+        "Q10 Are there alternatives to demonstrating compliance with Cyber Essentials technical requirements other than through gaining the certificate?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00120",
+      "block_type": "p",
+      "text": "A summary of the key features of Cyber Essentials and Cyber Essential Plus can be found at Annex B. ↩",
+      "ordinal": 120,
+      "heading_path": [
+        "Issue",
+        "Annex C – Frequently Asked Questions (FAQs)",
+        "Q10 Are there alternatives to demonstrating compliance with Cyber Essentials technical requirements other than through gaining the certificate?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00121",
+      "block_type": "li",
+      "text": "These examples are illustrative and are not an exhaustive list. ↩",
+      "ordinal": 121,
+      "heading_path": [
+        "Issue",
+        "Annex C – Frequently Asked Questions (FAQs)",
+        "Q10 Are there alternatives to demonstrating compliance with Cyber Essentials technical requirements other than through gaining the certificate?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00122",
+      "block_type": "p",
+      "text": "These examples are illustrative and are not an exhaustive list. ↩",
+      "ordinal": 122,
+      "heading_path": [
+        "Issue",
+        "Annex C – Frequently Asked Questions (FAQs)",
+        "Q10 Are there alternatives to demonstrating compliance with Cyber Essentials technical requirements other than through gaining the certificate?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "[footnote 1]",
+      "href": "https://www.gov.uk/government/publications/ppn-0923-updates-to-the-cyber-essentials-scheme/procurement-policy-note-updates-to-the-cyber-essentials-scheme-html#fn:1",
+      "block_id": "b00014",
+      "ordinal": 0,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 2]",
+      "href": "https://www.gov.uk/government/publications/ppn-0923-updates-to-the-cyber-essentials-scheme/procurement-policy-note-updates-to-the-cyber-essentials-scheme-html#fn:2",
+      "block_id": "b00015",
+      "ordinal": 1,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 3]",
+      "href": "https://www.gov.uk/government/publications/ppn-0923-updates-to-the-cyber-essentials-scheme/procurement-policy-note-updates-to-the-cyber-essentials-scheme-html#fn:3",
+      "block_id": "b00017",
+      "ordinal": 2,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Government’s Cloud Security Principles",
+      "href": "https://www.ncsc.gov.uk/collection/cloud/the-cloud-security-principles",
+      "block_id": "b00030",
+      "ordinal": 3,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "https://www.ncsc.gov.uk/cyberessentials/overview",
+      "href": "https://www.ncsc.gov.uk/cyberessentials/overview",
+      "block_id": "b00037",
+      "ordinal": 4,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "info@crowncommercial.gov.uk",
+      "href": "mailto:info@crowncommercial.gov.uk",
+      "block_id": "b00039",
+      "ordinal": 5,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "https://www.ncsc.gov.uk/cyberessentials/overview",
+      "href": "https://www.ncsc.gov.uk/cyberessentials/overview",
+      "block_id": "b00042",
+      "ordinal": 6,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "https://iasme.co.uk/cyber-essentials/",
+      "href": "https://iasme.co.uk/cyber-essentials/",
+      "block_id": "b00043",
+      "ordinal": 7,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "https://getreadyforcyberessentials.iasme.co.uk/questions/",
+      "href": "https://getreadyforcyberessentials.iasme.co.uk/questions/",
+      "block_id": "b00044",
+      "ordinal": 8,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "https://iasme.co.uk/certification-bodies",
+      "href": "https://iasme.co.uk/certification-bodies",
+      "block_id": "b00045",
+      "ordinal": 9,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "https://www.ncsc.gov.uk/section/advice-guidance/all-topics?topics=Cyber%20Essentials&sort=date%2Bdesc",
+      "href": "https://www.ncsc.gov.uk/section/advice-guidance/all-topics?topics=Cyber%20Essentials&sort=date%2Bdesc",
+      "block_id": "b00046",
+      "ordinal": 10,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "https://www.ncsc.gov.uk/collection/cloud/the-cloud-security-principles",
+      "href": "https://www.ncsc.gov.uk/collection/cloud/the-cloud-security-principles",
+      "block_id": "b00047",
+      "ordinal": 11,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "https://www.ncsc.gov.uk/collection/assess-supply-chain-cyber-security",
+      "href": "https://www.ncsc.gov.uk/collection/assess-supply-chain-cyber-security",
+      "block_id": "b00048",
+      "ordinal": 12,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "https://www.npsa.gov.uk/protected-procurement",
+      "href": "https://www.npsa.gov.uk/protected-procurement",
+      "block_id": "b00049",
+      "ordinal": 13,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "https://www.gov.uk/government/publications/the-digital-data-and-technology-playbook",
+      "href": "https://www.gov.uk/government/publications/the-digital-data-and-technology-playbook",
+      "block_id": "b00050",
+      "ordinal": 14,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "[footnote 4]",
+      "href": "https://www.gov.uk/government/publications/ppn-0923-updates-to-the-cyber-essentials-scheme/procurement-policy-note-updates-to-the-cyber-essentials-scheme-html#fn:4",
+      "block_id": "b00052",
+      "ordinal": 15,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "EU-US Data Privacy Framework",
+      "href": "https://commission.europa.eu/system/files/2023-07/Adequacy%20decision%20EU-US%20Data%20Privacy%20Framework_en.pdf",
+      "block_id": "b00058",
+      "ordinal": 16,
+      "link_type": "ATTACHMENT"
+    },
+    {
+      "text": "requirements of Cyber Essentials and Cyber Essentials Plus",
+      "href": "https://www.ncsc.gov.uk/cyberessentials/overview",
+      "block_id": "b00069",
+      "ordinal": 17,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Further details",
+      "href": "https://iasme.co.uk/certification-bodies",
+      "block_id": "b00095",
+      "ordinal": 18,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "contact IASME",
+      "href": "https://iasme.co.uk/contact-us/",
+      "block_id": "b00100",
+      "ordinal": 19,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Up-to-date information on costs",
+      "href": "https://www.ncsc.gov.uk/cyberessentials/overview",
+      "block_id": "b00100",
+      "ordinal": 20,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Model Services Contract",
+      "href": "https://www.gov.uk/government/publications/model-services-contract",
+      "block_id": "b00108",
+      "ordinal": 21,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Government Functional Standard GovS 007: Security",
+      "href": "https://www.gov.uk/government/publications/government-functional-standard-govs-007-security",
+      "block_id": "b00109",
+      "ordinal": 22,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "here",
+      "href": "https://www.gov.uk/government/publications/government-security-classifications",
+      "block_id": "b00115",
+      "ordinal": 23,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-0923-updates-to-the-cyber-essentials-scheme/procurement-policy-note-updates-to-the-cyber-essentials-scheme-html#fnref:1",
+      "block_id": "b00115",
+      "ordinal": 24,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "here",
+      "href": "https://www.gov.uk/government/publications/government-security-classifications",
+      "block_id": "b00116",
+      "ordinal": 25,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-0923-updates-to-the-cyber-essentials-scheme/procurement-policy-note-updates-to-the-cyber-essentials-scheme-html#fnref:1",
+      "block_id": "b00116",
+      "ordinal": 26,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-0923-updates-to-the-cyber-essentials-scheme/procurement-policy-note-updates-to-the-cyber-essentials-scheme-html#fnref:2",
+      "block_id": "b00117",
+      "ordinal": 27,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-0923-updates-to-the-cyber-essentials-scheme/procurement-policy-note-updates-to-the-cyber-essentials-scheme-html#fnref:2",
+      "block_id": "b00118",
+      "ordinal": 28,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-0923-updates-to-the-cyber-essentials-scheme/procurement-policy-note-updates-to-the-cyber-essentials-scheme-html#fnref:3",
+      "block_id": "b00119",
+      "ordinal": 29,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-0923-updates-to-the-cyber-essentials-scheme/procurement-policy-note-updates-to-the-cyber-essentials-scheme-html#fnref:3",
+      "block_id": "b00120",
+      "ordinal": 30,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-0923-updates-to-the-cyber-essentials-scheme/procurement-policy-note-updates-to-the-cyber-essentials-scheme-html#fnref:4",
+      "block_id": "b00121",
+      "ordinal": 31,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-0923-updates-to-the-cyber-essentials-scheme/procurement-policy-note-updates-to-the-cyber-essentials-scheme-html#fnref:4",
+      "block_id": "b00122",
+      "ordinal": 32,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Procurement Policy Note: Updates to the Cyber Essentials Scheme (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-0923-updates-to-the-cyber-essentials-scheme/procurement-policy-note-updates-to-the-cyber-essentials-scheme-html",
+      "block_id": "__document__",
+      "ordinal": 33,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2022 to 2024 Sunak Conservative government",
+      "href": "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 34,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 35,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "PPN 09/23: Updates to the Cyber Essentials Scheme",
+      "href": "https://www.gov.uk/government/publications/ppn-0923-updates-to-the-cyber-essentials-scheme",
+      "block_id": "__document__",
+      "ordinal": 36,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 37,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015 (PCR2015)",
+      "block_id": "b00112",
+      "start": 44,
+      "end": 70,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015",
+        "tail": " (PCR2015)"
+      }
+    }
+  ],
+  "attachments": [
+    {
+      "url": "https://commission.europa.eu/system/files/2023-07/Adequacy%20decision%20EU-US%20Data%20Privacy%20Framework_en.pdf",
+      "title": "EU-US Data Privacy Framework",
+      "discovered_in_block": "b00058"
+    }
+  ],
+  "warnings": []
+}

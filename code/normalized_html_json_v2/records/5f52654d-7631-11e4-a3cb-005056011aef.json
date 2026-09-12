@@ -1,0 +1,141 @@
+{
+  "document_id": "5f52654d-7631-11e4-a3cb-005056011aef",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/cb00c5f9f6b72ad3079422b5.json",
+  "input_sha256": "ce7ca7fdb72d226f37aa375c45996f22996c6b41575f3c4a144bb8b5406766bc",
+  "processed_at": "2026-08-27T02:26:41.896522+00:00",
+  "title": "Procurement Policy Note 06/14: short form terms and conditions",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-policy-note-0614-short-form-terms-and-conditions",
+  "description": "This Procurement Policy Note (PPN) [and guidance / documents] is now out of date",
+  "publication_date": "2014-04-08T00:00:00+01:00",
+  "updated_date": "2023-01-31T17:00:10+00:00",
+  "source_metadata": {
+    "content_id": "5f52654d-7631-11e4-a3cb-005056011aef",
+    "base_path": "/government/publications/procurement-policy-note-0614-short-form-terms-and-conditions",
+    "document_type": "guidance",
+    "schema_name": "publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "This Procurement Policy Note (PPN) is now out of date. Please refer to the suite of standard contract terms, which can be found here: https://www.gov.uk/government/publications/model-services-contract",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "The Crown Commercial Service and the Government Legal Service have developed a set of short form terms and conditions of contract for use by government departments and many other public sector organisations. These organisations may use the short form terms and conditions for low value procurement of goods and services where the contract value is likely to be below the relevant procurement thresholds in the Public Contracts Regulations 2006.",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "https://www.gov.uk/government/publications/model-services-contract",
+      "href": "https://www.gov.uk/government/publications/model-services-contract",
+      "block_id": "b00000",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement Policy Note 06/14: short form terms and conditions",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0614-short-form-terms-and-conditions",
+      "block_id": "__document__",
+      "ordinal": 1,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "Procurement policy notes",
+      "href": "https://www.gov.uk/government/collections/procurement-policy-notes",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_DOCUMENT_COLLECTIONS"
+    },
+    {
+      "text": "2010 to 2015 Conservative and Liberal Democrat coalition government",
+      "href": "https://www.gov.uk/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Efficiency and Reform Group",
+      "href": "https://www.gov.uk/government/organisations/efficiency-and-reform-group",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Crown Commercial Service",
+      "href": "https://www.gov.uk/government/organisations/crown-commercial-service",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 7,
+      "link_type": "GOVUK_ORIGINAL_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 8,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Government spending",
+      "href": "https://www.gov.uk/government/government-spending",
+      "block_id": "__document__",
+      "ordinal": 9,
+      "link_type": "GOVUK_TAXONS"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2006",
+      "block_id": "b00001",
+      "start": 427,
+      "end": 443,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2006"
+      }
+    }
+  ],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/5a7d9da0ed915d497af7079a/PPN_06_14_Short_form_terms_and_conditions_for_goods_and_services.pdf",
+      "title": "Procurement policy note: short form terms and conditions for goods and services",
+      "content_type": "application/pdf",
+      "filename": "PPN_06_14_Short_form_terms_and_conditions_for_goods_and_services.pdf",
+      "id": "7142188",
+      "logical_role": "ATTACHMENT"
+    }
+  ],
+  "warnings": []
+}

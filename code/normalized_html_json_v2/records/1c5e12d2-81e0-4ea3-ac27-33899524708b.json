@@ -1,0 +1,1581 @@
+{
+  "document_id": "1c5e12d2-81e0-4ea3-ac27-33899524708b",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/65ae628e3a9278f8dbe9139d.json",
+  "input_sha256": "84290f70700b5b6360901b2eddcb6a0ebc982b872ad1c626f74fae658e03e774",
+  "processed_at": "2026-08-27T02:26:20.680309+00:00",
+  "title": "Procurement Policy Note 01/20: Responding to COVID-19",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-policy-note-0120-responding-to-covid-19/procurement-policy-note-0120-responding-to-covid-19",
+  "description": null,
+  "publication_date": "2022-03-11T10:53:59+00:00",
+  "updated_date": "2023-01-31T17:00:11+00:00",
+  "source_metadata": {
+    "content_id": "1c5e12d2-81e0-4ea3-ac27-33899524708b",
+    "base_path": "/government/publications/procurement-policy-note-0120-responding-to-covid-19/procurement-policy-note-0120-responding-to-covid-19",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Information Note PPN 01/20",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Issue",
+      "ordinal": 1,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Dissemination and Scope",
+      "ordinal": 3,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Timing",
+      "ordinal": 6,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Background",
+      "ordinal": 8,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Contact",
+      "ordinal": 18,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Public contract regulations: responding to COVID-19",
+      "ordinal": 21,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Introduction",
+      "ordinal": 22,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Direct award due to reasons of extreme urgency",
+      "ordinal": 29,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Direct award due to absence of competition or protection of exclusive rights",
+      "ordinal": 53,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Call off from an existing framework agreement or dynamic purchasing system",
+      "ordinal": 64,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Using a standard procedure with accelerated timescales due to urgency",
+      "ordinal": 72,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Extending or modifying a contract during its term",
+      "ordinal": 78,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "Information Note PPN 01/20",
+      "ordinal": 0,
+      "heading_path": [
+        "Information Note PPN 01/20"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "heading",
+      "text": "Issue",
+      "ordinal": 1,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "This Procurement Policy Note (PPN) sets out information and associated guidance on the public procurement regulations and responding to the current coronavirus, COVID-19, outbreak. The exact response to COVID-19 will be tailored to the nature, scale and location of the threat in the UK, as our understanding develops. However, it is already clear that in these exceptional circumstances, authorities may need to procure goods, services and works with extreme urgency. Authorities are permitted to do this using regulation 32(2)(c) under the Public Contract Regulations 2015.",
+      "ordinal": 2,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "heading",
+      "text": "Dissemination and Scope",
+      "ordinal": 3,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Issue",
+        "Dissemination and Scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "This PPN is applicable to all contracting authorities, including central government departments, executive agencies, non-departmental public bodies, local authorities, NHS bodies and the wider public sector. Together these are referred to in this PPN as ‘contracting authorities.’",
+      "ordinal": 4,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Issue",
+        "Dissemination and Scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "Please circulate this PPN across your organisation and to other relevant organisations that you are responsible for, drawing it to the specific attention of those with a commercial and procurement role.",
+      "ordinal": 5,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Issue",
+        "Dissemination and Scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "heading",
+      "text": "Timing",
+      "ordinal": 6,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Issue",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "With immediate effect.",
+      "ordinal": 7,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Issue",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "heading",
+      "text": "Background",
+      "ordinal": 8,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "There will be a range of commercial actions that must be considered by contracting authorities in responding to the impact of COVID-19. In such exceptional circumstances, authorities may need to procure goods, services and works with extreme urgency. This is permissible under current public procurement regulations using regulation 32(2)(c).",
+      "ordinal": 9,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "p",
+      "text": "This PPN and associated guidance covers options that may be considered in relation to procurements under the Public Contract Regulations 2015 (for the current financial thresholds, see PPN 06/19):",
+      "ordinal": 10,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "li",
+      "text": "direct award due to extreme urgency (regulation 32(2)(c);",
+      "ordinal": 11,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "li",
+      "text": "direct award due to absence of competition or protection of exclusive rights;",
+      "ordinal": 12,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "li",
+      "text": "call off from an existing framework agreement or dynamic purchasing system;",
+      "ordinal": 13,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "li",
+      "text": "call for competition using a standard procedure with accelerated timescales;",
+      "ordinal": 14,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "li",
+      "text": "extending or modifying a contract during its term",
+      "ordinal": 15,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "Contracting authorities procuring under the Defence and Security Public Contracts Regulations 2011, the Utilities Contracts Regulations 2016 and the Concession Contracts Regulations 2016 will need to check similar provisions in those regulations.",
+      "ordinal": 16,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "The COVID-19 outbreak is likely to give rise to supply chain disruption and contracting authorities may need to take action in response to supplier claims of ‘force majeure’ or contract ‘frustration’. These and other issues will be covered in future PPNs.",
+      "ordinal": 17,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "heading",
+      "text": "Contact",
+      "ordinal": 18,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "Further guidance on COVID-19 for individuals, employers and organisations is available on GOV.UK.",
+      "ordinal": 19,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "p",
+      "text": "Enquiries about this PPN should be directed to the Crown Commercial Service Helpdesk on 0345 410 2222 or info@crowncommercial.gov.uk .",
+      "ordinal": 20,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "heading",
+      "text": "Public contract regulations: responding to COVID-19",
+      "ordinal": 21,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "heading",
+      "text": "Introduction",
+      "ordinal": 22,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "There will be a range of commercial actions that need to be considered by contracting authorities in responding to the impact of COVID-19. In such exceptional circumstances, authorities may need to procure goods, services and works with extreme urgency. This is permissible under current public procurement regulations.",
+      "ordinal": 23,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "If you have an urgent requirement for goods, services or works due to COVID-19, and you need to procure this under the Public Contract Regulations 2015 (PCRs), there are various options available. These include:",
+      "ordinal": 24,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "li",
+      "text": "direct award due to extreme urgency;",
+      "ordinal": 25,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "li",
+      "text": "extending or modifying a contract during its term.",
+      "ordinal": 26,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "p",
+      "text": "Depending on the specific nature of your requirement there may be further options under the PCRs, such as the additional delivery of supplies from an existing supplier (regulation 32(5)), additional similar works or services from an existing supplier (regulation 32(9)), or using the services of a subsidiary of another contracting authority (regulation 12). These are not covered in this guidance and do have their own specific requirements.",
+      "ordinal": 27,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "You should ensure you keep proper records of decisions and actions on individual contracts, as this could mitigate against the risk of a successful legal challenge. If you make a direct award, you should publish a contract award notice (regulation 50) within 30 days of awarding the contract.",
+      "ordinal": 28,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "heading",
+      "text": "Direct award due to reasons of extreme urgency",
+      "ordinal": 29,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Direct award due to reasons of extreme urgency"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "p",
+      "text": "COVID-19 is serious and its consequences pose a risk to life. Regulation 32(2)(c) of the PCRs is designed to deal with this sort of situation.",
+      "ordinal": 30,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Direct award due to reasons of extreme urgency"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "p",
+      "text": "Regulation 32(2) sets out the following:",
+      "ordinal": 31,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Direct award due to reasons of extreme urgency"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "blockquote",
+      "text": "The negotiated procedure without prior publication may be used for public works contracts, public supply contracts and public service contracts in any of the following cases: …\n(c) insofar as is strictly necessary where, for reasons of extreme urgency brought about by events unforeseeable by the contracting authority, the time limits for the open or restricted procedures or competitive procedures with negotiation cannot be complied with.\n… the circumstances invoked to justify extreme urgency must not in any event be attributable to the contracting authority.",
+      "ordinal": 32,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Direct award due to reasons of extreme urgency"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "p",
+      "text": "The negotiated procedure without prior publication may be used for public works contracts, public supply contracts and public service contracts in any of the following cases: …\n(c) insofar as is strictly necessary where, for reasons of extreme urgency brought about by events unforeseeable by the contracting authority, the time limits for the open or restricted procedures or competitive procedures with negotiation cannot be complied with.\n… the circumstances invoked to justify extreme urgency must not in any event be attributable to the contracting authority.",
+      "ordinal": 33,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Direct award due to reasons of extreme urgency"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "p",
+      "text": "Therefore, in responding to COVID-19, contracting authorities may enter into contracts without competing or advertising the requirement so long as they are able to demonstrate the following tests have all been met:",
+      "ordinal": 34,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Direct award due to reasons of extreme urgency"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "p",
+      "text": "1) There are genuine reasons for extreme urgency, for example:",
+      "ordinal": 35,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Direct award due to reasons of extreme urgency"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "li",
+      "text": "you need to respond to the COVID-19 consequences immediately because of public health risks, loss of existing provision at short notice, etc;",
+      "ordinal": 36,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Direct award due to reasons of extreme urgency"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "li",
+      "text": "you are reacting to a current situation that is a genuine emergency - not planning for one.",
+      "ordinal": 37,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Direct award due to reasons of extreme urgency"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "p",
+      "text": "2) The events that have led to the need for extreme urgency were unforeseeable, for example:",
+      "ordinal": 38,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Direct award due to reasons of extreme urgency"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "li",
+      "text": "the COVID-19 situation is so novel that the consequences are not something you should have predicted",
+      "ordinal": 39,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Direct award due to reasons of extreme urgency"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "p",
+      "text": "3) It is impossible to comply with the usual timescales in the PCRs, for example:",
+      "ordinal": 40,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Direct award due to reasons of extreme urgency"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "li",
+      "text": "there is no time to run an accelerated procurement under the open or restricted procedures or competitive procedures with negotiation;",
+      "ordinal": 41,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Direct award due to reasons of extreme urgency"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "li",
+      "text": "there is no time to place a call off contract under an existing commercial agreement such as a framework or dynamic purchasing system.",
+      "ordinal": 42,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Direct award due to reasons of extreme urgency"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "p",
+      "text": "4) The situation is not attributable to the contracting authority, for example:",
+      "ordinal": 43,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Direct award due to reasons of extreme urgency"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "li",
+      "text": "you have not done anything to cause or contribute to the need for extreme urgency.",
+      "ordinal": 44,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Direct award due to reasons of extreme urgency"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "p",
+      "text": "Contracting authorities should keep a written justification that satisfies these tests. You should carry out a separate assessment of the tests before undertaking any subsequent or additional procurement to ensure that they are all still met, particularly to ensure that the events are still unforeseeable. For example, as time goes on, what might amount to unforeseeable now, may not do so in future.",
+      "ordinal": 45,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Direct award due to reasons of extreme urgency"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "p",
+      "text": "You should limit your requirements to only what is absolutely necessary both in terms of what you are procuring and the length of contract.",
+      "ordinal": 46,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Direct award due to reasons of extreme urgency"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "p",
+      "text": "Delaying or failing to do something in time does not make a situation qualify as extremely urgent, unforeseeable or not attributable to the contracting authority. This is because:",
+      "ordinal": 47,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Direct award due to reasons of extreme urgency"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "li",
+      "text": "the PCRs expect a contracting authority to plan its time efficiently so that it is able to use a competitive procedure;",
+      "ordinal": 48,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Direct award due to reasons of extreme urgency"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "li",
+      "text": "competitive alternatives (eg. an accelerated open procedure) can be completed quickly;",
+      "ordinal": 49,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Direct award due to reasons of extreme urgency"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00050",
+      "block_type": "li",
+      "text": "case law has held that knowing that something needs to be done means it is foreseeable;",
+      "ordinal": 50,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Direct award due to reasons of extreme urgency"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00051",
+      "block_type": "li",
+      "text": "a contracting authority’s delay or failure to do something is likely to mean that the situation is attributable to the contracting authority.",
+      "ordinal": 51,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Direct award due to reasons of extreme urgency"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00052",
+      "block_type": "p",
+      "text": "It is important that contracting authorities continue to achieve value for money and use good commercial judgement during any direct award. Whilst prices may be higher than would be expected in a regular market, any abnormally high pricing should be approved by the appropriate commercial director. Additionally, contracting authorities are encouraged to consider contractual mechanisms to ensure that they have the ability to secure pricing reductions through the life of the contract. Where this is not possible, it is recommended a log should be kept and reasoning provided for future auditing.",
+      "ordinal": 52,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Direct award due to reasons of extreme urgency"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00053",
+      "block_type": "heading",
+      "text": "Direct award due to absence of competition or protection of exclusive rights",
+      "ordinal": 53,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Direct award due to absence of competition or protection of exclusive rights"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00054",
+      "block_type": "p",
+      "text": "Regulation 32(2) of the PCRs also sets out that the negotiated procedure without prior publication may be used:",
+      "ordinal": 54,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Direct award due to absence of competition or protection of exclusive rights"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00055",
+      "block_type": "p",
+      "text": "(b) where the works, supplies or services can be supplied only by a particular economic operator for any of the following reasons: …\n(ii) competition is absent for technical reasons,\n(iii) the protection of exclusive rights, including intellectual property rights,\n… but only where no reasonable alternative or substitute exists and the absence of competition is not the result of an artificial narrowing down of the parameters of the procurement.",
+      "ordinal": 55,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Direct award due to absence of competition or protection of exclusive rights"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00056",
+      "block_type": "p",
+      "text": "Therefore, a contracting authority may make a direct award where the works, goods or services needed to respond to COVID-19 can only be supplied by a particular supplier because:",
+      "ordinal": 56,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Direct award due to absence of competition or protection of exclusive rights"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00057",
+      "block_type": "li",
+      "text": "competition is absent for technical reasons eg there is only one supplier with the expertise to do the work, produce the product or with capacity to complete on the scale required; or",
+      "ordinal": 57,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Direct award due to absence of competition or protection of exclusive rights"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00058",
+      "block_type": "li",
+      "text": "the protection of exclusive rights, including intellectual property rights eg: the supplier owns those rights (including intellectual property rights); it has the exclusive right to exploit intellectual property rights. But this is only when:",
+      "ordinal": 58,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Direct award due to absence of competition or protection of exclusive rights"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00059",
+      "block_type": "li",
+      "text": "the supplier owns those rights (including intellectual property rights);",
+      "ordinal": 59,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Direct award due to absence of competition or protection of exclusive rights"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00060",
+      "block_type": "li",
+      "text": "it has the exclusive right to exploit intellectual property rights. But this is only when:",
+      "ordinal": 60,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Direct award due to absence of competition or protection of exclusive rights"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00061",
+      "block_type": "li",
+      "text": "there is no reasonable alternative or substitute available; and",
+      "ordinal": 61,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Direct award due to absence of competition or protection of exclusive rights"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00062",
+      "block_type": "li",
+      "text": "the contracting authority is not doing something which artificially narrows down the scope of the procurement eg by over-specifying the requirement.",
+      "ordinal": 62,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Direct award due to absence of competition or protection of exclusive rights"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00063",
+      "block_type": "p",
+      "text": "Contracting authorities should keep a written justification that satisfies these tests. You should carry out a separate assessment of the tests before undertaking any repeat procurement to ensure these tests have been met.",
+      "ordinal": 63,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Direct award due to absence of competition or protection of exclusive rights"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00064",
+      "block_type": "heading",
+      "text": "Call off from an existing framework agreement or dynamic purchasing system",
+      "ordinal": 64,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Call off from an existing framework agreement or dynamic purchasing system"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00065",
+      "block_type": "p",
+      "text": "Central purchasing bodies, such as the Crown Commercial Service, offer public bodies access to a range of commercial agreements including framework agreements and dynamic purchasing systems (DPS).",
+      "ordinal": 65,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Call off from an existing framework agreement or dynamic purchasing system"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00066",
+      "block_type": "p",
+      "text": "It is possible to use one of these commercial agreements as long as:",
+      "ordinal": 66,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Call off from an existing framework agreement or dynamic purchasing system"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00067",
+      "block_type": "li",
+      "text": "your contracting authority was clearly identified as a permitted customer in the original OJEU notice or the invitation to confirm interest;",
+      "ordinal": 67,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Call off from an existing framework agreement or dynamic purchasing system"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00068",
+      "block_type": "li",
+      "text": "the goods, services or works to be procured fall within the scope of those covered by the contract, framework agreement or DPS;",
+      "ordinal": 68,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Call off from an existing framework agreement or dynamic purchasing system"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00069",
+      "block_type": "li",
+      "text": "the contract, framework agreement or DPS was procured in accordance with the PCRs;",
+      "ordinal": 69,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Call off from an existing framework agreement or dynamic purchasing system"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00070",
+      "block_type": "li",
+      "text": "the terms of the contract, framework agreement or DPS are suitable and meet your requirements without the need for significant changes.",
+      "ordinal": 70,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Call off from an existing framework agreement or dynamic purchasing system"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00071",
+      "block_type": "p",
+      "text": "A framework agreement will provide for direct awards, mini-competitions or both. You must follow the procedure for awarding a call off contract set out in the framework agreement. An award under a DPS has to be by mini-competition and the minimum time for receipt of tenders is 10 days.",
+      "ordinal": 71,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Call off from an existing framework agreement or dynamic purchasing system"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00072",
+      "block_type": "heading",
+      "text": "Using a standard procedure with accelerated timescales due to urgency",
+      "ordinal": 72,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Using a standard procedure with accelerated timescales due to urgency"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00073",
+      "block_type": "p",
+      "text": "Contracting authorities can reduce the minimum timescales for the open procedure, the restricted procedure and the competitive procedure with negotiation if a state of urgency renders the standard timescales impracticable. The minimum time limits vary (see regulations 27(5), 28(10) and 29(10) respectively). For procurements under the open procedure, timescales can be reduced to 15 days for receipt of tenders plus the minimum 10 days for the standstill period.",
+      "ordinal": 73,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Using a standard procedure with accelerated timescales due to urgency"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00074",
+      "block_type": "p",
+      "text": "There is no express requirement for the situation to be unforeseeable or not attributable to the contracting authority but you should set out in your OJEU notice a clear justification eg:",
+      "ordinal": 74,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Using a standard procedure with accelerated timescales due to urgency"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00075",
+      "block_type": "blockquote",
+      "text": "The COVID-19 outbreak has given rise to an urgent need for the supply of [description of what is being procured] because [explanation of urgency]. This does not give [name of contracting authority] sufficient time to comply with the standard [open procedure / restricted procedure / competitive procedure with negotiation] timescales for this procurement. [Contracting authority] considers this to be a state of urgency which it has duly substantiated. Accordingly, [contracting authority] is using the accelerated time limits permitted under the Public Contract Regulations 2015 (regulation [27(5) for the open procedure / 28(10) for the restricted procedure / 29(10) for the competitive procedure with negotiation]) in respect of this procurement",
+      "ordinal": 75,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Using a standard procedure with accelerated timescales due to urgency"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00076",
+      "block_type": "p",
+      "text": "The COVID-19 outbreak has given rise to an urgent need for the supply of [description of what is being procured] because [explanation of urgency]. This does not give [name of contracting authority] sufficient time to comply with the standard [open procedure / restricted procedure / competitive procedure with negotiation] timescales for this procurement. [Contracting authority] considers this to be a state of urgency which it has duly substantiated. Accordingly, [contracting authority] is using the accelerated time limits permitted under the Public Contract Regulations 2015 (regulation [27(5) for the open procedure / 28(10) for the restricted procedure / 29(10) for the competitive procedure with negotiation]) in respect of this procurement",
+      "ordinal": 76,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Using a standard procedure with accelerated timescales due to urgency"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00077",
+      "block_type": "p",
+      "text": "Contracting Authorities can also consider the use of the Light Touch Regime for specific health and social care related services (see regulation 74-77). While contracting authorities are required to advertise contracts in OJEU and publish contract award notices, you are free to use any process or procedure you choose to run and are not required to use the standard procurement procedures (open, restricted etc). You are also free to set your own timescales as long as they are reasonable and proportionate.",
+      "ordinal": 77,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Using a standard procedure with accelerated timescales due to urgency"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00078",
+      "block_type": "heading",
+      "text": "Extending or modifying a contract during its term",
+      "ordinal": 78,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Extending or modifying a contract during its term"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00079",
+      "block_type": "p",
+      "text": "Regulation 72(1) sets out the following:",
+      "ordinal": 79,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Extending or modifying a contract during its term"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00080",
+      "block_type": "blockquote",
+      "text": "Contracts … may be modified without a new procurement procedure … in any of the following cases:\n(c) where all of the following conditions are fulfilled:\n(i) the need for modification has been brought about by circumstances which a diligent contracting authority could not have foreseen;\n(ii) the modification does not alter the overall nature of the contract;\n(iii) any increase in price does not exceed 50% of the value of the original contract or framework agreement.",
+      "ordinal": 80,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Extending or modifying a contract during its term"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00081",
+      "block_type": "p",
+      "text": "Contracts … may be modified without a new procurement procedure … in any of the following cases:\n(c) where all of the following conditions are fulfilled:\n(i) the need for modification has been brought about by circumstances which a diligent contracting authority could not have foreseen;\n(ii) the modification does not alter the overall nature of the contract;\n(iii) any increase in price does not exceed 50% of the value of the original contract or framework agreement.",
+      "ordinal": 81,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Extending or modifying a contract during its term"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00082",
+      "block_type": "p",
+      "text": "Contracting authorities should keep a written justification that satisfies these conditions, including limiting any extension or other modification to what is absolutely necessary to address the unforeseeable circumstance. This justification should demonstrate that your decision to extend or modify the particular contract(s) was related to the COVID-19 outbreak with reference to specific facts, eg your staff are diverted by procuring urgent requirements to deal with COVID-19 consequences, or your staff are off sick so they cannot complete a new procurement exercise. You should publish the modification by way of an OJEU notice to say you have relied on regulation 72(1)(c).",
+      "ordinal": 82,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Extending or modifying a contract during its term"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00083",
+      "block_type": "p",
+      "text": "Multiple modifications are permissible, however each one should not exceed the 50% of the original contract value. You should also consider limiting the duration and/or scope of the modification and running a procurement for longer-term/wider scope requirements alongside it.",
+      "ordinal": 83,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Extending or modifying a contract during its term"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00084",
+      "block_type": "p",
+      "text": "There are other grounds available under regulation 72 for extending contracts, including: if the proposed variation has been specifically provided for in the contract (regulation 72(1)(a)); where a change of contractor cannot be made for economic or technical reasons (regulation 72(1)(b)), and where the modifications are not substantial (regulation 72(1)(e))",
+      "ordinal": 84,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Extending or modifying a contract during its term"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00085",
+      "block_type": "p",
+      "text": "If more than one ground is applicable this may lower the legal risk and therefore you should ensure all relevant grounds are included in your written justification.",
+      "ordinal": 85,
+      "heading_path": [
+        "Information Note PPN 01/20",
+        "Public contract regulations: responding to COVID-19",
+        "Extending or modifying a contract during its term"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "info@crowncommercial.gov.uk",
+      "href": "mailto:info@crowncommercial.gov.uk",
+      "block_id": "b00020",
+      "ordinal": 0,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "Procurement Policy Note 01/20: Responding to COVID-19",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0120-responding-to-covid-19/procurement-policy-note-0120-responding-to-covid-19",
+      "block_id": "__document__",
+      "ordinal": 1,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2019 to 2022 Johnson Conservative government",
+      "href": "https://www.gov.uk/government/2019-to-2022-johnson-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Procurement Policy Note 01/20: Responding to COVID-19",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0120-responding-to-covid-19",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 32(2)(c)",
+      "block_id": "b00002",
+      "start": 512,
+      "end": 531,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "32",
+        "tail": "(2)(c)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015",
+      "block_id": "b00002",
+      "start": 558,
+      "end": 574,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 32(2)(c)",
+      "block_id": "b00009",
+      "start": 322,
+      "end": 341,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "32",
+        "tail": "(2)(c)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015",
+      "block_id": "b00010",
+      "start": 125,
+      "end": 141,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 32(2)(c)",
+      "block_id": "b00011",
+      "start": 37,
+      "end": 56,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "32",
+        "tail": "(2)(c)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2011",
+      "block_id": "b00016",
+      "start": 82,
+      "end": 98,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2011"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2016",
+      "block_id": "b00016",
+      "start": 124,
+      "end": 140,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2016"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2016",
+      "block_id": "b00016",
+      "start": 170,
+      "end": 186,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2016"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015 (PCRs)",
+      "block_id": "b00024",
+      "start": 135,
+      "end": 158,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015",
+        "tail": " (PCRs)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 32(5)",
+      "block_id": "b00027",
+      "start": 169,
+      "end": 185,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "32",
+        "tail": "(5)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 32(9)",
+      "block_id": "b00027",
+      "start": 252,
+      "end": 268,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "32",
+        "tail": "(9)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 12",
+      "block_id": "b00027",
+      "start": 343,
+      "end": 356,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "12"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 50",
+      "block_id": "b00028",
+      "start": 237,
+      "end": 250,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "50"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 32(2)(c)",
+      "block_id": "b00030",
+      "start": 62,
+      "end": 81,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "32",
+        "tail": "(2)(c)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 32(2)",
+      "block_id": "b00031",
+      "start": 0,
+      "end": 16,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "32",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 32(2)",
+      "block_id": "b00054",
+      "start": 0,
+      "end": 16,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "32",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulations 27(5)",
+      "block_id": "b00073",
+      "start": 257,
+      "end": 274,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "27",
+        "tail": "(5)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015",
+      "block_id": "b00075",
+      "start": 563,
+      "end": 579,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015",
+      "block_id": "b00076",
+      "start": 563,
+      "end": 579,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 74",
+      "block_id": "b00077",
+      "start": 134,
+      "end": 147,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "74"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 72(1)",
+      "block_id": "b00079",
+      "start": 0,
+      "end": 16,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "72",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 72(1)(c)",
+      "block_id": "b00082",
+      "start": 660,
+      "end": 679,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "72",
+        "tail": "(1)(c)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 72",
+      "block_id": "b00084",
+      "start": 40,
+      "end": 53,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "72"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 72(1)(a)",
+      "block_id": "b00084",
+      "start": 168,
+      "end": 187,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "72",
+        "tail": "(1)(a)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 72(1)(b)",
+      "block_id": "b00084",
+      "start": 269,
+      "end": 288,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "72",
+        "tail": "(1)(b)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 72(1)(e)",
+      "block_id": "b00084",
+      "start": 340,
+      "end": 359,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "72",
+        "tail": "(1)(e)"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

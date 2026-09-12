@@ -1,0 +1,1759 @@
+{
+  "document_id": "164b982c-3e11-48c7-aeb6-746b0c1c94aa",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/5aaac79a6909be72c8bcb38f.json",
+  "input_sha256": "451e7e6a4913ea5d023ec50c12a6c9ae000e55586fb45a0903f74d132d3a0e73",
+  "processed_at": "2026-08-27T02:26:18.790744+00:00",
+  "title": "Guidance: Debarment (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-debarment-html",
+  "description": null,
+  "publication_date": "2024-08-02T12:31:39+01:00",
+  "updated_date": "2026-08-17T15:52:00+01:00",
+  "source_metadata": {
+    "content_id": "164b982c-3e11-48c7-aeb6-746b0c1c94aa",
+    "base_path": "/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-debarment-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What is debarment?",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What is the legal framework that governs debarment?",
+      "ordinal": 3,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What has changed?",
+      "ordinal": 12,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Key points and policy intent",
+      "ordinal": 15,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Debarment investigations and decisions",
+      "ordinal": 33,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Suppliers’ right to appeal",
+      "ordinal": 56,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "The National Security Unit for Procurement",
+      "ordinal": 70,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What other guidance is of particular relevance to this topic area?",
+      "ordinal": 73,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "What is debarment?",
+      "ordinal": 0,
+      "heading_path": [
+        "What is debarment?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "1. The debarment regime enables Ministers to put suppliers on a published debarment list. Inclusion on the list means that the supplier’s past behaviour or circumstances mean that it is not, or may not be, allowed to participate in covered procurements or be awarded public contracts. Debarment aims to minimise supplier-related risk in public procurement and incentivise suppliers to achieve excellent corporate compliance and standards of behaviour.",
+      "ordinal": 1,
+      "heading_path": [
+        "What is debarment?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "2. Whereas the exclusion regime relies wholly on assessments undertaken by contracting authorities, debarments will be managed centrally. Debarment is closely linked to exclusions in that a supplier can only be considered for debarment if any of the mandatory or discretionary exclusion grounds, outlined in Schedule 6 and 7 of the Procurement Act 2023 (Act) , apply and the circumstances giving rise to the relevant exclusion ground are continuing or are likely to occur again. The main distinction is that only a Minister of the Crown can make the decision to put a supplier on the debarment list. All contracting authorities must check the debarment list in each procurement and must exclude (or have a discretion to exclude) suppliers, if they are on the debarment list.",
+      "ordinal": 2,
+      "heading_path": [
+        "What is debarment?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "heading",
+      "text": "What is the legal framework that governs debarment?",
+      "ordinal": 3,
+      "heading_path": [
+        "What is debarment?",
+        "What is the legal framework that governs debarment?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "3. Section 59 (Notification of exclusion of supplier) requires contracting authorities to notify a Minister of the Crown, the Welsh Ministers or Northern Ireland departments (depending on the status of the contracting authority) whenever a contracting authority has determined that a supplier (including by virtue of a connected person, associated person or sub-contractor) is an excluded supplier or an excludable supplier and has taken certain actions under the exclusions regime. This provides one route by which suppliers may be brought to the attention of a Minister of the Crown for potential debarment.",
+      "ordinal": 4,
+      "heading_path": [
+        "What is debarment?",
+        "What is the legal framework that governs debarment?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "4. Section 60 (Investigations of supplier: exclusion grounds) allows a Minister of the Crown, the Welsh Ministers or Northern Ireland departments to undertake investigations of suppliers to establish whether they are an excludable supplier or an excluded supplier, for the purpose of a Minister of the Crown subsequently considering whether the supplier should be added to the debarment list. It provides powers to facilitate the collation of information during the investigation and requires that the supplier be notified of an investigation. It also requires a Minister of the Crown to keep under review whether suppliers should be investigated in the light of national security threats. In all cases, an investigation is a prerequisite before a supplier can be put on the debarment list by a Minister of the Crown.",
+      "ordinal": 5,
+      "heading_path": [
+        "What is debarment?",
+        "What is the legal framework that governs debarment?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "p",
+      "text": "5. Section 61 (Investigations under section 60 : reports) allows Welsh Ministers and Northern Ireland departments to refer a supplier that they have investigated to a Minister of the Crown for consideration for potential debarment.",
+      "ordinal": 6,
+      "heading_path": [
+        "What is debarment?",
+        "What is the legal framework that governs debarment?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "6. Section 62 (Debarment list) allows a Minister of the Crown to create a debarment list. This is a published list of suppliers which, following an investigation, they consider are excluded or excludable suppliers and which they have decided to put on the debarment list. It also allows the Minister to put a supplier on the debarment list where the Minister has determined the supplier’s failure to cooperate with an investigation under section 60 (Investigations of supplier: exclusion grounds) is sufficiently serious to warrant mandatory exclusion. In addition the Act sets out: what information must be recorded on the debarment list; the advance notice that must be given to the supplier before they are entered onto the debarment list (which triggers a standstill period); when the Welsh Ministers and Northern Ireland departments must be consulted; and other requirements pertaining to how the list is maintained.",
+      "ordinal": 7,
+      "heading_path": [
+        "What is debarment?",
+        "What is the legal framework that governs debarment?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "7. Section 63 (Debarment decisions: interim relief) allows a supplier to apply to the court for interim relief i.e. to suspend a debarment decision pending an appeal. After notifying the supplier of the debarment decision, per section 62 (Debarment list), the Minister must wait 8 working days (the standstill period) before entering the supplier’s name onto the debarment list. If the supplier successfully applies for interim relief during the standstill period, the Minister may not enter the supplier’s name onto the debarment list until a subsequent appeal has concluded or the time allowed to bring an appeal has elapsed. When considering an application for interim relief, the court must balance the interests of the supplier against the public interest.",
+      "ordinal": 8,
+      "heading_path": [
+        "What is debarment?",
+        "What is the legal framework that governs debarment?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "8. Section 64 (Debarment list: application for removal) allows a supplier on the debarment list to apply for their entry to be revised or removed from the list. The Minister of the Crown is only required to consider such an application if there has been significant new information or a material change of circumstances.",
+      "ordinal": 9,
+      "heading_path": [
+        "What is debarment?",
+        "What is the legal framework that governs debarment?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "p",
+      "text": "9. Section 65 (Debarment decisions: appeals) allows suppliers to appeal certain decisions relating to debarment to the court. Appeals must be brought within 30 days of when the supplier was, or ought to have been aware, of the Minister’s decision. The court can only make an order setting aside the debarment decision if it is satisfied that the Minister has made a material mistake of law; the court can also order the Minister to pay the supplier’s bid costs incurred in a procurement it has been excluded from as a result of the mistake. Suppliers will be expected to have mitigated those costs.",
+      "ordinal": 10,
+      "heading_path": [
+        "What is debarment?",
+        "What is the legal framework that governs debarment?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "10. Section 66 (Debarment proceedings and closed material procedure) allows the Minister for the Cabinet Office to apply for a declaration permitting closed material procedure applications in interim relief and appeal proceedings. Closed material procedure involves the non-government parties leaving the courtroom whilst sensitive material is heard. This is likely to only be used in very limited circumstances, such as where a supplier has been added to the debarment list on national security grounds.",
+      "ordinal": 11,
+      "heading_path": [
+        "What is debarment?",
+        "What is the legal framework that governs debarment?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "heading",
+      "text": "What has changed?",
+      "ordinal": 12,
+      "heading_path": [
+        "What is debarment?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "11. The Act creates a new debarment regime with powers for the Minister of the Crown to place suppliers on a published debarment list, which must be taken into account for all covered procurements, thereby putting a centralised debarment process on a legislative footing across all public procurements, as well as broadening the supplier exclusions regime (see guidance on exclusions for further information).",
+      "ordinal": 13,
+      "heading_path": [
+        "What is debarment?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "12. As a result of the debarment process, under the Act, contracting authorities will have access to a central source of information published on gov.uk which will support contracting authorities in making exclusion decisions and ensure a level of consistency across the public sector. The publication of reports produced following debarment investigations will also assist contracting authorities in making their own assessments of suppliers that have already been subject to a debarment investigation. This additional information will be most useful where a supplier has been investigated but not added to the debarment list and when a supplier is on the debarment list in relation to a discretionary exclusion ground as a contracting authority can apply it to the context of its own procurement and use it to support its own decision-making process.",
+      "ordinal": 14,
+      "heading_path": [
+        "What is debarment?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "heading",
+      "text": "Key points and policy intent",
+      "ordinal": 15,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "13. Debarment is not intended to be a punishment for past misconduct, but is a risk-based measure to ensure a supplier does not or may not participate in procurements or be awarded contracts where a Minister has put the supplier on the debarment list.",
+      "ordinal": 16,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "14. The debarment list will be published on gov.uk. It will set out:",
+      "ordinal": 17,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "p",
+      "text": "a. the supplier;",
+      "ordinal": 18,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "b. the exclusion ground that applies (and whether this is mandatory or discretionary); and",
+      "ordinal": 19,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "p",
+      "text": "c. the date the supplier’s name is expected to be removed from the debarment list.",
+      "ordinal": 20,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "15. Contracting authorities should check the debarment list before allowing any supplier to participate in a covered procurement and before deciding to award a public contract to a supplier. Contracting authorities must check whether the supplier’s name or the names of any associated persons or intended sub-contractors are on the debarment list and should also check whether the names of any connected persons of the supplier are on the debarment list, as this may be grounds for considering exclusion of the supplier. References to a supplier being on the debarment list in this guidance include associated persons and intended sub-contractors. For further details please see the guidance on exclusions .",
+      "ordinal": 21,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "p",
+      "text": "16. When a supplier is on the debarment list in relation to a mandatory exclusion ground, a contracting authority must not allow the supplier to bid in a competitive flexible procedure or be awarded a public contract in any competitive tendering procedure or by way of direct award and must disregard any tender submitted by them. The following exceptions apply:",
+      "ordinal": 22,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "a. procurements by private utilities;",
+      "ordinal": 23,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "b. where a supplier is on the debarment list on national security grounds for particular types of contracts, as the debarment does not affect their eligibility to bid for other types of contracts; or",
+      "ordinal": 24,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "p",
+      "text": "c. procurements by direct award where there is an overriding public interest in awarding the contract to that supplier. These include certain defence and security reasons and in certain cases where there is an extreme and unavoidable urgency.",
+      "ordinal": 25,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "p",
+      "text": "17. Where a supplier is on the debarment list as a result of a discretionary ground, it is still possible for a contracting authority to permit the supplier to bid for and be awarded a public contract. Contracting authorities should use caution and only do so after careful review, having considered any relevant investigation report relating to the debarment list entry, and undertaken appropriate additional due diligence. Contracting authorities should only proceed if they have good reasons for doing so. These may include market limitations, operationally critical contracts or the risk posed by the supplier on that particular contract, but each case will depend on the circumstances. As with all exclusion decisions, contracting authorities should keep an audit trail of the decision and the reasons for it.",
+      "ordinal": 26,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "p",
+      "text": "18. Where the supplier is on the debarment list in relation to specific types of contracts (where a Minister of the Crown has assessed that the supplier poses a threat to national security in relation to those types of contracts), debarment will ensure that suppliers assessed as posing a threat cannot be used in sensitive contexts, ensuring that high-risk procurements are handled prudently.",
+      "ordinal": 27,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "19. Contracting authorities may want to consider the debarment list when awarding contracts other than public contracts (such as exempted contracts or below-threshold contracts).",
+      "ordinal": 28,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "p",
+      "text": "20. If a supplier is not named on the debarment list, contracting authorities may only exclude suppliers from procurements and disregard their tenders if they are satisfied, on their own assessment, that the supplier is an excluded or excludable supplier. It should not be assumed that any of the exclusion grounds apply to a supplier which is under investigation or being considered for debarment. See the guidance on exclusions .",
+      "ordinal": 29,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "p",
+      "text": "21. The Act implies terms into public contracts ( section 78 ) giving contracting authorities a right to terminate the contract in particular circumstances. This enables a contracting authority to terminate a contract where a supplier has, since the award of the contract, become an excluded supplier or excludable supplier (including by reference to an associated person); or where a supplier (other than an associated person) to which the supplier is sub-contracting the performance of all or part of the public contract is an excluded or excludable supplier. This includes where such suppliers have been added to the debarment list. Contracting authorities should, as a matter of best practice, expressly include in their contracts an obligation on suppliers to notify them if they become an excluded or excludable supplier (including where they are put on the debarment list during the term of the contract or by virtue of their connected persons, associated persons or sub-contractors). Further information can be found in the guidance on contract termination .",
+      "ordinal": 30,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "p",
+      "text": "22. Contracting authorities must notify a Minister of the Crown, the Welsh Ministers or a Northern Ireland department if they exclude a supplier (or if they take certain other types of action under the exclusions regime; see guidance on exclusions ) and also if the supplier challenges an exclusion decision. Which authority must be notified depends on whether the contracting authority is a devolved, transferred or reserved authority (as defined in the Act). Notification must be provided within 30 days of the supplier being excluded (or the other relevant action taken). For contracting authorities that are not a devolved Welsh authority or transferred Northern Ireland authority, the contracting authority will notify Debarment Review Service (DRS) via its gov.uk page . The DRS sits within the Government Commercial Agency (GCA) which is an executive agency of the Cabinet Office. Any cases relating to national security will be forwarded to the National Security Unit for Procurement (NSUP). For the purposes of a centralised record of exclusions, devolved Welsh authorities and transferred Northern Ireland authorities should report any exclusions to DRS as well as to the Welsh Ministers or Northern Ireland department (as appropriate).",
+      "ordinal": 31,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "p",
+      "text": "23. Where a contracting authority excludes a supplier on the basis that it is on the debarment list for either the mandatory or discretionary national security exclusion grounds, the contracting authority must notify a Minister of the Crown. It should be noted that where a contracting authority intends to exclude a supplier on the basis of the discretionary national security ground, this decision will need to be approved in advance by a Minister of the Crown (via referral to DRS).",
+      "ordinal": 32,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "heading",
+      "text": "Debarment investigations and decisions",
+      "ordinal": 33,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent",
+        "Debarment investigations and decisions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "p",
+      "text": "24. Suppliers may be brought to the attention of a Minister of the Crown for potential debarment through any means, including notification of the exclusion of a supplier from a particular procurement by a contracting authority, an investigation by the Welsh Ministers or a Northern Ireland department, or through information otherwise available. The Minister of the Crown may consider suppliers for potential debarment based on either a referral from Welsh Ministers or Northern Ireland departments, or on their own investigation (led by either DRS or NSUP, depending on the exclusion ground in question). DRS may also use notification of supplier exclusion to initiate a debarment investigation.",
+      "ordinal": 34,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent",
+        "Debarment investigations and decisions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "p",
+      "text": "25. Once the decision to investigate has been made, investigating authorities are under a duty to inform a supplier that they are to be investigated, confirm which exclusion ground(s) is the subject of the investigation and provide information about how a supplier can make representations.",
+      "ordinal": 35,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent",
+        "Debarment investigations and decisions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "p",
+      "text": "26. During an investigation, suppliers may be requested by the investigating authority to provide information or provide assistance. Although suppliers do not have a legal duty to comply with requests for information or other assistance, failure to do so could result in debarment by virtue of the mandatory exclusion ground for failure to cooperate with an investigation.",
+      "ordinal": 36,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent",
+        "Debarment investigations and decisions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "p",
+      "text": "27. Contracting authorities may be required to provide information and assistance during an investigation of a supplier for potential debarment. As part of an investigation, contracting authorities may be asked to supply relevant information about suppliers they have contracts with or have had contracts with in the past, or where they otherwise hold information about suppliers. Unlike suppliers, contracting authorities are under a legal duty to comply with such requests, unless they are otherwise prevented from doing so by other legal duties (such as restrictions on information sharing).",
+      "ordinal": 37,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent",
+        "Debarment investigations and decisions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "p",
+      "text": "28. The questions that must be considered prior to making a debarment decision are whether an exclusion ground applies and whether the circumstances that gave rise to the exclusion ground are continuing or are likely to reoccur. The likelihood of recurrence constitutes the self-cleaning assessment. The factors that are relevant to self-cleaning include but are not limited to: evidence that the circumstances have been taken seriously, for example paying compensation, steps that have been taken to prevent the circumstances occurring again, for example changing staff and commitments that such steps will be taken (see the guidance on exclusions for further detail). Where a Minister of the Crown determines that both of these tests are met, the Minister is able to make a debarment decision. The Minister may decide not to put a supplier’s name on the debarment list for a variety of reasons, including, for example, where there is an overriding public interest in allowing the supplier to continue to bid for public contracts.",
+      "ordinal": 38,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent",
+        "Debarment investigations and decisions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "p",
+      "text": "29. Once an investigation has concluded, or where a Minister of the Crown has considered an investigation by the Welsh Ministers or a Northern Ireland department, the supplier will be provided with a copy of the investigation report, usually prior to publication and subject to certain exceptions (as set out below in paragraph 35). A Minister of the Crown is also under a duty to notify a supplier before entering its name on the debarment list.",
+      "ordinal": 39,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent",
+        "Debarment investigations and decisions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "p",
+      "text": "30. Debarment will either be on a discretionary or mandatory basis, based on the type of exclusion ground which applies. For some types of misconduct, there are both discretionary and mandatory exclusion grounds and which will apply will depend on the severity or nature of the misconduct. The exclusion grounds are listed in Schedules 6 and 7 of the Act and the rules on considering whether a supplier is ‘excluded’ or ‘excludable’, including self-cleaning and considerations of a supplier’s connected persons, associated persons and sub-contractors are described further in guidance on exclusions .",
+      "ordinal": 40,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent",
+        "Debarment investigations and decisions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "p",
+      "text": "31. A supplier will usually remain on the debarment list for up to 5 years from when the relevant event occurred (for mandatory exclusion grounds) or when the Minister knew, or a reasonably well-informed decision-maker in their position would have been aware of) [footnote 1] the event (for discretionary exclusion grounds).",
+      "ordinal": 41,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent",
+        "Debarment investigations and decisions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "p",
+      "text": "32. It may take time to reach the point of determining if a supplier should be added to the debarment list. Contracting authorities may wish to consider the implications of a supplier being added to the debarment list during a live procurement, particularly if the decision is taken towards the end of a competitive tendering procedure, and consider setting out in the tender documentation how it will progress to contract award in such circumstances.",
+      "ordinal": 42,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent",
+        "Debarment investigations and decisions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "p",
+      "text": "33. Although the Act states that in certain circumstances outside of those listed in Schedule 6 , a supplier must be treated as an excluded supplier, these are not grounds for debarment and, if any of these apply, the supplier must simply be excluded from that particular procurement. The circumstances are:",
+      "ordinal": 43,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent",
+        "Debarment investigations and decisions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "p",
+      "text": "a. where a supplier’s participation in preliminary market engagement has put the supplier at an unavoidable unfair advantage (see section 16 (Preliminary market engagement));",
+      "ordinal": 44,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent",
+        "Debarment investigations and decisions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "p",
+      "text": "b. where the supplier has acted improperly in the course of the procurement (note that acting improperly in other procurements is a discretionary exclusion ground under Schedule 7, paragraph 13 ) (see section 30 (Excluding suppliers for improper behaviour));",
+      "ordinal": 45,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent",
+        "Debarment investigations and decisions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "p",
+      "text": "c. where a supplier has failed to provide information about its connected or associated persons (see section 30 (Excluding suppliers for improper behaviour)); or",
+      "ordinal": 46,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent",
+        "Debarment investigations and decisions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "p",
+      "text": "d. where a conflict of interest has put a supplier at an unavoidable unfair advantage (see section 82 (Conflicts of interest: duty to mitigate)).",
+      "ordinal": 47,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent",
+        "Debarment investigations and decisions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "p",
+      "text": "34. Reports of investigations conducted by a Minister of the Crown, or of consideration of the findings made by the Welsh Ministers or a Northern Ireland department must be published. The report must state whether the Minister is satisfied the supplier is excluded or excludable and, if so:",
+      "ordinal": 48,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent",
+        "Debarment investigations and decisions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "p",
+      "text": "a. in relation to each relevant exclusion ground, whether this is mandatory or discretionary;",
+      "ordinal": 49,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent",
+        "Debarment investigations and decisions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00050",
+      "block_type": "p",
+      "text": "b. if the mandatory exclusion ground relating to national security threats for particular types of contracts applies, a description of the types of contracts;",
+      "ordinal": 50,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent",
+        "Debarment investigations and decisions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00051",
+      "block_type": "p",
+      "text": "c. the date on which the Minister expects the ground to cease to apply; and",
+      "ordinal": 51,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent",
+        "Debarment investigations and decisions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00052",
+      "block_type": "p",
+      "text": "d. whether the Minister intends to add the supplier’s name to the debarment list,",
+      "ordinal": 52,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent",
+        "Debarment investigations and decisions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00053",
+      "block_type": "p",
+      "text": "alongside the Minister’s reasons for each of these points.",
+      "ordinal": 53,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent",
+        "Debarment investigations and decisions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00054",
+      "block_type": "p",
+      "text": "35. The only exceptions to this publication requirement are where the Minister considers it necessary to redact, withhold publication or limit the disclosure of the report in order to safeguard national security or to prevent publication of commercially sensitive information where there is an overriding public interest in it being withheld from publication.",
+      "ordinal": 54,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent",
+        "Debarment investigations and decisions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00055",
+      "block_type": "p",
+      "text": "36. The Minister is under an obligation to keep the debarment list under review and must remove a supplier’s name from the list if they are satisfied that there are no longer an excluded or excludable supplier. This will be the case where, for example, the exclusion ground no longer applies to the supplier due to expiry of the relevant time period or where the supplier has provided sufficient self-cleaning evidence.",
+      "ordinal": 55,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent",
+        "Debarment investigations and decisions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00056",
+      "block_type": "heading",
+      "text": "Suppliers’ right to appeal",
+      "ordinal": 56,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent",
+        "Suppliers’ right to appeal"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00057",
+      "block_type": "p",
+      "text": "37. At any time, a supplier can apply to a Minister of the Crown for removal or revision of their entry on the debarment list. Such an application need only be considered where there has been a material change of circumstances or significant new information.",
+      "ordinal": 57,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent",
+        "Suppliers’ right to appeal"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00058",
+      "block_type": "p",
+      "text": "38. Suppliers will have eight working days (‘the debarment standstill period’) after notification of the decision to add them to the debarment list, to apply to the court for a temporary suspension of the decision. If the application is successful, the supplier’s name cannot be added to the list until either 30 days have passed since the supplier knew (or should have known) of the Minister’s decision and the supplier has not commenced appeal proceedings, or any appeal that has commenced has been resolved or disposed of (e.g. withdrawn).",
+      "ordinal": 58,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent",
+        "Suppliers’ right to appeal"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00059",
+      "block_type": "p",
+      "text": "39. Suppliers can only appeal a debarment decision in the courts on the grounds that, in making the decision, the Minister made a material mistake of law. A supplier must commence an appeal within 30 days, from knowing (or from when it should have known) of the Minister’s decision.",
+      "ordinal": 59,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent",
+        "Suppliers’ right to appeal"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00060",
+      "block_type": "p",
+      "text": "40. An appeal may only be brought in regard to the decision:",
+      "ordinal": 60,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent",
+        "Suppliers’ right to appeal"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00061",
+      "block_type": "p",
+      "text": "a. to enter the supplier’s name on the debarment list;",
+      "ordinal": 61,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent",
+        "Suppliers’ right to appeal"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00062",
+      "block_type": "p",
+      "text": "b. to indicate contracts of a particular description as part of an entry made in respect of the supplier on the basis of Schedule 6, paragraph 35 (National security);",
+      "ordinal": 62,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent",
+        "Suppliers’ right to appeal"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00063",
+      "block_type": "p",
+      "text": "c. to indicate a particular date as part of an entry in respect of the supplier under section 62 (debarment list) (4)(d) ; or",
+      "ordinal": 63,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent",
+        "Suppliers’ right to appeal"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00064",
+      "block_type": "p",
+      "text": "d. not to remove or revise an entry made in respect of the supplier following an application under section 64 (Debarment list: application for removal).",
+      "ordinal": 64,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent",
+        "Suppliers’ right to appeal"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00065",
+      "block_type": "p",
+      "text": "41. As set out in paragraph 9, if the Court is satisfied that the Minister made a material mistake of law, it can set aside the decision. If, as a result of that erroneous decision, the supplier was excluded from a procurement, the court may award compensation to the supplier for any costs incurred by the supplier’s participation in that procurement procedure.",
+      "ordinal": 65,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent",
+        "Suppliers’ right to appeal"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00066",
+      "block_type": "p",
+      "text": "42. Each debarment entry will stay on the debarment list until the time period stated in the entry expires. However, in the following circumstances the supplier may be removed earlier than the specified time period:",
+      "ordinal": 66,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent",
+        "Suppliers’ right to appeal"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00067",
+      "block_type": "p",
+      "text": "a. where a supplier successfully applies to have their name removed from the list;",
+      "ordinal": 67,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent",
+        "Suppliers’ right to appeal"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00068",
+      "block_type": "p",
+      "text": "b. where the Minister considers that there are no longer grounds for debarment (such as the exclusion ground no longer applies or where the supplier has demonstrated self-cleaning); or",
+      "ordinal": 68,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent",
+        "Suppliers’ right to appeal"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00069",
+      "block_type": "p",
+      "text": "c. where the court sets aside a debarment decision following a successful appeal by the supplier.",
+      "ordinal": 69,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent",
+        "Suppliers’ right to appeal"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00070",
+      "block_type": "heading",
+      "text": "The National Security Unit for Procurement",
+      "ordinal": 70,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent",
+        "The National Security Unit for Procurement"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00071",
+      "block_type": "p",
+      "text": "43. Ministers will be supported by NSUP (which will coordinate across the wider national security community) to determine whether a supplier poses a national security risk.",
+      "ordinal": 71,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent",
+        "The National Security Unit for Procurement"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00072",
+      "block_type": "p",
+      "text": "44. For suppliers to whom the mandatory national security ground applies (because they pose national security threats on contracts of a particular description), contracting authorities must not allow the supplier to participate in procurements for any contract of the type described. The supplier is still permitted to participate in procurements for other contracts, but only where the contracting authority is satisfied the supplier should not be excluded. This is because where the mandatory national security ground exclusion applies to a supplier, the test for the discretionary national security ground will also apply (i.e. the supplier is considered to be a threat to the national security of the UK) so contracting authorities should consider whether to exercise their discretion to exclude the supplier on this basis from other types of contracts.",
+      "ordinal": 72,
+      "heading_path": [
+        "What is debarment?",
+        "Key points and policy intent",
+        "The National Security Unit for Procurement"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00073",
+      "block_type": "heading",
+      "text": "What other guidance is of particular relevance to this topic area?",
+      "ordinal": 73,
+      "heading_path": [
+        "What is debarment?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00074",
+      "block_type": "p",
+      "text": "Guidance on exclusions",
+      "ordinal": 74,
+      "heading_path": [
+        "What is debarment?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00075",
+      "block_type": "p",
+      "text": "Guidance on contract performance notices",
+      "ordinal": 75,
+      "heading_path": [
+        "What is debarment?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00076",
+      "block_type": "p",
+      "text": "Guidance on contract terminations",
+      "ordinal": 76,
+      "heading_path": [
+        "What is debarment?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00077",
+      "block_type": "p",
+      "text": "© Crown copyright 2024",
+      "ordinal": 77,
+      "heading_path": [
+        "What is debarment?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00078",
+      "block_type": "p",
+      "text": "This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated. To view this licence, visit nationalarchives.gov.uk/doc/open-government-licence/version/3",
+      "ordinal": 78,
+      "heading_path": [
+        "What is debarment?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00079",
+      "block_type": "p",
+      "text": "Where we have identified any third party copyright information you will need to obtain permission from the copyright holders concerned.",
+      "ordinal": 79,
+      "heading_path": [
+        "What is debarment?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00080",
+      "block_type": "p",
+      "text": "This publication is available at www.gov.uk/government/publications",
+      "ordinal": 80,
+      "heading_path": [
+        "What is debarment?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00081",
+      "block_type": "p",
+      "text": "Any enquiries regarding this publication should be sent to us at procurement.reform@cabinetoffice.gov.uk .",
+      "ordinal": 81,
+      "heading_path": [
+        "What is debarment?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00082",
+      "block_type": "li",
+      "text": "In this guidance, for brevity, subsequent references to awareness include reference to matters the contracting authority ought to have been aware of but the legal test is whether a reasonably well-informed decision-maker in the contracting authority’s position would have been aware. ↩",
+      "ordinal": 82,
+      "heading_path": [
+        "What is debarment?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00083",
+      "block_type": "p",
+      "text": "In this guidance, for brevity, subsequent references to awareness include reference to matters the contracting authority ought to have been aware of but the legal test is whether a reasonably well-informed decision-maker in the contracting authority’s position would have been aware. ↩",
+      "ordinal": 83,
+      "heading_path": [
+        "What is debarment?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "Schedule 6",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/6",
+      "block_id": "b00002",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "7",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/7",
+      "block_id": "b00002",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement Act 2023 (Act)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/contents",
+      "block_id": "b00002",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 59",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/59",
+      "block_id": "b00004",
+      "ordinal": 3,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 60",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/60",
+      "block_id": "b00005",
+      "ordinal": 4,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 61",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/61",
+      "block_id": "b00006",
+      "ordinal": 5,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 60",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/60",
+      "block_id": "b00006",
+      "ordinal": 6,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 62",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/62",
+      "block_id": "b00007",
+      "ordinal": 7,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 60",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/60",
+      "block_id": "b00007",
+      "ordinal": 8,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 63",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/63",
+      "block_id": "b00008",
+      "ordinal": 9,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 62",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/62",
+      "block_id": "b00008",
+      "ordinal": 10,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 64",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/64",
+      "block_id": "b00009",
+      "ordinal": 11,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 65",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/65",
+      "block_id": "b00010",
+      "ordinal": 12,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 66",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/66",
+      "block_id": "b00011",
+      "ordinal": 13,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "exclusions",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-exclusions-html",
+      "block_id": "b00013",
+      "ordinal": 14,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "exclusions",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-exclusions-html",
+      "block_id": "b00021",
+      "ordinal": 15,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "exclusions",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-exclusions-html",
+      "block_id": "b00029",
+      "ordinal": 16,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 78",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/78",
+      "block_id": "b00030",
+      "ordinal": 17,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "contract termination",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-termination-html",
+      "block_id": "b00030",
+      "ordinal": 18,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "exclusions",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-exclusions-html",
+      "block_id": "b00031",
+      "ordinal": 19,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "gov.uk page",
+      "href": "https://www.gov.uk/guidance/debarment-review-service-drs#submit-a-referral-or-notification",
+      "block_id": "b00031",
+      "ordinal": 20,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "exclusions",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-exclusions-html",
+      "block_id": "b00038",
+      "ordinal": 21,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedules 6",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/6",
+      "block_id": "b00040",
+      "ordinal": 22,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "7",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/7",
+      "block_id": "b00040",
+      "ordinal": 23,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "exclusions",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-exclusions-html",
+      "block_id": "b00040",
+      "ordinal": 24,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "[footnote 1]",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-debarment-html#fn:1",
+      "block_id": "b00041",
+      "ordinal": 25,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Schedule 6",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/6",
+      "block_id": "b00043",
+      "ordinal": 26,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 16",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/16",
+      "block_id": "b00044",
+      "ordinal": 27,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 7, paragraph 13",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/7/paragraph/13",
+      "block_id": "b00045",
+      "ordinal": 28,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 30",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/30",
+      "block_id": "b00045",
+      "ordinal": 29,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 30",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/30",
+      "block_id": "b00046",
+      "ordinal": 30,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 82",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/82",
+      "block_id": "b00047",
+      "ordinal": 31,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 6, paragraph 35",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/6/paragraph/35",
+      "block_id": "b00062",
+      "ordinal": 32,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 62 (debarment list) (4)(d)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/62",
+      "block_id": "b00063",
+      "ordinal": 33,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 64",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/64",
+      "block_id": "b00064",
+      "ordinal": 34,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "exclusions",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-exclusions-html",
+      "block_id": "b00074",
+      "ordinal": 35,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "contract performance notices",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-performance-notices-html",
+      "block_id": "b00075",
+      "ordinal": 36,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "contract terminations",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-termination-html",
+      "block_id": "b00076",
+      "ordinal": 37,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "nationalarchives.gov.uk/doc/open-government-licence/version/3",
+      "href": "http://nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "block_id": "b00078",
+      "ordinal": 38,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "www.gov.uk/government/publications",
+      "href": "http://www.gov.uk/government/publications",
+      "block_id": "b00080",
+      "ordinal": 39,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "procurement.reform@cabinetoffice.gov.uk",
+      "href": "mailto:procurement.reform@cabinetoffice.gov.uk",
+      "block_id": "b00081",
+      "ordinal": 40,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-debarment-html#fnref:1",
+      "block_id": "b00082",
+      "ordinal": 41,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-debarment-html#fnref:1",
+      "block_id": "b00083",
+      "ordinal": 42,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Guidance: Debarment (HTML)",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-debarment-html",
+      "block_id": "__document__",
+      "ordinal": 43,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2022 to 2024 Sunak Conservative government",
+      "href": "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 44,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 45,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Procurement Act 2023 guidance documents - Procure phase",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase",
+      "block_id": "__document__",
+      "ordinal": 46,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 47,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 6",
+      "block_id": "b00002",
+      "start": 308,
+      "end": 318,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "6"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 59",
+      "block_id": "b00004",
+      "start": 3,
+      "end": 13,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "59"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 60",
+      "block_id": "b00005",
+      "start": 3,
+      "end": 13,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "60"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 61",
+      "block_id": "b00006",
+      "start": 3,
+      "end": 13,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "61"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 60",
+      "block_id": "b00006",
+      "start": 36,
+      "end": 46,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "60"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 62",
+      "block_id": "b00007",
+      "start": 3,
+      "end": 13,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "62"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 60",
+      "block_id": "b00007",
+      "start": 438,
+      "end": 448,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "60"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 63",
+      "block_id": "b00008",
+      "start": 3,
+      "end": 13,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "63"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 62",
+      "block_id": "b00008",
+      "start": 227,
+      "end": 237,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "62"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 64",
+      "block_id": "b00009",
+      "start": 3,
+      "end": 13,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "64"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 65",
+      "block_id": "b00010",
+      "start": 3,
+      "end": 13,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "65"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 66",
+      "block_id": "b00011",
+      "start": 4,
+      "end": 14,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "66"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 78",
+      "block_id": "b00030",
+      "start": 50,
+      "end": 60,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "78"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 35",
+      "block_id": "b00039",
+      "start": 318,
+      "end": 330,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "35"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 6",
+      "block_id": "b00043",
+      "start": 85,
+      "end": 95,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "6"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 16",
+      "block_id": "b00044",
+      "start": 130,
+      "end": 140,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "16"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 30",
+      "block_id": "b00045",
+      "start": 201,
+      "end": 211,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "30"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 7, paragraph 13",
+      "block_id": "b00045",
+      "start": 169,
+      "end": 193,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "7",
+        "paragraph": "13"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 13",
+      "block_id": "b00045",
+      "start": 181,
+      "end": 193,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "13"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 30",
+      "block_id": "b00046",
+      "start": 101,
+      "end": 111,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "30"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 82",
+      "block_id": "b00047",
+      "start": 91,
+      "end": 101,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "82"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 6, paragraph 35",
+      "block_id": "b00062",
+      "start": 121,
+      "end": 145,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "6",
+        "paragraph": "35"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 35",
+      "block_id": "b00062",
+      "start": 133,
+      "end": 145,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "35"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 62",
+      "block_id": "b00063",
+      "start": 86,
+      "end": 96,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "62"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 64",
+      "block_id": "b00064",
+      "start": 99,
+      "end": 109,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "64"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 9",
+      "block_id": "b00065",
+      "start": 18,
+      "end": 29,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "9"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

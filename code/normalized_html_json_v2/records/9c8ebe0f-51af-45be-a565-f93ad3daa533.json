@@ -1,0 +1,1014 @@
+{
+  "document_id": "9c8ebe0f-51af-45be-a565-f93ad3daa533",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/c236a700d17300e2eb017b8f.json",
+  "input_sha256": "8a0ce5985a8e371d61ea1e91633df33fd011e06430b29d6e36c58ac22de795d3",
+  "processed_at": "2026-08-27T02:26:40.481869+00:00",
+  "title": "PPN 0821 FAQs",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-policy-note-0821/ppn-0821-faqs",
+  "description": null,
+  "publication_date": "2021-10-21T14:00:07+01:00",
+  "updated_date": "2024-04-01T09:00:00+01:00",
+  "source_metadata": {
+    "content_id": "9c8ebe0f-51af-45be-a565-f93ad3daa533",
+    "base_path": "/government/publications/procurement-policy-note-0821/ppn-0821-faqs",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "1. Groups of Bidders",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "2. New Entrants",
+      "ordinal": 3,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "3. Construction Projects",
+      "ordinal": 6,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "4. Framework Agreements",
+      "ordinal": 9,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "5. Supply Chains",
+      "ordinal": 18,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "6. Statutory Reporting Requirement - ‘Duty to Report’",
+      "ordinal": 27,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "7. Invoices",
+      "ordinal": 42,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "8. Action Plans and the Prompt Payment Code",
+      "ordinal": 49,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "1. Groups of Bidders",
+      "ordinal": 0,
+      "heading_path": [
+        "1. Groups of Bidders"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "Q1. How does this criterion apply to consortia bids?",
+      "ordinal": 1,
+      "heading_path": [
+        "1. Groups of Bidders"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "A. All members of a consortium are required to provide the information required. See standard SQ guidance in PPN 08/16 for further guidance on groups of bidders.",
+      "ordinal": 2,
+      "heading_path": [
+        "1. Groups of Bidders"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "heading",
+      "text": "2. New Entrants",
+      "ordinal": 3,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "2. New Entrants"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "Q2. How do you assess a bidder’s payment history if they are new to the market or are a special purpose vehicle (SPV) or joint venture (JV) set up for the purpose of delivering the contract?",
+      "ordinal": 4,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "2. New Entrants"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "A. Any bidders (e.g. new entrants, SPVs or JVs) who do not have a payment history record (as required by question 5) should not be disadvantaged in the procurement and are able to explain their circumstances in their responses. New entrants to the market will still be expected to demonstrate that they meet or (in the case of a bidder that has not yet traded), will meet the requirements of questions 2, 3, 4 (if relevant). For a JV, formed of a group of independent organisations, all members of the JV should each respond to the questions (see question 1).",
+      "ordinal": 5,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "2. New Entrants"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "heading",
+      "text": "3. Construction Projects",
+      "ordinal": 6,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "3. Construction Projects"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "Q3. How does this work with PAS91? These payment questions aren’t included.",
+      "ordinal": 7,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "3. Construction Projects"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "A. Where relevant, contracting authorities may consider using the PAS91 PQQ for works contracts (including the procurement of goods and services needed in relation to the works).",
+      "ordinal": 8,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "3. Construction Projects"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "heading",
+      "text": "4. Framework Agreements",
+      "ordinal": 9,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "4. Framework Agreements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "p",
+      "text": "Q4. Does this criterion apply to Framework Agreements and Dynamic Purchasing Systems (DPS)?",
+      "ordinal": 10,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "4. Framework Agreements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "A. Yes. It applies in relation to framework agreements and DPS but only where it is anticipated that the value of contracts awarded under the framework agreement or DPS will be in excess of £5m per annum (excluding VAT). Verification should take place both prior to entering into the framework agreement/DPS and prior to entering into any contract awarded under the framework agreement/DPS. We recommend terms are included in the framework agreement allowing for this.",
+      "ordinal": 11,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "4. Framework Agreements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "Q5. What if a framework or DPS is established before 1 April 2022, but contracts awarded under the framework/DPS take place after 1 April 2022 - which threshold applies?",
+      "ordinal": 12,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "4. Framework Agreements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "A.The payment questions and relevant threshold are applied at selection stage. If the framework / DPS is advertised before 1 April 2022, then the threshold set out in PPN 07/20 would apply throughout the period of the framework/DPS – regardless of whether contracts awarded under that framework/DPS occur after 1 April 2022. The threshold set out in PPN 08/21 applies to framework agreements and DPS established on or after 1 April 2022.",
+      "ordinal": 13,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "4. Framework Agreements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "Q6. Suppliers can be admitted, and therefore be required to complete selection questionnaires, throughout the lifetime of a DPS. If the DPS covers a period commencing before 1 April 2022 and continues after 1 April 2022, this means that the threshold change during the lifetime of the DPS. Should we change the threshold for suppliers applying to be admitted to that DPS?",
+      "ordinal": 14,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "4. Framework Agreements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "A. No. The same threshold must be applied consistently throughout the duration of the DPS. If the DPS is advertised before 1 April 2022 PPN 07/20 applies throughout the period of the DPS, including to suppliers applying to join the DPS after 1 April 2022.",
+      "ordinal": 15,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "4. Framework Agreements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "Q7. What about an extension to the term of the framework, can these questions be added?",
+      "ordinal": 16,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "4. Framework Agreements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "A. No. You cannot assess payment performance in the event of an extension to the term of the framework. Payment performance can only be assessed at the beginning of the procurement process, in the same way as for any other SQ.",
+      "ordinal": 17,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "4. Framework Agreements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "heading",
+      "text": "5. Supply Chains",
+      "ordinal": 18,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "5. Supply Chains"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "Q8. What happens if a bidder at the point of bidding does not have a supply chain / use sub-contractors, but does at a later stage?",
+      "ordinal": 19,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "5. Supply Chains"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "p",
+      "text": "A. If this occurs after the procurement has concluded, then this is not relevant as the contract will have already been awarded, although contract managers will still be expected to monitor compliance with PCR 2015, regulation 113. If this occurs before the contract is awarded (and is permissible in the particular circumstances), the bidder should be asked to provide a response to the questions (to the extent that it can, given that it may not have a history of payments to a supply chain / sub-contractors (see question 2)).",
+      "ordinal": 20,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "5. Supply Chains"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "Q9. How does this fit with a supply chain finance (or similar) scheme?",
+      "ordinal": 21,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "5. Supply Chains"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "p",
+      "text": "A. Bidders must demonstrate that they meet the payment terms set out in question 4 and the standard set out in question 5. If a subcontractor to the bidder chooses to enter into a supply chain finance agreement in order to be paid earlier than the payment terms set out in question 4 or the standard set out in question 5, then that would be acceptable and a matter for the subcontractor. However, suppliers should not be required to do so in order for the payment terms or period for payment to meet the required standard. This is consistent with the reporting requirements under the Small Business, Enterprise and Employment Act 2015 (“SBEE”) and the Limited Liability Partnerships Act 2000 (“LLPA”) and further guidance can be found here: https://www.gov.uk/government/publications/business-payment-practices-and-performance-reporting-requirements",
+      "ordinal": 22,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "5. Supply Chains"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "Q10. What about contracts let under the Utilities Contracts Regulations 2016 or the Defence and Security Public Contracts Regulations 2011? Does that mean that I can’t ask these questions?",
+      "ordinal": 23,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "5. Supply Chains"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "A. These questions were developed with the scope of the PCRs. However, you may determine that these questions are applicable to procurements you are running using different regulations. This is your commercial decision.",
+      "ordinal": 24,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "5. Supply Chains"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "p",
+      "text": "Q11. If an SME bids, do they have to respond?",
+      "ordinal": 25,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "5. Supply Chains"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "p",
+      "text": "A. Yes, these questions are applicable to any supplier regardless of size who bids for a Government contract in excess of £5m per annum from 1 September 2019. Smaller suppliers may not have published data available via the BEIS reporting requirements, however if they are using a supply chain to deliver the contract they are still expected to respond to the questions and to meet the required standard.",
+      "ordinal": 26,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "5. Supply Chains"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "heading",
+      "text": "6. Statutory Reporting Requirement - ‘Duty to Report’",
+      "ordinal": 27,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "6. Statutory Reporting Requirement - ‘Duty to Report’"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "Q12. What if a bidder has filed responses in accordance with the Reporting on Payment Practices and Performance Regulations 2017 - can this data be used?",
+      "ordinal": 28,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "6. Statutory Reporting Requirement - ‘Duty to Report’"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "p",
+      "text": "A. Yes, provided it reflects the last two six month periods. The data will still need to be verified as described in the guidance. Similarly, if bidders have filed/published data as part of any other requirement, code, etc., this can be used provided it reflects the last two six month periods.",
+      "ordinal": 29,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "6. Statutory Reporting Requirement - ‘Duty to Report’"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "p",
+      "text": "Q13. What if the bidder is about to submit another 6 monthly payment report shortly after the deadline for submitting the tender which would meet the 95% in 60 days standard?",
+      "ordinal": 30,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "6. Statutory Reporting Requirement - ‘Duty to Report’"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "p",
+      "text": "A. Where interim (unreported data) is available for the most recent 3 months or more, this can also be accepted. For example, if a bidder’s last report was submitted in July for the period covering January to June and it is bidding for a contract in October, it would be able to submit the previous 3 months worth of unreported data (i.e. July, August, September) and this would count as a ‘reporting period’ (see paragraph 8 of the Guidance). Payment performance would need to be calculated in the same way as for a 6 monthly payment report.",
+      "ordinal": 31,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "6. Statutory Reporting Requirement - ‘Duty to Report’"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "p",
+      "text": "Q14. If a bidder who is not in scope of publishing payment data under the Reporting on Payment Practices and Performance Regulations 2017 submits a response to the tender in January 2020 (for example) are they expected to provide data covering the 12 month period from January 2019 to December 2019.",
+      "ordinal": 32,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "6. Statutory Reporting Requirement - ‘Duty to Report’"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "p",
+      "text": "A. This depends. Bidders who are not required to publish data in accordance with the regulations should still submit their data in two (six month) periods in line with the BEIS Guidance to Reporting Payment Practices and Performance - Guidance to reporting on payment practices and performance (pdf, 520 KB) . So if a financial year started on the 5th of a month, the last day of that reporting period would be the 4th of the month, six months later. The second reporting period starts on the day after the first period ends, and runs until the end of the financial year. Example: if a business’ financial year starts on the 1 January, their first reporting period would begin on 1 January, and end on 30 June. Their second reporting period would start on 1 July and end on 31 December. In these circumstances, when submitting a bid in January 2020, the bidder would submit data for the period 1 January 2019 to 31 December 2019. However, if their financial year commences, say, on 1 April, then they should submit data for the periods 1 October 2018 - 31 March 2019 (being the second 6 monthly reporting period for the year commencing 1 April 2018) and 1 April 2019 to 30 September 2019. As for bidders who are required to publish their data in accordance with the regulations, the same principle as set out in question 11 applies and bidders could also chose to submit data for the period October 2019 to December 2019 and this would count as a reporting period (because it covers a period of 3 months or more since the last 6 monthly reporting period (see paragraph 8 of the Guidance).",
+      "ordinal": 33,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "6. Statutory Reporting Requirement - ‘Duty to Report’"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "p",
+      "text": "Q15. What if its parent company or another company within its group has filed responses - can this data be used?",
+      "ordinal": 34,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "6. Statutory Reporting Requirement - ‘Duty to Report’"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "p",
+      "text": "A. Responses are required from the legal entity tendering for the contract in question. If it has already filed data, then (subject to the answer to question 10) this may be used in the response. However, if the entity that has filed data is not the same entity tendering for the contract, then the filed data will not be relevant and the bidder must respond to the questions.",
+      "ordinal": 35,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "6. Statutory Reporting Requirement - ‘Duty to Report’"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "p",
+      "text": "Q16. What if the bidder’s response to question 5 does not match the payment data publicly available online?",
+      "ordinal": 36,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "6. Statutory Reporting Requirement - ‘Duty to Report’"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "p",
+      "text": "A. In the event that the response to question 5 does not appear consistent with payment data that is publicly available, the contracting authority should clarify this with the bidder.",
+      "ordinal": 37,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "6. Statutory Reporting Requirement - ‘Duty to Report’"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "p",
+      "text": "Q17. If the bidder removes intercompany payments from the total headline figure, won’t that mean this figure won’t match their reported data under the RPPP Regulations 2017?",
+      "ordinal": 38,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "6. Statutory Reporting Requirement - ‘Duty to Report’"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "p",
+      "text": "A. Yes. The published data includes intercompany payments. Organisations are encouraged, when filing their 6 monthly reports under the RPPP Regulations 2017, to set out in the free text box what their payment performance would be if they removed intercompany payments from their calculations. If they do so, the reported data will then be completely transparent and consistent with the information they have submitted in bidding.",
+      "ordinal": 39,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "6. Statutory Reporting Requirement - ‘Duty to Report’"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "p",
+      "text": "Q18. When does the supplier start counting day 1 when calculating the number of days in which it pays invoices? When does the clock start? (taken from BEIS guidance on reporting)",
+      "ordinal": 40,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "6. Statutory Reporting Requirement - ‘Duty to Report’"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "p",
+      "text": "A. Day 1 is the day after the date on which the bidder receives an invoice or has notice, by other means, of the amount to pay (see response to question 20), and the period ends when the supplier receives the payment.",
+      "ordinal": 41,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "6. Statutory Reporting Requirement - ‘Duty to Report’"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "heading",
+      "text": "7. Invoices",
+      "ordinal": 42,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "7. Invoices"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "p",
+      "text": "Q19. When reporting on percentage of invoices – does this include disputed invoices or is this undisputed invoices only?",
+      "ordinal": 43,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "7. Invoices"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "p",
+      "text": "A. This includes all invoices. This approach is consistent with the RPPP Regulations 2017 whereby businesses include disputed invoices which fall due in the reporting period and are not paid.",
+      "ordinal": 44,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "7. Invoices"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "p",
+      "text": "Q20. What if there is no invoice presented for payment? Should situations where payment is due but there is no invoice be counted?",
+      "ordinal": 45,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "7. Invoices"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "p",
+      "text": "A. Yes. If there is no invoice, then the date when payment would otherwise become due is the relevant date. This could arise, for example, where payment is triggered by the receipt of a timesheet setting out work carried out under an on-going contract for services. These should still be included as part of the response, with the first day after receipt of the timesheet being equivalent to the first day after receipt of an invoice. This is consistent with the reporting requirements under the SBEE or the LLPA and further guidance can be found here: https://www.gov.uk/government/publications/business-payment-practices-and-performance-reporting-requirements",
+      "ordinal": 46,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "7. Invoices"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "p",
+      "text": "Q21. Is it percentage by value or volume of invoices in response to question 5?",
+      "ordinal": 47,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "7. Invoices"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "p",
+      "text": "A. By volume. This is consistent with the requirement to publish under the RPPP Regulations 2017.",
+      "ordinal": 48,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "7. Invoices"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "heading",
+      "text": "8. Action Plans and the Prompt Payment Code",
+      "ordinal": 49,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "8. Action Plans and the Prompt Payment Code"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00050",
+      "block_type": "p",
+      "text": "Q22. If a bidder has already completed an action plan for the Small Business Commissioner (SBC) because they are not meeting the code’s core standard of 95% in 60 days – can the same one be submitted?",
+      "ordinal": 50,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "8. Action Plans and the Prompt Payment Code"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00051",
+      "block_type": "p",
+      "text": "A. If a bidder has an action plan already developed and shared with SBC they can provide this one so long as it meets all the 5 criteria set out in the guidance.",
+      "ordinal": 51,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "8. Action Plans and the Prompt Payment Code"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00052",
+      "block_type": "p",
+      "text": "Q23. If a bidder does not complete some of the 5 key criteria within the action plan, will they still pass?",
+      "ordinal": 52,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "8. Action Plans and the Prompt Payment Code"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00053",
+      "block_type": "p",
+      "text": "A. No. The bidder must submit a plan which meets all 5 criteria in order to pass.",
+      "ordinal": 53,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "8. Action Plans and the Prompt Payment Code"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00054",
+      "block_type": "p",
+      "text": "Q24. A bidder is expected to explain why it is not paying all their invoices within agreed terms in order to pass. If they need to submit an action plan, do they also need to set out what steps they are taking to rectify this situation?",
+      "ordinal": 54,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "8. Action Plans and the Prompt Payment Code"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00055",
+      "block_type": "p",
+      "text": "A. Yes. See para 10 of guidance. If you are required to submit an action plan because you are not meeting 95% in 60 days – then this plan must also include what actions you are taking to improve payment of your suppliers in the event you are not paying all invoices within the agreed terms.",
+      "ordinal": 55,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "8. Action Plans and the Prompt Payment Code"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00056",
+      "block_type": "p",
+      "text": "Q25. If a bidder is listed as suspended / removed on the Prompt Payment Code – does this mean they are excluded from the bid?",
+      "ordinal": 56,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "8. Action Plans and the Prompt Payment Code"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00057",
+      "block_type": "p",
+      "text": "A. No. Whilst suspension from the PPC is an indication that the supplier’s performance has fallen below the required standard, this should not be used as a simple pass/fail. Bids must (unless otherwise excluded) all be assessed against the selection questions. This includes, where the bidder does not meet the 95% threshold but does meet the 90% threshold, taking into account an explanation as to why bidders are not meeting the required standard and their proposed action plan.",
+      "ordinal": 57,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "8. Action Plans and the Prompt Payment Code"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00058",
+      "block_type": "p",
+      "text": "Q26. What about multinational deals – are these exempt from the measure? These are long standing deals with other large firms where both parties are mutually content with the terms set.",
+      "ordinal": 58,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "8. Action Plans and the Prompt Payment Code"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00059",
+      "block_type": "p",
+      "text": "A. No, these are not exempt from the measure. Even in situations where the two immediate parties might be comfortable with longstanding terms beyond 60 days, we cannot guarantee that the supply chain at some point is not impacted. Bidders have the opportunity to provide an explanation and to propose remedial action if the circumstances in question 24 apply.",
+      "ordinal": 59,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "8. Action Plans and the Prompt Payment Code"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00060",
+      "block_type": "p",
+      "text": "Q27. What is the definition of supply chain for the purposes of this measure?",
+      "ordinal": 60,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "8. Action Plans and the Prompt Payment Code"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00061",
+      "block_type": "p",
+      "text": "A. References to supply chain means suppliers or sub-contractors of any tier that execute any works, supply any products or provide any services that are used wholly or substantially for the purpose of performing (or contributing to the performance of) the whole or any part of the contract.",
+      "ordinal": 61,
+      "heading_path": [
+        "1. Groups of Bidders",
+        "8. Action Plans and the Prompt Payment Code"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "https://www.gov.uk/government/publications/business-payment-practices-and-performance-reporting-requirements",
+      "href": "https://www.gov.uk/government/publications/business-payment-practices-and-performance-reporting-requirements",
+      "block_id": "b00022",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Guidance to reporting on payment practices and performance (pdf, 520 KB)",
+      "href": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/649941/payment-practices-performance-reporting-requirements-oct-2017.pdf",
+      "block_id": "b00033",
+      "ordinal": 1,
+      "link_type": "ATTACHMENT"
+    },
+    {
+      "text": "https://www.gov.uk/government/publications/business-payment-practices-and-performance-reporting-requirements",
+      "href": "https://www.gov.uk/government/publications/business-payment-practices-and-performance-reporting-requirements",
+      "block_id": "b00046",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "PPN 0821 FAQs",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0821/ppn-0821-faqs",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2019 to 2022 Johnson Conservative government",
+      "href": "https://www.gov.uk/government/2019-to-2022-johnson-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Procurement Policy Note 08/21 - Taking account of a bidder's approach to payment in the procurement of major government contracts",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0821",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 7,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 113",
+      "block_id": "b00020",
+      "start": 216,
+      "end": 230,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "113"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2016",
+      "block_id": "b00023",
+      "start": 60,
+      "end": 76,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2016"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2011",
+      "block_id": "b00023",
+      "start": 122,
+      "end": 138,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2011"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2017",
+      "block_id": "b00028",
+      "start": 112,
+      "end": 128,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2017"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 8",
+      "block_id": "b00031",
+      "start": 414,
+      "end": 425,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "8"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2017",
+      "block_id": "b00032",
+      "start": 121,
+      "end": 137,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2017"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 8",
+      "block_id": "b00033",
+      "start": 1559,
+      "end": 1570,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "8"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2017",
+      "block_id": "b00038",
+      "start": 156,
+      "end": 172,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2017"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2017",
+      "block_id": "b00039",
+      "start": 140,
+      "end": 156,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2017"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2017",
+      "block_id": "b00044",
+      "start": 73,
+      "end": 89,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2017"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2017",
+      "block_id": "b00048",
+      "start": 80,
+      "end": 96,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2017"
+      }
+    }
+  ],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/649941/payment-practices-performance-reporting-requirements-oct-2017.pdf",
+      "title": "Guidance to reporting on payment practices and performance (pdf, 520 KB)",
+      "discovered_in_block": "b00033"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,2387 @@
+{
+  "document_id": "53fedf36-273f-4895-9c6a-12b8b2d855a3",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/3fb9663fbadbd0b081c5e359.json",
+  "input_sha256": "19f4dea84874a4c2522eeb483ba7f3ff6915b7d348e565ba81a6c550c1dbb9c7",
+  "processed_at": "2026-08-27T02:26:12.673092+00:00",
+  "title": "Guidance - Contract Payment Information (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-payment-information-html",
+  "description": null,
+  "publication_date": "2026-02-04T11:33:23+00:00",
+  "updated_date": "2026-07-20T15:07:48+01:00",
+  "source_metadata": {
+    "content_id": "53fedf36-273f-4895-9c6a-12b8b2d855a3",
+    "base_path": "/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-payment-information-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What is contract payment information?",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What is the legal framework that governs contract payment information?",
+      "ordinal": 3,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What has changed?",
+      "ordinal": 25,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Key points and policy intent",
+      "ordinal": 30,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Valuing contracts",
+      "ordinal": 41,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Valuing payments",
+      "ordinal": 44,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Method of publication",
+      "ordinal": 49,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Information required to be uploaded for each payment",
+      "ordinal": 54,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Other information",
+      "ordinal": 61,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Withholding information",
+      "ordinal": 64,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Redacting supplier information",
+      "ordinal": 67,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What notices are linked to this aspect of the Act?",
+      "ordinal": 73,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "What is contract payment information?",
+      "ordinal": 0,
+      "heading_path": [
+        "What is contract payment information?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "1. Contract payment information is information that contracting authorities are required to publish in accordance with section 70 of the Procurement Act 2023 (the Act). It will be published on the central digital platform and link payments made by contracting authorities to the specific public contract under which the cost was incurred.",
+      "ordinal": 1,
+      "heading_path": [
+        "What is contract payment information?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "2. The published contract payment information will improve transparency, allowing contracting authorities and the public to gain a comprehensive understanding of public sector procurement spending in respect of individual contracts and suppliers. By aligning procurement and financial data, it will be easier for contracting authorities to spot inconsistencies, prevent errors, provide accurate reconciliation and respond to enquiries.",
+      "ordinal": 2,
+      "heading_path": [
+        "What is contract payment information?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "heading",
+      "text": "What is the legal framework that governs contract payment information?",
+      "ordinal": 3,
+      "heading_path": [
+        "What is contract payment information?",
+        "What is the legal framework that governs contract payment information?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "3. Section 70 of the Act sets out the obligations to publish information about payments under public contracts. It provides that a contracting authority must publish specified information about payments of more than £30,000 (including VAT) made by the authority under public contracts [footnote 1] . The information is to be published quarterly. This requirement applies to public contracts procured under the Act [footnote 2] in accordance with a procurement procedure that commenced on or after 1 April 2026 [footnote 3] (when section 70 was brought into force).",
+      "ordinal": 4,
+      "heading_path": [
+        "What is contract payment information?",
+        "What is the legal framework that governs contract payment information?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "4. In accordance with section 70(4) , the publication obligation does not extend to a public contract that is:",
+      "ordinal": 5,
+      "heading_path": [
+        "What is contract payment information?",
+        "What is the legal framework that governs contract payment information?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "p",
+      "text": "a. a utilities contract awarded by a private utility,",
+      "ordinal": 6,
+      "heading_path": [
+        "What is contract payment information?",
+        "What is the legal framework that governs contract payment information?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "b. a concession contract,",
+      "ordinal": 7,
+      "heading_path": [
+        "What is contract payment information?",
+        "What is the legal framework that governs contract payment information?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "c. awarded by a school,",
+      "ordinal": 8,
+      "heading_path": [
+        "What is contract payment information?",
+        "What is the legal framework that governs contract payment information?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "d. awarded by a transferred Northern Ireland authority, unless it is awarded as part of a procurement under a reserved procurement arrangement or devolved Welsh procurement arrangement, or",
+      "ordinal": 9,
+      "heading_path": [
+        "What is contract payment information?",
+        "What is the legal framework that governs contract payment information?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "p",
+      "text": "e. awarded as part of a procurement under a transferred Northern Ireland procurement arrangement.",
+      "ordinal": 10,
+      "heading_path": [
+        "What is contract payment information?",
+        "What is the legal framework that governs contract payment information?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "5. Additionally, section 70 does not apply to the establishment of framework agreements (under which no payments are made) nor dynamic markets (which are not public contracts).",
+      "ordinal": 11,
+      "heading_path": [
+        "What is contract payment information?",
+        "What is the legal framework that governs contract payment information?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "6. However, section 70 does apply in respect of payments made under call-off contracts awarded in accordance with a framework or contracts awarded by reference to a dynamic market, where these contracts:",
+      "ordinal": 12,
+      "heading_path": [
+        "What is contract payment information?",
+        "What is the legal framework that governs contract payment information?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "a. are public contracts,",
+      "ordinal": 13,
+      "heading_path": [
+        "What is contract payment information?",
+        "What is the legal framework that governs contract payment information?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "b. are awarded in accordance with a framework or by reference to a dynamic market established under the Procurement Act 2023, and",
+      "ordinal": 14,
+      "heading_path": [
+        "What is contract payment information?",
+        "What is the legal framework that governs contract payment information?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "7. the procurement in respect of those contracts commenced on or after 1 April 2026.”",
+      "ordinal": 15,
+      "heading_path": [
+        "What is contract payment information?",
+        "What is the legal framework that governs contract payment information?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "8. By virtue of the definition of public contract, the requirement to publish contract payment information also does not apply to below-threshold contracts or exempted contracts.",
+      "ordinal": 16,
+      "heading_path": [
+        "What is contract payment information?",
+        "What is the legal framework that governs contract payment information?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "9. The Procurement Regulations 2024 (PR 2024) sets out the specific publication requirements. Regulation 38A [footnote 4] details the information that must be published, which is:",
+      "ordinal": 17,
+      "heading_path": [
+        "What is contract payment information?",
+        "What is the legal framework that governs contract payment information?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "p",
+      "text": "a. the name of, the contact postal and email address for, and the unique identifier for the contracting authority which made the payment, and, if a different authority, of the authority which published the contract details notice under section 53 of the Act;",
+      "ordinal": 18,
+      "heading_path": [
+        "What is contract payment information?",
+        "What is the legal framework that governs contract payment information?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "b. the unique identifier for the procurement;",
+      "ordinal": 19,
+      "heading_path": [
+        "What is contract payment information?",
+        "What is the legal framework that governs contract payment information?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "p",
+      "text": "c. the unique identifier for the contract (to which the payment relates);",
+      "ordinal": 20,
+      "heading_path": [
+        "What is contract payment information?",
+        "What is the legal framework that governs contract payment information?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "d. the name and unique identifier in respect of the supplier to whom the relevant payment was made;",
+      "ordinal": 21,
+      "heading_path": [
+        "What is contract payment information?",
+        "What is the legal framework that governs contract payment information?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "p",
+      "text": "e. the value of the payment net of VAT;",
+      "ordinal": 22,
+      "heading_path": [
+        "What is contract payment information?",
+        "What is the legal framework that governs contract payment information?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "f. the date that the payment was made.",
+      "ordinal": 23,
+      "heading_path": [
+        "What is contract payment information?",
+        "What is the legal framework that governs contract payment information?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "10. Regulation 38A also provides that the unique identifiers for the contract and procurement are not required where no notice relating to the contract has previously been published on the central digital platform and a unique identifier is not available.",
+      "ordinal": 24,
+      "heading_path": [
+        "What is contract payment information?",
+        "What is the legal framework that governs contract payment information?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "heading",
+      "text": "What has changed?",
+      "ordinal": 25,
+      "heading_path": [
+        "What is contract payment information?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "p",
+      "text": "11. This is a new requirement. The implementation of section 70 of the Act will now require the publication of contract payment information. This will improve transparency in public procurement, linking payments to their respective contracts. Unlike complying with other transparency requirements, when providing the payment information required by regulation 38A , contracting authorities will be able to upload all relevant payments made in each quarter in bulk, rather than providing the information for each payment separately (see paragraph 20).",
+      "ordinal": 26,
+      "heading_path": [
+        "What is contract payment information?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "p",
+      "text": "12. Individual payments will be linked to the corresponding contract (which has previously been published on the central digital platform) by way of certain, specified identifiers (further information set out below).",
+      "ordinal": 27,
+      "heading_path": [
+        "What is contract payment information?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "13. This requirement is separate to payments compliance notices which are used to demonstrate compliance with prompt payment obligations under the Act.",
+      "ordinal": 28,
+      "heading_path": [
+        "What is contract payment information?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "p",
+      "text": "14. The requirement to provide information about payments made under public contracts does not replace any existing policy or legislative requirements relating to expenditure publication, including the Central Government guidance for publishing spend over £25,000 or the Local Government Transparency Code 2015 . Organisations should continue to publish wider expenditure data in line with these requirements where applicable.",
+      "ordinal": 29,
+      "heading_path": [
+        "What is contract payment information?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "heading",
+      "text": "Key points and policy intent",
+      "ordinal": 30,
+      "heading_path": [
+        "What is contract payment information?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "p",
+      "text": "15. Contracting authorities must publish information about payments over £30,000 (including VAT) made under public contracts where that contract was procured under the Act in accordance with a procurement procedure that commenced on or after 1 April 2026. The information must be published on the central digital platform within 30 calendar days of the end of each quarter (with the 30-day period beginning with the last day of the quarter).",
+      "ordinal": 31,
+      "heading_path": [
+        "What is contract payment information?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "p",
+      "text": "16. Section 70(5) defines the quarterly reporting periods as a period of three months ending with 31 March, 30 June, 30 September or 31 December in any year. As section 70 is being commenced from 1 April 2026, the first payment information publication will therefore be due by 29 July 2026, for the period 1 April 2026 to 30 June 2026 [footnote 5] , and quarterly thereafter.",
+      "ordinal": 32,
+      "heading_path": [
+        "What is contract payment information?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "p",
+      "text": "17. Contracting authorities do not need to publish payment information in respect of payments made under public contracts that were procured under the previous procurement regime [footnote 6] or in accordance with a procurement procedure under the Act that was commenced prior to the commencement of section 70 , which is 1 April 2026 (even if the procurement procedure commenced prior to 1 April 2026 but the contract is not awarded until after 1 April 2026). Of course, contracting authorities may voluntarily publish information in respect of such contracts, provided that the minimum level of information set out below is available and included for each payment.",
+      "ordinal": 33,
+      "heading_path": [
+        "What is contract payment information?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "p",
+      "text": "18. For the purposes of section 70 , a procurement is commenced before 1 April 2026 if before that date:",
+      "ordinal": 34,
+      "heading_path": [
+        "What is contract payment information?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "p",
+      "text": "a. a tender notice has been published in accordance with section 21(1) of the Act;",
+      "ordinal": 35,
+      "heading_path": [
+        "What is contract payment information?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "p",
+      "text": "b. a transparency notice has been published in accordance with section 44(1) of the Act;",
+      "ordinal": 36,
+      "heading_path": [
+        "What is contract payment information?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "p",
+      "text": "i. in respect of a contract to be awarded in accordance with a framework to which neither sub-paragraph (a) nor (b) applies, a contracting authority has contacted a supplier in order to commence the award of that contract;",
+      "ordinal": 37,
+      "heading_path": [
+        "What is contract payment information?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "p",
+      "text": "c. a below-threshold tender notice has been published in accordance with section 87(1) of the Act;",
+      "ordinal": 38,
+      "heading_path": [
+        "What is contract payment information?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "p",
+      "text": "d. a contracting authority has invited the submission of tenders in relation to a regulated below-threshold contract (see section 85(1) of the Act); or",
+      "ordinal": 39,
+      "heading_path": [
+        "What is contract payment information?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "p",
+      "text": "e. in respect of a below-threshold contract to which neither sub-paragraph (d) nor (e) applies, a contracting authority has contacted a supplier in order to commence the award of that contract.",
+      "ordinal": 40,
+      "heading_path": [
+        "What is contract payment information?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "heading",
+      "text": "Valuing contracts",
+      "ordinal": 41,
+      "heading_path": [
+        "What is contract payment information?",
+        "Key points and policy intent",
+        "Valuing contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "p",
+      "text": "19. Where a procurement is divided into lots, it is possible that one or more of the contracts awarded in accordance with that procurement procedure may be below the applicable threshold for a public contract. For example, a procurement of a services contract has a total estimated value of up to £250,000, and is therefore covered procurement under the Act. It was divided into four lots and a contract awarded for each lot. Each of these contracts is set out in the contract details notice with an estimated value of £62,500. The value of each individual contract is below the applicable threshold, so from the point of award onwards these would be classed as below-threshold contracts. As a result, the contracting authority would not be required to publish information in respect of any payments made under any of the contracts in this example.",
+      "ordinal": 42,
+      "heading_path": [
+        "What is contract payment information?",
+        "Key points and policy intent",
+        "Valuing contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "p",
+      "text": "20. When a convertible contract is modified under section 74(1) it becomes a public contract. From the point of conversion, section 70 would apply to any payment made under this contract where the procurement for the contract prior to modification was commenced on or after 1 April 2026.",
+      "ordinal": 43,
+      "heading_path": [
+        "What is contract payment information?",
+        "Key points and policy intent",
+        "Valuing contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "heading",
+      "text": "Valuing payments",
+      "ordinal": 44,
+      "heading_path": [
+        "What is contract payment information?",
+        "Key points and policy intent",
+        "Valuing payments"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "p",
+      "text": "21. For the purposes of meeting the £30,000 limit in section 70 , payments are valued inclusive of VAT but the amount to be published is exclusive of VAT (whether recoverable or not). If the individual payment is more than £30,000 including VAT but falls below £30,000 once net of VAT, the specified information about that payment must still be published.",
+      "ordinal": 45,
+      "heading_path": [
+        "What is contract payment information?",
+        "Key points and policy intent",
+        "Valuing payments"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "p",
+      "text": "22. Contracting authorities only need to publish information about individual payments that are valued over £30,000 inclusive of VAT. There is no requirement to group together payments £30,000 and below made under a single contract over the quarter for valuation purposes. For example, if you make one payment each month valued at £20,000 including VAT under a single public contract to the same supplier, information about these payments do not need to be published in accordance with section 70 even though collectively they would exceed £30,000 for the quarter.",
+      "ordinal": 46,
+      "heading_path": [
+        "What is contract payment information?",
+        "Key points and policy intent",
+        "Valuing payments"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "p",
+      "text": "23. It is the sum of money paid in respect of an individual public contract at any one time that determines if the payment is in-scope for publication. Therefore if you have combined a number of invoices for the same contract that are each for £30,000 or below (and therefore would not, if made separately trigger the publication obligation) into a single payment, and this takes an individual payment to a supplier over the £30,000 threshold, then information about this payment must be published.",
+      "ordinal": 47,
+      "heading_path": [
+        "What is contract payment information?",
+        "Key points and policy intent",
+        "Valuing payments"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "p",
+      "text": "24. However, where payments to the same supplier under multiple in-scope public contracts (i.e. the payments relates to public contracts that were procured under the Act in accordance with a procurement procedure that commenced on or after 1 April 2026) are combined, the publication obligation will only be triggered if the £30,000 payment threshold is exceeded in respect of a single contract. For example, two payments of £20,000 made together (for a total payment of £40,000) to a supplier but that relate to two separate public contracts, will not require publication of payment information under section 70. Whereas three payments of £20,000 made together, where two relate to one public contract (contract A), resulting in £40,000 being paid in respect of contract A, and the third is made under a separate public contract (contract B), will require publication of payment information in respect of contract A but not contract B. In this instance, you should only report the amount (and other information) that relates to contract A, not the total amount paid. You should consider whether internal systems will allow for accurate reporting in those circumstances, or whether the payments to different contracts can be separated out or should be made separately.",
+      "ordinal": 48,
+      "heading_path": [
+        "What is contract payment information?",
+        "Key points and policy intent",
+        "Valuing payments"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "heading",
+      "text": "Method of publication",
+      "ordinal": 49,
+      "heading_path": [
+        "What is contract payment information?",
+        "Key points and policy intent",
+        "Method of publication"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00050",
+      "block_type": "p",
+      "text": "25. Information related to all in-scope payments for each quarter can be uploaded to the central digital platform via a single spreadsheet (payment report) available via the contracting authority’s “buyer view” dashboard on the platform.",
+      "ordinal": 50,
+      "heading_path": [
+        "What is contract payment information?",
+        "Key points and policy intent",
+        "Method of publication"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00051",
+      "block_type": "p",
+      "text": "26. The platform will, as far as possible, link the payment information provided to information already published on the platform in the contract details notice, e.g. names, addresses, etc., pre-populating the information fields that are required to be completed by the contracting authority under regulation 38A .",
+      "ordinal": 51,
+      "heading_path": [
+        "What is contract payment information?",
+        "Key points and policy intent",
+        "Method of publication"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00052",
+      "block_type": "p",
+      "text": "27. Contracting authorities will be able to upload payment information multiple times before submitting these for publication. So, for example, an authority could choose to upload the information monthly and then submit the full report at the end of each quarter.",
+      "ordinal": 52,
+      "heading_path": [
+        "What is contract payment information?",
+        "Key points and policy intent",
+        "Method of publication"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00053",
+      "block_type": "p",
+      "text": "28. The upload process will allow multiple users within the organisation to collaborate on preparing each quarter’s report and will assist in providing review and validation of the uploaded information.",
+      "ordinal": 53,
+      "heading_path": [
+        "What is contract payment information?",
+        "Key points and policy intent",
+        "Method of publication"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00054",
+      "block_type": "heading",
+      "text": "Information required to be uploaded for each payment",
+      "ordinal": 54,
+      "heading_path": [
+        "What is contract payment information?",
+        "Key points and policy intent",
+        "Information required to be uploaded for each payment"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00055",
+      "block_type": "p",
+      "text": "29. For each payment, the following information is required. This will be linked to information already published in notices on the platform in respect of that contract in order to meet the requirements of regulation 38A :",
+      "ordinal": 55,
+      "heading_path": [
+        "What is contract payment information?",
+        "Key points and policy intent",
+        "Information required to be uploaded for each payment"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00056",
+      "block_type": "p",
+      "text": "a. the contracting authority identifier (Public Procurement Organisation Number - PPON) for the authority who made the payment (and the PPON for the authority who published the contract details notice if different);",
+      "ordinal": 56,
+      "heading_path": [
+        "What is contract payment information?",
+        "Key points and policy intent",
+        "Information required to be uploaded for each payment"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00057",
+      "block_type": "p",
+      "text": "b. the contracting process identifier (OCID) for the contract to which the payment relates;",
+      "ordinal": 57,
+      "heading_path": [
+        "What is contract payment information?",
+        "Key points and policy intent",
+        "Information required to be uploaded for each payment"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00058",
+      "block_type": "p",
+      "text": "c. an identifier for the contract to which the payment relates;",
+      "ordinal": 58,
+      "heading_path": [
+        "What is contract payment information?",
+        "Key points and policy intent",
+        "Information required to be uploaded for each payment"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00059",
+      "block_type": "p",
+      "text": "d. the unique identifier for the supplier to whom the payment is being made;",
+      "ordinal": 59,
+      "heading_path": [
+        "What is contract payment information?",
+        "Key points and policy intent",
+        "Information required to be uploaded for each payment"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00060",
+      "block_type": "p",
+      "text": "f. the date the payment was made.",
+      "ordinal": 60,
+      "heading_path": [
+        "What is contract payment information?",
+        "Key points and policy intent",
+        "Information required to be uploaded for each payment"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00061",
+      "block_type": "heading",
+      "text": "Other information",
+      "ordinal": 61,
+      "heading_path": [
+        "What is contract payment information?",
+        "Key points and policy intent",
+        "Other information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00062",
+      "block_type": "p",
+      "text": "30. Contracting authorities may publish optional information. For example, you will be able to include an internal identifier for the payment, so that if you have multiple payments on the same date to the same supplier you can identify the individual payment, making it easier to review, avoid duplication and potentially answer any questions from the public/suppliers relating to that payment (for example, in the context of a Freedom of Information request). You can also provide a procurement reference number - this is the reference number allocated to the procurement by your organisation.",
+      "ordinal": 62,
+      "heading_path": [
+        "What is contract payment information?",
+        "Key points and policy intent",
+        "Other information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00063",
+      "block_type": "p",
+      "text": "31. Whilst a procurement reference number may be useful internally for matching payments to the correct procurement process and contracts, these identifiers will not be used to match your payment to the information published in the notices and you will still need to provide the mandatory information (including the unique identifier for the procurement and contract) as set out in regulation 38A .",
+      "ordinal": 63,
+      "heading_path": [
+        "What is contract payment information?",
+        "Key points and policy intent",
+        "Other information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00064",
+      "block_type": "heading",
+      "text": "Withholding information",
+      "ordinal": 64,
+      "heading_path": [
+        "What is contract payment information?",
+        "Key points and policy intent",
+        "Withholding information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00065",
+      "block_type": "p",
+      "text": "32. It is the responsibility of the contracting authority making the payment to publish the payment information on time, containing all required information. Failure to publish payment information when it is required, or publishing incorrect or incomplete information, could result in non-compliance with the Act.",
+      "ordinal": 65,
+      "heading_path": [
+        "What is contract payment information?",
+        "Key points and policy intent",
+        "Withholding information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00066",
+      "block_type": "p",
+      "text": "33. While it is expected that in the majority of circumstances there will be a prior notice published about the contract to which the payment relates, the legislation provides for situations where no prior notice has been published. Payments made in relation to contracts where the publication of relevant information may have been previously exempted in accordance with section 94 is an example of such an instance (see below). The lack of publication of prior notices means that payment(s) cannot be linked to a procurement or contract.",
+      "ordinal": 66,
+      "heading_path": [
+        "What is contract payment information?",
+        "Key points and policy intent",
+        "Withholding information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00067",
+      "block_type": "heading",
+      "text": "Redacting supplier information",
+      "ordinal": 67,
+      "heading_path": [
+        "What is contract payment information?",
+        "Key points and policy intent",
+        "Redacting supplier information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00068",
+      "block_type": "p",
+      "text": "34. The Act establishes that information may be withheld from publication or disclosure if one of the exemptions set out in section 94 applies, and this will also apply to information about payments published in accordance with section 70 .",
+      "ordinal": 68,
+      "heading_path": [
+        "What is contract payment information?",
+        "Key points and policy intent",
+        "Redacting supplier information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00069",
+      "block_type": "p",
+      "text": "35. Contracting authorities will need to consider any decision to withhold information on a case-by-case basis. Where a supplier’s details have been redacted for national security or commercial sensitivity reasons in a contract details notice (for example), a contracting authority will need to consider whether section 94 applies to the contract payment information and accordingly whether the details can be similarly withheld. The authority would have to be satisfied that the requirements of section 94 were met in respect of the information to be withheld at the time of publication of the contract payment information and cannot simply withhold information because it was withheld in respect of an earlier notice. The payment upload template provides guidance on how this is to be done.",
+      "ordinal": 69,
+      "heading_path": [
+        "What is contract payment information?",
+        "Key points and policy intent",
+        "Redacting supplier information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00070",
+      "block_type": "p",
+      "text": "36. Contracting authorities relying on section 94 must publish (by including this in the contract payment information) that information is withheld and explain why, unless the contracting authority is satisfied that it would be contrary to the interests of national security to do so.",
+      "ordinal": 70,
+      "heading_path": [
+        "What is contract payment information?",
+        "Key points and policy intent",
+        "Redacting supplier information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00071",
+      "block_type": "p",
+      "text": "37. Section 99 provides that the Act does not authorise or require any disclosure of information which would contravene data protection legislation (including the GDPR) but notes that account must be taken of the duties under the Act; that is to say that where the Act (and the regulations) require publication, this must be done in accordance with data protection legislation but does not in and of itself contravene that legislation. This is unlikely to be relevant in respect of contract payment information given it is limited to personal data.",
+      "ordinal": 71,
+      "heading_path": [
+        "What is contract payment information?",
+        "Key points and policy intent",
+        "Redacting supplier information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00072",
+      "block_type": "p",
+      "text": "38. Refer to guidance on the central digital platform and publication of information for further information about redaction.",
+      "ordinal": 72,
+      "heading_path": [
+        "What is contract payment information?",
+        "Key points and policy intent",
+        "Redacting supplier information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00073",
+      "block_type": "heading",
+      "text": "What notices are linked to this aspect of the Act?",
+      "ordinal": 73,
+      "heading_path": [
+        "What is contract payment information?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00074",
+      "block_type": "p",
+      "text": "39. Information about payments will be uploaded by way of a spreadsheet, rather than a notice. As set out above, the most relevant notice to these payment reports will be the contract details notice. Contract performance notices also relate to payments made under public contracts.",
+      "ordinal": 74,
+      "heading_path": [
+        "What is contract payment information?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00075",
+      "block_type": "p",
+      "text": "© Crown copyright 2026",
+      "ordinal": 75,
+      "heading_path": [
+        "What is contract payment information?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00076",
+      "block_type": "p",
+      "text": "This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated. To view this licence, visit nationalarchives.gov.uk/doc/open-government-licence/version/3",
+      "ordinal": 76,
+      "heading_path": [
+        "What is contract payment information?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00077",
+      "block_type": "p",
+      "text": "Where we have identified any third party copyright information you will need to obtain permission from the copyright holders concerned.",
+      "ordinal": 77,
+      "heading_path": [
+        "What is contract payment information?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00078",
+      "block_type": "p",
+      "text": "This publication is available at www.gov.uk/government/publications",
+      "ordinal": 78,
+      "heading_path": [
+        "What is contract payment information?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00079",
+      "block_type": "p",
+      "text": "Any enquiries regarding this publication should be sent to us at procurement.reform@cabinetoffice.gov.uk .",
+      "ordinal": 79,
+      "heading_path": [
+        "What is contract payment information?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00080",
+      "block_type": "li",
+      "text": "As defined by section 3 of the Act. ↩",
+      "ordinal": 80,
+      "heading_path": [
+        "What is contract payment information?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00081",
+      "block_type": "p",
+      "text": "As defined by section 3 of the Act. ↩",
+      "ordinal": 81,
+      "heading_path": [
+        "What is contract payment information?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00082",
+      "block_type": "li",
+      "text": "Other than in accordance with a procurement regulated by the Welsh Ministers ( Procurement Act 2023 (Commencement No. 4) Regulations 2025 , regulation 2(2)(b) ). ↩",
+      "ordinal": 82,
+      "heading_path": [
+        "What is contract payment information?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00083",
+      "block_type": "p",
+      "text": "Other than in accordance with a procurement regulated by the Welsh Ministers ( Procurement Act 2023 (Commencement No. 4) Regulations 2025 , regulation 2(2)(b) ). ↩",
+      "ordinal": 83,
+      "heading_path": [
+        "What is contract payment information?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00084",
+      "block_type": "li",
+      "text": "As per regulation 6 of the Procurement (Amendment) Regulations 2026 . ↩",
+      "ordinal": 84,
+      "heading_path": [
+        "What is contract payment information?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00085",
+      "block_type": "p",
+      "text": "As per regulation 6 of the Procurement (Amendment) Regulations 2026 . ↩",
+      "ordinal": 85,
+      "heading_path": [
+        "What is contract payment information?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00086",
+      "block_type": "li",
+      "text": "As inserted by the Procurement (Amendment) Regulations 2026 . ↩",
+      "ordinal": 86,
+      "heading_path": [
+        "What is contract payment information?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00087",
+      "block_type": "p",
+      "text": "As inserted by the Procurement (Amendment) Regulations 2026 . ↩",
+      "ordinal": 87,
+      "heading_path": [
+        "What is contract payment information?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00088",
+      "block_type": "li",
+      "text": "As the obligation will only relate to payments made under contracts where that contract was procured under the Act in accordance with a procurement procedure which commenced on or after 1 April 2026, it’s possible contracting authorities may have little to no contract payment information to publish in the first quarter. ↩",
+      "ordinal": 88,
+      "heading_path": [
+        "What is contract payment information?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00089",
+      "block_type": "p",
+      "text": "As the obligation will only relate to payments made under contracts where that contract was procured under the Act in accordance with a procurement procedure which commenced on or after 1 April 2026, it’s possible contracting authorities may have little to no contract payment information to publish in the first quarter. ↩",
+      "ordinal": 89,
+      "heading_path": [
+        "What is contract payment information?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00090",
+      "block_type": "li",
+      "text": "The now revoked Public Contracts Regulations 2015, Concession Contracts Regulations 2016, Utilities Contracts Regulations 2016 and Defence and Security Public Contracts Regulations 2011. ↩",
+      "ordinal": 90,
+      "heading_path": [
+        "What is contract payment information?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00091",
+      "block_type": "p",
+      "text": "The now revoked Public Contracts Regulations 2015, Concession Contracts Regulations 2016, Utilities Contracts Regulations 2016 and Defence and Security Public Contracts Regulations 2011. ↩",
+      "ordinal": 91,
+      "heading_path": [
+        "What is contract payment information?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "section 70",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/70",
+      "block_id": "b00001",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement Act 2023",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/contents",
+      "block_id": "b00001",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 70",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/70",
+      "block_id": "b00004",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "[footnote 1]",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-payment-information-html#fn:1",
+      "block_id": "b00004",
+      "ordinal": 3,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 2]",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-payment-information-html#fn:2",
+      "block_id": "b00004",
+      "ordinal": 4,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 3]",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-payment-information-html#fn:3",
+      "block_id": "b00004",
+      "ordinal": 5,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "section 70",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/70",
+      "block_id": "b00004",
+      "ordinal": 6,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 70(4)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/70",
+      "block_id": "b00005",
+      "ordinal": 7,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 70",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/70",
+      "block_id": "b00011",
+      "ordinal": 8,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 70",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/70",
+      "block_id": "b00012",
+      "ordinal": 9,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement Regulations 2024",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/contents",
+      "block_id": "b00017",
+      "ordinal": 10,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Regulation 38A",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/38",
+      "block_id": "b00017",
+      "ordinal": 11,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "[footnote 4]",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-payment-information-html#fn:4",
+      "block_id": "b00017",
+      "ordinal": 12,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "section 53",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/53",
+      "block_id": "b00018",
+      "ordinal": 13,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Regulation 38A",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/38",
+      "block_id": "b00024",
+      "ordinal": 14,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 70",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/70",
+      "block_id": "b00026",
+      "ordinal": 15,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 38A",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/38",
+      "block_id": "b00026",
+      "ordinal": 16,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "payments compliance notices",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-payments-compliance-notices-html",
+      "block_id": "b00028",
+      "ordinal": 17,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Central Government guidance for publishing spend over £25,000",
+      "href": "https://www.gov.uk/government/publications/guidance-for-publishing-spend-over-25000",
+      "block_id": "b00029",
+      "ordinal": 18,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Local Government Transparency Code 2015",
+      "href": "https://www.gov.uk/government/publications/local-government-transparency-code-2015",
+      "block_id": "b00029",
+      "ordinal": 19,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 70(5)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/70",
+      "block_id": "b00032",
+      "ordinal": 20,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 70",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/70",
+      "block_id": "b00032",
+      "ordinal": 21,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "[footnote 5]",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-payment-information-html#fn:5",
+      "block_id": "b00032",
+      "ordinal": 22,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 6]",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-payment-information-html#fn:6",
+      "block_id": "b00033",
+      "ordinal": 23,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "section 70",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/70",
+      "block_id": "b00033",
+      "ordinal": 24,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 70",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/70",
+      "block_id": "b00034",
+      "ordinal": 25,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 21(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/21",
+      "block_id": "b00035",
+      "ordinal": 26,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 44(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/44",
+      "block_id": "b00036",
+      "ordinal": 27,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 87(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/87",
+      "block_id": "b00038",
+      "ordinal": 28,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 85(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/85",
+      "block_id": "b00039",
+      "ordinal": 29,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 70",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/70",
+      "block_id": "b00045",
+      "ordinal": 30,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 70",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/70",
+      "block_id": "b00046",
+      "ordinal": 31,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 38A",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/38",
+      "block_id": "b00051",
+      "ordinal": 32,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 38A",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/38",
+      "block_id": "b00055",
+      "ordinal": 33,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 38A",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/38",
+      "block_id": "b00063",
+      "ordinal": 34,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 94",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/94",
+      "block_id": "b00066",
+      "ordinal": 35,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 94",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/94",
+      "block_id": "b00068",
+      "ordinal": 36,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 70",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/70",
+      "block_id": "b00068",
+      "ordinal": 37,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 94",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/94",
+      "block_id": "b00069",
+      "ordinal": 38,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 94",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/94",
+      "block_id": "b00069",
+      "ordinal": 39,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 94",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/94",
+      "block_id": "b00070",
+      "ordinal": 40,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 99",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/99",
+      "block_id": "b00071",
+      "ordinal": 41,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "guidance on the central digital platform and publication of information",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-central-digital-platform-and-publication-of-information-html",
+      "block_id": "b00072",
+      "ordinal": 42,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "nationalarchives.gov.uk/doc/open-government-licence/version/3",
+      "href": "http://nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "block_id": "b00076",
+      "ordinal": 43,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "www.gov.uk/government/publications",
+      "href": "http://www.gov.uk/government/publications",
+      "block_id": "b00078",
+      "ordinal": 44,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "procurement.reform@cabinetoffice.gov.uk",
+      "href": "mailto:procurement.reform@cabinetoffice.gov.uk",
+      "block_id": "b00079",
+      "ordinal": 45,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "section 3",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/3",
+      "block_id": "b00080",
+      "ordinal": 46,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-payment-information-html#fnref:1",
+      "block_id": "b00080",
+      "ordinal": 47,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "section 3",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/3",
+      "block_id": "b00081",
+      "ordinal": 48,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-payment-information-html#fnref:1",
+      "block_id": "b00081",
+      "ordinal": 49,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Procurement Act 2023 (Commencement No. 4) Regulations 2025",
+      "href": "https://www.legislation.gov.uk/uksi/2025/1316/contents/made",
+      "block_id": "b00082",
+      "ordinal": 50,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 2(2)(b)",
+      "href": "https://www.legislation.gov.uk/uksi/2025/1316/regulation/2/made",
+      "block_id": "b00082",
+      "ordinal": 51,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-payment-information-html#fnref:2",
+      "block_id": "b00082",
+      "ordinal": 52,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Procurement Act 2023 (Commencement No. 4) Regulations 2025",
+      "href": "https://www.legislation.gov.uk/uksi/2025/1316/contents/made",
+      "block_id": "b00083",
+      "ordinal": 53,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 2(2)(b)",
+      "href": "https://www.legislation.gov.uk/uksi/2025/1316/regulation/2/made",
+      "block_id": "b00083",
+      "ordinal": 54,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-payment-information-html#fnref:2",
+      "block_id": "b00083",
+      "ordinal": 55,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Procurement (Amendment) Regulations 2026",
+      "href": "https://www.legislation.gov.uk/ukdsi/2026/9780348278811/contents",
+      "block_id": "b00084",
+      "ordinal": 56,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-payment-information-html#fnref:3",
+      "block_id": "b00084",
+      "ordinal": 57,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Procurement (Amendment) Regulations 2026",
+      "href": "https://www.legislation.gov.uk/ukdsi/2026/9780348278811/contents",
+      "block_id": "b00085",
+      "ordinal": 58,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-payment-information-html#fnref:3",
+      "block_id": "b00085",
+      "ordinal": 59,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Procurement (Amendment) Regulations 2026",
+      "href": "https://www.legislation.gov.uk/ukdsi/2026/9780348278811/contents",
+      "block_id": "b00086",
+      "ordinal": 60,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-payment-information-html#fnref:4",
+      "block_id": "b00086",
+      "ordinal": 61,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Procurement (Amendment) Regulations 2026",
+      "href": "https://www.legislation.gov.uk/ukdsi/2026/9780348278811/contents",
+      "block_id": "b00087",
+      "ordinal": 62,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-payment-information-html#fnref:4",
+      "block_id": "b00087",
+      "ordinal": 63,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-payment-information-html#fnref:5",
+      "block_id": "b00088",
+      "ordinal": 64,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-payment-information-html#fnref:5",
+      "block_id": "b00089",
+      "ordinal": 65,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-payment-information-html#fnref:6",
+      "block_id": "b00090",
+      "ordinal": 66,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-payment-information-html#fnref:6",
+      "block_id": "b00091",
+      "ordinal": 67,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Guidance - Contract Payment Information (HTML)",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-payment-information-html",
+      "block_id": "__document__",
+      "ordinal": 68,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2024 to 2026 Starmer Labour government",
+      "href": "https://www.gov.uk/government/2024-starmer-labour-government",
+      "block_id": "__document__",
+      "ordinal": 69,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 70,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Procurement Act 2023 guidance documents - Manage phase",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase",
+      "block_id": "__document__",
+      "ordinal": 71,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 72,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 70",
+      "block_id": "b00001",
+      "start": 119,
+      "end": 129,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "70"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 70",
+      "block_id": "b00004",
+      "start": 3,
+      "end": 13,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "70"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 70",
+      "block_id": "b00004",
+      "start": 529,
+      "end": 539,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "70"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 70(4)",
+      "block_id": "b00005",
+      "start": 22,
+      "end": 35,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "70",
+        "tail": "(4)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 70",
+      "block_id": "b00011",
+      "start": 17,
+      "end": 27,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "70"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 70",
+      "block_id": "b00012",
+      "start": 12,
+      "end": 22,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "70"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2024",
+      "block_id": "b00017",
+      "start": 19,
+      "end": 35,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2024"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 38A",
+      "block_id": "b00017",
+      "start": 94,
+      "end": 108,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "38A"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 53",
+      "block_id": "b00018",
+      "start": 236,
+      "end": 246,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "53"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 38A",
+      "block_id": "b00024",
+      "start": 4,
+      "end": 18,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "38A"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 70",
+      "block_id": "b00026",
+      "start": 53,
+      "end": 63,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "70"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 38A",
+      "block_id": "b00026",
+      "start": 349,
+      "end": 363,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "38A"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 20",
+      "block_id": "b00026",
+      "start": 536,
+      "end": 548,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "20"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 70(5)",
+      "block_id": "b00032",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "70",
+        "tail": "(5)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 70",
+      "block_id": "b00032",
+      "start": 161,
+      "end": 171,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "70"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 70",
+      "block_id": "b00033",
+      "start": 300,
+      "end": 310,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "70"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 70",
+      "block_id": "b00034",
+      "start": 24,
+      "end": 34,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "70"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 21(1)",
+      "block_id": "b00035",
+      "start": 57,
+      "end": 70,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "21",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 44(1)",
+      "block_id": "b00036",
+      "start": 63,
+      "end": 76,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "44",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 87(1)",
+      "block_id": "b00038",
+      "start": 73,
+      "end": 86,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "87",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 85(1)",
+      "block_id": "b00039",
+      "start": 122,
+      "end": 135,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "85",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 74(1)",
+      "block_id": "b00043",
+      "start": 50,
+      "end": 63,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "74",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 70",
+      "block_id": "b00043",
+      "start": 124,
+      "end": 134,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "70"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 70",
+      "block_id": "b00045",
+      "start": 53,
+      "end": 63,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "70"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 70",
+      "block_id": "b00046",
+      "start": 486,
+      "end": 496,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "70"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 70",
+      "block_id": "b00048",
+      "start": 602,
+      "end": 612,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "70"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 38A",
+      "block_id": "b00051",
+      "start": 298,
+      "end": 312,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "38A"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 38A",
+      "block_id": "b00055",
+      "start": 206,
+      "end": 220,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "38A"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 38A",
+      "block_id": "b00063",
+      "start": 382,
+      "end": 396,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "38A"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 94",
+      "block_id": "b00066",
+      "start": 371,
+      "end": 381,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "94"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 94",
+      "block_id": "b00068",
+      "start": 124,
+      "end": 134,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "94"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 70",
+      "block_id": "b00068",
+      "start": 228,
+      "end": 238,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "70"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 94",
+      "block_id": "b00069",
+      "start": 312,
+      "end": 322,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "94"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 94",
+      "block_id": "b00069",
+      "start": 496,
+      "end": 506,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "94"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 94",
+      "block_id": "b00070",
+      "start": 39,
+      "end": 49,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "94"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 99",
+      "block_id": "b00071",
+      "start": 4,
+      "end": 14,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "99"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 3",
+      "block_id": "b00080",
+      "start": 14,
+      "end": 23,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "3"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 3",
+      "block_id": "b00081",
+      "start": 14,
+      "end": 23,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "3"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2025",
+      "block_id": "b00082",
+      "start": 121,
+      "end": 137,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2025"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 2(2)(b)",
+      "block_id": "b00082",
+      "start": 140,
+      "end": 158,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2",
+        "tail": "(2)(b)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2025",
+      "block_id": "b00083",
+      "start": 121,
+      "end": 137,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2025"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 2(2)(b)",
+      "block_id": "b00083",
+      "start": 140,
+      "end": 158,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2",
+        "tail": "(2)(b)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 6",
+      "block_id": "b00084",
+      "start": 7,
+      "end": 19,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "6"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2026",
+      "block_id": "b00084",
+      "start": 51,
+      "end": 67,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2026"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 6",
+      "block_id": "b00085",
+      "start": 7,
+      "end": 19,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "6"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2026",
+      "block_id": "b00085",
+      "start": 51,
+      "end": 67,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2026"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2026",
+      "block_id": "b00086",
+      "start": 43,
+      "end": 59,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2026"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2026",
+      "block_id": "b00087",
+      "start": 43,
+      "end": 59,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2026"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015",
+      "block_id": "b00090",
+      "start": 33,
+      "end": 49,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2016",
+      "block_id": "b00090",
+      "start": 72,
+      "end": 88,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2016"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2016",
+      "block_id": "b00090",
+      "start": 110,
+      "end": 126,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2016"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2011",
+      "block_id": "b00090",
+      "start": 169,
+      "end": 185,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2011"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015",
+      "block_id": "b00091",
+      "start": 33,
+      "end": 49,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2016",
+      "block_id": "b00091",
+      "start": 72,
+      "end": 88,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2016"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2016",
+      "block_id": "b00091",
+      "start": 110,
+      "end": 126,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2016"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2011",
+      "block_id": "b00091",
+      "start": 169,
+      "end": 185,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2011"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

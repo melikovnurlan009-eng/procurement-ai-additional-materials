@@ -1,0 +1,564 @@
+{
+  "document_id": "03275eea-6cc5-4276-ae64-1cd2ff8d870a",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/d13cd9c98868e504af3034e6.json",
+  "input_sha256": "dbc249b083f257f0ccd7ca7472e9864b5707696e852df4938cd8f7e556e762ad",
+  "processed_at": "2026-08-27T02:26:42.416661+00:00",
+  "title": "Procurement Policy Note – Changes to Public Procurement Obligations Arising from the Australia and New Zealand Free Trade Agreements (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/ppn-0523-implementing-new-free-trade-agreements/procurement-policy-note-changes-to-public-procurement-obligations-arising-from-the-australia-and-new-zealand-free-trade-agreements-html",
+  "description": null,
+  "publication_date": "2023-05-25T14:00:04+01:00",
+  "updated_date": "2023-05-25T14:00:03+01:00",
+  "source_metadata": {
+    "content_id": "03275eea-6cc5-4276-ae64-1cd2ff8d870a",
+    "base_path": "/government/publications/ppn-0523-implementing-new-free-trade-agreements/procurement-policy-note-changes-to-public-procurement-obligations-arising-from-the-australia-and-new-zealand-free-trade-agreements-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Action PPN 05/23",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Dissemination and Scope",
+      "ordinal": 3,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Timing",
+      "ordinal": 7,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Action",
+      "ordinal": 9,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Background",
+      "ordinal": 11,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What will change for contracting authorities?",
+      "ordinal": 18,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Unknown contract value",
+      "ordinal": 19,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Removal of the option of using a Prior Information Notice or Periodic Indicative Notice in certain circumstances",
+      "ordinal": 22,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Termination of contracts",
+      "ordinal": 25,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Contact",
+      "ordinal": 28,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "Action PPN 05/23",
+      "ordinal": 0,
+      "heading_path": [
+        "Action PPN 05/23"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "1. This Procurement Policy Note (PPN) sets out changes to public procurement obligations which arise out of the UK’s new Free Trade Agreements (FTAs) with Australia and New Zealand. Although the amendments arise from these particular agreements, they apply to all procurements going forward, not just those involving Australian and New Zealand suppliers.",
+      "ordinal": 1,
+      "heading_path": [
+        "Action PPN 05/23"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "2. These changes will affect the treatment of contracts whose value cannot be estimated, the use of Prior Information Notices and Periodic Indicative Notices, and the circumstances in which termination of contracts is permissible.",
+      "ordinal": 2,
+      "heading_path": [
+        "Action PPN 05/23"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "heading",
+      "text": "Dissemination and Scope",
+      "ordinal": 3,
+      "heading_path": [
+        "Action PPN 05/23",
+        "Dissemination and Scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "3. This PPN is relevant to all contracting authorities which come within the scope of UK public procurement regulations, including Central Government Departments, their Executive Agencies and Non-Departmental Public Bodies, the wider public sector, local authority and NHS bodies and utilities. Together, these are referred to in this PPN as ‘contracting authorities’. Please circulate this PPN within your organisation, drawing it to the attention of those with a commercial and procurement role.",
+      "ordinal": 4,
+      "heading_path": [
+        "Action PPN 05/23",
+        "Dissemination and Scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "4. This PPN does not apply to contracting authorities whose functions are wholly or mainly Scottish, Welsh and Northern Irish devolved functions as defined by regulation 1(7) and 1(8) Public Contracts Regulations 2015 (PCRs). The Devolved Administrations will issue guidance separately for these contracting authorities to reflect the same changes.",
+      "ordinal": 5,
+      "heading_path": [
+        "Action PPN 05/23",
+        "Dissemination and Scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "p",
+      "text": "5. Contracting authorities should take action to ensure they comply with the amendments to which this PPN relates where it is relevant to do so. This means procurements above the thresholds set out in the PCRs, Utilities Contracts Regulations 2016 (UCRs) and Concession Contracts Regulations 2016 (CCRs).",
+      "ordinal": 6,
+      "heading_path": [
+        "Action PPN 05/23",
+        "Dissemination and Scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "heading",
+      "text": "Timing",
+      "ordinal": 7,
+      "heading_path": [
+        "Action PPN 05/23",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "6. The provisions of this PPN should be applied to new procurements once the relevant secondary legislation comes into force on 25 May 2023.",
+      "ordinal": 8,
+      "heading_path": [
+        "Action PPN 05/23",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "heading",
+      "text": "Action",
+      "ordinal": 9,
+      "heading_path": [
+        "Action PPN 05/23",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "p",
+      "text": "7. All contracting authorities should act in accordance with the changes to UK procurement regulations once the relevant secondary legislation comes into force. The Cabinet Office has made a statutory instrument (SI) that amends the UK’s public procurement regulations to implement new obligations contained in this FTA. The SI can be viewed here .",
+      "ordinal": 10,
+      "heading_path": [
+        "Action PPN 05/23",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "heading",
+      "text": "Background",
+      "ordinal": 11,
+      "heading_path": [
+        "Action PPN 05/23",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "8. The FTA was signed in December 2021 and contains new obligations that require amendment to UK public procurement regulations in order to ensure full compliance.",
+      "ordinal": 12,
+      "heading_path": [
+        "Action PPN 05/23",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "9. The Government has made a statutory instrument under powers available in the Trade (Australia and New Zealand) Act 2023 to fully implement these obligations. Among other things, the SI amends the PCRs, UCRs and CCRs so as to:",
+      "ordinal": 13,
+      "heading_path": [
+        "Action PPN 05/23",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "a. Require contracting authorities who are unable to estimate the value of a procurement to treat it as being valued at the relevant threshold and therefore subject to the full regime;",
+      "ordinal": 14,
+      "heading_path": [
+        "Action PPN 05/23",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "b. Remove the option for sub-central contracting authorities and utilities of using a Prior Information Notice or Periodic Indicative Notice as a call for competition; and",
+      "ordinal": 15,
+      "heading_path": [
+        "Action PPN 05/23",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "c. Make it explicit that contracting authorities must not terminate a contract to avoid international obligations.",
+      "ordinal": 16,
+      "heading_path": [
+        "Action PPN 05/23",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "10. It is expected that these new requirements will only result in minor technical changes to how practitioners carry out procurements.",
+      "ordinal": 17,
+      "heading_path": [
+        "Action PPN 05/23",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "heading",
+      "text": "What will change for contracting authorities?",
+      "ordinal": 18,
+      "heading_path": [
+        "Action PPN 05/23",
+        "What will change for contracting authorities?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "heading",
+      "text": "Unknown contract value",
+      "ordinal": 19,
+      "heading_path": [
+        "Action PPN 05/23",
+        "What will change for contracting authorities?",
+        "Unknown contract value"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "p",
+      "text": "11. Current procurement regulations provide various methods for estimating the value of contracts in order to determine whether the relevant thresholds apply.",
+      "ordinal": 20,
+      "heading_path": [
+        "Action PPN 05/23",
+        "What will change for contracting authorities?",
+        "Unknown contract value"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "12. Once the SI comes into effect, contracts whose value cannot be estimated must be treated as being equal to the relevant threshold by contracting authorities, and thus subject to the full regime.",
+      "ordinal": 21,
+      "heading_path": [
+        "Action PPN 05/23",
+        "What will change for contracting authorities?",
+        "Unknown contract value"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "heading",
+      "text": "Removal of the option of using a Prior Information Notice or Periodic Indicative Notice in certain circumstances",
+      "ordinal": 22,
+      "heading_path": [
+        "Action PPN 05/23",
+        "What will change for contracting authorities?",
+        "Removal of the option of using a Prior Information Notice or Periodic Indicative Notice in certain circumstances"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "13. Currently, procurement regulations permit sub-central contracting authorities and utilities to use a Prior Information Notice or Periodic Indicative Notice as a call for competition instead of a standard contract notice where certain requirements are met. Once the statutory instrument comes into effect, sub-central contracting authorities and utilities will no longer be permitted to do this.",
+      "ordinal": 23,
+      "heading_path": [
+        "Action PPN 05/23",
+        "What will change for contracting authorities?",
+        "Removal of the option of using a Prior Information Notice or Periodic Indicative Notice in certain circumstances"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "14. Prior Information Notices and Periodic Indicative Notices may otherwise continue to be used for any other purpose as permitted under the relevant regulations.",
+      "ordinal": 24,
+      "heading_path": [
+        "Action PPN 05/23",
+        "What will change for contracting authorities?",
+        "Removal of the option of using a Prior Information Notice or Periodic Indicative Notice in certain circumstances"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "heading",
+      "text": "Termination of contracts",
+      "ordinal": 25,
+      "heading_path": [
+        "Action PPN 05/23",
+        "Termination of contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "p",
+      "text": "15. Current procurement regulations contain provisions which ensure that procuring entities cannot use options, cancel a covered procurement, or modify awarded contracts in order to circumvent regulations. The FTA imposes the additional requirement that contracting authorities should not terminate awarded contracts to avoid international obligations.",
+      "ordinal": 26,
+      "heading_path": [
+        "Action PPN 05/23",
+        "Termination of contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "p",
+      "text": "16. Once the SI comes into effect, practitioners should note this additional statutory restriction.",
+      "ordinal": 27,
+      "heading_path": [
+        "Action PPN 05/23",
+        "Termination of contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "heading",
+      "text": "Contact",
+      "ordinal": 28,
+      "heading_path": [
+        "Action PPN 05/23",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "p",
+      "text": "17. Enquiries about this PPN should be directed to the Crown Commercial Service Helpdesk on 0345 410 2222 or info@crowncommercial.gov.uk .",
+      "ordinal": 29,
+      "heading_path": [
+        "Action PPN 05/23",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "The SI can be viewed here",
+      "href": "https://www.legislation.gov.uk/uksi/2023/484/contents/made",
+      "block_id": "b00010",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "info@crowncommercial.gov.uk",
+      "href": "mailto:info@crowncommercial.gov.uk",
+      "block_id": "b00029",
+      "ordinal": 1,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "Procurement Policy Note – Changes to Public Procurement Obligations Arising from the Australia and New Zealand Free Trade Agreements (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-0523-implementing-new-free-trade-agreements/procurement-policy-note-changes-to-public-procurement-obligations-arising-from-the-australia-and-new-zealand-free-trade-agreements-html",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2022 to 2024 Sunak Conservative government",
+      "href": "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "PPN 05/23: Implementing new Free Trade Agreements",
+      "href": "https://www.gov.uk/government/publications/ppn-0523-implementing-new-free-trade-agreements",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 1(7)",
+      "block_id": "b00005",
+      "start": 159,
+      "end": 174,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "1",
+        "tail": "(7)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015 (PCRs)",
+      "block_id": "b00005",
+      "start": 201,
+      "end": 224,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015",
+        "tail": " (PCRs)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2016 (UCRs)",
+      "block_id": "b00006",
+      "start": 231,
+      "end": 254,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2016",
+        "tail": " (UCRs)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2016 (CCRs)",
+      "block_id": "b00006",
+      "start": 280,
+      "end": 303,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2016",
+        "tail": " (CCRs)"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

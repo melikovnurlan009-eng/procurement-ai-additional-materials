@@ -1,0 +1,3048 @@
+{
+  "document_id": "e422b08d-273c-41f3-9701-2e789028a525",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/0dfedbaf21ec379d7bde2858.json",
+  "input_sha256": "cfd8e81199dbe9ac39b3b7678c81d9c8d791211150fea367ef4e918aa761aa1f",
+  "processed_at": "2026-08-27T02:26:04.611223+00:00",
+  "title": "Guidance: Contract Performance Notices (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-performance-notices-html",
+  "description": null,
+  "publication_date": "2024-08-06T16:19:04+01:00",
+  "updated_date": "2026-07-20T15:07:48+01:00",
+  "source_metadata": {
+    "content_id": "e422b08d-273c-41f3-9701-2e789028a525",
+    "base_path": "/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-performance-notices-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What is a contract performance notice?",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What is the legal framework that governs contract performance notices?",
+      "ordinal": 5,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What has changed?",
+      "ordinal": 10,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Key points and policy intent",
+      "ordinal": 16,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Assessment of performance against KPIs and publishing KPI information",
+      "ordinal": 17,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Timing of publication: reporting KPI performance",
+      "ordinal": 38,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Changes to KPIs",
+      "ordinal": 42,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Withholding information under Section 94",
+      "ordinal": 45,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Publishing information about incidents of poor performance and breach of contract",
+      "ordinal": 47,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Information requirements",
+      "ordinal": 58,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Timing of publication",
+      "ordinal": 69,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Withholding information under section 94",
+      "ordinal": 78,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Use of the contract performance notice when removing a supplier from a multi-supplier contract",
+      "ordinal": 84,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What notices are linked to this aspect of the Act?",
+      "ordinal": 89,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What other guidance is of particular relevance to this topic area?",
+      "ordinal": 98,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Where can I go for more information or training?",
+      "ordinal": 103,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "What is a contract performance notice?",
+      "ordinal": 0,
+      "heading_path": [
+        "What is a contract performance notice?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "1. A contract performance notice is a notice that is used to publish the information required to be published under section 71 of the Procurement Act 2023 (Act) . The contract performance notice fulfils two functions:",
+      "ordinal": 1,
+      "heading_path": [
+        "What is a contract performance notice?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "a. recording the performance of suppliers against key performance indicators (KPIs) where section 52(1) of the Act applies; and",
+      "ordinal": 2,
+      "heading_path": [
+        "What is a contract performance notice?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "b. recording information relating to particular breaches or failure to perform a public contract except where the breach results in a contract being terminated in full (in which case a contract termination notice must be published (see paragraph 27 below)).",
+      "ordinal": 3,
+      "heading_path": [
+        "What is a contract performance notice?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "2. The contract performance notice provides transparency to other contracting authorities and the public on supplier performance. It also provides contracting authorities with an objective source of information for a discretionary exclusion ground relating to breach of contract and poor performance, and will allow improved decision-making when considering the exclusion ground. Once developed, a centralised contract performance ‘register’ will be populated using the information set out in contract performance notices. Further information on this register will be published in due course.",
+      "ordinal": 4,
+      "heading_path": [
+        "What is a contract performance notice?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "heading",
+      "text": "What is the legal framework that governs contract performance notices?",
+      "ordinal": 5,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "What is the legal framework that governs contract performance notices?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "p",
+      "text": "3. Section 52 defines and sets out the obligations to set and publish KPIs and the exceptions to these requirements. It defines a KPI as “a factor or measure against which a supplier’s performance of a contract can be assessed during the life-cycle of the contract.”",
+      "ordinal": 6,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "What is the legal framework that governs contract performance notices?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "4. Information relating to the KPIs set out in the contract when it is entered into is required to be set out in the contract details notice published under section 53 . Regulations 32-35 set out what KPI information must be included in the contract details notice.",
+      "ordinal": 7,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "What is the legal framework that governs contract performance notices?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "5. Section 71 requires contracting authorities to regularly assess suppliers’ performance against the KPIs set and to publish information relating to that assessment and in relation to particular breaches of contract or poor performance.",
+      "ordinal": 8,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "What is the legal framework that governs contract performance notices?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "6. The information required to be published under section 71 is captured in the contract performance notice referred to in regulation 39 .",
+      "ordinal": 9,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "What is the legal framework that governs contract performance notices?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "heading",
+      "text": "What has changed?",
+      "ordinal": 10,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "7. The contract performance notice is published on the central digital platform. It is a new notice containing information not required to be published under previous legislation, and provides increased transparency during the contract period.",
+      "ordinal": 11,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "8. Section 71 of the Act requires that at least annually during the lifetime of the contract and on termination of the contract, the contracting authority must assess the supplier’s performance against any KPIs set under section 52 and publish information specified in the regulations in relation to that assessment. Regulation 39 requires that the information specified must be published in the contract performance notice. See the guidance on key performance indicators for more information.",
+      "ordinal": 12,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "9. These requirements expand the current KPI reporting requirement policy for central government contracting authorities and associated arm’s length bodies to the majority of public contracts above £5 million. They are in addition to (and so do not replace) the existing requirements on these contracting authorities set out in the Commercial Playbooks.",
+      "ordinal": 13,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "10. Section 71 also requires that the contracting authority must publish information relating to particular breaches of contract or failure to perform a public contract. Regulation 39 requires that the information specified must also be published in the contract performance notice. Where a contracting authority has published a contract performance notice following a breach of contract or poor performance as set out in section 71 , Schedule 7, paragraph 12(4) provides that a discretionary exclusion ground applies in respect of the relevant supplier. The supplier is only at risk of exclusion on this basis if the notice was published in the preceding 5 years and if the contracting authority considers that the circumstances giving rise to the application of the exclusion ground are continuing or likely to occur again. See guidance on exclusions for more information.",
+      "ordinal": 14,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "11. This exclusion ground is new and sits alongside three other discretionary exclusion grounds relating to breach of contract and past performance set out in Schedule 7, paragraphs 12(1-3) . The equivalent exclusion ground in the PCRs was narrower and, in the absence of any kind of notice requirement, contracting authorities relied on supplier self-declarations for confirmation that suppliers did not meet this ground.",
+      "ordinal": 15,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "heading",
+      "text": "Key points and policy intent",
+      "ordinal": 16,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "heading",
+      "text": "Assessment of performance against KPIs and publishing KPI information",
+      "ordinal": 17,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Assessment of performance against KPIs and publishing KPI information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "p",
+      "text": "12. Information about setting KPIs can be found in the guidance on key performance indicators and the guidance on contract details notices . In summary (but please refer to the guidance on key performance indicators ), section 52(1) sets out that before entering into a public contract with an estimated value of more than £5 million, a contracting authority is generally required to set at least three KPIs in respect of the contract. Where KPIs are set in accordance with section 52(1) , section 52(3) requires that a contract authority must publish all the KPIs set, and regulation 32(2)(r) requires that it must include in the contract details notice the three KPIs that the contracting authority regards as most material to performance of the contract obligations as at the time the contract details notice is published.",
+      "ordinal": 18,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Assessment of performance against KPIs and publishing KPI information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "13. Section 52(6) provides that the requirement to set KPIs under section 52(1) does not apply where the public contract is:",
+      "ordinal": 19,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Assessment of performance against KPIs and publishing KPI information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "p",
+      "text": "a. a framework;",
+      "ordinal": 20,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Assessment of performance against KPIs and publishing KPI information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "b. a utilities contract awarded by a private utility;",
+      "ordinal": 21,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Assessment of performance against KPIs and publishing KPI information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "p",
+      "text": "c. a concession contract; or",
+      "ordinal": 22,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Assessment of performance against KPIs and publishing KPI information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "d. a light touch contract.",
+      "ordinal": 23,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Assessment of performance against KPIs and publishing KPI information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "14. Where a contract is exempt from the setting of KPIs or where the contracting authority considers that the supplier’s performance could not be appropriately assessed through such indicators, then there is no obligation to publish contract performance notices for the purpose of KPI monitoring (although they may be required following a breach or poor performance as described in section 71 ).",
+      "ordinal": 24,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Assessment of performance against KPIs and publishing KPI information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "p",
+      "text": "15. Where a contract is a ‘convertible contract’ as defined in section 74 (modifying a public contract), there is no requirement to set KPIs when the contract converts, even if, once converted into a public contract, that contract is valued at over £5 million. This is because the requirement to set KPIs under section 52(1) arises before a public contract is entered into. Contracting authorities are, however, required to start reporting on instances of breach or failure to perform on these contracts should the relevant circumstances in section 71 apply. This is because once a convertible contract becomes a public contract, the relevant provisions in section 71 that apply to public contracts will apply to that public contract.",
+      "ordinal": 25,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Assessment of performance against KPIs and publishing KPI information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "p",
+      "text": "16. Regulation 39 sets out the information to be published in the contract performance notice when reporting on KPIs. The notice must contain:",
+      "ordinal": 26,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Assessment of performance against KPIs and publishing KPI information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "p",
+      "text": "a. the contracting authority information;",
+      "ordinal": 27,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Assessment of performance against KPIs and publishing KPI information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "b. the title of the procurement;",
+      "ordinal": 28,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Assessment of performance against KPIs and publishing KPI information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "p",
+      "text": "c. the unique identifier for the procurement and the public contract;",
+      "ordinal": 29,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Assessment of performance against KPIs and publishing KPI information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "p",
+      "text": "d. the three KPIs that the contracting authority regards as most material to performance of the contract obligations as at the time the contract performance notice is published;",
+      "ordinal": 30,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Assessment of performance against KPIs and publishing KPI information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "p",
+      "text": "e. a statement that the notice is being used to set out the contracting authority’s assessment of performance against the selected KPIs;",
+      "ordinal": 31,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Assessment of performance against KPIs and publishing KPI information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "p",
+      "text": "f. information about the identity of the supplier to whom the notice relates;",
+      "ordinal": 32,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Assessment of performance against KPIs and publishing KPI information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "p",
+      "text": "g the contracting authority’s assessment of performance against the selected KPIs in accordance with the ratings set out in regulation 39(5) (as replicated in the below table at paragraph 17); and",
+      "ordinal": 33,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Assessment of performance against KPIs and publishing KPI information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "p",
+      "text": "h. the time period to which the contracting authority’s assessment applies.",
+      "ordinal": 34,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Assessment of performance against KPIs and publishing KPI information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "p",
+      "text": "17. The ratings set out in regulation 39(5) are as follows:",
+      "ordinal": 35,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Assessment of performance against KPIs and publishing KPI information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "table",
+      "text": "Rating\tDescription\nGood\tPerformance is meeting or exceeding the key performance indicators\nApproaching target\tPerformance is close to meeting the key performance indicators\nRequires improvement\tPerformance is below the key performance indicators\nInadequate\tPerformance is significantly below the key performance indicators\nOther\tPerformance cannot be described as good, approaching target, requires improvement or inadequate",
+      "ordinal": 36,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Assessment of performance against KPIs and publishing KPI information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {
+        "rows": [
+          [
+            "Rating",
+            "Description"
+          ],
+          [
+            "Good",
+            "Performance is meeting or exceeding the key performance indicators"
+          ],
+          [
+            "Approaching target",
+            "Performance is close to meeting the key performance indicators"
+          ],
+          [
+            "Requires improvement",
+            "Performance is below the key performance indicators"
+          ],
+          [
+            "Inadequate",
+            "Performance is significantly below the key performance indicators"
+          ],
+          [
+            "Other",
+            "Performance cannot be described as good, approaching target, requires improvement or inadequate"
+          ]
+        ],
+        "row_count": 6
+      }
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "p",
+      "text": "18. A contracting authority may still assess their suppliers against their own internal ratings but must use the above ratings when completing the contract performance notice.",
+      "ordinal": 37,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Assessment of performance against KPIs and publishing KPI information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "heading",
+      "text": "Timing of publication: reporting KPI performance",
+      "ordinal": 38,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Assessment of performance against KPIs and publishing KPI information",
+        "Timing of publication: reporting KPI performance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "p",
+      "text": "19. When used for publishing an assessment of performance against KPIs set under section 52(1) , the contract performance notice must be published at least once every 12 months during the life-cycle of the contract and on termination of the contract. Contracting authorities may choose to assess performance (whether with or without publishing KPI information) more frequently if they choose. Each contract performance notice published will be linked to the previous one in the sequence so that a viewer can track how the contract has been performed over its lifetime. For contracting authorities that are currently required to comply with government’s policy on reporting requirements for KPIs set out in the Commercial Playbooks, this requirement will continue to apply alongside the requirements set out in the Act.",
+      "ordinal": 39,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Assessment of performance against KPIs and publishing KPI information",
+        "Timing of publication: reporting KPI performance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "p",
+      "text": "20. As the assessment of KPI performance and a breach of contract or failure to perform the contract may arise at different times, contract performance notices may contain different things at different times, depending on the circumstances, and there may be multiple contract performance relating to a particular contract.",
+      "ordinal": 40,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Assessment of performance against KPIs and publishing KPI information",
+        "Timing of publication: reporting KPI performance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "p",
+      "text": "21. Upon termination of the contract, the contract performance notice setting out the final assessment of contract performance will need to be published before the contract termination notice. This is because the contract termination notice effectively closes the record of the contract on the central digital system.",
+      "ordinal": 41,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Assessment of performance against KPIs and publishing KPI information",
+        "Timing of publication: reporting KPI performance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "heading",
+      "text": "Changes to KPIs",
+      "ordinal": 42,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Assessment of performance against KPIs and publishing KPI information",
+        "Changes to KPIs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "p",
+      "text": "22. Regulation 39 requires a contracting authority to publish an assessment of performance against the three KPIs set under section 52(1) which the contracting authority regards, at the time the contract performance notice is published, as most material to performance of the contract obligations. These KPIs may be different from the KPIs set out in the contract details notice or in previous contract performance notices as the KPIs to be included must be those regarded as most material as at the time the contract performance notice is published. The KPIs that are most material may therefore depend on when during the life-cycle of the contract the contract performance notice is published.",
+      "ordinal": 43,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Assessment of performance against KPIs and publishing KPI information",
+        "Changes to KPIs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "p",
+      "text": "23. Where the contracting authority considers that fewer than three KPIs set in accordance with section 52(1) are material to performance of the contract obligations at the time the contract performance notice is published, it could (provided this would be a permitted modification under section 74 of the Act) consider introducing a new (or amending an existing) KPI to be assessed against and reported on or continue reporting on the KPIs used in the contract details notice or last contract performance notice (as relevant) but with an ‘Other’ rating. Contracting authorities should use the free text box in the KPI description field to indicate which KPIs included in the contract performance notice are new or amended KPIs.",
+      "ordinal": 44,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Assessment of performance against KPIs and publishing KPI information",
+        "Changes to KPIs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "heading",
+      "text": "Withholding information under Section 94",
+      "ordinal": 45,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Assessment of performance against KPIs and publishing KPI information",
+        "Withholding information under Section 94"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "p",
+      "text": "24. As the KPIs to be measured against must be published, publication of the supplier’s performance against these KPIs in contract performance notices is unlikely to constitute ‘sensitive commercial information’ (as defined in section 94 ) that is not required to be published, although this will need to be assessed against the circumstances that apply at the time.",
+      "ordinal": 46,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Assessment of performance against KPIs and publishing KPI information",
+        "Withholding information under Section 94"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "heading",
+      "text": "Publishing information about incidents of poor performance and breach of contract",
+      "ordinal": 47,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Publishing information about incidents of poor performance and breach of contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "p",
+      "text": "25. The contract performance notice is also the means by which contracting authorities report on relevant incidents of breach of contract and poor performance as required under section 71(5) , except where, following a breach, the contract is terminated in full. Section 71(5) applies to most public contracts (not just those above £5 million) including frameworks and concession contracts.",
+      "ordinal": 48,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Publishing information about incidents of poor performance and breach of contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "p",
+      "text": "26. Where the contract performance notice is used to publish information about a supplier’s breach of a public contract, the breach must have resulted in one (or a combination) of the following:",
+      "ordinal": 49,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Publishing information about incidents of poor performance and breach of contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00050",
+      "block_type": "p",
+      "text": "a. partial termination of the contract (see paragraph 27 for publication requirements where a contract is terminated in full);",
+      "ordinal": 50,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Publishing information about incidents of poor performance and breach of contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00051",
+      "block_type": "p",
+      "text": "b. the award of damages; or",
+      "ordinal": 51,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Publishing information about incidents of poor performance and breach of contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00052",
+      "block_type": "p",
+      "text": "c. a settlement agreement between the supplier and the contracting authority.",
+      "ordinal": 52,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Publishing information about incidents of poor performance and breach of contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00053",
+      "block_type": "p",
+      "text": "27. Where a breach leads to a contract being terminated in full, a contract termination notice is published instead, which provides the relevant information about the breach or performance (see separate guidance on contract termination ). This avoids the need for two notices to be published in respect of the same event.",
+      "ordinal": 53,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Publishing information about incidents of poor performance and breach of contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00054",
+      "block_type": "p",
+      "text": "28. When the contract performance notice is used to publish information about a supplier not performing a public contract to the authority’s satisfaction, the supplier must have been given proper opportunity to improve performance, and must have failed to do so before the notice is published.",
+      "ordinal": 54,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Publishing information about incidents of poor performance and breach of contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00055",
+      "block_type": "p",
+      "text": "29. The requirement to publish a contract performance notice in respect of breaches and failure to perform under section 71 does not apply to private utilities or in relation to light touch contracts.",
+      "ordinal": 55,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Publishing information about incidents of poor performance and breach of contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00056",
+      "block_type": "p",
+      "text": "30. It is important to note that breach of contract and poor performance relate to the entire contract, not just the KPIs that may have been included in the contract details notice or most recent contract performance notice.",
+      "ordinal": 56,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Publishing information about incidents of poor performance and breach of contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00057",
+      "block_type": "p",
+      "text": "31. The breach of contract and failure to perform grounds that give rise to contract performance notice obligations in sections 71(3) and 71(4) respectively are not mutually exclusive. For example, it is possible for an event to occur that amounts to both a failure to perform (under section 71(4) ), and a breach of contract (under section 71(3) for which the contracting authority subsequently decides to partially terminate the contract. These can be reported in the same contract performance notice, depending on how far apart the events occur (see timing of publication below).",
+      "ordinal": 57,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Publishing information about incidents of poor performance and breach of contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00058",
+      "block_type": "heading",
+      "text": "Information requirements",
+      "ordinal": 58,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Publishing information about incidents of poor performance and breach of contract",
+        "Information requirements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00059",
+      "block_type": "p",
+      "text": "32. Where there has been a breach or failure to perform under a public contract, the notice must include the information set out in regulation 39(7) . In both cases this includes:",
+      "ordinal": 59,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Publishing information about incidents of poor performance and breach of contract",
+        "Information requirements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00060",
+      "block_type": "p",
+      "text": "d. supplier information;",
+      "ordinal": 60,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Publishing information about incidents of poor performance and breach of contract",
+        "Information requirements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00061",
+      "block_type": "p",
+      "text": "e. that section 71(5) of the Act applies and the circumstances giving rise to the application of that section;",
+      "ordinal": 61,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Publishing information about incidents of poor performance and breach of contract",
+        "Information requirements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00062",
+      "block_type": "p",
+      "text": "f. a statement as to why the information is being published; and",
+      "ordinal": 62,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Publishing information about incidents of poor performance and breach of contract",
+        "Information requirements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00063",
+      "block_type": "p",
+      "text": "g. the additional information set out in regulation 39(7)(g-m) in respect of the breach or failure to perform (for example, remediation or improvement plans, warning or breach notices).",
+      "ordinal": 63,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Publishing information about incidents of poor performance and breach of contract",
+        "Information requirements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00064",
+      "block_type": "p",
+      "text": "33. Where a supplier has breached a public contract, the contract performance notice must also set out:",
+      "ordinal": 64,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Publishing information about incidents of poor performance and breach of contract",
+        "Information requirements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00065",
+      "block_type": "p",
+      "text": "a. whether the breach resulted in partial termination and the extent to which the contract has been terminated;",
+      "ordinal": 65,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Publishing information about incidents of poor performance and breach of contract",
+        "Information requirements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00066",
+      "block_type": "p",
+      "text": "b. whether the breach resulted in the award of damages or a settlement agreement along with the associated dates;",
+      "ordinal": 66,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Publishing information about incidents of poor performance and breach of contract",
+        "Information requirements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00067",
+      "block_type": "p",
+      "text": "c. where there is an award of damages or payment of other monies, the amount of damages or other monies paid and the basis on which this has been awarded (for example, whether in accordance with the public contract, a decision of a court or tribunal, or a negotiated settlement);",
+      "ordinal": 67,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Publishing information about incidents of poor performance and breach of contract",
+        "Information requirements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00068",
+      "block_type": "p",
+      "text": "d. where there has been a recorded decision of a court or tribunal finding a breach, a link to the web page where the decision can be accessed, or a copy of the decision (which can be attached to the notice).",
+      "ordinal": 68,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Publishing information about incidents of poor performance and breach of contract",
+        "Information requirements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00069",
+      "block_type": "heading",
+      "text": "Timing of publication",
+      "ordinal": 69,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Publishing information about incidents of poor performance and breach of contract",
+        "Timing of publication"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00070",
+      "block_type": "p",
+      "text": "34. The contract performance notice must be published within 30 days of the day on which section 71(5) first applies in relation to a particular breach or failure to perform. This means that the clock starts from:",
+      "ordinal": 70,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Publishing information about incidents of poor performance and breach of contract",
+        "Timing of publication"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00071",
+      "block_type": "p",
+      "text": "a where there is a breach, when one of the following occurs:",
+      "ordinal": 71,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Publishing information about incidents of poor performance and breach of contract",
+        "Timing of publication"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00072",
+      "block_type": "p",
+      "text": "i. partial termination [footnote 1] ;",
+      "ordinal": 72,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Publishing information about incidents of poor performance and breach of contract",
+        "Timing of publication"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00073",
+      "block_type": "p",
+      "text": "ii. the award of damages;",
+      "ordinal": 73,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Publishing information about incidents of poor performance and breach of contract",
+        "Timing of publication"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00074",
+      "block_type": "p",
+      "text": "iii. a settlement agreement is reached between the contracting authority and the supplier; or",
+      "ordinal": 74,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Publishing information about incidents of poor performance and breach of contract",
+        "Timing of publication"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00075",
+      "block_type": "p",
+      "text": "b. in the case of poor performance, when the supplier fails to improve performance.",
+      "ordinal": 75,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Publishing information about incidents of poor performance and breach of contract",
+        "Timing of publication"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00076",
+      "block_type": "p",
+      "text": "35. In the case of a breach, the timing requirements in section 71 might mean, for example, that the contract performance notice must be published before an award of damages has been made or before a settlement agreement has been reached if, prior to the award being made or settlement agreement being reached, part of the contract was terminated. In this instance the information provided in the contract performance notice will be limited to what is available at the time of publication. There is no requirement under the Act for the contracting authority to update the notice with additional information when it becomes available, although the contracting authority can choose (and it would be good practice) to do so.",
+      "ordinal": 76,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Publishing information about incidents of poor performance and breach of contract",
+        "Timing of publication"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00077",
+      "block_type": "p",
+      "text": "36. In the case of poor performance, the point at which the requirement to publish a contract performance notice arises may be more of a judgement call on the part of the contracting authority, depending on the circumstances. The trigger for the clock to start here is when the contracting authority determines that the supplier has failed to perform to the contracting authority’s satisfaction after having been given a proper opportunity to improve its performance. The contracting authority will need to determine the precise date that this arises, having regard to the specific contractual provisions that apply. It may, for example, be the date on which a notice was issued to the supplier to the effect that it has failed to improve its performance after a particular period of time and/or has failed to implement an agreed rectification plan.",
+      "ordinal": 77,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Publishing information about incidents of poor performance and breach of contract",
+        "Timing of publication"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00078",
+      "block_type": "heading",
+      "text": "Withholding information under section 94",
+      "ordinal": 78,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Publishing information about incidents of poor performance and breach of contract",
+        "Withholding information under section 94"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00079",
+      "block_type": "p",
+      "text": "37. A supplier might ask for information to be withheld from publication under section 94 on the grounds that it is ‘sensitive commercial information’ because disclosure of the information “would be likely to prejudice the commercial interests of any person if it were published or otherwise disclosed”. It is for the contracting authority to determine whether these grounds are justified and section 94(1) provides that a public interest test is necessary when considering whether to withhold information.",
+      "ordinal": 79,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Publishing information about incidents of poor performance and breach of contract",
+        "Withholding information under section 94"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00080",
+      "block_type": "p",
+      "text": "38. One of the reasons for publishing information under section 71(5) about a breach or poor performance is to provide a public record of which suppliers are subject to the discretionary exclusion ground set out in Schedule 7, paragraph 12(4) (i.e. publication of a notice relating to breach of contract and poor performance). The existence of the notice means that the supplier will (if the notice is within the relevant time period) be excludable under a procurement being carried out by another contracting authority if the circumstances giving rise to the exclusion ground are continuing or are likely to occur again (see guidance on exclusions ). So, whilst some of the information requirements in regulation 39 , (particularly, the requirement in regulation 39(7)(k) to explain the nature of the breach or performance failure) might be considered by the supplier to be sensitive commercial information, in order for it to be withheld under section 94(1)(b) there must be an overriding public interest for doing so. There is a high bar for withholding such information due to it generally being in the public interest to release.",
+      "ordinal": 80,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Publishing information about incidents of poor performance and breach of contract",
+        "Withholding information under section 94"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00081",
+      "block_type": "p",
+      "text": "39. With respect to the sensitivity of the details of any award of damages, if these were awarded in accordance with a public contract that had been published, then there would be little justification for withholding the information. Similarly, where there has been a decision by a court or tribunal and that information is publicly available there would be no justification for failing to include details (or a link to, or copy of, the decision) in the contract performance notice.",
+      "ordinal": 81,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Publishing information about incidents of poor performance and breach of contract",
+        "Withholding information under section 94"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00082",
+      "block_type": "p",
+      "text": "40. The details of a settlement agreement are not required to be published under the Act or regulations; it is sufficient to simply identify that a settlement agreement has been reached and, where relevant, include the amount of monies paid under the agreement.",
+      "ordinal": 82,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Publishing information about incidents of poor performance and breach of contract",
+        "Withholding information under section 94"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00083",
+      "block_type": "p",
+      "text": "41. Contracting authorities should also be mindful that information that is not published in the contract performance notice could still be requested by interested parties under the Freedom of Information Act 2000 and that where information is not published or is withheld under section 94 , a contracting authority could be challenged by way of a judicial review.",
+      "ordinal": 83,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Publishing information about incidents of poor performance and breach of contract",
+        "Withholding information under section 94"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00084",
+      "block_type": "heading",
+      "text": "Use of the contract performance notice when removing a supplier from a multi-supplier contract",
+      "ordinal": 84,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Publishing information about incidents of poor performance and breach of contract",
+        "Use of the contract performance notice when removing a supplier from a multi-supplier contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00085",
+      "block_type": "p",
+      "text": "42. Where a contracting authority has a single contract with multiple suppliers, such as in the case of some frameworks, the contracting authority may decide to remove a supplier from the contract, for example, because it has become an excluded or excludable supplier after the award of the contract, but continue with the contract. Where this is the case, contracting authorities are encouraged to publish a contract performance notice (where not already required by the Act) to provide transparency about which suppliers are able to perform the contract or, where relevant, may be awarded a call-off contract under a framework. Where a contract performance notice is published voluntarily for this purpose, the contract performance notice should make clear that the notice is not being published under section 71(5) of the Act, i.e. that the supplier has not breached the contract, unless section 71(5) does in fact apply in the circumstances.",
+      "ordinal": 85,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Publishing information about incidents of poor performance and breach of contract",
+        "Use of the contract performance notice when removing a supplier from a multi-supplier contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00086",
+      "block_type": "p",
+      "text": "43. In addition, to understand which suppliers are party to particular frameworks set up by other contracting authorities, and are therefore eligible to be awarded a call-off contracts under the framework, contracting authorities can:",
+      "ordinal": 86,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Publishing information about incidents of poor performance and breach of contract",
+        "Use of the contract performance notice when removing a supplier from a multi-supplier contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00087",
+      "block_type": "p",
+      "text": "a. check with the framework administrator to see whether any suppliers have been removed from the framework under section 78 (or otherwise);",
+      "ordinal": 87,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Publishing information about incidents of poor performance and breach of contract",
+        "Use of the contract performance notice when removing a supplier from a multi-supplier contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00088",
+      "block_type": "p",
+      "text": "b. ask suppliers to certify that they are still a party to the framework.",
+      "ordinal": 88,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Key points and policy intent",
+        "Publishing information about incidents of poor performance and breach of contract",
+        "Use of the contract performance notice when removing a supplier from a multi-supplier contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00089",
+      "block_type": "heading",
+      "text": "What notices are linked to this aspect of the Act?",
+      "ordinal": 89,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00090",
+      "block_type": "p",
+      "text": "44. The contract performance notice may be preceded by any of the following notices:",
+      "ordinal": 90,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00091",
+      "block_type": "p",
+      "text": "a. contract details notice: this will always be published before the first contract performance notice and, where section 52(1) applies, will include at least three KPIs;",
+      "ordinal": 91,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00092",
+      "block_type": "p",
+      "text": "b. contract performance notice: as multiple contract performance notices may be necessary over a contract’s lifetime, one notice may follow on from another;",
+      "ordinal": 92,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00093",
+      "block_type": "p",
+      "text": "c. contract change notice: a contract may have been modified which required the publication of a contract change notice under section 75 .",
+      "ordinal": 93,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00094",
+      "block_type": "p",
+      "text": "45. The next notice in a sequence may be:",
+      "ordinal": 94,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00095",
+      "block_type": "p",
+      "text": "a. contract change notice;",
+      "ordinal": 95,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00096",
+      "block_type": "p",
+      "text": "b. contract performance notice;",
+      "ordinal": 96,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00097",
+      "block_type": "p",
+      "text": "c. contract termination notice: at the end of the contract, there is a requirement to publish a contract termination notice. If a breach results in full termination of the contract this notice is used to set out the information relating to the breach instead of the contract performance notice.",
+      "ordinal": 97,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00098",
+      "block_type": "heading",
+      "text": "What other guidance is of particular relevance to this topic area?",
+      "ordinal": 98,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00099",
+      "block_type": "p",
+      "text": "Guidance on key performance indicators",
+      "ordinal": 99,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00100",
+      "block_type": "p",
+      "text": "Guidance on publication of information",
+      "ordinal": 100,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00101",
+      "block_type": "p",
+      "text": "Guidance on contract details notices",
+      "ordinal": 101,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00102",
+      "block_type": "p",
+      "text": "Guidance on exclusions",
+      "ordinal": 102,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00103",
+      "block_type": "heading",
+      "text": "Where can I go for more information or training?",
+      "ordinal": 103,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00104",
+      "block_type": "p",
+      "text": "The Sourcing Playbook",
+      "ordinal": 104,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00105",
+      "block_type": "p",
+      "text": "The Construction Playbook",
+      "ordinal": 105,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00106",
+      "block_type": "p",
+      "text": "The Digital, Data and Technology Playbook",
+      "ordinal": 106,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00107",
+      "block_type": "p",
+      "text": "The Consultancy Playbook",
+      "ordinal": 107,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00108",
+      "block_type": "p",
+      "text": "Freedom of Information Act 2000",
+      "ordinal": 108,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00109",
+      "block_type": "li",
+      "text": "Where the contract is terminated in whole, section 80 requires that a contract termination notice must be published within the same period. ↩",
+      "ordinal": 109,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00110",
+      "block_type": "p",
+      "text": "Where the contract is terminated in whole, section 80 requires that a contract termination notice must be published within the same period. ↩",
+      "ordinal": 110,
+      "heading_path": [
+        "What is a contract performance notice?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "section 71",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/71",
+      "block_id": "b00001",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement Act 2023 (Act)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/contents",
+      "block_id": "b00001",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 52(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/52",
+      "block_id": "b00002",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 52",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/52",
+      "block_id": "b00006",
+      "ordinal": 3,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 53",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/53",
+      "block_id": "b00007",
+      "ordinal": 4,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Regulations 32-35",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/part/2",
+      "block_id": "b00007",
+      "ordinal": 5,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 71",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/71",
+      "block_id": "b00008",
+      "ordinal": 6,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 71",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/71",
+      "block_id": "b00009",
+      "ordinal": 7,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 39",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/39",
+      "block_id": "b00009",
+      "ordinal": 8,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 71",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/71",
+      "block_id": "b00012",
+      "ordinal": 9,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 52",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/52",
+      "block_id": "b00012",
+      "ordinal": 10,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Regulation 39",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/39",
+      "block_id": "b00012",
+      "ordinal": 11,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "key performance indicators",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-key-performance-indicators-html",
+      "block_id": "b00012",
+      "ordinal": 12,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 71",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/71",
+      "block_id": "b00014",
+      "ordinal": 13,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Regulation 39",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/39",
+      "block_id": "b00014",
+      "ordinal": 14,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 71",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/71",
+      "block_id": "b00014",
+      "ordinal": 15,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 7, paragraph 12(4)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/7/paragraph/12",
+      "block_id": "b00014",
+      "ordinal": 16,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "exclusions",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-exclusions-html",
+      "block_id": "b00014",
+      "ordinal": 17,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 7, paragraphs 12(1-3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/7/paragraph/12",
+      "block_id": "b00015",
+      "ordinal": 18,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "key performance indicators",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-key-performance-indicators-html",
+      "block_id": "b00018",
+      "ordinal": 19,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "contract details notices",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-contract-details-notices-html",
+      "block_id": "b00018",
+      "ordinal": 20,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "key performance indicators",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-key-performance-indicators-html",
+      "block_id": "b00018",
+      "ordinal": 21,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 52(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/52",
+      "block_id": "b00018",
+      "ordinal": 22,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 52(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/52",
+      "block_id": "b00018",
+      "ordinal": 23,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 52(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/52",
+      "block_id": "b00018",
+      "ordinal": 24,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 32(2)(r)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/32",
+      "block_id": "b00018",
+      "ordinal": 25,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 52(6)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/52",
+      "block_id": "b00019",
+      "ordinal": 26,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 52(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/52",
+      "block_id": "b00019",
+      "ordinal": 27,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 71",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/71",
+      "block_id": "b00024",
+      "ordinal": 28,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 74",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/74",
+      "block_id": "b00025",
+      "ordinal": 29,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 52(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/52",
+      "block_id": "b00025",
+      "ordinal": 30,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 71",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/71",
+      "block_id": "b00025",
+      "ordinal": 31,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 71",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/71",
+      "block_id": "b00025",
+      "ordinal": 32,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Regulation 39",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/39",
+      "block_id": "b00026",
+      "ordinal": 33,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 39(5)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/39",
+      "block_id": "b00033",
+      "ordinal": 34,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 39(5)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/39",
+      "block_id": "b00035",
+      "ordinal": 35,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 52(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/52",
+      "block_id": "b00039",
+      "ordinal": 36,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Regulation 39",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/39",
+      "block_id": "b00043",
+      "ordinal": 37,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 52(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/52",
+      "block_id": "b00043",
+      "ordinal": 38,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 52(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/52",
+      "block_id": "b00044",
+      "ordinal": 39,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 74",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/74",
+      "block_id": "b00044",
+      "ordinal": 40,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 94",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/94",
+      "block_id": "b00045",
+      "ordinal": 41,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 94",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/94",
+      "block_id": "b00046",
+      "ordinal": 42,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 71(5)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/71",
+      "block_id": "b00048",
+      "ordinal": 43,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 71(5)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/71",
+      "block_id": "b00048",
+      "ordinal": 44,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "contract termination",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-termination-html",
+      "block_id": "b00053",
+      "ordinal": 45,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 71",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/71",
+      "block_id": "b00055",
+      "ordinal": 46,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "sections 71(3) and 71(4)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/71",
+      "block_id": "b00057",
+      "ordinal": 47,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 71(4)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/71",
+      "block_id": "b00057",
+      "ordinal": 48,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 71(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/71",
+      "block_id": "b00057",
+      "ordinal": 49,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 39(7)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/39",
+      "block_id": "b00059",
+      "ordinal": 50,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 71(5)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/71",
+      "block_id": "b00061",
+      "ordinal": 51,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 39(7)(g-m)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/39",
+      "block_id": "b00063",
+      "ordinal": 52,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 71(5)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/71",
+      "block_id": "b00070",
+      "ordinal": 53,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "[footnote 1]",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-performance-notices-html#fn:1",
+      "block_id": "b00072",
+      "ordinal": 54,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "section 71",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/71",
+      "block_id": "b00076",
+      "ordinal": 55,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 94",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/94",
+      "block_id": "b00078",
+      "ordinal": 56,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 94",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/94",
+      "block_id": "b00079",
+      "ordinal": 57,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 94(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/94",
+      "block_id": "b00079",
+      "ordinal": 58,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 71(5)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/71",
+      "block_id": "b00080",
+      "ordinal": 59,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 7, paragraph 12(4)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/7/paragraph/12",
+      "block_id": "b00080",
+      "ordinal": 60,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "exclusions",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-exclusions-html",
+      "block_id": "b00080",
+      "ordinal": 61,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 39",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/39",
+      "block_id": "b00080",
+      "ordinal": 62,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 39(7)(k)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/39",
+      "block_id": "b00080",
+      "ordinal": 63,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 94(1)(b)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/94",
+      "block_id": "b00080",
+      "ordinal": 64,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Freedom of Information Act 2000",
+      "href": "https://www.legislation.gov.uk/ukpga/2000/36/contents",
+      "block_id": "b00083",
+      "ordinal": 65,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 94",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/94",
+      "block_id": "b00083",
+      "ordinal": 66,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 71(5)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/71",
+      "block_id": "b00085",
+      "ordinal": 67,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 71(5)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/71",
+      "block_id": "b00085",
+      "ordinal": 68,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 78",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/78",
+      "block_id": "b00087",
+      "ordinal": 69,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 52(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/52",
+      "block_id": "b00091",
+      "ordinal": 70,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 75",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/75",
+      "block_id": "b00093",
+      "ordinal": 71,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "key performance indicators",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-key-performance-indicators-html",
+      "block_id": "b00099",
+      "ordinal": 72,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "publication of information",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-central-digital-platform-and-publication-of-information-html",
+      "block_id": "b00100",
+      "ordinal": 73,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "contract details notices",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-contract-details-notices-html",
+      "block_id": "b00101",
+      "ordinal": 74,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "exclusions",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-exclusions-html",
+      "block_id": "b00102",
+      "ordinal": 75,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "The Sourcing Playbook",
+      "href": "https://www.gov.uk/government/publications/the-sourcing-and-consultancy-playbooks/the-sourcing-playbook-html",
+      "block_id": "b00104",
+      "ordinal": 76,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "The Construction Playbook",
+      "href": "https://www.gov.uk/government/publications/the-construction-playbook",
+      "block_id": "b00105",
+      "ordinal": 77,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "The Digital, Data and Technology Playbook",
+      "href": "https://www.gov.uk/government/publications/the-digital-data-and-technology-playbook/the-digital-data-and-technology-playbook-html",
+      "block_id": "b00106",
+      "ordinal": 78,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "The Consultancy Playbook",
+      "href": "https://www.gov.uk/government/publications/the-consultancy-playbook",
+      "block_id": "b00107",
+      "ordinal": 79,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Freedom of Information Act 2000",
+      "href": "https://www.legislation.gov.uk/ukpga/2000/36/contents",
+      "block_id": "b00108",
+      "ordinal": 80,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 80",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/80",
+      "block_id": "b00109",
+      "ordinal": 81,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-performance-notices-html#fnref:1",
+      "block_id": "b00109",
+      "ordinal": 82,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "section 80",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/80",
+      "block_id": "b00110",
+      "ordinal": 83,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-performance-notices-html#fnref:1",
+      "block_id": "b00110",
+      "ordinal": 84,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Guidance: Contract Performance Notices (HTML)",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-performance-notices-html",
+      "block_id": "__document__",
+      "ordinal": 85,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2024 to 2026 Starmer Labour government",
+      "href": "https://www.gov.uk/government/2024-starmer-labour-government",
+      "block_id": "__document__",
+      "ordinal": 86,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 87,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Procurement Act 2023 guidance documents - Manage phase",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase",
+      "block_id": "__document__",
+      "ordinal": 88,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 89,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 71",
+      "block_id": "b00001",
+      "start": 116,
+      "end": 126,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "71"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 52(1)",
+      "block_id": "b00002",
+      "start": 90,
+      "end": 103,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "52",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 27",
+      "block_id": "b00003",
+      "start": 236,
+      "end": 248,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "27"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 52",
+      "block_id": "b00006",
+      "start": 3,
+      "end": 13,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "52"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 53",
+      "block_id": "b00007",
+      "start": 157,
+      "end": 167,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "53"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 32",
+      "block_id": "b00007",
+      "start": 170,
+      "end": 184,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "32"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 71",
+      "block_id": "b00008",
+      "start": 3,
+      "end": 13,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "71"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 71",
+      "block_id": "b00009",
+      "start": 50,
+      "end": 60,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "71"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 39",
+      "block_id": "b00009",
+      "start": 123,
+      "end": 136,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "39"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 71",
+      "block_id": "b00012",
+      "start": 3,
+      "end": 13,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "71"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 52",
+      "block_id": "b00012",
+      "start": 221,
+      "end": 231,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "52"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 39",
+      "block_id": "b00012",
+      "start": 317,
+      "end": 330,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "39"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 71",
+      "block_id": "b00014",
+      "start": 4,
+      "end": 14,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "71"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 71",
+      "block_id": "b00014",
+      "start": 422,
+      "end": 432,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "71"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 39",
+      "block_id": "b00014",
+      "start": 170,
+      "end": 183,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "39"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 7, paragraph 12(4)",
+      "block_id": "b00014",
+      "start": 435,
+      "end": 462,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "7",
+        "paragraph": "12",
+        "tail": "(4)"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 12(4)",
+      "block_id": "b00014",
+      "start": 447,
+      "end": 462,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "12",
+        "tail": "(4)"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 7",
+      "block_id": "b00015",
+      "start": 159,
+      "end": 169,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "7"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraphs 12",
+      "block_id": "b00015",
+      "start": 171,
+      "end": 184,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "12"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 52(1)",
+      "block_id": "b00018",
+      "start": 219,
+      "end": 232,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "52",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 52(1)",
+      "block_id": "b00018",
+      "start": 474,
+      "end": 487,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "52",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 52(3)",
+      "block_id": "b00018",
+      "start": 490,
+      "end": 503,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "52",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 32(2)(r)",
+      "block_id": "b00018",
+      "start": 574,
+      "end": 593,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "32",
+        "tail": "(2)(r)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 52(6)",
+      "block_id": "b00019",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "52",
+        "tail": "(6)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 52(1)",
+      "block_id": "b00019",
+      "start": 66,
+      "end": 79,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "52",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 71",
+      "block_id": "b00024",
+      "start": 382,
+      "end": 392,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "71"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 74",
+      "block_id": "b00025",
+      "start": 63,
+      "end": 73,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "74"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 52(1)",
+      "block_id": "b00025",
+      "start": 311,
+      "end": 324,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "52",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 71",
+      "block_id": "b00025",
+      "start": 541,
+      "end": 551,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "71"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 71",
+      "block_id": "b00025",
+      "start": 657,
+      "end": 667,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "71"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 39",
+      "block_id": "b00026",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "39"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 39(5)",
+      "block_id": "b00033",
+      "start": 124,
+      "end": 140,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "39",
+        "tail": "(5)"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 17",
+      "block_id": "b00033",
+      "start": 178,
+      "end": 190,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "17"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 39(5)",
+      "block_id": "b00035",
+      "start": 27,
+      "end": 43,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "39",
+        "tail": "(5)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 52(1)",
+      "block_id": "b00039",
+      "start": 81,
+      "end": 94,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "52",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 52(1)",
+      "block_id": "b00043",
+      "start": 124,
+      "end": 137,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "52",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 39",
+      "block_id": "b00043",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "39"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 52(1)",
+      "block_id": "b00044",
+      "start": 96,
+      "end": 109,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "52",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 74",
+      "block_id": "b00044",
+      "start": 288,
+      "end": 298,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "74"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 94",
+      "block_id": "b00045",
+      "start": 30,
+      "end": 40,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "94"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 94",
+      "block_id": "b00046",
+      "start": 227,
+      "end": 237,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "94"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 71(5)",
+      "block_id": "b00048",
+      "start": 177,
+      "end": 190,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "71",
+        "tail": "(5)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 71(5)",
+      "block_id": "b00048",
+      "start": 263,
+      "end": 276,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "71",
+        "tail": "(5)"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 27",
+      "block_id": "b00050",
+      "start": 44,
+      "end": 56,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "27"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 71",
+      "block_id": "b00055",
+      "start": 113,
+      "end": 123,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "71"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "sections 71(3)",
+      "block_id": "b00057",
+      "start": 119,
+      "end": 133,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "71",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 71(4)",
+      "block_id": "b00057",
+      "start": 284,
+      "end": 297,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "71",
+        "tail": "(4)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 71(3)",
+      "block_id": "b00057",
+      "start": 333,
+      "end": 346,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "71",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 39(7)",
+      "block_id": "b00059",
+      "start": 132,
+      "end": 148,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "39",
+        "tail": "(7)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 71(5)",
+      "block_id": "b00061",
+      "start": 8,
+      "end": 21,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "71",
+        "tail": "(5)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 39(7)",
+      "block_id": "b00063",
+      "start": 41,
+      "end": 57,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "39",
+        "tail": "(7)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 71(5)",
+      "block_id": "b00070",
+      "start": 89,
+      "end": 102,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "71",
+        "tail": "(5)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 71",
+      "block_id": "b00076",
+      "start": 56,
+      "end": 66,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "71"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 94",
+      "block_id": "b00078",
+      "start": 30,
+      "end": 40,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "94"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 94",
+      "block_id": "b00079",
+      "start": 79,
+      "end": 89,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "94"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 94(1)",
+      "block_id": "b00079",
+      "start": 393,
+      "end": 406,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "94",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 71(5)",
+      "block_id": "b00080",
+      "start": 56,
+      "end": 69,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "71",
+        "tail": "(5)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 94(1)(b)",
+      "block_id": "b00080",
+      "start": 946,
+      "end": 962,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "94",
+        "tail": "(1)(b)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 39",
+      "block_id": "b00080",
+      "start": 703,
+      "end": 716,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "39"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 39(7)(k)",
+      "block_id": "b00080",
+      "start": 753,
+      "end": 772,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "39",
+        "tail": "(7)(k)"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 7, paragraph 12(4)",
+      "block_id": "b00080",
+      "start": 215,
+      "end": 242,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "7",
+        "paragraph": "12",
+        "tail": "(4)"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 12(4)",
+      "block_id": "b00080",
+      "start": 227,
+      "end": 242,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "12",
+        "tail": "(4)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 94",
+      "block_id": "b00083",
+      "start": 279,
+      "end": 289,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "94"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 71(5)",
+      "block_id": "b00085",
+      "start": 804,
+      "end": 817,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "71",
+        "tail": "(5)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 71(5)",
+      "block_id": "b00085",
+      "start": 891,
+      "end": 904,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "71",
+        "tail": "(5)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 78",
+      "block_id": "b00087",
+      "start": 114,
+      "end": 124,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "78"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 52(1)",
+      "block_id": "b00091",
+      "start": 114,
+      "end": 127,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "52",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 75",
+      "block_id": "b00093",
+      "start": 126,
+      "end": 136,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "75"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 80",
+      "block_id": "b00109",
+      "start": 43,
+      "end": 53,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "80"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 80",
+      "block_id": "b00110",
+      "start": 43,
+      "end": 53,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "80"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

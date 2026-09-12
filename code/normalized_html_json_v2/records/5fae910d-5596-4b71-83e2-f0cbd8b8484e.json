@@ -1,0 +1,115 @@
+{
+  "document_id": "5fae910d-5596-4b71-83e2-f0cbd8b8484e",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/d9d76d458698c65eb6ed598b.json",
+  "input_sha256": "31095d73e0281266c280b80c1cf11224ffb6bfe5a7b3328e05bf1683fdd759ae",
+  "processed_at": "2026-08-27T02:26:43.633831+00:00",
+  "title": "Procurement policy note 09/15: assisting with procurement investigations",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-policy-note-0915-assisting-with-procurement-investigations",
+  "description": "This guidance sets out the requirements for contracting authorities to comply with CCS Mystery Shopper investigations into procurement.  ",
+  "publication_date": "2015-06-01T17:13:00+01:00",
+  "updated_date": "2019-02-04T13:16:59+00:00",
+  "source_metadata": {
+    "content_id": "5fae910d-5596-4b71-83e2-f0cbd8b8484e",
+    "base_path": "/government/publications/procurement-policy-note-0915-assisting-with-procurement-investigations",
+    "document_type": "guidance",
+    "schema_name": "publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "This note explains new statutory requirements for certain authorities to comply with procurement investigations conducted by the Crown Commercial Service Mystery Shopper service.",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "Please note the Mystery Shopper Service changed name to the Public Procurement Review Service from 29/11/18",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "Procurement policy note 09/15: assisting with procurement investigations",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0915-assisting-with-procurement-investigations",
+      "block_id": "__document__",
+      "ordinal": 0,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "Procurement policy notes",
+      "href": "https://www.gov.uk/government/collections/procurement-policy-notes",
+      "block_id": "__document__",
+      "ordinal": 1,
+      "link_type": "GOVUK_DOCUMENT_COLLECTIONS"
+    },
+    {
+      "text": "2015 to 2016 Cameron Conservative government",
+      "href": "https://www.gov.uk/government/2015-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Crown Commercial Service",
+      "href": "https://www.gov.uk/government/organisations/crown-commercial-service",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_ORIGINAL_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Government spending",
+      "href": "https://www.gov.uk/government/government-spending",
+      "block_id": "__document__",
+      "ordinal": 7,
+      "link_type": "GOVUK_TAXONS"
+    }
+  ],
+  "legal_references": [],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/5a80654240f0b6230269341e/ppn-mystery-shopper.pdf",
+      "title": "Procurement Policy Note: Requirements for contracting authorities to assist with procurement investigations",
+      "content_type": "application/pdf",
+      "filename": "ppn-mystery-shopper.pdf",
+      "id": "3204800",
+      "logical_role": "ATTACHMENT"
+    }
+  ],
+  "warnings": []
+}

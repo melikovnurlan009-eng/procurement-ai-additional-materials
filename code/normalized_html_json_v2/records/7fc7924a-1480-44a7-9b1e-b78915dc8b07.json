@@ -1,0 +1,2009 @@
+{
+  "document_id": "7fc7924a-1480-44a7-9b1e-b78915dc8b07",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/04666b9c54d86afffc0df6d5.json",
+  "input_sha256": "757e8147a43a895733557e8b33c54162eb11d2d7a5ccbe3171448d9ceb6effab",
+  "processed_at": "2026-08-27T02:26:02.946888+00:00",
+  "title": "Guidance: Conditions of Participation (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-conditions-of-participation-html",
+  "description": null,
+  "publication_date": "2024-07-19T11:25:56+01:00",
+  "updated_date": "2026-08-17T15:52:00+01:00",
+  "source_metadata": {
+    "content_id": "7fc7924a-1480-44a7-9b1e-b78915dc8b07",
+    "base_path": "/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-conditions-of-participation-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What are conditions of participation?",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What is the legal framework that governs conditions of participation?",
+      "ordinal": 9,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What has changed?",
+      "ordinal": 11,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Key points and policy intent",
+      "ordinal": 16,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Financial and insurance information",
+      "ordinal": 25,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Audited accounts",
+      "ordinal": 26,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Insurance",
+      "ordinal": 29,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Assessing the conditions of participation",
+      "ordinal": 33,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Verifying the conditions of participation",
+      "ordinal": 37,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Relying on other suppliers to pass conditions of participation",
+      "ordinal": 39,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Dynamic markets",
+      "ordinal": 49,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Frameworks",
+      "ordinal": 52,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Works contracts",
+      "ordinal": 57,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Interaction with the central digital platform",
+      "ordinal": 59,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Which notices are linked to this aspect of the Act?",
+      "ordinal": 67,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What other guidance is of particular relevance to this topic area?",
+      "ordinal": 70,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Where can I go for more information or training?",
+      "ordinal": 78,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "What are conditions of participation?",
+      "ordinal": 0,
+      "heading_path": [
+        "What are conditions of participation?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "1. The Procurement Act 2023 (Act) allows contracting authorities to set conditions of participation which a supplier must satisfy in order to be awarded a public contract following a competitive tendering procedure. The conditions must only relate to the supplier’s:",
+      "ordinal": 1,
+      "heading_path": [
+        "What are conditions of participation?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "a. legal and financial capacity; or",
+      "ordinal": 2,
+      "heading_path": [
+        "What are conditions of participation?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "b. technical ability",
+      "ordinal": 3,
+      "heading_path": [
+        "What are conditions of participation?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "to perform the contract.",
+      "ordinal": 4,
+      "heading_path": [
+        "What are conditions of participation?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "2. They must be a proportionate means of ensuring the supplier’s relevant capacity or ability, having regard to the nature, complexity and cost of the public contract.",
+      "ordinal": 5,
+      "heading_path": [
+        "What are conditions of participation?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "p",
+      "text": "3. When compared with award criteria ( section 23 ) which are used to assess the tender, conditions of participation are used to assess the supplier. Contracting authorities must make these conditions clear in the tender notice, supplemented (where necessary) by the tender documents.",
+      "ordinal": 6,
+      "heading_path": [
+        "What are conditions of participation?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "4. In a competitive flexible procedure, the conditions of participation may be used to limit the number of suppliers. The conditions may provide for the selection of suppliers in an initial participation round via a pass/fail mechanism or using objective criteria to score suppliers as set out in the tender notice. This could then lead to reducing the number of participants to a shortlist of suppliers who then progress to future tendering rounds.",
+      "ordinal": 7,
+      "heading_path": [
+        "What are conditions of participation?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "5. It will be the responsibility of the contracting authority to consider and draft suitable conditions of participation and determine how these will be assessed.",
+      "ordinal": 8,
+      "heading_path": [
+        "What are conditions of participation?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "heading",
+      "text": "What is the legal framework that governs conditions of participation?",
+      "ordinal": 9,
+      "heading_path": [
+        "What are conditions of participation?",
+        "What is the legal framework that governs conditions of participation?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "p",
+      "text": "6. Conditions of participation are primarily covered in section 22 of the Act. This makes provision for contracting authorities to set conditions of participation which a supplier must meet in order to be awarded the contract. It establishes limitations on this practice (explained below) as well as setting parameters for the use of evidence and reliance by the supplier on third parties in meeting the conditions of participation.",
+      "ordinal": 10,
+      "heading_path": [
+        "What are conditions of participation?",
+        "What is the legal framework that governs conditions of participation?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "heading",
+      "text": "What has changed?",
+      "ordinal": 11,
+      "heading_path": [
+        "What are conditions of participation?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "7. The obligation that conditions of participation must be proportionate to the procurement is a change in wording from the Public Contracts Regulations 2015 (PCR), Defence and Security Public Contracts Regulations 2011 (DSPCR) and Utilities Contracts Regulations 2016 (UCR) but is not expected to lead to any change in practice.",
+      "ordinal": 12,
+      "heading_path": [
+        "What are conditions of participation?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "8. The Act does not prescribe how suppliers should demonstrate that they meet the conditions of participation, unlike regulation 59 of the PCR and regulation 80(4) of the UCR which require the use of the Single Procurement Document (in practice the Standard Selection Questionnaire (SSQ)). Nevertheless, ‘participation’ templates may be used so long as these comply with the Act’s requirements on conditions of participation.",
+      "ordinal": 13,
+      "heading_path": [
+        "What are conditions of participation?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "9. The PCR (regulation 60), DSCPR (regulation 25) and UCR (regulation 80) set out exhaustive lists of means of proof which could be used by contracting authorities to assess standards of technical or professional ability. These provisions are not replicated in the Act. t",
+      "ordinal": 14,
+      "heading_path": [
+        "What are conditions of participation?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "10. The Act also includes specific restrictions around requiring audited accounts and insurance in the conditions of participation. These have been included to remove barriers for new entrants and to facilitate increased participation from small and medium-sized enterprises (SMEs) in public procurement.",
+      "ordinal": 15,
+      "heading_path": [
+        "What are conditions of participation?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "heading",
+      "text": "Key points and policy intent",
+      "ordinal": 16,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "11. Section 22(1) allows contracting authorities to set conditions that ensure a supplier’s legal and financial capacity and technical ability to perform the contract. Any conditions set must be a proportionate means of ensuring suppliers have this capacity or ability, having regard to the nature, cost and complexity of the contract. Therefore, it will usually be the case that conditions of participation are limited to assessing those aspects of legal and financial capacity and technical ability which are essential for the contract to be delivered.",
+      "ordinal": 17,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "p",
+      "text": "12. A supplier must meet the set conditions of participation in order to be awarded the contract. Contracting authorities should think very carefully when setting conditions because if a supplier fails to meet one condition, even if they meet all others, then they cannot ultimately be awarded the contract (see below on the timings of satisfying the conditions of participation).",
+      "ordinal": 18,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "13. Section 22(4) makes it clear that:",
+      "ordinal": 19,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "p",
+      "text": "a. whilst conditions can include qualifications, experience or technical ability, they cannot relate to a prior award by a particular contracting authority (so for example public sector experience may be required but experience with a specific public sector organisation cannot);",
+      "ordinal": 20,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "b. the conditions may not contravene the rules on technical specifications in section 56 (technical specifications);",
+      "ordinal": 21,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "p",
+      "text": "c. a condition cannot require particular qualifications without allowing for their equivalents.",
+      "ordinal": 22,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "14. Contracting authorities may prevent a supplier from participating in, or progressing as part of, a competitive tendering procedure when the supplier has not satisfied a condition of participation ( section 22(7) ). This means that whilst a supplier must satisfy every condition of participation in order to be awarded the public contract (see section 22(2) ), a contracting authority may choose the timing at which exclusion from a competitive tendering procedure takes place. For example, a contracting authority may allow suppliers to confirm they meet certain conditions at a later point in the process in a multi-stage procedure or may, under section 72 , direct that the supplier sub-contracts part of the contract to another supplier to meet the conditions of participation (see paragraph 28 below).",
+      "ordinal": 23,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "15. It will often be good practice when excluding suppliers who are unable to meet the conditions of participation (and are therefore not capable of delivering the contract), to do so at the earliest point. This can avoid the contracting authority and supplier expending unnecessary time and resources. Providing prompt feedback could also help forestall challenges to any subsequent award decisions. However, in certain procurements, contracting authorities may decide that they will allow suppliers to progress through the procurement with a requirement that suppliers will fulfil the conditions by a later stage and before the award of the contract. For example, a contracting authority may decide not to prevent a supplier who does not satisfy a particular standard from proceeding if that supplier is undergoing the process of obtaining the standard at the point when conditions are assessed. If the contracting authority decides to allow the supplier to progress in the procurement, they should be mindful of the equal treatment provisions in section 12 . If a contracting authority thinks it is likely to exercise their discretion in this way, it is strongly recommended that the discretion to do so is set out in the tender notice and any associated tender documents so suppliers are informed of this possibility when deciding whether to bid.",
+      "ordinal": 24,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "heading",
+      "text": "Financial and insurance information",
+      "ordinal": 25,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Key points and policy intent",
+        "Financial and insurance information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "heading",
+      "text": "Audited accounts",
+      "ordinal": 26,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Key points and policy intent",
+        "Financial and insurance information",
+        "Audited accounts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "p",
+      "text": "16. Contracting authorities are prohibited from requiring, as a condition of participation, the provision of audited annual accounts from suppliers that are not otherwise required by the Companies Act 2006 or an overseas equivalent to have their accounts audited.",
+      "ordinal": 27,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Key points and policy intent",
+        "Financial and insurance information",
+        "Audited accounts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "17. If the supplier is not so required, alternative evidence will need to be assessed when considering their financial capacity.",
+      "ordinal": 28,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Key points and policy intent",
+        "Financial and insurance information",
+        "Audited accounts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "heading",
+      "text": "Insurance",
+      "ordinal": 29,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Key points and policy intent",
+        "Financial and insurance information",
+        "Insurance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "p",
+      "text": "18. Contracting authorities are prohibited from requiring insurance relating to the performance of the contract to be in place before award. This is to prevent businesses from being expected to incur unnecessary costs for insurance when they have no guarantee of winning the business.",
+      "ordinal": 30,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Key points and policy intent",
+        "Financial and insurance information",
+        "Insurance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "p",
+      "text": "19. Instead, if a certain level of insurance will be required for the contract, contracting authorities are first encouraged to consider the necessity of the requirement level. If the contracting authority considers it is required, a contracting authority is able to include a condition of participation that the supplier will have the contractual levels of insurance required on contract commencement and to ask for evidence of that (providing this condition otherwise complies with the Act including the objectives in section 12 ). For example, the evidence could be certificates showing that the supplier already has such insurance in place or a letter from an insurance company confirming that they would offer the insurance to the supplier coupled with a commitment from the supplier that it will take out the insurance. In the latter case, the fact that the supplier has the insurance in place must be verified before it can be awarded the contract.",
+      "ordinal": 31,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Key points and policy intent",
+        "Financial and insurance information",
+        "Insurance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "p",
+      "text": "20. If there are legal requirements on suppliers relating to insurance which exist outside of the contract but would nevertheless be relevant to the contract (i.e. employers’ liability insurance), these may also be required as part of the conditions of participation.",
+      "ordinal": 32,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Key points and policy intent",
+        "Financial and insurance information",
+        "Insurance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "heading",
+      "text": "Assessing the conditions of participation",
+      "ordinal": 33,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Key points and policy intent",
+        "Assessing the conditions of participation"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "p",
+      "text": "21. Contracting authorities will need to consider how to evaluate supplier responses to the conditions set for the procurement, and if used, what the criteria will be for assessment. This includes setting out what is required to meet the condition.",
+      "ordinal": 34,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Key points and policy intent",
+        "Assessing the conditions of participation"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "p",
+      "text": "22. Conditions of participation are separate from award criteria and in any procedure the responses to the conditions of participation must be assessed separately from the tender response and award criteria. In practice, it may happen in parallel (for example, in an open procedure) but once a supplier has met the conditions of participation, their tender must be assessed in relation to the award criteria only and not with any reference to any score or ranking determined as part of the assessment of the conditions of participation.",
+      "ordinal": 35,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Key points and policy intent",
+        "Assessing the conditions of participation"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "p",
+      "text": "23. Under a competitive flexible procedure, a contracting authority may, using objective criteria which have been set out in the tender notice, use conditions of participation in order to limit the number of suppliers that progress or to create a shortlist of suppliers ( section 20(4)(a) ). For example, following a tender notice that invites requests to participate, all interested suppliers may submit their response to the conditions of participation and, following an assessment against the conditions of participation published in the tender notice, a limited number of suppliers could be selected to proceed to the next stage. In all cases, the number of suppliers the contracting authority intends to progress should be sufficient to ensure genuine competition.",
+      "ordinal": 36,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Key points and policy intent",
+        "Assessing the conditions of participation"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "heading",
+      "text": "Verifying the conditions of participation",
+      "ordinal": 37,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Key points and policy intent",
+        "Verifying the conditions of participation"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "p",
+      "text": "24. The Act is not prescriptive about the types and sources of information contracting authorities can use to verify conditions of participation. Section 22(6) allows a contracting authority to require evidence that is verifiable by a third party to satisfy a condition of participation. For example, assertions as to the financial stability of a supplier may be independently verifiable by reference to data provided by the supplier’s bank (at the supplier’s behest) or by reference to credit ratings by a rating agency. Nevertheless, means of proof and supporting evidence should not be overly arduous for suppliers and must meet the proportionality requirement in section 22 . For example, requesting site visits, samples and audits might be appropriate in some circumstances but not all. If supporting evidence is required, contracting authorities should consider when it would be appropriate for suppliers to submit that evidence, having regard to the procurement objectives and what is required to ensure the proper conduct of the procurement.",
+      "ordinal": 38,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Key points and policy intent",
+        "Verifying the conditions of participation"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "heading",
+      "text": "Relying on other suppliers to pass conditions of participation",
+      "ordinal": 39,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Key points and policy intent",
+        "Relying on other suppliers to pass conditions of participation"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "p",
+      "text": "25. In certain procurements, a supplier might not be able to fulfil all the conditions of participation alone. In these circumstances, it may meet the conditions through a relationship with another supplier, for example through the formation of a consortium, or nomination of a sub-contractor who fulfils some or all of the conditions; section 22(8-9) set out the circumstances in which a supplier may satisfy conditions of participation through such an association. For example, to deliver an integrated facilities management contract, a supplier specialising in soft services and a supplier specialising in hard services could form a consortium to bid. Alternatively, a supplier specialising in soft services could sub-contract the hard services part of the contract.",
+      "ordinal": 40,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Key points and policy intent",
+        "Relying on other suppliers to pass conditions of participation"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "p",
+      "text": "26. Section 22(9) explains the different relationships that will be classed as meaning a supplier (the first supplier) is associated with another supplier. These are where:",
+      "ordinal": 41,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Key points and policy intent",
+        "Relying on other suppliers to pass conditions of participation"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "p",
+      "text": "a. the suppliers are submitting a tender together, e.g. as a consortium; or",
+      "ordinal": 42,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Key points and policy intent",
+        "Relying on other suppliers to pass conditions of participation"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "p",
+      "text": "b. the first supplier intends to sub-contract the performance of all or part of the contract to another supplier; or",
+      "ordinal": 43,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Key points and policy intent",
+        "Relying on other suppliers to pass conditions of participation"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "p",
+      "text": "c. another supplier will guarantee the performance of all or part of the contract by the first supplier.",
+      "ordinal": 44,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Key points and policy intent",
+        "Relying on other suppliers to pass conditions of participation"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "p",
+      "text": "In the case of sub-contracting or guarantee arrangements which enable the first supplier to meet the conditions of participation, the contracting authority must be satisfied that the suppliers will enter into legally binding arrangements to the effect that the first supplier will sub-contract the performance of all or part of the contract to the other, or that the other supplier will guarantee the performance of all or part of the contract by the first supplier.",
+      "ordinal": 45,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Key points and policy intent",
+        "Relying on other suppliers to pass conditions of participation"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "p",
+      "text": "27. For the purpose of satisfying section 22(9) , it is not necessary for the first supplier to be in a directly legally binding arrangement with the other supplier. For example, where a second-tier sub-contractor is being relied upon to satisfy the condition, section 22(9)(b) could be met where there are effectively back-to-back legally binding arrangements, between the first supplier and their first-tier sub-contractor and also between the first-tier sub-contractor and the second-tier sub-contractor.",
+      "ordinal": 46,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Key points and policy intent",
+        "Relying on other suppliers to pass conditions of participation"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "p",
+      "text": "28. Section 72 applies when a contracting authority either requires a supplier to sub-contract or allows a supplier to sub-contract and that sub-contractor has been relied on to meet conditions of participation. In these circumstances, a contracting authority may direct a supplier to enter into a legally binding agreement with the proposed sub-contractor. If the supplier fails to do as directed, the contracting authority can refuse to enter into the public contract with the supplier, require an alternative sub-contractor (that could have satisfied the relevant conditions of participation) or terminate the contract if already entered into.",
+      "ordinal": 47,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Key points and policy intent",
+        "Relying on other suppliers to pass conditions of participation"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "p",
+      "text": "29. If a contracting authority intends to award a contract to a supplier that has relied on other suppliers to satisfy the conditions of participation, details of these suppliers, with the exception of those acting as a guarantor ( section 22(9)(b)(ii) ), will need to be published in the contract award notice (guarantor ( section 22(9)(b)(ii) ) [footnote 1] . Therefore a contracting authority should ensure they obtain this information during the procurement.",
+      "ordinal": 48,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Key points and policy intent",
+        "Relying on other suppliers to pass conditions of participation"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "heading",
+      "text": "Dynamic markets",
+      "ordinal": 49,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Key points and policy intent",
+        "Dynamic markets"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00050",
+      "block_type": "p",
+      "text": "30. A dynamic market is essentially a list of suppliers who have met the ‘conditions for membership’ of the dynamic market (or part of the dynamic market). Conditions for membership are similar to conditions of participation and are allowed as long as they are a proportionate way of assessing suppliers’ legal and financial capacity or technical ability to perform contracts to be awarded by reference to the market. Sections 36(1-5) set out provisions relating to the submission of accounts, insurance, suppliers’ qualifications, experience or technical ability, proportionality and evidence, which are similar to those for conditions of participation.",
+      "ordinal": 50,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Key points and policy intent",
+        "Dynamic markets"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00051",
+      "block_type": "p",
+      "text": "31. Contracting authorities may set conditions of participation, applying section 22 , when awarding contracts under a dynamic market.",
+      "ordinal": 51,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Key points and policy intent",
+        "Dynamic markets"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00052",
+      "block_type": "heading",
+      "text": "Frameworks",
+      "ordinal": 52,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Key points and policy intent",
+        "Frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00053",
+      "block_type": "p",
+      "text": "32. Since a framework is itself a public contract (provided it is for pecuniary interest, above the relevant threshold and not an exempted contract), the Act generally applies when a framework is awarded. This means that contracting authorities may set conditions of participation, applying section 22 , in the same way as for any other public contract.",
+      "ordinal": 53,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Key points and policy intent",
+        "Frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00054",
+      "block_type": "p",
+      "text": "33. Contracting authorities who are calling off from a framework must comply with the terms of the framework they are using and so contracting authorities establishing a framework should ensure that the framework permits the application of conditions of participation in the competitive selection process for call-off contracts.",
+      "ordinal": 54,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Key points and policy intent",
+        "Frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00055",
+      "block_type": "p",
+      "text": "34. Where permitted in the framework, section 46 allows a contracting authority to also set ‘conditions of participation’ at the stage of awarding a call-off contract based on a competitive selection process under a framework (see section 46(2) ). These are similar to conditions of participation under section 22 in that they are permitted as long as they are a proportionate way of assessing suppliers’ legal and financial capacity or their technical ability to perform the relevant contract to be awarded under the framework. Section 46(1-5) sets out provisions relating to the submission of accounts, insurance, suppliers’ qualifications, experience or technical ability, proportionality and evidence, which are similar to those for conditions of participation under section 22 .",
+      "ordinal": 55,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Key points and policy intent",
+        "Frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00056",
+      "block_type": "p",
+      "text": "35. A condition of participation for the award of a call-off contract may include a condition that the conditions of participation for award of the framework must be met or may include some or all of the same conditions. It may also include additional conditions that did not apply to the award of the framework, for example, bespoke insurance requirements relevant to the particular call-off contract to be awarded.",
+      "ordinal": 56,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Key points and policy intent",
+        "Frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00057",
+      "block_type": "heading",
+      "text": "Works contracts",
+      "ordinal": 57,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Key points and policy intent",
+        "Works contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00058",
+      "block_type": "p",
+      "text": "36. For works contracts, including the procurement of mixed contracts that include supplies and services, contracting authorities can continue to make use of industry pre-qualification questionnaires such as the Common Assessment Standard (CAS) provided they meet the requirements of the Act (for example, the conditions are proportionate and permit the contracting authority to have regard to the procurement objectives in section 12 ).",
+      "ordinal": 58,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Key points and policy intent",
+        "Works contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00059",
+      "block_type": "heading",
+      "text": "Interaction with the central digital platform",
+      "ordinal": 59,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Key points and policy intent",
+        "Interaction with the central digital platform"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00060",
+      "block_type": "p",
+      "text": "37. The central digital platform will store supplier information that may be relevant to assessing conditions of participation. (See guidance on the central digital platform .)",
+      "ordinal": 60,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Key points and policy intent",
+        "Interaction with the central digital platform"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00061",
+      "block_type": "p",
+      "text": "38. Regulation 6 requires contracting authorities to obtain confirmation from suppliers that they have submitted up-to-date ‘core supplier information’ on the central digital platform, and that such core supplier information has been shared. Therefore, suppliers that tender for public contracts will need to share certain information via the central digital platform in order to participate. Core supplier information covers:",
+      "ordinal": 61,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Key points and policy intent",
+        "Interaction with the central digital platform"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00062",
+      "block_type": "p",
+      "text": "a. basic supplier information (i.e. name and address);",
+      "ordinal": 62,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Key points and policy intent",
+        "Interaction with the central digital platform"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00063",
+      "block_type": "p",
+      "text": "b. exclusion grounds information;",
+      "ordinal": 63,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Key points and policy intent",
+        "Interaction with the central digital platform"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00064",
+      "block_type": "p",
+      "text": "c. economic and financial standing information, such as audited accounts in certain circumstances; and",
+      "ordinal": 64,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Key points and policy intent",
+        "Interaction with the central digital platform"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00065",
+      "block_type": "p",
+      "text": "d. connected person information.",
+      "ordinal": 65,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Key points and policy intent",
+        "Interaction with the central digital platform"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00066",
+      "block_type": "p",
+      "text": "39. Any information relating to conditions of participation required by the contracting authority which is not covered by the central digital platform will need to be obtained by the contracting authority from the supplier by other means (for example, as part of the information suppliers submit in the procurement process via the contracting authority’s own electronic tendering system).",
+      "ordinal": 66,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Key points and policy intent",
+        "Interaction with the central digital platform"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00067",
+      "block_type": "heading",
+      "text": "Which notices are linked to this aspect of the Act?",
+      "ordinal": 67,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Which notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00068",
+      "block_type": "p",
+      "text": "40. The tender notice, supplemented by any tender documents, must include the conditions of participation and any criteria that might be used to limit the number of participants.",
+      "ordinal": 68,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Which notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00069",
+      "block_type": "p",
+      "text": "41. The contract award notice will need to include details of associated persons i.e. suppliers that the supplier has relied upon to meet the conditions of participation.",
+      "ordinal": 69,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Which notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00070",
+      "block_type": "heading",
+      "text": "What other guidance is of particular relevance to this topic area?",
+      "ordinal": 70,
+      "heading_path": [
+        "What are conditions of participation?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00071",
+      "block_type": "li",
+      "text": "Guidance on covered procurement objectives",
+      "ordinal": 71,
+      "heading_path": [
+        "What are conditions of participation?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00072",
+      "block_type": "li",
+      "text": "Guidance on assessing competitive tenders",
+      "ordinal": 72,
+      "heading_path": [
+        "What are conditions of participation?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00073",
+      "block_type": "li",
+      "text": "Guidance on competitive tendering procedures",
+      "ordinal": 73,
+      "heading_path": [
+        "What are conditions of participation?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00074",
+      "block_type": "li",
+      "text": "Guidance on the central digital platform and the publication of information",
+      "ordinal": 74,
+      "heading_path": [
+        "What are conditions of participation?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00075",
+      "block_type": "li",
+      "text": "Guidance technical specifications",
+      "ordinal": 75,
+      "heading_path": [
+        "What are conditions of participation?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00076",
+      "block_type": "li",
+      "text": "Guidance on exclusions",
+      "ordinal": 76,
+      "heading_path": [
+        "What are conditions of participation?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00077",
+      "block_type": "li",
+      "text": "Guidance on debarment",
+      "ordinal": 77,
+      "heading_path": [
+        "What are conditions of participation?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00078",
+      "block_type": "heading",
+      "text": "Where can I go for more information or training?",
+      "ordinal": 78,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00079",
+      "block_type": "li",
+      "text": "The Government Commercial Function Playbooks",
+      "ordinal": 79,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00080",
+      "block_type": "li",
+      "text": "Assessing and Monitoring the Economic And Financial Standing Of Bidders And Suppliers",
+      "ordinal": 80,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00081",
+      "block_type": "li",
+      "text": "Section 26(4) defines an ‘associated person’, for the purpose of the Act, as a person that the supplier is relying upon in order to satisfy the conditions of participation, but not a person who is to act as a guarantor. Regulation 27 requires the name and address of each ‘associated person’ to be published in the contract award notice. ↩",
+      "ordinal": 81,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00082",
+      "block_type": "p",
+      "text": "Section 26(4) defines an ‘associated person’, for the purpose of the Act, as a person that the supplier is relying upon in order to satisfy the conditions of participation, but not a person who is to act as a guarantor. Regulation 27 requires the name and address of each ‘associated person’ to be published in the contract award notice. ↩",
+      "ordinal": 82,
+      "heading_path": [
+        "What are conditions of participation?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "Procurement Act 2023 (Act)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/contents",
+      "block_id": "b00001",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 23",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/23",
+      "block_id": "b00006",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 22",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/22",
+      "block_id": "b00010",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 22(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/22",
+      "block_id": "b00017",
+      "ordinal": 3,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 22(4)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/22",
+      "block_id": "b00019",
+      "ordinal": 4,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 56",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/56",
+      "block_id": "b00021",
+      "ordinal": 5,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 22(7)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/22",
+      "block_id": "b00023",
+      "ordinal": 6,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 22(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/22",
+      "block_id": "b00023",
+      "ordinal": 7,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 72",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/72",
+      "block_id": "b00023",
+      "ordinal": 8,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 12",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/12",
+      "block_id": "b00024",
+      "ordinal": 9,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Companies Act 2006",
+      "href": "https://www.legislation.gov.uk/ukpga/2006/46/contents",
+      "block_id": "b00027",
+      "ordinal": 10,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 12",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/12",
+      "block_id": "b00031",
+      "ordinal": 11,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 20(4)(a)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/20",
+      "block_id": "b00036",
+      "ordinal": 12,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 22(6)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/22",
+      "block_id": "b00038",
+      "ordinal": 13,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 22",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/22",
+      "block_id": "b00038",
+      "ordinal": 14,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 22(8-9)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/22",
+      "block_id": "b00040",
+      "ordinal": 15,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 22(9)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/22",
+      "block_id": "b00041",
+      "ordinal": 16,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 22(9)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/22",
+      "block_id": "b00046",
+      "ordinal": 17,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 22(9)(b)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/22",
+      "block_id": "b00046",
+      "ordinal": 18,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 72",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/72",
+      "block_id": "b00047",
+      "ordinal": 19,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 22(9)(b)(ii)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/22",
+      "block_id": "b00048",
+      "ordinal": 20,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 22(9)(b)(ii)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/22",
+      "block_id": "b00048",
+      "ordinal": 21,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "[footnote 1]",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-conditions-of-participation-html#fn:1",
+      "block_id": "b00048",
+      "ordinal": 22,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Sections 36(1-5)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/36",
+      "block_id": "b00050",
+      "ordinal": 23,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 22",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/22",
+      "block_id": "b00051",
+      "ordinal": 24,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 22",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/22",
+      "block_id": "b00053",
+      "ordinal": 25,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 46",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/46",
+      "block_id": "b00055",
+      "ordinal": 26,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 46(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/46",
+      "block_id": "b00055",
+      "ordinal": 27,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 22",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/22",
+      "block_id": "b00055",
+      "ordinal": 28,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 46(1-5)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/46",
+      "block_id": "b00055",
+      "ordinal": 29,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 22",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/22",
+      "block_id": "b00055",
+      "ordinal": 30,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 12",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/12",
+      "block_id": "b00058",
+      "ordinal": 31,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "central digital platform",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-central-digital-platform-and-publication-of-information-html",
+      "block_id": "b00060",
+      "ordinal": 32,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Regulation 6",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/6",
+      "block_id": "b00061",
+      "ordinal": 33,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "The Government Commercial Function Playbooks",
+      "href": "https://www.gov.uk/government/organisations/government-commercial-function",
+      "block_id": "b00079",
+      "ordinal": 34,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Assessing and Monitoring the Economic And Financial Standing Of Bidders And Suppliers",
+      "href": "https://www.gov.uk/government/publications/the-sourcing-and-consultancy-playbooks",
+      "block_id": "b00080",
+      "ordinal": 35,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 26(4)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/26",
+      "block_id": "b00081",
+      "ordinal": 36,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Regulation 27",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/27",
+      "block_id": "b00081",
+      "ordinal": 37,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-conditions-of-participation-html#fnref:1",
+      "block_id": "b00081",
+      "ordinal": 38,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Section 26(4)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/26",
+      "block_id": "b00082",
+      "ordinal": 39,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Regulation 27",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/27",
+      "block_id": "b00082",
+      "ordinal": 40,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-conditions-of-participation-html#fnref:1",
+      "block_id": "b00082",
+      "ordinal": 41,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Guidance: Conditions of Participation (HTML)",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-conditions-of-participation-html",
+      "block_id": "__document__",
+      "ordinal": 42,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2022 to 2024 Sunak Conservative government",
+      "href": "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 43,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 44,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Procurement Act 2023 guidance documents - Procure phase",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase",
+      "block_id": "__document__",
+      "ordinal": 45,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 46,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 23",
+      "block_id": "b00006",
+      "start": 39,
+      "end": 49,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "23"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 22",
+      "block_id": "b00010",
+      "start": 56,
+      "end": 66,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "22"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015 (PCR)",
+      "block_id": "b00012",
+      "start": 141,
+      "end": 163,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015",
+        "tail": " (PCR)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2011 (DSPCR)",
+      "block_id": "b00012",
+      "start": 203,
+      "end": 227,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2011",
+        "tail": " (DSPCR)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2016 (UCR)",
+      "block_id": "b00012",
+      "start": 252,
+      "end": 274,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2016",
+        "tail": " (UCR)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 59",
+      "block_id": "b00013",
+      "start": 118,
+      "end": 131,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "59"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 80(4)",
+      "block_id": "b00013",
+      "start": 147,
+      "end": 163,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "80",
+        "tail": "(4)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 60",
+      "block_id": "b00014",
+      "start": 12,
+      "end": 25,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "60"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 25",
+      "block_id": "b00014",
+      "start": 35,
+      "end": 48,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "25"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 80",
+      "block_id": "b00014",
+      "start": 59,
+      "end": 72,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "80"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 22(1)",
+      "block_id": "b00017",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "22",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 22(4)",
+      "block_id": "b00019",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "22",
+        "tail": "(4)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 56",
+      "block_id": "b00021",
+      "start": 78,
+      "end": 88,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "56"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 22(7)",
+      "block_id": "b00023",
+      "start": 202,
+      "end": 215,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "22",
+        "tail": "(7)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 22(2)",
+      "block_id": "b00023",
+      "start": 347,
+      "end": 360,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "22",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 72",
+      "block_id": "b00023",
+      "start": 651,
+      "end": 661,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "72"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 28",
+      "block_id": "b00023",
+      "start": 789,
+      "end": 801,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "28"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 12",
+      "block_id": "b00024",
+      "start": 1049,
+      "end": 1059,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "12"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 12",
+      "block_id": "b00031",
+      "start": 520,
+      "end": 530,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "12"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 20(4)(a)",
+      "block_id": "b00036",
+      "start": 272,
+      "end": 288,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "20",
+        "tail": "(4)(a)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 22(6)",
+      "block_id": "b00038",
+      "start": 146,
+      "end": 159,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "22",
+        "tail": "(6)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 22",
+      "block_id": "b00038",
+      "start": 667,
+      "end": 677,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "22"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 22",
+      "block_id": "b00040",
+      "start": 336,
+      "end": 346,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "22"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 22(9)",
+      "block_id": "b00041",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "22",
+        "tail": "(9)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 22(9)",
+      "block_id": "b00046",
+      "start": 34,
+      "end": 47,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "22",
+        "tail": "(9)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 22(9)(b)",
+      "block_id": "b00046",
+      "start": 261,
+      "end": 277,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "22",
+        "tail": "(9)(b)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 72",
+      "block_id": "b00047",
+      "start": 4,
+      "end": 14,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "72"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 22(9)(b)(ii)",
+      "block_id": "b00048",
+      "start": 232,
+      "end": 252,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "22",
+        "tail": "(9)(b)(ii)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 22(9)(b)(ii)",
+      "block_id": "b00048",
+      "start": 324,
+      "end": 344,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "22",
+        "tail": "(9)(b)(ii)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Sections 36",
+      "block_id": "b00050",
+      "start": 418,
+      "end": 429,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "36"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 22",
+      "block_id": "b00051",
+      "start": 74,
+      "end": 84,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "22"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 22",
+      "block_id": "b00053",
+      "start": 291,
+      "end": 301,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "22"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 46",
+      "block_id": "b00055",
+      "start": 38,
+      "end": 48,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "46"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 46(2)",
+      "block_id": "b00055",
+      "start": 231,
+      "end": 244,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "46",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 22",
+      "block_id": "b00055",
+      "start": 303,
+      "end": 313,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "22"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 46",
+      "block_id": "b00055",
+      "start": 529,
+      "end": 539,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "46"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 22",
+      "block_id": "b00055",
+      "start": 771,
+      "end": 781,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "22"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 12",
+      "block_id": "b00058",
+      "start": 424,
+      "end": 434,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "12"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 6",
+      "block_id": "b00061",
+      "start": 4,
+      "end": 16,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "6"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 26(4)",
+      "block_id": "b00081",
+      "start": 0,
+      "end": 13,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "26",
+        "tail": "(4)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 27",
+      "block_id": "b00081",
+      "start": 220,
+      "end": 233,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "27"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 26(4)",
+      "block_id": "b00082",
+      "start": 0,
+      "end": 13,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "26",
+        "tail": "(4)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 27",
+      "block_id": "b00082",
+      "start": 220,
+      "end": 233,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "27"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

@@ -1,0 +1,1834 @@
+{
+  "document_id": "d9cbc71f-555a-4082-ac26-5f280560afce",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/23dbd90b80e05ef54171fa7e.json",
+  "input_sha256": "5f44ee7eadf59c1a1265c81d16a50ddeba86092a93240a5f263615f7bb6c01c1",
+  "processed_at": "2026-08-27T02:26:07.705688+00:00",
+  "title": "PPN 006: Frequently asked questions",
+  "canonical_url": "https://www.gov.uk/government/publications/ppn-006-taking-account-of-carbon-reduction-plans-in-the-procurement-of-major-government-contracts/ppn-006-frequently-asked-questions",
+  "description": null,
+  "publication_date": "2025-07-10T15:23:53+01:00",
+  "updated_date": "2025-07-10T15:23:52+01:00",
+  "source_metadata": {
+    "content_id": "d9cbc71f-555a-4082-ac26-5f280560afce",
+    "base_path": "/government/publications/ppn-006-taking-account-of-carbon-reduction-plans-in-the-procurement-of-major-government-contracts/ppn-006-frequently-asked-questions",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Q1. Who does the policy and guidance apply to?",
+      "ordinal": 4,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Q2. When should this PPN be applied?",
+      "ordinal": 8,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Q3. Should PPN 006 be applied by Devolved Administrations?",
+      "ordinal": 11,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Q4. Does PPN 006 apply to contracts awarded in accordance with framework agreements or dynamic markets?",
+      "ordinal": 13,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Q5. How do I determine if PPN 006 is related to the subject matter of the contract and a proportionate means of ensuring technical ability to perform the contract?",
+      "ordinal": 15,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Q6. How should PPN 006 be applied in the procurement process?",
+      "ordinal": 22,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Q7. How should we assess supplier responses?",
+      "ordinal": 26,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Q8. What should the CRP contain?",
+      "ordinal": 33,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Q9. Can I accept suppliers’ corporate social responsibility (CSR) statements, policies and/or case studies as proof instead of a CRP?",
+      "ordinal": 41,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Q10. Can I accept commitments under the Science Based Targets Initiative (SBTI) or Race to Zero as evidence of compliance with PPN 006?",
+      "ordinal": 44,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Q11. Why are you looking at emissions from the supplier and not the supplier’s wider UK business emissions as a whole?",
+      "ordinal": 47,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Q12. I am a subsidiary company where carbon data is reported centrally. My parent company has published a CRP which covers the whole organisation. Can I submit that CRP if I do not have one of my own?",
+      "ordinal": 53,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Q13. How should overseas suppliers account for their emissions?",
+      "ordinal": 60,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Q14. How does this measure interact with the Social Value Model?",
+      "ordinal": 69,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Q15. What emissions should be reported in the CRP?",
+      "ordinal": 74,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Q16. Will there be any other training or support that will be given to assist suppliers and commercial teams?",
+      "ordinal": 87,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Q17. What support is available for businesses in calculating their carbon footprint?",
+      "ordinal": 90,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Q18. My organisation has their own target for Net Zero that is earlier than the target established by the Climate Change Act. Am I able to adjust the condition of participation to reflect the earlier Net Zero target date?",
+      "ordinal": 92,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Q19. Do subcontractors need to have a CRP?",
+      "ordinal": 95,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Q20. At what stage in a procurement process will suppliers be asked to provide a CRP?",
+      "ordinal": 99,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Q21. Would a supplier fail the CRP check if their emissions increase?",
+      "ordinal": 101,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Contact",
+      "ordinal": 104,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q.What if I have a question which is not covered here?",
+      "ordinal": 105,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "Issued: June 2025",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "This FAQ document has been updated to reflect new terminology introduced by the Procurement Act 2023 and the Procurement Regulations 2024. The Procurement Act 2023 and the Procurement Regulations 2024 apply to procurements commenced on or after 24 February 2025. For more detail on the meaning of ‘commenced’ please refer to the Procurement Act 2023 Guidance on Transitional and Savings Arrangements.\nThe Procurement Act 2023 does not apply to procurements commenced before 24 February 2025 or to contracts awarded prior to this date (including via framework agreements, dynamic purchasing systems or qualification systems established under the previous legislation). For procurements commenced and contracts awarded before this date, please refer to PPN 06/21.",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "For further information or to discuss specific queries regarding revisions, please email domestic-policy-queries@cabinetoffice.gov.uk",
+      "ordinal": 2,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "This update does not constitute a change in policy or a new call for action but in-scope organisations should continue to apply any ongoing obligations set out in the provisions of this PPN.",
+      "ordinal": 3,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "heading",
+      "text": "Q1. Who does the policy and guidance apply to?",
+      "ordinal": 4,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "This Procurement Policy Notice (PPN) applies to all central government departments, their executive agencies and non-departmental public bodies. Such bodies are referred to as ‘in-scope organisations’. Please circulate this PPN within your organisation, drawing it to the attention of those with a commercial and procurement role.",
+      "ordinal": 5,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "p",
+      "text": "In-scope organisations should take action to apply this PPN when awarding public contracts [footnote 1] for goods and/or services and/or works, other than special regime contracts [footnote 2] , with an estimated contract value above £5 million per year [footnote 3] (including VAT) under the Procurement Act 2023 save where it would not be relevant to the contract or proportionate to its nature, complexity and cost (‘relevant contracts’).",
+      "ordinal": 6,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "This PPN applies to frameworks and dynamic markets but only where it is estimated that the individual value of any contract to be awarded in accordance with the framework or by reference to a dynamic market is greater than £5 million per year (including VAT).",
+      "ordinal": 7,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "heading",
+      "text": "Q2. When should this PPN be applied?",
+      "ordinal": 8,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q2. When should this PPN be applied?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "In-scope organisations must apply the provisions of this PPN to relevant procurements advertised on or after 24 February 2025.",
+      "ordinal": 9,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q2. When should this PPN be applied?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "p",
+      "text": "For procurements commenced and contracts awarded before this date, please refer to PPN 06/21.",
+      "ordinal": 10,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q2. When should this PPN be applied?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "heading",
+      "text": "Q3. Should PPN 006 be applied by Devolved Administrations?",
+      "ordinal": 11,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q3. Should PPN 006 be applied by Devolved Administrations?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "PPN 006 is not stated to be mandatory for Devolved Administrations.",
+      "ordinal": 12,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q3. Should PPN 006 be applied by Devolved Administrations?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "heading",
+      "text": "Q4. Does PPN 006 apply to contracts awarded in accordance with framework agreements or dynamic markets?",
+      "ordinal": 13,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q4. Does PPN 006 apply to contracts awarded in accordance with framework agreements or dynamic markets?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "This PPN applies to framework agreements and dynamic markets but only where it is estimated that the individual value of any contract to be awarded in accordance with the framework or by reference to a dynamic market is greater than £5 million per year (including VAT).",
+      "ordinal": 14,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q4. Does PPN 006 apply to contracts awarded in accordance with framework agreements or dynamic markets?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "heading",
+      "text": "Q5. How do I determine if PPN 006 is related to the subject matter of the contract and a proportionate means of ensuring technical ability to perform the contract?",
+      "ordinal": 15,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q5. How do I determine if PPN 006 is related to the subject matter of the contract and a proportionate means of ensuring technical ability to perform the contract?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "Environmental considerations and carbon reduction will be a factor in the delivery of most, if not all, contracts. It is expected that in the majority of cases for contracts with a value exceeding £5 million (including VAT) per annum, PPN 006 will be related to the subject matter of the contract and proportionate to assessing whether the supplier has the necessary technical ability to perform the contract, taking into account such factors. When considering whether the PPN is proportionate, you must take into account the nature, complexity and cost of the relevant contract.",
+      "ordinal": 16,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q5. How do I determine if PPN 006 is related to the subject matter of the contract and a proportionate means of ensuring technical ability to perform the contract?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "Contracts where the PPN is likely to be relevant and proportionate may include, but is not limited to:",
+      "ordinal": 17,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q5. How do I determine if PPN 006 is related to the subject matter of the contract and a proportionate means of ensuring technical ability to perform the contract?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "li",
+      "text": "contracts which have a direct impact on the environment in the delivery of the contract",
+      "ordinal": 18,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q5. How do I determine if PPN 006 is related to the subject matter of the contract and a proportionate means of ensuring technical ability to perform the contract?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "li",
+      "text": "contracts which require the use of buildings by staff engaged in the delivery of the contract",
+      "ordinal": 19,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q5. How do I determine if PPN 006 is related to the subject matter of the contract and a proportionate means of ensuring technical ability to perform the contract?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "li",
+      "text": "contracts which require the transportation of goods or people used in the delivery of the contract",
+      "ordinal": 20,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q5. How do I determine if PPN 006 is related to the subject matter of the contract and a proportionate means of ensuring technical ability to perform the contract?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "li",
+      "text": "contracts which require the use of natural resources in the delivery of the contract",
+      "ordinal": 21,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q5. How do I determine if PPN 006 is related to the subject matter of the contract and a proportionate means of ensuring technical ability to perform the contract?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "heading",
+      "text": "Q6. How should PPN 006 be applied in the procurement process?",
+      "ordinal": 22,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q6. How should PPN 006 be applied in the procurement process?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "In-scope organisations must include the questions in Annex A within their conditions of participation for in-scope procurements (see paragraph 5-6 and Annex A in PPN 006: Guidance on taking account of carbon reduction plans - adopting and applying conditions of participation).",
+      "ordinal": 23,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q6. How should PPN 006 be applied in the procurement process?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "PPN 06/21 introduced a new criterion which required suppliers to detail their commitment to achieving Net Zero through the publication of a CRP in order to pass and proceed further in the competition. The substantive obligation introduced by PPN 06/21, now PPN 006, remains the same under the Act (but as a condition of participation as opposed to selection criteria).",
+      "ordinal": 24,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q6. How should PPN 006 be applied in the procurement process?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "p",
+      "text": "Supplier CRPs should not be ‘scored’ or compared against each other and assessment takes the form of a check that they meet the requirements of the measure. Further guidance on conditions of participation and how to implement them and assess supplier responses can be found in PPN 006: Guidance on taking account of carbon reduction plans - adopting and applying conditions of participation.",
+      "ordinal": 25,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q6. How should PPN 006 be applied in the procurement process?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "heading",
+      "text": "Q7. How should we assess supplier responses?",
+      "ordinal": 26,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q7. How should we assess supplier responses?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "p",
+      "text": "PPN 006 is applied as a condition of participation. Supplier CRPs should not be scored or compared against each other and assessment takes the form of a check that they meet the requirements of the measure.",
+      "ordinal": 27,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q7. How should we assess supplier responses?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "Example:",
+      "ordinal": 28,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q7. How should we assess supplier responses?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "p",
+      "text": "Supplier A and Supplier B have both submitted CRPs which meet the requirements of the measure.",
+      "ordinal": 29,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q7. How should we assess supplier responses?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "li",
+      "text": "Supplier A has committed to achieving Net Zero by 2050.",
+      "ordinal": 30,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q7. How should we assess supplier responses?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "li",
+      "text": "Supplier B has committed to achieving Net Zero by 2030.",
+      "ordinal": 31,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q7. How should we assess supplier responses?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "p",
+      "text": "In this instance both will pass, and neither scores higher or has any other advantage over the other.",
+      "ordinal": 32,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q7. How should we assess supplier responses?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "heading",
+      "text": "Q8. What should the CRP contain?",
+      "ordinal": 33,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q8. What should the CRP contain?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "p",
+      "text": "In-scope organisations should satisfy themselves that suppliers have provided a published CRP which:",
+      "ordinal": 34,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q8. What should the CRP contain?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "li",
+      "text": "has been published on the supplier’s website",
+      "ordinal": 35,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q8. What should the CRP contain?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "li",
+      "text": "has been signed off at an appropriate level and published since the publication of the tender notice, or in the preceding 12 month period",
+      "ordinal": 36,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q8. What should the CRP contain?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "li",
+      "text": "includes a signed declaration confirming the supplier’s commitment to achieving Net Zero by 2050 (at the latest)",
+      "ordinal": 37,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q8. What should the CRP contain?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "li",
+      "text": "details the supplier’s Greenhouse Gas emissions",
+      "ordinal": 38,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q8. What should the CRP contain?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "li",
+      "text": "details the environmental management measures that will be applied when performing the contract",
+      "ordinal": 39,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q8. What should the CRP contain?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "p",
+      "text": "Full details of the reporting requirements for CRP can be found in PPN 006: Technical standard for Completion of Carbon Reduction Plans. Further guidance on conditions of participation and how to implement them and assess supplier responses can be found in PPN 006: Guidance on taking account of carbon reduction plans - adopting and applying conditions of participation.",
+      "ordinal": 40,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q8. What should the CRP contain?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "heading",
+      "text": "Q9. Can I accept suppliers’ corporate social responsibility (CSR) statements, policies and/or case studies as proof instead of a CRP?",
+      "ordinal": 41,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q9. Can I accept suppliers’ corporate social responsibility (CSR) statements, policies and/or case studies as proof instead of a CRP?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "p",
+      "text": "No, CSR statements, policies and/or case studies cannot be accepted instead of a CRP. To ensure compliance, suppliers should complete the CRP template provided in PPN 006. The CRP template has been created to collate the required information in one place for ease of use for commercial teams, and to minimise the burden placed upon suppliers, particularly start-ups, Small and Medium-Sized Enterprises (SMEs) and Voluntary, Community and Social Enterprises (VCSEs).",
+      "ordinal": 42,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q9. Can I accept suppliers’ corporate social responsibility (CSR) statements, policies and/or case studies as proof instead of a CRP?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "p",
+      "text": "Deviations from the template format will only be accepted if all the information requested in the template is provided in accordance with the requirements of the policy, guidance and Technical Standard. Suppliers will only require one CRP (valid for 12 months), which can be used for all procurements where the measure is applied.",
+      "ordinal": 43,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q9. Can I accept suppliers’ corporate social responsibility (CSR) statements, policies and/or case studies as proof instead of a CRP?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "heading",
+      "text": "Q10. Can I accept commitments under the Science Based Targets Initiative (SBTI) or Race to Zero as evidence of compliance with PPN 006?",
+      "ordinal": 44,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q10. Can I accept commitments under the Science Based Targets Initiative (SBTI) or Race to Zero as evidence of compliance with PPN 006?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "p",
+      "text": "The Race to Zero and the SBTI are schemes for suppliers to demonstrate their commitment to reducing emissions over time. However, these schemes do not align with the requirements of PPN 006 and a CRP based on/using the template outlined in PPN 006 is required.",
+      "ordinal": 45,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q10. Can I accept commitments under the Science Based Targets Initiative (SBTI) or Race to Zero as evidence of compliance with PPN 006?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "p",
+      "text": "Suppliers may detail their membership of schemes such as SBTI or Race to Zero within their CRP as an example of the environmental management measures they have in place.",
+      "ordinal": 46,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q10. Can I accept commitments under the Science Based Targets Initiative (SBTI) or Race to Zero as evidence of compliance with PPN 006?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "heading",
+      "text": "Q11. Why are you looking at emissions from the supplier and not the supplier’s wider UK business emissions as a whole?",
+      "ordinal": 47,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q11. Why are you looking at emissions from the supplier and not the supplier’s wider UK business emissions as a whole?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "p",
+      "text": "In-scope organisations must determine whether the supplier has the necessary technical ability to deliver the contract requirements, as it is the supplier that the in-scope organisation will be entering into contract with.",
+      "ordinal": 48,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q11. Why are you looking at emissions from the supplier and not the supplier’s wider UK business emissions as a whole?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "p",
+      "text": "Whilst many suppliers have different trading entities within their wider business which are used to bid for government work, it is only the supplier that is relevant to be considered for the purposes of applying this policy.",
+      "ordinal": 49,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q11. Why are you looking at emissions from the supplier and not the supplier’s wider UK business emissions as a whole?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00050",
+      "block_type": "p",
+      "text": "Where the supplier is different from the UK or global parent, CRPs should reflect the commitments and emissions of the supplier. Where a supplier has existing emissions reporting or commitments which do not align with the boundary of the supplier, suppliers should consider the technical standard for completion of CRPs and adopt an appropriate methodology to account for emissions incurred by the supplier.",
+      "ordinal": 50,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q11. Why are you looking at emissions from the supplier and not the supplier’s wider UK business emissions as a whole?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00051",
+      "block_type": "p",
+      "text": "This may include a standalone assessment of the supplier’s emissions or an approximation based upon equity share, where emissions are accounted for from operations according to its share of equity in the operation. This model may be helpful where emissions are recorded centrally across a range of entities, e.g. recorded UK wide by the parent company rather than at the supplier level.",
+      "ordinal": 51,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q11. Why are you looking at emissions from the supplier and not the supplier’s wider UK business emissions as a whole?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00052",
+      "block_type": "p",
+      "text": "Where it is not possible to separate out the data for the supplier or to accurately approximate its emissions, the supplier may submit a CRP covering not only itself but also its parent company, as long as the criteria set out in paragraph 10 of PPN 006 are met (see also Q12).",
+      "ordinal": 52,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q11. Why are you looking at emissions from the supplier and not the supplier’s wider UK business emissions as a whole?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00053",
+      "block_type": "heading",
+      "text": "Q12. I am a subsidiary company where carbon data is reported centrally. My parent company has published a CRP which covers the whole organisation. Can I submit that CRP if I do not have one of my own?",
+      "ordinal": 53,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q12. I am a subsidiary company where carbon data is reported centrally. My parent company has published a CRP which covers the whole organisation. Can I submit that CRP if I do not have one of my own?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00054",
+      "block_type": "p",
+      "text": "In order to ensure the CRP remains relevant, a CRP covering the supplier and its parent organisation is only permissible where the detailed requirements of the CRP are met in full, as set out in PPN 006 Technical standard and PPN 006 Guidance on taking account of carbon reduction plans- adopting and applying conditions of participation and all of the following criteria are met:",
+      "ordinal": 54,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q12. I am a subsidiary company where carbon data is reported centrally. My parent company has published a CRP which covers the whole organisation. Can I submit that CRP if I do not have one of my own?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00055",
+      "block_type": "li",
+      "text": "The supplier is wholly owned by the parent",
+      "ordinal": 55,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q12. I am a subsidiary company where carbon data is reported centrally. My parent company has published a CRP which covers the whole organisation. Can I submit that CRP if I do not have one of my own?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00056",
+      "block_type": "li",
+      "text": "The commitment to achieving Net Zero by 2050 for UK operations is set out in the CRP for the parent and is supported and adopted by the supplier, demonstrated by the inclusion in the CRP of a statement that this will apply to the supplier",
+      "ordinal": 56,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q12. I am a subsidiary company where carbon data is reported centrally. My parent company has published a CRP which covers the whole organisation. Can I submit that CRP if I do not have one of my own?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00057",
+      "block_type": "li",
+      "text": "The environmental measures set out are stated to be able to be applied by the supplier when performing the relevant contract",
+      "ordinal": 57,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q12. I am a subsidiary company where carbon data is reported centrally. My parent company has published a CRP which covers the whole organisation. Can I submit that CRP if I do not have one of my own?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00058",
+      "block_type": "li",
+      "text": "The CRP is published on the supplier’s website",
+      "ordinal": 58,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q12. I am a subsidiary company where carbon data is reported centrally. My parent company has published a CRP which covers the whole organisation. Can I submit that CRP if I do not have one of my own?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00059",
+      "block_type": "p",
+      "text": "Suppliers must take steps to ensure they have their own CRP as soon as reasonably practicable and should note that the ability to rely on a parent organisation’s CRP may only be a temporary measure to satisfy this particular condition of participation.",
+      "ordinal": 59,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q12. I am a subsidiary company where carbon data is reported centrally. My parent company has published a CRP which covers the whole organisation. Can I submit that CRP if I do not have one of my own?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00060",
+      "block_type": "heading",
+      "text": "Q13. How should overseas suppliers account for their emissions?",
+      "ordinal": 60,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q13. How should overseas suppliers account for their emissions?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00061",
+      "block_type": "p",
+      "text": "The measure applies equally to overseas suppliers who are bidding for in- scope procurements. All suppliers are required to produce a CRP, which includes:",
+      "ordinal": 61,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q13. How should overseas suppliers account for their emissions?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00062",
+      "block_type": "li",
+      "text": "confirmation of their commitment to Net Zero for their UK operations",
+      "ordinal": 62,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q13. How should overseas suppliers account for their emissions?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00063",
+      "block_type": "li",
+      "text": "details of their UK emissions",
+      "ordinal": 63,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q13. How should overseas suppliers account for their emissions?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00064",
+      "block_type": "li",
+      "text": "an indication of the environmental management measures they will be able to apply when performing the contract",
+      "ordinal": 64,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q13. How should overseas suppliers account for their emissions?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00065",
+      "block_type": "p",
+      "text": "If an overseas supplier does not currently carry out operations in the UK, and therefore does not have UK emissions data, compliance with the measure can be achieved without this, provided the supplier fulfils the other requirements of the CRP, i.e. by confirming they have made a Net Zero commitment and providing details of environmental management measures in place where they carry out operations.",
+      "ordinal": 65,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q13. How should overseas suppliers account for their emissions?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00066",
+      "block_type": "p",
+      "text": "Examples or information relating to environmental management measures are not required to be based on measures undertaken by the supplier in the UK.",
+      "ordinal": 66,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q13. How should overseas suppliers account for their emissions?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00067",
+      "block_type": "p",
+      "text": "The following flow chart details how suppliers should complete their CRP, in particular their emissions reporting:",
+      "ordinal": 67,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q13. How should overseas suppliers account for their emissions?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00068",
+      "block_type": "p",
+      "text": "Further guidance on conditions of participation and how to implement them and assess supplier responses can be found in PPN 006: Guidance on taking account of carbon reduction plans - adopting and applying conditions of participation.",
+      "ordinal": 68,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q13. How should overseas suppliers account for their emissions?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00069",
+      "block_type": "heading",
+      "text": "Q14. How does this measure interact with the Social Value Model?",
+      "ordinal": 69,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q14. How does this measure interact with the Social Value Model?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00070",
+      "block_type": "p",
+      "text": "The two measures are distinct from one another, in that they apply at different points in the procurement process. PPN 006 should not be applied as part of the requirements of the Social Value Model, it is a separate measure, and should be applied as a condition of participation.",
+      "ordinal": 70,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q14. How does this measure interact with the Social Value Model?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00071",
+      "block_type": "p",
+      "text": "This measure, PPN 006 applies as a condition of participation in the procurement process. This measure requires bidding suppliers to submit a CRP, containing the required information, and to publish this on their website.",
+      "ordinal": 71,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q14. How does this measure interact with the Social Value Model?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00072",
+      "block_type": "p",
+      "text": "PPN 002: The Social Value Model is applied at the award stage. There are eight Social Value outcomes that can be included depending on the nature of the contract. Sustainable procurement practices is one outcome and, where it is included in the award criteria, suppliers could be asked to specify what actions they will take to deliver additional environmental benefits through the performance of the specific contract, as opposed to at an organisational level.",
+      "ordinal": 72,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q14. How does this measure interact with the Social Value Model?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00073",
+      "block_type": "p",
+      "text": "More information on the Social Value Model and how it can be used within the procurement process can be found in the PPN 002: Guide to using the Social Value [footnote 4] .",
+      "ordinal": 73,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q14. How does this measure interact with the Social Value Model?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00074",
+      "block_type": "heading",
+      "text": "Q15. What emissions should be reported in the CRP?",
+      "ordinal": 74,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q15. What emissions should be reported in the CRP?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00075",
+      "block_type": "p",
+      "text": "The Greenhouse Gas (GHG) Protocol breaks down emissions sources into three categories or ‘Scopes’:",
+      "ordinal": 75,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q15. What emissions should be reported in the CRP?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00076",
+      "block_type": "li",
+      "text": "Scope 1: emissions are direct greenhouse gas emissions that occur from sources that are controlled or owned by the reporting organisation, e.g. emissions associated with fuel combustion in boilers, furnaces, vehicles.",
+      "ordinal": 76,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q15. What emissions should be reported in the CRP?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00077",
+      "block_type": "li",
+      "text": "Scope 2: emissions are indirect greenhouse gas emissions associated with the purchase of electricity, steam, heat, or cooling. They are accounted for by the reporting organisation as they are a result of the organisation’s energy use.",
+      "ordinal": 77,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q15. What emissions should be reported in the CRP?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00078",
+      "block_type": "li",
+      "text": "Scope 3: emissions include all sources not within an organisation’s scope 1 and 2 boundary. Scope 3 emissions often represent the majority of an organisation’s total greenhouse gas emissions.",
+      "ordinal": 78,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q15. What emissions should be reported in the CRP?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00079",
+      "block_type": "p",
+      "text": "Scope 3 emissions fall within 15 categories, though organisations may not incur emissions in all categories. Scope 3 emission sources include emissions both upstream and downstream of the organisation’s activities.",
+      "ordinal": 79,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q15. What emissions should be reported in the CRP?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00080",
+      "block_type": "p",
+      "text": "When completing your CRP you should include your UK emissions for Scope 1 and Scope 2, along with a subset of five Scope 3 emissions categories:",
+      "ordinal": 80,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q15. What emissions should be reported in the CRP?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00081",
+      "block_type": "li",
+      "text": "Business travel",
+      "ordinal": 81,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q15. What emissions should be reported in the CRP?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00082",
+      "block_type": "li",
+      "text": "Employee commuting",
+      "ordinal": 82,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q15. What emissions should be reported in the CRP?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00083",
+      "block_type": "li",
+      "text": "Waste generated in operations",
+      "ordinal": 83,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q15. What emissions should be reported in the CRP?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00084",
+      "block_type": "li",
+      "text": "Upstream transportation and distribution",
+      "ordinal": 84,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q15. What emissions should be reported in the CRP?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00085",
+      "block_type": "li",
+      "text": "Downstream transportation and distribution",
+      "ordinal": 85,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q15. What emissions should be reported in the CRP?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00086",
+      "block_type": "p",
+      "text": "Full details of the reporting requirements for Carbon Reduction Plans can be found in the PPN 006: Technical standard for completion of Carbon Reduction Plans.",
+      "ordinal": 86,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q15. What emissions should be reported in the CRP?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00087",
+      "block_type": "heading",
+      "text": "Q16. Will there be any other training or support that will be given to assist suppliers and commercial teams?",
+      "ordinal": 87,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q16. Will there be any other training or support that will be given to assist suppliers and commercial teams?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00088",
+      "block_type": "p",
+      "text": "The Cabinet Office is continuing to work alongside partners such as Crown Commercial Service to host webinars on the policy measure from time to time to support implementation.",
+      "ordinal": 88,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q16. Will there be any other training or support that will be given to assist suppliers and commercial teams?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00089",
+      "block_type": "p",
+      "text": "Further information on supplier webinars hosted by Crown Commercial Service is available on their website.",
+      "ordinal": 89,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q16. Will there be any other training or support that will be given to assist suppliers and commercial teams?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00090",
+      "block_type": "heading",
+      "text": "Q17. What support is available for businesses in calculating their carbon footprint?",
+      "ordinal": 90,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q17. What support is available for businesses in calculating their carbon footprint?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00091",
+      "block_type": "p",
+      "text": "A number of private sector organisations, charities and industry bodies are able to offer further support and tools for businesses wanting to calculate their carbon footprint. Some of these services are available for free for SME and VCSE suppliers, others may charge. Suppliers should ensure that CRPs produced by third parties on their behalf still meet the requirements of this policy.",
+      "ordinal": 91,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q17. What support is available for businesses in calculating their carbon footprint?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00092",
+      "block_type": "heading",
+      "text": "Q18. My organisation has their own target for Net Zero that is earlier than the target established by the Climate Change Act. Am I able to adjust the condition of participation to reflect the earlier Net Zero target date?",
+      "ordinal": 92,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q18. My organisation has their own target for Net Zero that is earlier than the target established by the Climate Change Act. Am I able to adjust the condition of participation to reflect the earlier Net Zero target date?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00093",
+      "block_type": "p",
+      "text": "We are fully supportive of in-scope organisations having earlier target dates to achieve Net Zero. However, the assessment criteria set out in this PPN should not be amended to a date earlier than 2050. This ensures compliance with the policy, and maintains alignment with the UK’s wider Net Zero commitments as established by the Climate Change Act 2018 (as amended). This ensures a proportionate adoption of the policy, and ensures that the greatest number of suppliers are able to respond to your procurement.",
+      "ordinal": 93,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q18. My organisation has their own target for Net Zero that is earlier than the target established by the Climate Change Act. Am I able to adjust the condition of participation to reflect the earlier Net Zero target date?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00094",
+      "block_type": "p",
+      "text": "In-scope organisations may wish to consider how they could use other means to support their organisational Net Zero objectives. This could include the use of the Social Value Model or other contract specific evaluation measures to drive specific actions and behaviours from bidding suppliers. This would ensure that the PPN is adhered to, and that there will also be wider considerations for green procurement built into the commercial process.",
+      "ordinal": 94,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q18. My organisation has their own target for Net Zero that is earlier than the target established by the Climate Change Act. Am I able to adjust the condition of participation to reflect the earlier Net Zero target date?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00095",
+      "block_type": "heading",
+      "text": "Q19. Do subcontractors need to have a CRP?",
+      "ordinal": 95,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q19. Do subcontractors need to have a CRP?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00096",
+      "block_type": "p",
+      "text": "A CRP is required from the organisation with whom the in-scope organisations will enter into a contract if it is successful. There is no requirement for subcontractors to produce a CRP in compliance with this policy, save for where subcontracted organisations are also bidding on a procurement in their own right. In these cases, the CRP is required for that separate submission only.",
+      "ordinal": 96,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q19. Do subcontractors need to have a CRP?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00097",
+      "block_type": "p",
+      "text": "Where the response is being completed on behalf of a consortium of suppliers (i.e. suppliers are submitting a tender together), a CRP should be completed by each consortium member.",
+      "ordinal": 97,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q19. Do subcontractors need to have a CRP?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00098",
+      "block_type": "p",
+      "text": "In order to gain additional clarity and understanding of their own supply chain emissions, some supplier organisations are establishing their own policies that may request emissions data or a Net Zero commitment. Such requirements are separate from this policy initiative, and any queries should be discussed with the requesting supplier organisation.",
+      "ordinal": 98,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q19. Do subcontractors need to have a CRP?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00099",
+      "block_type": "heading",
+      "text": "Q20. At what stage in a procurement process will suppliers be asked to provide a CRP?",
+      "ordinal": 99,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q20. At what stage in a procurement process will suppliers be asked to provide a CRP?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00100",
+      "block_type": "p",
+      "text": "Suppliers wishing to bid for a contract within the scope of this PPN are required to submit a CRP as a condition of participation.",
+      "ordinal": 100,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q20. At what stage in a procurement process will suppliers be asked to provide a CRP?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00101",
+      "block_type": "heading",
+      "text": "Q21. Would a supplier fail the CRP check if their emissions increase?",
+      "ordinal": 101,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q21. Would a supplier fail the CRP check if their emissions increase?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00102",
+      "block_type": "p",
+      "text": "The provided emissions data is not to be used as a basis for assessment in the procurement process, but may be used to track suppliers’ progress in reducing their emissions over time. An increase in emissions compared to the baseline year or a previous year does not mean that the CRP fails to meet the conditions of participation.",
+      "ordinal": 102,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q21. Would a supplier fail the CRP check if their emissions increase?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00103",
+      "block_type": "p",
+      "text": "Suppliers may wish to provide an explanation for any increase in emissions, and should note that they may need to undertake further action to mitigate their carbon emissions in pursuit of achieving Net Zero by 2050 at the latest. Where a supplier’s emissions footprint is significantly increased as a result of takeovers/buyouts, they may wish to consider re-baselining their emissions.",
+      "ordinal": 103,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Q21. Would a supplier fail the CRP check if their emissions increase?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00104",
+      "block_type": "heading",
+      "text": "Contact",
+      "ordinal": 104,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00105",
+      "block_type": "heading",
+      "text": "Q.What if I have a question which is not covered here?",
+      "ordinal": 105,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Contact",
+        "Q.What if I have a question which is not covered here?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00106",
+      "block_type": "p",
+      "text": "If you have a question which is not covered in the PPN, guidance or FAQs, contact Crown Commercial Service Helpdesk on 0345 410 2222, or by email at info@crowncommercial.gov.uk",
+      "ordinal": 106,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Contact",
+        "Q.What if I have a question which is not covered here?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00107",
+      "block_type": "li",
+      "text": "See section 3 of the Procurement Act 2023 ↩",
+      "ordinal": 107,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Contact",
+        "Q.What if I have a question which is not covered here?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00108",
+      "block_type": "p",
+      "text": "See section 3 of the Procurement Act 2023 ↩",
+      "ordinal": 108,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Contact",
+        "Q.What if I have a question which is not covered here?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00109",
+      "block_type": "li",
+      "text": "See section 10(6) of the Procurement Act 2023 ↩",
+      "ordinal": 109,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Contact",
+        "Q.What if I have a question which is not covered here?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00110",
+      "block_type": "p",
+      "text": "See section 10(6) of the Procurement Act 2023 ↩",
+      "ordinal": 110,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Contact",
+        "Q.What if I have a question which is not covered here?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00111",
+      "block_type": "li",
+      "text": "Based on advertised contract value, averaged over the life of the contract, e.g. a contract with a four year term with a total contract value of £21 million would be in scope, even if the value in the first year was under £5 million. ↩",
+      "ordinal": 111,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Contact",
+        "Q.What if I have a question which is not covered here?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00112",
+      "block_type": "p",
+      "text": "Based on advertised contract value, averaged over the life of the contract, e.g. a contract with a four year term with a total contract value of £21 million would be in scope, even if the value in the first year was under £5 million. ↩",
+      "ordinal": 112,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Contact",
+        "Q.What if I have a question which is not covered here?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00113",
+      "block_type": "li",
+      "text": "PPN 002: Taking account of social value in the award of contracts ↩",
+      "ordinal": 113,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Contact",
+        "Q.What if I have a question which is not covered here?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00114",
+      "block_type": "p",
+      "text": "PPN 002: Taking account of social value in the award of contracts ↩",
+      "ordinal": 114,
+      "heading_path": [
+        "Q1. Who does the policy and guidance apply to?",
+        "Contact",
+        "Q.What if I have a question which is not covered here?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "domestic-policy-queries@cabinetoffice.gov.uk",
+      "href": "mailto:domestic-policy-queries@cabinetoffice.gov.uk",
+      "block_id": "b00002",
+      "ordinal": 0,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "[footnote 1]",
+      "href": "https://www.gov.uk/government/publications/ppn-006-taking-account-of-carbon-reduction-plans-in-the-procurement-of-major-government-contracts/ppn-006-frequently-asked-questions#fn:1",
+      "block_id": "b00006",
+      "ordinal": 1,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 2]",
+      "href": "https://www.gov.uk/government/publications/ppn-006-taking-account-of-carbon-reduction-plans-in-the-procurement-of-major-government-contracts/ppn-006-frequently-asked-questions#fn:2",
+      "block_id": "b00006",
+      "ordinal": 2,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 3]",
+      "href": "https://www.gov.uk/government/publications/ppn-006-taking-account-of-carbon-reduction-plans-in-the-procurement-of-major-government-contracts/ppn-006-frequently-asked-questions#fn:3",
+      "block_id": "b00006",
+      "ordinal": 3,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 4]",
+      "href": "https://www.gov.uk/government/publications/ppn-006-taking-account-of-carbon-reduction-plans-in-the-procurement-of-major-government-contracts/ppn-006-frequently-asked-questions#fn:4",
+      "block_id": "b00073",
+      "ordinal": 4,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "info@crowncommercial.gov.uk",
+      "href": "mailto:info@crowncommercial.gov.uk",
+      "block_id": "b00106",
+      "ordinal": 5,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "Procurement Act 2023",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/3/enacted",
+      "block_id": "b00107",
+      "ordinal": 6,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-006-taking-account-of-carbon-reduction-plans-in-the-procurement-of-major-government-contracts/ppn-006-frequently-asked-questions#fnref:1",
+      "block_id": "b00107",
+      "ordinal": 7,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Procurement Act 2023",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/3/enacted",
+      "block_id": "b00108",
+      "ordinal": 8,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-006-taking-account-of-carbon-reduction-plans-in-the-procurement-of-major-government-contracts/ppn-006-frequently-asked-questions#fnref:1",
+      "block_id": "b00108",
+      "ordinal": 9,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Procurement Act 2023",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/3/enacted",
+      "block_id": "b00109",
+      "ordinal": 10,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-006-taking-account-of-carbon-reduction-plans-in-the-procurement-of-major-government-contracts/ppn-006-frequently-asked-questions#fnref:2",
+      "block_id": "b00109",
+      "ordinal": 11,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Procurement Act 2023",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/3/enacted",
+      "block_id": "b00110",
+      "ordinal": 12,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-006-taking-account-of-carbon-reduction-plans-in-the-procurement-of-major-government-contracts/ppn-006-frequently-asked-questions#fnref:2",
+      "block_id": "b00110",
+      "ordinal": 13,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-006-taking-account-of-carbon-reduction-plans-in-the-procurement-of-major-government-contracts/ppn-006-frequently-asked-questions#fnref:3",
+      "block_id": "b00111",
+      "ordinal": 14,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-006-taking-account-of-carbon-reduction-plans-in-the-procurement-of-major-government-contracts/ppn-006-frequently-asked-questions#fnref:3",
+      "block_id": "b00112",
+      "ordinal": 15,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "PPN 002: Taking account of social value in the award of contracts",
+      "href": "https://www.gov.uk/government/publications/ppn-002-taking-account-of-social-value-in-the-award-of-contracts",
+      "block_id": "b00113",
+      "ordinal": 16,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-006-taking-account-of-carbon-reduction-plans-in-the-procurement-of-major-government-contracts/ppn-006-frequently-asked-questions#fnref:4",
+      "block_id": "b00113",
+      "ordinal": 17,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "PPN 002: Taking account of social value in the award of contracts",
+      "href": "https://www.gov.uk/government/publications/ppn-002-taking-account-of-social-value-in-the-award-of-contracts",
+      "block_id": "b00114",
+      "ordinal": 18,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-006-taking-account-of-carbon-reduction-plans-in-the-procurement-of-major-government-contracts/ppn-006-frequently-asked-questions#fnref:4",
+      "block_id": "b00114",
+      "ordinal": 19,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "PPN 006: Frequently asked questions",
+      "href": "https://www.gov.uk/government/publications/ppn-006-taking-account-of-carbon-reduction-plans-in-the-procurement-of-major-government-contracts/ppn-006-frequently-asked-questions",
+      "block_id": "__document__",
+      "ordinal": 20,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2024 to 2026 Starmer Labour government",
+      "href": "https://www.gov.uk/government/2024-starmer-labour-government",
+      "block_id": "__document__",
+      "ordinal": 21,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 22,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "PPN 006: Taking account of Carbon Reduction Plans in the procurement of major government contracts",
+      "href": "https://www.gov.uk/government/publications/ppn-006-taking-account-of-carbon-reduction-plans-in-the-procurement-of-major-government-contracts",
+      "block_id": "__document__",
+      "ordinal": 23,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 24,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2024",
+      "block_id": "b00001",
+      "start": 121,
+      "end": 137,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2024"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2024",
+      "block_id": "b00001",
+      "start": 184,
+      "end": 200,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2024"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 5",
+      "block_id": "b00023",
+      "start": 133,
+      "end": 144,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "5"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 10",
+      "block_id": "b00052",
+      "start": 230,
+      "end": 242,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "10"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 3",
+      "block_id": "b00107",
+      "start": 4,
+      "end": 13,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "3"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 3",
+      "block_id": "b00108",
+      "start": 4,
+      "end": 13,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "3"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 10(6)",
+      "block_id": "b00109",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "10",
+        "tail": "(6)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 10(6)",
+      "block_id": "b00110",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "10",
+        "tail": "(6)"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

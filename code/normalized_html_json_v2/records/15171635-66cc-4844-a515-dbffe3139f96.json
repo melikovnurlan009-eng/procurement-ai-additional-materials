@@ -1,0 +1,125 @@
+{
+  "document_id": "15171635-66cc-4844-a515-dbffe3139f96",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/67b530e1b639191068a9def2.json",
+  "input_sha256": "08579c6dbcc3c3eb6649cf31939dd97f1e78fa4558657df0525c0760bd098e5d",
+  "processed_at": "2026-08-27T02:26:21.164288+00:00",
+  "title": "PPN 09/21: Requirements to publish on Contracts Finder",
+  "canonical_url": "https://www.gov.uk/government/publications/ppn-0921-requirements-to-publish-on-contracts-finder",
+  "description": "Guidance for in-scope organisations on how to publish procurement information on Contracts Finder.",
+  "publication_date": "2021-11-30T16:38:00+00:00",
+  "updated_date": "2021-12-20T16:54:43+00:00",
+  "source_metadata": {
+    "content_id": "15171635-66cc-4844-a515-dbffe3139f96",
+    "base_path": "/government/publications/ppn-0921-requirements-to-publish-on-contracts-finder",
+    "document_type": "guidance",
+    "schema_name": "publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "This Procurement Policy Note ( PPN ) reminds in-scope organisations of the requirements to publish procurement information on Contracts Finder.",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "The PPN and associated guidance replaces PPN 07/21 and clarifies requirements on NHS Foundation Trusts.",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "There is no change to the publication requirements for other contracting authorities that were set out in PPN 07/21.",
+      "ordinal": 2,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "PPN 09/21: Requirements to publish on Contracts Finder",
+      "href": "https://www.gov.uk/government/publications/ppn-0921-requirements-to-publish-on-contracts-finder",
+      "block_id": "__document__",
+      "ordinal": 0,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "Procurement policy notes",
+      "href": "https://www.gov.uk/government/collections/procurement-policy-notes",
+      "block_id": "__document__",
+      "ordinal": 1,
+      "link_type": "GOVUK_DOCUMENT_COLLECTIONS"
+    },
+    {
+      "text": "2019 to 2022 Johnson Conservative government",
+      "href": "https://www.gov.uk/government/2019-to-2022-johnson-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_ORIGINAL_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Government",
+      "href": "https://www.gov.uk/government/all",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_TAXONS"
+    }
+  ],
+  "legal_references": [],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/61d414158fa8f54c1bfce3a4/2021-12-21_Procurement_Policy_Note___Legal_requirements_to_publish_on_Contracts_Finder_update_December_2021.pdf",
+      "title": "Procurement Policy Note 09/21: Update to Legal and Policy requirements to publish procurement information on Contracts Finder",
+      "content_type": "application/pdf",
+      "filename": "2021-12-21_Procurement_Policy_Note___Legal_requirements_to_publish_on_Contracts_Finder_update_December_2021.pdf",
+      "id": "6283310",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/61c0b1c7e90e070449d4a049/transparency-requirements-publishing-on-contracts-finder-v0.1.pdf",
+      "title": "Guidance on transparency requirements for publishing on Contracts Finder",
+      "content_type": "application/pdf",
+      "filename": "transparency-requirements-publishing-on-contracts-finder-v0.1.pdf",
+      "id": "6283311",
+      "logical_role": "ATTACHMENT"
+    }
+  ],
+  "warnings": []
+}

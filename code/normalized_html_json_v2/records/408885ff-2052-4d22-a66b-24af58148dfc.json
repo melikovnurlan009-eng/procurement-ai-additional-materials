@@ -1,0 +1,149 @@
+{
+  "document_id": "408885ff-2052-4d22-a66b-24af58148dfc",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/a211c83d2d5c326b139cf47a.json",
+  "input_sha256": "828c6e5a1c7cc65d4a60389f36ab49768d1b443d7c9424bb59535cb4e9e81370",
+  "processed_at": "2026-08-27T02:26:34.566341+00:00",
+  "title": "PPN 007: Contracts with Russia and Belarus",
+  "canonical_url": "https://www.gov.uk/government/publications/ppn-007-contracts-with-russia-and-belarus",
+  "description": "This PPN sets out how contracting authorities can further cut ties with companies backed by the states of Russia and Belarus.",
+  "publication_date": "2025-02-17T14:44:22+00:00",
+  "updated_date": "2025-02-17T14:44:22+00:00",
+  "source_metadata": {
+    "content_id": "408885ff-2052-4d22-a66b-24af58148dfc",
+    "base_path": "/government/publications/ppn-007-contracts-with-russia-and-belarus",
+    "document_type": "guidance",
+    "schema_name": "publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "This PPN has been updated to reflect new terminology introduced by the Procurement Act 2023 and the Procurement Regulations 2024. For procurements commenced and contracts awarded before this date, please refer to PPN 01/22.",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "PPN 007: Contracts with Russia and Belarus",
+      "href": "https://www.gov.uk/government/publications/ppn-007-contracts-with-russia-and-belarus",
+      "block_id": "__document__",
+      "ordinal": 0,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "PPN 007: Contracts with suppliers from Russia and Belarus FAQs (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-007-contracts-with-russia-and-belarus/ppn-007-contracts-with-suppliers-from-russia-and-belarus-faqs-html",
+      "block_id": "__document__",
+      "ordinal": 1,
+      "link_type": "GOVUK_CHILDREN"
+    },
+    {
+      "text": "PPN 007: Contracts with suppliers from Russia and Belarus (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-007-contracts-with-russia-and-belarus/ppn-007-contracts-with-suppliers-from-russia-and-belarus-html",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_CHILDREN"
+    },
+    {
+      "text": "Procurement policy notes",
+      "href": "https://www.gov.uk/government/collections/procurement-policy-notes",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_DOCUMENT_COLLECTIONS"
+    },
+    {
+      "text": "2024 to 2026 Starmer Labour government",
+      "href": "https://www.gov.uk/government/2024-starmer-labour-government",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_ORIGINAL_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 7,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Government spending",
+      "href": "https://www.gov.uk/government/government-spending",
+      "block_id": "__document__",
+      "ordinal": 8,
+      "link_type": "GOVUK_TAXONS"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2024",
+      "block_id": "b00000",
+      "start": 112,
+      "end": 128,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2024"
+      }
+    }
+  ],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/67b339684a80c6718b55be29/PPN_007_Contracts_with_suppliers_from_Russia_and_Belarus.pdf",
+      "title": "PPN 007: Contracts with suppliers from Russia and Belarus (PDF)",
+      "content_type": "application/pdf",
+      "filename": "PPN_007_Contracts_with_suppliers_from_Russia_and_Belarus.pdf",
+      "id": "8467481",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "/government/publications/ppn-007-contracts-with-russia-and-belarus/ppn-007-contracts-with-suppliers-from-russia-and-belarus-html",
+      "title": "PPN 007: Contracts with suppliers from Russia and Belarus (HTML)",
+      "content_type": null,
+      "filename": null,
+      "id": "8467469",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/67af6a24e270ceae39f9e270/PPN_007_Contracts_with_suppliers_from_Russia_and_Belarus_FAQs.pdf",
+      "title": "PPN 007: Contracts with suppliers from Russia and Belarus FAQs (PDF)",
+      "content_type": "application/pdf",
+      "filename": "PPN_007_Contracts_with_suppliers_from_Russia_and_Belarus_FAQs.pdf",
+      "id": "8467485",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "/government/publications/ppn-007-contracts-with-russia-and-belarus/ppn-007-contracts-with-suppliers-from-russia-and-belarus-faqs-html",
+      "title": "PPN 007: Contracts with suppliers from Russia and Belarus FAQs (HTML)",
+      "content_type": null,
+      "filename": null,
+      "id": "8467484",
+      "logical_role": "ATTACHMENT"
+    }
+  ],
+  "warnings": []
+}

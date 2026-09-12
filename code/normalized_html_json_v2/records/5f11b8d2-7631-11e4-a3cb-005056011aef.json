@@ -1,0 +1,150 @@
+{
+  "document_id": "5f11b8d2-7631-11e4-a3cb-005056011aef",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/7cde18c16141c18e1aad5a98.json",
+  "input_sha256": "657f934cc6d29e48742c19d4415c476d414f986803aa56415b4345c261e77796",
+  "processed_at": "2026-08-27T02:26:27.249936+00:00",
+  "title": "Procurement policy note 03/14: promoting tax compliance",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-policy-note-0314-promoting-tax-compliance",
+  "description": "This sets out the scope, background and detailed guidance for the policy of using the procurement process to promote tax compliance.",
+  "publication_date": "2014-02-07T11:15:00+00:00",
+  "updated_date": "2015-05-15T14:47:05+01:00",
+  "source_metadata": {
+    "content_id": "5f11b8d2-7631-11e4-a3cb-005056011aef",
+    "base_path": "/government/publications/procurement-policy-note-0314-promoting-tax-compliance",
+    "document_type": "guidance",
+    "schema_name": "publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "The guidance contained in this procurement policy note ( PPN ) is being updated in view of the Public Contracts Regulations 2015. Until a new PPN is issued, any organisations intending to take a selection decision using this guidance should consult beforehand with the Crown Commercial Service by contacting the helpdesk on 0345 410 2222 or emailing info@crowncommercial.gov.uk .",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "A new policy was announced in the March 2013 Budget on the use of the procurement process to promote tax compliance. This applies with effect from 1 April 2013 to all central government contracts of more than £5 million. Suppliers bidding for these government contracts must self-certify their tax compliance.",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "This Action Note replaces Action Note 06/13 dated 25 July 2013. It sets out the scope and background of the new policy, advises how to take account of it in procurement documentation and provides further detailed guidance at Annex A on how departments should assess suppliers’ responses and including new clauses in contract terms.",
+      "ordinal": 2,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "info@crowncommercial.gov.uk",
+      "href": "mailto:info@crowncommercial.gov.uk",
+      "block_id": "b00000",
+      "ordinal": 0,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "Action Note 06/13",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0613-promoting-tax-compliance",
+      "block_id": "b00002",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement policy note 03/14: promoting tax compliance",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0314-promoting-tax-compliance",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "Procurement policy notes",
+      "href": "https://www.gov.uk/government/collections/procurement-policy-notes",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_DOCUMENT_COLLECTIONS"
+    },
+    {
+      "text": "2010 to 2015 Conservative and Liberal Democrat coalition government",
+      "href": "https://www.gov.uk/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Crown Commercial Service",
+      "href": "https://www.gov.uk/government/organisations/crown-commercial-service",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 7,
+      "link_type": "GOVUK_ORIGINAL_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 8,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Government spending",
+      "href": "https://www.gov.uk/government/government-spending",
+      "block_id": "__document__",
+      "ordinal": 9,
+      "link_type": "GOVUK_TAXONS"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015",
+      "block_id": "b00000",
+      "start": 112,
+      "end": 128,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015"
+      }
+    }
+  ],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/5a7ce24840f0b65b3de0bbcb/PPN_0314_Measures_to_Promote_Tax_Compliance_Feb.pdf",
+      "title": "Procurement Policy Note: Measures to Promote Tax Compliance",
+      "content_type": "application/pdf",
+      "filename": "PPN_0314_Measures_to_Promote_Tax_Compliance_Feb.pdf",
+      "id": "1040528",
+      "logical_role": "ATTACHMENT"
+    }
+  ],
+  "warnings": []
+}

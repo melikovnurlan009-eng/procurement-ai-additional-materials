@@ -1,0 +1,835 @@
+{
+  "document_id": "9a5001b5-ba08-4401-844f-4b656fc0aa8c",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/8a1fd7113d371c03f8353b79.json",
+  "input_sha256": "4ed8e481702d24acae5023a2f0bb2868a707d0bfcae33d66e709dcad94cab936",
+  "processed_at": "2026-08-27T02:26:29.827699+00:00",
+  "title": "The National Security Unit for Procurement",
+  "canonical_url": "https://www.gov.uk/guidance/the-national-security-unit-for-procurement",
+  "description": "An overview of the National Security Unit for Procurement (NSUP), who are responsible for the national security provisions set out in the Procurement Act 2023",
+  "publication_date": "2025-03-13T00:00:00+00:00",
+  "updated_date": "2026-06-24T09:00:02+01:00",
+  "source_metadata": {
+    "content_id": "9a5001b5-ba08-4401-844f-4b656fc0aa8c",
+    "base_path": "/guidance/the-national-security-unit-for-procurement",
+    "document_type": "detailed_guide",
+    "schema_name": "detailed_guide",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "National security debarments",
+      "ordinal": 7,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "National Security Unit for Procurement Debarment Protocol Summary",
+      "ordinal": 12,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "National security exclusions and terminations",
+      "ordinal": 14,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Debarment Review Service",
+      "ordinal": 18,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Debarment referrals",
+      "ordinal": 23,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Exclusion and termination referrals",
+      "ordinal": 30,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "General enquiries",
+      "ordinal": 42,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Templates for contracting authorities",
+      "ordinal": 44,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Privacy notice",
+      "ordinal": 48,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "The Procurement Act 2023, which commenced on 24 February 2025, constitutes a comprehensive reform of public procurement, focused on simplifying procurements, driving social value and tackling poor supplier practice.",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "The Act introduces three powers:",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "li",
+      "text": "to exclude a supplier from a specific procurement,",
+      "ordinal": 2,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "li",
+      "text": "to terminate a public contract with a supplier, and/or",
+      "ordinal": 3,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "li",
+      "text": "to debar a supplier from all, or a range of public contracts.",
+      "ordinal": 4,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "The legislation provides for these decisions to be taken on multiple grounds, including national security. These powers constitute a significant step forward in the UK’s ability to respond to economic based threats, and an important opportunity to remove suppliers that pose a national security threat to the UK from public sector supply chains.",
+      "ordinal": 5,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "p",
+      "text": "The National Security Unit for Procurement (NSUP) has been established to support Ministers in assessing suppliers on national security grounds, in line with the Act. It works closely with government departments and the intelligence community, overseeing implementation of the new powers.",
+      "ordinal": 6,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "heading",
+      "text": "National security debarments",
+      "ordinal": 7,
+      "heading_path": [
+        "National security debarments"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "Anyone is able to refer a supplier for consideration for investigation to the Cabinet Office, but only a Minister can decide whether a supplier should be placed on the debarment list.",
+      "ordinal": 8,
+      "heading_path": [
+        "National security debarments"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "Debarments on national security grounds come in two forms:",
+      "ordinal": 9,
+      "heading_path": [
+        "National security debarments"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "li",
+      "text": "Discretionary - a contracting authority has the discretion to allow the supplier to participate in procurements.",
+      "ordinal": 10,
+      "heading_path": [
+        "National security debarments"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "li",
+      "text": "Mandatory (context-dependent) - a contracting authority may not allow that supplier to participate in procurements for certain types of contracts (e.g., technology on sensitive government sites).",
+      "ordinal": 11,
+      "heading_path": [
+        "National security debarments"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "heading",
+      "text": "National Security Unit for Procurement Debarment Protocol Summary",
+      "ordinal": 12,
+      "heading_path": [
+        "National security debarments",
+        "National Security Unit for Procurement Debarment Protocol Summary"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "National Security Unit for Procurement Debarment Protocol Summary ( PDF , 960 KB , 18 pages )",
+      "ordinal": 13,
+      "heading_path": [
+        "National security debarments",
+        "National Security Unit for Procurement Debarment Protocol Summary"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "heading",
+      "text": "National security exclusions and terminations",
+      "ordinal": 14,
+      "heading_path": [
+        "National security debarments",
+        "National security exclusions and terminations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "A public sector contracting authority will be able to exclude a supplier from a specific procurement or terminate a contract if that supplier is deemed a national security threat. Unlike other grounds in the Act, a national security exclusion or termination requires agreement from a Minister of the Crown, following referral to NSUP by a contracting authority.",
+      "ordinal": 15,
+      "heading_path": [
+        "National security debarments",
+        "National security exclusions and terminations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "li",
+      "text": "Please note that where contracting authorities are Ministers of the Crown, government departments or the Corporate Officers of the Houses of Parliament, they do not need to seek agreement before excluding suppliers or terminating contracts under the Act. However, they must consult NSUP on their assessment.",
+      "ordinal": 16,
+      "heading_path": [
+        "National security debarments",
+        "National security exclusions and terminations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "If a supplier is on the mandatory debarment list on the basis of the national security grounds, contracting authorities must exclude them if the contract fits within the specified context.",
+      "ordinal": 17,
+      "heading_path": [
+        "National security debarments",
+        "National security exclusions and terminations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "heading",
+      "text": "Debarment Review Service",
+      "ordinal": 18,
+      "heading_path": [
+        "National security debarments",
+        "Debarment Review Service"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "The Debarment Review Service (DRS) investigates whether suppliers should be added to the debarment list. It aims to protect public money from suppliers who pose a risk to public procurement under the Procurement Act 2023.",
+      "ordinal": 19,
+      "heading_path": [
+        "National security debarments",
+        "Debarment Review Service"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "p",
+      "text": "DRS manages debarment for all exclusion grounds, except those relating to national security.",
+      "ordinal": 20,
+      "heading_path": [
+        "National security debarments",
+        "Debarment Review Service"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "As of 1st April 2026, the DRS will be part of the Government Commercial Agency",
+      "ordinal": 21,
+      "heading_path": [
+        "National security debarments",
+        "Debarment Review Service"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "p",
+      "text": "You can find out more about the DRS",
+      "ordinal": 22,
+      "heading_path": [
+        "National security debarments",
+        "Debarment Review Service"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "heading",
+      "text": "Debarment referrals",
+      "ordinal": 23,
+      "heading_path": [
+        "National security debarments",
+        "Debarment referrals"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "As set out above, anyone, including members of the public, can submit referrals for a potential national security debarment investigation.",
+      "ordinal": 24,
+      "heading_path": [
+        "National security debarments",
+        "Debarment referrals"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "p",
+      "text": "It is essential that referrals are made responsibly and only when there is credible evidence or serious concern regarding a supplier’s threat to the national security of the UK. Unfounded referrals could divert resources and attention away from genuine threats, potentially compromising the effectiveness of the system. We urge those interested in submitting a national security referral to consider the evidence available and the seriousness of their concerns before submitting a referral.",
+      "ordinal": 25,
+      "heading_path": [
+        "National security debarments",
+        "Debarment referrals"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "p",
+      "text": "Debarment referral form : raise a referral for consideration for a debarment investigation on the basis of national security.",
+      "ordinal": 26,
+      "heading_path": [
+        "National security debarments",
+        "Debarment referrals"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "p",
+      "text": "Offline copy: Debarment Referral Form ( PDF , 176 KB , 4 pages )",
+      "ordinal": 27,
+      "heading_path": [
+        "National security debarments",
+        "Debarment referrals"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "Please refer to the Debarment list (PDF, 79.5 KB, 1 page) to check which suppliers have been included on the list, the applicable exclusion ground(s) and the associated investigation report (where available).",
+      "ordinal": 28,
+      "heading_path": [
+        "National security debarments",
+        "Debarment referrals"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "p",
+      "text": "Please note, the debarment regime went live on 24th February 2025, which granted the powers to investigate. Consequently, until such time as a ministerial decision is taken to add a supplier to the debarment list, following investigation, the list will remain blank.",
+      "ordinal": 29,
+      "heading_path": [
+        "National security debarments",
+        "Debarment referrals"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "heading",
+      "text": "Exclusion and termination referrals",
+      "ordinal": 30,
+      "heading_path": [
+        "National security debarments",
+        "Exclusion and termination referrals"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "p",
+      "text": "Contracting authorities may seek to exclude a supplier from a procurement process, or terminate an existing contract on national security grounds. Additionally, contracting authorities may be obliged to exclude a supplier if they are named on the debarment list on mandatory national security grounds.",
+      "ordinal": 31,
+      "heading_path": [
+        "National security debarments",
+        "Exclusion and termination referrals"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "p",
+      "text": "National security-specific exclusion and termination guidance has been published to help contracting authorities fulfil their new obligations. This can be found on the ‘ Procurement Act 2023 guidance documents ’ page and sets out:",
+      "ordinal": 32,
+      "heading_path": [
+        "National security debarments",
+        "Exclusion and termination referrals"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "li",
+      "text": "the national security exclusion and termination grounds;",
+      "ordinal": 33,
+      "heading_path": [
+        "National security debarments",
+        "Exclusion and termination referrals"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "li",
+      "text": "how to determine whether a supplier is subject to exclusion on national security grounds and what to do if they are;",
+      "ordinal": 34,
+      "heading_path": [
+        "National security debarments",
+        "Exclusion and termination referrals"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "li",
+      "text": "how to assess if there is a threat to national security in a public procurement;",
+      "ordinal": 35,
+      "heading_path": [
+        "National security debarments",
+        "Exclusion and termination referrals"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "li",
+      "text": "how to submit a referral via GOV.UK;",
+      "ordinal": 36,
+      "heading_path": [
+        "National security debarments",
+        "Exclusion and termination referrals"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "li",
+      "text": "what to do if a supplier is on the debarment list on national security grounds.",
+      "ordinal": 37,
+      "heading_path": [
+        "National security debarments",
+        "Exclusion and termination referrals"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "p",
+      "text": "Exclusion and termination referral forms:",
+      "ordinal": 38,
+      "heading_path": [
+        "National security debarments",
+        "Exclusion and termination referrals"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "li",
+      "text": "For contracting authorities to notify a Minister that a supplier has been excluded or terminated from a procurement procedure due to being named on the debarment list on mandatory national security grounds",
+      "ordinal": 39,
+      "heading_path": [
+        "National security debarments",
+        "Exclusion and termination referrals"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "li",
+      "text": "For contracting authorities to request Ministerial agreement on whether a supplier should be excluded or a contract terminated on national security grounds",
+      "ordinal": 40,
+      "heading_path": [
+        "National security debarments",
+        "Exclusion and termination referrals"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "p",
+      "text": "Please note that contracting authorities who are government departments or the Houses of Parliament must consult NSUP through the referral forms when assessing a supplier for a national security exclusion or termination.",
+      "ordinal": 41,
+      "heading_path": [
+        "National security debarments",
+        "Exclusion and termination referrals"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "heading",
+      "text": "General enquiries",
+      "ordinal": 42,
+      "heading_path": [
+        "National security debarments",
+        "General enquiries"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "p",
+      "text": "To make a general enquiry to the National Security Unit for Procurement, please use this form. Please do not submit a referral using this link.",
+      "ordinal": 43,
+      "heading_path": [
+        "National security debarments",
+        "General enquiries"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "heading",
+      "text": "Templates for contracting authorities",
+      "ordinal": 44,
+      "heading_path": [
+        "National security debarments",
+        "Templates for contracting authorities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "p",
+      "text": "If you are a contracting authority looking to provide a supplier with an exclusion or termination notification, please use the templates provided below.",
+      "ordinal": 45,
+      "heading_path": [
+        "National security debarments",
+        "Templates for contracting authorities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "p",
+      "text": "Blank template letter for an exclusion notification and request for representations and evidence from a contracting authority to a supplier (ODT, 16KB)",
+      "ordinal": 46,
+      "heading_path": [
+        "National security debarments",
+        "Templates for contracting authorities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "p",
+      "text": "Blank template letter for an intent to terminate from a contracting authority to a supplier (ODT, 16KB)",
+      "ordinal": 47,
+      "heading_path": [
+        "National security debarments",
+        "Templates for contracting authorities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "heading",
+      "text": "Privacy notice",
+      "ordinal": 48,
+      "heading_path": [
+        "National security debarments",
+        "Privacy notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "p",
+      "text": "Privacy Notice NSUP ( PDF , 185 KB , 8 pages )",
+      "ordinal": 49,
+      "heading_path": [
+        "National security debarments",
+        "Privacy notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "National Security Unit for Procurement Debarment Protocol Summary",
+      "href": "https://assets.publishing.service.gov.uk/media/6a3b98e2eaee00074150f302/Debarment_Protocol_Summary_Publication.pdf",
+      "block_id": "b00013",
+      "ordinal": 0,
+      "link_type": "ATTACHMENT"
+    },
+    {
+      "text": "find out more about the DRS",
+      "href": "https://www.gov.uk/guidance/debarment-review-service-drs",
+      "block_id": "b00022",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Debarment referral form",
+      "href": "https://submit.forms.service.gov.uk/form/7596/national-security-debarment-referral-form",
+      "block_id": "b00026",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Debarment Referral Form",
+      "href": "https://assets.publishing.service.gov.uk/media/6835aed11b586507b9e72af0/Debarment_Referral_Form_PDF__1_.pdf",
+      "block_id": "b00027",
+      "ordinal": 3,
+      "link_type": "ATTACHMENT"
+    },
+    {
+      "text": "Debarment list",
+      "href": "https://assets.publishing.service.gov.uk/media/681cc62e155568d3da1d2aad/Debarment_List.pdf",
+      "block_id": "b00028",
+      "ordinal": 4,
+      "link_type": "ATTACHMENT"
+    },
+    {
+      "text": "Procurement Act 2023 guidance documents",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase",
+      "block_id": "b00032",
+      "ordinal": 5,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "notify a Minister that a supplier has been excluded or terminated from a procurement procedure due to being named on the debarment list on mandatory national security grounds",
+      "href": "https://submit.forms.service.gov.uk/form/5858/notification-of-the-exclusion-of-a-supplier-from-a-procurement-or-the-intention-to-terminate-a-public-contract-with-a-supplier-named-on-the-debarment-list-on-mandatory-national-security-grounds-for-public-contracts-of-the-same-particular-description",
+      "block_id": "b00039",
+      "ordinal": 6,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "request Ministerial agreement on whether a supplier should be excluded or a contract terminated on national security grounds",
+      "href": "https://submit.forms.service.gov.uk/form/4139/referral-to-a-minister-of-the-crown-of-intention-to-exclude-a-supplier-or-terminate-a-public-contract-with-a-supplier-on-grounds-of-national-security",
+      "block_id": "b00040",
+      "ordinal": 7,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "To make a general enquiry to the National Security Unit for Procurement, please use this form.",
+      "href": "https://submit.forms.service.gov.uk/form/6554/national-security-unit-for-procurement-nsup-general-enquiry-form",
+      "block_id": "b00043",
+      "ordinal": 8,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Blank template letter for an exclusion notification and request for representations and evidence from a contracting authority to a supplier (ODT, 16KB)",
+      "href": "https://assets.publishing.service.gov.uk/media/67d2e76e4702aacd2251cbca/Exclusion_Termination_notification_and_representations_request_from_contracting_authority_to_supplier.odt",
+      "block_id": "b00046",
+      "ordinal": 9,
+      "link_type": "ATTACHMENT"
+    },
+    {
+      "text": "Blank template letter for an intent to terminate from a contracting authority to a supplier (ODT, 16KB)",
+      "href": "https://assets.publishing.service.gov.uk/media/67d2e78c4702aacd2251cbcb/Intent_to_terminate_from_contracting_authority_to_supplier_.odt",
+      "block_id": "b00047",
+      "ordinal": 10,
+      "link_type": "ATTACHMENT"
+    },
+    {
+      "text": "Privacy Notice NSUP",
+      "href": "https://assets.publishing.service.gov.uk/media/69bd0e0b8006048065f73d5c/2025-01-17-UK-GDPR-Model-Privacy-Notice_National_Security_Unit_for_Procurement.docx__1_.pdf",
+      "block_id": "b00049",
+      "ordinal": 11,
+      "link_type": "ATTACHMENT"
+    },
+    {
+      "text": "The National Security Unit for Procurement",
+      "href": "https://www.gov.uk/guidance/the-national-security-unit-for-procurement",
+      "block_id": "__document__",
+      "ordinal": 12,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2024 to 2026 Starmer Labour government",
+      "href": "https://www.gov.uk/government/2024-starmer-labour-government",
+      "block_id": "__document__",
+      "ordinal": 13,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 14,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 15,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Government",
+      "href": "https://www.gov.uk/government/all",
+      "block_id": "__document__",
+      "ordinal": 16,
+      "link_type": "GOVUK_TAXONS"
+    }
+  ],
+  "legal_references": [],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/6a3b98e2eaee00074150f302/Debarment_Protocol_Summary_Publication.pdf",
+      "title": "National Security Unit for Procurement Debarment Protocol Summary",
+      "content_type": "application/pdf",
+      "filename": "Debarment_Protocol_Summary_Publication.pdf",
+      "id": "9360971",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/6835aed11b586507b9e72af0/Debarment_Referral_Form_PDF__1_.pdf",
+      "title": "Debarment Referral Form",
+      "content_type": "application/pdf",
+      "filename": "Debarment_Referral_Form_PDF__1_.pdf",
+      "id": "9360969",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/681cc62e155568d3da1d2aad/Debarment_List.pdf",
+      "title": "Debarment list",
+      "discovered_in_block": "b00028"
+    },
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/67d2e76e4702aacd2251cbca/Exclusion_Termination_notification_and_representations_request_from_contracting_authority_to_supplier.odt",
+      "title": "Exclusion Termination notification and representations request from contracting authority to supplier",
+      "content_type": "application/vnd.oasis.opendocument.text",
+      "filename": "Exclusion_Termination_notification_and_representations_request_from_contracting_authority_to_supplier.odt",
+      "id": "9360967",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/67d2e78c4702aacd2251cbcb/Intent_to_terminate_from_contracting_authority_to_supplier_.odt",
+      "title": "Intent to terminate from contracting authority to supplier ",
+      "content_type": "application/vnd.oasis.opendocument.text",
+      "filename": "Intent_to_terminate_from_contracting_authority_to_supplier_.odt",
+      "id": "9360968",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/69bd0e0b8006048065f73d5c/2025-01-17-UK-GDPR-Model-Privacy-Notice_National_Security_Unit_for_Procurement.docx__1_.pdf",
+      "title": "Privacy Notice NSUP",
+      "content_type": "application/pdf",
+      "filename": "2025-01-17-UK-GDPR-Model-Privacy-Notice_National_Security_Unit_for_Procurement.docx__1_.pdf",
+      "id": "9360970",
+      "logical_role": "ATTACHMENT"
+    }
+  ],
+  "warnings": []
+}

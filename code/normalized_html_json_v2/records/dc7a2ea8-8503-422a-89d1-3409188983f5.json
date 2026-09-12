@@ -1,0 +1,955 @@
+{
+  "document_id": "dc7a2ea8-8503-422a-89d1-3409188983f5",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/93aa4b894be507df58c851b7.json",
+  "input_sha256": "85786da3a51bb1dea74794e873b9a3b59302918c277baac9b3edb9519b230dea",
+  "processed_at": "2026-08-27T02:26:31.431122+00:00",
+  "title": "Guidance: Lots (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-lots-html",
+  "description": null,
+  "publication_date": "2024-07-19T11:25:47+01:00",
+  "updated_date": "2026-07-13T09:24:55+01:00",
+  "source_metadata": {
+    "content_id": "dc7a2ea8-8503-422a-89d1-3409188983f5",
+    "base_path": "/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-lots-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What are lots?",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What is the legal framework that governs lots?",
+      "ordinal": 3,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What has changed?",
+      "ordinal": 5,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Key points and policy intent",
+      "ordinal": 10,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What notices are linked to this aspect of the Act?",
+      "ordinal": 21,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What other guidance is of particular relevance to this topic area?",
+      "ordinal": 27,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "What are lots?",
+      "ordinal": 0,
+      "heading_path": [
+        "What are lots?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "1. Lots are a way to split a larger single procurement into smaller ‘chunks’ which are then procured under separate contracts with different suppliers (some suppliers may be successful in more than one lot and may be awarded more than one contract). There are potentially significant benefits of doing this, including risk reduction in the supply chain (for example, by having multiple suppliers for a similar service in different geographical areas or multiple sources for a particular good or service reducing the risk of supplier failure) and maintaining the long-term viability and diversity of the supply market through the award of a higher number of contracts.",
+      "ordinal": 1,
+      "heading_path": [
+        "What are lots?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "2. Additionally, using lots might encourage small and medium-sized enterprises (SMEs) to bid; for example, they may find it easier to tender for or deliver smaller contracts, or smaller parts of larger contracts. This can support innovation, value for money, economic growth and potential expansion of the supplier base for that market.",
+      "ordinal": 2,
+      "heading_path": [
+        "What are lots?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "heading",
+      "text": "What is the legal framework that governs lots?",
+      "ordinal": 3,
+      "heading_path": [
+        "What are lots?",
+        "What is the legal framework that governs lots?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "3. The Procurement Act 2023 (Act) makes provisions in relation to lots at section 18 (Duty to consider lots), section 20 (Competitive tendering procedures) and section 23 (Award Criteria). These are supported by various provisions in the regulations.",
+      "ordinal": 4,
+      "heading_path": [
+        "What are lots?",
+        "What is the legal framework that governs lots?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "heading",
+      "text": "What has changed?",
+      "ordinal": 5,
+      "heading_path": [
+        "What are lots?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "p",
+      "text": "4. The duty to consider using lots is now also applicable to defence and security contracts, which was not the case in the Defence and Security Contract Regulations 2011.",
+      "ordinal": 6,
+      "heading_path": [
+        "What are lots?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "5. The requirement to consider lots is strengthened by the specific SME duty at section 12 of the Act because, as mentioned above, the use of lots is likely to be of particular benefit to SMEs and may serve to reduce some of the barriers mentioned in section 12(4) .",
+      "ordinal": 7,
+      "heading_path": [
+        "What are lots?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "6. Contracting authorities are required by the Act to provide information related to the use (or otherwise) of lots as applicable in the Act’s new transparency notices as set out in the regulations. This includes the tender notice, the contract award notice and the contract details notice.",
+      "ordinal": 8,
+      "heading_path": [
+        "What are lots?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "7. There is no longer specific detailed provision on the valuation of contracts that are to be split into lots (such as those at regulation 6(11-15) of the Procurement Contracts Regulations 2015) but this change is not intended to have a practical effect: contracts must still be valued by aggregating the total value of all the lots, as the provisions at Schedule 3, paragraph 4 make clear.",
+      "ordinal": 9,
+      "heading_path": [
+        "What are lots?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "heading",
+      "text": "Key points and policy intent",
+      "ordinal": 10,
+      "heading_path": [
+        "What are lots?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "8. Before publishing a tender notice for a public contract, the contracting authority is required by section 18 of the Act to consider whether the goods, works or services could reasonably be supplied under more than one contract and if these contracts could appropriately be awarded by reference to lots.",
+      "ordinal": 11,
+      "heading_path": [
+        "What are lots?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "9. Lots might be particularly useful for commodity purchases or for straightforward service contracts. An example of the latter could be where a contracting authority is looking to put in place provision for cleaning services at different sites across the country. The requirements for each site are similar in nature; they all require office and window cleaning services, but there are variances for different locations, for example, enhanced security, catering cleans and additional gym cleaning for certain sites. As office cleaning is a generic service with a large number of suppliers able to deliver the service, the initial plan may be to award a single contract for all sites to a large nationwide supplier in order to benefit from economies of scale and secure value for money. However, the contracting authority may also want to consider other factors such as supporting SMEs or ensuring resilience across the supply chain to avoid over-dependency on one supplier. This may mean that choosing to divide the procurement into lots based on geographical area is a more appropriate solution, allowing smaller suppliers to better compete against larger suppliers where only one location is involved and at the same time improving resilience in the supply chain.",
+      "ordinal": 12,
+      "heading_path": [
+        "What are lots?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "10. That said, section 18 provides that even if the procurement could reasonably be split into lots, it does not have to be split if the contracting authority can provide reasons for not doing so.",
+      "ordinal": 13,
+      "heading_path": [
+        "What are lots?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "11. Section 18 does not prescribe a list of reasons contracting authorities could rely upon as their rationale for not using lots; any such reasons will be procurement-specific. The contracting authority must, however, have regard to the procurement objectives in section 12 when determining their reasons for not using lots. Of particular relevance are the objectives related to delivering value for money and acting and being seen to act with integrity. In addition, section 12(4) requires contracting authorities to have regard to the fact that SMEs may face barriers to participation and consider whether such barriers can be removed or reduced. Dividing a procurement into lots may be one way of reducing or removing any such barriers.",
+      "ordinal": 14,
+      "heading_path": [
+        "What are lots?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "12. Possible reasons for choosing not to split the procurement into lots may include where this could increase technical risk to delivery of the requirement or where having different suppliers could undermine the contract liability and/or management or make the requirement disproportionately expensive to manage. It may be helpful to use pre-market engagement to test the market and understand the supplier base which may inform the decision on the appropriateness of dividing the contract into lots.",
+      "ordinal": 15,
+      "heading_path": [
+        "What are lots?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "13. In terms of providing reasons for not splitting a procurement into lots, for contracts other than light touch contracts and utilities contracts, regulations 18(2)(q) and 19(2)(a) ) require that these are set out in the tender notice. For light touch contracts and utilities contracts the reasons may be included in the tender notice or the contracting authority may keep its own record.",
+      "ordinal": 16,
+      "heading_path": [
+        "What are lots?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "14. Section 20(7) , allows contracting authority running a competitive tendering procedure to limit the number of lots any one supplier can tender for. If the contracting authority intends to do this they must state the maximum number in the tender notice,",
+      "ordinal": 17,
+      "heading_path": [
+        "What are lots?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "p",
+      "text": "15. The contracting authority will set out in the tender notice (and if applicable supplemented by the tender documents) the award criteria for each lot. Provided that the tender satisfies the contracting authority’s requirements, the award criteria will determine which lots will be awarded to a supplier based on the most advantageous tender per lot.",
+      "ordinal": 18,
+      "heading_path": [
+        "What are lots?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "16. The contracting authority may decide that it wants to limit the number of lots one supplier can be awarded, in which case, the maximum number of lots and the criteria by which it will be decided which of the lots a supplier will be awarded must be set out in the tender notice and/or associated tender documents. The contracting authority must state in the tender notice or associated tender documents if it wants to include options such as to combine lots into a single contract if a supplier wins multiple lots.",
+      "ordinal": 19,
+      "heading_path": [
+        "What are lots?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "p",
+      "text": "17. If a contracting authority does not receive any suitable requests to participate or tenders for one of the lots, it may switch to direct award for that lot (only) in accordance with section 43 . It may also choose to decide not to award a contract for one or more separate lots for any reason; in which case this decision must be recorded in the ‘ceased lots’ field in the contract award notice. In both circumstances, other lots may be awarded competitively as intended.",
+      "ordinal": 20,
+      "heading_path": [
+        "What are lots?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "heading",
+      "text": "What notices are linked to this aspect of the Act?",
+      "ordinal": 21,
+      "heading_path": [
+        "What are lots?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "p",
+      "text": "18. Tender notice This is the key notice with regard to lots; the regulations require the contracting authority to state in the notice whether or not the contract will be split into lots. If it is, the contracting authority must also provide information related to the lots to be awarded. This will include information such as: a description of each lot and whether a supplier may only submit a tender for or be awarded a maximum number of lots (and, if so, the maximum number). As stated above, for contracts other than utilities and light touch contracts, the tender notice must contain the reasons for not splitting the contract into lots where it would be reasonable and appropriate to do so",
+      "ordinal": 22,
+      "heading_path": [
+        "What are lots?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "19. Contract award notice A contracting authority must publish a contract award notice before entering into a public contract, which would include a public contract awarded for a lot. Regulation 27 sets out the information that must be included in the contract award notice, which includes information about the public contract to be awarded, including information relating to any lot. The contracting authority may wish to publish a single contract award notice for a number of lots, for example if more than one lot was awarded to a single supplier or if multiple lots are being awarded at the same time.",
+      "ordinal": 23,
+      "heading_path": [
+        "What are lots?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "20. If a contracting authority decides that it no longer wishes to award a lot, it must use the ‘ceased lots’ field in the contract award notice to let the market know that this is the case.",
+      "ordinal": 24,
+      "heading_path": [
+        "What are lots?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "p",
+      "text": "21. Prior to the contract award notice being published, contracting authorities must provide an assessment summary to all suppliers that submitted an assessed tender for the lot (see the guidance on assessment summaries for more information).",
+      "ordinal": 25,
+      "heading_path": [
+        "What are lots?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "p",
+      "text": "22. Contract details notice The contracting authority must publish a contract details notice for each public contract. Regulation 32(2)(j) includes requirements in relation to lots that must be included in that notice, where relevant, including a description of the goods, services or works which will be supplied under the lot and the estimated value of each lot.",
+      "ordinal": 26,
+      "heading_path": [
+        "What are lots?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "heading",
+      "text": "What other guidance is of particular relevance to this topic area?",
+      "ordinal": 27,
+      "heading_path": [
+        "What are lots?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "Guidance on covered procurement objectives",
+      "ordinal": 28,
+      "heading_path": [
+        "What are lots?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "p",
+      "text": "Guidance on preliminary market engagement",
+      "ordinal": 29,
+      "heading_path": [
+        "What are lots?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "p",
+      "text": "Guidance on valuation of contracts",
+      "ordinal": 30,
+      "heading_path": [
+        "What are lots?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "p",
+      "text": "Guidance on competitive tendering procedures",
+      "ordinal": 31,
+      "heading_path": [
+        "What are lots?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "p",
+      "text": "Guidance on assessing competitive tenders",
+      "ordinal": 32,
+      "heading_path": [
+        "What are lots?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "p",
+      "text": "Guidance on assessment summaries",
+      "ordinal": 33,
+      "heading_path": [
+        "What are lots?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "p",
+      "text": "Guidance on contract award notice and standstill",
+      "ordinal": 34,
+      "heading_path": [
+        "What are lots?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "p",
+      "text": "Guidance on contract details notice",
+      "ordinal": 35,
+      "heading_path": [
+        "What are lots?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "Procurement Act 2023 (Act)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/contents",
+      "block_id": "b00004",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 18",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/18",
+      "block_id": "b00004",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 20",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/20",
+      "block_id": "b00004",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 23",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/23",
+      "block_id": "b00004",
+      "ordinal": 3,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 12",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/12",
+      "block_id": "b00007",
+      "ordinal": 4,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 12(4)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/12",
+      "block_id": "b00007",
+      "ordinal": 5,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 3, paragraph 4",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/3/paragraph/4",
+      "block_id": "b00009",
+      "ordinal": 6,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 18",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/18",
+      "block_id": "b00011",
+      "ordinal": 7,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 18",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/18",
+      "block_id": "b00013",
+      "ordinal": 8,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 18",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/18",
+      "block_id": "b00014",
+      "ordinal": 9,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 12",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/12",
+      "block_id": "b00014",
+      "ordinal": 10,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 12(4)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/12",
+      "block_id": "b00014",
+      "ordinal": 11,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulations 18(2)(q)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/18",
+      "block_id": "b00016",
+      "ordinal": 12,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "19(2)(a)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/19",
+      "block_id": "b00016",
+      "ordinal": 13,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 20(7)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/20",
+      "block_id": "b00017",
+      "ordinal": 14,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 43",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/43",
+      "block_id": "b00020",
+      "ordinal": 15,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Regulation 27",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/27",
+      "block_id": "b00023",
+      "ordinal": 16,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "assessment summaries",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-assessment-summaries-html",
+      "block_id": "b00025",
+      "ordinal": 17,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Regulation 32(2)(j)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/32",
+      "block_id": "b00026",
+      "ordinal": 18,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "covered procurement objectives",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-covered-procurement-objectives-html",
+      "block_id": "b00028",
+      "ordinal": 19,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "preliminary market engagement",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-preliminary-market-engagement-html",
+      "block_id": "b00029",
+      "ordinal": 20,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "valuation of contracts",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-valuation-of-contracts-html",
+      "block_id": "b00030",
+      "ordinal": 21,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "competitive tendering procedures",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/competitive-tendering-procedures-html",
+      "block_id": "b00031",
+      "ordinal": 22,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "assessing competitive tenders",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/assessing-competitive-tenders-html",
+      "block_id": "b00032",
+      "ordinal": 23,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "assessment summaries",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-assessment-summaries-html",
+      "block_id": "b00033",
+      "ordinal": 24,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "contract award notice and standstill",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-contract-award-notices-and-standstill-html",
+      "block_id": "b00034",
+      "ordinal": 25,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "contract details notice",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-contract-details-notices-html",
+      "block_id": "b00035",
+      "ordinal": 26,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Guidance: Lots (HTML)",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-lots-html",
+      "block_id": "__document__",
+      "ordinal": 27,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2022 to 2024 Sunak Conservative government",
+      "href": "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 28,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 29,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Procurement Act 2023 guidance documents - Define phase",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase",
+      "block_id": "__document__",
+      "ordinal": 30,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 31,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 18",
+      "block_id": "b00004",
+      "start": 74,
+      "end": 84,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "18"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 20",
+      "block_id": "b00004",
+      "start": 110,
+      "end": 120,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "20"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 23",
+      "block_id": "b00004",
+      "start": 160,
+      "end": 170,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "23"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2011",
+      "block_id": "b00006",
+      "start": 153,
+      "end": 169,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2011"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 12",
+      "block_id": "b00007",
+      "start": 80,
+      "end": 90,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "12"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 12(4)",
+      "block_id": "b00007",
+      "start": 251,
+      "end": 264,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "12",
+        "tail": "(4)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 6",
+      "block_id": "b00009",
+      "start": 129,
+      "end": 141,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "6"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015",
+      "block_id": "b00009",
+      "start": 178,
+      "end": 194,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 3, paragraph 4",
+      "block_id": "b00009",
+      "start": 356,
+      "end": 379,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "3",
+        "paragraph": "4"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 4",
+      "block_id": "b00009",
+      "start": 368,
+      "end": 379,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "4"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 18",
+      "block_id": "b00011",
+      "start": 101,
+      "end": 111,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "18"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 18",
+      "block_id": "b00013",
+      "start": 15,
+      "end": 25,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "18"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 18",
+      "block_id": "b00014",
+      "start": 4,
+      "end": 14,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "18"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 12",
+      "block_id": "b00014",
+      "start": 264,
+      "end": 274,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "12"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 12(4)",
+      "block_id": "b00014",
+      "start": 469,
+      "end": 482,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "12",
+        "tail": "(4)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulations 18(2)(q)",
+      "block_id": "b00016",
+      "start": 149,
+      "end": 169,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "18",
+        "tail": "(2)(q)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 20(7)",
+      "block_id": "b00017",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "20",
+        "tail": "(7)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 43",
+      "block_id": "b00020",
+      "start": 186,
+      "end": 196,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "43"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 27",
+      "block_id": "b00023",
+      "start": 184,
+      "end": 197,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "27"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 32(2)(j)",
+      "block_id": "b00026",
+      "start": 119,
+      "end": 138,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "32",
+        "tail": "(2)(j)"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

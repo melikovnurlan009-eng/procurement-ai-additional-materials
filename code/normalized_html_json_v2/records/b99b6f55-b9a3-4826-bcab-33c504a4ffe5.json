@@ -1,0 +1,2085 @@
+{
+  "document_id": "b99b6f55-b9a3-4826-bcab-33c504a4ffe5",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/72d6f22060e9940f30eb4c98.json",
+  "input_sha256": "e6b2b9470842bdc57ec24991ee1573908aa367984ee2349f819f06876f199895",
+  "processed_at": "2026-08-27T02:26:25.474877+00:00",
+  "title": "Guidance: Conflicts of Interest (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-conflicts-of-interest-html",
+  "description": null,
+  "publication_date": "2024-07-19T11:25:48+01:00",
+  "updated_date": "2026-07-13T09:24:55+01:00",
+  "source_metadata": {
+    "content_id": "b99b6f55-b9a3-4826-bcab-33c504a4ffe5",
+    "base_path": "/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-conflicts-of-interest-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What are conflicts of interest?",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What is the legal framework that governs conflicts of interest?",
+      "ordinal": 6,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What has changed?",
+      "ordinal": 13,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Key points and policy intent",
+      "ordinal": 20,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Identifying conflicts of interest",
+      "ordinal": 21,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Mitigating conflicts",
+      "ordinal": 34,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Conflicts assessments",
+      "ordinal": 48,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Below-threshold procurements",
+      "ordinal": 70,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What other guidance is of particular relevance to this topic area?",
+      "ordinal": 72,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Where can I go for more information or training?",
+      "ordinal": 75,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "What are conflicts of interest?",
+      "ordinal": 0,
+      "heading_path": [
+        "What are conflicts of interest?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "1. The Procurement Act 2023 (Act) requires contracting authorities, when carrying out a ‘covered procurement’, to have regard to a number of objectives, which include acting, and being seen to act, with integrity ( section 12(1)(d) of the Act). The integrity of a procurement may be compromised if it is influenced by external or private interests. Alongside the procurement objectives, the Act includes specific provisions dealing with conflicts of interest when carrying out a covered procurement ( Part 5 of the Act).",
+      "ordinal": 1,
+      "heading_path": [
+        "What are conflicts of interest?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "2. A conflict of interest arises in a procurement context where there is a conflict between the interests of a person acting in relation to a procurement and those of the procurement itself.",
+      "ordinal": 2,
+      "heading_path": [
+        "What are conflicts of interest?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "3. Conflicts of interest need to be managed effectively to ensure that the public can trust contracting authorities to carry out public procurement responsibly and impartially. It also helps to encourage suppliers to participate in procurements, providing confidence that they will be treated fairly and that there will be genuine competition. When conflicts of interest are not identified and effectively mitigated, there can be far-reaching consequences. It can lead to accusations of fraud, bribery and corruption, legal challenges and the undermining of public confidence in the integrity of public institutions.",
+      "ordinal": 3,
+      "heading_path": [
+        "What are conflicts of interest?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "4. The Act requires contracting authorities to identify and keep under review actual and potential conflicts of interest. They must also mitigate conflicts of interest and address circumstances which the contracting authority considers are likely to cause a reasonable person to wrongly believe there to be a conflict or potential conflict of interest (’perceived conflict of interest’).",
+      "ordinal": 4,
+      "heading_path": [
+        "What are conflicts of interest?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "5. This guidance provides an explanation of the provisions in the Act and advice for contracting authorities on how to comply with the Act. Further guidance on managing conflicts of interest in procurements is also planned to be published, which will replace the conflicts content in the guidance accompanying Procurement Policy Note 04/21: Applying Exclusions in Public Procurement, Managing Conflicts of Interest and Whistleblowing .",
+      "ordinal": 5,
+      "heading_path": [
+        "What are conflicts of interest?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "heading",
+      "text": "What is the legal framework that governs conflicts of interest?",
+      "ordinal": 6,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "What is the legal framework that governs conflicts of interest?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "6. The provisions in the Act relating to conflicts of interest, and therefore this guidance, apply to any covered procurement. The main provisions on conflicts of interest are set out in sections 81-83 .",
+      "ordinal": 7,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "What is the legal framework that governs conflicts of interest?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "7. The requirements in the Act sit alongside other considerations, such as:",
+      "ordinal": 8,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "What is the legal framework that governs conflicts of interest?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "a. prosecution for fraud, bribery, corruption through abuse of position or misconduct in public office if conflicts are not managed appropriately;",
+      "ordinal": 9,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "What is the legal framework that governs conflicts of interest?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "p",
+      "text": "b. the fact that bias or apparent bias in decision making could be grounds for judicial review;",
+      "ordinal": 10,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "What is the legal framework that governs conflicts of interest?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "c. public office-holders being subject to the Seven Principles of Public Life (the Nolan Principles) and various ethical codes of standards (for example, the Civil Service code, Civil Service management code, the Ministerial Code and business appointment rules); and",
+      "ordinal": 11,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "What is the legal framework that governs conflicts of interest?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "d. other relevant internal business or organisational rules.",
+      "ordinal": 12,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "What is the legal framework that governs conflicts of interest?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "heading",
+      "text": "What has changed?",
+      "ordinal": 13,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "8. The Act retains the basic nature of the obligations from the previous legislation [footnote 1] , but strengthens the requirements with some important changes. For defence and security contracts, the inclusion of provisions on conflicts of interest is new. The Act retains an approach based on principles rather than prescriptive rules, but there are some important changes:",
+      "ordinal": 14,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "a. The Act introduces a requirement for contracting authorities to formally prepare a conflicts assessment and to publicly confirm that this has been done and that it has been reviewed and revised as necessary. The Public Contracts Regulations 2015 (PCR), Utilities Contracts Regulations 2015 and Concession Contracts Regulations 2016 required contracting authorities to take appropriate steps to identify conflicts of interest and, for contracts procured under the PCR, regulation 84(1)(i) required the inclusion of any conflicts of interest detected and subsequent measures taken in the procurement report. The Act goes further in formalising this with greater transparency and record-keeping.",
+      "ordinal": 15,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "b. Under the Act it is mandatory to exclude a supplier from the procurement where a conflict of interest puts the supplier at an unfair advantage if steps cannot be taken to avoid that advantage or the supplier refuses to take any necessary steps. Regulation 57(8)(e) of the PCR included a discretionary exclusion ground when the conflict could not be effectively remedied by other, less intrusive, means, although contracting authorities may, in certain circumstances, have chosen to exclude suppliers in order to ensure compliance with equal treatment. (This was not included in other previous legislation.)",
+      "ordinal": 16,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "c. The Act clarifies that Ministers may have a conflict of interest. This is because Ministers can have an influence on procurement decisions. By specifying Ministers in the Act, it helps ensure that conflicts of interests are considered at all levels. Ministers, of course, will not be involved in every procurement.",
+      "ordinal": 17,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "p",
+      "text": "d. The Act provides that suppliers may be required to take certain steps to mitigate a conflict of interest and will be excluded if they refuse to do so. This is because suppliers are expected to meet the highest standards of integrity in the supply and delivery of goods, services and works and to operate with openness and transparency.",
+      "ordinal": 18,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "e. The Act makes it clear that managing conflicts of interest is required throughout the procurement lifecycle. It begins at the planning stage, prior to the publication of a tender or transparency notice, or a dynamic market notice establishing a dynamic market, and continues throughout the procurement for the contract and management of the contract or dynamic market through to the end of the contract or dynamic market.",
+      "ordinal": 19,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "heading",
+      "text": "Key points and policy intent",
+      "ordinal": 20,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "heading",
+      "text": "Identifying conflicts of interest",
+      "ordinal": 21,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Key points and policy intent",
+        "Identifying conflicts of interest"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "p",
+      "text": "9. Section 81(1) of the Act provides that contracting authorities must take all reasonable steps to identify, and keep under review, in relation to a procurement, any conflicts of interest, or potential conflicts of interest. Contracting authorities must also be aware of their obligations in relation to perceived conflicts of interest (see paragraph 20 below).",
+      "ordinal": 22,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Key points and policy intent",
+        "Identifying conflicts of interest"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "10. A ‘conflict of interest’ arises where there is an actual conflict of interest. For example, where a person assessing tenders in a procurement owns shares in a supplier that has submitted a tender. A ‘potential conflict of interest’ exists where a conflict of interest will arise in future if certain circumstances occur. For example, the spouse of someone who will be assessing tenders is the CEO of a business that is in the process of acquiring ownership of another company, and that company has recently submitted a tender. Section 81(4) defines an ‘interest’ as including a personal, professional or financial interest that may be direct or indirect.",
+      "ordinal": 23,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Key points and policy intent",
+        "Identifying conflicts of interest"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "11. The persons in respect of whom conflicts, or potential conflicts should be considered are:",
+      "ordinal": 24,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Key points and policy intent",
+        "Identifying conflicts of interest"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "p",
+      "text": "a. a person acting for or on behalf of the contracting authority in relation to the procurement; and,",
+      "ordinal": 25,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Key points and policy intent",
+        "Identifying conflicts of interest"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "p",
+      "text": "b. a Minister acting in relation to the procurement.",
+      "ordinal": 26,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Key points and policy intent",
+        "Identifying conflicts of interest"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "p",
+      "text": "12. A person acts ‘in relation to’ the procurement (and therefore should be considered) if they are in a position to influence a decision made by or on behalf of a contracting authority.",
+      "ordinal": 27,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Key points and policy intent",
+        "Identifying conflicts of interest"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "13. The following are examples of persons who may act in relation to a procurement and who may therefore be relevant when considering conflicts of interest: the senior responsible officer, the budget holder, the commercial director, members of the management board, commercial staff, people who will assess tenders, external experts, private sector secondees and consultants, non-executive board members, special advisers, private office employees and, as set out in section 81(2)(b) , Ministers.",
+      "ordinal": 28,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Key points and policy intent",
+        "Identifying conflicts of interest"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "p",
+      "text": "14. The Act does not set out the specific steps that contracting authorities must take to identify a conflict or potential conflict of interests and this may vary depending on the circumstances. For example, it might be appropriate to take further steps in relation to individuals closely involved with the procurement and with a greater ability to influence its outcome. Contracting authorities may, for example:",
+      "ordinal": 29,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Key points and policy intent",
+        "Identifying conflicts of interest"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "p",
+      "text": "a. require individuals to complete a conflicts of interest declaration specific to the procurement;",
+      "ordinal": 30,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Key points and policy intent",
+        "Identifying conflicts of interest"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "p",
+      "text": "b. check pre-existing conflicts of interest declarations to see if they contain any relevant interests;",
+      "ordinal": 31,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Key points and policy intent",
+        "Identifying conflicts of interest"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "p",
+      "text": "c. check existing public declarations or registers. This could be particularly relevant for Ministers; and",
+      "ordinal": 32,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Key points and policy intent",
+        "Identifying conflicts of interest"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "p",
+      "text": "d. confirm with individuals and/or teams for the forthcoming procurement whether there are any relevant interests and if there are, requiring mitigation steps.",
+      "ordinal": 33,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Key points and policy intent",
+        "Identifying conflicts of interest"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "heading",
+      "text": "Mitigating conflicts",
+      "ordinal": 34,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Key points and policy intent",
+        "Mitigating conflicts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "p",
+      "text": "15. Section 82 of the Act provides that contracting authorities must take all reasonable steps to ensure that a conflict of interest does not put a supplier at an unfair advantage or disadvantage in relation to a procurement. If a conflict of interest puts a supplier at an unfair advantage and this cannot be avoided, or the supplier refuses to take the steps required by the contracting authority to avoid it, the supplier must, in relation to the procurement:",
+      "ordinal": 35,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Key points and policy intent",
+        "Mitigating conflicts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "p",
+      "text": "a. be treated as an excluded supplier for the purpose of assessing tenders under section 19 or directly awarding a contract under sections 41 [footnote 2] or 43 ; and",
+      "ordinal": 36,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Key points and policy intent",
+        "Mitigating conflicts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "p",
+      "text": "b. not be allowed to participate or progress in any competitive tendering procedure.",
+      "ordinal": 37,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Key points and policy intent",
+        "Mitigating conflicts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "p",
+      "text": "16. Contracting authorities will need to consider what steps are reasonable to take under section 82(1) on a case by case basis, taking into account the nature of the conflict of interest, how it could impact an individual’s duties and how it might impact the procurement. Examples of steps which might mitigate a conflict of interest are:",
+      "ordinal": 38,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Key points and policy intent",
+        "Mitigating conflicts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "p",
+      "text": "a. reassigning individuals with a conflict or potential conflict of interest away from situations where they can influence decisions;",
+      "ordinal": 39,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Key points and policy intent",
+        "Mitigating conflicts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "p",
+      "text": "b. providing for more than one person to assess tenders and carrying out and recording moderation meetings;",
+      "ordinal": 40,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Key points and policy intent",
+        "Mitigating conflicts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "p",
+      "text": "c. cancelling and re-running the procurement;",
+      "ordinal": 41,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Key points and policy intent",
+        "Mitigating conflicts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "p",
+      "text": "d. including an independent observer in the procurement team;",
+      "ordinal": 42,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Key points and policy intent",
+        "Mitigating conflicts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "p",
+      "text": "e. ensuring that management with appropriate oversight is aware of the conflict of interest and that they review and sign-off outputs from the individual;",
+      "ordinal": 43,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Key points and policy intent",
+        "Mitigating conflicts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "p",
+      "text": "f. monitoring the situation and having checkpoints to review whether it has led to an unfair advantage or disadvantage for a supplier; and",
+      "ordinal": 44,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Key points and policy intent",
+        "Mitigating conflicts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "p",
+      "text": "g. sharing procurement and process information with all relevant suppliers in a timely manner and at the same time.",
+      "ordinal": 45,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Key points and policy intent",
+        "Mitigating conflicts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "p",
+      "text": "17. Contracting authorities may employ or engage individuals with a variety of career experience, external interests and networks which can be beneficial to the contracting authority and its commercial activities. The duty to mitigate conflicts of interest does not mean that a person cannot have legitimate private interests. Instead, contracting authorities must take all reasonable steps to ensure that the legitimate private interest of the person are balanced with the need to ensure that decision making operates in the interests of the procurement rather than the private interests, for example, ensuring that a conflict of interest does not lead to a supplier having an unfair advantage or disadvantage.",
+      "ordinal": 46,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Key points and policy intent",
+        "Mitigating conflicts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "p",
+      "text": "18. Section 82(2) provides that the steps taken by contracting authorities to mitigate a conflict of interest can include a contracting authority requiring a supplier to take reasonable steps. For example, if a consultancy firm is advising the contracting authority on a procurement, the contracting authority could require a supplier not to use the same company to assist with its tender. It is in the interests of the supplier to comply with any requirement to take reasonable steps, otherwise the supplier must be treated as an excluded supplier and excluded from the procurement if the conflict of interest cannot otherwise be avoided (see paragraph 15 above ( section 82(3) and (4) ).",
+      "ordinal": 47,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Key points and policy intent",
+        "Mitigating conflicts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "heading",
+      "text": "Conflicts assessments",
+      "ordinal": 48,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Key points and policy intent",
+        "Conflicts assessments"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "p",
+      "text": "19. Section 83(1) provides that a conflicts assessment must be prepared before publishing a tender or transparency notice or dynamic market notice relating to the establishment of a dynamic market.",
+      "ordinal": 49,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Key points and policy intent",
+        "Conflicts assessments"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00050",
+      "block_type": "p",
+      "text": "20. A conflicts assessment is a record to be kept by the contracting authority which must include (as required by section 83(3) ) details of the conflicts or potential conflicts of interest identified and any steps taken, or to be taken, to mitigate them. Section 83(4) requires that if a perceived conflict of interest exists, the contracting authority must also include in the conflicts assessment details of any steps that the contracting authority has taken or will take to demonstrate that a conflict or potential conflict does not exist. As set out at paragraph 4, a perceived conflict of interest is where there are circumstances which the contracting authority considers are likely to cause a reasonable person to wrongly believe there to be a conflict or potential conflict of interest. Contracting authorities should be mindful, in carrying out a procurement, how circumstances might appear to others, even if they consider there are no conflicts or potential conflicts of interest. Compliance with this obligation will help contracting authorities to allay any concerns that a conflict exists when it does not.",
+      "ordinal": 50,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Key points and policy intent",
+        "Conflicts assessments"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00051",
+      "block_type": "p",
+      "text": "21. Conflicts assessments will need to be handled in accordance with relevant data protection legislation. Whilst the Act allows for the structure and format of the conflicts assessment to be governed by the contracting authority, it would be good practice and would help demonstrate compliance with section 83(3) to include the following information:",
+      "ordinal": 51,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Key points and policy intent",
+        "Conflicts assessments"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00052",
+      "block_type": "p",
+      "text": "a. individuals and/or teams relevant to the procurement and their roles;",
+      "ordinal": 52,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Key points and policy intent",
+        "Conflicts assessments"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00053",
+      "block_type": "p",
+      "text": "b. how individuals/teams are relevant to the procurement;",
+      "ordinal": 53,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Key points and policy intent",
+        "Conflicts assessments"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00054",
+      "block_type": "p",
+      "text": "c. whether the required conflicts of interest information or declaration has been received;",
+      "ordinal": 54,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Key points and policy intent",
+        "Conflicts assessments"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00055",
+      "block_type": "p",
+      "text": "d. whether any actual, potential or perceived conflicts have been identified (and the details of the conflict);",
+      "ordinal": 55,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Key points and policy intent",
+        "Conflicts assessments"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00056",
+      "block_type": "p",
+      "text": "e. mitigation steps;",
+      "ordinal": 56,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Key points and policy intent",
+        "Conflicts assessments"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00057",
+      "block_type": "p",
+      "text": "f. whether, following any mitigation, a supplier remains at an unfair advantage or disadvantage; and",
+      "ordinal": 57,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Key points and policy intent",
+        "Conflicts assessments"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00058",
+      "block_type": "p",
+      "text": "g. when the conflicts assessment was last reviewed and the next planned review.",
+      "ordinal": 58,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Key points and policy intent",
+        "Conflicts assessments"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00059",
+      "block_type": "p",
+      "text": "22. Sections 83(5) and 83(6) provide that until the the contracting authority has (as relevant) given notice of its decision not to award a contract or published a contract termination notice in relation to the procurement or a dynamic market notice in relation to the market ceasing to operate [footnote 3] , it must, in relation to the conflicts assessment:",
+      "ordinal": 59,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Key points and policy intent",
+        "Conflicts assessments"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00060",
+      "block_type": "p",
+      "text": "a. keep it under review;",
+      "ordinal": 60,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Key points and policy intent",
+        "Conflicts assessments"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00061",
+      "block_type": "p",
+      "text": "b. revise it as necessary; and",
+      "ordinal": 61,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Key points and policy intent",
+        "Conflicts assessments"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00062",
+      "block_type": "p",
+      "text": "c. when publishing any ‘relevant notice’, confirm that it has been prepared and revised in accordance with section 83 . This does not mean that the actual conflicts assessment must be published, just confirmation that it has been prepared and revised. Section 83(8) provides that the relevant notices are:",
+      "ordinal": 62,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Key points and policy intent",
+        "Conflicts assessments"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00063",
+      "block_type": "p",
+      "text": "i. a tender notice;",
+      "ordinal": 63,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Key points and policy intent",
+        "Conflicts assessments"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00064",
+      "block_type": "p",
+      "text": "ii. a transparency notice;",
+      "ordinal": 64,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Key points and policy intent",
+        "Conflicts assessments"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00065",
+      "block_type": "p",
+      "text": "iii. a dynamic market notice in relation to the establishment of a dynamic market [footnote 4] ;",
+      "ordinal": 65,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Key points and policy intent",
+        "Conflicts assessments"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00066",
+      "block_type": "p",
+      "text": "iv. a contract details notice relating to a public contract; or",
+      "ordinal": 66,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Key points and policy intent",
+        "Conflicts assessments"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00067",
+      "block_type": "p",
+      "text": "v. a contract change notice.",
+      "ordinal": 67,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Key points and policy intent",
+        "Conflicts assessments"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00068",
+      "block_type": "p",
+      "text": "23. Whilst other notices (for example a preliminary market engagement notice or contract award notice) could be used by contracting authorities as a prompt to review their conflicts assessment, there is no requirement under the Act to confirm in such notices that the assessment has been prepared and revised.",
+      "ordinal": 68,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Key points and policy intent",
+        "Conflicts assessments"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00069",
+      "block_type": "p",
+      "text": "24. It is good practice for contracting authorities to set a time to audit their conflicts assessments to confirm they are up to date. In addition to a planned review, the conflicts assessment should be updated when there are key changes in personnel or the contract (for example, where a contract is amended and a contract change notice is not required). This is particularly relevant where, after the contract is entered into, the contracting authority reassigns the responsibility for the contract from a procurement team to a contract management or operations team.",
+      "ordinal": 69,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Key points and policy intent",
+        "Conflicts assessments"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00070",
+      "block_type": "heading",
+      "text": "Below-threshold procurements",
+      "ordinal": 70,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Key points and policy intent",
+        "Below-threshold procurements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00071",
+      "block_type": "p",
+      "text": "25. The conflicts of interest provisions in the Act do not apply to below-threshold procurements. However, the underlying principles are nonetheless likely to be relevant and appropriate. Contracting authorities and individuals involved in below-threshold procurements will still be liable to, for example, prosecution for fraud, bribery, corruption through abuse of position or misconduct in public office if conflicts are not managed appropriately. Relevant public service codes and internal business rules must still be upheld. A proportionate approach to conflicts of interests assessment is therefore good practice in below-threshold procurements.",
+      "ordinal": 71,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Key points and policy intent",
+        "Below-threshold procurements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00072",
+      "block_type": "heading",
+      "text": "What other guidance is of particular relevance to this topic area?",
+      "ordinal": 72,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00073",
+      "block_type": "p",
+      "text": "Guidance on covered procurement objectives",
+      "ordinal": 73,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00074",
+      "block_type": "p",
+      "text": "Guidance on publication of information",
+      "ordinal": 74,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00075",
+      "block_type": "heading",
+      "text": "Where can I go for more information or training?",
+      "ordinal": 75,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00076",
+      "block_type": "li",
+      "text": "Civil Service Code",
+      "ordinal": 76,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00077",
+      "block_type": "li",
+      "text": "Civil Service Management Code",
+      "ordinal": 77,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00078",
+      "block_type": "li",
+      "text": "Civil Service Business Appointment Rules",
+      "ordinal": 78,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00079",
+      "block_type": "li",
+      "text": "Ministerial Code",
+      "ordinal": 79,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00080",
+      "block_type": "li",
+      "text": "The Seven Principles of Public Life",
+      "ordinal": 80,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00081",
+      "block_type": "li",
+      "text": "See regulations 24 and 84 of the Public Contracts Regulations 2015 (PCR), regulation 42 of the Utilities Contracts Regulation 2015, and regulation 35 of the Concession Contracts Regulations 2016. ↩",
+      "ordinal": 81,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00082",
+      "block_type": "p",
+      "text": "See regulations 24 and 84 of the Public Contracts Regulations 2015 (PCR), regulation 42 of the Utilities Contracts Regulation 2015, and regulation 35 of the Concession Contracts Regulations 2016. ↩",
+      "ordinal": 82,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00083",
+      "block_type": "li",
+      "text": "In exceptional circumstances, section 41 allows a contracting authority to award a public contract directly to an excluded supplier if it considers there is an overriding public interest in doing so. In this scenario a contracting authority must still take all reasonable steps to mitigate the conflict of interest and comply with section 83 in relation to a conflicts assessment. ↩",
+      "ordinal": 83,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00084",
+      "block_type": "p",
+      "text": "In exceptional circumstances, section 41 allows a contracting authority to award a public contract directly to an excluded supplier if it considers there is an overriding public interest in doing so. In this scenario a contracting authority must still take all reasonable steps to mitigate the conflict of interest and comply with section 83 in relation to a conflicts assessment. ↩",
+      "ordinal": 84,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00085",
+      "block_type": "li",
+      "text": "For private utilities, reflecting that certain notice requirements do not apply to them, section 83(7) sets out equivalent circumstances. ↩",
+      "ordinal": 85,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00086",
+      "block_type": "p",
+      "text": "For private utilities, reflecting that certain notice requirements do not apply to them, section 83(7) sets out equivalent circumstances. ↩",
+      "ordinal": 86,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00087",
+      "block_type": "li",
+      "text": "There is no obligation under the Act for contracting authorities to include confirmation that a conflicts assessment has been prepared and revised when a dynamic market is modified. However, contracting authorities establishing and operating the dynamic market must still keep any conflicts assessment under review and revise the assessment as necessary. ↩",
+      "ordinal": 87,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00088",
+      "block_type": "p",
+      "text": "There is no obligation under the Act for contracting authorities to include confirmation that a conflicts assessment has been prepared and revised when a dynamic market is modified. However, contracting authorities establishing and operating the dynamic market must still keep any conflicts assessment under review and revise the assessment as necessary. ↩",
+      "ordinal": 88,
+      "heading_path": [
+        "What are conflicts of interest?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "Procurement Act 2023 (Act)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/contents",
+      "block_id": "b00001",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 12(1)(d)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/12",
+      "block_id": "b00001",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Part 5",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/part/5",
+      "block_id": "b00001",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement Policy Note 04/21: Applying Exclusions in Public Procurement, Managing Conflicts of Interest and Whistleblowing",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0421-applying-exclusions-in-public-procurement-managing-conflicts-of-interest-and-whistleblowing",
+      "block_id": "b00005",
+      "ordinal": 3,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "sections 81-83",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/part/5",
+      "block_id": "b00007",
+      "ordinal": 4,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "[footnote 1]",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-conflicts-of-interest-html#fn:1",
+      "block_id": "b00014",
+      "ordinal": 5,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Section 81(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/81",
+      "block_id": "b00022",
+      "ordinal": 6,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 81(4)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/81",
+      "block_id": "b00023",
+      "ordinal": 7,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 81(2)(b)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/81",
+      "block_id": "b00028",
+      "ordinal": 8,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 82",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/82",
+      "block_id": "b00035",
+      "ordinal": 9,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 19",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/19",
+      "block_id": "b00036",
+      "ordinal": 10,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "sections 41",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/part/3/chapter/3",
+      "block_id": "b00036",
+      "ordinal": 11,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "[footnote 2]",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-conflicts-of-interest-html#fn:2",
+      "block_id": "b00036",
+      "ordinal": 12,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "or 43",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/part/3/chapter/3",
+      "block_id": "b00036",
+      "ordinal": 13,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 82(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/82",
+      "block_id": "b00038",
+      "ordinal": 14,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 82(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/82",
+      "block_id": "b00047",
+      "ordinal": 15,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 82(3) and (4)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/82",
+      "block_id": "b00047",
+      "ordinal": 16,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 83(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/83",
+      "block_id": "b00049",
+      "ordinal": 17,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 83(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/83",
+      "block_id": "b00050",
+      "ordinal": 18,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 83(4)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/83",
+      "block_id": "b00050",
+      "ordinal": 19,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 83(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/83",
+      "block_id": "b00051",
+      "ordinal": 20,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Sections 83(5) and 83(6)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/83",
+      "block_id": "b00059",
+      "ordinal": 21,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "[footnote 3]",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-conflicts-of-interest-html#fn:3",
+      "block_id": "b00059",
+      "ordinal": 22,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "section 83",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/83",
+      "block_id": "b00062",
+      "ordinal": 23,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 83(8)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/83",
+      "block_id": "b00062",
+      "ordinal": 24,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "[footnote 4]",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-conflicts-of-interest-html#fn:4",
+      "block_id": "b00065",
+      "ordinal": 25,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "covered procurement objectives",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-covered-procurement-objectives-html",
+      "block_id": "b00073",
+      "ordinal": 26,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "publication of information",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-central-digital-platform-and-publication-of-information-html",
+      "block_id": "b00074",
+      "ordinal": 27,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Civil Service Code",
+      "href": "https://www.gov.uk/government/publications/civil-service-code/the-civil-service-code",
+      "block_id": "b00076",
+      "ordinal": 28,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Civil Service Management Code",
+      "href": "https://www.gov.uk/government/publications/civil-servants-terms-and-conditions",
+      "block_id": "b00077",
+      "ordinal": 29,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Civil Service Business Appointment Rules",
+      "href": "https://www.gov.uk/government/collections/business-appointment-rules",
+      "block_id": "b00078",
+      "ordinal": 30,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Ministerial Code",
+      "href": "https://www.gov.uk/government/publications/ministerial-code",
+      "block_id": "b00079",
+      "ordinal": 31,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "The Seven Principles of Public Life",
+      "href": "https://www.gov.uk/government/publications/the-7-principles-of-public-life/the-7-principles-of-public-life--2",
+      "block_id": "b00080",
+      "ordinal": 32,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-conflicts-of-interest-html#fnref:1",
+      "block_id": "b00081",
+      "ordinal": 33,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-conflicts-of-interest-html#fnref:1",
+      "block_id": "b00082",
+      "ordinal": 34,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "section 41",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/41",
+      "block_id": "b00083",
+      "ordinal": 35,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 83",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/83",
+      "block_id": "b00083",
+      "ordinal": 36,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-conflicts-of-interest-html#fnref:2",
+      "block_id": "b00083",
+      "ordinal": 37,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "section 41",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/41",
+      "block_id": "b00084",
+      "ordinal": 38,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 83",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/83",
+      "block_id": "b00084",
+      "ordinal": 39,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-conflicts-of-interest-html#fnref:2",
+      "block_id": "b00084",
+      "ordinal": 40,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "section 83(7)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/83",
+      "block_id": "b00085",
+      "ordinal": 41,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-conflicts-of-interest-html#fnref:3",
+      "block_id": "b00085",
+      "ordinal": 42,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "section 83(7)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/83",
+      "block_id": "b00086",
+      "ordinal": 43,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-conflicts-of-interest-html#fnref:3",
+      "block_id": "b00086",
+      "ordinal": 44,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-conflicts-of-interest-html#fnref:4",
+      "block_id": "b00087",
+      "ordinal": 45,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-conflicts-of-interest-html#fnref:4",
+      "block_id": "b00088",
+      "ordinal": 46,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Guidance: Conflicts of Interest (HTML)",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-conflicts-of-interest-html",
+      "block_id": "__document__",
+      "ordinal": 47,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2022 to 2024 Sunak Conservative government",
+      "href": "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 48,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 49,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Procurement Act 2023 guidance documents - Define phase",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase",
+      "block_id": "__document__",
+      "ordinal": 50,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 51,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 12(1)(d)",
+      "block_id": "b00001",
+      "start": 215,
+      "end": 231,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "12",
+        "tail": "(1)(d)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "sections 81",
+      "block_id": "b00007",
+      "start": 187,
+      "end": 198,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "81"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015 (PCR)",
+      "block_id": "b00015",
+      "start": 232,
+      "end": 254,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015",
+        "tail": " (PCR)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015",
+      "block_id": "b00015",
+      "start": 276,
+      "end": 292,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2016",
+      "block_id": "b00015",
+      "start": 318,
+      "end": 334,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2016"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 84(1)(i)",
+      "block_id": "b00015",
+      "start": 471,
+      "end": 490,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "84",
+        "tail": "(1)(i)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 57(8)(e)",
+      "block_id": "b00016",
+      "start": 248,
+      "end": 267,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "57",
+        "tail": "(8)(e)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 81(1)",
+      "block_id": "b00022",
+      "start": 3,
+      "end": 16,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "81",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 20",
+      "block_id": "b00022",
+      "start": 342,
+      "end": 354,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "20"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 81(4)",
+      "block_id": "b00023",
+      "start": 531,
+      "end": 544,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "81",
+        "tail": "(4)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 81(2)(b)",
+      "block_id": "b00028",
+      "start": 467,
+      "end": 483,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "81",
+        "tail": "(2)(b)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 82",
+      "block_id": "b00035",
+      "start": 4,
+      "end": 14,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "82"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 19",
+      "block_id": "b00036",
+      "start": 81,
+      "end": 91,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "19"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "sections 41",
+      "block_id": "b00036",
+      "start": 130,
+      "end": 141,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "41"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 82(1)",
+      "block_id": "b00038",
+      "start": 90,
+      "end": 103,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "82",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 82(2)",
+      "block_id": "b00047",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "82",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 82(3)",
+      "block_id": "b00047",
+      "start": 665,
+      "end": 678,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "82",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 15",
+      "block_id": "b00047",
+      "start": 644,
+      "end": 656,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "15"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 83(1)",
+      "block_id": "b00049",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "83",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 83(3)",
+      "block_id": "b00050",
+      "start": 114,
+      "end": 127,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "83",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 83(4)",
+      "block_id": "b00050",
+      "start": 256,
+      "end": 269,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "83",
+        "tail": "(4)"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 4",
+      "block_id": "b00050",
+      "start": 558,
+      "end": 569,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "4"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 83(3)",
+      "block_id": "b00051",
+      "start": 300,
+      "end": 313,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "83",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Sections 83(5)",
+      "block_id": "b00059",
+      "start": 4,
+      "end": 18,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "83",
+        "tail": "(5)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 83",
+      "block_id": "b00062",
+      "start": 107,
+      "end": 117,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "83"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 83(8)",
+      "block_id": "b00062",
+      "start": 252,
+      "end": 265,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "83",
+        "tail": "(8)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulations 24",
+      "block_id": "b00081",
+      "start": 4,
+      "end": 18,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "24"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015 (PCR)",
+      "block_id": "b00081",
+      "start": 50,
+      "end": 72,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015",
+        "tail": " (PCR)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 42",
+      "block_id": "b00081",
+      "start": 74,
+      "end": 87,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "42"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 2015",
+      "block_id": "b00081",
+      "start": 115,
+      "end": 130,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 35",
+      "block_id": "b00081",
+      "start": 136,
+      "end": 149,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "35"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2016",
+      "block_id": "b00081",
+      "start": 178,
+      "end": 194,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2016"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulations 24",
+      "block_id": "b00082",
+      "start": 4,
+      "end": 18,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "24"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015 (PCR)",
+      "block_id": "b00082",
+      "start": 50,
+      "end": 72,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015",
+        "tail": " (PCR)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 42",
+      "block_id": "b00082",
+      "start": 74,
+      "end": 87,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "42"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 2015",
+      "block_id": "b00082",
+      "start": 115,
+      "end": 130,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 35",
+      "block_id": "b00082",
+      "start": 136,
+      "end": 149,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "35"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2016",
+      "block_id": "b00082",
+      "start": 178,
+      "end": 194,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2016"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 41",
+      "block_id": "b00083",
+      "start": 30,
+      "end": 40,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "41"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 83",
+      "block_id": "b00083",
+      "start": 331,
+      "end": 341,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "83"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 41",
+      "block_id": "b00084",
+      "start": 30,
+      "end": 40,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "41"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 83",
+      "block_id": "b00084",
+      "start": 331,
+      "end": 341,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "83"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 83(7)",
+      "block_id": "b00085",
+      "start": 89,
+      "end": 102,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "83",
+        "tail": "(7)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 83(7)",
+      "block_id": "b00086",
+      "start": 89,
+      "end": 102,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "83",
+        "tail": "(7)"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

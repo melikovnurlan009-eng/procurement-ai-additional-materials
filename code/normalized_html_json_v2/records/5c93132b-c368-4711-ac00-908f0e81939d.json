@@ -1,0 +1,1376 @@
+{
+  "document_id": "5c93132b-c368-4711-ac00-908f0e81939d",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/7b24fd4020829ec35c70b749.json",
+  "input_sha256": "20c3d3dd87ce38ff87da0b9aae37551cf7e3d03cde58c140272f2d874b438118",
+  "processed_at": "2026-08-27T02:26:26.991599+00:00",
+  "title": "Guidance: Contracting Authority definition (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-contracting-authority-definition-html",
+  "description": null,
+  "publication_date": "2024-05-24T15:08:32+01:00",
+  "updated_date": "2026-04-15T12:48:16+01:00",
+  "source_metadata": {
+    "content_id": "5c93132b-c368-4711-ac00-908f0e81939d",
+    "base_path": "/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-contracting-authority-definition-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What are contracting authorities?",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What is the legal framework that governs contracting authorities?",
+      "ordinal": 2,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What has changed?",
+      "ordinal": 7,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Key points and policy intent",
+      "ordinal": 12,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Contracting authorities",
+      "ordinal": 13,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Public authorities",
+      "ordinal": 16,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Centralised procurement authorities",
+      "ordinal": 30,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Exempted contracts",
+      "ordinal": 32,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What other guidance is of particular relevance to this topic area?",
+      "ordinal": 36,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Related questions:",
+      "ordinal": 39,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Does the definition of contracting authority include housing associations?",
+      "ordinal": 40,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Will being regulated by a regulator be enough to meet the contracting authority oversight requirement?",
+      "ordinal": 42,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "What are contracting authorities?",
+      "ordinal": 0,
+      "heading_path": [
+        "What are contracting authorities?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "1. ‘Contracting authority’ is the term used to refer to an entity (referred to as a ‘person’ in the Procurement Act 2023 (Act) to ensure it applies to a variety of circumstances) that is subject to the Act. A legal definition of contracting authorities is therefore essential in order for entities to determine whether they are in scope of the rules, or not.",
+      "ordinal": 1,
+      "heading_path": [
+        "What are contracting authorities?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "heading",
+      "text": "What is the legal framework that governs contracting authorities?",
+      "ordinal": 2,
+      "heading_path": [
+        "What are contracting authorities?",
+        "What is the legal framework that governs contracting authorities?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "2. Section 2 of the Act defines a contracting authority. It sets out the criteria to determine whether entities are covered and specifically sets out which entities are excluded (‘excluded authorities’).",
+      "ordinal": 3,
+      "heading_path": [
+        "What are contracting authorities?",
+        "What is the legal framework that governs contracting authorities?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "3. Section 2 brings the definition of a ‘utility’ into the definition of a contracting authority, consolidating the separate definitions in the previous legislation. Note that this guidance deals only with contracting authorities that are not utilities. Utilities [footnote 1] are dealt with in separate guidance.",
+      "ordinal": 4,
+      "heading_path": [
+        "What are contracting authorities?",
+        "What is the legal framework that governs contracting authorities?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "4. Section 2(5) specifically defines entities that are excluded authorities i.e.those that are not covered by the Act.",
+      "ordinal": 5,
+      "heading_path": [
+        "What are contracting authorities?",
+        "What is the legal framework that governs contracting authorities?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "p",
+      "text": "5. Section 2(10) prevents contracting authorities from avoiding the application of the Act when they award contracts to commercial entities they control in reliance on the vertical arrangement exemption in Schedule 2, paragraph 2 .",
+      "ordinal": 6,
+      "heading_path": [
+        "What are contracting authorities?",
+        "What is the legal framework that governs contracting authorities?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "heading",
+      "text": "What has changed?",
+      "ordinal": 7,
+      "heading_path": [
+        "What are contracting authorities?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "6. The features of a contracting authority are the same as those in the previous legislation, with adjustments made purely for the purposes of UK law.",
+      "ordinal": 8,
+      "heading_path": [
+        "What are contracting authorities?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "7. The definition covers what was referred to in the previous legislation as the state, regional or local authorities and bodies governed by public law (and associations of such authorities or bodies) and includes central government authorities (defined in regulation 44 and Schedule 2 of the Procurement Regulations 2024 ). There is no intended or implied change in the scope of entities covered. Indeed, since the definition forms the basis of the UK’s international obligations on public procurement, it is important that the scope of entities covered is not changed.",
+      "ordinal": 9,
+      "heading_path": [
+        "What are contracting authorities?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "p",
+      "text": "8. Entities that were contracting authorities under the previous legislation should still be contracting authorities (unless their status has changed, for example because their funding has changed from mainly public to mainly private sector or they are now operating commercially, whereas previously they were not). Similarly, entities that were not caught by the definition in the previous legislation should not be caught by the new definition, unless their circumstances have changed. There is no intention to try and catch new entities, or to exclude entities that were covered previously – the aim is for a consistent effect, ensuring a smooth transition from the previous legislation to the new.",
+      "ordinal": 10,
+      "heading_path": [
+        "What are contracting authorities?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "9. The features of funding, control and non-commercial nature are intended to capture the same contracting authorities as were previously covered.",
+      "ordinal": 11,
+      "heading_path": [
+        "What are contracting authorities?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "heading",
+      "text": "Key points and policy intent",
+      "ordinal": 12,
+      "heading_path": [
+        "What are contracting authorities?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "heading",
+      "text": "Contracting authorities",
+      "ordinal": 13,
+      "heading_path": [
+        "What are contracting authorities?",
+        "Key points and policy intent",
+        "Contracting authorities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "10. Contracting authorities are comprised of public authorities and, in the case of a utilities contract, public authorities, public undertakings and private utilities. They do not include excluded authorities, which are listed. Since this guidance does not cover utilities, it only considers the definition of a public authority.",
+      "ordinal": 14,
+      "heading_path": [
+        "What are contracting authorities?",
+        "Key points and policy intent",
+        "Contracting authorities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "11. The definition of a contracting authority does not list individual entities or categories of entities explicitly. This would be impracticable as there are simply too many entities to list and any list would only be a snapshot in time as entities can change their structure or disappear and new entities emerge. Rather, the definition uses a number of tests to determine whether an entity is covered or not.",
+      "ordinal": 15,
+      "heading_path": [
+        "What are contracting authorities?",
+        "Key points and policy intent",
+        "Contracting authorities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "heading",
+      "text": "Public authorities",
+      "ordinal": 16,
+      "heading_path": [
+        "What are contracting authorities?",
+        "Key points and policy intent",
+        "Public authorities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "12. In considering whether an entity is a public authority, there are three elements to consider. Two key elements of the test are:",
+      "ordinal": 17,
+      "heading_path": [
+        "What are contracting authorities?",
+        "Key points and policy intent",
+        "Public authorities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "p",
+      "text": "a) Public funding ( section 2(2)(a) ) - whether the entity’s funding is derived entirely or mainly from public funds; or",
+      "ordinal": 18,
+      "heading_path": [
+        "What are contracting authorities?",
+        "Key points and policy intent",
+        "Public authorities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "b) Public authority oversight ( section 2(2)(b) ) – whether the entity is under the management or control of one or more public authorities, or of a board with more than half of its membership appointed by one or more public authorities ( section 2(3) ).",
+      "ordinal": 19,
+      "heading_path": [
+        "What are contracting authorities?",
+        "Key points and policy intent",
+        "Public authorities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "p",
+      "text": "13. The third element of the test is that, in each case, the entity does not operate on a commercial basis ( section 2(2) ). To assist, section 2(4) sets out examples of factors that may be relevant when determining whether an entity operates on a commercial basis - this is not an exhaustive list and there may be other factors to be taken into account in different cases. For example, it may also be relevant to consider the intended purpose of the entity. Contracting authorities may need to consider questions such as if the entity was established with, or has a substantial purpose of providing a service in the public interest e.g. to provide social housing, even though it may have a commercial side too. If so, this could mean that the entity is not operating on a commercial basis in the true sense of the term. Conversely, entities established or operating for a commercial purpose, such as local authority trading companies established under section 95 of the Local Government Act 2003 , are likely to be competing on the open market in all areas of their business and therefore are likely to fall within the meaning of operating commercially under the Act.",
+      "ordinal": 20,
+      "heading_path": [
+        "What are contracting authorities?",
+        "Key points and policy intent",
+        "Public authorities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "14. Public funding may be from a variety of sources, for example, funding may be provided:",
+      "ordinal": 21,
+      "heading_path": [
+        "What are contracting authorities?",
+        "Key points and policy intent",
+        "Public authorities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "p",
+      "text": "a. in the case of local authorities, from the revenue support grant, council tax and non-domestic rates;",
+      "ordinal": 22,
+      "heading_path": [
+        "What are contracting authorities?",
+        "Key points and policy intent",
+        "Public authorities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "b. in the case of museums and galleries, from the Arts Council;",
+      "ordinal": 23,
+      "heading_path": [
+        "What are contracting authorities?",
+        "Key points and policy intent",
+        "Public authorities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "c. in the case of arm’s length entities, from the sponsoring department; or",
+      "ordinal": 24,
+      "heading_path": [
+        "What are contracting authorities?",
+        "Key points and policy intent",
+        "Public authorities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "p",
+      "text": "d. in the case of local authority companies, from the local authority itself.",
+      "ordinal": 25,
+      "heading_path": [
+        "What are contracting authorities?",
+        "Key points and policy intent",
+        "Public authorities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "p",
+      "text": "15. Section 2(3) sets out what it means to be subject to public authority oversight, which is that the entity is subject to the management or control of:",
+      "ordinal": 26,
+      "heading_path": [
+        "What are contracting authorities?",
+        "Key points and policy intent",
+        "Public authorities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "p",
+      "text": "a. one or more public authorities; or",
+      "ordinal": 27,
+      "heading_path": [
+        "What are contracting authorities?",
+        "Key points and policy intent",
+        "Public authorities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "b. a board with more than half of members appointed by one or more public authorities.",
+      "ordinal": 28,
+      "heading_path": [
+        "What are contracting authorities?",
+        "Key points and policy intent",
+        "Public authorities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "p",
+      "text": "16. Entities will need to consider their own structure, oversight, funding and commercial circumstances to determine whether they meet the test for a public authority, but the examples and explanations in the Act and this guidance should assist.",
+      "ordinal": 29,
+      "heading_path": [
+        "What are contracting authorities?",
+        "Key points and policy intent",
+        "Public authorities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "heading",
+      "text": "Centralised procurement authorities",
+      "ordinal": 30,
+      "heading_path": [
+        "What are contracting authorities?",
+        "Key points and policy intent",
+        "Centralised procurement authorities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "p",
+      "text": "17. Centralised procurement authorities are contracting authorities that are in the business of carrying out procurement for the benefit of other contracting authorities. These are considered further in the guidance on frameworks .",
+      "ordinal": 31,
+      "heading_path": [
+        "What are contracting authorities?",
+        "Key points and policy intent",
+        "Centralised procurement authorities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "heading",
+      "text": "Exempted contracts",
+      "ordinal": 32,
+      "heading_path": [
+        "What are contracting authorities?",
+        "Key points and policy intent",
+        "Exempted contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "p",
+      "text": "18. The authorities that are specifically excluded from the scope of the Act are named in section 2(5) .",
+      "ordinal": 33,
+      "heading_path": [
+        "What are contracting authorities?",
+        "Key points and policy intent",
+        "Exempted contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "p",
+      "text": "19. The Common Council of the Corporation of London is expressly included as a public authority, although this only applies to its public functions and it is otherwise excluded at Schedule 2, paragraph 38 .",
+      "ordinal": 34,
+      "heading_path": [
+        "What are contracting authorities?",
+        "Key points and policy intent",
+        "Exempted contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "p",
+      "text": "20. Schedule 2, paragraph 2 exempts contracts (referred to here as ‘relevant contracts’) awarded by public authorities to commercial entities that they control, such as local authority trading companies. Section 2(10) serves as an anti-avoidance mechanism to ensure that where a public authority awards a relevant contract to a controlled commercial entity, the obligation to comply with the Act is flowed down from the public authority to the controlled entity when it is delivering the contract.",
+      "ordinal": 35,
+      "heading_path": [
+        "What are contracting authorities?",
+        "Key points and policy intent",
+        "Exempted contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "heading",
+      "text": "What other guidance is of particular relevance to this topic area?",
+      "ordinal": 36,
+      "heading_path": [
+        "What are contracting authorities?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "p",
+      "text": "Guidance on exempted contracts (for information relating to vertical arrangements)",
+      "ordinal": 37,
+      "heading_path": [
+        "What are contracting authorities?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "p",
+      "text": "Guidance on utilities",
+      "ordinal": 38,
+      "heading_path": [
+        "What are contracting authorities?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "heading",
+      "text": "Related questions:",
+      "ordinal": 39,
+      "heading_path": [
+        "What are contracting authorities?",
+        "Related questions:"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "heading",
+      "text": "Does the definition of contracting authority include housing associations?",
+      "ordinal": 40,
+      "heading_path": [
+        "What are contracting authorities?",
+        "Related questions:",
+        "Does the definition of contracting authority include housing associations?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "p",
+      "text": "The Act’s definition of a contracting authority ensures consistency with the UK’s international obligations regarding commitments in relation to registered providers of social housing. Under the previous legislation it was considered that the Regulator of Social Housing exerts sufficient control to meet the threshold for the oversight test, and that position remains the same. In considering whether an entity operates commercially, section 2(4) of the Act provides examples of factors to be taken into account. Section 2(4) is not exhaustive and in the context of housing providers, for example, it may be relevant to consider other factors, such as the original purpose of the entity (e.g. to provide social housing) and whether that purpose is continuing, meaning that the entity is not fully commercial. The Act does not change the position of the previous legislation.",
+      "ordinal": 41,
+      "heading_path": [
+        "What are contracting authorities?",
+        "Related questions:",
+        "Does the definition of contracting authority include housing associations?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "heading",
+      "text": "Will being regulated by a regulator be enough to meet the contracting authority oversight requirement?",
+      "ordinal": 42,
+      "heading_path": [
+        "What are contracting authorities?",
+        "Related questions:",
+        "Will being regulated by a regulator be enough to meet the contracting authority oversight requirement?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "p",
+      "text": "Not necessarily. The intention here is not that regulators will always be classed as having the required oversight. Section 2(3) defines public authority oversight as meaning subject to the management or control of a public authority (or authorities) or of a board where more than half of the members are elected by a public authority (or authorities). The role of a regulator is not to be generally regarded as managing or controlling an entity in the sense of section 2(3) . However, there may be circumstances where the management and control of the regulator is such to meet the oversight requirement. The level of control and management provided by the Regulator of Social Housing over registered social housing providers is one such example (see above).",
+      "ordinal": 43,
+      "heading_path": [
+        "What are contracting authorities?",
+        "Related questions:",
+        "Will being regulated by a regulator be enough to meet the contracting authority oversight requirement?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "p",
+      "text": "© Crown copyright 2024",
+      "ordinal": 44,
+      "heading_path": [
+        "What are contracting authorities?",
+        "Related questions:",
+        "Will being regulated by a regulator be enough to meet the contracting authority oversight requirement?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "p",
+      "text": "This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated. To view this licence, visit nationalarchives.gov.uk/doc/open-government-licence/version/3",
+      "ordinal": 45,
+      "heading_path": [
+        "What are contracting authorities?",
+        "Related questions:",
+        "Will being regulated by a regulator be enough to meet the contracting authority oversight requirement?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "p",
+      "text": "Where we have identified any third-party copyright information you will need to obtain permission from the copyright holders concerned.",
+      "ordinal": 46,
+      "heading_path": [
+        "What are contracting authorities?",
+        "Related questions:",
+        "Will being regulated by a regulator be enough to meet the contracting authority oversight requirement?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "p",
+      "text": "This publication is available at www.gov.uk/government/publications",
+      "ordinal": 47,
+      "heading_path": [
+        "What are contracting authorities?",
+        "Related questions:",
+        "Will being regulated by a regulator be enough to meet the contracting authority oversight requirement?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "p",
+      "text": "Any enquiries regarding this publication should be sent to us at procurement.reform@cabinetoffice.gov.uk .",
+      "ordinal": 48,
+      "heading_path": [
+        "What are contracting authorities?",
+        "Related questions:",
+        "Will being regulated by a regulator be enough to meet the contracting authority oversight requirement?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "li",
+      "text": "Utilities are public authorities or public undertakings that carry out a utility activity and private utilities ( section 35(4) ). ↩",
+      "ordinal": 49,
+      "heading_path": [
+        "What are contracting authorities?",
+        "Related questions:",
+        "Will being regulated by a regulator be enough to meet the contracting authority oversight requirement?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00050",
+      "block_type": "p",
+      "text": "Utilities are public authorities or public undertakings that carry out a utility activity and private utilities ( section 35(4) ). ↩",
+      "ordinal": 50,
+      "heading_path": [
+        "What are contracting authorities?",
+        "Related questions:",
+        "Will being regulated by a regulator be enough to meet the contracting authority oversight requirement?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "Procurement Act 2023 (Act)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/contents",
+      "block_id": "b00001",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 2",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/2",
+      "block_id": "b00003",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 2",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/2",
+      "block_id": "b00004",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "[footnote 1]",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-contracting-authority-definition-html#fn:1",
+      "block_id": "b00004",
+      "ordinal": 3,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Section 2(5)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/2",
+      "block_id": "b00005",
+      "ordinal": 4,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 2(10)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/2",
+      "block_id": "b00006",
+      "ordinal": 5,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 2, paragraph 2",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/2/paragraph/2",
+      "block_id": "b00006",
+      "ordinal": 6,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 44",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/44",
+      "block_id": "b00009",
+      "ordinal": 7,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 2",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/schedule/2",
+      "block_id": "b00009",
+      "ordinal": 8,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement Regulations 2024",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/contents",
+      "block_id": "b00009",
+      "ordinal": 9,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 2(2)(a)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/2",
+      "block_id": "b00018",
+      "ordinal": 10,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 2(2)(b)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/2",
+      "block_id": "b00019",
+      "ordinal": 11,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 2(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/2",
+      "block_id": "b00019",
+      "ordinal": 12,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 2(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/2",
+      "block_id": "b00020",
+      "ordinal": 13,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 2(4)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/2",
+      "block_id": "b00020",
+      "ordinal": 14,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 95",
+      "href": "https://www.legislation.gov.uk/ukpga/2003/26/section/95",
+      "block_id": "b00020",
+      "ordinal": 15,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Local Government Act 2003",
+      "href": "https://www.legislation.gov.uk/ukpga/2003/26/contents",
+      "block_id": "b00020",
+      "ordinal": 16,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 2(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/2",
+      "block_id": "b00026",
+      "ordinal": 17,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "frameworks",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-frameworks-html",
+      "block_id": "b00031",
+      "ordinal": 18,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 2(5)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/2",
+      "block_id": "b00033",
+      "ordinal": 19,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 2, paragraph 38",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/2/paragraph/38",
+      "block_id": "b00034",
+      "ordinal": 20,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 2, paragraph 2",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/2/paragraph/2",
+      "block_id": "b00035",
+      "ordinal": 21,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 2(10)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/2",
+      "block_id": "b00035",
+      "ordinal": 22,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "exempted contracts",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-exempted-contracts-html--2",
+      "block_id": "b00037",
+      "ordinal": 23,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "utilities",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-utilities-contracts-html",
+      "block_id": "b00038",
+      "ordinal": 24,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 2(4)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/2",
+      "block_id": "b00041",
+      "ordinal": 25,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 2(4)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/2",
+      "block_id": "b00041",
+      "ordinal": 26,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 2(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/2",
+      "block_id": "b00043",
+      "ordinal": 27,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 2(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/2",
+      "block_id": "b00043",
+      "ordinal": 28,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "nationalarchives.gov.uk/doc/open-government-licence/version/3",
+      "href": "http://nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "block_id": "b00045",
+      "ordinal": 29,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "www.gov.uk/government/publications",
+      "href": "http://www.gov.uk/government/publications",
+      "block_id": "b00047",
+      "ordinal": 30,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "procurement.reform@cabinetoffice.gov.uk",
+      "href": "mailto:procurement.reform@cabinetoffice.gov.uk",
+      "block_id": "b00048",
+      "ordinal": 31,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "section 35(4)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/35",
+      "block_id": "b00049",
+      "ordinal": 32,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-contracting-authority-definition-html#fnref:1",
+      "block_id": "b00049",
+      "ordinal": 33,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "section 35(4)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/35",
+      "block_id": "b00050",
+      "ordinal": 34,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-contracting-authority-definition-html#fnref:1",
+      "block_id": "b00050",
+      "ordinal": 35,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Guidance: Contracting Authority definition (HTML)",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-contracting-authority-definition-html",
+      "block_id": "__document__",
+      "ordinal": 36,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2022 to 2024 Sunak Conservative government",
+      "href": "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 37,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 38,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Procurement Act 2023 guidance documents - Plan phase",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase",
+      "block_id": "__document__",
+      "ordinal": 39,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 40,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 2",
+      "block_id": "b00003",
+      "start": 3,
+      "end": 12,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "2"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 2",
+      "block_id": "b00004",
+      "start": 3,
+      "end": 12,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "2"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 2(5)",
+      "block_id": "b00005",
+      "start": 3,
+      "end": 15,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "2",
+        "tail": "(5)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 2(10)",
+      "block_id": "b00006",
+      "start": 3,
+      "end": 16,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "2",
+        "tail": "(10)"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 2, paragraph 2",
+      "block_id": "b00006",
+      "start": 206,
+      "end": 229,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "2",
+        "paragraph": "2"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 2",
+      "block_id": "b00006",
+      "start": 218,
+      "end": 229,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "2"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 44",
+      "block_id": "b00009",
+      "start": 257,
+      "end": 270,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "44"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2024",
+      "block_id": "b00009",
+      "start": 305,
+      "end": 321,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2024"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 2",
+      "block_id": "b00009",
+      "start": 275,
+      "end": 285,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "2"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 2(2)(a)",
+      "block_id": "b00018",
+      "start": 20,
+      "end": 35,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "2",
+        "tail": "(2)(a)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 2(2)(b)",
+      "block_id": "b00019",
+      "start": 32,
+      "end": 47,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "2",
+        "tail": "(2)(b)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 2(3)",
+      "block_id": "b00019",
+      "start": 239,
+      "end": 251,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "2",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 2(2)",
+      "block_id": "b00020",
+      "start": 109,
+      "end": 121,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "2",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 2(4)",
+      "block_id": "b00020",
+      "start": 136,
+      "end": 148,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "2",
+        "tail": "(4)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 95",
+      "block_id": "b00020",
+      "start": 953,
+      "end": 963,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "95"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 2(3)",
+      "block_id": "b00026",
+      "start": 4,
+      "end": 16,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "2",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 2(5)",
+      "block_id": "b00033",
+      "start": 90,
+      "end": 102,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "2",
+        "tail": "(5)"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 2, paragraph 38",
+      "block_id": "b00034",
+      "start": 180,
+      "end": 204,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "2",
+        "paragraph": "38"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 38",
+      "block_id": "b00034",
+      "start": 192,
+      "end": 204,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "38"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 2(10)",
+      "block_id": "b00035",
+      "start": 204,
+      "end": 217,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "2",
+        "tail": "(10)"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 2, paragraph 2",
+      "block_id": "b00035",
+      "start": 4,
+      "end": 27,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "2",
+        "paragraph": "2"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 2",
+      "block_id": "b00035",
+      "start": 16,
+      "end": 27,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "2"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 2(4)",
+      "block_id": "b00041",
+      "start": 435,
+      "end": 447,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "2",
+        "tail": "(4)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 2(4)",
+      "block_id": "b00041",
+      "start": 514,
+      "end": 526,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "2",
+        "tail": "(4)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 2(3)",
+      "block_id": "b00043",
+      "start": 116,
+      "end": 128,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "2",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 2(3)",
+      "block_id": "b00043",
+      "start": 462,
+      "end": 474,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "2",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 35(4)",
+      "block_id": "b00049",
+      "start": 114,
+      "end": 127,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "35",
+        "tail": "(4)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 35(4)",
+      "block_id": "b00050",
+      "start": 114,
+      "end": 127,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "35",
+        "tail": "(4)"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

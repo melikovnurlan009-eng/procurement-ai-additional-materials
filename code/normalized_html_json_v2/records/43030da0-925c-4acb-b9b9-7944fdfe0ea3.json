@@ -1,0 +1,2101 @@
+{
+  "document_id": "43030da0-925c-4acb-b9b9-7944fdfe0ea3",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/25950396dbe362cc85e3a06d.json",
+  "input_sha256": "7967ef9149d96c94d3fbde30aa00433df54c7191cbd2f9473497ee8c02f1de1f",
+  "processed_at": "2026-08-27T02:26:08.310995+00:00",
+  "title": "Contracting For Agile Guidance Note (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/the-digital-data-and-technology-playbook/contracting-for-agile-guidance-note-html",
+  "description": null,
+  "publication_date": "2023-06-20T11:00:06+01:00",
+  "updated_date": "2023-06-20T11:00:03+01:00",
+  "source_metadata": {
+    "content_id": "43030da0-925c-4acb-b9b9-7944fdfe0ea3",
+    "base_path": "/government/publications/the-digital-data-and-technology-playbook/contracting-for-agile-guidance-note-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "1. Scope and Context",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "2. Introduction to Agile",
+      "ordinal": 20,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Principles and Tools to Support Agile Delivery",
+      "ordinal": 34,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Definitions",
+      "ordinal": 39,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Key Roles Within an Agile Delivery Team",
+      "ordinal": 41,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "3. Approaches to Governance",
+      "ordinal": 46,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "4. Recommended Pricing Models",
+      "ordinal": 52,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Scenario 1 - Fixed Price Agile Contract",
+      "ordinal": 57,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Scenario 2 - Payment by Results",
+      "ordinal": 71,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Time & Materials",
+      "ordinal": 76,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Summary",
+      "ordinal": 81,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Vision",
+      "ordinal": 84,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Collaborate",
+      "ordinal": 86,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Know your supplier",
+      "ordinal": 88,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Know your agile process",
+      "ordinal": 90,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Agile ceremonies (standups)",
+      "ordinal": 92,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Define Requirements",
+      "ordinal": 94,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Payments",
+      "ordinal": 96,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "5. Procuring an Agile Contract",
+      "ordinal": 99,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "6. Managing an Agile Contract",
+      "ordinal": 127,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "7. Summary",
+      "ordinal": 135,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "1. Scope and Context",
+      "ordinal": 0,
+      "heading_path": [
+        "1. Scope and Context"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "1.1. This document is intended as a guide on how to apply commercial principles to agile project delivery methodologies. It looks at agile through a commercial lens and provides an introduction to the methodology itself rather than an in-depth description of all aspects of agile. For further information on agile delivery, please refer to the Service Manual .",
+      "ordinal": 1,
+      "heading_path": [
+        "1. Scope and Context"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "1.2. This document provides advice and guidance that, if followed, should increase the likelihood of a successful agile project. It is not intended to be a step by step guide that sets out the entire end-to-end process of contracting for agile. It focuses on key areas:",
+      "ordinal": 2,
+      "heading_path": [
+        "1. Scope and Context"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "li",
+      "text": "An introduction to Agile",
+      "ordinal": 3,
+      "heading_path": [
+        "1. Scope and Context"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "li",
+      "text": "Approach to Governance",
+      "ordinal": 4,
+      "heading_path": [
+        "1. Scope and Context"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "li",
+      "text": "Recommended Pricing Models",
+      "ordinal": 5,
+      "heading_path": [
+        "1. Scope and Context"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "li",
+      "text": "Procuring an Agile Contract",
+      "ordinal": 6,
+      "heading_path": [
+        "1. Scope and Context"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "li",
+      "text": "Managing an Agile Contract",
+      "ordinal": 7,
+      "heading_path": [
+        "1. Scope and Context"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "1.3. Readers should note that agile is the generic term for a fluid delivery methodology and there are a number of subtly different approaches within the generic concept. This document does not concern itself with those differences but commercial colleagues should be aware that, in an IT environment, technical colleagues will likely be working within one of the following frameworks;",
+      "ordinal": 8,
+      "heading_path": [
+        "1. Scope and Context"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "li",
+      "text": "Scrum@Scale",
+      "ordinal": 9,
+      "heading_path": [
+        "1. Scope and Context"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "li",
+      "text": "Large Scale Scrum (LeSS)",
+      "ordinal": 10,
+      "heading_path": [
+        "1. Scope and Context"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "li",
+      "text": "Scaled Agile Framework (SAFe)",
+      "ordinal": 11,
+      "heading_path": [
+        "1. Scope and Context"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "li",
+      "text": "Disciplined Agile",
+      "ordinal": 12,
+      "heading_path": [
+        "1. Scope and Context"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "li",
+      "text": "Nexus",
+      "ordinal": 13,
+      "heading_path": [
+        "1. Scope and Context"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "li",
+      "text": "Enterprise Kanban (Portfolio Kanban)",
+      "ordinal": 14,
+      "heading_path": [
+        "1. Scope and Context"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "1.4. In order to derive maximum benefit from this document, readers should keep at the forefront of their mind the following fundamental principles that are taken from the Manifesto for Agile Software Development (Agile Manifesto: https:// agilemanifesto.org/ ) which values:",
+      "ordinal": 15,
+      "heading_path": [
+        "1. Scope and Context"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "li",
+      "text": "Individuals and interactions over processes and tools",
+      "ordinal": 16,
+      "heading_path": [
+        "1. Scope and Context"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "li",
+      "text": "Working software over comprehensive documentation",
+      "ordinal": 17,
+      "heading_path": [
+        "1. Scope and Context"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "li",
+      "text": "Customer collaboration over contract negotiation",
+      "ordinal": 18,
+      "heading_path": [
+        "1. Scope and Context"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "li",
+      "text": "Responding to change over following a plan",
+      "ordinal": 19,
+      "heading_path": [
+        "1. Scope and Context"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "heading",
+      "text": "2. Introduction to Agile",
+      "ordinal": 20,
+      "heading_path": [
+        "1. Scope and Context",
+        "2. Introduction to Agile"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "2.1. This section provides an introduction to agile. It includes a definition of agile and contrasts it to traditional (waterfall) delivery methods. It identifies when agile is most suitable and the principles/tools that can be employed to support an agile delivery methodology. Additionally, this section details key terms and common core roles in an agile team.",
+      "ordinal": 21,
+      "heading_path": [
+        "1. Scope and Context",
+        "2. Introduction to Agile"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "p",
+      "text": "2.2. Agile started out as an alternative methodology to traditional software development, it is now, however, more widely applied to other types of projects. It is an umbrella term for a number of different models with key features in common: (1) traditional project phases all take place at the same time in a series of iterative cycles, and; (2) project elements and deliverables are produced at the end of each cycle.",
+      "ordinal": 22,
+      "heading_path": [
+        "1. Scope and Context",
+        "2. Introduction to Agile"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "2.3. As a way of working it has flexibility and responsiveness at its core. Through constant iterations and reviews it increases speed to market and can drive up quality.",
+      "ordinal": 23,
+      "heading_path": [
+        "1. Scope and Context",
+        "2. Introduction to Agile"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "2.4. Agile is in contrast with traditional (waterfall) methodology in which the process is sequential and divided into distinct phases with clear milestones.",
+      "ordinal": 24,
+      "heading_path": [
+        "1. Scope and Context",
+        "2. Introduction to Agile"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "p",
+      "text": "2.5. The Iron Triangle diagram, below, illustrates that, in a traditional (waterfall) project, there is very often a mindset that the desired scope must be delivered. The consequence of pursuing this is that time and cost can vary. This means projects can run overtime and over budget boundaries. Agile delivery, however, acknowledges the uncertainty as to what can be achieved and constrains the time and cost available for delivering the desired outcome(s). This means that the scope becomes the variable. It should be noted, though, that the principles on which agile is based - individuals, interactions, collaboration and responding to change - mean that this variation is known in near real-time (through sprints) rather than becoming an unwelcome surprise at the end of a lengthy delivery period.",
+      "ordinal": 25,
+      "heading_path": [
+        "1. Scope and Context",
+        "2. Introduction to Agile"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "p",
+      "text": "2.6. Agile delivery reduces the risk of a project running over budget and/or time boundaries. The quantum of outcomes achieved becomes variable (as shown above), however, as value is delivered incrementally throughout rather than all at the end as with more traditional approaches, it is likely that some, if not all, of the intended outcomes will be delivered.",
+      "ordinal": 26,
+      "heading_path": [
+        "1. Scope and Context",
+        "2. Introduction to Agile"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "p",
+      "text": "2.7. Because agile is different from traditional waterfall working, the usual ways of contracting can present a number of challenges. Waterfall projects proceed in a ‘straight line’ with clear sequencing, milestones and pre-defined delivery outcomes. Contracting for them is therefore relatively simple. Agile, on the other hand, works through a continual process of review, in a series of small increments or sprints, and with flexible desired outcomes that may change as the project progresses.",
+      "ordinal": 27,
+      "heading_path": [
+        "1. Scope and Context",
+        "2. Introduction to Agile"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "2.8. Agile works best when:",
+      "ordinal": 28,
+      "heading_path": [
+        "1. Scope and Context",
+        "2. Introduction to Agile"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "li",
+      "text": "User needs and solution options change frequently",
+      "ordinal": 29,
+      "heading_path": [
+        "1. Scope and Context",
+        "2. Introduction to Agile"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "li",
+      "text": "Customers and/or end users are available for close collaboration and to provide rapid feedback",
+      "ordinal": 30,
+      "heading_path": [
+        "1. Scope and Context",
+        "2. Introduction to Agile"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "li",
+      "text": "Dealing with situations with complex problems, unknown solutions and/or scope that is not clearly defined",
+      "ordinal": 31,
+      "heading_path": [
+        "1. Scope and Context",
+        "2. Introduction to Agile"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "li",
+      "text": "Requirements can be broken into sections, prioritised and dealt with in iterative cycles",
+      "ordinal": 32,
+      "heading_path": [
+        "1. Scope and Context",
+        "2. Introduction to Agile"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "li",
+      "text": "There is value in incremental developments with outcomes that can be utilised by the customer at the end of each cycle",
+      "ordinal": 33,
+      "heading_path": [
+        "1. Scope and Context",
+        "2. Introduction to Agile"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "heading",
+      "text": "Principles and Tools to Support Agile Delivery",
+      "ordinal": 34,
+      "heading_path": [
+        "1. Scope and Context",
+        "2. Introduction to Agile",
+        "Principles and Tools to Support Agile Delivery"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "p",
+      "text": "2.9. There are a number of different methods including Lean, Kanban and Scrum. You can choose tools and techniques from several methods to meet the specific project needs.",
+      "ordinal": 35,
+      "heading_path": [
+        "1. Scope and Context",
+        "2. Introduction to Agile",
+        "Principles and Tools to Support Agile Delivery"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "p",
+      "text": "2.10. Scrum is the most commonly used agile method. It emphasises creative and adaptive teamwork in solving complex problems. It allows a highly structured model with clearly defined roles and responsibilities and can be useful for traditionally structured organisations moving to agile",
+      "ordinal": 36,
+      "heading_path": [
+        "1. Scope and Context",
+        "2. Introduction to Agile",
+        "Principles and Tools to Support Agile Delivery"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "p",
+      "text": "2.11. Kanban is a way of visualising and improving current working practices. It concentrates on reducing lead times and the amount of work in progress so that work flows through a system quickly.",
+      "ordinal": 37,
+      "heading_path": [
+        "1. Scope and Context",
+        "2. Introduction to Agile",
+        "Principles and Tools to Support Agile Delivery"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "p",
+      "text": "2.12. Lean Principles focus on continual elimination of waste, delivering quickly, learning and improving and using evidence and data to make decisions.",
+      "ordinal": 38,
+      "heading_path": [
+        "1. Scope and Context",
+        "2. Introduction to Agile",
+        "Principles and Tools to Support Agile Delivery"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "heading",
+      "text": "Definitions",
+      "ordinal": 39,
+      "heading_path": [
+        "1. Scope and Context",
+        "2. Introduction to Agile",
+        "Definitions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "table",
+      "text": "Term\tDefinition\nSprint\tAn event of a specific duration (usually 2 to 4 weeks) that remains fixed during the project where the delivery team focuses on a specific goal.\nRoadmap\tA roadmap is a plan that shows how a product or service is likely to develop over time. Roadmaps need to be easy to understand and simple to adjust when priorities change - as often happens with agile ways of working.\nUser Story\tA User Story is a small unit of work in an agile workflow, usually through a written explanation of a user’s need and how it can be fulfilled. They describe a user and the reason why they need to use the service you’re building. Guidance on how to write a User Story can be found here.\nStory Points\tStory Points are an estimation technique to help a team scope the complexity of a user story and the effort required to complete a task\nEpic\tAn epic is a collection of user stories\nCeremonies\tAgile ceremonies are meetings where a development team comes together to keep each other updated on their project’s details\nPlanning Meeting\tTakes place at the start of each Sprint. During the meeting, the Product Owner identifies high priority items from the Product Backlog and defines acceptance criteria, which will be agreed with the Development Team.\nDaily Meeting (also known as a ‘Stand-up’ or ‘Scrum’)\tTo review progress and issues.\nReview Meeting (also known as a ‘Retrospective’ or ‘Retro’)\tAt the end of each Sprint to (1) assess items / outcomes that have been developed; (2) confirm completion, and; (3) feedback on the Sprint and suggest improvements for the next Sprint\nDefinition of Done\tCriteria that determines whether the Sprint outcomes are of satisfactory quality.\nDefinition of Ready\tA Definition of Ready describes the requirements that must be met for a User Story to be ready to enter sprint planning.\nProduct Backlog\tA prioritised list of user stories (such as new features) that should be implemented as part of a project or product development.",
+      "ordinal": 40,
+      "heading_path": [
+        "1. Scope and Context",
+        "2. Introduction to Agile",
+        "Definitions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {
+        "rows": [
+          [
+            "Term",
+            "Definition"
+          ],
+          [
+            "Sprint",
+            "An event of a specific duration (usually 2 to 4 weeks) that remains fixed during the project where the delivery team focuses on a specific goal."
+          ],
+          [
+            "Roadmap",
+            "A roadmap is a plan that shows how a product or service is likely to develop over time. Roadmaps need to be easy to understand and simple to adjust when priorities change - as often happens with agile ways of working."
+          ],
+          [
+            "User Story",
+            "A User Story is a small unit of work in an agile workflow, usually through a written explanation of a user’s need and how it can be fulfilled. They describe a user and the reason why they need to use the service you’re building. Guidance on how to write a User Story can be found here."
+          ],
+          [
+            "Story Points",
+            "Story Points are an estimation technique to help a team scope the complexity of a user story and the effort required to complete a task"
+          ],
+          [
+            "Epic",
+            "An epic is a collection of user stories"
+          ],
+          [
+            "Ceremonies",
+            "Agile ceremonies are meetings where a development team comes together to keep each other updated on their project’s details"
+          ],
+          [
+            "Planning Meeting",
+            "Takes place at the start of each Sprint. During the meeting, the Product Owner identifies high priority items from the Product Backlog and defines acceptance criteria, which will be agreed with the Development Team."
+          ],
+          [
+            "Daily Meeting (also known as a ‘Stand-up’ or ‘Scrum’)",
+            "To review progress and issues."
+          ],
+          [
+            "Review Meeting (also known as a ‘Retrospective’ or ‘Retro’)",
+            "At the end of each Sprint to (1) assess items / outcomes that have been developed; (2) confirm completion, and; (3) feedback on the Sprint and suggest improvements for the next Sprint"
+          ],
+          [
+            "Definition of Done",
+            "Criteria that determines whether the Sprint outcomes are of satisfactory quality."
+          ],
+          [
+            "Definition of Ready",
+            "A Definition of Ready describes the requirements that must be met for a User Story to be ready to enter sprint planning."
+          ],
+          [
+            "Product Backlog",
+            "A prioritised list of user stories (such as new features) that should be implemented as part of a project or product development."
+          ]
+        ],
+        "row_count": 13
+      }
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "heading",
+      "text": "Key Roles Within an Agile Delivery Team",
+      "ordinal": 41,
+      "heading_path": [
+        "1. Scope and Context",
+        "2. Introduction to Agile",
+        "Key Roles Within an Agile Delivery Team"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "p",
+      "text": "2.13. Product Owner - the main customer representative. They have primary responsibility for development and ongoing revision of the statement of requirements (“Product Backlog”). Active participant in development team meetings. They should be experienced in agile methodology.",
+      "ordinal": 42,
+      "heading_path": [
+        "1. Scope and Context",
+        "2. Introduction to Agile",
+        "Key Roles Within an Agile Delivery Team"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "p",
+      "text": "2.14. Delivery Manager (also known as ‘Scrum Master’) - facilitates collaboration and compliance with the project approach. Can be buyer or supplier personnel but buyers should note issues with impartiality. Therefore, an independent third party could also be considered.",
+      "ordinal": 43,
+      "heading_path": [
+        "1. Scope and Context",
+        "2. Introduction to Agile",
+        "Key Roles Within an Agile Delivery Team"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "p",
+      "text": "2.15. Development Team - cross functional team responsible for developing, testing and delivering the outcome or solution. Best practice is to include supplier personnel only, to avoid risk allocation and liability issues.",
+      "ordinal": 44,
+      "heading_path": [
+        "1. Scope and Context",
+        "2. Introduction to Agile",
+        "Key Roles Within an Agile Delivery Team"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "p",
+      "text": "2.16. Further details on these and other key DDaT roles can be found in the Digital, Data and Technology Profession Capability Framework .",
+      "ordinal": 45,
+      "heading_path": [
+        "1. Scope and Context",
+        "2. Introduction to Agile",
+        "Key Roles Within an Agile Delivery Team"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "heading",
+      "text": "3. Approaches to Governance",
+      "ordinal": 46,
+      "heading_path": [
+        "1. Scope and Context",
+        "3. Approaches to Governance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "p",
+      "text": "3.1. It is essential that those colleagues in governance and approval roles understand the concept of agile and how it differs from the waterfall approach. Changing ways of working in this way often means a mindset shift is required. When contracting for agile, it is not possible to set out definitive outputs. Therefore, both delivery teams and those in governance roles must be prepared to accept and manage ambiguity and a fluid landscape. It is important that all stakeholders are aware of the difference in approach with agile.",
+      "ordinal": 47,
+      "heading_path": [
+        "1. Scope and Context",
+        "3. Approaches to Governance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "p",
+      "text": "3.2. Agile is a different delivery methodology to waterfall; whilst it can and should be assessed through the same metrics (e.g. value for money, delivery timescales etc.) those metrics should be perceived in a different way.",
+      "ordinal": 48,
+      "heading_path": [
+        "1. Scope and Context",
+        "3. Approaches to Governance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "p",
+      "text": "3.3. Waterfall is based on developing and agreeing a perfect specification that is fully costed and bound into a commercial agreement. The time and cost taken to agree this is often significant - for both parties - and may include time and materials work prior to entering the main agreement. Alternatively, the contract is entered into with an imperfect specification which results in change requests to manage time, overruns or scope reductions which do not manifest themselves until much later in the contract. This approach has become the accepted default because contracting authorities consider that they are always in control of the cash-flow in exchange for deliverables.",
+      "ordinal": 49,
+      "heading_path": [
+        "1. Scope and Context",
+        "3. Approaches to Governance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00050",
+      "block_type": "p",
+      "text": "3.4. The agile approach to contracting embraces uncertainty by avoiding excessive planning, moving straight into delivery and - through constant monitoring - learning from what works and what doesn’t work in delivering the intended outcomes. This feedback is then incorporated across the programme to improve delivery effectiveness. The Contracting Authority takes the view that the money spent (on the sprint cycle) reflects the cost of learning what approach(es) did and did not work; this is a significant departure from waterfall delivery where the supplier bears the risk associated with this learning (by not being paid) because they have ‘failed’ to provide the contracted deliverable(s) within the agreed timescales.",
+      "ordinal": 50,
+      "heading_path": [
+        "1. Scope and Context",
+        "3. Approaches to Governance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00051",
+      "block_type": "p",
+      "text": "3.5. For this reason, an agile contract requires collaboration in both defining the approach and monitoring the ongoing delivery so that feedback can be incorporated into the planning and scoping of future sprint cycles.",
+      "ordinal": 51,
+      "heading_path": [
+        "1. Scope and Context",
+        "3. Approaches to Governance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00052",
+      "block_type": "heading",
+      "text": "4. Recommended Pricing Models",
+      "ordinal": 52,
+      "heading_path": [
+        "1. Scope and Context",
+        "4. Recommended Pricing Models"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00053",
+      "block_type": "p",
+      "text": "4.1. As with any contract, the agreement and the commercial model will need to be configured to support the specific nature of the services and deliverables. What is important is that those configurations are based on sound commercial principles that support - and do not undermine - the principles of agile project delivery. The variables will very likely differ to those within a waterfall project and the buyer should become comfortable with this shift, recognising that there is no single or correct commercial approach.",
+      "ordinal": 53,
+      "heading_path": [
+        "1. Scope and Context",
+        "4. Recommended Pricing Models"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00054",
+      "block_type": "p",
+      "text": "4.2. Bear in mind that when constructing an agile contract it will almost always be more beneficial to use an outcome-based specification (rather than outputs based). This specification should be driven by the use of epics, user stories, and story points all of which are documented on a product backlog. Using an outcome-based specification allows the buyer to clearly articulate the desired end-state and then trusts the provider to determine how best to achieve those outcomes.",
+      "ordinal": 54,
+      "heading_path": [
+        "1. Scope and Context",
+        "4. Recommended Pricing Models"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00055",
+      "block_type": "p",
+      "text": "4.3. Briefly, and simply, epics are a collection of similar or related user stories. User Stories define the capability from the perspective of the end user and can be sized using story points. Story Points are used to assess the complexity of a user story. Note that story points are not analogous to person days. Agile contracts should avoid excessive and unnecessary focus on inputs and instead support the buyer and supplier with re-prioritising the backlog in order to most quickly deliver maximum value to the project.",
+      "ordinal": 55,
+      "heading_path": [
+        "1. Scope and Context",
+        "4. Recommended Pricing Models"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00056",
+      "block_type": "p",
+      "text": "4.4. Agile contracting should incentivise the supplier - and its personnel - to deliver the intended outcomes. For this reason, it is likely that the commercial model will include appropriate commercial incentives (gain) rather than simply including punitive commercial mechanisms (pain). Below you will find example approaches which may also be appropriate in other projects. This does not represent an exhaustive list of options and readers should consider these as contextual examples, noting how they align key commercial principles with agile delivery methodologies. Buyers may wish to consult the Risk Allocation and Pricing Approaches Guidance Note (PDF, 1,020 kb) to help inform this decision.",
+      "ordinal": 56,
+      "heading_path": [
+        "1. Scope and Context",
+        "4. Recommended Pricing Models"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00057",
+      "block_type": "heading",
+      "text": "Scenario 1 - Fixed Price Agile Contract",
+      "ordinal": 57,
+      "heading_path": [
+        "1. Scope and Context",
+        "4. Recommended Pricing Models",
+        "Scenario 1 - Fixed Price Agile Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00058",
+      "block_type": "p",
+      "text": "4.5. This approach has a number of benefits, primarily its simplicity in comparison to other agile contract options and because it closely aligns to the inverted iron triangle set out above. It has similarities with traditional waterfall contracts without being waterfall by stealth; one of the pitfalls of contracting for agile is to describe an agile project delivery methodology and then constrain it by using a traditional contracting approach.",
+      "ordinal": 58,
+      "heading_path": [
+        "1. Scope and Context",
+        "4. Recommended Pricing Models",
+        "Scenario 1 - Fixed Price Agile Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00059",
+      "block_type": "p",
+      "text": "4.6. Given the similarity with traditional waterfall approach to delivery, this model could be viewed as a hybrid approach that combines traditional methods with the inclusion of agile principles to manage and oversee inherent uncertainty. For this reason, it may be an appropriate approach where the project team lacks experience in applying commercial-agile principles.",
+      "ordinal": 59,
+      "heading_path": [
+        "1. Scope and Context",
+        "4. Recommended Pricing Models",
+        "Scenario 1 - Fixed Price Agile Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00060",
+      "block_type": "p",
+      "text": "4.7. Other considerations in selecting this - or other models - will include the extent to which supporting information is complete (or mature) and the resulting level of uncertainty. Those projects with very limited information and a greater level of uncertainty are less likely to achieve the intended outcomes if they use a rigid fixed-price model. You could further manage the commercial risk by using fixed-price sprints (contracted for in phases) rather than contracting for the entirety of the requirement on a fixed-price basis at the outset.",
+      "ordinal": 60,
+      "heading_path": [
+        "1. Scope and Context",
+        "4. Recommended Pricing Models",
+        "Scenario 1 - Fixed Price Agile Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00061",
+      "block_type": "p",
+      "text": "4.8. As the name suggests, the buyer and supplier will agree a fixed-price for the scope defined in the epics and more broadly in the contract. The timescales should also be fixed to support the delivery principles of time-boxed sprints and prioritisation which require regular feedback to enable the sprint teams to iterate the product. In the absence of a time imperative there will always be a tendency for the project to drift.",
+      "ordinal": 61,
+      "heading_path": [
+        "1. Scope and Context",
+        "4. Recommended Pricing Models",
+        "Scenario 1 - Fixed Price Agile Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00062",
+      "block_type": "p",
+      "text": "4.9. The image above shows a simplified representation of how the buyer could procure a fixed price contract within a defined scope (epics, user stories) and with a timeboxed delivery window. In this model it would be possible to define a fixed-price for either the entire project (comprising sprint cycles 1-4) or for each sprint cycle, subject to the broader requirements of the project, commercial best practice and the Public Contracts Regulations 2015.",
+      "ordinal": 62,
+      "heading_path": [
+        "1. Scope and Context",
+        "4. Recommended Pricing Models",
+        "Scenario 1 - Fixed Price Agile Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00063",
+      "block_type": "p",
+      "text": "4.10. The key components within each Sprint Cycle are highlighted in the above call-out box, which is repeated for each sprint. This is a fundamental principle of agile and one of the most obvious ways in which it differs from traditional delivery methodologies. The sprint cycle is delivered collaboratively between the buyer and supplier. There are regular touch points that allow for feedback and a change in approach. Iterations of the solution are produced and assessed before a release is issued at the end of the sprint cycle. This feedback loop is incorporated both within the sprint cycle and in support of planning for future sprint cycles (discovery). It is through this mechanism that progress is monitored and the backlog is re-prioritised - if necessary - based on learnings of what works and what does not in producing the intended outcomes for the product.",
+      "ordinal": 63,
+      "heading_path": [
+        "1. Scope and Context",
+        "4. Recommended Pricing Models",
+        "Scenario 1 - Fixed Price Agile Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00064",
+      "block_type": "p",
+      "text": "4.11. It is important that, in addition to any delivery capacity and capability within the buyer organisation, that there is an intelligent client function (ICF) to ensure alignment with overarching corporate or departmental strategy and standards. The ICF must include a commercial role or capability to ensure that delivery of the sprint cycle is aligned to the provisions of the contract. Further details on ICF can be found in Section 5.",
+      "ordinal": 64,
+      "heading_path": [
+        "1. Scope and Context",
+        "4. Recommended Pricing Models",
+        "Scenario 1 - Fixed Price Agile Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00065",
+      "block_type": "p",
+      "text": "4.12. This enables the project to focus on quickly delivering those things that it is able to deliver and release value to the project. It should not spend protracted periods attempting to solve problems it is not yet ready for. This should not be confused with backending the project so that the most difficult problems are left until last. This is another key principle in successfully managing the delivery of agile projects through collaboration and interaction between buyer and supplier teams (including commercial).",
+      "ordinal": 65,
+      "heading_path": [
+        "1. Scope and Context",
+        "4. Recommended Pricing Models",
+        "Scenario 1 - Fixed Price Agile Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00066",
+      "block_type": "p",
+      "text": "4.13. When planning how to select a vendor and structure a contract to deliver an agile contract, projects could also consider:",
+      "ordinal": 66,
+      "heading_path": [
+        "1. Scope and Context",
+        "4. Recommended Pricing Models",
+        "Scenario 1 - Fixed Price Agile Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00067",
+      "block_type": "li",
+      "text": "A contract for fixed-price sprints rather than a fixed-price for the entire scope;",
+      "ordinal": 67,
+      "heading_path": [
+        "1. Scope and Context",
+        "4. Recommended Pricing Models",
+        "Scenario 1 - Fixed Price Agile Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00068",
+      "block_type": "li",
+      "text": "The role of a minimum viable product in selecting a vendor and initiating the contract; and",
+      "ordinal": 68,
+      "heading_path": [
+        "1. Scope and Context",
+        "4. Recommended Pricing Models",
+        "Scenario 1 - Fixed Price Agile Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00069",
+      "block_type": "li",
+      "text": "Awarding multiple contracts (to different providers) each of which is for a ‘discovery stage’ and then proceeding to a longer-term contract only with the provider whose solution has demonstrated that it is most likely to deliver the intended outcomes.",
+      "ordinal": 69,
+      "heading_path": [
+        "1. Scope and Context",
+        "4. Recommended Pricing Models",
+        "Scenario 1 - Fixed Price Agile Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00070",
+      "block_type": "p",
+      "text": "4.14. The final point in particular is a departure from traditional contracting methodologies in that it requires the buyer to award contracts to multiple vendors for ostensibly the same thing. This should be viewed as a way of de-risking the project for the benefit of buyer and supplier by allowing bidders to demonstrate the potential of their solution/approach prior to the buyer entering a longer-term agreement. This avoids the parties making commitments based on uncertainty - and bidders costing the risk accordingly - and reduces the risk of entering a contract which does not deliver the intended outcomes despite the best efforts of buyer and supplier delivery teams.",
+      "ordinal": 70,
+      "heading_path": [
+        "1. Scope and Context",
+        "4. Recommended Pricing Models",
+        "Scenario 1 - Fixed Price Agile Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00071",
+      "block_type": "heading",
+      "text": "Scenario 2 - Payment by Results",
+      "ordinal": 71,
+      "heading_path": [
+        "1. Scope and Context",
+        "4. Recommended Pricing Models",
+        "Scenario 2 - Payment by Results"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00072",
+      "block_type": "p",
+      "text": "4.15. One of the alternatives to a fixed price agile contract is a contract structured around payment by results. This type of commercial approach is more complex and has a greater number of moving parts but provides benefits to both buyer and supplier. For the supplier it provides a commercial incentive to deliver the outcomes of the project and - by logical extension - it increases the likelihood of those outcomes being achieved (for the benefit of the buyer). Payment by results offer a greater incentive to the provider and is, arguably, more appropriate for an agile contract.",
+      "ordinal": 72,
+      "heading_path": [
+        "1. Scope and Context",
+        "4. Recommended Pricing Models",
+        "Scenario 2 - Payment by Results"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00073",
+      "block_type": "p",
+      "text": "4.16. This contracting approach could take a number of different forms depending on the specific nature of the project and should be carefully considered by the buyer in conjunction with broader guidance on Risk Allocation and Pricing (PDF, 1020 kb) .",
+      "ordinal": 73,
+      "heading_path": [
+        "1. Scope and Context",
+        "4. Recommended Pricing Models",
+        "Scenario 2 - Payment by Results"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00074",
+      "block_type": "p",
+      "text": "4.17. The payment by results model should ideally include some fixed-price components so that the supplier has certainty of revenue (to cover fixed-costs) with additional payments being linked to the achievement of outcomes. One of the reasons that this model works well - particularly in software development - is that it enables the supplier to flow-down the benefits to individuals delivering the work (i.e. through performance related pay), as well as subcontractors.",
+      "ordinal": 74,
+      "heading_path": [
+        "1. Scope and Context",
+        "4. Recommended Pricing Models",
+        "Scenario 2 - Payment by Results"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00075",
+      "block_type": "p",
+      "text": "4.18. To put this into context, one way in which this could be delivered would be to use story points as a measure of the desired outcomes. The contracting authority would construct the contract to include a fixed-price element so that the provider is able to deploy its personnel on commencement. The payment by results element could then be structured around delivering an agreed number of story points, either expressed numerically or as a percentage of the story points in scope for the sprint cycle. This would also enable a tiered approach with the outcome payment reducing proportionately in line with the reduction in story points delivered.",
+      "ordinal": 75,
+      "heading_path": [
+        "1. Scope and Context",
+        "4. Recommended Pricing Models",
+        "Scenario 2 - Payment by Results"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00076",
+      "block_type": "heading",
+      "text": "Time & Materials",
+      "ordinal": 76,
+      "heading_path": [
+        "1. Scope and Context",
+        "4. Recommended Pricing Models",
+        "Time & Materials"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00077",
+      "block_type": "p",
+      "text": "4.19. Time & Materials (T&M) often seems the most obvious pricing model to employ when contracting for Agile as it offers a high-level of flexibility, which seemingly supports agile principles. However, buyers should be aware that using T&M can drive the wrong behaviours. First, the Contracting Authority bears the risk of poor quality. While it is true that we can never truly outsource the risk of delivery in the public sector, T&M does not incentivise the supplier to deliver as much as other pricing models. Second, T&M may encourage the supplier to sell time, rather than delivery of the required outcome. However, each project varies and, in some cases, T&M may be the most suitable approach.",
+      "ordinal": 77,
+      "heading_path": [
+        "1. Scope and Context",
+        "4. Recommended Pricing Models",
+        "Time & Materials"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00078",
+      "block_type": "p",
+      "text": "4.20. Where T&M is more likely to be appropriate is as part of a hybrid pricing structure whereby any initial work during ‘discovery’ is contracted for on a T&M basis so that the provider is able to scope the requirement and give a more accurate cost that is based on an improved understanding of the scale and complexity of the project. After discovery, the parties should either transition to a more structured model or put in place delivery mechanisms that give both parties clarity and take a balanced view of commercial risk (so that it sits with the party that is best able to manage it).",
+      "ordinal": 78,
+      "heading_path": [
+        "1. Scope and Context",
+        "4. Recommended Pricing Models",
+        "Time & Materials"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00079",
+      "block_type": "p",
+      "text": "4.21. Irrespective of whether you choose to use payment by results or a T&M pricing model (or a combination of the two) what is important is that the contract has appropriate metrics to monitor progress. This could be through releases or iterations of the software, measuring productivity through burndown charts or the number of story points accepted.",
+      "ordinal": 79,
+      "heading_path": [
+        "1. Scope and Context",
+        "4. Recommended Pricing Models",
+        "Time & Materials"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00080",
+      "block_type": "p",
+      "text": "4.22. It is also important that the commercial structure supports exit without the authority incurring termination costs or the provider being saddled with stranded costs. This balances, and minimises, the risk to each party so that the worst case scenario is that the cost of the sprint cycle is indicative of each party’s maximum exposure.",
+      "ordinal": 80,
+      "heading_path": [
+        "1. Scope and Context",
+        "4. Recommended Pricing Models",
+        "Time & Materials"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00081",
+      "block_type": "heading",
+      "text": "Summary",
+      "ordinal": 81,
+      "heading_path": [
+        "1. Scope and Context",
+        "4. Recommended Pricing Models",
+        "Summary"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00082",
+      "block_type": "p",
+      "text": "4.23. In determining the most appropriate commercial approach to contracting for agile, the buyer should focus on a number of variables and prerequisites. Many of these are less about the commercial matters themselves and are more about establishing and defining the environment and culture within which the project is being delivered. This enables sound commercial principles to be woven into the agile delivery methodology of the project.",
+      "ordinal": 82,
+      "heading_path": [
+        "1. Scope and Context",
+        "4. Recommended Pricing Models",
+        "Summary"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00083",
+      "block_type": "p",
+      "text": "4.24. There is no ‘one size fits all’ approach to contracting for agile. When designing the approach, project teams should consider the following principles:",
+      "ordinal": 83,
+      "heading_path": [
+        "1. Scope and Context",
+        "4. Recommended Pricing Models",
+        "Summary"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00084",
+      "block_type": "heading",
+      "text": "Vision",
+      "ordinal": 84,
+      "heading_path": [
+        "1. Scope and Context",
+        "4. Recommended Pricing Models",
+        "Vision"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00085",
+      "block_type": "p",
+      "text": "It is imperative that there is a recorded vision of the desired outcome, a ‘North Star’, the journey to which needs to be re-visited and perhaps updated at agreed points within the development.",
+      "ordinal": 85,
+      "heading_path": [
+        "1. Scope and Context",
+        "4. Recommended Pricing Models",
+        "Vision"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00086",
+      "block_type": "heading",
+      "text": "Collaborate",
+      "ordinal": 86,
+      "heading_path": [
+        "1. Scope and Context",
+        "4. Recommended Pricing Models",
+        "Vision",
+        "Collaborate"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00087",
+      "block_type": "p",
+      "text": "Digital teams must be included in the design of the commercial model. Everyone should be clear on contractual arrangements; it is a shared responsibility.",
+      "ordinal": 87,
+      "heading_path": [
+        "1. Scope and Context",
+        "4. Recommended Pricing Models",
+        "Vision",
+        "Collaborate"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00088",
+      "block_type": "heading",
+      "text": "Know your supplier",
+      "ordinal": 88,
+      "heading_path": [
+        "1. Scope and Context",
+        "4. Recommended Pricing Models",
+        "Vision",
+        "Know your supplier"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00089",
+      "block_type": "p",
+      "text": "Supplier relationship management is essential, it will take time for a supplier to understand an organisation, including its release cycles, approvals and technology choices.",
+      "ordinal": 89,
+      "heading_path": [
+        "1. Scope and Context",
+        "4. Recommended Pricing Models",
+        "Vision",
+        "Know your supplier"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00090",
+      "block_type": "heading",
+      "text": "Know your agile process",
+      "ordinal": 90,
+      "heading_path": [
+        "1. Scope and Context",
+        "4. Recommended Pricing Models",
+        "Vision",
+        "Know your agile process"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00091",
+      "block_type": "p",
+      "text": "Define the agile process and have a shareable dictionary of terms and meanings. Set out a clear release cycle process, with defined tool sets, preferably the department’s own.",
+      "ordinal": 91,
+      "heading_path": [
+        "1. Scope and Context",
+        "4. Recommended Pricing Models",
+        "Vision",
+        "Know your agile process"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00092",
+      "block_type": "heading",
+      "text": "Agile ceremonies (standups)",
+      "ordinal": 92,
+      "heading_path": [
+        "1. Scope and Context",
+        "4. Recommended Pricing Models",
+        "Vision",
+        "Agile ceremonies (standups)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00093",
+      "block_type": "p",
+      "text": "Should include commercial/contract managers and project managers. If the project is having issues, have a culture of openness and attempt to work with a supplier before it edges towards dispute.",
+      "ordinal": 93,
+      "heading_path": [
+        "1. Scope and Context",
+        "4. Recommended Pricing Models",
+        "Vision",
+        "Agile ceremonies (standups)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00094",
+      "block_type": "heading",
+      "text": "Define Requirements",
+      "ordinal": 94,
+      "heading_path": [
+        "1. Scope and Context",
+        "4. Recommended Pricing Models",
+        "Vision",
+        "Define Requirements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00095",
+      "block_type": "p",
+      "text": "Requirements should have service goals and focus on “will” rather than “should”. Functional, non-functional and performance should all be considered.",
+      "ordinal": 95,
+      "heading_path": [
+        "1. Scope and Context",
+        "4. Recommended Pricing Models",
+        "Vision",
+        "Define Requirements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00096",
+      "block_type": "heading",
+      "text": "Payments",
+      "ordinal": 96,
+      "heading_path": [
+        "1. Scope and Context",
+        "4. Recommended Pricing Models",
+        "Vision",
+        "Payments"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00097",
+      "block_type": "p",
+      "text": "Give consideration to the selection of payment milestones, ensure that the delivery of non-functional requirements are included, always avoid basing payment milestones on the delivery of the agile process itself, (e.g. completion of a specific number of sprints), link them to the deliverables or retainer based on code releases.",
+      "ordinal": 97,
+      "heading_path": [
+        "1. Scope and Context",
+        "4. Recommended Pricing Models",
+        "Vision",
+        "Payments"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00098",
+      "block_type": "p",
+      "text": "4.25. When using an agile approach to contracting you should bear in mind that a degree of failure is quite likely and almost inevitable. The agile approach embraces this by being set up to identify failure early (thus minimising the scale of the ‘failure’) and learn from what has worked as well as what has not worked. This constant feedback loop is essential to the success of agile project delivery.",
+      "ordinal": 98,
+      "heading_path": [
+        "1. Scope and Context",
+        "4. Recommended Pricing Models",
+        "Vision",
+        "Payments"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00099",
+      "block_type": "heading",
+      "text": "5. Procuring an Agile Contract",
+      "ordinal": 99,
+      "heading_path": [
+        "1. Scope and Context",
+        "5. Procuring an Agile Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00100",
+      "block_type": "p",
+      "text": "5.1. A successful agile contract should balance the creation of a collaborative culture which allows for continuous delivery of software and embraces change, with the provision of sufficient commercial protection for the contracting authority. It needs to incentivise all parties to work together and take a shared responsibility for success. Below are three principles that Contracting Authorities should consider following when contracting for Agile.",
+      "ordinal": 100,
+      "heading_path": [
+        "1. Scope and Context",
+        "5. Procuring an Agile Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00101",
+      "block_type": "p",
+      "text": "1 - Describe the interactions, not the plan.",
+      "ordinal": 101,
+      "heading_path": [
+        "1. Scope and Context",
+        "5. Procuring an Agile Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00102",
+      "block_type": "p",
+      "text": "5.2. Rather than focusing on a pre-defined plan and set of requirements, an agile contract should describe the overall outcomes and the interactions that will take place between the customer and supplier to achieve the objective (or Epic). For example, how long will sprints be? How frequently are they envisaged to take place? Will testing take place within sprints or outside of them? In this way, development and prioritisation of the requirements will be conducted within a clear framework. Getting clarity on who is doing what and which agile ceremonies will be followed (this is important given the variety of agile methodologies) will help avoid confusion down the line.",
+      "ordinal": 102,
+      "heading_path": [
+        "1. Scope and Context",
+        "5. Procuring an Agile Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00103",
+      "block_type": "p",
+      "text": "2 - Define clear quality standards.",
+      "ordinal": 103,
+      "heading_path": [
+        "1. Scope and Context",
+        "5. Procuring an Agile Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00104",
+      "block_type": "p",
+      "text": "5.3. The contract should be clear on quality standards and thresholds. This means stating when a User Story is ready to enter sprint planning through a “Definition of Ready’’; stating when it is ready to be deployed through a “Definition of Done”; and setting out what level of defects is acceptable post-release. The customer needs the ability to hold a supplier to account for quality. This should be proportionate to the scope of the work, and is also dependent on the customer fulfilling its own obligations such as the quality of design (if the customer is responsible for this).",
+      "ordinal": 104,
+      "heading_path": [
+        "1. Scope and Context",
+        "5. Procuring an Agile Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00105",
+      "block_type": "p",
+      "text": "3 - Set out the commercial principles upfront and manage through governance.",
+      "ordinal": 105,
+      "heading_path": [
+        "1. Scope and Context",
+        "5. Procuring an Agile Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00106",
+      "block_type": "p",
+      "text": "5.4. Agree principles upfront with the supplier that explicitly describe how risk will be shared. Define a governance mechanism that requires the parties to come together if the velocity at which working software is being delivered, or the quality of it, falls below the agreed threshold. In the event the issue is the fault of the supplier, the customer’s commercial recourse needs to be clearly defined - such as an increase in supplier capacity at no cost, a financial credit or a termination right.",
+      "ordinal": 106,
+      "heading_path": [
+        "1. Scope and Context",
+        "5. Procuring an Agile Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00107",
+      "block_type": "p",
+      "text": "5.5. The Contract should set out:",
+      "ordinal": 107,
+      "heading_path": [
+        "1. Scope and Context",
+        "5. Procuring an Agile Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00108",
+      "block_type": "li",
+      "text": "What the project is trying to achieve",
+      "ordinal": 108,
+      "heading_path": [
+        "1. Scope and Context",
+        "5. Procuring an Agile Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00109",
+      "block_type": "li",
+      "text": "Rules of engagement i.e. how the project will be managed - the nature of agile means that this should focus on the day-to-day running of the project",
+      "ordinal": 109,
+      "heading_path": [
+        "1. Scope and Context",
+        "5. Procuring an Agile Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00110",
+      "block_type": "li",
+      "text": "Roles and responsibilities",
+      "ordinal": 110,
+      "heading_path": [
+        "1. Scope and Context",
+        "5. Procuring an Agile Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00111",
+      "block_type": "li",
+      "text": "‘Definition of Ready’",
+      "ordinal": 111,
+      "heading_path": [
+        "1. Scope and Context",
+        "5. Procuring an Agile Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00112",
+      "block_type": "li",
+      "text": "‘Definition of Done’ so parties know whether the results of the Sprint and the project have been completed - note that this definition can be amended in relation to each requirement developed during the relevant Sprint",
+      "ordinal": 112,
+      "heading_path": [
+        "1. Scope and Context",
+        "5. Procuring an Agile Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00113",
+      "block_type": "li",
+      "text": "Customer requirements and supplier solution",
+      "ordinal": 113,
+      "heading_path": [
+        "1. Scope and Context",
+        "5. Procuring an Agile Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00114",
+      "block_type": "li",
+      "text": "Performance",
+      "ordinal": 114,
+      "heading_path": [
+        "1. Scope and Context",
+        "5. Procuring an Agile Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00115",
+      "block_type": "li",
+      "text": "Pricing",
+      "ordinal": 115,
+      "heading_path": [
+        "1. Scope and Context",
+        "5. Procuring an Agile Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00116",
+      "block_type": "li",
+      "text": "As well as other legal and commercial considerations",
+      "ordinal": 116,
+      "heading_path": [
+        "1. Scope and Context",
+        "5. Procuring an Agile Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00117",
+      "block_type": "p",
+      "text": "5.6. Further details on these can be in the table found below.",
+      "ordinal": 117,
+      "heading_path": [
+        "1. Scope and Context",
+        "5. Procuring an Agile Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00118",
+      "block_type": "table",
+      "text": "Contract Element\tWhat to include\nRequirements or ‘Terms of Reference’\t- The contract should include a statement acknowledging that the Terms of Reference set out the requirements at the service commencement date and these will continue to be developed throughout the Project. - Should be set out as functional and non-functional requirements, commonly written as User Stories, which set out what the end user is trying to achieve - “As a ‘end user role’, ‘I want requirement, feature or goal’ so that ‘reason, benefit or value’” - Should be prioritised (can use the “MoSCoW” method) - by the Product Owner and effort estimated by the Development Team and agreed with Product Owner.\nSupplier Solution\t- Sets out how the supplier proposes to satisfy each of the requirements - starts at a high level solution and evolves during the project. As agile methodologies focus on the delivery of outcomes, this may take the form of the supplier setting out how they intend to achieve outcomes, rather than a large amount of detail on delivery items. - Should set out the Product or Outcome Description produced at the end of the project - detailed description that demonstrates how the solution is consistent with the Product Vision - the contract should set out the process for preparing and agreeing this document.\nPerformance\t- Best practice suggests that agile teams should design and use metrics in response to identified needs rather than pre-defined metrics. - Consider a possible pilot period to identify and test appropriate metrics which are linked to high level goals, measure outcomes and are used for a specific purpose - Examples include - unfinished stories, time spent on story estimation, unplanned changes, customer and employee satisfaction\nPricing\t- Must be in relation to individual iterations and the project as a whole. - Please see the section on Commercial Models above.",
+      "ordinal": 118,
+      "heading_path": [
+        "1. Scope and Context",
+        "5. Procuring an Agile Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {
+        "rows": [
+          [
+            "Contract Element",
+            "What to include"
+          ],
+          [
+            "Requirements or ‘Terms of Reference’",
+            "- The contract should include a statement acknowledging that the Terms of Reference set out the requirements at the service commencement date and these will continue to be developed throughout the Project. - Should be set out as functional and non-functional requirements, commonly written as User Stories, which set out what the end user is trying to achieve - “As a ‘end user role’, ‘I want requirement, feature or goal’ so that ‘reason, benefit or value’” - Should be prioritised (can use the “MoSCoW” method) - by the Product Owner and effort estimated by the Development Team and agreed with Product Owner."
+          ],
+          [
+            "Supplier Solution",
+            "- Sets out how the supplier proposes to satisfy each of the requirements - starts at a high level solution and evolves during the project. As agile methodologies focus on the delivery of outcomes, this may take the form of the supplier setting out how they intend to achieve outcomes, rather than a large amount of detail on delivery items. - Should set out the Product or Outcome Description produced at the end of the project - detailed description that demonstrates how the solution is consistent with the Product Vision - the contract should set out the process for preparing and agreeing this document."
+          ],
+          [
+            "Performance",
+            "- Best practice suggests that agile teams should design and use metrics in response to identified needs rather than pre-defined metrics. - Consider a possible pilot period to identify and test appropriate metrics which are linked to high level goals, measure outcomes and are used for a specific purpose - Examples include - unfinished stories, time spent on story estimation, unplanned changes, customer and employee satisfaction"
+          ],
+          [
+            "Pricing",
+            "- Must be in relation to individual iterations and the project as a whole. - Please see the section on Commercial Models above."
+          ]
+        ],
+        "row_count": 5
+      }
+    },
+    {
+      "block_id": "b00119",
+      "block_type": "p",
+      "text": "5.7. As with any methodology, employing agile without proper contracting and/or contract management will increase legal and commercial risk exposure. For example, if not contracted for properly, contracting authorities may have fewer rights and remedies for defects and delays because of the lack of defined outputs from the start when using agile. Therefore, the contract should also set out:",
+      "ordinal": 119,
+      "heading_path": [
+        "1. Scope and Context",
+        "5. Procuring an Agile Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00120",
+      "block_type": "li",
+      "text": "The proposed Delivery Manager (also known as a ‘Scrum Master’) and Development Team’s Skill level, experience and qualifications. As well as a supplier obligation to ensure Development Team members are dedicated to the project and will not be reassigned. The Digital, Data and Technology Profession Capability Framework outlines the skills required to perform each of the roles it identifies. This could be used to inform how contracting authorities assess supplier’s bids in respect of their proposed Development Team.",
+      "ordinal": 120,
+      "heading_path": [
+        "1. Scope and Context",
+        "5. Procuring an Agile Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00121",
+      "block_type": "li",
+      "text": "The Digital, Data and Technology Profession Capability Framework outlines the skills required to perform each of the roles it identifies. This could be used to inform how contracting authorities assess supplier’s bids in respect of their proposed Development Team.",
+      "ordinal": 121,
+      "heading_path": [
+        "1. Scope and Context",
+        "5. Procuring an Agile Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00122",
+      "block_type": "li",
+      "text": "A description of project tool format, creation and development e.g. Product Backlog. Contract should include supplier obligation to produce estimates with due care and diligence",
+      "ordinal": 122,
+      "heading_path": [
+        "1. Scope and Context",
+        "5. Procuring an Agile Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00123",
+      "block_type": "li",
+      "text": "A robust dispute resolution procedure",
+      "ordinal": 123,
+      "heading_path": [
+        "1. Scope and Context",
+        "5. Procuring an Agile Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00124",
+      "block_type": "li",
+      "text": "Warranties that outcomes are free from defects and of satisfactory quality - this could be for the outcome(s) of each cycle if appropriate. Also warranties regarding open source software. Product / Outcome Description can form the basis of warranties.",
+      "ordinal": 124,
+      "heading_path": [
+        "1. Scope and Context",
+        "5. Procuring an Agile Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00125",
+      "block_type": "li",
+      "text": "Standard limitations of liability and IP indemnities.",
+      "ordinal": 125,
+      "heading_path": [
+        "1. Scope and Context",
+        "5. Procuring an Agile Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00126",
+      "block_type": "li",
+      "text": "Project delays - an overall timetable should be agreed with delays measured against this rather than individual Sprints being held to specific timescales- liquidated damages should be used in the event of supplier failure.",
+      "ordinal": 126,
+      "heading_path": [
+        "1. Scope and Context",
+        "5. Procuring an Agile Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00127",
+      "block_type": "heading",
+      "text": "6. Managing an Agile Contract",
+      "ordinal": 127,
+      "heading_path": [
+        "1. Scope and Context",
+        "6. Managing an Agile Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00128",
+      "block_type": "p",
+      "text": "6.1. Any pricing models employed, including those set out in Section 3 (which are by no means exhaustive and, in any case, will have numerous variations) - will require a strong element of collaboration during delivery. The delivery teams - and notably that of the Contracting Authority - should include a commercial role to ensure that both parties undertake operational delivery within the spirit of the contract.",
+      "ordinal": 128,
+      "heading_path": [
+        "1. Scope and Context",
+        "6. Managing an Agile Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00129",
+      "block_type": "p",
+      "text": "6.2. As with any contract it is important that the Contracting Authority acts as an intelligent client to ensure that it understands the approach, taken by the supplier to achieving the intended outcomes. This is especially important in an agile contract given the need to manage fluidity and implement corrective approaches based on what the delivery team(s) have learnt. This could be achieved through an intelligent client function (ICF) - which is by no means unique to an agile contract - and which mitigates the risk of the supplier producing a solution that only it understands.",
+      "ordinal": 129,
+      "heading_path": [
+        "1. Scope and Context",
+        "6. Managing an Agile Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00130",
+      "block_type": "p",
+      "text": "6.3. It is important that the delivery team operates in an environment with clear governance and reporting. This will manifest itself through events such as sprint planning meetings, daily standups (scrums), sprint reviews and sprint retrospectives. During delivery, the exact nature of what the delivery team monitors and reports on may vary but there are common tools that are used to support this. These include burndown charts showing the number of story points successfully delivered and dashboards that report on the ‘flow’ and ‘velocity’ of the sprint team(s). Without this information the programme cannot accurately monitor the progress being made, and course-correct where appropriate, in order to maximise the intended outcomes that are achieved within the timebox.",
+      "ordinal": 130,
+      "heading_path": [
+        "1. Scope and Context",
+        "6. Managing an Agile Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00131",
+      "block_type": "p",
+      "text": "6.4. As a fundamental principle, the ICF will retain control of the project scope, including the movement of user stories up/down the backlog. This is important because the agile approach allows for user stories to be reprioritised providing that it is done in a structured way. Whilst the collaborative nature of agile contracts will require that planning, prioritising and sizing (story points) are a joint endeavour, the buyer must retain ownership of the backlog.",
+      "ordinal": 131,
+      "heading_path": [
+        "1. Scope and Context",
+        "6. Managing an Agile Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00132",
+      "block_type": "p",
+      "text": "6.5. The structure and approach should not allow, for example, scope creep or enable the supplier to defer all of the difficult items until later in the delivery timeline. Whilst an element of ‘quick wins’ to deliver early value is both sensible and acceptable, it presents a risk to the Contracting Authority that insufficient value is realised in aggregation at the end of the project. After an initial period of early value has been derived and the supplier’s delivery team has achieved a level of momentum, it is important that the ICF ensures that some of the more complex and demanding user stories are part of the subsequent sprint cycle.",
+      "ordinal": 132,
+      "heading_path": [
+        "1. Scope and Context",
+        "6. Managing an Agile Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00133",
+      "block_type": "p",
+      "text": "6.6. The inclusion of more demanding user stories - across a range of epics - is hugely important so that the ICF can ensure that feedback and lessons learnt are incorporated into future planning cycles. This foresight is one of the benefits of agile over waterfall, in that it allows for early feedback to be incorporated before the project becomes too tangential.",
+      "ordinal": 133,
+      "heading_path": [
+        "1. Scope and Context",
+        "6. Managing an Agile Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00134",
+      "block_type": "p",
+      "text": "6.7. Further details on governing an agile project can be found in the Service Manual .",
+      "ordinal": 134,
+      "heading_path": [
+        "1. Scope and Context",
+        "6. Managing an Agile Contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00135",
+      "block_type": "heading",
+      "text": "7. Summary",
+      "ordinal": 135,
+      "heading_path": [
+        "1. Scope and Context",
+        "7. Summary"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00136",
+      "block_type": "p",
+      "text": "7.1. This Guidance Note has explored how to apply commercial principles to agile project delivery methodologies. In particular, this document has focussed on suitable commercial models for agile, the approach to governance, what to include in the contract and how to act as an Intelligent Client Function (ICF) post-award to ensure the project remains focussed and the desired outcomes are achieved. Each project will be different, but following the principles and best practices detailed in this document, as well as avoiding the common pitfalls highlighted throughout, should increase the likelihood of success of your agile project.",
+      "ordinal": 136,
+      "heading_path": [
+        "1. Scope and Context",
+        "7. Summary"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00137",
+      "block_type": "p",
+      "text": "7.2.For further information on Agile Delivery, please refer to the Service Manual .",
+      "ordinal": 137,
+      "heading_path": [
+        "1. Scope and Context",
+        "7. Summary"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "Service Manual",
+      "href": "https://www.gov.uk/service-manual/agile-delivery",
+      "block_id": "b00001",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "agilemanifesto.org/",
+      "href": "http://agilemanifesto.org/",
+      "block_id": "b00015",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Digital, Data and Technology Profession Capability Framework",
+      "href": "https://www.gov.uk/government/collections/digital-data-and-technology-profession-capability-framework",
+      "block_id": "b00045",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Risk Allocation and Pricing Approaches Guidance Note (PDF, 1,020 kb)",
+      "href": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/987140/Risk_allocation_and_pricing_approaches_guidance_note_May_2021.pdf",
+      "block_id": "b00056",
+      "ordinal": 3,
+      "link_type": "ATTACHMENT"
+    },
+    {
+      "text": "Risk Allocation and Pricing (PDF, 1020 kb)",
+      "href": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/987140/Risk_allocation_and_pricing_approaches_guidance_note_May_2021.pdf",
+      "block_id": "b00073",
+      "ordinal": 4,
+      "link_type": "ATTACHMENT"
+    },
+    {
+      "text": "Digital, Data and Technology Profession Capability Framework",
+      "href": "https://www.gov.uk/government/collections/digital-data-and-technology-profession-capability-framework",
+      "block_id": "b00120",
+      "ordinal": 5,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Digital, Data and Technology Profession Capability Framework",
+      "href": "https://www.gov.uk/government/collections/digital-data-and-technology-profession-capability-framework",
+      "block_id": "b00121",
+      "ordinal": 6,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Service Manual",
+      "href": "https://www.gov.uk/service-manual/agile-delivery",
+      "block_id": "b00134",
+      "ordinal": 7,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Service Manual",
+      "href": "https://www.gov.uk/service-manual/agile-delivery",
+      "block_id": "b00137",
+      "ordinal": 8,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Contracting For Agile Guidance Note (HTML)",
+      "href": "https://www.gov.uk/government/publications/the-digital-data-and-technology-playbook/contracting-for-agile-guidance-note-html",
+      "block_id": "__document__",
+      "ordinal": 9,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2019 to 2022 Johnson Conservative government",
+      "href": "https://www.gov.uk/government/2019-to-2022-johnson-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 10,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Digital, Data and Technology Profession",
+      "href": "https://www.gov.uk/government/organisations/digital-data-and-technology-profession",
+      "block_id": "__document__",
+      "ordinal": 11,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "The Digital, Data and Technology Playbook",
+      "href": "https://www.gov.uk/government/publications/the-digital-data-and-technology-playbook",
+      "block_id": "__document__",
+      "ordinal": 12,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Digital, Data and Technology Profession",
+      "href": "https://www.gov.uk/government/organisations/digital-data-and-technology-profession",
+      "block_id": "__document__",
+      "ordinal": 13,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015",
+      "block_id": "b00062",
+      "start": 440,
+      "end": 456,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 5",
+      "block_id": "b00064",
+      "start": 431,
+      "end": 440,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "5"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 3",
+      "block_id": "b00128",
+      "start": 61,
+      "end": 70,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "3"
+      }
+    }
+  ],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/987140/Risk_allocation_and_pricing_approaches_guidance_note_May_2021.pdf",
+      "title": "Risk Allocation and Pricing Approaches Guidance Note (PDF, 1,020 kb)",
+      "discovered_in_block": "b00056"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,869 @@
+{
+  "document_id": "ed3bcb12-6d26-4af8-87f5-6fcdbc46a407",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/f79c145bc65bb74fd2e55a24.json",
+  "input_sha256": "561e7bfe8e87b8b76af65d66fd80fc0f31bbd63436e620befa2c0ee0881eaaee",
+  "processed_at": "2026-08-27T02:26:48.106335+00:00",
+  "title": "PPN 04/23 - Frequently Asked Questions (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/ppn-0423-procuring-steel-in-government-contracts/ppn-0423-frequently-asked-questions-html",
+  "description": null,
+  "publication_date": "2023-04-11T09:00:07+01:00",
+  "updated_date": "2023-04-11T09:00:06+01:00",
+  "source_metadata": {
+    "content_id": "ed3bcb12-6d26-4af8-87f5-6fcdbc46a407",
+    "base_path": "/government/publications/ppn-0423-procuring-steel-in-government-contracts/ppn-0423-frequently-asked-questions-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "General",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q. Why is the steel procurement policy being updated?",
+      "ordinal": 1,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q. What are the key updates contained within the PPN and guidance?",
+      "ordinal": 3,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q. Who does the PPN and guidance apply to?",
+      "ordinal": 6,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q. Is the PPN and guidance applicable to the wider public sector?",
+      "ordinal": 8,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q. Most PPNs only apply to procurements conducted under the Public Contracts Regulations 2015. Why does this PPN also apply to procurements conducted under the Utilities Contracts Regulations 2016, the Defence and Security Public Contracts Regulations 2011, and the Concessions Contracts Regulations 2016?",
+      "ordinal": 10,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q. Does the PPN and guidance apply to framework agreements?",
+      "ordinal": 12,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q. When does the PPN apply from?",
+      "ordinal": 14,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Monitoring and Compliance",
+      "ordinal": 16,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q. Which organisations do the data collection requirements apply to?",
+      "ordinal": 17,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q. What is the difference between the actuals and the pipeline data?",
+      "ordinal": 19,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q. What counts as actuals data? Is it when contracts for the supply of steel to public projects/programmes are placed?",
+      "ordinal": 22,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q. Why are the data collection thresholds not based on contract value?",
+      "ordinal": 24,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q. Is the origin of steel recorded within the actuals template always indicative of where the steel was melted and poured?",
+      "ordinal": 27,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q. Are suppliers required to trace where the steel was melted and poured if the inspection certificate does not contain the relevant information?",
+      "ordinal": 29,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q. Is the exact phrase “melted and poured in (name of country)” required for suppliers to record the origin as also being the place that the steel was melted and poured?",
+      "ordinal": 31,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q. When should in-scope organisations submit the data to the Department for Business and Trade?",
+      "ordinal": 33,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q. Do In-scope Organisations have to use the steel product and origin data requirement contract clause provided, within their contracts?",
+      "ordinal": 35,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q. Is the steel products list exhaustive?",
+      "ordinal": 37,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Contact",
+      "ordinal": 39,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Q. What if I have a question which is not covered here?",
+      "ordinal": 40,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "General",
+      "ordinal": 0,
+      "heading_path": [
+        "General"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "heading",
+      "text": "Q. Why is the steel procurement policy being updated?",
+      "ordinal": 1,
+      "heading_path": [
+        "General",
+        "Q. Why is the steel procurement policy being updated?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "In March 2021, Government launched the Steel Procurement Taskforce, bringing together representatives from across the UK government, the 6 major steel companies in the UK, as well as UK Steel, the sector’s trade association, trade unions and the devolved administrations. The Taskforce worked collaboratively to explore ways in which the UK steel sector could best position itself for success. The final report published in February 2022, recommended that existing procurement policy and guidance on buying steel in government projects, was updated to better reflect changes to the commercial policy and project appraisals landscape since PPN 11/16 was published.",
+      "ordinal": 2,
+      "heading_path": [
+        "General",
+        "Q. Why is the steel procurement policy being updated?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "heading",
+      "text": "Q. What are the key updates contained within the PPN and guidance?",
+      "ordinal": 3,
+      "heading_path": [
+        "General",
+        "Q. Why is the steel procurement policy being updated?",
+        "Q. What are the key updates contained within the PPN and guidance?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "The update to the steel procurement policy note reminds central government organisations when and how to apply policies, tools and methodologies related to the design of relevant steel procurements. This is to ensure there is a broad consideration of the factors (i.e. social, environmental and economic) which create a level playing field for UK producers of steel products throughout the commercial life cycle. For a summary of these policies, tools and methodologies, please refer to the Annex of the guidance.",
+      "ordinal": 4,
+      "heading_path": [
+        "General",
+        "Q. Why is the steel procurement policy being updated?",
+        "Q. What are the key updates contained within the PPN and guidance?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "The PPN also clarifies the scope of reporting requirements on origin data which forms part of the annual steel data return to the Department for Business and Trade. See below for further information.",
+      "ordinal": 5,
+      "heading_path": [
+        "General",
+        "Q. Why is the steel procurement policy being updated?",
+        "Q. What are the key updates contained within the PPN and guidance?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "heading",
+      "text": "Q. Who does the PPN and guidance apply to?",
+      "ordinal": 6,
+      "heading_path": [
+        "General",
+        "Q. Why is the steel procurement policy being updated?",
+        "Q. Who does the PPN and guidance apply to?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "This PPN applies to all Central Government Departments, Executive Agencies and Non Departmental Public Bodies when conducting procurements covered by Part 2 of the Public Contracts Regulations 2015, the Utilities Contracts Regulations 2016, the Defence and Security Public Contracts Regulations 2011, and the Concessions Contracts Regulations 2016, where steel is being procured directly or indirectly.",
+      "ordinal": 7,
+      "heading_path": [
+        "General",
+        "Q. Why is the steel procurement policy being updated?",
+        "Q. Who does the PPN and guidance apply to?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "heading",
+      "text": "Q. Is the PPN and guidance applicable to the wider public sector?",
+      "ordinal": 8,
+      "heading_path": [
+        "General",
+        "Q. Why is the steel procurement policy being updated?",
+        "Q. Is the PPN and guidance applicable to the wider public sector?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "Other public sector contracting authorities are encouraged to consider applying the best practice set out in the guidance, as appropriate, where they do not have equivalent measures in place. They should do so, in accordance with the relevant instructions in each case. Local authorities choosing to follow this guidance should ensure that they do so in light of relevant obligations such as those set out in section 17 of the Local Government Act 1988 and their Best Value Duty.",
+      "ordinal": 9,
+      "heading_path": [
+        "General",
+        "Q. Why is the steel procurement policy being updated?",
+        "Q. Is the PPN and guidance applicable to the wider public sector?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "heading",
+      "text": "Q. Most PPNs only apply to procurements conducted under the Public Contracts Regulations 2015. Why does this PPN also apply to procurements conducted under the Utilities Contracts Regulations 2016, the Defence and Security Public Contracts Regulations 2011, and the Concessions Contracts Regulations 2016?",
+      "ordinal": 10,
+      "heading_path": [
+        "General",
+        "Q. Why is the steel procurement policy being updated?",
+        "Q. Most PPNs only apply to procurements conducted under the Public Contracts Regulations 2015. Why does this PPN also apply to procurements conducted under the Utilities Contracts Regulations 2016, the Defence and Security Public Contracts Regulations 2011, and the Concessions Contracts Regulations 2016?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "Many large public infrastructure projects requiring steel are likely to be transport or military projects that would not necessarily be caught by the Public Contracts Regulations.",
+      "ordinal": 11,
+      "heading_path": [
+        "General",
+        "Q. Why is the steel procurement policy being updated?",
+        "Q. Most PPNs only apply to procurements conducted under the Public Contracts Regulations 2015. Why does this PPN also apply to procurements conducted under the Utilities Contracts Regulations 2016, the Defence and Security Public Contracts Regulations 2011, and the Concessions Contracts Regulations 2016?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "heading",
+      "text": "Q. Does the PPN and guidance apply to framework agreements?",
+      "ordinal": 12,
+      "heading_path": [
+        "General",
+        "Q. Why is the steel procurement policy being updated?",
+        "Q. Does the PPN and guidance apply to framework agreements?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "The PPN and guidance also applies to procurements establishing framework agreements under Part 2 of the PCRs, UCRs and DSPCRs. It should be applied through the commercial lifecycle as appropriate. When calling off contracts from a framework agreement, it is not necessary to repeat actions that have already been taken when the framework agreement was set up and the guidance applies only as appropriate, for example, effective contract management is still important to ensure that contractual obligations, including those in relation to steel, are being met. In-scope Organisations should refer to the relevant policy, tool or methodology for specific guidance on their application to framework agreements and contracts awarded under a framework agreement.",
+      "ordinal": 13,
+      "heading_path": [
+        "General",
+        "Q. Why is the steel procurement policy being updated?",
+        "Q. Does the PPN and guidance apply to framework agreements?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "heading",
+      "text": "Q. When does the PPN apply from?",
+      "ordinal": 14,
+      "heading_path": [
+        "General",
+        "Q. Why is the steel procurement policy being updated?",
+        "Q. When does the PPN apply from?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "The PPN applies with immediate effect.",
+      "ordinal": 15,
+      "heading_path": [
+        "General",
+        "Q. Why is the steel procurement policy being updated?",
+        "Q. When does the PPN apply from?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "heading",
+      "text": "Monitoring and Compliance",
+      "ordinal": 16,
+      "heading_path": [
+        "General",
+        "Monitoring and Compliance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "heading",
+      "text": "Q. Which organisations do the data collection requirements apply to?",
+      "ordinal": 17,
+      "heading_path": [
+        "General",
+        "Monitoring and Compliance",
+        "Q. Which organisations do the data collection requirements apply to?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "p",
+      "text": "The data requirements apply to all In-scope Organisations, where the actuals data on steel procured (and delivered) on projects/programmes in the previous financial year has (i) a value of £10 million or more; and (ii) a value of less than £10 million where it is anticipated that the project will require in excess of 500 tonnes of steel.",
+      "ordinal": 18,
+      "heading_path": [
+        "General",
+        "Monitoring and Compliance",
+        "Q. Which organisations do the data collection requirements apply to?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "heading",
+      "text": "Q. What is the difference between the actuals and the pipeline data?",
+      "ordinal": 19,
+      "heading_path": [
+        "General",
+        "Monitoring and Compliance",
+        "Q. What is the difference between the actuals and the pipeline data?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "p",
+      "text": "The actuals data is backward looking. It contains data on the steel procured (and delivered) in the previous financial year.",
+      "ordinal": 20,
+      "heading_path": [
+        "General",
+        "Monitoring and Compliance",
+        "Q. What is the difference between the actuals and the pipeline data?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "The pipeline data on the other hand is forward looking. It aims to inform interested organisations (such as steel producers, manufacturers, stockists etc.) about potential future opportunities.",
+      "ordinal": 21,
+      "heading_path": [
+        "General",
+        "Monitoring and Compliance",
+        "Q. What is the difference between the actuals and the pipeline data?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "heading",
+      "text": "Q. What counts as actuals data? Is it when contracts for the supply of steel to public projects/programmes are placed?",
+      "ordinal": 22,
+      "heading_path": [
+        "General",
+        "Monitoring and Compliance",
+        "Q. What counts as actuals data? Is it when contracts for the supply of steel to public projects/programmes are placed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "Only steel procured and delivered to the project/programme site, within the previous financial year, counts as actuals data. Where contracts for supply of steel have been awarded, but no delivery of steel to site has taken place, data on these contracts does not count as actuals data.",
+      "ordinal": 23,
+      "heading_path": [
+        "General",
+        "Monitoring and Compliance",
+        "Q. What counts as actuals data? Is it when contracts for the supply of steel to public projects/programmes are placed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "heading",
+      "text": "Q. Why are the data collection thresholds not based on contract value?",
+      "ordinal": 24,
+      "heading_path": [
+        "General",
+        "Monitoring and Compliance",
+        "Q. Why are the data collection thresholds not based on contract value?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "p",
+      "text": "The requirement applies to projects/programmes worth over £10m, and those under £10m but where it is estimated that in excess of 500 tonnes will be needed.",
+      "ordinal": 25,
+      "heading_path": [
+        "General",
+        "Monitoring and Compliance",
+        "Q. Why are the data collection thresholds not based on contract value?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "p",
+      "text": "The combination of the value/tonnage threshold, alongside the exact scope of the requirement (including the list of steel product categories that the requirement applies to) ensures the right balance is struck in terms of getting meaningful data, but without making the process burdensome for suppliers and subcontractors.",
+      "ordinal": 26,
+      "heading_path": [
+        "General",
+        "Monitoring and Compliance",
+        "Q. Why are the data collection thresholds not based on contract value?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "heading",
+      "text": "Q. Is the origin of steel recorded within the actuals template always indicative of where the steel was melted and poured?",
+      "ordinal": 27,
+      "heading_path": [
+        "General",
+        "Monitoring and Compliance",
+        "Q. Is the origin of steel recorded within the actuals template always indicative of where the steel was melted and poured?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "No. Not all Inspection Certificates EN10204 Type 3.1 contain the information. The data collection template enables users to indicate if the origin recorded within the inspection certificate that accompanied the steel to site, is also where the steel was melted and poured.",
+      "ordinal": 28,
+      "heading_path": [
+        "General",
+        "Monitoring and Compliance",
+        "Q. Is the origin of steel recorded within the actuals template always indicative of where the steel was melted and poured?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "heading",
+      "text": "Q. Are suppliers required to trace where the steel was melted and poured if the inspection certificate does not contain the relevant information?",
+      "ordinal": 29,
+      "heading_path": [
+        "General",
+        "Monitoring and Compliance",
+        "Q. Are suppliers required to trace where the steel was melted and poured if the inspection certificate does not contain the relevant information?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "p",
+      "text": "No. Please only use Inspection Certificates EN10204 Type 3.1 that accompanied the steel delivered to site. If the certificate does not indicate where the steel was melted and poured, then record the origin and indicate that it is not where the steel was melted and poured.",
+      "ordinal": 30,
+      "heading_path": [
+        "General",
+        "Monitoring and Compliance",
+        "Q. Are suppliers required to trace where the steel was melted and poured if the inspection certificate does not contain the relevant information?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "heading",
+      "text": "Q. Is the exact phrase “melted and poured in (name of country)” required for suppliers to record the origin as also being the place that the steel was melted and poured?",
+      "ordinal": 31,
+      "heading_path": [
+        "General",
+        "Monitoring and Compliance",
+        "Q. Is the exact phrase “melted and poured in (name of country)” required for suppliers to record the origin as also being the place that the steel was melted and poured?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "p",
+      "text": "No. There may be some variations in the exact wording used in the certificate concerning melted and poured location. “Melted and poured in (name of country)”, “Melt and pour location (name of country)”, or “Melted, poured and manufactured in (name of country)” are all acceptable – as is any phrase which clearly conveys where the steel was melted and poured.",
+      "ordinal": 32,
+      "heading_path": [
+        "General",
+        "Monitoring and Compliance",
+        "Q. Is the exact phrase “melted and poured in (name of country)” required for suppliers to record the origin as also being the place that the steel was melted and poured?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "heading",
+      "text": "Q. When should in-scope organisations submit the data to the Department for Business and Trade?",
+      "ordinal": 33,
+      "heading_path": [
+        "General",
+        "Monitoring and Compliance",
+        "Q. When should in-scope organisations submit the data to the Department for Business and Trade?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "p",
+      "text": "The data needs to be submitted by the In-scope Organisation within 10 weeks of the end of the financial year. To facilitate this, In-scope Organisations should ensure that data is fed through to them from their suppliers in good time. In-scope Organisations should encourage their suppliers to collect data in real time as steel is delivered to site, in order to avoid having to do this retrospectively at the end of the year.",
+      "ordinal": 34,
+      "heading_path": [
+        "General",
+        "Monitoring and Compliance",
+        "Q. When should in-scope organisations submit the data to the Department for Business and Trade?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "heading",
+      "text": "Q. Do In-scope Organisations have to use the steel product and origin data requirement contract clause provided, within their contracts?",
+      "ordinal": 35,
+      "heading_path": [
+        "General",
+        "Monitoring and Compliance",
+        "Q. Do In-scope Organisations have to use the steel product and origin data requirement contract clause provided, within their contracts?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "p",
+      "text": "No, this is provided as an example. However, we advise In-scope Organisations to make contractual provisions to ensure that the suppliers are aware of the requirements at the outset and are able to start the data collection as soon as steel deliveries to their respective sites commence.",
+      "ordinal": 36,
+      "heading_path": [
+        "General",
+        "Monitoring and Compliance",
+        "Q. Do In-scope Organisations have to use the steel product and origin data requirement contract clause provided, within their contracts?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "heading",
+      "text": "Q. Is the steel products list exhaustive?",
+      "ordinal": 37,
+      "heading_path": [
+        "General",
+        "Monitoring and Compliance",
+        "Q. Is the steel products list exhaustive?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "p",
+      "text": "The list of product headings is exhaustive (e.g. Flat Rolled Steel Products, Steel Plate etc). The list of product examples set out under each heading is not exhaustive. For example, the list under Flat Rolled Steel Products - Products commonly referred to as hot and cold rolled coil, sheet, and strip, including those clad, plated, and galvanised. This will include products such as coated steel building panels, tinmill steel, or corrugated sheeting - is not exhaustive.",
+      "ordinal": 38,
+      "heading_path": [
+        "General",
+        "Monitoring and Compliance",
+        "Q. Is the steel products list exhaustive?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "heading",
+      "text": "Contact",
+      "ordinal": 39,
+      "heading_path": [
+        "General",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "heading",
+      "text": "Q. What if I have a question which is not covered here?",
+      "ordinal": 40,
+      "heading_path": [
+        "General",
+        "Contact",
+        "Q. What if I have a question which is not covered here?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "p",
+      "text": "If you a question which is not covered in the PPN, guidance or these FAQ, in the first instance please contact Crown Commercial Service Helpdesk on 0345 410 2222, or info@crowncommercial.gov.uk",
+      "ordinal": 41,
+      "heading_path": [
+        "General",
+        "Contact",
+        "Q. What if I have a question which is not covered here?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "final report",
+      "href": "https://www.gov.uk/government/publications/steel-procurement-taskforce-final-report",
+      "block_id": "b00002",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "info@crowncommercial.gov.uk",
+      "href": "mailto:info@crowncommercial.gov.uk",
+      "block_id": "b00041",
+      "ordinal": 1,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "PPN 04/23 - Frequently Asked Questions (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-0423-procuring-steel-in-government-contracts/ppn-0423-frequently-asked-questions-html",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2022 to 2024 Sunak Conservative government",
+      "href": "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "PPN 04/23: Procuring Steel in Government Contracts",
+      "href": "https://www.gov.uk/government/publications/ppn-0423-procuring-steel-in-government-contracts",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015",
+      "block_id": "b00007",
+      "start": 181,
+      "end": 197,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2016",
+      "block_id": "b00007",
+      "start": 223,
+      "end": 239,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2016"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2011",
+      "block_id": "b00007",
+      "start": 283,
+      "end": 299,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2011"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2016",
+      "block_id": "b00007",
+      "start": 331,
+      "end": 347,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2016"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 17",
+      "block_id": "b00009",
+      "start": 409,
+      "end": 419,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "17"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015",
+      "block_id": "b00010",
+      "start": 77,
+      "end": 93,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2016",
+      "block_id": "b00010",
+      "start": 180,
+      "end": 196,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2016"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2011",
+      "block_id": "b00010",
+      "start": 240,
+      "end": 256,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2011"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2016",
+      "block_id": "b00010",
+      "start": 288,
+      "end": 304,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2016"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

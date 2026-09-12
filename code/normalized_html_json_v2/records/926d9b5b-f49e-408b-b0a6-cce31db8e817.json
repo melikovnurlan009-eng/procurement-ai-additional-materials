@@ -1,0 +1,4165 @@
+{
+  "document_id": "926d9b5b-f49e-408b-b0a6-cce31db8e817",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/88bae94389a8ae4a6bf629ac.json",
+  "input_sha256": "fc9f94c672b3cae10b209d27b490c3e2b629902d6d2d14a91a512761eb1c24a2",
+  "processed_at": "2026-08-27T02:26:29.646921+00:00",
+  "title": "Guidance: Direct Award (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/direct-award-html",
+  "description": null,
+  "publication_date": "2024-07-02T10:17:43+01:00",
+  "updated_date": "2026-07-13T09:24:55+01:00",
+  "source_metadata": {
+    "content_id": "926d9b5b-f49e-408b-b0a6-cce31db8e817",
+    "base_path": "/government/publications/procurement-act-2023-guidance-documents-define-phase/direct-award-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What is direct award?",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What is the legal framework that governs direct award?",
+      "ordinal": 3,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What has changed?",
+      "ordinal": 8,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Key points and policy intent",
+      "ordinal": 15,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Schedule 5 : Direct award justifications",
+      "ordinal": 26,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Prototypes and development",
+      "ordinal": 27,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Single suppliers",
+      "ordinal": 31,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Additional or repeat goods, services or works",
+      "ordinal": 42,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Advantageous terms on insolvency",
+      "ordinal": 49,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Urgency",
+      "ordinal": 51,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "User choice contracts",
+      "ordinal": 58,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Defence and security",
+      "ordinal": 67,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Section 42 (Direct award to protect life, etc)",
+      "ordinal": 78,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Section 43 (Switching to direct award)",
+      "ordinal": 83,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Section 25 (Sub-contracting specifications)",
+      "ordinal": 97,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What are the primary notices linked to this aspect of the Act?",
+      "ordinal": 100,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Transparency notice",
+      "ordinal": 103,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Timing",
+      "ordinal": 114,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Subsequent notices",
+      "ordinal": 116,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What other guidance is of particular relevance to this topic area?",
+      "ordinal": 125,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "What is direct award?",
+      "ordinal": 0,
+      "heading_path": [
+        "What is direct award?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "1. Direct award is when a public contract is awarded without a competitive tendering procedure and the public contract is placed directly with the supplier of the contracting authority’s choosing.",
+      "ordinal": 1,
+      "heading_path": [
+        "What is direct award?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "2. Under the Procurement Act 2023 (Act) , a transparency notice must be published before a contract is directly awarded. The function of the transparency notice is to inform stakeholders that a contracting authority intends to directly award a contract and ensure that there is transparency relating to this decision. It provides an opportunity for interested parties to consider the justification for direct award.",
+      "ordinal": 2,
+      "heading_path": [
+        "What is direct award?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "heading",
+      "text": "What is the legal framework that governs direct award?",
+      "ordinal": 3,
+      "heading_path": [
+        "What is direct award?",
+        "What is the legal framework that governs direct award?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "3. A competitive tendering procedure is the default for most public procurements. A contracting authority may only directly award a public contract when section 41 (and one or more of the justifications in Schedule 5 ), section 42 or section 43 apply.",
+      "ordinal": 4,
+      "heading_path": [
+        "What is direct award?",
+        "What is the legal framework that governs direct award?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "4. Section 25 sets out the circumstances in which a contracting authority may require a supplier to directly award a contract to a particular subcontractor.",
+      "ordinal": 5,
+      "heading_path": [
+        "What is direct award?",
+        "What is the legal framework that governs direct award?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "p",
+      "text": "5. Section 44 sets out obligations in relation to publishing a transparency notice when making a direct award. The content of the transparency notice is included in regulation 26 of the Procurement Regulations 2024 (Regulations).",
+      "ordinal": 6,
+      "heading_path": [
+        "What is direct award?",
+        "What is the legal framework that governs direct award?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "6. The non-discrimination obligation at section 90 is also relevant to direct award and contracting authorities must ensure that in making a direct award they do not discriminate against treaty state suppliers. For example, in setting their requirements, the requirements of section 56 on technical specifications should be considered, which are designed (in part) to ensure technical specifications do not make it more difficult for treaty state suppliers than UK suppliers to meet the requirement.",
+      "ordinal": 7,
+      "heading_path": [
+        "What is direct award?",
+        "What is the legal framework that governs direct award?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "heading",
+      "text": "What has changed?",
+      "ordinal": 8,
+      "heading_path": [
+        "What is direct award?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "7. There is now greater transparency of direct awards than under the previous legislation and new justifications related to defence and security and user choice. The other justifications remain largely unchanged. The key changes to direct award made by the Act are:",
+      "ordinal": 9,
+      "heading_path": [
+        "What is direct award?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "p",
+      "text": "a. the transparency notice, unlike the voluntary transparency notice under the previous legislation, is mandatory (except in the case of direct award under Schedule 5, paragraphs 15-17 (user choice contracts));",
+      "ordinal": 10,
+      "heading_path": [
+        "What is direct award?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "b. a mandatory 8 day standstill (following publication of the contract award notice) is required in most cases (see paragraphs 74-76 below);",
+      "ordinal": 11,
+      "heading_path": [
+        "What is direct award?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "c. new direct award justifications apply for user choice contracts and for certain defence and security contracts; and",
+      "ordinal": 12,
+      "heading_path": [
+        "What is direct award?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "d. section 42 gives Ministers a power to make regulations when it is necessary to directly award contracts to protect human, animal or plant life or health or to protect public order or safety.",
+      "ordinal": 13,
+      "heading_path": [
+        "What is direct award?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "8. The ground referred to as ‘switching to direct award’ in section 43 is not a new ground, but is separated from the direct award justifications in Schedule 5 because a direct award can only be made under section 43 after the contracting authority has run a competitive tendering procedure but is unable to award a contract",
+      "ordinal": 14,
+      "heading_path": [
+        "What is direct award?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "heading",
+      "text": "Key points and policy intent",
+      "ordinal": 15,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "9. There are limited circumstances in which a contracting authority is permitted to award a public contract to a supplier without first running a competitive tendering procedure. These are provided for in section 41 and referred to as ‘direct award justifications’. Schedule 5 sets out the direct award justifications.",
+      "ordinal": 16,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "10. Section 41 provides that a direct award must not be made to an excluded supplier (as defined in section 57(1) ) unless there is an overriding public interest in awarding the contract to the supplier. An overriding public interest arises where:",
+      "ordinal": 17,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "p",
+      "text": "a. the award is necessary for the construction, maintenance or operation of critical national infrastructure [footnote 1] ;",
+      "ordinal": 18,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "b. the award is necessary to ensure the proper functioning of a sector on which the defence, security or economic stability of the UK relies;",
+      "ordinal": 19,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "p",
+      "text": "c. not awarding the contract to the supplier would prejudice the conduct of military or security operations or the effective operation of the armed forces or intelligence services; or",
+      "ordinal": 20,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "d. the contract is being awarded under the urgency provisions in Schedule 5, paragraph 13 , and cannot be awarded to, or performed by, a supplier that is not an excluded supplier within the necessary time frame.",
+      "ordinal": 21,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "p",
+      "text": "11. Before awarding a public contract under section 41 a contracting authority must consider whether a supplier is an excludable supplier (as defined in section 57(2) ). If the supplier is an excludable supplier the contracting authority will need to determine if it is appropriate for the supplier to be awarded the contract. See the guidance on exclusions for more information.",
+      "ordinal": 22,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "12. Section 41 allows for selection processes or other preliminary steps to be taken prior to any direct award. This is because, even if a contracting authority is permitted to directly award a contract, there may still be scope for some limited/rapid informal competition or selection process.",
+      "ordinal": 23,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "13. Whilst it is technically possible to directly award a framework (but not an open framework) under section 41 or section 43 , it would be unusual to have a single supplier framework. See the guidance on frameworks for more information.",
+      "ordinal": 24,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "p",
+      "text": "14. The direct award justifications set out in Schedule 5 are explained under the headings below. The examples included are to illustrate scenarios in which the various justifications could be used. They are not intended to be exhaustive and contracting authorities should consider their specific circumstances and where necessary seek legal support.",
+      "ordinal": 25,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "heading",
+      "text": "Schedule 5 : Direct award justifications",
+      "ordinal": 26,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Schedule 5 : Direct award justifications"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "heading",
+      "text": "Prototypes and development",
+      "ordinal": 27,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Schedule 5 : Direct award justifications",
+        "Prototypes and development"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "15. This justification allows for direct award when procuring a prototype or other novel good or service that is designed or developed at the request of the contracting authority. For example, procuring a solution to enable data to be shared securely between different agencies.",
+      "ordinal": 28,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Schedule 5 : Direct award justifications",
+        "Prototypes and development"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "p",
+      "text": "16. The public contract must be limited to the early stages of design and development and aimed only at testing the suitability of the goods or services, understanding the viability of production or supply in quantity or other research, experiment, study or development. This means it must not include quantity production or supply beyond that necessary for these purposes, for example, to produce or supply the contracting authority with the goods or service on a commercial basis.",
+      "ordinal": 29,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Schedule 5 : Direct award justifications",
+        "Prototypes and development"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "p",
+      "text": "17. See also the guidance on exempted contracts , which includes exempted contracts for research and development services.",
+      "ordinal": 30,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Schedule 5 : Direct award justifications",
+        "Prototypes and development"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "heading",
+      "text": "Single suppliers",
+      "ordinal": 31,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Schedule 5 : Direct award justifications",
+        "Single suppliers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "p",
+      "text": "18. There are three direct award justifications under this heading. The first justification is where the public contract concerns the creation or acquisition of a unique work of art or artistic performance. For example, where the identity of the artist intrinsically determines the unique character and value of the art and therefore the requirement can only be met by one artist.",
+      "ordinal": 32,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Schedule 5 : Direct award justifications",
+        "Single suppliers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "p",
+      "text": "19. The second justification is where a particular supplier is in possession of intellectual property or other exclusive rights and there are no reasonable alternatives, which means only the supplier with those rights can deliver the goods, services or works.",
+      "ordinal": 33,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Schedule 5 : Direct award justifications",
+        "Single suppliers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "p",
+      "text": "20. It could be, for example, that the original provision, such as software, was developed and provided by a particular supplier and it owns the intellectual property rights and is the only supplier able to provide security updates, patches and bug fixes.",
+      "ordinal": 34,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Schedule 5 : Direct award justifications",
+        "Single suppliers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "p",
+      "text": "21. Alternatively, a supplier could have exclusive distribution rights which means only that supplier can supply the goods, services or works required. This may be because the supplier owns the intellectual property rights or because it has been granted an exclusive licence by the owner of the rights.",
+      "ordinal": 35,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Schedule 5 : Direct award justifications",
+        "Single suppliers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "p",
+      "text": "22. Exclusive rights can include ownership of land which means that the owner of the land has a right to determine which supplier can deliver works on that land. Artists may also have an exclusive right to exploit, repair or remake their own works of art for commercial purposes.",
+      "ordinal": 36,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Schedule 5 : Direct award justifications",
+        "Single suppliers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "p",
+      "text": "23. When considering rights, it is important to ensure that only the supplier is in fact able to deliver the goods, services or works required. In a commercial situation, other suppliers are often able to negotiate with the rights holder (for example to obtain a licence/sub-licence or to obtain a lease of the land) to be able to deliver the goods, services or works or the contracting authority may be able to negotiate with the rights holder to procure a licence or lease for the benefit of the project.",
+      "ordinal": 37,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Schedule 5 : Direct award justifications",
+        "Single suppliers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "p",
+      "text": "24. The fact that a particular supplier has a right does not mean that a contracting authority can always make a direct award to it. The Act requires that the contracting authority must consider whether there are any reasonable alternative goods, works or services. For example, it may be reasonable to procure an alternative communication solution rather than rely on the owner of the rights for a particular solution.",
+      "ordinal": 38,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Schedule 5 : Direct award justifications",
+        "Single suppliers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "p",
+      "text": "25. The final justification is where, due to an absence of competition for technical reasons and provided there are no reasonable alternatives, only a particular supplier can supply the goods, services or works required. This justification may, for example, be used where only a particular supplier has the specific know-how or tools for the modification or retrofitting of bespoke equipment.",
+      "ordinal": 39,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Schedule 5 : Direct award justifications",
+        "Single suppliers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "p",
+      "text": "26. Technical reasons may also derive from specific interoperability and/or safety requirements necessary to ensure the proper functioning of the goods, services or works, for example, where they are used operationally by the armed forces or fire service.",
+      "ordinal": 40,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Schedule 5 : Direct award justifications",
+        "Single suppliers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "p",
+      "text": "27. Any incompatibility between existing systems/equipment and new goods, services or works could also result in time consuming and complex redesign and modification which could be unacceptable in the circumstances, for example, resulting in significant cost and/or delay to an important service.",
+      "ordinal": 41,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Schedule 5 : Direct award justifications",
+        "Single suppliers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "heading",
+      "text": "Additional or repeat goods, services or works",
+      "ordinal": 42,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Schedule 5 : Direct award justifications",
+        "Additional or repeat goods, services or works"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "p",
+      "text": "28. There are two direct award justifications under this heading and both allow a contracting authority to award a public contract to an existing supplier. An ‘existing supplier’ is a supplier that supplied the original goods, services or works, including one that the contracting authority no longer has a contract with.",
+      "ordinal": 43,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Schedule 5 : Direct award justifications",
+        "Additional or repeat goods, services or works"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "p",
+      "text": "29. The first justification is where the contracting authority wishes to buy additional or to partly replace existing goods, services or works which are the same or compatible with existing provisions (both those already supplied or that are contracted to be supplied). In this case, a direct award may be made where a change of supplier would result in the contracting authority receiving goods, services or works that are different from, or incompatible with, the existing goods, services or works, and that difference or incompatibility would result in disproportionate technical difficulties in operation or maintenance. For example, a contracting authority may need to award a contract to an existing supplier in order to update some of its hand held communications devices for street patrol operatives to ensure that the new devices are compatible with the existing devices. Or a contracting authority operating a seaport replacing the engines in its dockyard cranes would need to choose engines that are interoperable with the existing features of the cranes.",
+      "ordinal": 44,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Schedule 5 : Direct award justifications",
+        "Additional or repeat goods, services or works"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "p",
+      "text": "30. The contracting authority may, as a potential alternative, want to consider the modification ground in Schedule 8, paragraph 8 (additional goods, services or works) of the Act in these circumstances. See guidance on contract modifications for more information.",
+      "ordinal": 45,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Schedule 5 : Direct award justifications",
+        "Additional or repeat goods, services or works"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "p",
+      "text": "31. The second direct award justification under this heading is where a contract has previously been awarded under a competitive tendering procedure and the tender notice or tender documents set out that the intention was to carry out a subsequent procurement of similar goods, services or works by direct award. Broadly speaking, the direct award must be made within 5 years of the original competitively tendered contract being awarded (see Schedule 5, paragraph 8(a) for the precise time limit).\n####Commodities",
+      "ordinal": 46,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Schedule 5 : Direct award justifications",
+        "Additional or repeat goods, services or works"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "p",
+      "text": "32. This justification is where goods are purchased on a commodity market. In this case the price and availability are generally driven by demand in the market which means requiring suppliers to tender in the usual manner is unnecessary, not appropriate and may not drive the best outcome for the contracting authority.",
+      "ordinal": 47,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Schedule 5 : Direct award justifications",
+        "Additional or repeat goods, services or works"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "p",
+      "text": "33. This could be, for example, fuel where it is bought from local agents at the port where only short term quotations are available.",
+      "ordinal": 48,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Schedule 5 : Direct award justifications",
+        "Additional or repeat goods, services or works"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "heading",
+      "text": "Advantageous terms on insolvency",
+      "ordinal": 49,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Schedule 5 : Direct award justifications",
+        "Advantageous terms on insolvency"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00050",
+      "block_type": "p",
+      "text": "34. This justification is where the award of the public contract to a particular supplier will ensure terms particularly advantageous to the contracting authority due to the fact that a supplier (whether or not the one to which the contract is to be awarded) is undergoing insolvency proceedings. This allows the contracting authority, for example, to award a public contract to the supplier itself, for example to purchase goods at a favourable price as the supplier seeks to sell off stock as part of its wind-up, or to an administrator or other third party that is trying to keep the business going in order to liquidise its assets or sell it as a going concern. The public contract must be on particularly advantageous terms. ‘Undergoing insolvency proceedings’ is defined in Schedule 5, paragraph 12 .",
+      "ordinal": 50,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Schedule 5 : Direct award justifications",
+        "Advantageous terms on insolvency"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00051",
+      "block_type": "heading",
+      "text": "Urgency",
+      "ordinal": 51,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Schedule 5 : Direct award justifications",
+        "Urgency"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00052",
+      "block_type": "p",
+      "text": "35. This justification is where the public contract cannot be awarded on the basis of a competitive tendering procedure because the goods, services or works are strictly necessary for reasons of extreme and unavoidable urgency. The urgency is unavoidable if it is not attributable to any act or omission of the contracting authority, and could not have been foreseen by the contracting authority.",
+      "ordinal": 52,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Schedule 5 : Direct award justifications",
+        "Urgency"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00053",
+      "block_type": "p",
+      "text": "36. The concept of ‘unavoidable’ urgency would not apply if the contracting authority had simply not allowed sufficient time to undertake a re-procurement of a contract. It may, however, apply, for example, where contamination is unexpectedly discovered on a site the contracting authority is providing to the successful supplier as part of a procurement and this needs to be removed immediately in order to prevent delay to the overall delivery.",
+      "ordinal": 53,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Schedule 5 : Direct award justifications",
+        "Urgency"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00054",
+      "block_type": "p",
+      "text": "37. The reference to being unable to award on the basis of a competitive tendering procedure means that the situation is so urgent that the contracting authority cannot comply with the timescales required for a competitive tendering procedure (even the shortened timescales permitted for urgency in section 54 ). The reference to the goods, services or works being ‘strictly necessary’ means that the contract awarded must only be used for obtaining the goods, services and works that are necessary to cope with the urgency of the situation and not for wider use or the longer term; a separate procurement should be commenced if the goods, services or works are required for the longer term.",
+      "ordinal": 54,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Schedule 5 : Direct award justifications",
+        "Urgency"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00055",
+      "block_type": "p",
+      "text": "38. Even if a competitive tendering procedure cannot be carried out, a contracting authority may want to consider undertaking some form of informal competition before awarding the contract. This could range from the contracting authority issuing a straightforward requirement to a number of suppliers of its choosing and asking the suppliers to demonstrate how they would meet it and to provide a price, on which basis the contracting authority would make its decision; or, for a commercially available good or service, it could be as straightforward as contacting a number of suppliers or checking online to see which supplier can meet the requirement in the quickest time and at the best price.",
+      "ordinal": 55,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Schedule 5 : Direct award justifications",
+        "Urgency"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00056",
+      "block_type": "p",
+      "text": "39. Carrying out any informal competition does not fetter in any way the contracting authority’s discretion to rely on this direct award ground.",
+      "ordinal": 56,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Schedule 5 : Direct award justifications",
+        "Urgency"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00057",
+      "block_type": "p",
+      "text": "40. The contracting authority may also want to consider whether in these circumstances it is more expedient to modify an existing contract using the permitted modification ground at Schedule 8, paragraphs 2 and 3 (urgency and the protection of life, etc.), rather than make a direct award. See the guidance on contract modifications for more information.",
+      "ordinal": 57,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Schedule 5 : Direct award justifications",
+        "Urgency"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00058",
+      "block_type": "heading",
+      "text": "User choice contracts",
+      "ordinal": 58,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Schedule 5 : Direct award justifications",
+        "User choice contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00059",
+      "block_type": "p",
+      "text": "41. This justification is where others have a legal right to have a say in the choice of the supplier (for example, under legislation such as the Care Act 2014 or the Children and Families Act 2014 ). This justification applies only where:",
+      "ordinal": 59,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Schedule 5 : Direct award justifications",
+        "User choice contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00060",
+      "block_type": "p",
+      "text": "a. the services are those that would ordinarily be procured under a light touch contract;",
+      "ordinal": 60,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Schedule 5 : Direct award justifications",
+        "User choice contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00061",
+      "block_type": "p",
+      "text": "b. such services are supplied for the benefit of a particular individual; and",
+      "ordinal": 61,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Schedule 5 : Direct award justifications",
+        "User choice contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00062",
+      "block_type": "p",
+      "text": "c. a contracting authority is required by legislation to have regard to the views of the particular individual, or a person providing care to that individual (their ‘carer’), concerning who should supply the services.",
+      "ordinal": 62,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Schedule 5 : Direct award justifications",
+        "User choice contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00063",
+      "block_type": "p",
+      "text": "42. In order to rely on this justification:",
+      "ordinal": 63,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Schedule 5 : Direct award justifications",
+        "User choice contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00064",
+      "block_type": "p",
+      "text": "a. the individual/carer must have expressed a preference as to who should supply the services, or the nature of the services to be supplied must be such that only one supplier is capable of providing them; and",
+      "ordinal": 64,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Schedule 5 : Direct award justifications",
+        "User choice contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00065",
+      "block_type": "p",
+      "text": "b. the contracting authority considers it is not in the best interests of the individual to award a contract via a competitive tendering procedure.",
+      "ordinal": 65,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Schedule 5 : Direct award justifications",
+        "User choice contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00066",
+      "block_type": "p",
+      "text": "43. This may be, for example, in relation to certain personal or social care requirements. The person’s needs (including where relevant a child’s needs) may be very specialised with only a limited number of suppliers able to meet the requirement. There is likely to be a significant element of choice from the individual and/or their parent or carer, for example, a preference that the supplier is located as close as possible to family members or to enable a child to continue to attend the same school, and a strong element of professional judgement by social care staff.",
+      "ordinal": 66,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Schedule 5 : Direct award justifications",
+        "User choice contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00067",
+      "block_type": "heading",
+      "text": "Defence and security",
+      "ordinal": 67,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Schedule 5 : Direct award justifications",
+        "Defence and security"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00068",
+      "block_type": "p",
+      "text": "44. There are three justifications under this category. The first justification is where the public contract is a defence and security contract (as defined in section 7 ) and is for the supply of air or maritime transport services to the armed forces or security services while they are deployed outside the UK or in order for them to be deployed outside the UK. In addition, as is usual in, for example, the aircraft chartering market, the nature of the services must be such that a reasonable supplier would not be able to guarantee its offer for 10 days.",
+      "ordinal": 68,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Schedule 5 : Direct award justifications",
+        "Defence and security"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00069",
+      "block_type": "p",
+      "text": "45. The second justification is where, in certain circumstances, it is more appropriate to directly award a new public contract rather than amend an existing contract. This justification can only be used where the new contract would be a ‘qualifying defence contract’ under section 14(2) of the Defence Reform Act 2014 .",
+      "ordinal": 69,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Schedule 5 : Direct award justifications",
+        "Defence and security"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00070",
+      "block_type": "p",
+      "text": "46. In this case, the contracting authority must already have an existing contract with the supplier to be awarded the new contract and if the existing contract was modified instead of a new contract being awarded, that modification would either:",
+      "ordinal": 70,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Schedule 5 : Direct award justifications",
+        "Defence and security"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00071",
+      "block_type": "p",
+      "text": "a. not be a substantial modification (under section 74(3) ); or",
+      "ordinal": 71,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Schedule 5 : Direct award justifications",
+        "Defence and security"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00072",
+      "block_type": "p",
+      "text": "b. be permitted under Schedule 8, paragraph 4 (unforeseeable circumstances) or paragraph 8 (additional goods, services or works).",
+      "ordinal": 72,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Schedule 5 : Direct award justifications",
+        "Defence and security"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00073",
+      "block_type": "p",
+      "text": "47. In practice, this justification is to deal with contracts which have been competitively awarded originally but are in effect being amended using a separate contract to allow the Single Source Contract Regulations 2014 to apply to the ‘amended’ part of the contract.",
+      "ordinal": 73,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Schedule 5 : Direct award justifications",
+        "Defence and security"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00074",
+      "block_type": "p",
+      "text": "48. The final justification is where the contract:",
+      "ordinal": 74,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Schedule 5 : Direct award justifications",
+        "Defence and security"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00075",
+      "block_type": "p",
+      "text": "a. is a defence authority contract [footnote 2] ;",
+      "ordinal": 75,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Schedule 5 : Direct award justifications",
+        "Defence and security"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00076",
+      "block_type": "p",
+      "text": "b. is a defence and security contract because at least one of the reasons in section 7(1)(a-f) applies (i.e. not only 7(1)(g) or, in the case of a framework, not only section 7(1)(g) and 7(2) ); and",
+      "ordinal": 76,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Schedule 5 : Direct award justifications",
+        "Defence and security"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00077",
+      "block_type": "p",
+      "text": "c. it is necessary for the contract to be directly awarded in order to enhance or maintain the operational capability, effectiveness, readiness for action, safety or security of the armed forces. This can include, for example, where contracts are needed to be awarded quickly to maintain the military’s operational effectiveness. Above a certain threshold the Ministry of Defence (including Defence Equipment and Support) would need to seek Cabinet Office approval in order to use this justification.",
+      "ordinal": 77,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Schedule 5 : Direct award justifications",
+        "Defence and security"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00078",
+      "block_type": "heading",
+      "text": "Section 42 (Direct award to protect life, etc)",
+      "ordinal": 78,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Section 42 (Direct award to protect life, etc)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00079",
+      "block_type": "p",
+      "text": "49. Section 42 (Direct award to protect life, etc) allows specified contracts to be directly awarded as though a direct award justification (under section 41 ) applies. In this case, the justification will only apply where secondary legislation (regulations) has been made authorising the direct award. Secondary legislation may only be made where a Minister of the Crown considers it necessary to protect human, animal or plant life or health, or to protect public order or safety.",
+      "ordinal": 79,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Section 42 (Direct award to protect life, etc)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00080",
+      "block_type": "p",
+      "text": "50. The purpose of this provision is to ensure procurements can be carried out quickly and in full knowledge in emergency circumstances, even if the circumstances leading to the event are foreseeable (which would rule out the extreme urgency justification for direct award contained in Schedule 5, paragraphs 13 and 14 ).",
+      "ordinal": 80,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Section 42 (Direct award to protect life, etc)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00081",
+      "block_type": "p",
+      "text": "51. If regulations of this kind are made, then public contracts within scope may be awarded as though a direct award justification applies (therefore the rules in section 41 will apply). Contracting authorities will only be able to directly award public contracts on this basis after secondary legislation has been made and if the legislation is applicable to the particular contract.",
+      "ordinal": 81,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Section 42 (Direct award to protect life, etc)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00082",
+      "block_type": "p",
+      "text": "52. It is envisaged that direct awards by this means will be a rare occurrence, and should secondary legislation be made, contracting authorities will be alerted through a Procurement Policy Note (PPN) or other suitable means.",
+      "ordinal": 82,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Section 42 (Direct award to protect life, etc)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00083",
+      "block_type": "heading",
+      "text": "Section 43 (Switching to direct award)",
+      "ordinal": 83,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Section 43 (Switching to direct award)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00084",
+      "block_type": "p",
+      "text": "53. Section 43 (Switching to direct award) allows a contracting authority to switch from a competitive tendering procedure to the direct award of a public contract in circumstances where no or no suitable tenders or requests to participate have been received in that competitive tendering procedure and the contracting authority considers that the award of a contract using a competitive tendering procedure under section 19 is not possible in the circumstances (see section 43(1) ).",
+      "ordinal": 84,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Section 43 (Switching to direct award)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00085",
+      "block_type": "p",
+      "text": "54. In these circumstances, a direct award cannot be made to an excluded supplier (as defined in section 57 ) and the public interest test in section 41(2) does not apply. Before awarding a contract under section 43 , the contracting authority must check whether the supplier is an excludable supplier and then act accordingly.",
+      "ordinal": 85,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Section 43 (Switching to direct award)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00086",
+      "block_type": "p",
+      "text": "55. Section 43(2) sets out when a tender or request to participate would not be considered ‘suitable’. There are four circumstances:",
+      "ordinal": 86,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Section 43 (Switching to direct award)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00087",
+      "block_type": "p",
+      "text": "a. where the supplier’s tender or request would be disregarded under section 19(3)(a) , (b) or (c) [footnote 3] (Award of public contracts following a competitive tendering procedure);",
+      "ordinal": 87,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Section 43 (Switching to direct award)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00088",
+      "block_type": "p",
+      "text": "b. where the tender or request does not satisfy the contracting authority’s requirements or award criteria;",
+      "ordinal": 88,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Section 43 (Switching to direct award)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00089",
+      "block_type": "p",
+      "text": "c. where there is evidence of corruption or collusion; and",
+      "ordinal": 89,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Section 43 (Switching to direct award)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00090",
+      "block_type": "p",
+      "text": "d. where the tender materially breaches a procedural requirement set out for all suppliers to comply with in the tender notice or associated tender documents.",
+      "ordinal": 90,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Section 43 (Switching to direct award)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00091",
+      "block_type": "p",
+      "text": "56. Section 43 includes details about what constitutes ‘materially breaching a procedural requirement’, which includes breaching a procedural requirement in relation to a tender. For example, a refusal by the supplier to provide an undertaking to obtain a performance guarantee may amount to a material breach. A breach is material if ignoring it would be treating the supplier more favourably than other suppliers",
+      "ordinal": 91,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Section 43 (Switching to direct award)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00092",
+      "block_type": "p",
+      "text": "57. The contracting authority must also consider whether a supplier submitted an unsuitable tender or request to participate in the competitive tendering procedure. This is because it may not be appropriate in certain circumstances for such a supplier to be directly awarded the public contract, although it is not an absolute prohibition and it would depend on the particular circumstances. For example, if the supplier’s tender was unsuitable due to collusion, a direct award would be inappropriate, but if it was unsuitable due to a failure to meet certain award criteria, it may, nevertheless, be preferable to award the contract to that supplier rather than to a supplier that failed to meet any award criteria.",
+      "ordinal": 92,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Section 43 (Switching to direct award)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00093",
+      "block_type": "p",
+      "text": "58. When deciding to switch to direct award and determining whether an award is possible under section 19 , the contracting authority should consider whether the reason for not receiving any suitable tenders or requests is because the documentation was not clear or there was an error, which if corrected and time still permitted, could result in a successful award.",
+      "ordinal": 93,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Section 43 (Switching to direct award)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00094",
+      "block_type": "p",
+      "text": "59. If a supplier submitted an unsuitable tender prior to switching, the contracting authority is not required (under section 50 ) to provide an assessment summary to the supplier. This is because the submitted tender would not be an ‘assessed tender’ under section 50 .",
+      "ordinal": 94,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Section 43 (Switching to direct award)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00095",
+      "block_type": "p",
+      "text": "60. In this circumstance, the contracting authority must still, however, inform the supplier in writing that its tender is unsuitable and why, in order to evidence that it has met the objective in section 12(1)(c) of the Act. It is advisable to use the assessment summary structure to do this.",
+      "ordinal": 95,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Section 43 (Switching to direct award)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00096",
+      "block_type": "p",
+      "text": "61. Section 43 provides that it is permissible to switch to directly award the contract that was the subject of a competitive tendering procedure where section 43(1) applies. Section 43(1)(a) specifically provides that the contract to be directly awarded under section 43 is the same contract that was originally subject to the competitive tendering procedure, which means that the conditions of contract cannot be significantly altered when switching to direct award.",
+      "ordinal": 96,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Section 43 (Switching to direct award)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00097",
+      "block_type": "heading",
+      "text": "Section 25 (Sub-contracting specifications)",
+      "ordinal": 97,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Section 25 (Sub-contracting specifications)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00098",
+      "block_type": "p",
+      "text": "62. In certain procurements the contracting authority may require all or part of the contract to be sub-contracted to a specified supplier. The contracting authority is only permitted to require this where a direct award justification applies in relation to particular goods, services or works, such that the contracting authority could award a contract directly to the specified supplier under section 41 . For example, if the contracting authority considers that it will be necessary for any supplier to use certain software which is owned by one particular supplier, the contracting authority may require that a supplier sub-contracts the supply of the software to that particular sub-contractor. In this example, the contracting authority must consider it would be permissible to make a direct award to that sub-contractor under the direct award justification in Schedule 5, paragraph 5 .",
+      "ordinal": 98,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Section 25 (Sub-contracting specifications)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00099",
+      "block_type": "p",
+      "text": "63. Where contracting authorities require a supplier to sub-contract to a specified supplier, this should be set out in the associated tender documents.",
+      "ordinal": 99,
+      "heading_path": [
+        "What is direct award?",
+        "Key points and policy intent",
+        "Section 25 (Sub-contracting specifications)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00100",
+      "block_type": "heading",
+      "text": "What are the primary notices linked to this aspect of the Act?",
+      "ordinal": 100,
+      "heading_path": [
+        "What is direct award?",
+        "What are the primary notices linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00101",
+      "block_type": "p",
+      "text": "64. A procurement may have been the subject of either a pipeline notice, a preliminary market engagement notice and/or a planned procurement notice before a direct award is commenced.",
+      "ordinal": 101,
+      "heading_path": [
+        "What is direct award?",
+        "What are the primary notices linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00102",
+      "block_type": "p",
+      "text": "65. As section 16 (preliminary market engagement) only applies in a competitive tendering procedure, the obligation to publish a preliminary market engagement notice would only, if relevant, arise if a direct award is made under section 43 (switching to direct award). However, contracting authorities can carry out some form of engagement with the market prior to making a direct award, and may wish to publish a preliminary market engagement notice, for example to demonstrate transparency and compliance with the objectives in section 12 .",
+      "ordinal": 102,
+      "heading_path": [
+        "What is direct award?",
+        "What are the primary notices linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00103",
+      "block_type": "heading",
+      "text": "Transparency notice",
+      "ordinal": 103,
+      "heading_path": [
+        "What is direct award?",
+        "What are the primary notices linked to this aspect of the Act?",
+        "Transparency notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00104",
+      "block_type": "p",
+      "text": "66. As set out previously, the key notice in a direct award is the transparency notice. Section 44 of the Act and regulation 5 requires a contracting authority to publish a transparency notice on the central digital platform before directly awarding a contract. This requirement does not apply to user choice contracts awarded under Schedule 5, paragraph 15 . Regulation 26 sets out the information that must be included in this notice. This is summarised below.",
+      "ordinal": 104,
+      "heading_path": [
+        "What is direct award?",
+        "What are the primary notices linked to this aspect of the Act?",
+        "Transparency notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00105",
+      "block_type": "p",
+      "text": "67. Supplier information. The notice should include the supplier to whom the contract is to be awarded, if known at the time of publication. This should be the case in the majority of direct award situations, even where a supplier has been identified but negotiations are still ongoing. There may be exceptions, for example, in the case of extreme urgency where the contracting authority may be publishing the notice without having yet determined to whom the contract is to be awarded. The regulations allow for the notice to be published if a supplier has not yet been selected for award.",
+      "ordinal": 105,
+      "heading_path": [
+        "What is direct award?",
+        "What are the primary notices linked to this aspect of the Act?",
+        "Transparency notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00106",
+      "block_type": "p",
+      "text": "68. The information about the supplier (if known) to be awarded a contract includes, where the contract is being directly awarded to a supplier under section 41 , information about whether it is an excluded supplier including, if relevant, what exclusion ground applies. This information will normally have been provided by the supplier through the central digital platform, however, regulation 7(4) provides flexibility in the case of urgency. The regulations recognise that the contracting authority may not be able to wait for a supplier to register, complete and submit their core supplier information before awarding the contract. See the guidance on publication of information for further information on how core supplier information is provided and obtained.",
+      "ordinal": 106,
+      "heading_path": [
+        "What is direct award?",
+        "What are the primary notices linked to this aspect of the Act?",
+        "Transparency notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00107",
+      "block_type": "p",
+      "text": "69. Grounds for direct award and associated information. Contracting authorities must include in the notice:",
+      "ordinal": 107,
+      "heading_path": [
+        "What is direct award?",
+        "What are the primary notices linked to this aspect of the Act?",
+        "Transparency notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00108",
+      "block_type": "p",
+      "text": "a. the grounds for direct award;",
+      "ordinal": 108,
+      "heading_path": [
+        "What is direct award?",
+        "What are the primary notices linked to this aspect of the Act?",
+        "Transparency notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00109",
+      "block_type": "p",
+      "text": "b. why the direct award is justified;",
+      "ordinal": 109,
+      "heading_path": [
+        "What is direct award?",
+        "What are the primary notices linked to this aspect of the Act?",
+        "Transparency notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00110",
+      "block_type": "p",
+      "text": "c. where the contract is being awarded to an excluded supplier pursuant to section 41 , the exclusion ground that applies and why the contracting authority believes there is an overriding public interest to award the contract to that supplier (when awarding to more than one supplier the contracting authority will need to be clear about which supplier is excluded); will need to be clear about which supplier is excluded);",
+      "ordinal": 110,
+      "heading_path": [
+        "What is direct award?",
+        "What are the primary notices linked to this aspect of the Act?",
+        "Transparency notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00111",
+      "block_type": "p",
+      "text": "d. where the contract is being awarded in reliance on secondary legislation made under section 42(1) , the title and registration number of the regulations made under section 42(1) ; and",
+      "ordinal": 111,
+      "heading_path": [
+        "What is direct award?",
+        "What are the primary notices linked to this aspect of the Act?",
+        "Transparency notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00112",
+      "block_type": "p",
+      "text": "e. where the contracting authority has switched to direct award under section 43 , the reason it considers there were no suitable tenders or requests to participate and why it considers that award under section 19 is not possible in the circumstances.",
+      "ordinal": 112,
+      "heading_path": [
+        "What is direct award?",
+        "What are the primary notices linked to this aspect of the Act?",
+        "Transparency notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00113",
+      "block_type": "p",
+      "text": "70. Known risks, If a contracting authority wishes to rely on the ‘Materialisation of a known risk’ ground in Schedule 8, paragraph 5 to make any future modifications to a directly awarded contract, the known risks must be identified in the transparency notice (as required by Schedule 8, paragraph 6(b) ). For further information on modifications refer to the guidance on contract modifications .",
+      "ordinal": 113,
+      "heading_path": [
+        "What is direct award?",
+        "What are the primary notices linked to this aspect of the Act?",
+        "Transparency notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00114",
+      "block_type": "heading",
+      "text": "Timing",
+      "ordinal": 114,
+      "heading_path": [
+        "What is direct award?",
+        "What are the primary notices linked to this aspect of the Act?",
+        "Transparency notice",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00115",
+      "block_type": "p",
+      "text": "71. It is recommended that the transparency notice is published as soon as the decision to directly award the contract is made. Publishing as early as possible will mean that, if there is a challenge to the basis of the decision to directly award the contract, it will generally be made when it is less disruptive to the procurement. This is because a supplier has only 30 days (under section 106 (Time limits on claims)) to make a claim from the point at which it knew, or ought to have known, of the circumstances of the direct award).",
+      "ordinal": 115,
+      "heading_path": [
+        "What is direct award?",
+        "What are the primary notices linked to this aspect of the Act?",
+        "Transparency notice",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00116",
+      "block_type": "heading",
+      "text": "Subsequent notices",
+      "ordinal": 116,
+      "heading_path": [
+        "What is direct award?",
+        "What are the primary notices linked to this aspect of the Act?",
+        "Subsequent notices"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00117",
+      "block_type": "p",
+      "text": "72. Except as described below, the requirements for subsequent notices are the same as for contracts awarded under section 19 of the Act.",
+      "ordinal": 117,
+      "heading_path": [
+        "What is direct award?",
+        "What are the primary notices linked to this aspect of the Act?",
+        "Subsequent notices"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00118",
+      "block_type": "p",
+      "text": "73. The next notice after the transparency notice will be one of the following:",
+      "ordinal": 118,
+      "heading_path": [
+        "What is direct award?",
+        "What are the primary notices linked to this aspect of the Act?",
+        "Subsequent notices"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00119",
+      "block_type": "p",
+      "text": "a. procurement termination notice: to inform interested parties that a contracting authority has decided not to proceed with the award of a contract after having previously published the transparency notice. A procurement termination notice is mandatory in all such circumstances except when the transparency notice was published by a private utility; or",
+      "ordinal": 119,
+      "heading_path": [
+        "What is direct award?",
+        "What are the primary notices linked to this aspect of the Act?",
+        "Subsequent notices"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00120",
+      "block_type": "p",
+      "text": "b. contract award notice: to notify the market of the outcome of a procurement and to alert the market to the fact that a contract is about to be entered into.",
+      "ordinal": 120,
+      "heading_path": [
+        "What is direct award?",
+        "What are the primary notices linked to this aspect of the Act?",
+        "Subsequent notices"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00121",
+      "block_type": "p",
+      "text": "74. Contract award notice The contract award notice initiates any mandatory or voluntary standstill period and must be published before the contracting authority enters into a public contract. A contract award notice is mandatory for all direct awards except when the direct award is based on the justification for user choice contracts ( section 50(6)(b) ). The contracting authority is not permitted to enter into the contract during any standstill period ( section 51(1) ).",
+      "ordinal": 121,
+      "heading_path": [
+        "What is direct award?",
+        "What are the primary notices linked to this aspect of the Act?",
+        "Subsequent notices"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00122",
+      "block_type": "p",
+      "text": "75. A contracting authority is permitted to publish a contract award notice at any point after the transparency notice when it is directly awarding a contract under the Act (i.e. there is no requirement to wait until the contract is about to be awarded). Early publication of the contract award notice can avoid any standstill period delaying the contracting authority entering into the contract as it could be published, for example, during negotiations or while contract administration is being finalised. Contracting authorities will need to ensure that any published contract award notice accurately reflects the contract that is to be awarded or the contract award notice will need to be re-published and a new standstill period observed (where such a period is required by the Act).",
+      "ordinal": 122,
+      "heading_path": [
+        "What is direct award?",
+        "What are the primary notices linked to this aspect of the Act?",
+        "Subsequent notices"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00123",
+      "block_type": "p",
+      "text": "76. There are exceptions to the mandatory standstill period when a direct award is made under section 41 pursuant to Schedule 5, paragraph 13 (extreme and unavoidable urgency); under regulations made under section 42 (direct award to protect life, etc.); and under section 41 , section 42 or section 43 by private utilities. Where an exception to the mandatory standstill period applies, the contracting authority may still choose to implement a voluntary standstill period. See the guidance on the contract award notice and standstill .",
+      "ordinal": 123,
+      "heading_path": [
+        "What is direct award?",
+        "What are the primary notices linked to this aspect of the Act?",
+        "Subsequent notices"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00124",
+      "block_type": "p",
+      "text": "77. Contract details notice The next notice in the sequence after a contract award notice is a contract details notice. This notice provides interested parties with details of the contract that has been entered into and is mandatory, except where the contract has been directly awarded pursuant to Schedule 5, paragraph 15 (user choice contracts) or where it has been directly awarded by a private utility ( section 53(6)(a) ). (See the guidance on the contract details notice ).",
+      "ordinal": 124,
+      "heading_path": [
+        "What is direct award?",
+        "What are the primary notices linked to this aspect of the Act?",
+        "Subsequent notices"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00125",
+      "block_type": "heading",
+      "text": "What other guidance is of particular relevance to this topic area?",
+      "ordinal": 125,
+      "heading_path": [
+        "What is direct award?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00126",
+      "block_type": "p",
+      "text": "Guidance on covered procurement objectives",
+      "ordinal": 126,
+      "heading_path": [
+        "What is direct award?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00127",
+      "block_type": "p",
+      "text": "Guidance on conflicts of interest",
+      "ordinal": 127,
+      "heading_path": [
+        "What is direct award?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00128",
+      "block_type": "p",
+      "text": "Guidance on exclusions",
+      "ordinal": 128,
+      "heading_path": [
+        "What is direct award?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00129",
+      "block_type": "p",
+      "text": "Guidance on contract award notices and standstill",
+      "ordinal": 129,
+      "heading_path": [
+        "What is direct award?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00130",
+      "block_type": "li",
+      "text": "While not stated in the Act, section 41(5)(a) is intended to cover critical national infrastructure as defined in the National Cyber Security Strategy 2016-2021 , which provides that ‘Critical National Infrastructure’ is those critical elements of infrastructure (namely assets, facilities, systems, networks or processes and the essential workers that operate and facilitate them), the loss or compromise of which could result in: a. major detrimental impact on the availability, integrity or delivery of essential services – including those services whose integrity, if compromised, could result in significant loss of life or casualties – taking into account significant economic or social impacts; and/or, b. significant impact on national security, national defence, or the functioning of the state. ↩",
+      "ordinal": 130,
+      "heading_path": [
+        "What is direct award?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00131",
+      "block_type": "p",
+      "text": "While not stated in the Act, section 41(5)(a) is intended to cover critical national infrastructure as defined in the National Cyber Security Strategy 2016-2021 , which provides that ‘Critical National Infrastructure’ is those critical elements of infrastructure (namely assets, facilities, systems, networks or processes and the essential workers that operate and facilitate them), the loss or compromise of which could result in: a. major detrimental impact on the availability, integrity or delivery of essential services – including those services whose integrity, if compromised, could result in significant loss of life or casualties – taking into account significant economic or social impacts; and/or, b. significant impact on national security, national defence, or the functioning of the state. ↩",
+      "ordinal": 131,
+      "heading_path": [
+        "What is direct award?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00132",
+      "block_type": "li",
+      "text": "A defence authority contract is defined in section 7(4) as a defence and security contract awarded by a defence authority. A defence authority is defined in regulation 46 as (a) the Secretary of State for Defence, (b) the Atomic Weapons Establishment (AWE PLC), (c) the National Crime Agency and (d) the Oil and Pipelines Agency. ↩",
+      "ordinal": 132,
+      "heading_path": [
+        "What is direct award?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00133",
+      "block_type": "p",
+      "text": "A defence authority contract is defined in section 7(4) as a defence and security contract awarded by a defence authority. A defence authority is defined in regulation 46 as (a) the Secretary of State for Defence, (b) the Atomic Weapons Establishment (AWE PLC), (c) the National Crime Agency and (d) the Oil and Pipelines Agency. ↩",
+      "ordinal": 133,
+      "heading_path": [
+        "What is direct award?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00134",
+      "block_type": "li",
+      "text": "(a) the tender does not satisfy the conditions of participation; (b) the tender is from a supplier that is not a UK or treaty state supplier or intends to subcontract to a supplier that is not a UK or treaty state supplier; (c) the price is abnormally low. ↩",
+      "ordinal": 134,
+      "heading_path": [
+        "What is direct award?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00135",
+      "block_type": "p",
+      "text": "(a) the tender does not satisfy the conditions of participation; (b) the tender is from a supplier that is not a UK or treaty state supplier or intends to subcontract to a supplier that is not a UK or treaty state supplier; (c) the price is abnormally low. ↩",
+      "ordinal": 135,
+      "heading_path": [
+        "What is direct award?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "Procurement Act 2023 (Act)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/contents",
+      "block_id": "b00002",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 41",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/41",
+      "block_id": "b00004",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 5",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/5",
+      "block_id": "b00004",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 42",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/42",
+      "block_id": "b00004",
+      "ordinal": 3,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 43",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/43",
+      "block_id": "b00004",
+      "ordinal": 4,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 25",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/25",
+      "block_id": "b00005",
+      "ordinal": 5,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 44",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/44",
+      "block_id": "b00006",
+      "ordinal": 6,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 26",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/26",
+      "block_id": "b00006",
+      "ordinal": 7,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement Regulations 2024",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/contents",
+      "block_id": "b00006",
+      "ordinal": 8,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 90",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/90",
+      "block_id": "b00007",
+      "ordinal": 9,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 56",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/56",
+      "block_id": "b00007",
+      "ordinal": 10,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 5, paragraphs 15-17",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/5",
+      "block_id": "b00010",
+      "ordinal": 11,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 42",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/42",
+      "block_id": "b00013",
+      "ordinal": 12,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 43",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/43",
+      "block_id": "b00014",
+      "ordinal": 13,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 5",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/5",
+      "block_id": "b00014",
+      "ordinal": 14,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 43",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/43",
+      "block_id": "b00014",
+      "ordinal": 15,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 41",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/41",
+      "block_id": "b00016",
+      "ordinal": 16,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 5",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/5",
+      "block_id": "b00016",
+      "ordinal": 17,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 41",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/41",
+      "block_id": "b00017",
+      "ordinal": 18,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 57(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/57",
+      "block_id": "b00017",
+      "ordinal": 19,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "[footnote 1]",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/direct-award-html#fn:1",
+      "block_id": "b00018",
+      "ordinal": 20,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Schedule 5, paragraph 13",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/5/paragraph/13",
+      "block_id": "b00021",
+      "ordinal": 21,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 41",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/41",
+      "block_id": "b00022",
+      "ordinal": 22,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 57(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/57",
+      "block_id": "b00022",
+      "ordinal": 23,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "exclusions",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-exclusions-html",
+      "block_id": "b00022",
+      "ordinal": 24,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 41",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/41",
+      "block_id": "b00023",
+      "ordinal": 25,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 41",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/41",
+      "block_id": "b00024",
+      "ordinal": 26,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 43",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/43",
+      "block_id": "b00024",
+      "ordinal": 27,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "frameworks",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-frameworks-html",
+      "block_id": "b00024",
+      "ordinal": 28,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 5",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/5",
+      "block_id": "b00025",
+      "ordinal": 29,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 5",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/5",
+      "block_id": "b00026",
+      "ordinal": 30,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "exempted contracts",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-exempted-contracts-html--2",
+      "block_id": "b00030",
+      "ordinal": 31,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 8, paragraph 8",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/8/paragraph/8",
+      "block_id": "b00045",
+      "ordinal": 32,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "contract modifications",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-modifications-html",
+      "block_id": "b00045",
+      "ordinal": 33,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 5, paragraph 8(a)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/5/paragraph/8",
+      "block_id": "b00046",
+      "ordinal": 34,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 5, paragraph 12",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/5/paragraph/12",
+      "block_id": "b00050",
+      "ordinal": 35,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 54",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/54",
+      "block_id": "b00054",
+      "ordinal": 36,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 8, paragraphs 2 and 3",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/8",
+      "block_id": "b00057",
+      "ordinal": 37,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "contract modifications",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-modifications-html",
+      "block_id": "b00057",
+      "ordinal": 38,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Care Act 2014",
+      "href": "https://www.legislation.gov.uk/ukpga/2014/23/contents",
+      "block_id": "b00059",
+      "ordinal": 39,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Children and Families Act 2014",
+      "href": "https://www.legislation.gov.uk/ukpga/2014/6/contents",
+      "block_id": "b00059",
+      "ordinal": 40,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 7",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/7",
+      "block_id": "b00068",
+      "ordinal": 41,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 14(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2014/20/section/14",
+      "block_id": "b00069",
+      "ordinal": 42,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Defence Reform Act 2014",
+      "href": "https://www.legislation.gov.uk/ukpga/2014/20/contents",
+      "block_id": "b00069",
+      "ordinal": 43,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 74(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/74",
+      "block_id": "b00071",
+      "ordinal": 44,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 8, paragraph 4",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/8/paragraph/4",
+      "block_id": "b00072",
+      "ordinal": 45,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "paragraph 8",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/8/paragraph/8",
+      "block_id": "b00072",
+      "ordinal": 46,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Single Source Contract Regulations 2014",
+      "href": "https://www.legislation.gov.uk/ukdsi/2014/9780111122440/contents",
+      "block_id": "b00073",
+      "ordinal": 47,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "[footnote 2]",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/direct-award-html#fn:2",
+      "block_id": "b00075",
+      "ordinal": 48,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "section 7(1)(a-f)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/7",
+      "block_id": "b00076",
+      "ordinal": 49,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "7(1)(g)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/7",
+      "block_id": "b00076",
+      "ordinal": 50,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 7(1)(g) and 7(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/7",
+      "block_id": "b00076",
+      "ordinal": 51,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 42",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/42",
+      "block_id": "b00078",
+      "ordinal": 52,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 42",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/42",
+      "block_id": "b00079",
+      "ordinal": 53,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 41",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/41",
+      "block_id": "b00079",
+      "ordinal": 54,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 5, paragraphs 13 and 14",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/5",
+      "block_id": "b00080",
+      "ordinal": 55,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 41",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/41",
+      "block_id": "b00081",
+      "ordinal": 56,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 43",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/43",
+      "block_id": "b00083",
+      "ordinal": 57,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 43",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/43",
+      "block_id": "b00084",
+      "ordinal": 58,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 19",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/19",
+      "block_id": "b00084",
+      "ordinal": 59,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 43(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/43",
+      "block_id": "b00084",
+      "ordinal": 60,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 57",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/57",
+      "block_id": "b00085",
+      "ordinal": 61,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 41(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/41",
+      "block_id": "b00085",
+      "ordinal": 62,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 43",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/43",
+      "block_id": "b00085",
+      "ordinal": 63,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 43(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/43",
+      "block_id": "b00086",
+      "ordinal": 64,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 19(3)(a)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/19",
+      "block_id": "b00087",
+      "ordinal": 65,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "[footnote 3]",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/direct-award-html#fn:3",
+      "block_id": "b00087",
+      "ordinal": 66,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Section 43",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/43",
+      "block_id": "b00091",
+      "ordinal": 67,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 19",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/19",
+      "block_id": "b00093",
+      "ordinal": 68,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 50",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/50",
+      "block_id": "b00094",
+      "ordinal": 69,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 50",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/50",
+      "block_id": "b00094",
+      "ordinal": 70,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 12(1)(c)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/12",
+      "block_id": "b00095",
+      "ordinal": 71,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 43",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/43",
+      "block_id": "b00096",
+      "ordinal": 72,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 43(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/43",
+      "block_id": "b00096",
+      "ordinal": 73,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 43(1)(a)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/43",
+      "block_id": "b00096",
+      "ordinal": 74,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 43",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/43",
+      "block_id": "b00096",
+      "ordinal": 75,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 25",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/25",
+      "block_id": "b00097",
+      "ordinal": 76,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 41",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/41",
+      "block_id": "b00098",
+      "ordinal": 77,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 5, paragraph 5",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/5/paragraph/5",
+      "block_id": "b00098",
+      "ordinal": 78,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 16",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/16",
+      "block_id": "b00102",
+      "ordinal": 79,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 43",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/43",
+      "block_id": "b00102",
+      "ordinal": 80,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 12",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/12",
+      "block_id": "b00102",
+      "ordinal": 81,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 44",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/44",
+      "block_id": "b00104",
+      "ordinal": 82,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 5",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/5",
+      "block_id": "b00104",
+      "ordinal": 83,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 5, paragraph 15",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/5/paragraph/15",
+      "block_id": "b00104",
+      "ordinal": 84,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Regulation 26",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/26",
+      "block_id": "b00104",
+      "ordinal": 85,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 41",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/41",
+      "block_id": "b00106",
+      "ordinal": 86,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 7(4)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/7",
+      "block_id": "b00106",
+      "ordinal": 87,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "publication of information for further information",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-central-digital-platform-and-publication-of-information-html",
+      "block_id": "b00106",
+      "ordinal": 88,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 41",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/41",
+      "block_id": "b00110",
+      "ordinal": 89,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 42(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/42",
+      "block_id": "b00111",
+      "ordinal": 90,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 42(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/42",
+      "block_id": "b00111",
+      "ordinal": 91,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 43",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/43",
+      "block_id": "b00112",
+      "ordinal": 92,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 19",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/19",
+      "block_id": "b00112",
+      "ordinal": 93,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 8, paragraph 5",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/8/paragraph/5",
+      "block_id": "b00113",
+      "ordinal": 94,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 8, paragraph 6(b)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/8/paragraph/6",
+      "block_id": "b00113",
+      "ordinal": 95,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "contract modifications",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-modifications-html",
+      "block_id": "b00113",
+      "ordinal": 96,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": ".",
+      "href": "https://docs.google.com/document/d/19YOSj3nglKgtKEVGRSFaK96uym_bKuoG4PpuYttU7hk/edit",
+      "block_id": "b00113",
+      "ordinal": 97,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 106",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/106",
+      "block_id": "b00115",
+      "ordinal": 98,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 19",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/19",
+      "block_id": "b00117",
+      "ordinal": 99,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 50(6)(b)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/50",
+      "block_id": "b00121",
+      "ordinal": 100,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 51(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/51",
+      "block_id": "b00121",
+      "ordinal": 101,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 41",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/41",
+      "block_id": "b00123",
+      "ordinal": 102,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 5, paragraph 13",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/5/paragraph/13",
+      "block_id": "b00123",
+      "ordinal": 103,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 42",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/42",
+      "block_id": "b00123",
+      "ordinal": 104,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 41",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/41",
+      "block_id": "b00123",
+      "ordinal": 105,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 42",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/42",
+      "block_id": "b00123",
+      "ordinal": 106,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 43",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/43",
+      "block_id": "b00123",
+      "ordinal": 107,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "contract award notice and standstill",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-contract-award-notices-and-standstill-html",
+      "block_id": "b00123",
+      "ordinal": 108,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 5, paragraph 15",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/5/paragraph/15",
+      "block_id": "b00124",
+      "ordinal": 109,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 53(6)(a)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/53",
+      "block_id": "b00124",
+      "ordinal": 110,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "contract details notice",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-contract-details-notices-html",
+      "block_id": "b00124",
+      "ordinal": 111,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "covered procurement objectives",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-covered-procurement-objectives-html",
+      "block_id": "b00126",
+      "ordinal": 112,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "conflicts of interest",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-conflicts-of-interest-html",
+      "block_id": "b00127",
+      "ordinal": 113,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "exclusions",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-exclusions-html",
+      "block_id": "b00128",
+      "ordinal": 114,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "contract award notices and standstill",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-contract-award-notices-and-standstill-html",
+      "block_id": "b00129",
+      "ordinal": 115,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "National Cyber Security Strategy 2016-2021",
+      "href": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/567242/national_cyber_security_strategy_2016.pdf",
+      "block_id": "b00130",
+      "ordinal": 116,
+      "link_type": "ATTACHMENT"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/direct-award-html#fnref:1",
+      "block_id": "b00130",
+      "ordinal": 117,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "National Cyber Security Strategy 2016-2021",
+      "href": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/567242/national_cyber_security_strategy_2016.pdf",
+      "block_id": "b00131",
+      "ordinal": 118,
+      "link_type": "ATTACHMENT"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/direct-award-html#fnref:1",
+      "block_id": "b00131",
+      "ordinal": 119,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/direct-award-html#fnref:2",
+      "block_id": "b00132",
+      "ordinal": 120,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/direct-award-html#fnref:2",
+      "block_id": "b00133",
+      "ordinal": 121,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/direct-award-html#fnref:3",
+      "block_id": "b00134",
+      "ordinal": 122,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/direct-award-html#fnref:3",
+      "block_id": "b00135",
+      "ordinal": 123,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Guidance: Direct Award (HTML)",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/direct-award-html",
+      "block_id": "__document__",
+      "ordinal": 124,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2022 to 2024 Sunak Conservative government",
+      "href": "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 125,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 126,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Procurement Act 2023 guidance documents - Define phase",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase",
+      "block_id": "__document__",
+      "ordinal": 127,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 128,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 41",
+      "block_id": "b00004",
+      "start": 153,
+      "end": 163,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "41"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 42",
+      "block_id": "b00004",
+      "start": 220,
+      "end": 230,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "42"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 43",
+      "block_id": "b00004",
+      "start": 234,
+      "end": 244,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "43"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 5",
+      "block_id": "b00004",
+      "start": 206,
+      "end": 216,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "5"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 25",
+      "block_id": "b00005",
+      "start": 3,
+      "end": 13,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "25"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 44",
+      "block_id": "b00006",
+      "start": 3,
+      "end": 13,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "44"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 26",
+      "block_id": "b00006",
+      "start": 165,
+      "end": 178,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "26"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2024 (Regulations)",
+      "block_id": "b00006",
+      "start": 198,
+      "end": 228,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2024",
+        "tail": " (Regulations)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 90",
+      "block_id": "b00007",
+      "start": 40,
+      "end": 50,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "90"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 56",
+      "block_id": "b00007",
+      "start": 275,
+      "end": 285,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "56"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 5",
+      "block_id": "b00010",
+      "start": 156,
+      "end": 166,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "5"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraphs 15",
+      "block_id": "b00010",
+      "start": 168,
+      "end": 181,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "15"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraphs 74",
+      "block_id": "b00011",
+      "start": 116,
+      "end": 129,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "74"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 42",
+      "block_id": "b00013",
+      "start": 3,
+      "end": 13,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "42"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 43",
+      "block_id": "b00014",
+      "start": 60,
+      "end": 70,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "43"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 43",
+      "block_id": "b00014",
+      "start": 206,
+      "end": 216,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "43"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 5",
+      "block_id": "b00014",
+      "start": 149,
+      "end": 159,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "5"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 41",
+      "block_id": "b00016",
+      "start": 205,
+      "end": 215,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "41"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 5",
+      "block_id": "b00016",
+      "start": 266,
+      "end": 276,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "5"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 41",
+      "block_id": "b00017",
+      "start": 4,
+      "end": 14,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "41"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 57(1)",
+      "block_id": "b00017",
+      "start": 100,
+      "end": 113,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "57",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 5, paragraph 13",
+      "block_id": "b00021",
+      "start": 65,
+      "end": 89,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "5",
+        "paragraph": "13"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 13",
+      "block_id": "b00021",
+      "start": 77,
+      "end": 89,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "13"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 41",
+      "block_id": "b00022",
+      "start": 44,
+      "end": 54,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "41"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 57(2)",
+      "block_id": "b00022",
+      "start": 153,
+      "end": 166,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "57",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 41",
+      "block_id": "b00023",
+      "start": 4,
+      "end": 14,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "41"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 41",
+      "block_id": "b00024",
+      "start": 102,
+      "end": 112,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "41"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 43",
+      "block_id": "b00024",
+      "start": 116,
+      "end": 126,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "43"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 5",
+      "block_id": "b00025",
+      "start": 47,
+      "end": 57,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "5"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 5",
+      "block_id": "b00026",
+      "start": 0,
+      "end": 10,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "5"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 8, paragraph 8",
+      "block_id": "b00045",
+      "start": 107,
+      "end": 130,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "8",
+        "paragraph": "8"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 8",
+      "block_id": "b00045",
+      "start": 119,
+      "end": 130,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "8"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 5, paragraph 8(a)",
+      "block_id": "b00046",
+      "start": 443,
+      "end": 469,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "5",
+        "paragraph": "8",
+        "tail": "(a)"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 8(a)",
+      "block_id": "b00046",
+      "start": 455,
+      "end": 469,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "8",
+        "tail": "(a)"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 5, paragraph 12",
+      "block_id": "b00050",
+      "start": 780,
+      "end": 804,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "5",
+        "paragraph": "12"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 12",
+      "block_id": "b00050",
+      "start": 792,
+      "end": 804,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "12"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 54",
+      "block_id": "b00054",
+      "start": 299,
+      "end": 309,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "54"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 8",
+      "block_id": "b00057",
+      "start": 182,
+      "end": 192,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "8"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraphs 2",
+      "block_id": "b00057",
+      "start": 194,
+      "end": 206,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "2"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 7",
+      "block_id": "b00068",
+      "start": 159,
+      "end": 168,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "7"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 14(2)",
+      "block_id": "b00069",
+      "start": 274,
+      "end": 287,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "14",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 74(3)",
+      "block_id": "b00071",
+      "start": 44,
+      "end": 57,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "74",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 8, paragraph 4",
+      "block_id": "b00072",
+      "start": 22,
+      "end": 45,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "8",
+        "paragraph": "4"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 4",
+      "block_id": "b00072",
+      "start": 34,
+      "end": 45,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "4"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 8",
+      "block_id": "b00072",
+      "start": 79,
+      "end": 90,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "8"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2014",
+      "block_id": "b00073",
+      "start": 205,
+      "end": 221,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2014"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 7(1)",
+      "block_id": "b00076",
+      "start": 77,
+      "end": 89,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "7",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 7(1)(g)",
+      "block_id": "b00076",
+      "start": 167,
+      "end": 182,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "7",
+        "tail": "(1)(g)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 42",
+      "block_id": "b00078",
+      "start": 0,
+      "end": 10,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "42"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 42",
+      "block_id": "b00079",
+      "start": 4,
+      "end": 14,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "42"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 41",
+      "block_id": "b00079",
+      "start": 147,
+      "end": 157,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "41"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 5",
+      "block_id": "b00080",
+      "start": 286,
+      "end": 296,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "5"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraphs 13",
+      "block_id": "b00080",
+      "start": 298,
+      "end": 311,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "13"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 41",
+      "block_id": "b00081",
+      "start": 163,
+      "end": 173,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "41"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 43",
+      "block_id": "b00083",
+      "start": 0,
+      "end": 10,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "43"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 43",
+      "block_id": "b00084",
+      "start": 4,
+      "end": 14,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "43"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 19",
+      "block_id": "b00084",
+      "start": 414,
+      "end": 424,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "19"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 43(1)",
+      "block_id": "b00084",
+      "start": 467,
+      "end": 480,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "43",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 57",
+      "block_id": "b00085",
+      "start": 97,
+      "end": 107,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "57"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 41(2)",
+      "block_id": "b00085",
+      "start": 142,
+      "end": 155,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "41",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 43",
+      "block_id": "b00085",
+      "start": 205,
+      "end": 215,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "43"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 43(2)",
+      "block_id": "b00086",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "43",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 19(3)(a)",
+      "block_id": "b00087",
+      "start": 69,
+      "end": 85,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "19",
+        "tail": "(3)(a)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 43",
+      "block_id": "b00091",
+      "start": 4,
+      "end": 14,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "43"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 19",
+      "block_id": "b00093",
+      "start": 95,
+      "end": 105,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "19"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 50",
+      "block_id": "b00094",
+      "start": 118,
+      "end": 128,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "50"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 50",
+      "block_id": "b00094",
+      "start": 258,
+      "end": 268,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "50"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 12(1)(c)",
+      "block_id": "b00095",
+      "start": 197,
+      "end": 213,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "12",
+        "tail": "(1)(c)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 43",
+      "block_id": "b00096",
+      "start": 4,
+      "end": 14,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "43"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 43(1)",
+      "block_id": "b00096",
+      "start": 152,
+      "end": 165,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "43",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 43(1)(a)",
+      "block_id": "b00096",
+      "start": 175,
+      "end": 191,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "43",
+        "tail": "(1)(a)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 43",
+      "block_id": "b00096",
+      "start": 261,
+      "end": 271,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "43"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 25",
+      "block_id": "b00097",
+      "start": 0,
+      "end": 10,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "25"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 41",
+      "block_id": "b00098",
+      "start": 395,
+      "end": 405,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "41"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 5, paragraph 5",
+      "block_id": "b00098",
+      "start": 867,
+      "end": 890,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "5",
+        "paragraph": "5"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 5",
+      "block_id": "b00098",
+      "start": 879,
+      "end": 890,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "5"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 16",
+      "block_id": "b00102",
+      "start": 7,
+      "end": 17,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "16"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 43",
+      "block_id": "b00102",
+      "start": 229,
+      "end": 239,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "43"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 12",
+      "block_id": "b00102",
+      "start": 530,
+      "end": 540,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "12"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 44",
+      "block_id": "b00104",
+      "start": 88,
+      "end": 98,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "44"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 5",
+      "block_id": "b00104",
+      "start": 114,
+      "end": 126,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "5"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 26",
+      "block_id": "b00104",
+      "start": 360,
+      "end": 373,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "26"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 5, paragraph 15",
+      "block_id": "b00104",
+      "start": 333,
+      "end": 357,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "5",
+        "paragraph": "15"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 15",
+      "block_id": "b00104",
+      "start": 345,
+      "end": 357,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "15"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 41",
+      "block_id": "b00106",
+      "start": 150,
+      "end": 160,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "41"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 7(4)",
+      "block_id": "b00106",
+      "start": 384,
+      "end": 399,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "7",
+        "tail": "(4)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 41",
+      "block_id": "b00110",
+      "start": 75,
+      "end": 85,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "41"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 42(1)",
+      "block_id": "b00111",
+      "start": 87,
+      "end": 100,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "42",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 42(1)",
+      "block_id": "b00111",
+      "start": 167,
+      "end": 180,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "42",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 43",
+      "block_id": "b00112",
+      "start": 70,
+      "end": 80,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "43"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 19",
+      "block_id": "b00112",
+      "start": 203,
+      "end": 213,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "19"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 8, paragraph 5",
+      "block_id": "b00113",
+      "start": 110,
+      "end": 133,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "8",
+        "paragraph": "5"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 8, paragraph 6(b)",
+      "block_id": "b00113",
+      "start": 277,
+      "end": 303,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "8",
+        "paragraph": "6",
+        "tail": "(b)"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 5",
+      "block_id": "b00113",
+      "start": 122,
+      "end": 133,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "5"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 6(b)",
+      "block_id": "b00113",
+      "start": 289,
+      "end": 303,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "6",
+        "tail": "(b)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 106",
+      "block_id": "b00115",
+      "start": 385,
+      "end": 396,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "106"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 19",
+      "block_id": "b00117",
+      "start": 115,
+      "end": 125,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "19"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 50(6)(b)",
+      "block_id": "b00121",
+      "start": 339,
+      "end": 355,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "50",
+        "tail": "(6)(b)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 51(1)",
+      "block_id": "b00121",
+      "start": 460,
+      "end": 473,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "51",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 41",
+      "block_id": "b00123",
+      "start": 94,
+      "end": 104,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "41"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 42",
+      "block_id": "b00123",
+      "start": 206,
+      "end": 216,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "42"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 41",
+      "block_id": "b00123",
+      "start": 265,
+      "end": 275,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "41"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 42",
+      "block_id": "b00123",
+      "start": 278,
+      "end": 288,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "42"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 43",
+      "block_id": "b00123",
+      "start": 292,
+      "end": 302,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "43"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 5, paragraph 13",
+      "block_id": "b00123",
+      "start": 117,
+      "end": 141,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "5",
+        "paragraph": "13"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 13",
+      "block_id": "b00123",
+      "start": 129,
+      "end": 141,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "13"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 53(6)(a)",
+      "block_id": "b00124",
+      "start": 408,
+      "end": 424,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "53",
+        "tail": "(6)(a)"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 5, paragraph 15",
+      "block_id": "b00124",
+      "start": 298,
+      "end": 322,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "5",
+        "paragraph": "15"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 15",
+      "block_id": "b00124",
+      "start": 310,
+      "end": 322,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "15"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 41(5)(a)",
+      "block_id": "b00130",
+      "start": 29,
+      "end": 45,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "41",
+        "tail": "(5)(a)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 41(5)(a)",
+      "block_id": "b00131",
+      "start": 29,
+      "end": 45,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "41",
+        "tail": "(5)(a)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 7(4)",
+      "block_id": "b00132",
+      "start": 43,
+      "end": 55,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "7",
+        "tail": "(4)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 46",
+      "block_id": "b00132",
+      "start": 157,
+      "end": 170,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "46"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 7(4)",
+      "block_id": "b00133",
+      "start": 43,
+      "end": 55,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "7",
+        "tail": "(4)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 46",
+      "block_id": "b00133",
+      "start": 157,
+      "end": 170,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "46"
+      }
+    }
+  ],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/567242/national_cyber_security_strategy_2016.pdf",
+      "title": "National Cyber Security Strategy 2016-2021",
+      "discovered_in_block": "b00130"
+    }
+  ],
+  "warnings": []
+}

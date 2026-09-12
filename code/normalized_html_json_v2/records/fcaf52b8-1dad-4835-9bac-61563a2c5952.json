@@ -1,0 +1,143 @@
+{
+  "document_id": "fcaf52b8-1dad-4835-9bac-61563a2c5952",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/65bd9a05aea8c22f572963b9.json",
+  "input_sha256": "25c1fc7f87b7eaa1fd4ef772cd03b1514a6a911afb5d257e07db873bf9f4b829",
+  "processed_at": "2026-08-27T02:26:20.729095+00:00",
+  "title": "Procurement Policy Note 02/15: Public Contracts Regulations 2015",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-policy-note-0215-public-contracts-regulations-2015",
+  "description": "The Public Contracts Regulations 2015 have been laid in Parliament and come into force on 26 February 2015.",
+  "publication_date": "2015-02-06T19:23:00+00:00",
+  "updated_date": "2015-02-06T19:23:00+00:00",
+  "source_metadata": {
+    "content_id": "fcaf52b8-1dad-4835-9bac-61563a2c5952",
+    "base_path": "/government/publications/procurement-policy-note-0215-public-contracts-regulations-2015",
+    "document_type": "guidance",
+    "schema_name": "publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "The Public Contracts Regulations 2015 implement the 2014 EU Public Sector Procurement Directive and some reforms, recommended by Lord Young of Graffham. They aim to make public procurement more accessible to small businesses.",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "The Regulations are due to come into force on 26 February 2015. The new rules apply to procurements starting on or after this date, except for a small number of procurements listed in the Regulations.",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "Read further guidance on implementing the EU procurement directives .",
+      "ordinal": 2,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "implementing the EU procurement directives",
+      "href": "https://www.gov.uk/transposing-eu-procurement-directives",
+      "block_id": "b00002",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement Policy Note 02/15: Public Contracts Regulations 2015",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0215-public-contracts-regulations-2015",
+      "block_id": "__document__",
+      "ordinal": 1,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "Procurement policy notes",
+      "href": "https://www.gov.uk/government/collections/procurement-policy-notes",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_DOCUMENT_COLLECTIONS"
+    },
+    {
+      "text": "2010 to 2015 Conservative and Liberal Democrat coalition government",
+      "href": "https://www.gov.uk/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Crown Commercial Service",
+      "href": "https://www.gov.uk/government/organisations/crown-commercial-service",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_ORIGINAL_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 7,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Government spending",
+      "href": "https://www.gov.uk/government/government-spending",
+      "block_id": "__document__",
+      "ordinal": 8,
+      "link_type": "GOVUK_TAXONS"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015",
+      "block_id": "b00000",
+      "start": 21,
+      "end": 37,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015"
+      }
+    }
+  ],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/5a80400040f0b62305b8a0ed/PPN_02-15_-_PCR_2015.pdf",
+      "title": "Procurement Policy Note – Public Contracts Regulations 2015",
+      "content_type": "application/pdf",
+      "filename": "PPN_02-15_-_PCR_2015.pdf",
+      "id": "906735",
+      "logical_role": "ATTACHMENT"
+    }
+  ],
+  "warnings": []
+}

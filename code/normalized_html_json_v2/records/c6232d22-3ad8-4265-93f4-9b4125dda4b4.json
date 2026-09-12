@@ -1,0 +1,651 @@
+{
+  "document_id": "c6232d22-3ad8-4265-93f4-9b4125dda4b4",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/36320624e6635ec24a01b98e.json",
+  "input_sha256": "6fd88d1baa0f76ba489824fff8c17de6dd5081e726d914c7799cb8b394eacb63",
+  "processed_at": "2026-08-27T02:26:11.185778+00:00",
+  "title": "PPN 024 - The Public Interest Test and Insourcing Strategy (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/ppn-024-the-public-interest-test-and-insourcing-strategy/ppn-024-the-public-interest-test-and-insourcing-strategy-html",
+  "description": null,
+  "publication_date": "2026-06-17T10:28:37+01:00",
+  "updated_date": "2026-06-17T10:28:37+01:00",
+  "source_metadata": {
+    "content_id": "c6232d22-3ad8-4265-93f4-9b4125dda4b4",
+    "base_path": "/government/publications/ppn-024-the-public-interest-test-and-insourcing-strategy/ppn-024-the-public-interest-test-and-insourcing-strategy-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Issue",
+      "ordinal": 2,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Dissemination and scope",
+      "ordinal": 6,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Timing",
+      "ordinal": 20,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Action",
+      "ordinal": 24,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Background",
+      "ordinal": 29,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Contact",
+      "ordinal": 34,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "Action note: 024",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "Issued: June 2026",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "heading",
+      "text": "Issue",
+      "ordinal": 2,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "1. Sourcing decisions can critically impact the quality of public services and the successful delivery of government objectives. Insourcing can be a crucial mechanism for enhancing value, control and resilience.",
+      "ordinal": 3,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "2. To achieve a fundamental shift in how public sector organisations evaluate their service delivery models, a new approach is required to guarantee that the viability of internal delivery is explored consistently.",
+      "ordinal": 4,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "3. Historically, sourcing decisions have been made on a contract-by-contract basis. However, effective sourcing of public services requires contracting authorities to take a longer-term approach and build the necessary capability and capacity to consider delivering the service directly.",
+      "ordinal": 5,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "heading",
+      "text": "Dissemination and scope",
+      "ordinal": 6,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "4. This Procurement Policy Note (PPN) applies only to, central government departments, their executive agencies and non-departmental public bodies. Such bodies are referred to as ‘in-scope organisations’. Other public sector contracting authorities may wish to adopt the approach set out in this PPN and are encouraged to do so.",
+      "ordinal": 7,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "5. The Public Interest Test applies prior to commencing any planned project, including re-procurements, for a service with an estimated value of more than £1 million (including VAT), that may result in the award of a public contract under the Procurement Act 2023, with the following exceptions:",
+      "ordinal": 8,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "a. Direct award contracts made under Section 41 of the Act (which permits direct awards for special cases including extreme urgency, prototypes, exclusive rights, repeat requirements, commodities, insolvency, and user choice contracts), with the exception of the justification laid out in paragraph 6 of Schedule 5 (absence of competition for technical reasons);",
+      "ordinal": 9,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "p",
+      "text": "b. Direct award contracts made under Section 42 of the Act (which permits direct awards necessary to protect life or public safety);",
+      "ordinal": 10,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "c. Exempted contracts under Schedule 2 of the Act;",
+      "ordinal": 11,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "d. Defence and Security contracts (as defined by the Act) for services related to Defence and Security goods where those services are delivered by the original equipment manufacturer;",
+      "ordinal": 12,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "e. Service contracts whose primary object is the provision of services delivered outside of the UK;",
+      "ordinal": 13,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "f. Contracts for regulated health procurement exempted under Regulation 43 of the Procurement Regulations 2024 (which excludes health services defined in Section 120(2) of the Act from the standard procurement regime);",
+      "ordinal": 14,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "g. Where the contract is for policy or programme evaluation, research, or technical data or analysis development and the work falls under the criteria laid out in section 4.2 of the guidance;",
+      "ordinal": 15,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "h. Where the specific, individual service requirement has already been explicitly appraised within the Insourcing Strategy, provided that the depth of analysis is similar in rigour to the requirements of the Test; and",
+      "ordinal": 16,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "i. Procurements solely to establish a framework or set up a dynamic market; or",
+      "ordinal": 17,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "p",
+      "text": "j. If after conducting a Public Interest Test, the final sourcing decision was to establish a framework or dynamic market, subsequent call-off contracts will not require further Tests, provided the call-off is for the same service.",
+      "ordinal": 18,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "6. Please circulate this PPN and accompanying guidance within your organisation, particularly to those with a commercial, procurement, contract management and/or security role. It may also be relevant to those in finance, operational and sustainability roles.",
+      "ordinal": 19,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "heading",
+      "text": "Timing",
+      "ordinal": 20,
+      "heading_path": [
+        "Issue",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "7. In-Scope Organisations should apply the provisions of this PPN according to the following timeline:",
+      "ordinal": 21,
+      "heading_path": [
+        "Issue",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "p",
+      "text": "a. Public Interest Tests should be applied from 1 April 2027. This requirement applies only to new planned projects and re-procurements. It is not required for in-progress projects that, at the date of commencement, have already completed a Strategic Outline Case, Delivery Model Assessment, or equivalent internal governance stage.",
+      "ordinal": 22,
+      "heading_path": [
+        "Issue",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "b. The Insourcing Strategy outlined in this PPN should be completed by 1 April 2027 and published within 30 days of completion.",
+      "ordinal": 23,
+      "heading_path": [
+        "Issue",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "heading",
+      "text": "Action",
+      "ordinal": 24,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "p",
+      "text": "8. In-scope organisations should, using the accompanying guidance to this PPN:",
+      "ordinal": 25,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "p",
+      "text": "a. Conduct a Public Interest Test prior to commencing any planned project, including re-procurements, for a service with an estimated value of more than £1 million (including VAT) that may result in the award of a public contract under the Procurement Act 2023. Subject to relevant exemptions set out in paragraph 5.",
+      "ordinal": 26,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "p",
+      "text": "b. Record the outcomes of all Public Interest Tests using the provided quarterly reporting template and submit this return to the Government Commercial Agency within 30 days of the end of each calendar quarter. The first return will cover the period from 1 April 2027 to 30 June 2027 and is due by 30 July 2027. In-scope organisations are responsible for redacting sensitive information from the return before submission.",
+      "ordinal": 27,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "c. Develop and publish a five-year Insourcing Strategy within 30 days of 1 April 2027, where the organisation has an annual contract spend of £100 million (including VAT) or more.",
+      "ordinal": 28,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "heading",
+      "text": "Background",
+      "ordinal": 29,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "p",
+      "text": "9. To ensure that public services are run effectively and maximise public value, a new framework is necessary to systematically evaluate the option of delivering services in-house before a procurement begins. The introduction of the ‘Public Interest Test’ achieves this by placing greater emphasis on rebuilding state capability and long-term national resilience.",
+      "ordinal": 30,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "p",
+      "text": "10. Historically, government assessments of value for money have often focused too narrowly on the cost element of service delivery when comparing insourcing to traditional market options. The accompanying guidance addresses this by encouraging a broader, more comprehensive view of value for money. It provides a methodology for practitioners to evaluate internal delivery models, ensuring that sourcing decisions move beyond simple cost comparisons to actively take into account wider government objectives alongside key economic and social goals.",
+      "ordinal": 31,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "p",
+      "text": "11. By establishing a formal framework through five-year insourcing strategies, Government can identify these opportunities early in the project lifecycle. This forward-looking planning provides the essential lead time required to build internal skills and operational readiness, supporting a shift to a more interventionist, market-shaping approach in central government procurement.",
+      "ordinal": 32,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "p",
+      "text": "12. Any subsequent insourcing or outsourcing decisions following on from the application of a Public Interest Test must be carried out in accordance with the Procurement Act 2023. In-scope organisations should make a case-by-case assessment of whether a service is a good candidate for insourcing to ensure the best outcomes for the taxpayer are achieved.",
+      "ordinal": 33,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "heading",
+      "text": "Contact",
+      "ordinal": 34,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "p",
+      "text": "13. Enquiries about this PPN should be directed to the Markets, Sourcing and Suppliers team at markets-sourcing-suppliers@gca.gov.uk .",
+      "ordinal": 35,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "markets-sourcing-suppliers@gca.gov.uk",
+      "href": "mailto:markets-sourcing-suppliers@gca.gov.uk",
+      "block_id": "b00035",
+      "ordinal": 0,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "PPN 024 - The Public Interest Test and Insourcing Strategy (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-024-the-public-interest-test-and-insourcing-strategy/ppn-024-the-public-interest-test-and-insourcing-strategy-html",
+      "block_id": "__document__",
+      "ordinal": 1,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2024 to 2026 Starmer Labour government",
+      "href": "https://www.gov.uk/government/2024-starmer-labour-government",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "PPN 024: The Public Interest Test and Insourcing Strategy",
+      "href": "https://www.gov.uk/government/publications/ppn-024-the-public-interest-test-and-insourcing-strategy",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 41",
+      "block_id": "b00009",
+      "start": 37,
+      "end": 47,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "41"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 5",
+      "block_id": "b00009",
+      "start": 304,
+      "end": 314,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "5"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 6",
+      "block_id": "b00009",
+      "start": 289,
+      "end": 300,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "6"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 42",
+      "block_id": "b00010",
+      "start": 37,
+      "end": 47,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "42"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 2",
+      "block_id": "b00011",
+      "start": 28,
+      "end": 38,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "2"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 120(2)",
+      "block_id": "b00014",
+      "start": 154,
+      "end": 168,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "120",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 43",
+      "block_id": "b00014",
+      "start": 61,
+      "end": 74,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "43"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2024",
+      "block_id": "b00014",
+      "start": 94,
+      "end": 110,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2024"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 4",
+      "block_id": "b00015",
+      "start": 163,
+      "end": 172,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "4"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 5",
+      "block_id": "b00026",
+      "start": 304,
+      "end": 315,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "5"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

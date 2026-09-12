@@ -1,0 +1,589 @@
+{
+  "document_id": "cbd416e8-e069-4ed0-b685-48c079d2fafa",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/15c3ffbda2c2d35c0268f41e.json",
+  "input_sha256": "362948cd975d5dbc5ec5e7968b12bd008c2b0d490a128bade225e79072f8b0cf",
+  "processed_at": "2026-08-27T02:26:05.474733+00:00",
+  "title": "PPN 02/23 - Tackling Modern Slavery in Government Supply Chains - Quick Reference Guide (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/ppn-0223-tackling-modern-slavery-in-government-supply-chains/ppn-0223-tackling-modern-slavery-in-government-supply-chains-quick-reference-guide-html",
+  "description": null,
+  "publication_date": "2023-02-10T15:00:05+00:00",
+  "updated_date": "2024-03-25T09:00:04+00:00",
+  "source_metadata": {
+    "content_id": "cbd416e8-e069-4ed0-b685-48c079d2fafa",
+    "base_path": "/government/publications/ppn-0223-tackling-modern-slavery-in-government-supply-chains/ppn-0223-tackling-modern-slavery-in-government-supply-chains-quick-reference-guide-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Overview",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What is Modern Slavery?",
+      "ordinal": 3,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "New Procurements",
+      "ordinal": 10,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Existing Contracts",
+      "ordinal": 16,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Taking Action When Victims of Modern Slavery Are Identified",
+      "ordinal": 21,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Training",
+      "ordinal": 25,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Useful Sources of Information",
+      "ordinal": 28,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "Overview",
+      "ordinal": 0,
+      "heading_path": [
+        "Overview"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "This quick reference guide is aimed at commercial and procurement professionals involved in any stage of the commercial lifecycle. It summarises the key actions to be taken to ensure modern slavery risks are identified and managed, both on existing contracts and in new procurement activity.",
+      "ordinal": 1,
+      "heading_path": [
+        "Overview"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "The approach needs to be proportionate to ensure that the burdens in public procurement remain as low as possible - both for contracting bodies and for suppliers, especially small businesses and VCSE organisations.",
+      "ordinal": 2,
+      "heading_path": [
+        "Overview"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "heading",
+      "text": "What is Modern Slavery?",
+      "ordinal": 3,
+      "heading_path": [
+        "Overview",
+        "What is Modern Slavery?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "Modern slavery is a term used to describe the crimes of holding a person in a position of slavery, servitude, forced or compulsory labour, or human trafficking (facilitating a person’s travel with the intention of exploiting them soon after). These crimes exist across the world, including the UK. They can occur in any business sector, including those in government supply chains.",
+      "ordinal": 4,
+      "heading_path": [
+        "Overview",
+        "What is Modern Slavery?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "This quick reference guide, and government’s published policy and guidance, is concerned primarily with forced and compulsory labour, but actions taken to implement the guidance will impact all modern slavery risks.",
+      "ordinal": 5,
+      "heading_path": [
+        "Overview",
+        "What is Modern Slavery?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "li",
+      "text": "Asses your risks",
+      "ordinal": 6,
+      "heading_path": [
+        "Overview",
+        "What is Modern Slavery?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "li",
+      "text": "Manage and develop",
+      "ordinal": 7,
+      "heading_path": [
+        "Overview",
+        "What is Modern Slavery?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "li",
+      "text": "Take action",
+      "ordinal": 8,
+      "heading_path": [
+        "Overview",
+        "What is Modern Slavery?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "li",
+      "text": "Learn and improve",
+      "ordinal": 9,
+      "heading_path": [
+        "Overview",
+        "What is Modern Slavery?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "heading",
+      "text": "New Procurements",
+      "ordinal": 10,
+      "heading_path": [
+        "Overview",
+        "New Procurements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "li",
+      "text": "Risk assessment: Identify which contracts are at high or medium risk of modern slavery\nbased on industry type, complexity of supply chain, the nature of the workforce, context in which the supplier operates, type of commodity and supplier location.",
+      "ordinal": 11,
+      "heading_path": [
+        "Overview",
+        "New Procurements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "li",
+      "text": "Pre-procurement & Specification: Design new procurements in line with the associated risk level including (if appropriate) application of the Social Value Model.",
+      "ordinal": 12,
+      "heading_path": [
+        "Overview",
+        "New Procurements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "li",
+      "text": "Selection Stage: Consider the mandatory and discretionary exclusion grounds as set out in the Standard Selection Questionnaire. For high risk procurements, Part 1 and 2\ndeclarations should be submitted for supply chain members.",
+      "ordinal": 13,
+      "heading_path": [
+        "Overview",
+        "New Procurements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "li",
+      "text": "Award Stage: Apply tender response questions relating to modern slavery where\nthey link to the specification, taking a proportionate approach.",
+      "ordinal": 14,
+      "heading_path": [
+        "Overview",
+        "New Procurements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "li",
+      "text": "Contract Conditions: Consider including specific terms and conditions to strengthen\ncontractual protection.",
+      "ordinal": 15,
+      "heading_path": [
+        "Overview",
+        "New Procurements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "heading",
+      "text": "Existing Contracts",
+      "ordinal": 16,
+      "heading_path": [
+        "Overview",
+        "Existing Contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "li",
+      "text": "Following contract award, continually work in collaboration with suppliers to address\nmodern slavery risks and monitor progress. Put action plans in place to mitigate the\nrisks identified.",
+      "ordinal": 17,
+      "heading_path": [
+        "Overview",
+        "Existing Contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "li",
+      "text": "Map the supply chain of those contracts to establish specific risks. The Modern Slavery\nAssessment Tool (MSAT) from the Home Office can assist with this exercise.",
+      "ordinal": 18,
+      "heading_path": [
+        "Overview",
+        "Existing Contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "li",
+      "text": "Work with the suppliers on high and medium risk contracts to mitigate the risks\nthrough strengthened contract management.",
+      "ordinal": 19,
+      "heading_path": [
+        "Overview",
+        "Existing Contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "li",
+      "text": "Repeat this exercise at least annually for high risk contracts and at reasonable\nintervals for medium risk contracts.",
+      "ordinal": 20,
+      "heading_path": [
+        "Overview",
+        "Existing Contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "heading",
+      "text": "Taking Action When Victims of Modern Slavery Are Identified",
+      "ordinal": 21,
+      "heading_path": [
+        "Overview",
+        "Taking Action When Victims of Modern Slavery Are Identified"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "li",
+      "text": "If a victim of modern slavery has been identified, you should involve the law\nenforcement agencies. If a victim is in the UK and is in immediate danger, report it to the police by dialling 999.",
+      "ordinal": 22,
+      "heading_path": [
+        "Overview",
+        "Taking Action When Victims of Modern Slavery Are Identified"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "li",
+      "text": "Work collaboratively with the supplier to address instances of modern slavery.",
+      "ordinal": 23,
+      "heading_path": [
+        "Overview",
+        "Taking Action When Victims of Modern Slavery Are Identified"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "li",
+      "text": "Only terminate a contract as a last resort.",
+      "ordinal": 24,
+      "heading_path": [
+        "Overview",
+        "Taking Action When Victims of Modern Slavery Are Identified"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "heading",
+      "text": "Training",
+      "ordinal": 25,
+      "heading_path": [
+        "Overview",
+        "Training"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "li",
+      "text": "Provide training to commercial and procurement staff on modern slavery to\nraise awareness, help them to identify issues and ensure that suspected instances\nof modern slavery are handled correctly.",
+      "ordinal": 26,
+      "heading_path": [
+        "Overview",
+        "Training"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "li",
+      "text": "There are a number of free and fee-based training resources available including the Chartered Institute of Procurement and Supply (CIPS) e-learning .",
+      "ordinal": 27,
+      "heading_path": [
+        "Overview",
+        "Training"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "heading",
+      "text": "Useful Sources of Information",
+      "ordinal": 28,
+      "heading_path": [
+        "Overview",
+        "Useful Sources of Information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "li",
+      "text": "The Walkfree Foundation’s Tackling Modern Slavery in Supply Chains guide .",
+      "ordinal": 29,
+      "heading_path": [
+        "Overview",
+        "Useful Sources of Information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "li",
+      "text": "The Human rights due diligence framework by Ethical Trading Initiative",
+      "ordinal": 30,
+      "heading_path": [
+        "Overview",
+        "Useful Sources of Information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "li",
+      "text": "The UN Guiding Principles on Business and Human Rights",
+      "ordinal": 31,
+      "heading_path": [
+        "Overview",
+        "Useful Sources of Information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "li",
+      "text": "The Managing Risks Associated with Modern Slavery: A Good Practice Guide for the\nPrivate Sector , commissioned by the International Finance Corporation (IFC), CDC Group\nPlc, the European Bank for Reconstruction and Development (EBRD) and the UK Department for International Development (DFID)",
+      "ordinal": 32,
+      "heading_path": [
+        "Overview",
+        "Useful Sources of Information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "li",
+      "text": "Protecting Human Rights in the Supply Chain ? a guide for public procurement practitioners by Professor Olga Martin-Ortega and Andy Davies, published in 2017 by London\nUniversities Purchasing Consortium, the University of Greenwich, Advanced Procurement\nfor Universities and Colleges and CIPS",
+      "ordinal": 33,
+      "heading_path": [
+        "Overview",
+        "Useful Sources of Information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "li",
+      "text": "The Welsh Government’s Code of Practice: Ethical employment in supply chains",
+      "ordinal": 34,
+      "heading_path": [
+        "Overview",
+        "Useful Sources of Information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "Chartered Institute of Procurement and Supply (CIPS) e-learning",
+      "href": "https://www.cips.org/uk-public-sector-ethics",
+      "block_id": "b00027",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Tackling Modern Slavery in Supply Chains guide",
+      "href": "https://business.walkfreefoundation.org/",
+      "block_id": "b00029",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Human rights due diligence framework",
+      "href": "https://www.ethicaltrade.org/resources/human-rights-due-diligence-framework",
+      "block_id": "b00030",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "UN Guiding Principles on Business and Human Rights",
+      "href": "https://www.business-humanrights.org/en/un-guiding-principles/implementation-tools-examples/implementation-by-companies/type-of-step-taken/human-rights-due-diligence",
+      "block_id": "b00031",
+      "ordinal": 3,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Managing Risks Associated with Modern Slavery: A Good Practice Guide for the\nPrivate Sector",
+      "href": "https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/publications/publications_gpn_modernslavery",
+      "block_id": "b00032",
+      "ordinal": 4,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Protecting Human Rights in the Supply Chain ? a guide for public procurement practitioners",
+      "href": "http://static.uk-plc.net/library/london-universities-purchasing-consortium/documents/knowledge-lupc---protecting-human-rights-in-the-supply-chain.pdf",
+      "block_id": "b00033",
+      "ordinal": 5,
+      "link_type": "ATTACHMENT"
+    },
+    {
+      "text": "Code of Practice: Ethical employment in supply chains",
+      "href": "https://gov.wales/topics/improvingservices/bettervfm/code-of-practice/?lang=en",
+      "block_id": "b00034",
+      "ordinal": 6,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "PPN 02/23 - Tackling Modern Slavery in Government Supply Chains - Quick Reference Guide (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-0223-tackling-modern-slavery-in-government-supply-chains/ppn-0223-tackling-modern-slavery-in-government-supply-chains-quick-reference-guide-html",
+      "block_id": "__document__",
+      "ordinal": 7,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2022 to 2024 Sunak Conservative government",
+      "href": "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 8,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 9,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "PPN 02/23: Tackling Modern Slavery in Government Supply Chains",
+      "href": "https://www.gov.uk/government/publications/ppn-0223-tackling-modern-slavery-in-government-supply-chains",
+      "block_id": "__document__",
+      "ordinal": 10,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 11,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [],
+  "attachments": [
+    {
+      "url": "http://static.uk-plc.net/library/london-universities-purchasing-consortium/documents/knowledge-lupc---protecting-human-rights-in-the-supply-chain.pdf",
+      "title": "Protecting Human Rights in the Supply Chain ? a guide for public procurement practitioners",
+      "discovered_in_block": "b00033"
+    }
+  ],
+  "warnings": []
+}

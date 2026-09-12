@@ -1,0 +1,1467 @@
+{
+  "document_id": "cc2d6b3b-83b0-4fa1-9123-ca8719718abc",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/2c3ef43f2d4aaeab054226ec.json",
+  "input_sha256": "e4a140cc302ea5b994c6783f28f6200aea83c3ccbcd2eee70032fcd1b13d5c74",
+  "processed_at": "2026-08-27T02:26:09.752705+00:00",
+  "title": "Guidance: Mixed Procurement (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-mixed-procurement-html",
+  "description": null,
+  "publication_date": "2024-05-24T15:08:23+01:00",
+  "updated_date": "2026-07-13T09:24:55+01:00",
+  "source_metadata": {
+    "content_id": "cc2d6b3b-83b0-4fa1-9123-ca8719718abc",
+    "base_path": "/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-mixed-procurement-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What is mixed procurement?",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What is the legal framework that governs mixed procurement?",
+      "ordinal": 4,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What has changed?",
+      "ordinal": 10,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Key points and policy intent",
+      "ordinal": 13,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What other guidance is of particular relevance to this topic area?",
+      "ordinal": 35,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Related questions",
+      "ordinal": 39,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "MIXED CONTRACTS INVOLVING AN ELEMENT COVERED BY THE PSR",
+      "ordinal": 40,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "What is the ‘Provider Selection Regime’?",
+      "ordinal": 41,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "How does the PSR interact with the reforms in the Procurement Act?",
+      "ordinal": 43,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "How will mixed contracts involving healthcare and other goods/services be different when the Procurement Act comes into force?",
+      "ordinal": 46,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Annex A - Mixed Procurement - Above and Below Threshold (Section 5)",
+      "ordinal": 48,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Annex B - Mixed Procurement - Special Regime (Section 10)",
+      "ordinal": 49,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "What is mixed procurement?",
+      "ordinal": 0,
+      "heading_path": [
+        "What is mixed procurement?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "1. Contracting authorities need to be able to award contracts that are not always 100% goods, 100% services or 100% works. Contracts can therefore comprise a mixture of two or more different categories. Contracting authorities may also need to award contracts of either one type (such as a concession contract, or a light-touch contract), or of a mixture of different types (for example a concession contract for services that are for military purposes).",
+      "ordinal": 1,
+      "heading_path": [
+        "What is mixed procurement?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "2. Contracts involving different categories or types will become public contracts above different value threshold levels. Contracts of different types (such as concessions, light touch contracts, defence and security, and utilities contracts - which are categorised as ‘special regime’ contracts) are also subject to different applications of the rules in the Procurement Act 2023 (Act) .",
+      "ordinal": 2,
+      "heading_path": [
+        "What is mixed procurement?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "3. It is therefore important that contracting authorities know how to designate any contracts they wish to award that might comprise a mixture of different categories or types.",
+      "ordinal": 3,
+      "heading_path": [
+        "What is mixed procurement?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "heading",
+      "text": "What is the legal framework that governs mixed procurement?",
+      "ordinal": 4,
+      "heading_path": [
+        "What is mixed procurement?",
+        "What is the legal framework that governs mixed procurement?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "Section 5",
+      "ordinal": 5,
+      "heading_path": [
+        "What is mixed procurement?",
+        "What is the legal framework that governs mixed procurement?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "p",
+      "text": "4. Section 5 of the Act sets out the rules on determining when a mixed contract will become a public contract. This is because a mixed contract may comprise two or more elements that, if procured separately, would have different applicable thresholds (over which they will be designated as a public contract). Section 5 provides clarity on applying the rules on thresholds to situations where a contract contains mixed elements, where at least one is above and one is below the relevant thresholds. Consequently authorities have the necessary flexibility to procure mixed contracts where appropriate but are prevented from exploiting that mixture to avoid the application of the more detailed rules in the Act.",
+      "ordinal": 6,
+      "heading_path": [
+        "What is mixed procurement?",
+        "What is the legal framework that governs mixed procurement?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "5. These provisions must be understood in conjunction with Schedule 1, paragraph 4 , which sets out that a contract the main purpose of which is works will be deemed a works contract.",
+      "ordinal": 7,
+      "heading_path": [
+        "What is mixed procurement?",
+        "What is the legal framework that governs mixed procurement?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "Section 10",
+      "ordinal": 8,
+      "heading_path": [
+        "What is mixed procurement?",
+        "What is the legal framework that governs mixed procurement?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "6. Section 10 of the Act sets out how the rules in the Act will apply to contracts of more than one type, where at least one of which is a ‘special regime’ contract (defined as concession contracts, light touch contracts, defence and security contracts, and utilities contracts). It regulates circumstances where contracting authorities mix special regime contracts that benefit from certain flexibilities (such as higher thresholds or lighter process obligations) with either other contracts that should be subject to the general rules (which would not normally involve such flexibilities) or other special regime contracts. It provides a clear set of rules that contracting authorities can follow when determining whether to mix or split out contracts which include at least one element covered by a special rules regime. This means that authorities have the necessary flexibility to mix contracts involving special regime elements where appropriate, but are prevented from exploiting that flexibility (and taking advantage of the lighter rules of a particular special regime) where it is reasonable to split out a mixed contract. The position is different in relation to mixed contracts involving defence and security where there is more latitude not to split out the different elements (see paragraph 23).",
+      "ordinal": 9,
+      "heading_path": [
+        "What is mixed procurement?",
+        "What is the legal framework that governs mixed procurement?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "heading",
+      "text": "What has changed?",
+      "ordinal": 10,
+      "heading_path": [
+        "What is mixed procurement?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "7. As is the case with certain other basic definitions and concepts, the policy on mixed procurement has not been substantively reformed. However, the opportunity has been taken to significantly streamline these rules while preserving a similar intention and effect to the former rules on mixed procurement in the previous legislation.",
+      "ordinal": 11,
+      "heading_path": [
+        "What is mixed procurement?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "8. However, there are some inevitable differences in the way these rules are set out in the Act. For example, the previous legislation on mixed contracts involved navigating the interplay between combinations of procurements involving multiple regulatory schemes. In contrast, the Act addresses mixed procurement within a single scheme. There is therefore no longer a need for authorities to run a series of tests to determine which regulatory scheme will apply to their procurement. The ‘subject-matter test’ of the previous legislation has been replaced by a ‘main purpose’ test to reflect this change although both have a similar effect.",
+      "ordinal": 12,
+      "heading_path": [
+        "What is mixed procurement?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "heading",
+      "text": "Key points and policy intent",
+      "ordinal": 13,
+      "heading_path": [
+        "What is mixed procurement?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "9. Thresholds determine whether or not a contract is a public contract; the procurement of which is regulated by the Act. Different thresholds apply to goods, works or services contracts. These are set out in Schedule 1 . Where a contract contains a mixture of these elements (a mixed contract), contracting authorities will need to determine which threshold to apply and whether a mixed contract should have those elements separated into different contracts. If the contract is separated out, thresholds can be calculated separately for each separate contract (each of which will only fall within one such type).",
+      "ordinal": 14,
+      "heading_path": [
+        "What is mixed procurement?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "10. Section 5 sets out the test to be applied to ensure that authorities do not mix above and below threshold elements purely for the purposes of avoiding the rules. This is important because, without any rules on mixed procurement, the different thresholds could provide a loophole to rule-avoidance. For example, a goods contract for £200k (i.e. above-threshold) must be awarded in accordance with the full rules, but the loophole would allow the possibility of adding in an unrelated element of works (say £1m, below the works threshold), and then advertising the whole package as a below-threshold works contract thereby avoiding the proper procurement rules for the goods element. The mixed contracts rules close this loophole whilst providing the necessary flexibility for contracting authorities to mix contracts where appropriate. There are two thresholds relevant in this context: the goods/services threshold, and the works threshold. Contracts involving a mixture of elements involving the ‘special regime’ thresholds are dealt with separately in section 10 .",
+      "ordinal": 15,
+      "heading_path": [
+        "What is mixed procurement?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "11. If a mixed contract can reasonably be separated out, but a contracting authority chooses not to do so, the mixed contract will, where one element is above its corresponding threshold, be treated as above-threshold (and therefore, unless an exemption applies, a public contract to which the Act applies). This is provided for in section 5(3) , which requires mixed contracts to be treated as above-threshold where the conditions in section 5(1) are met.",
+      "ordinal": 16,
+      "heading_path": [
+        "What is mixed procurement?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "12. Section 5(2) provides that a similar test applies when the contract awarded is a below-threshold framework that provides for the procurement of a mixed contract under it. If a mixed contract to be awarded under the framework contains above and below-threshold elements that could reasonably be separated out, and the above-threshold element can be awarded outside of the below-threshold framework, but a contracting authority chooses not to separate, the framework must be treated as an above-threshold contract (and therefore, unless an exemption applies, a public contract to which the Act applies). In addition, section 45 will apply to all mixed contracts awarded under that framework where an element of the mixed contract is above-threshold. This is regardless of whether the contract could reasonably be separated and section 5(6) provides that the test is not reapplied when contracts are awarded under the framework.",
+      "ordinal": 17,
+      "heading_path": [
+        "What is mixed procurement?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "p",
+      "text": "13. There are a number of factors contracting authorities may consider when determining whether elements of a mixed contract can reasonably be procured separately. These may include (but are not limited to) the practical and financial consequences of splitting out the requirement.",
+      "ordinal": 18,
+      "heading_path": [
+        "What is mixed procurement?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "14. Contracting authorities need flexibility given the wide range of public procurement: separate elements can always be procured separately, and mixed contracts whose elements are inseparable are permitted by the Act. Indeed, many contracts will contain elements of different categories. But the basic safeguard remains that if separation is reasonably possible, but a contracting authority chooses not to separate, a mixed contract containing both above and below threshold elements must be treated as above-threshold and therefore in-scope of the legislation. When determining whether or not separation is reasonably possible, factors such as the practical and financial consequences of awarding more than one contract can be taken into consideration. The Act does not specify or give examples of these matters; this is at the discretion of the contracting authority, as such considerations will vary from one procurement to another. Conceivably such considerations might involve, for example, the extra resources required to run multiple procurements rather than one aggregated procurement, or the potential for increased value for money or potential SME-access benefits from separating the procurements, but the Act does not set any particular boundaries or limits on contracting authorities’ discretion here.",
+      "ordinal": 19,
+      "heading_path": [
+        "What is mixed procurement?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "p",
+      "text": "15. Looking at the potential combinations of contracts that will be caught by the provisions in section 5 , clearly if both/all elements are below-threshold then the whole contract will be below-threshold, whereas if all elements are above-threshold then the whole contract will be above-threshold. The rules on mixed procurement in section 5 are only therefore relevant in situations where an element for goods/services is combined with an element for works, and only one element is above-threshold. In such a situation, the contracting authority can either split the elements out and procure them separately, or combine the elements into a mixed contract and follow the rules set out in section 5 to determine which threshold applies.",
+      "ordinal": 20,
+      "heading_path": [
+        "What is mixed procurement?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "16. Having decided to pursue a mixed procurement approach, the contracting authority must then apply the test of ‘reasonable separability’.",
+      "ordinal": 21,
+      "heading_path": [
+        "What is mixed procurement?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "p",
+      "text": "17. For example, if the elements of the contract are not reasonably separable (e.g. because procuring them separately would compromise value for money) then the contracting authority would need to consider whether the main purpose of the contract is works. Schedule 1, paragraph 4 is relevant here, as it sets out that a contract the main purpose of which is works will be a works contract. If the main purpose is indeed works, then it is a works contract and will be treated according to the value of the works element. And if the main purpose is not works, then it is clear that the goods/services threshold is the relevant one.",
+      "ordinal": 22,
+      "heading_path": [
+        "What is mixed procurement?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "18. If, however, the works and goods or services elements are reasonably separable, the whole mixed contract must be treated as above-threshold. This prevents authorities from mixing entirely unrelated contracts for the purposes of avoiding the rules.",
+      "ordinal": 23,
+      "heading_path": [
+        "What is mixed procurement?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "19. Schedule 2, paragraph 1 provides that a contract is only an exempt contract where the goods, services or works that form its main purpose are exempt. An element of exempt services in a mixed contract will not, for example, mean the entire contract is exempt if that element does not comprise the main purpose of the contract.",
+      "ordinal": 24,
+      "heading_path": [
+        "What is mixed procurement?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "p",
+      "text": "20. Section 10 , which should be considered alongside the closely related section 5 , addresses mixed contracts that involve (at least) one element to be procured under the ‘special rules regime’. As ‘special regime’ contracts normally involve lighter touch rules and higher thresholds, it is necessary to consider how they can be mixed with contracts subject to the general rules regime. Similarly, not all special regimes have the same thresholds or application of lighter touch rules, so a decision needs to be made as to which special regime will apply where more than one special regime could be applied to the mixed contract.",
+      "ordinal": 25,
+      "heading_path": [
+        "What is mixed procurement?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "p",
+      "text": "21. In a similar vein to section 5 , it is important to recognise and provide for the inevitable possibility that the need for such mixed contracts will arise, whilst safeguarding against possible exploitation of exemptions and the lighter touch rules in situations where the full rules regime would be more appropriate. This is achieved in a similar way to the safeguard at section 5 , through introducing a test of separability.",
+      "ordinal": 26,
+      "heading_path": [
+        "What is mixed procurement?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "p",
+      "text": "22. When placing a mixed contract containing one or more elements that would, if procured separately, be subject to ‘special regime’ provisions in the Act, together with other above-threshold elements that would not be subject to that special regime, section 10(3) provides that a contracting authority cannot take advantage of such special regime rules where it would be reasonable to split out the requirement. This rule applies whether or not the contract being placed is one directly for works/goods/services or whether it is for a framework under which contracts will be let for works/goods/services (see section 10(2) for application to frameworks).",
+      "ordinal": 27,
+      "heading_path": [
+        "What is mixed procurement?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "23. In addition, Schedule 2, paragraph 1 provides that a contract is only an exempt contract where the goods, services or works that form its main purpose are exempt. An element of exempt services in a mixed contract will not, for example, mean the entire contract is exempt if that element does not comprise the main purpose of the contract.",
+      "ordinal": 28,
+      "heading_path": [
+        "What is mixed procurement?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "p",
+      "text": "24. There is an exception for mixed special regime contracts that are defence and security contracts in recognition of the sensitivities of defence procurement. These can be treated as a special regime contract even where the conditions in sections 10(1) or 10(2) apply, if there are good reasons for procuring the elements together.",
+      "ordinal": 29,
+      "heading_path": [
+        "What is mixed procurement?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "p",
+      "text": "25. If separation of the general rules regime and special rules regime elements is possible, but a contracting authority chooses not to separate out the contract, then that mixed contract must be awarded in accordance with the general rules – it will not qualify for the special rules regime if the elements could reasonably be procured separately. When determining whether elements of a mixed contract can reasonably be procured separately or not, a contracting authority can consider factors such as the practical and financial consequences of awarding more than one contract.",
+      "ordinal": 30,
+      "heading_path": [
+        "What is mixed procurement?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "p",
+      "text": "26. Whether or not the mixed contract can be treated as a special regime contract, the contract is still to be treated as a public contract subject to the Act.",
+      "ordinal": 31,
+      "heading_path": [
+        "What is mixed procurement?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "p",
+      "text": "27. As with section 5 , contracting authorities should not run the analysis again for contracts awarded under a framework; the test would have been applied prior to the procurement for the framework by considering the goods, services or works to be supplied under potential call-off agreements to be awarded under the framework (see section 10(2) ).",
+      "ordinal": 32,
+      "heading_path": [
+        "What is mixed procurement?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "p",
+      "text": "28. Section 10 also acknowledges and provides for the possibility where a mixed contract involves two or more different ‘special regime’ elements. Although these cases may be rare, a test of reasonable separability will also be used to guide decisions on which rules to apply. The main purpose special regime will only apply where the two elements cannot be reasonably separated. If the elements can be reasonably separated but are not, the mixed procurement will be subject to the normal rules regime, not the special rules regime. In this situation the contracting authority would have the choice as to procure two separate special regime contracts (and enjoy the flexibility of the correct respective regime in each procurement), or pursue a mixed contract under the full rules regime.",
+      "ordinal": 33,
+      "heading_path": [
+        "What is mixed procurement?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "p",
+      "text": "29. As noted earlier this position is qualified in relation to mixed special regime contracts involving defence and security. Such contracts can still be treated as a special regime contract even where the elements can reasonably be separated, where there are good reasons for not awarding separate contracts in recognition of the sensitivities of defence procurement. This qualification grants more discretion to contracting authorities awarding defence and security contracts where there is no need to consider whether or not the elements could reasonably be split out, only to have a good reason for procuring the elements together.",
+      "ordinal": 34,
+      "heading_path": [
+        "What is mixed procurement?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "heading",
+      "text": "What other guidance is of particular relevance to this topic area?",
+      "ordinal": 35,
+      "heading_path": [
+        "What is mixed procurement?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "p",
+      "text": "Guidance on thresholds",
+      "ordinal": 36,
+      "heading_path": [
+        "What is mixed procurement?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "p",
+      "text": "Guidance on valuation of contracts",
+      "ordinal": 37,
+      "heading_path": [
+        "What is mixed procurement?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "p",
+      "text": "Guidance on the special regimes ( concessions , utilities , light touch , defence and security )",
+      "ordinal": 38,
+      "heading_path": [
+        "What is mixed procurement?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "heading",
+      "text": "Related questions",
+      "ordinal": 39,
+      "heading_path": [
+        "What is mixed procurement?",
+        "Related questions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "heading",
+      "text": "MIXED CONTRACTS INVOLVING AN ELEMENT COVERED BY THE PSR",
+      "ordinal": 40,
+      "heading_path": [
+        "What is mixed procurement?",
+        "Related questions",
+        "MIXED CONTRACTS INVOLVING AN ELEMENT COVERED BY THE PSR"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "heading",
+      "text": "What is the ‘Provider Selection Regime’?",
+      "ordinal": 41,
+      "heading_path": [
+        "What is mixed procurement?",
+        "Related questions",
+        "MIXED CONTRACTS INVOLVING AN ELEMENT COVERED BY THE PSR",
+        "What is the ‘Provider Selection Regime’?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "p",
+      "text": "The Provider Selection Regime (PSR) is a new set of bespoke procurement regulations which commissioners of healthcare services in the NHS and Local Government will follow when procuring or otherwise arranging certain healthcare services in their area. This intends to address the idiosyncrasies of the health and care system and fulfil the Health and Care Act’s intention to deliver greater collaboration and integration in the arrangement of healthcare services. The PSR regulations came into force on 1 January 2024; further information is available at: NHS Provider selection regime",
+      "ordinal": 42,
+      "heading_path": [
+        "What is mixed procurement?",
+        "Related questions",
+        "MIXED CONTRACTS INVOLVING AN ELEMENT COVERED BY THE PSR",
+        "What is the ‘Provider Selection Regime’?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "heading",
+      "text": "How does the PSR interact with the reforms in the Procurement Act?",
+      "ordinal": 43,
+      "heading_path": [
+        "What is mixed procurement?",
+        "Related questions",
+        "MIXED CONTRACTS INVOLVING AN ELEMENT COVERED BY THE PSR",
+        "How does the PSR interact with the reforms in the Procurement Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "p",
+      "text": "The PSR covers only the procurement of healthcare services which are delivered to patients and service users – and only when they are arranged by relevant healthcare authorities including NHS bodies and local authorities. The PSR has a very tightly defined scope of services and bodies caught, the details of which are set out in the PSR regulations.",
+      "ordinal": 44,
+      "heading_path": [
+        "What is mixed procurement?",
+        "Related questions",
+        "MIXED CONTRACTS INVOLVING AN ELEMENT COVERED BY THE PSR",
+        "How does the PSR interact with the reforms in the Procurement Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "p",
+      "text": "The Procurement Act will be disapplied to procurements in scope of the PSR, using the relevant regulation-making power at section 120 . The Procurement Act will cover all other goods, services, and works purchased by contracting authorities including such procurement by NHS bodies and Local Authorities.",
+      "ordinal": 45,
+      "heading_path": [
+        "What is mixed procurement?",
+        "Related questions",
+        "MIXED CONTRACTS INVOLVING AN ELEMENT COVERED BY THE PSR",
+        "How does the PSR interact with the reforms in the Procurement Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "heading",
+      "text": "How will mixed contracts involving healthcare and other goods/services be different when the Procurement Act comes into force?",
+      "ordinal": 46,
+      "heading_path": [
+        "What is mixed procurement?",
+        "Related questions",
+        "MIXED CONTRACTS INVOLVING AN ELEMENT COVERED BY THE PSR",
+        "How will mixed contracts involving healthcare and other goods/services be different when the Procurement Act comes into force?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "p",
+      "text": "The Procurement Act will apply to mixed contracts that involve a healthcare and non-healthcare element if those elements could reasonably be supplied under separate contracts, and if they could not be supplied under separate contracts, then the applicable scheme would be determined according to the highest value element.",
+      "ordinal": 47,
+      "heading_path": [
+        "What is mixed procurement?",
+        "Related questions",
+        "MIXED CONTRACTS INVOLVING AN ELEMENT COVERED BY THE PSR",
+        "How will mixed contracts involving healthcare and other goods/services be different when the Procurement Act comes into force?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "heading",
+      "text": "Annex A - Mixed Procurement - Above and Below Threshold (Section 5)",
+      "ordinal": 48,
+      "heading_path": [
+        "What is mixed procurement?",
+        "Annex A - Mixed Procurement - Above and Below Threshold (Section 5)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "heading",
+      "text": "Annex B - Mixed Procurement - Special Regime (Section 10)",
+      "ordinal": 49,
+      "heading_path": [
+        "What is mixed procurement?",
+        "Annex B - Mixed Procurement - Special Regime (Section 10)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "Procurement Act 2023 (Act)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/contents",
+      "block_id": "b00002",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 5",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/5",
+      "block_id": "b00005",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 5",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/5",
+      "block_id": "b00006",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 5",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/5",
+      "block_id": "b00006",
+      "ordinal": 3,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 1, paragraph 4",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/1/paragraph/4",
+      "block_id": "b00007",
+      "ordinal": 4,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 10",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/10",
+      "block_id": "b00008",
+      "ordinal": 5,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 10",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/10",
+      "block_id": "b00009",
+      "ordinal": 6,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 1",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/1",
+      "block_id": "b00014",
+      "ordinal": 7,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 5",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/5",
+      "block_id": "b00015",
+      "ordinal": 8,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 10",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/10",
+      "block_id": "b00015",
+      "ordinal": 9,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 5(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/5",
+      "block_id": "b00016",
+      "ordinal": 10,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 5(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/5",
+      "block_id": "b00016",
+      "ordinal": 11,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 5(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/5",
+      "block_id": "b00017",
+      "ordinal": 12,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 45",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/45",
+      "block_id": "b00017",
+      "ordinal": 13,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 5(6)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/5",
+      "block_id": "b00017",
+      "ordinal": 14,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 5",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/5",
+      "block_id": "b00020",
+      "ordinal": 15,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 5",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/5",
+      "block_id": "b00020",
+      "ordinal": 16,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 5",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/5",
+      "block_id": "b00020",
+      "ordinal": 17,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 1, paragraph 4",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/1/paragraph/4",
+      "block_id": "b00022",
+      "ordinal": 18,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 2, paragraph 1",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/2/paragraph/1",
+      "block_id": "b00024",
+      "ordinal": 19,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 10",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/10",
+      "block_id": "b00025",
+      "ordinal": 20,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 5",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/5",
+      "block_id": "b00025",
+      "ordinal": 21,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 5",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/5",
+      "block_id": "b00026",
+      "ordinal": 22,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 5",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/5",
+      "block_id": "b00026",
+      "ordinal": 23,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 10(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/10",
+      "block_id": "b00027",
+      "ordinal": 24,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 10(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/10",
+      "block_id": "b00027",
+      "ordinal": 25,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 2, paragraph 1",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/2/paragraph/1",
+      "block_id": "b00028",
+      "ordinal": 26,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "sections 10(1) or 10(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/10",
+      "block_id": "b00029",
+      "ordinal": 27,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 5",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/5",
+      "block_id": "b00032",
+      "ordinal": 28,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 10(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/10",
+      "block_id": "b00032",
+      "ordinal": 29,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 10",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/10",
+      "block_id": "b00033",
+      "ordinal": 30,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "thresholds",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-thresholds-html",
+      "block_id": "b00036",
+      "ordinal": 31,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "valuation of contracts",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-valuation-of-contracts-html",
+      "block_id": "b00037",
+      "ordinal": 32,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "concessions",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-concession-contracts-html",
+      "block_id": "b00038",
+      "ordinal": 33,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "utilities",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-utilities-contracts-html",
+      "block_id": "b00038",
+      "ordinal": 34,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "light touch",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-light-touch-contracts-html",
+      "block_id": "b00038",
+      "ordinal": 35,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "defence and security",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-defence-and-security-contracts-html",
+      "block_id": "b00038",
+      "ordinal": 36,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "NHS Provider selection regime",
+      "href": "https://www.england.nhs.uk/commissioning/how-commissioning-is-changing/nhs-provider-selection-regime/",
+      "block_id": "b00042",
+      "ordinal": 37,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 120",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/120",
+      "block_id": "b00045",
+      "ordinal": 38,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Guidance: Mixed Procurement (HTML)",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-mixed-procurement-html",
+      "block_id": "__document__",
+      "ordinal": 39,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2022 to 2024 Sunak Conservative government",
+      "href": "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 40,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 41,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Procurement Act 2023 guidance documents - Define phase",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase",
+      "block_id": "__document__",
+      "ordinal": 42,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 43,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 5",
+      "block_id": "b00005",
+      "start": 0,
+      "end": 9,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "5"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 5",
+      "block_id": "b00006",
+      "start": 3,
+      "end": 12,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "5"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 5",
+      "block_id": "b00006",
+      "start": 310,
+      "end": 319,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "5"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 1, paragraph 4",
+      "block_id": "b00007",
+      "start": 59,
+      "end": 82,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "1",
+        "paragraph": "4"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 4",
+      "block_id": "b00007",
+      "start": 71,
+      "end": 82,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "4"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 10",
+      "block_id": "b00008",
+      "start": 0,
+      "end": 10,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "10"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 10",
+      "block_id": "b00009",
+      "start": 3,
+      "end": 13,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "10"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 23",
+      "block_id": "b00009",
+      "start": 1295,
+      "end": 1307,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "23"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 1",
+      "block_id": "b00014",
+      "start": 209,
+      "end": 219,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 5",
+      "block_id": "b00015",
+      "start": 4,
+      "end": 13,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "5"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 10",
+      "block_id": "b00015",
+      "start": 1058,
+      "end": 1068,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "10"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 5(3)",
+      "block_id": "b00016",
+      "start": 332,
+      "end": 344,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "5",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 5(1)",
+      "block_id": "b00016",
+      "start": 435,
+      "end": 447,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "5",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 5(2)",
+      "block_id": "b00017",
+      "start": 4,
+      "end": 16,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "5",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 45",
+      "block_id": "b00017",
+      "start": 619,
+      "end": 629,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "45"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 5(6)",
+      "block_id": "b00017",
+      "start": 829,
+      "end": 841,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "5",
+        "tail": "(6)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 5",
+      "block_id": "b00020",
+      "start": 96,
+      "end": 105,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "5"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 5",
+      "block_id": "b00020",
+      "start": 333,
+      "end": 342,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "5"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 5",
+      "block_id": "b00020",
+      "start": 689,
+      "end": 698,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "5"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 1, paragraph 4",
+      "block_id": "b00022",
+      "start": 257,
+      "end": 280,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "1",
+        "paragraph": "4"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 4",
+      "block_id": "b00022",
+      "start": 269,
+      "end": 280,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "4"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 2, paragraph 1",
+      "block_id": "b00024",
+      "start": 4,
+      "end": 27,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "2",
+        "paragraph": "1"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 1",
+      "block_id": "b00024",
+      "start": 16,
+      "end": 27,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 10",
+      "block_id": "b00025",
+      "start": 4,
+      "end": 14,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "10"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 5",
+      "block_id": "b00025",
+      "start": 74,
+      "end": 83,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "5"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 5",
+      "block_id": "b00026",
+      "start": 25,
+      "end": 34,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "5"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 5",
+      "block_id": "b00026",
+      "start": 375,
+      "end": 384,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "5"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 10(3)",
+      "block_id": "b00027",
+      "start": 251,
+      "end": 264,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "10",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 10(2)",
+      "block_id": "b00027",
+      "start": 610,
+      "end": 623,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "10",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 2, paragraph 1",
+      "block_id": "b00028",
+      "start": 17,
+      "end": 40,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "2",
+        "paragraph": "1"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 1",
+      "block_id": "b00028",
+      "start": 29,
+      "end": 40,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "sections 10(1)",
+      "block_id": "b00029",
+      "start": 240,
+      "end": 254,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "10",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 5",
+      "block_id": "b00032",
+      "start": 12,
+      "end": 21,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "5"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 10(2)",
+      "block_id": "b00032",
+      "start": 333,
+      "end": 346,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "10",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 10",
+      "block_id": "b00033",
+      "start": 4,
+      "end": 14,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "10"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 120",
+      "block_id": "b00045",
+      "start": 122,
+      "end": 133,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "120"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 5",
+      "block_id": "b00048",
+      "start": 57,
+      "end": 66,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "5"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 10",
+      "block_id": "b00049",
+      "start": 46,
+      "end": 56,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "10"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

@@ -1,0 +1,125 @@
+{
+  "document_id": "05cb82303a664d14f7bc2ced",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "html",
+  "source_path": "corpus_ingest_v2/raw/79cbf77eede9f3c3bb6f77da.html",
+  "input_sha256": "c4ad0f888089d2535562c5f3fe6a51dbe560e451f874ab475df8423eadacc5e0",
+  "processed_at": "2026-08-27T02:26:26.594162+00:00",
+  "title": "Thresholds under the Public Contracts Regulations 2015",
+  "canonical_url": "https://www.procurementportal.com/procurements-started-before-24-february-2025/public-contracts-regulations-2015-faqs/financial-thresholds-under-the-public-contracts-regulations-2015/",
+  "description": null,
+  "publication_date": null,
+  "updated_date": null,
+  "source_metadata": {
+    "html_lang": "en"
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 1,
+      "title": "Thresholds under the Public Contracts Regulations 2015",
+      "ordinal": 0
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "How we can help you",
+      "ordinal": 3
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "Thresholds under the Public Contracts Regulations 2015",
+      "ordinal": 0,
+      "heading_path": [
+        "Thresholds under the Public Contracts Regulations 2015"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "These thresholds apply from 1 January 2024 and are inclusive of VAT .",
+      "ordinal": 1,
+      "heading_path": [
+        "Thresholds under the Public Contracts Regulations 2015"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "table",
+      "text": "Supply and services contracts (central government)\t£139,688\nSupply and services contracts (sub-central government)\t£214,904\nWorks contracts (central and sub-central)\t£5,372,609\nLight Touch Regime contracts for services listed at Schedule 3\t£663,540",
+      "ordinal": 2,
+      "heading_path": [
+        "Thresholds under the Public Contracts Regulations 2015"
+      ],
+      "source_locator": null,
+      "metadata": {
+        "rows": [
+          [
+            "Supply and services contracts (central government)",
+            "£139,688"
+          ],
+          [
+            "Supply and services contracts (sub-central government)",
+            "£214,904"
+          ],
+          [
+            "Works contracts (central and sub-central)",
+            "£5,372,609"
+          ],
+          [
+            "Light Touch Regime contracts for services listed at Schedule 3",
+            "£663,540"
+          ]
+        ],
+        "row_count": 4
+      }
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "heading",
+      "text": "How we can help you",
+      "ordinal": 3,
+      "heading_path": [
+        "Thresholds under the Public Contracts Regulations 2015",
+        "How we can help you"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    }
+  ],
+  "links": [],
+  "legal_references": [
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015",
+      "block_id": "b00000",
+      "start": 38,
+      "end": 54,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 3",
+      "block_id": "b00002",
+      "start": 229,
+      "end": 239,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "3"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

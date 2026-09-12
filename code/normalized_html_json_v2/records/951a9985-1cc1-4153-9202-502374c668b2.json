@@ -1,0 +1,137 @@
+{
+  "document_id": "951a9985-1cc1-4153-9202-502374c668b2",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/2f6f5f4e6bb5fbab4fb89e84.json",
+  "input_sha256": "7c7cde0e0ce6de40721b538f3f91f4e55658b45f44ab96c92cec0b9e2d4e5fc6",
+  "processed_at": "2026-08-27T02:26:10.388214+00:00",
+  "title": "Procurement Policy Note 01/18: Supply Chain Visibility",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-policy-note-0118-supply-chain-visibility",
+  "description": "New measures to increase the visibility of subcontracting opportunities in Government supply chains and to provide greater visibility of supply chain spend.",
+  "publication_date": "2018-04-10T11:24:00+01:00",
+  "updated_date": "2018-04-10T11:24:00+01:00",
+  "source_metadata": {
+    "content_id": "951a9985-1cc1-4153-9202-502374c668b2",
+    "base_path": "/government/publications/procurement-policy-note-0118-supply-chain-visibility",
+    "document_type": "guidance",
+    "schema_name": "publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "This Procurement Policy Note sets out new measures to increase the visibility of subcontracting opportunities in Government supply chains and to provide greater visibility of supply chain spend. The measures include a reporting template, which is also attached.",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "This note applies to all Central Government Departments, their Executive Agencies and Non Departmental Public Bodies. In-Scope Organisations must apply the provisions of this Procurement Policy Note in new procurements commencing from 1 May 2018.",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "Procurement Policy Note 01/18: Supply Chain Visibility",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0118-supply-chain-visibility",
+      "block_id": "__document__",
+      "ordinal": 0,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "Procurement policy notes",
+      "href": "https://www.gov.uk/government/collections/procurement-policy-notes",
+      "block_id": "__document__",
+      "ordinal": 1,
+      "link_type": "GOVUK_DOCUMENT_COLLECTIONS"
+    },
+    {
+      "text": "2016 to 2019 May Conservative government",
+      "href": "https://www.gov.uk/government/2016-to-2019-may-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Crown Commercial Service",
+      "href": "https://www.gov.uk/government/organisations/crown-commercial-service",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Crown Commercial Service",
+      "href": "https://www.gov.uk/government/organisations/crown-commercial-service",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_ORIGINAL_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "The Rt Hon Oliver Dowden CBE MP",
+      "href": "https://www.gov.uk/government/people/dowden",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_PEOPLE"
+    },
+    {
+      "text": "Crown Commercial Service",
+      "href": "https://www.gov.uk/government/organisations/crown-commercial-service",
+      "block_id": "__document__",
+      "ordinal": 7,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Parliamentary Secretary (Minister for Implementation)",
+      "href": "https://www.gov.uk/government/ministers/parliamentary-under-secretary-of-state--86",
+      "block_id": "__document__",
+      "ordinal": 8,
+      "link_type": "GOVUK_ROLES"
+    },
+    {
+      "text": "Government spending",
+      "href": "https://www.gov.uk/government/government-spending",
+      "block_id": "__document__",
+      "ordinal": 9,
+      "link_type": "GOVUK_TAXONS"
+    }
+  ],
+  "legal_references": [],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/5acc9009e5274a7f23b82287/PPN_0118_Contract_Condition_for_Subcontracting__Supply_chain_spend_on_CF_final_.docx.pdf",
+      "title": "PPN 0118 Supply Chain Visibility",
+      "content_type": "application/pdf",
+      "filename": "PPN_0118_Contract_Condition_for_Subcontracting__Supply_chain_spend_on_CF_final_.docx.pdf",
+      "id": "4570797",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/5f6da767e90e077515ae35ed/18.04.10_SME_measures_PPN_118_Annex_C_-_Departmental_Contract_SME_Data_CollectionTemplate_.ods",
+      "title": "PPN 0118 Annex C - Departmental Contract SME Data Collection Template",
+      "content_type": "application/vnd.oasis.opendocument.spreadsheet",
+      "filename": "18.04.10_SME_measures_PPN_118_Annex_C_-_Departmental_Contract_SME_Data_CollectionTemplate_.ods",
+      "id": "4570798",
+      "logical_role": "ATTACHMENT"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,910 @@
+{
+  "document_id": "9f8bb026-fc86-4844-b31e-90d83c5825e3",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/4ca7551fb769e70d91617135.json",
+  "input_sha256": "8f6d1c80fcd14c11f644dbeabbb4fd19b277da5fef97b678b942bc0f9e8e8984",
+  "processed_at": "2026-08-27T02:26:16.627416+00:00",
+  "title": "Procurement Policy Notice (PPN) 02/20 and 04/20: Supplier relief due to coronavirus (COVID-19) - additional sector guidance for state funded schools",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-policy-note-0220-supplier-relief-due-to-covid-19/procurement-policy-notice-ppn-0220-supplier-relief-due-to-covid-19-additional-sector-guidance-for-state-funded-schools",
+  "description": null,
+  "publication_date": "2020-05-13T13:06:25+01:00",
+  "updated_date": "2023-01-31T17:00:11+00:00",
+  "source_metadata": {
+    "content_id": "9f8bb026-fc86-4844-b31e-90d83c5825e3",
+    "base_path": "/government/publications/procurement-policy-note-0220-supplier-relief-due-to-covid-19/procurement-policy-notice-ppn-0220-supplier-relief-due-to-covid-19-additional-sector-guidance-for-state-funded-schools",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Introduction",
+      "ordinal": 2,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Background on PPN 02/20 and 04/20",
+      "ordinal": 8,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Determining if you are a contracting authority",
+      "ordinal": 15,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Reviewing and responding to supplier requests",
+      "ordinal": 19,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "The Department for Education’s 5-stage approach",
+      "ordinal": 21,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Transition planning",
+      "ordinal": 43,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "School food contracts",
+      "ordinal": 52,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "General PPN02/20 and PPN 04/20 guidance",
+      "ordinal": 58,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "Procurement Policy Note 02/20 expired on 30 June 2020.",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "Procurement Policy Note 04/20 expired on 31 October 2020.",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "heading",
+      "text": "Introduction",
+      "ordinal": 2,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "This guidance is aimed at helping maintained schools and academy trusts understand how PPN 02/20 and PPN 04/20 - the guidance that applies across the public sector on how publicly funded bodies should support suppliers through the coronavirus (COVID-19) outbreak - applies to them.",
+      "ordinal": 3,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "It focuses in particular on 3 important areas:",
+      "ordinal": 4,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "li",
+      "text": "helping to determine if you are a contracting authority - and therefore whether the above PPNs apply to you",
+      "ordinal": 5,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "li",
+      "text": "to provide you with some overarching principles and guidance on how you may choose to review and respond to supplier requests within the scope of the PPNs and how to work with suppliers to exit from any support before 31 October 2020",
+      "ordinal": 6,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "li",
+      "text": "specific guidance on school food contracts",
+      "ordinal": 7,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "heading",
+      "text": "Background on PPN 02/20 and 04/20",
+      "ordinal": 8,
+      "heading_path": [
+        "Introduction",
+        "Background on PPN 02/20 and 04/20"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "To ensure service continuity during and after the coronavirus (COVID-19) outbreak, all public sector contracting authorities have been advised by the government to support their at risk suppliers in a range of ways to ensure business and service continuity and to protect jobs. The measures set out in the PPN 02/20, issued on 19 March (expiring 30 June 2020), are to ensure suppliers are in a position to resume normal contract delivery once the coronavirus (COVID-19) outbreak is over.",
+      "ordinal": 9,
+      "heading_path": [
+        "Introduction",
+        "Background on PPN 02/20 and 04/20"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "p",
+      "text": "PPN 04/20 was issued on 9 June 2020. It updates and builds on PPN 02/20 and is valid from 1 July 2020 to 31 October 2020.",
+      "ordinal": 10,
+      "heading_path": [
+        "Introduction",
+        "Background on PPN 02/20 and 04/20"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "PPN 04/20 acknowledges that the coronavirus (COVID-19) outbreak is not a short term crisis and states that while the supplier relief provisions set out in PPN 02/20 may still be appropriate, contracting authorities and their suppliers now also need to work in partnership to plan an exit from any support and transition to a new, sustainable, operating model. The transition planning section of this guidance explains the planning that should be undertaken now.",
+      "ordinal": 11,
+      "heading_path": [
+        "Introduction",
+        "Background on PPN 02/20 and 04/20"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "Schools will continue to receive their core funding allocations through this period, regardless of any periods of closure or reduced operation - and will therefore be in a position to consider supporting suppliers at risk. The Department for Education ( DfE ) is putting in place an additional fund to support schools with unavoidable additional costs associated with COVID-19 that cannot be met from existing resources . For the avoidance of doubt, costs associated with supporting suppliers through the PPNs would not be eligible for support through this fund. You should only support suppliers through core funding allocations.",
+      "ordinal": 12,
+      "heading_path": [
+        "Introduction",
+        "Background on PPN 02/20 and 04/20"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "The PPNs only apply to contracted goods, services and works contracts, such as for building works, where there is a direct relationship between the contracting authority and its suppliers under a procured contract. They do not apply to other funding mechanisms such as grants, or contracts supported by private income such as for transport provision.",
+      "ordinal": 13,
+      "heading_path": [
+        "Introduction",
+        "Background on PPN 02/20 and 04/20"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "While contracting authorities have a responsibility to their own suppliers, the PPNs are advisory only. They do not bind contracting authorities to do anything other than what they feel is appropriate under these challenging and complex circumstances.",
+      "ordinal": 14,
+      "heading_path": [
+        "Introduction",
+        "Background on PPN 02/20 and 04/20"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "heading",
+      "text": "Determining if you are a contracting authority",
+      "ordinal": 15,
+      "heading_path": [
+        "Introduction",
+        "Determining if you are a contracting authority"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "When considering how to implement the PPNs, you first need to determine whether you are a contracting authority and if you are, which of your suppliers may be at risk and fall within the scope of the supplier relief measures put forward in PPN 02/20 and 04/20.",
+      "ordinal": 16,
+      "heading_path": [
+        "Introduction",
+        "Determining if you are a contracting authority"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "Maintained schools, academy trusts and non-maintained special schools will be classed as a contracting authority as the majority of their income (more than 50%) is derived from state funding. Multi-academy trusts are typically the contracting authority for all schools within the trust. Independent special schools, which may not be regarded as a contracting authority under the relevant public contract regulations, may wish to consider applying the principles of the PPNs.",
+      "ordinal": 17,
+      "heading_path": [
+        "Introduction",
+        "Determining if you are a contracting authority"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "p",
+      "text": "If you are in any doubt about whether you are classed as a contracting authority you may wish to seek your own legal advice.",
+      "ordinal": 18,
+      "heading_path": [
+        "Introduction",
+        "Determining if you are a contracting authority"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "heading",
+      "text": "Reviewing and responding to supplier requests",
+      "ordinal": 19,
+      "heading_path": [
+        "Introduction",
+        "Determining if you are a contracting authority",
+        "Reviewing and responding to supplier requests"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "p",
+      "text": "The DfE knows that schools and trusts are already being contacted by suppliers about the PPNs and that responding to their requests for relief can be complex and time consuming. The definition of ‘suppliers’ can include all organisations providing goods and services to your school, including local authorities and local authority trading services. All contracting authorities, including the DfE , are working to implement the PPNs to support suppliers at risk. To help you decide how best to respond to any requests, the DfE would like to share details of our approach.",
+      "ordinal": 20,
+      "heading_path": [
+        "Introduction",
+        "Determining if you are a contracting authority",
+        "Reviewing and responding to supplier requests"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "heading",
+      "text": "The Department for Education’s 5-stage approach",
+      "ordinal": 21,
+      "heading_path": [
+        "Introduction",
+        "Determining if you are a contracting authority",
+        "The Department for Education’s 5-stage approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "p",
+      "text": "The DfE is using the 5-stage approach below to evaluate suppliers who fall within the scope of the PPNs. This approach may not work for all schools and trusts, as it reflects the complexity and scale of the DfE ’s commercial arrangements, so is intended to provide you with some overarching guidance and principles as to how you could choose to implement the PPN .",
+      "ordinal": 22,
+      "heading_path": [
+        "Introduction",
+        "Determining if you are a contracting authority",
+        "The Department for Education’s 5-stage approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "li",
+      "text": "stage 1: Assessment of whether the supplier has considered other measures announced by the government: this involves asking if they have explored, and applied for, as applicable, all other forms of support available to them, including the wider government business support schemes. This is to avoid duplication of funding, such as providing both supplier relief under PPN02/20 and 04/20 and payment of related workers that have been furloughed under the Coronavirus Job Retention Scheme (CJRS)",
+      "ordinal": 23,
+      "heading_path": [
+        "Introduction",
+        "Determining if you are a contracting authority",
+        "The Department for Education’s 5-stage approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "li",
+      "text": "stage 2: Assessment of whether they are a critical supplier to your organisation: the main consideration here is whether you feel the supplier provides a service or good(s) that are critical to your school in the medium and long term, and are important to business continuity to provide relief against the contract",
+      "ordinal": 24,
+      "heading_path": [
+        "Introduction",
+        "Determining if you are a contracting authority",
+        "The Department for Education’s 5-stage approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "li",
+      "text": "stage 3: Assessment of whether the supplier is financially ‘at risk’ as a result of coronavirus (COVID-19): In principle a supplier is deemed at risk where they are unable to fulfil the contractual obligations of a contract due to coronavirus (COVID-19) and are experiencing financial difficulties as a result",
+      "ordinal": 25,
+      "heading_path": [
+        "Introduction",
+        "Determining if you are a contracting authority",
+        "The Department for Education’s 5-stage approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "li",
+      "text": "stage 4: Commercial interventions to manage supplier: It is important that commercial judgement is used when considering the type of support available under the PPNs, which could include: payments for previously anticipated volumes (even if not met), or for the advanced order of materials where appropriate continuing to pay for services to suppliers who give their best endeavours to continue delivery despite performance being somewhat affected considering an extension of time for contract performance (for example, revised milestones or delivery dates) taking a more reasonable view on agreed lead times which, despite best endeavours, might not be met by suppliers, and ensure their payments are not negatively affected by that consider supplementing service delivery through your own resources, though this is likely to be difficult, but may help alleviate the challenges the supplier is suffering as a result of coronavirus (COVID-19)",
+      "ordinal": 26,
+      "heading_path": [
+        "Introduction",
+        "Determining if you are a contracting authority",
+        "The Department for Education’s 5-stage approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "li",
+      "text": "payments for previously anticipated volumes (even if not met), or for the advanced order of materials where appropriate",
+      "ordinal": 27,
+      "heading_path": [
+        "Introduction",
+        "Determining if you are a contracting authority",
+        "The Department for Education’s 5-stage approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "li",
+      "text": "continuing to pay for services to suppliers who give their best endeavours to continue delivery despite performance being somewhat affected",
+      "ordinal": 28,
+      "heading_path": [
+        "Introduction",
+        "Determining if you are a contracting authority",
+        "The Department for Education’s 5-stage approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "li",
+      "text": "considering an extension of time for contract performance (for example, revised milestones or delivery dates)",
+      "ordinal": 29,
+      "heading_path": [
+        "Introduction",
+        "Determining if you are a contracting authority",
+        "The Department for Education’s 5-stage approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "li",
+      "text": "taking a more reasonable view on agreed lead times which, despite best endeavours, might not be met by suppliers, and ensure their payments are not negatively affected by that",
+      "ordinal": 30,
+      "heading_path": [
+        "Introduction",
+        "Determining if you are a contracting authority",
+        "The Department for Education’s 5-stage approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "li",
+      "text": "consider supplementing service delivery through your own resources, though this is likely to be difficult, but may help alleviate the challenges the supplier is suffering as a result of coronavirus (COVID-19)",
+      "ordinal": 31,
+      "heading_path": [
+        "Introduction",
+        "Determining if you are a contracting authority",
+        "The Department for Education’s 5-stage approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "li",
+      "text": "stage 5: Financial interventions: As with the commercial interventions, financial judgement should be used when considering any of the suggested options below: variation of payment mechanism - specifically beneficial where contracts are based upon the delivery of outcomes or outputs, you can vary the payment mechanisms to provide greater short term cash flow to the supplier, for example moving from payments on delivery of services, works or goods to aligning payments to the costs being incurred by the supplier, or breaking down milestone payments into multiple smaller payments increasing speed of payment - the PPNs seek to expedite this process and adjust normal financial controls, such as paying reconciled invoices before their due date prepayment of up to 25% of contract value - this specifically targets immediate cash flow issues but potentially creates a cash flow issue at a later date in the contract, so should be considered accordingly. For example, releasing a proportion of retained funds on capital projects, in lieu of actual defects being identified and remedied",
+      "ordinal": 32,
+      "heading_path": [
+        "Introduction",
+        "Determining if you are a contracting authority",
+        "The Department for Education’s 5-stage approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "li",
+      "text": "variation of payment mechanism - specifically beneficial where contracts are based upon the delivery of outcomes or outputs, you can vary the payment mechanisms to provide greater short term cash flow to the supplier, for example moving from payments on delivery of services, works or goods to aligning payments to the costs being incurred by the supplier, or breaking down milestone payments into multiple smaller payments",
+      "ordinal": 33,
+      "heading_path": [
+        "Introduction",
+        "Determining if you are a contracting authority",
+        "The Department for Education’s 5-stage approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "li",
+      "text": "increasing speed of payment - the PPNs seek to expedite this process and adjust normal financial controls, such as paying reconciled invoices before their due date",
+      "ordinal": 34,
+      "heading_path": [
+        "Introduction",
+        "Determining if you are a contracting authority",
+        "The Department for Education’s 5-stage approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "li",
+      "text": "prepayment of up to 25% of contract value - this specifically targets immediate cash flow issues but potentially creates a cash flow issue at a later date in the contract, so should be considered accordingly. For example, releasing a proportion of retained funds on capital projects, in lieu of actual defects being identified and remedied",
+      "ordinal": 35,
+      "heading_path": [
+        "Introduction",
+        "Determining if you are a contracting authority",
+        "The Department for Education’s 5-stage approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "p",
+      "text": "If you do choose to make any commercial or financial interventions, you need to make sure they are documented, using the change control clauses contained in the contracts, even if this takes place retrospectively. The Cabinet Office has developed a series of model clauses to help with this.",
+      "ordinal": 36,
+      "heading_path": [
+        "Introduction",
+        "Determining if you are a contracting authority",
+        "The Department for Education’s 5-stage approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "p",
+      "text": "You also need to work in partnership with the supplier to plan an exit from the agreed interventions and transition to a new, sustainable, operating model. See the transition planning section of this guidance.",
+      "ordinal": 37,
+      "heading_path": [
+        "Introduction",
+        "Determining if you are a contracting authority",
+        "The Department for Education’s 5-stage approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "p",
+      "text": "There are a number of other important points to note when considering how best to implement the PPNs for your school or trust:",
+      "ordinal": 38,
+      "heading_path": [
+        "Introduction",
+        "Determining if you are a contracting authority",
+        "The Department for Education’s 5-stage approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "li",
+      "text": "whatever approach you decide best meets your needs, you need to ensure you apply the necessary financial and governance controls as set out in the Local Scheme for Financing Schools for Maintained Schools and the Academies Financial Handbook for Academy Trusts",
+      "ordinal": 39,
+      "heading_path": [
+        "Introduction",
+        "Determining if you are a contracting authority",
+        "The Department for Education’s 5-stage approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "li",
+      "text": "maintained schools should also get advice from their local authorities on how they have implemented PPN 02/20 and 04/20 especially where you are accessing supplier contracts that they manage",
+      "ordinal": 40,
+      "heading_path": [
+        "Introduction",
+        "Determining if you are a contracting authority",
+        "The Department for Education’s 5-stage approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "li",
+      "text": "the PPNs are very clear about the importance of transparency and suppliers agreeing to act on an open book basis and make cost data available to you during this period, so please ensure they do so where relevant",
+      "ordinal": 41,
+      "heading_path": [
+        "Introduction",
+        "Determining if you are a contracting authority",
+        "The Department for Education’s 5-stage approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "li",
+      "text": "keeping a record of your agreed approach and supporting rationale, along with details of any payments made, assessment of risks or contractual changes, is important to show that you have an audit trail. This needs to be maintained throughout the period the PPN applies and retained afterwards for any future audit purposes.",
+      "ordinal": 42,
+      "heading_path": [
+        "Introduction",
+        "Determining if you are a contracting authority",
+        "The Department for Education’s 5-stage approach"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "heading",
+      "text": "Transition planning",
+      "ordinal": 43,
+      "heading_path": [
+        "Introduction",
+        "Transition planning"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "p",
+      "text": "If you have agreed to any form of supplier relief (commercial or financial interventions mentioned above) you should immediately work with the supplier to develop a transition plan ready to be implemented as soon as possible and completed before 31 October 2020.",
+      "ordinal": 44,
+      "heading_path": [
+        "Introduction",
+        "Transition planning"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "p",
+      "text": "This transition plan should be agreed by both parties and should include the following:",
+      "ordinal": 45,
+      "heading_path": [
+        "Introduction",
+        "Transition planning"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "li",
+      "text": "a planned exit date for when any supplier relief will end - this should be kept under review to reflect the changing situation, for example local restrictions being reintroduced",
+      "ordinal": 46,
+      "heading_path": [
+        "Introduction",
+        "Transition planning"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "li",
+      "text": "if advanced payments have been made, the parties should agree if and when any outstanding goods or services are to be delivered",
+      "ordinal": 47,
+      "heading_path": [
+        "Introduction",
+        "Transition planning"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "li",
+      "text": "the process for reconciling payments made against costs as set out in the model interim payment terms accompanying PPN 02/20",
+      "ordinal": 48,
+      "heading_path": [
+        "Introduction",
+        "Transition planning"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "li",
+      "text": "an assessment of any costs associated with implementing Public Health England guidance specifically in relation to delivering the public contract - this should be considered by the authority on a case by case basis",
+      "ordinal": 49,
+      "heading_path": [
+        "Introduction",
+        "Transition planning"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00050",
+      "block_type": "li",
+      "text": "an assessment as to whether, as a result of coronavirus (COVID-19), the contract is still relevant and sustainable and, if not, proposals for variation or termination",
+      "ordinal": 50,
+      "heading_path": [
+        "Introduction",
+        "Transition planning"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00051",
+      "block_type": "p",
+      "text": "In some instances, you may decide that a contract is no longer relevant or sustainable. In these circumstances, the contracting authority and the supplier should discuss alternative options, for example applying a contract variation. Ultimately, it may be necessary for the parties to discuss contract termination.",
+      "ordinal": 51,
+      "heading_path": [
+        "Introduction",
+        "Transition planning"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00052",
+      "block_type": "heading",
+      "text": "School food contracts",
+      "ordinal": 52,
+      "heading_path": [
+        "Introduction",
+        "School food contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00053",
+      "block_type": "p",
+      "text": "As part of helping schools understand how to implement the PPNs, the DfE has provided guidance explaining what schools should do to make sure eligible pupils have continued access to free school meals where the pupil is not attending school .",
+      "ordinal": 53,
+      "heading_path": [
+        "Introduction",
+        "School food contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00054",
+      "block_type": "p",
+      "text": "If you consider it appropriate in order to maintain delivery of critical services, you should continue to make payments as normal where suppliers are considered at risk, even if service delivery is disrupted or suspended. Such payments should only cover the cost of free school meals and universal infant free school meals, and not the costs of meals usually purchased by parents for pupils who are not eligible for free school meals.",
+      "ordinal": 54,
+      "heading_path": [
+        "Introduction",
+        "School food contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00055",
+      "block_type": "p",
+      "text": "Under PPN 04/20, this is effective until 31 October 2020 at the latest, although supplier relief for these meals should not continue during the school summer holidays and we would ask schools to develop transition plans to exit from any relief before the start of the autumn term.",
+      "ordinal": 55,
+      "heading_path": [
+        "Introduction",
+        "School food contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00056",
+      "block_type": "p",
+      "text": "Any relief payments for free school meals and universal infant free school meals should be based on the 3 months’ invoices prior to March 2020 (or the time period that is most appropriate), provided the supplier agrees to act on an open book basis and make cost data available. Schools should make payments to suppliers promptly and on time.",
+      "ordinal": 56,
+      "heading_path": [
+        "Introduction",
+        "School food contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00057",
+      "block_type": "p",
+      "text": "The government will continue to provide schools with their expected funding, including funding to cover free school meals and universal infant free school meals, throughout this period.",
+      "ordinal": 57,
+      "heading_path": [
+        "Introduction",
+        "School food contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00058",
+      "block_type": "heading",
+      "text": "General PPN02/20 and PPN 04/20 guidance",
+      "ordinal": 58,
+      "heading_path": [
+        "Introduction",
+        "General PPN02/20 and PPN 04/20 guidance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00059",
+      "block_type": "p",
+      "text": "For more general guidance, refer to the Cabinet Office PPN 02/20 and PPN 04/20 documents.",
+      "ordinal": 59,
+      "heading_path": [
+        "Introduction",
+        "General PPN02/20 and PPN 04/20 guidance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00060",
+      "block_type": "p",
+      "text": "If you have any questions about PPN 02/20 and 04/20, email info@crowncommercial.gov.uk .",
+      "ordinal": 60,
+      "heading_path": [
+        "Introduction",
+        "General PPN02/20 and PPN 04/20 guidance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "an additional fund to support schools with unavoidable additional costs associated with COVID-19 that cannot be met from existing resources",
+      "href": "https://www.gov.uk/government/publications/coronavirus-covid-19-financial-support-for-schools/school-funding-exceptional-costs-associated-with-coronavirus-covid-19-for-the-period-march-to-july-2020",
+      "block_id": "b00012",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "The Cabinet Office has developed a series of model clauses",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0220-supplier-relief-due-to-covid-19",
+      "block_id": "b00036",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "guidance explaining what schools should do to make sure eligible pupils have continued access to free school meals where the pupil is not attending school",
+      "href": "https://www.gov.uk/government/publications/covid-19-free-school-meals-guidance/covid-19-free-school-meals-guidance-for-schools#school-food-contracts",
+      "block_id": "b00053",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "PPN 02/20",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0220-supplier-relief-due-to-covid-19/procurement-policy-notice-ppn-0220-supplier-relief-due-to-covid-19-additional-sector-guidance-for-state-funded-schools",
+      "block_id": "b00059",
+      "ordinal": 3,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "PPN 04/20",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0420-recovery-and-transition-from-covid-19",
+      "block_id": "b00059",
+      "ordinal": 4,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "info@crowncommercial.gov.uk",
+      "href": "mailto:info@crowncommercial.gov.uk",
+      "block_id": "b00060",
+      "ordinal": 5,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "Procurement Policy Notice (PPN) 02/20 and 04/20: Supplier relief due to coronavirus (COVID-19) - additional sector guidance for state funded schools",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0220-supplier-relief-due-to-covid-19/procurement-policy-notice-ppn-0220-supplier-relief-due-to-covid-19-additional-sector-guidance-for-state-funded-schools",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2019 to 2022 Johnson Conservative government",
+      "href": "https://www.gov.uk/government/2019-to-2022-johnson-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 7,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 8,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Procurement Policy Note 02/20: supplier relief due to coronavirus (COVID-19)",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0220-supplier-relief-due-to-covid-19",
+      "block_id": "__document__",
+      "ordinal": 9,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 10,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [],
+  "attachments": [],
+  "warnings": []
+}

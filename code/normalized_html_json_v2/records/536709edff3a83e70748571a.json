@@ -1,0 +1,916 @@
+{
+  "document_id": "536709edff3a83e70748571a",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "html",
+  "source_path": "corpus_ingest_v2/raw/52e89b5941b6dc98d4dd04a5.html",
+  "input_sha256": "5c54d264129b0ae4f31a56bb980459e10f52e937a326e66da3fa71673ca9bc3f",
+  "processed_at": "2026-08-27T02:26:17.817038+00:00",
+  "title": "Whole Life and Life Cycle Costing | Procurement Journey",
+  "canonical_url": "https://www.procurementjourney.scot/whole-life-and-life-cycle-costing",
+  "description": null,
+  "publication_date": null,
+  "updated_date": null,
+  "source_metadata": {
+    "html_lang": "en"
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Life Cycle Impact Mapping",
+      "ordinal": 5
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Life Cycle Costing",
+      "ordinal": 13
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Whole Life Costing",
+      "ordinal": 34
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Information for Bidders",
+      "ordinal": 37
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Costs Attributable to Environmental Factors",
+      "ordinal": 44
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Life Cycle Costing Example",
+      "ordinal": 58
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "li",
+      "text": "View PDF",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "Whole Life & Life Cycle Costing",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "When awarding public contracts on the basis of the Most Economically Advantageous Tender (MEAT), organisations must determine the balance between price/cost and the best price quality ratio.",
+      "ordinal": 2,
+      "heading_path": [],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "To determine the price/cost of a contract, organisations can calculate the total cost of the goods or services based on the whole lifecycle rather than only the purchase price. Using a life-cycle costing (LCC) or whole life costing (WLC) model can help organisations identify the MEAT, support obligations to improve the economic, social and environmental wellbeing of their area, and ultimately achieve value for money.",
+      "ordinal": 3,
+      "heading_path": [],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "Any costs requested in a tender process should be accessible and free for bidders to provide.",
+      "ordinal": 4,
+      "heading_path": [],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "heading",
+      "text": "Life Cycle Impact Mapping",
+      "ordinal": 5,
+      "heading_path": [
+        "Life Cycle Impact Mapping"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "p",
+      "text": "Use of the Life Cycle Impact Map in the Sustainable Procurement Tools will help buyers establish where in the life cycle major social and environmental impacts occur which may be:",
+      "ordinal": 6,
+      "heading_path": [
+        "Life Cycle Impact Mapping"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "table",
+      "text": "impacts of obtaining raw materials\timpacts of manufacturing & logistics\nimpacts during delivery of product/service\timpacts at end-of-life/disposal",
+      "ordinal": 7,
+      "heading_path": [
+        "Life Cycle Impact Mapping"
+      ],
+      "source_locator": null,
+      "metadata": {
+        "rows": [
+          [
+            "impacts of obtaining raw materials",
+            "impacts of manufacturing & logistics"
+          ],
+          [
+            "impacts during delivery of product/service",
+            "impacts at end-of-life/disposal"
+          ]
+        ],
+        "row_count": 2
+      }
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "li",
+      "text": "impacts of obtaining raw materials",
+      "ordinal": 8,
+      "heading_path": [
+        "Life Cycle Impact Mapping"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "li",
+      "text": "impacts of manufacturing & logistics",
+      "ordinal": 9,
+      "heading_path": [
+        "Life Cycle Impact Mapping"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "li",
+      "text": "impacts during delivery of product/service",
+      "ordinal": 10,
+      "heading_path": [
+        "Life Cycle Impact Mapping"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "li",
+      "text": "impacts at end-of-life/disposal",
+      "ordinal": 11,
+      "heading_path": [
+        "Life Cycle Impact Mapping"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "Completion of a life cycle impact map can then help to identify whether a LCC or WLC approach may be appropriate.",
+      "ordinal": 12,
+      "heading_path": [
+        "Life Cycle Impact Mapping"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "heading",
+      "text": "Life Cycle Costing",
+      "ordinal": 13,
+      "heading_path": [
+        "Life Cycle Impact Mapping",
+        "Life Cycle Costing"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "LCC is set out in regulation 68 of the Public Contracts (Scotland) Regulations 2015.",
+      "ordinal": 14,
+      "heading_path": [
+        "Life Cycle Impact Mapping",
+        "Life Cycle Costing"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "Although this provision does not extend to regulated procurements below the 2015 thresholds, the use of a life cycle approach will support an organisation’s responsibility to consider how to support its sustainable procurement duty to improve the economic, social and environmental wellbeing of its area, achieve the MEAT and help achieve value for money. Using this approach will also help increase the transparency of possible future costs to organisations.",
+      "ordinal": 15,
+      "heading_path": [
+        "Life Cycle Impact Mapping",
+        "Life Cycle Costing"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "LCC will cover part or all of the costs relating to the lifecycle of the goods or services. These can include costs such as:",
+      "ordinal": 16,
+      "heading_path": [
+        "Life Cycle Impact Mapping",
+        "Life Cycle Costing"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "li",
+      "text": "Purchase price",
+      "ordinal": 17,
+      "heading_path": [
+        "Life Cycle Impact Mapping",
+        "Life Cycle Costing"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "p",
+      "text": "Purchase price",
+      "ordinal": 18,
+      "heading_path": [
+        "Life Cycle Impact Mapping",
+        "Life Cycle Costing"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "li",
+      "text": "Operating costs such as fuel costs, consumables",
+      "ordinal": 19,
+      "heading_path": [
+        "Life Cycle Impact Mapping",
+        "Life Cycle Costing"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "p",
+      "text": "Operating costs such as fuel costs, consumables",
+      "ordinal": 20,
+      "heading_path": [
+        "Life Cycle Impact Mapping",
+        "Life Cycle Costing"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "li",
+      "text": "Maintenance costs such as servicing, repairs and spare parts",
+      "ordinal": 21,
+      "heading_path": [
+        "Life Cycle Impact Mapping",
+        "Life Cycle Costing"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "p",
+      "text": "Maintenance costs such as servicing, repairs and spare parts",
+      "ordinal": 22,
+      "heading_path": [
+        "Life Cycle Impact Mapping",
+        "Life Cycle Costing"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "li",
+      "text": "Disposal costs such as decommissioning, dismantling and final disposal",
+      "ordinal": 23,
+      "heading_path": [
+        "Life Cycle Impact Mapping",
+        "Life Cycle Costing"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "Disposal costs such as decommissioning, dismantling and final disposal",
+      "ordinal": 24,
+      "heading_path": [
+        "Life Cycle Impact Mapping",
+        "Life Cycle Costing"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "li",
+      "text": "environmental and social impacts such as emissions, waste generation and climate change mitigation costs",
+      "ordinal": 25,
+      "heading_path": [
+        "Life Cycle Impact Mapping",
+        "Life Cycle Costing"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "p",
+      "text": "environmental and social impacts such as emissions, waste generation and climate change mitigation costs",
+      "ordinal": 26,
+      "heading_path": [
+        "Life Cycle Impact Mapping",
+        "Life Cycle Costing"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "li",
+      "text": "Training costs",
+      "ordinal": 27,
+      "heading_path": [
+        "Life Cycle Impact Mapping",
+        "Life Cycle Costing"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "Training costs",
+      "ordinal": 28,
+      "heading_path": [
+        "Life Cycle Impact Mapping",
+        "Life Cycle Costing"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "li",
+      "text": "Insurance costs",
+      "ordinal": 29,
+      "heading_path": [
+        "Life Cycle Impact Mapping",
+        "Life Cycle Costing"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "p",
+      "text": "Insurance costs",
+      "ordinal": 30,
+      "heading_path": [
+        "Life Cycle Impact Mapping",
+        "Life Cycle Costing"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "li",
+      "text": "Revenue generated",
+      "ordinal": 31,
+      "heading_path": [
+        "Life Cycle Impact Mapping",
+        "Life Cycle Costing"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "p",
+      "text": "Revenue generated",
+      "ordinal": 32,
+      "heading_path": [
+        "Life Cycle Impact Mapping",
+        "Life Cycle Costing"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "p",
+      "text": "LCC can provide a flexible approach to costing, where buyers can focus on specific areas of the lifecycle which will have the greatest impact.",
+      "ordinal": 33,
+      "heading_path": [
+        "Life Cycle Impact Mapping",
+        "Life Cycle Costing"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "heading",
+      "text": "Whole Life Costing",
+      "ordinal": 34,
+      "heading_path": [
+        "Life Cycle Impact Mapping",
+        "Life Cycle Costing",
+        "Whole Life Costing"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "p",
+      "text": "This is a technique to calculate the total cost value of goods or services over their full useful life , from cradle to grave, taking into account all the total relevant costs of purchasing, operating, maintaining and disposal which can include, but is not limited to the costs listed above.",
+      "ordinal": 35,
+      "heading_path": [
+        "Life Cycle Impact Mapping",
+        "Life Cycle Costing",
+        "Whole Life Costing"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "p",
+      "text": "Unlike LCC which may consider only part of the costs, a WLC approach should consider all the relevant costs relating to the goods or services.",
+      "ordinal": 36,
+      "heading_path": [
+        "Life Cycle Impact Mapping",
+        "Life Cycle Costing",
+        "Whole Life Costing"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "heading",
+      "text": "Information for Bidders",
+      "ordinal": 37,
+      "heading_path": [
+        "Life Cycle Impact Mapping",
+        "Life Cycle Costing",
+        "Whole Life Costing",
+        "Information for Bidders"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "p",
+      "text": "Where LCC or WLC are being used to assess the costs of a contract, organisations must establish the method in advance and share with bidders:",
+      "ordinal": 38,
+      "heading_path": [
+        "Life Cycle Impact Mapping",
+        "Life Cycle Costing",
+        "Whole Life Costing",
+        "Information for Bidders"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "li",
+      "text": "the method that will be used",
+      "ordinal": 39,
+      "heading_path": [
+        "Life Cycle Impact Mapping",
+        "Life Cycle Costing",
+        "Whole Life Costing",
+        "Information for Bidders"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "li",
+      "text": "any assumptions which have been made",
+      "ordinal": 40,
+      "heading_path": [
+        "Life Cycle Impact Mapping",
+        "Life Cycle Costing",
+        "Whole Life Costing",
+        "Information for Bidders"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "li",
+      "text": "what information is required from bidders.",
+      "ordinal": 41,
+      "heading_path": [
+        "Life Cycle Impact Mapping",
+        "Life Cycle Costing",
+        "Whole Life Costing",
+        "Information for Bidders"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "p",
+      "text": "The costing method being used must be objective , based on non-discriminatory criteria , accessible to all interested parties and not favour a particular bidder.",
+      "ordinal": 42,
+      "heading_path": [
+        "Life Cycle Impact Mapping",
+        "Life Cycle Costing",
+        "Whole Life Costing",
+        "Information for Bidders"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "p",
+      "text": "Where any common methods have been made mandatory by legislation, they must be used e.g. the clean vehicles Directive requires that energy and environmental impacts linked to the operation of vehicles over their whole lifetime are taken into account in all purchases of road transport vehicles, as covered by the public procurement Directives and “The Cleaner Road Transport Vehicles (Scotland) Regulations 2010”.",
+      "ordinal": 43,
+      "heading_path": [
+        "Life Cycle Impact Mapping",
+        "Life Cycle Costing",
+        "Whole Life Costing",
+        "Information for Bidders"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "heading",
+      "text": "Costs Attributable to Environmental Factors",
+      "ordinal": 44,
+      "heading_path": [
+        "Life Cycle Impact Mapping",
+        "Life Cycle Costing",
+        "Whole Life Costing",
+        "Costs Attributable to Environmental Factors"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "p",
+      "text": "Costs attributable to environmental factors linked to goods or services during their life cycle can be considered where the financial value can be determined and verified in an objective and non-discriminatory way.",
+      "ordinal": 45,
+      "heading_path": [
+        "Life Cycle Impact Mapping",
+        "Life Cycle Costing",
+        "Whole Life Costing",
+        "Costs Attributable to Environmental Factors"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "p",
+      "text": "T he data required from bidders must be accessible by all and gathered without unnecessary burden.",
+      "ordinal": 46,
+      "heading_path": [
+        "Life Cycle Impact Mapping",
+        "Life Cycle Costing",
+        "Whole Life Costing",
+        "Costs Attributable to Environmental Factors"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "p",
+      "text": "Tools and Guidance",
+      "ordinal": 47,
+      "heading_path": [
+        "Life Cycle Impact Mapping",
+        "Life Cycle Costing",
+        "Whole Life Costing",
+        "Costs Attributable to Environmental Factors"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "p",
+      "text": "Please find below links to resources which may be useful in building cost models, providing considerations and guidance:",
+      "ordinal": 48,
+      "heading_path": [
+        "Life Cycle Impact Mapping",
+        "Life Cycle Costing",
+        "Whole Life Costing",
+        "Costs Attributable to Environmental Factors"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "p",
+      "text": "Scottish Futures Trust (SFT) Whole Life Appraisal Tool",
+      "ordinal": 49,
+      "heading_path": [
+        "Life Cycle Impact Mapping",
+        "Life Cycle Costing",
+        "Whole Life Costing",
+        "Costs Attributable to Environmental Factors"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00050",
+      "block_type": "p",
+      "text": "Produced for the Scottish Government in response to the Review of Public Sector Procurement in Construction 2013, the SFT provided guidance and a whole life appraisal tool which, although created from a construction perspective, may provide information and models useful for complex service contracts. Buyers may also find further information on whole life costing and sustainability in chapter 11 and 18 of the Construction Procurement Handbook .",
+      "ordinal": 50,
+      "heading_path": [
+        "Life Cycle Impact Mapping",
+        "Life Cycle Costing",
+        "Whole Life Costing",
+        "Costs Attributable to Environmental Factors"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00051",
+      "block_type": "p",
+      "text": "Should Cost Modelling",
+      "ordinal": 51,
+      "heading_path": [
+        "Life Cycle Impact Mapping",
+        "Life Cycle Costing",
+        "Whole Life Costing",
+        "Costs Attributable to Environmental Factors"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00052",
+      "block_type": "p",
+      "text": "UK GCF developed an extensive suite of guidance, tools and templates on “ Should Cost Modelling ” (SCM), a term used to describe Whole Life Cost Modelling. SCM can provide a forecast of what a service, project or programme ‘should’ cost over its whole life, provide a structure for bids to be received, support the evaluation of bids (including helping to identify abnormally low bids), and provide a baseline to compare forecasted costs to the actuals during the contract performance.",
+      "ordinal": 52,
+      "heading_path": [
+        "Life Cycle Impact Mapping",
+        "Life Cycle Costing",
+        "Whole Life Costing",
+        "Costs Attributable to Environmental Factors"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00053",
+      "block_type": "p",
+      "text": "Whole Life Costing (+CO2)",
+      "ordinal": 53,
+      "heading_path": [
+        "Life Cycle Impact Mapping",
+        "Life Cycle Costing",
+        "Whole Life Costing",
+        "Costs Attributable to Environmental Factors"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00054",
+      "block_type": "p",
+      "text": "Forum for the Future in partnership with Fife Council developed a Whole Life Costing (+CO2) tool and guidance , which may be helpful to assess the whole life costs including CO2 emissions (from point of purchase to end of life (but does not include embedded or embodied carbon incurred during supply chain activities)) of any product or service which consumes electricity, gas, oil, vehicle fuel and/or water. As above, any method to calculate emissions must be determined and verified in an objective and non-discriminatory way , accessible by all bidders and gathered without unnecessary burden.",
+      "ordinal": 54,
+      "heading_path": [
+        "Life Cycle Impact Mapping",
+        "Life Cycle Costing",
+        "Whole Life Costing",
+        "Costs Attributable to Environmental Factors"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00055",
+      "block_type": "p",
+      "text": "The Knowledgehub",
+      "ordinal": 55,
+      "heading_path": [
+        "Life Cycle Impact Mapping",
+        "Life Cycle Costing",
+        "Whole Life Costing",
+        "Costs Attributable to Environmental Factors"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00056",
+      "block_type": "p",
+      "text": "The Knowledgehub is a free service where public sector buyers can find helpful guidance, templates and share best practice which includes information on costing models.",
+      "ordinal": 56,
+      "heading_path": [
+        "Life Cycle Impact Mapping",
+        "Life Cycle Costing",
+        "Whole Life Costing",
+        "Costs Attributable to Environmental Factors"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00057",
+      "block_type": "p",
+      "text": "The document found below, provides some Life Cycle Costing examples.",
+      "ordinal": 57,
+      "heading_path": [
+        "Life Cycle Impact Mapping",
+        "Life Cycle Costing",
+        "Whole Life Costing",
+        "Costs Attributable to Environmental Factors"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00058",
+      "block_type": "heading",
+      "text": "Life Cycle Costing Example",
+      "ordinal": 58,
+      "heading_path": [
+        "Life Cycle Impact Mapping",
+        "Life Cycle Costing",
+        "Whole Life Costing",
+        "Life Cycle Costing Example"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00059",
+      "block_type": "p",
+      "text": "(file type: docx)",
+      "ordinal": 59,
+      "heading_path": [
+        "Life Cycle Impact Mapping",
+        "Life Cycle Costing",
+        "Whole Life Costing",
+        "Life Cycle Costing Example"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "View PDF",
+      "href": "https://www.procurementjourney.scot/print/pdf/node/859",
+      "block_id": "b00000",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Sustainable Procurement Tools",
+      "href": "https://sustainableprocurementtools.scot/",
+      "block_id": "b00006",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "guidance",
+      "href": "https://www.scottishfuturestrust.org.uk/publications/documents/whole-life-appraisal-tool-for-construction",
+      "block_id": "b00050",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Construction Procurement Handbook",
+      "href": "https://www.gov.scot/publications/project-initiation-business-cases-handbook/",
+      "block_id": "b00050",
+      "ordinal": 3,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Should Cost Modelling",
+      "href": "https://www.gov.uk/government/publications/should-cost-modelling-tools-and-templates",
+      "block_id": "b00052",
+      "ordinal": 4,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Whole Life Costing (+CO2) tool and guidance",
+      "href": "https://www.reading.ac.uk/procurement/procurement-whole-life-costing",
+      "block_id": "b00054",
+      "ordinal": 5,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Knowledgehub",
+      "href": "https://khub.net/",
+      "block_id": "b00056",
+      "ordinal": 6,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Life Cycle Costing Example",
+      "href": "https://www.procurementjourney.scot/sites/default/files/Life%20Cycle%20Costing%20Example.docx",
+      "block_id": "b00058",
+      "ordinal": 7,
+      "link_type": "ATTACHMENT"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 68",
+      "block_id": "b00014",
+      "start": 18,
+      "end": 31,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "68"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015",
+      "block_id": "b00014",
+      "start": 67,
+      "end": 83,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2010",
+      "block_id": "b00043",
+      "start": 395,
+      "end": 411,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2010"
+      }
+    }
+  ],
+  "attachments": [
+    {
+      "url": "https://www.procurementjourney.scot/sites/default/files/Life%20Cycle%20Costing%20Example.docx",
+      "title": "Life Cycle Costing Example",
+      "discovered_in_block": "b00058"
+    }
+  ],
+  "warnings": []
+}

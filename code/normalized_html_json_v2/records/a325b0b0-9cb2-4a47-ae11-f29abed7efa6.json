@@ -1,0 +1,915 @@
+{
+  "document_id": "a325b0b0-9cb2-4a47-ae11-f29abed7efa6",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/19a0aa3ab48be0427b3c885b.json",
+  "input_sha256": "1c20564b22b1afde545ad4585595f6a8c3b396e5e7af17b60986d0bfba46f2b0",
+  "processed_at": "2026-08-27T02:26:06.254491+00:00",
+  "title": "PPN 012: Security Classifications Policy (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/ppn-012-security-classifications-policy/ppn-012-security-classifications-policy-html",
+  "description": null,
+  "publication_date": "2025-02-17T14:44:57+00:00",
+  "updated_date": "2025-02-17T14:44:56+00:00",
+  "source_metadata": {
+    "content_id": "a325b0b0-9cb2-4a47-ae11-f29abed7efa6",
+    "base_path": "/government/publications/ppn-012-security-classifications-policy/ppn-012-security-classifications-policy-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Issue",
+      "ordinal": 3,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Dissemination and scope",
+      "ordinal": 5,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Timing",
+      "ordinal": 12,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Action",
+      "ordinal": 14,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Training",
+      "ordinal": 26,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Background",
+      "ordinal": 29,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Contact",
+      "ordinal": 32,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Annex A – Definitions and Additional Markings",
+      "ordinal": 35,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Baseline Security Behaviours",
+      "ordinal": 40,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Using Additional Markings",
+      "ordinal": 47,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "Action Note: 012",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "Previously issued: June 2023",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "Updated: February 2025",
+      "ordinal": 2,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "heading",
+      "text": "Issue",
+      "ordinal": 3,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "1. The Government Security Classifications Policy (GSCP) has been updated to address gaps in the previous policy and changes in government working practices since the last major update in 2013. The Policy applies to any information or data that is created, processed, stored or managed as part of an HMG contract.",
+      "ordinal": 4,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "heading",
+      "text": "Dissemination and scope",
+      "ordinal": 5,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "p",
+      "text": "2. This Procurement Policy Note (PPN) applies to all central government departments, their executive agencies and non-departmental public bodies, and NHS bodies. Such bodies are referred to as ‘in-scope organisations’.",
+      "ordinal": 6,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "3. Please circulate this PPN within your organisation, particularly to those with a commercial, procurement and/or contract management role. The GSCP should also be shared with your information assurance and data protection leads.",
+      "ordinal": 7,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "4. Other public sector contracting authorities creating, processing, storing or managing data or information as part of an HMG contract may wish to apply the approach set out in this PPN.",
+      "ordinal": 8,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "5. This PPN has been updated to reflect new terminology introduced by the Procurement Act 2023 and the Procurement Regulations 2024. The Procurement Act 2023 and the Procurement Regulations 2024 apply to procurements commenced on or after 24 February 2025. For more detail on the meaning of ‘commenced’ please refer to the Procurement Act 2023 Guidance on Transitional and Savings Arrangements .",
+      "ordinal": 9,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "p",
+      "text": "6. The Procurement Act 2023 does not apply to procurements commenced before 24 February 2025 or to contracts awarded prior to this date (including via frameworks, dynamic purchasing systems or qualification systems established under the previous legislation). For procurements commenced and contracts awarded before this date, please refer to PPN 07/23.",
+      "ordinal": 10,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "7. This update does not constitute a change in policy or a new call for action but in-scope organisations should continue to apply any ongoing obligations set out in the provisions of this PPN.",
+      "ordinal": 11,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "heading",
+      "text": "Timing",
+      "ordinal": 12,
+      "heading_path": [
+        "Issue",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "8. In-scope organisations should note the provisions of this PPN from 24 February 2025.",
+      "ordinal": 13,
+      "heading_path": [
+        "Issue",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "heading",
+      "text": "Action",
+      "ordinal": 14,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "9. In-scope organisations must ensure that appropriate protective security controls are in place for new and existing contracts in line with the updated GSCP. A full suite of guidance documents is available on GOV.UK, with specific guidance for commercial teams and suppliers set out in Guidance 1.6: Contractors and Contracting Authorities.",
+      "ordinal": 15,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "10. The majority of these updates are minor changes which will not require a contract variation to existing contracts. However, there might be some instances where specific contracts need to be reviewed.",
+      "ordinal": 16,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "11. In-scope organisations should notify existing suppliers that the GSCP has been updated and set out any changes needed to the contract.",
+      "ordinal": 17,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "p",
+      "text": "12. In-scope organisations should familiarise themselves with the following aspects of the updated GSCP:",
+      "ordinal": 18,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "a. Updated definitions for the three classification tiers OFFICIAL, SECRET and TOP SECRET.",
+      "ordinal": 19,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "p",
+      "text": "b. Baseline security behaviours for the three classification tiers and further security controls for when the -SENSITIVE marking is applied to OFFICIAL information. OFFICIAL-SENSITIVE has not been introduced as a new classification tier.",
+      "ordinal": 20,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "c. Updated list of principles to be followed by anyone handling HMG information.",
+      "ordinal": 21,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "p",
+      "text": "d. Standardised additional markings (including: handling instructions, descriptors, prefixes and national caveats).",
+      "ordinal": 22,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "e. New guidance for remote working when handling HMG information,",
+      "ordinal": 23,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "f. Updated guidance on aggregation and further considerations.",
+      "ordinal": 24,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "p",
+      "text": "13. All HMG information should, where possible, be clearly marked with a classification tier.",
+      "ordinal": 25,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "heading",
+      "text": "Training",
+      "ordinal": 26,
+      "heading_path": [
+        "Issue",
+        "Training"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "p",
+      "text": "14. As the GSCP applies to the whole of an organisation, departmental Security Advisors will be in receipt of education and awareness materials entitled ‘Mark My Words’ (obtained via the Security Education and Awareness Centre hosted within DWP). This includes an information video which can be sent to suppliers.",
+      "ordinal": 27,
+      "heading_path": [
+        "Issue",
+        "Training"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "15. A new E-Learning module is also available on the Government Campus entitled ‘Security Classifications’.",
+      "ordinal": 28,
+      "heading_path": [
+        "Issue",
+        "Training"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "heading",
+      "text": "Background",
+      "ordinal": 29,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "p",
+      "text": "16. The Government Security Classifications Policy (GSCP) sets out the administrative system used by HM Government (HMG) to protect information and data assets appropriately against prevalent threats through the use of ‘classification tiers’.",
+      "ordinal": 30,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "p",
+      "text": "17. HMG uses three classification tiers; OFFICIAL, SECRET and TOP SECRET. Each tier provides a set of recommended baseline behaviours and a set of protective controls, which are proportionate to the threat profile for that tier AND the potential impact of a compromise, accidental loss or incorrect disclosure of information held within that tier.",
+      "ordinal": 31,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "heading",
+      "text": "Contact",
+      "ordinal": 32,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "p",
+      "text": "18. Enquiries about this PPN, and requests to receive the standard templates should be directed to the Crown Commercial Service Helpdesk (0345 410 2222, info@crowncommercial.gov.uk ).",
+      "ordinal": 33,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "p",
+      "text": "19. Enquiries regarding the application of the policy should be sent to the Government Security Function at gsfinfo@cabinetoffice.gov.uk .",
+      "ordinal": 34,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "heading",
+      "text": "Annex A – Definitions and Additional Markings",
+      "ordinal": 35,
+      "heading_path": [
+        "Issue",
+        "Annex A – Definitions and Additional Markings"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "p",
+      "text": "1. The updated definitions for the classification tiers are set out below (threat profiles and risks of compromise can be found in the full policy):",
+      "ordinal": 36,
+      "heading_path": [
+        "Issue",
+        "Annex A – Definitions and Additional Markings"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "li",
+      "text": "OFFICIAL: ‘The majority of information that is created, processed, sent or received in the public sector and by partner organisations, which could cause no more than moderate damage if compromised and must be defended against a broad range of threat actors with differing capabilities using nuanced protective controls.’ OFFICIAL-SENSITIVE is not a separate classification tier. Further information about this additional marking is found below.",
+      "ordinal": 37,
+      "heading_path": [
+        "Issue",
+        "Annex A – Definitions and Additional Markings"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "li",
+      "text": "SECRET: ‘Very sensitive information that requires enhanced protective controls, including the use of secure networks on secured dedicated physical infrastructure and appropriately defined and implemented boundary security controls, suitable to defend against highly capable and determined threat actors, whereby a compromise could threaten life (an individual or group), seriously damage the UK’s security and/or international relations, its financial security/stability or impede its ability to investigate serious and organised crime.’",
+      "ordinal": 38,
+      "heading_path": [
+        "Issue",
+        "Annex A – Definitions and Additional Markings"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "li",
+      "text": "TOP SECRET: ‘Exceptionally sensitive information assets that directly support or inform the national security of the UK or its allies AND require an extremely high assurance of protection from all threats with the use of secure networks on highly secured dedicated physical infrastructure, and robustly defined and implemented boundary security controls’.",
+      "ordinal": 39,
+      "heading_path": [
+        "Issue",
+        "Annex A – Definitions and Additional Markings"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "heading",
+      "text": "Baseline Security Behaviours",
+      "ordinal": 40,
+      "heading_path": [
+        "Issue",
+        "Baseline Security Behaviours"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "p",
+      "text": "2. The GSCP outlines the minimum baseline security behaviours users should follow at each classification tier. It covers the baseline behaviours at each tier for the handling (sharing, storage, transport, and destruction) of information in electronic, hard- copy and verbal formats. These baseline behaviours provide protection proportionate to the level of risk.",
+      "ordinal": 41,
+      "heading_path": [
+        "Issue",
+        "Baseline Security Behaviours"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "p",
+      "text": "3. Each set of baseline behaviours that users need to follow can be found in:",
+      "ordinal": 42,
+      "heading_path": [
+        "Issue",
+        "Baseline Security Behaviours"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "p",
+      "text": "a. Guidance 1.1: Working at OFFICIAL;",
+      "ordinal": 43,
+      "heading_path": [
+        "Issue",
+        "Baseline Security Behaviours"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "p",
+      "text": "b. Guidance 1.2: Working at SECRET; and",
+      "ordinal": 44,
+      "heading_path": [
+        "Issue",
+        "Baseline Security Behaviours"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "p",
+      "text": "c. Guidance 1.3: Working at TOP SECRET.",
+      "ordinal": 45,
+      "heading_path": [
+        "Issue",
+        "Baseline Security Behaviours"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "p",
+      "text": "4. Users should ensure they are familiar with both the GSCP and local security guidance before handling classified information.",
+      "ordinal": 46,
+      "heading_path": [
+        "Issue",
+        "Baseline Security Behaviours"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "heading",
+      "text": "Using Additional Markings",
+      "ordinal": 47,
+      "heading_path": [
+        "Issue",
+        "Using Additional Markings"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "p",
+      "text": "5. The GSCP 2023 introduces a non-exhaustive standard list of additional markings (handling instructions, descriptors, prefixes and national caveats). HMG organisations may define further additional markings and users should ensure they are familiar with any locally-defined markings.",
+      "ordinal": 48,
+      "heading_path": [
+        "Issue",
+        "Using Additional Markings"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "p",
+      "text": "6. The GSCP 2023 also contains guidance on when the -SENSITIVE marking should be applied to OFFICIAL information (this can be found in Guidance 1.1: Working at OFFICIAL).",
+      "ordinal": 49,
+      "heading_path": [
+        "Issue",
+        "Using Additional Markings"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00050",
+      "block_type": "p",
+      "text": "7. In short, the -SENSITIVE marking should be applied to OFFICIAL information that is not intended for public release and that is of at least some interest to threat actors (internal or external), activists or the media. A compromise of OFFICIAL information or material marked -SENSITIVE is likely to cause moderate damage to the work or reputation of the organisation and/or HMG and must be marked with the -SENSITIVE marking. Such information must be handled using the additional marking and with other additional controls",
+      "ordinal": 50,
+      "heading_path": [
+        "Issue",
+        "Using Additional Markings"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00051",
+      "block_type": "p",
+      "text": "8. Additional markings should be applied in conjunction with a classification to: indicate the nature or source of the information; limit access to specific user groups; and, indicate whether additional protective controls are required to protect the information. Not all additional markings can be used with every classification. Below is a table showing which Handling Instructions and Descriptors can be used at each classification tier:",
+      "ordinal": 51,
+      "heading_path": [
+        "Issue",
+        "Using Additional Markings"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00052",
+      "block_type": "table",
+      "text": "Handling instructions\tOFFICIAL\tSECRET\tTOP SECRET\tOFFICIAL (with ‘−SENSITIVE’ marking)\t\nRECIPIENTS ONLY\tYES\tYES\tYES\tYES\t\nFOR PUBLIC RELEASE\tYES\tNO\tNO\tNO\t\nORGANISATION USE ONLY\tYES\tYES\tYES\tYES\t\nHMG USE ONLY\tYES\tYES\tNO\tYES\t\nEMBARGOED\tYES\tYES\tNO\tYES\t\nDescriptors\t\t\t\t\t\nLEGAL PROFESSIONAL PRIVILEGE (LPP)\tYES\tYES\tYES\tYES\t\nLEGAL\tYES\tNO\tNO\tYES\t\nMARKET SENSITIVE\tYES\tYES\tYES\tYES\t\nCOMMERCIAL\tYES\tYES\tYES\tYES\t\nHR MANAGEMENT\tYES\tNO\tNO\tYES\t\nPERSONAL DATA\tYES\tNO\tNO\tYES\t",
+      "ordinal": 52,
+      "heading_path": [
+        "Issue",
+        "Using Additional Markings"
+      ],
+      "source_locator": "details.body",
+      "metadata": {
+        "rows": [
+          [
+            "Handling instructions",
+            "OFFICIAL",
+            "SECRET",
+            "TOP SECRET",
+            "OFFICIAL (with ‘−SENSITIVE’ marking)",
+            ""
+          ],
+          [
+            "RECIPIENTS ONLY",
+            "YES",
+            "YES",
+            "YES",
+            "YES",
+            ""
+          ],
+          [
+            "FOR PUBLIC RELEASE",
+            "YES",
+            "NO",
+            "NO",
+            "NO",
+            ""
+          ],
+          [
+            "ORGANISATION USE ONLY",
+            "YES",
+            "YES",
+            "YES",
+            "YES",
+            ""
+          ],
+          [
+            "HMG USE ONLY",
+            "YES",
+            "YES",
+            "NO",
+            "YES",
+            ""
+          ],
+          [
+            "EMBARGOED",
+            "YES",
+            "YES",
+            "NO",
+            "YES",
+            ""
+          ],
+          [
+            "Descriptors",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "LEGAL PROFESSIONAL PRIVILEGE (LPP)",
+            "YES",
+            "YES",
+            "YES",
+            "YES",
+            ""
+          ],
+          [
+            "LEGAL",
+            "YES",
+            "NO",
+            "NO",
+            "YES",
+            ""
+          ],
+          [
+            "MARKET SENSITIVE",
+            "YES",
+            "YES",
+            "YES",
+            "YES",
+            ""
+          ],
+          [
+            "COMMERCIAL",
+            "YES",
+            "YES",
+            "YES",
+            "YES",
+            ""
+          ],
+          [
+            "HR MANAGEMENT",
+            "YES",
+            "NO",
+            "NO",
+            "YES",
+            ""
+          ],
+          [
+            "PERSONAL DATA",
+            "YES",
+            "NO",
+            "NO",
+            "YES",
+            ""
+          ]
+        ],
+        "row_count": 13
+      }
+    }
+  ],
+  "links": [
+    {
+      "text": "Guidance on Transitional and Savings Arrangements",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-transitional-and-saving-arrangements-html",
+      "block_id": "b00009",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "info@crowncommercial.gov.uk",
+      "href": "mailto:info@crowncommercial.gov.uk",
+      "block_id": "b00033",
+      "ordinal": 1,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "gsfinfo@cabinetoffice.gov.uk",
+      "href": "mailto:gsfinfo@cabinetoffice.gov.uk",
+      "block_id": "b00034",
+      "ordinal": 2,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "PPN 012: Security Classifications Policy (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-012-security-classifications-policy/ppn-012-security-classifications-policy-html",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2024 to 2026 Starmer Labour government",
+      "href": "https://www.gov.uk/government/2024-starmer-labour-government",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "PPN 012: Security Classifications Policy",
+      "href": "https://www.gov.uk/government/publications/ppn-012-security-classifications-policy",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 7,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2024",
+      "block_id": "b00009",
+      "start": 115,
+      "end": 131,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2024"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2024",
+      "block_id": "b00009",
+      "start": 178,
+      "end": 194,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2024"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

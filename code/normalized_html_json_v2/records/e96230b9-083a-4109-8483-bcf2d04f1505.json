@@ -1,0 +1,3242 @@
+{
+  "document_id": "e96230b9-083a-4109-8483-bcf2d04f1505",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/df54000f6047f1d77185f70b.json",
+  "input_sha256": "e80a532f08ecd7e0295308b857f3410d60b818ea17ba2189af29f3e16de71ce8",
+  "processed_at": "2026-08-27T02:26:44.603996+00:00",
+  "title": "PPN 020: Guidance on data protection legislation (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/ppn-020-guidance-on-data-protection-legislation/ppn-020-guidance-on-data-protection-legislation-html",
+  "description": null,
+  "publication_date": "2025-04-24T12:00:12+01:00",
+  "updated_date": "2025-04-24T12:00:11+01:00",
+  "source_metadata": {
+    "content_id": "e96230b9-083a-4109-8483-bcf2d04f1505",
+    "base_path": "/government/publications/ppn-020-guidance-on-data-protection-legislation/ppn-020-guidance-on-data-protection-legislation-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Issue",
+      "ordinal": 3,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Dissemination and scope",
+      "ordinal": 6,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Timing",
+      "ordinal": 10,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Action",
+      "ordinal": 12,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Key considerations",
+      "ordinal": 15,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Data protection legal framework",
+      "ordinal": 16,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Controllers and processors",
+      "ordinal": 21,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Crown to Crown data agreements",
+      "ordinal": 27,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Joint or independent controllers",
+      "ordinal": 30,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Cost of compliance",
+      "ordinal": 32,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Risks of non-compliance",
+      "ordinal": 34,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Contract liabilities",
+      "ordinal": 37,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Expired/legacy contracts",
+      "ordinal": 46,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Protective measures",
+      "ordinal": 50,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Data processing outside the UK",
+      "ordinal": 53,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Adequacy decisions",
+      "ordinal": 62,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "EU Standard Contractual Clauses (SCCs)",
+      "ordinal": 65,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "UK International Data Transfer Agreement (IDTA)",
+      "ordinal": 68,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "The Schrems 2 case",
+      "ordinal": 74,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "The Law Enforcement Directive (LED)",
+      "ordinal": 78,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Sources of further information",
+      "ordinal": 81,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Contact",
+      "ordinal": 87,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Annex A Part 1: Generic standard UK GDPR clauses",
+      "ordinal": 90,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Annex A Part 2: Schedule of Processing, Personal Data and Data Subjects (Schedule X)",
+      "ordinal": 167,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Schedule [X] Processing, Personal Data and Data Subjects",
+      "ordinal": 168,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Annex B: Security",
+      "ordinal": 175,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Examples",
+      "ordinal": 178,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "Action note: PPN 020",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "Previously issued: November 2022",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "Updated: April 2025",
+      "ordinal": 2,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "heading",
+      "text": "Issue",
+      "ordinal": 3,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "1. This Procurement Policy Note (PPN) covers data protection requirements under UK GDPR, and the UK International Data Transfer Agreement (IDTA) governing the export of personal data from the UK.",
+      "ordinal": 4,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "2. This PPN replaces PPN 03/22 as part of the Procurement Act 2023 suite of republished PPNs. PPN 03/22 replaced PPN 02/18 and contained streamlined guidance, and updated legal clauses to take into account the UK’s exit from the EU. It also includes guidance on international transfers of personal data.",
+      "ordinal": 5,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "heading",
+      "text": "Dissemination and scope",
+      "ordinal": 6,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "3. This PPN applies to all central government departments, their executive agencies and non-departmental public bodies. Such bodies are referred to as ‘in-scope organisations’.",
+      "ordinal": 7,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "4. In-scope organisations should circulate this PPN widely across their organisations, and work closely with data protection/information assurance leads within their organisations on implementation.",
+      "ordinal": 8,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "5. This update does not constitute a change in policy or a new call for action but in-scope organisations should continue to apply any ongoing obligations set out in the provisions of this PPN. In-scope organisations do not need to repeat actions which were required upon this PPN’s initial publication.",
+      "ordinal": 9,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "heading",
+      "text": "Timing",
+      "ordinal": 10,
+      "heading_path": [
+        "Issue",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "6. In-scope organisations should note the provisions of this PPN with immediate effect.",
+      "ordinal": 11,
+      "heading_path": [
+        "Issue",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "heading",
+      "text": "Action",
+      "ordinal": 12,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "7. In line with data protection law, in-scope organisations should already have identified existing contracts involving processing personal data and included in them the clauses provided in PPN 03/17, PPN 02/18 or PPN 03/22.",
+      "ordinal": 13,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "8. For contracts to be awarded after the issue of this PPN, in-scope organisations should use the updated clauses at Annex A to this PPN. Crown Commercial Services have made changes to overarching commercial agreements where necessary and communicated this via usual customer channels. In-scope organisations should also ensure any call-offs are suitably covered with appropriate clauses.",
+      "ordinal": 14,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "heading",
+      "text": "Key considerations",
+      "ordinal": 15,
+      "heading_path": [
+        "Issue",
+        "Key considerations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "heading",
+      "text": "Data protection legal framework",
+      "ordinal": 16,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Data protection legal framework"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "9. The primary UK legal data protection framework is the UK General Data Protection Regulation (UK GDPR).",
+      "ordinal": 17,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Data protection legal framework"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "p",
+      "text": "10. The Data Protection Act 2018 contains clarifications and exemptions to UK GDPR, and both pieces of legislation need to be read alongside each other.",
+      "ordinal": 18,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Data protection legal framework"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "11. The Data Protection Act 2018 includes, at Part 3, the legal framework for the processing of personal data for law enforcement purposes, and at Part 4, the legal framework for the processing of personal data by the intelligence agencies.",
+      "ordinal": 19,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Data protection legal framework"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "p",
+      "text": "12. There are also limited circumstances in which EU GDPR could apply to an in-scope organisation, where it was offering goods or services to EU citizens. In these cases, in-scope organisations must comply with both UK GDPR and EU GDPR. If this applies to your organisation then advice should be sought from your data protection team or data protection officer.",
+      "ordinal": 20,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Data protection legal framework"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "heading",
+      "text": "Controllers and processors",
+      "ordinal": 21,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Controllers and processors"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "p",
+      "text": "13. The UK GDPR applies to ‘controllers’ and ‘processors’.",
+      "ordinal": 22,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Controllers and processors"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "li",
+      "text": "a controller is a legal person or organisation which determines the purposes and means of processing personal data. A controller is the organisation in control of the processing of personal data, who makes the key decisions, and is usually the organisation that decides to collect the personal data in the first place. It will also typically determine the specific personal data to be collected, held or used, and the appropriate legal basis of the processing, as well as how long the data will be processed, and who the data shall be shared with.",
+      "ordinal": 23,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Controllers and processors"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "li",
+      "text": "a processor is a legal person or organisation which processes personal data on behalf of a controller. A processor will not be responsible for making the key decisions about the personal data and will only be processing the data under the direct, or implied, instructions of the controller. Therefore, the processor will not be processing any of the controller’s data for any of its own purposes, and has no direct interest in the data itself. The processor may be providing its expertise to the controller in respect of technical or other matters, and may have scope to make some decisions about the manner in which personal data is processed, but only to the extent that the contract with the controller allows.",
+      "ordinal": 24,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Controllers and processors"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "p",
+      "text": "14. A controller-processor is likely to be the appropriate relationship in the vast majority of buyer-supplier relationships. In most cases in public sector contracts, the public body letting a contract or calling-off from a framework agreement will be the controller, and the supplier will be the processor.",
+      "ordinal": 25,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Controllers and processors"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "p",
+      "text": "15. Different legal obligations apply depending on the nature of the relationship with the supplier. Where the supplier is a processor, there is a legal obligation under Article 28 UK GDPR to have a contract with the processor and for it to contain specific data protection clauses. Part 2 of Annex A contains the clauses required by law in a controller-processor relationship.",
+      "ordinal": 26,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Controllers and processors"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "heading",
+      "text": "Crown to Crown data agreements",
+      "ordinal": 27,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Crown to Crown data agreements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "16. Where a Crown Department acts as a processor for another Crown Department, Section 209(2) of the Data Protection Act 2018 stipulates that each Crown Department is a separate controller in law. As a matter of law, the Crown cannot contract with itself.",
+      "ordinal": 28,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Crown to Crown data agreements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "p",
+      "text": "17. Section 209(3) of the Data Protection Act 2018 resolves this by providing that where the UK GDPR or the 2018 Act requires the relationship between controller and processor to be governed by a contract, a memorandum of understanding (MoU) will be sufficient. The MoU must include the clauses at Annex A of this PPN.",
+      "ordinal": 29,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Crown to Crown data agreements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "heading",
+      "text": "Joint or independent controllers",
+      "ordinal": 30,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Joint or independent controllers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "p",
+      "text": "18. In a limited number of circumstances, a supplier may be acting as a joint controller (jointly determining the purposes and means of processing) or as a controller in their own right rather than a processor. Where you suspect that this is the case, consult your local data protection team or data protection officer for advice. In these scenarios the clauses at Annex A are unlikely to be appropriate and you should take advice from your data protection team or data protection officer on the data protection provisions you should have in place.",
+      "ordinal": 31,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Joint or independent controllers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "heading",
+      "text": "Cost of compliance",
+      "ordinal": 32,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Cost of compliance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "p",
+      "text": "19. Any organisation required to comply with data protection legislation may incur costs in doing so. Suppliers will be expected to manage their own costs in relation to compliance. In-scope organisations are advised not to routinely accept contract price increases from suppliers as a result of work associated with compliance but should apply commercial judgement in individual discussions on this with suppliers.",
+      "ordinal": 33,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Cost of compliance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "heading",
+      "text": "Risks of non-compliance",
+      "ordinal": 34,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Risks of non-compliance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "p",
+      "text": "20. In-scope organisations who do not comply with data protection law will be in breach of the regulations and at risk of being fined, or having an enforcement order issued against them, by the Information Commissioner’s Office (ICO).",
+      "ordinal": 35,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Risks of non-compliance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "p",
+      "text": "21. Under the UK GDPR, processors have direct legal obligations to comply with data protection law, and they can be fined by the ICO. Both controllers and processors can also face private claims for compensation where they have not complied with their obligations under UK GDPR.",
+      "ordinal": 36,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Risks of non-compliance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "heading",
+      "text": "Contract liabilities",
+      "ordinal": 37,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Contract liabilities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "p",
+      "text": "22. In-scope organisations should not accept liability clauses where processors are indemnified against fines or claims under UK GDPR. The legal penalty regime has been extended directly to processors to ensure better performance and enhanced protection for personal data, therefore entirely indemnifying processors for any regulatory fines from the ICO or civil claims from data subjects undermines these principles.",
+      "ordinal": 38,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Contract liabilities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "p",
+      "text": "23. As the UK GDPR gives processors responsibilities and liabilities in their own right, processors, as well as controllers, may now be liable to pay damages or be subject to fines or other penalties from the ICO. In addition to the maximum regulatory fines, the increased rights of data subjects under the UK GDPR may also lead to greater exposure to civil claims for data protection breach. In-scope organisations should consider reviewing liability and indemnity provisions on a contract by contract basis if there is a risk that they might otherwise prevent recovery of these costs. In-scope organisations should consider this in accordance with the nature of the procurement, the appetite for risk and the type of personal data involved in the contract.",
+      "ordinal": 39,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Contract liabilities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "p",
+      "text": "24. There are a range of options to be considered, to ensure the controller is able to recover the full costs of civil data protection claims or regulatory fines issued by the ICO, where the processor is at fault, and these might include:",
+      "ordinal": 40,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Contract liabilities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "li",
+      "text": "excluding all data protection breaches from the general cap on liability",
+      "ordinal": 41,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Contract liabilities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "li",
+      "text": "increasing the general cap on liability to ensure it covers higher regulatory fines",
+      "ordinal": 42,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Contract liabilities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "li",
+      "text": "having a separate cap on liability for all data protection breaches",
+      "ordinal": 43,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Contract liabilities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "li",
+      "text": "introducing a separate £17.5 million cap on liability for regulatory fines arising out of data protection breach",
+      "ordinal": 44,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Contract liabilities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "p",
+      "text": "25. When varying existing contracts, in-scope organisations should apply commercial judgement when considering whether substantial changes or additions to liability and indemnity clauses should be made in accordance with the change in law provisions in contracts. The existing provisions may be sufficient to cover-off the risk.",
+      "ordinal": 45,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Contract liabilities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "heading",
+      "text": "Expired/legacy contracts",
+      "ordinal": 46,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Expired/legacy contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "p",
+      "text": "26. There may be some instances where personal data is still being processed by a processor, for example it may be stored by the processor, even though the contract has expired. Data being processed in such circumstances is in breach of the legal obligation to have a contract in place where a processor is used to process personal data. It is also in breach of the data processing principles, which controllers are responsible for compliance with, as such storage is no longer necessary.",
+      "ordinal": 47,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Expired/legacy contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "p",
+      "text": "27. Without a contract, it is possible that a controller will not be meeting its obligations to ensure data security. In such circumstances you should take advice from your data protection team or data protection officer. Unless the buyer and supplier are in agreement that the necessary clauses have survived the original contract covering the data processing, it is likely that an interim contract will need to be put in place. However, this should only be a temporary measure and steps must immediately be taken to ensure that any data which it is no longer necessary to process (including storage) is returned to the controller and/or deleted.",
+      "ordinal": 48,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Expired/legacy contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "p",
+      "text": "28. These provisions will protect the data and ensure that the controller and processor agree on their roles and responsibilities. This may need to exist as a separate contract if the existing contract has already expired.",
+      "ordinal": 49,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Expired/legacy contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00050",
+      "block_type": "heading",
+      "text": "Protective measures",
+      "ordinal": 50,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Protective measures"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00051",
+      "block_type": "p",
+      "text": "29. As set out in Article 28(3)(c) UK GDPR, processors must implement appropriate technical and organisational measures to ensure a level of security appropriate to the risk and these are defined as ‘protective measures’ within Annex A.",
+      "ordinal": 51,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Protective measures"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00052",
+      "block_type": "p",
+      "text": "30. In-scope organisations may consider using security schedules for contracts involving personal data processing, to provide a framework to ensure comprehensive assurance of a processor’s compliance. Controllers may reject a processor’s proposed measures if they think they are insufficient. Examples of the security considerations are at Annex B.",
+      "ordinal": 52,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Protective measures"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00053",
+      "block_type": "heading",
+      "text": "Data processing outside the UK",
+      "ordinal": 53,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Data processing outside the UK"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00054",
+      "block_type": "p",
+      "text": "31. Article 44 of UK GDPR prohibits the off-shoring of personal data outside the UK unless a legal gateway is in place. Valid legal gateways include:",
+      "ordinal": 54,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Data processing outside the UK"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00055",
+      "block_type": "li",
+      "text": "an adequacy decision [footnote 1] by the UK government in respect of the destination country",
+      "ordinal": 55,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Data processing outside the UK"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00056",
+      "block_type": "li",
+      "text": "EU standard contractual clauses [footnote 2] (until 21 March 2024 if the contract was concluded on or before 21 September 2022) or the UK International Data Transfer Agreement (IDTA) [footnote 3] between the data exporter and importer organisations",
+      "ordinal": 56,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Data processing outside the UK"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00057",
+      "block_type": "li",
+      "text": "binding corporate rules where data is exported from one part of a group of companies to another member of that group and the rules have been approved by the Information Commissioner",
+      "ordinal": 57,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Data processing outside the UK"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00058",
+      "block_type": "li",
+      "text": "a legally binding and enforceable instrument between public authorities",
+      "ordinal": 58,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Data processing outside the UK"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00059",
+      "block_type": "li",
+      "text": "transfers pursuant to a code of conduct approved by the Information Commissioner (none currently exist)",
+      "ordinal": 59,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Data processing outside the UK"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00060",
+      "block_type": "li",
+      "text": "transfers pursuant to a certification mechanism approved by the Information Commissioner",
+      "ordinal": 60,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Data processing outside the UK"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00061",
+      "block_type": "p",
+      "text": "32. If your contract does involve data being offshored outside the UK, you should identify the legal gateway that the supplier is relying on to make that lawful. The most common legal gateways that you will be relying on are an adequacy decision and standard contractual clauses/IDTA.",
+      "ordinal": 61,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Data processing outside the UK"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00062",
+      "block_type": "heading",
+      "text": "Adequacy decisions",
+      "ordinal": 62,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Data processing outside the UK",
+        "Adequacy decisions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00063",
+      "block_type": "p",
+      "text": "33. The UK government has declared that the European Union and European Economic Area (EEA) are adequate for data protection purposes. Likewise, the European Commission has also declared that the UK is adequate for data protection purposes. This means that personal data can flow unfettered between the UK and the EU/EEA. The UK and USA have also agreed a UK Extension to the EU-US Data Privacy Framework. This is a form of partial adequacy decision that applies to companies registered under the Framework.",
+      "ordinal": 63,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Data processing outside the UK",
+        "Adequacy decisions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00064",
+      "block_type": "p",
+      "text": "34. The UK government has also provisionally made an adequacy decision in respect of the countries that the EU considers adequate. These include New Zealand, Israel, Switzerland, and Argentina. Limited adequacy decisions have also been made in respect of Japan and Canada.",
+      "ordinal": 64,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Data processing outside the UK",
+        "Adequacy decisions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00065",
+      "block_type": "heading",
+      "text": "EU Standard Contractual Clauses (SCCs)",
+      "ordinal": 65,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Data processing outside the UK",
+        "EU Standard Contractual Clauses (SCCs)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00066",
+      "block_type": "p",
+      "text": "35. Sometimes called “Model Clauses”, these are clauses approved by the Information Commissioner and UK Government that ensure protection for data by contractual means where the destination country has not been deemed adequate. Where these clauses are in place (either as part of the contract or as a separate agreement), personal data can be exported from the UK to the supplier.",
+      "ordinal": 66,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Data processing outside the UK",
+        "EU Standard Contractual Clauses (SCCs)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00067",
+      "block_type": "p",
+      "text": "36. The EU GDPR standard contractual clauses approved by the European Commission (Decisions 2001/497/EC and 2010/87/EU) were transitionally recognised as a legally valid gateway under UK GDPR, so in-scope organisations could have continued to rely upon these SCCs until 21 March 2024 if the contract had been concluded on or before 21 September 2022. In order to rely upon the SCCs, the processing operations that were the subject matter of the contract had to remain unchanged and reliance on those clauses had to ensure that the transfer of personal data was subject to appropriate safeguards.",
+      "ordinal": 67,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Data processing outside the UK",
+        "EU Standard Contractual Clauses (SCCs)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00068",
+      "block_type": "heading",
+      "text": "UK International Data Transfer Agreement (IDTA)",
+      "ordinal": 68,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Data processing outside the UK",
+        "UK International Data Transfer Agreement (IDTA)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00069",
+      "block_type": "p",
+      "text": "37. On 21 March 2022 the UK government commenced a new legal instrument that provides protection for personal data exported from the UK where an adequacy decision was not available. The International Data Transfer Agreement (IDTA) is essentially the UK version of standard contractual clauses.",
+      "ordinal": 69,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Data processing outside the UK",
+        "UK International Data Transfer Agreement (IDTA)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00070",
+      "block_type": "p",
+      "text": "38. The IDTA comes in two forms:",
+      "ordinal": 70,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Data processing outside the UK",
+        "UK International Data Transfer Agreement (IDTA)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00071",
+      "block_type": "p",
+      "text": "a) A stand-alone IDTA that covers exports of personal data from the UK.",
+      "ordinal": 71,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Data processing outside the UK",
+        "UK International Data Transfer Agreement (IDTA)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00072",
+      "block_type": "p",
+      "text": "b) A form of IDTA that “plugs in” as an addendum [footnote 4] to the EU SCCs. The second version is appropriate where data may be transferred to a non-adequate territory from both the UK and EU/EEA.",
+      "ordinal": 72,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Data processing outside the UK",
+        "UK International Data Transfer Agreement (IDTA)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00073",
+      "block_type": "p",
+      "text": "39. For contracts concluded after 22 September 2022 you must use one of the two forms of IDTA. For existing contracts or those concluded on or before 21 September 2022 you may have continued to rely on the EU SCCs, but only until 21 March 2024.",
+      "ordinal": 73,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Data processing outside the UK",
+        "UK International Data Transfer Agreement (IDTA)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00074",
+      "block_type": "heading",
+      "text": "The Schrems 2 case",
+      "ordinal": 74,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Data processing outside the UK",
+        "The Schrems 2 case"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00075",
+      "block_type": "p",
+      "text": "40. In July 2020, the European Court of Justice struck down the partial adequacy decision (“Privacy Shield”) made by the European Commission in respect of the USA. The court took the view that the USA’s surveillance legislation was disproportionate and thus personal data could not be safely exported to the USA under that decision.",
+      "ordinal": 75,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Data processing outside the UK",
+        "The Schrems 2 case"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00076",
+      "block_type": "p",
+      "text": "41. The court also reviewed the issue of transfers of personal data which were protected by EU SCCs. The court affirmed that EU SCCs were a valid transfer mechanism, but found that in relation to certain countries EU SCCs might need to be supplemented by additional protections in order for transfers to be lawful.",
+      "ordinal": 76,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Data processing outside the UK",
+        "The Schrems 2 case"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00077",
+      "block_type": "p",
+      "text": "42. The ICO has published guidance [footnote 5] which asks that controller organisations consider a range of risk factors relating to non-adequate countries, including whether there are partial UK adequacy regulations in relation to that country, its human rights record, its legal and court system, and how close those systems are to the UK legal and court system, how overseas judgments are recognised and enforced; and its laws and practices regulating third parties access (including public authority surveillance). The ICO recognises that conducting such an assessment is not straightforward, and you should consult your data protection team for advice where data is to be transferred from or accessed from a non-adequate country.",
+      "ordinal": 77,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "Data processing outside the UK",
+        "The Schrems 2 case"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00078",
+      "block_type": "heading",
+      "text": "The Law Enforcement Directive (LED)",
+      "ordinal": 78,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "The Law Enforcement Directive (LED)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00079",
+      "block_type": "p",
+      "text": "43. Part 3 of the Data Protection Act 2018 applies in relation to domestic and cross-border processing of personal data for law enforcement purposes. Similar obligations apply as under UK GDPR, but there are some significant differences, in particular in relation to the storage and classification of data. The ICO has produced guidance on law enforcement processing.",
+      "ordinal": 79,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "The Law Enforcement Directive (LED)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00080",
+      "block_type": "p",
+      "text": "44. Whilst the standard generic clauses at Annex A are compliant with the requirements of Part 3 of the Data Protection Act 2018, in-scope organisations engaged in processing personal data for law enforcement purposes as controllers may require more specific drafting in contracts to flow some of these obligations down to their processors. Legal advice should be sought in these cases.",
+      "ordinal": 80,
+      "heading_path": [
+        "Issue",
+        "Key considerations",
+        "The Law Enforcement Directive (LED)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00081",
+      "block_type": "heading",
+      "text": "Sources of further information",
+      "ordinal": 81,
+      "heading_path": [
+        "Issue",
+        "Sources of further information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00082",
+      "block_type": "p",
+      "text": "45. The Information Commissioner’s Office is a useful source of the latest information on data protection law. Other sources of information are listed below:",
+      "ordinal": 82,
+      "heading_path": [
+        "Issue",
+        "Sources of further information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00083",
+      "block_type": "p",
+      "text": "ICO Information on UK GDPR",
+      "ordinal": 83,
+      "heading_path": [
+        "Issue",
+        "Sources of further information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00084",
+      "block_type": "p",
+      "text": "General Data Protection Regulations",
+      "ordinal": 84,
+      "heading_path": [
+        "Issue",
+        "Sources of further information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00085",
+      "block_type": "p",
+      "text": "ICO guidance on law enforcement processing",
+      "ordinal": 85,
+      "heading_path": [
+        "Issue",
+        "Sources of further information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00086",
+      "block_type": "p",
+      "text": "UK GDPR",
+      "ordinal": 86,
+      "heading_path": [
+        "Issue",
+        "Sources of further information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00087",
+      "block_type": "heading",
+      "text": "Contact",
+      "ordinal": 87,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00088",
+      "block_type": "p",
+      "text": "46. Enquiries about this PPN should be directed to the Crown Commercial Service Helpdesk (telephone 0345 410 2222, email info@crowncommercial.gov.uk )",
+      "ordinal": 88,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00089",
+      "block_type": "p",
+      "text": "47. Enquiries on UK GDPR should be directed to your data protection team, data protection officer, or the Information Commissioner’s Office (on 0303 123 1113 or via their Live Chat service, available through their website).",
+      "ordinal": 89,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00090",
+      "block_type": "heading",
+      "text": "Annex A Part 1: Generic standard UK GDPR clauses",
+      "ordinal": 90,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00091",
+      "block_type": "p",
+      "text": "Notes for completion: As the standard definitions highlighted below are not specific to UK GDPR, they should be amended and adapted to fit within your existing contract definitions. The UK GDPR generic standard clauses may also be adapted to fit existing contract templates but you are advised to seek legal advice when doing this.",
+      "ordinal": 91,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00092",
+      "block_type": "p",
+      "text": "[STANDARD DEFINITIONS, WHICH MAY NEED AMENDING]",
+      "ordinal": 92,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00093",
+      "block_type": "p",
+      "text": "Customer: [to be completed as appropriate]",
+      "ordinal": 93,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00094",
+      "block_type": "p",
+      "text": "Contractor: [to be completed as appropriate]",
+      "ordinal": 94,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00095",
+      "block_type": "p",
+      "text": "Party: a Party to this Agreement",
+      "ordinal": 95,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00096",
+      "block_type": "p",
+      "text": "Agreement: this contract;",
+      "ordinal": 96,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00097",
+      "block_type": "p",
+      "text": "Law: means any law, subordinate legislation within the meaning of Section 21(1) of the Interpretation Act 1978, bye-law, regulation, order, regulatory policy, mandatory guidance or code of practice, judgement of a relevant court of law, or directives or requirements with which the Processor is bound to comply;",
+      "ordinal": 97,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00098",
+      "block_type": "p",
+      "text": "Processor Personnel: means all directors, officers, employees, agents, consultants and contractors of the processor and/or of any sub-processor engaged in the performance of its obligations under this Agreement ]",
+      "ordinal": 98,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00099",
+      "block_type": "p",
+      "text": "GDPR CLAUSE DEFINITIONS:",
+      "ordinal": 99,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00100",
+      "block_type": "p",
+      "text": "Data Protection Legislation: (i) all applicable UK law relating to the processing of personal data and privacy, including but not limited to the UK GDPR, and the Data Protection Act 2018 to the extent that it relates to processing of personal data and privacy; and (ii) (to the extent that it may be applicable) the EU GDPR). The UK GDPR and EU GDPR are defined in section 3 of the Data Protection Act 2018.",
+      "ordinal": 100,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00101",
+      "block_type": "p",
+      "text": "Data Protection Impact Assessment: an assessment by the Controller carried out in accordance with Section 3 of the UK GDPR and sections 64 and 65 of the DPA 2018.",
+      "ordinal": 101,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00102",
+      "block_type": "p",
+      "text": "Controller, Processor, Data Subject, Personal Data, Personal Data Breach, Data Protection Officer take the meaning given in the UK GDPR.",
+      "ordinal": 102,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00103",
+      "block_type": "p",
+      "text": "Data Loss Event: any event that results, or may result, in unauthorised access to Personal Data held by the Processor under this Agreement, and/or actual or potential loss and/or destruction of Personal Data in breach of this Agreement, including any Personal Data Breach.",
+      "ordinal": 103,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00104",
+      "block_type": "p",
+      "text": "Data Subject Request: a request made by, or on behalf of, a Data Subject in accordance with rights granted pursuant to Data Protection Legislation to access their Personal Data.",
+      "ordinal": 104,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00105",
+      "block_type": "p",
+      "text": "DPA 2018: Data Protection Act 2018",
+      "ordinal": 105,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00106",
+      "block_type": "p",
+      "text": "UK GDPR: the UK General Data Protection Regulation",
+      "ordinal": 106,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00107",
+      "block_type": "p",
+      "text": "Joint Controllers: takes the meaning given in Article 26 of the UK GDPR",
+      "ordinal": 107,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00108",
+      "block_type": "p",
+      "text": "Law Enforcement Processing: processing under Part 3 of the DPA 2018.",
+      "ordinal": 108,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00109",
+      "block_type": "p",
+      "text": "Protective Measures: appropriate technical and organisational measures designed to ensure compliance with obligations of the Parties arising under Data Protection Legislation and this Agreement, which may include: pseudonymising and encrypting Personal Data, ensuring confidentiality, integrity, availability and resilience of systems and services, ensuring that availability of and access to Personal Data can be restored in a timely manner after an incident, and regularly assessing and evaluating the effectiveness of the such measures adopted by it including those outlined in Schedule [x] (Security).",
+      "ordinal": 109,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00110",
+      "block_type": "p",
+      "text": "Sub-processor: any third Party appointed to process Personal Data on behalf of that Processor related to this Agreement",
+      "ordinal": 110,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00111",
+      "block_type": "p",
+      "text": "1. DATA PROTECTION",
+      "ordinal": 111,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00112",
+      "block_type": "p",
+      "text": "1.1. The Parties acknowledge that for the purposes of Data Protection Legislation, the Customer is the Controller and the Contractor is the Processor. The only processing that the Processor is authorised to do is listed in Schedule [X] by the Controller and may not be determined by the Processor. The term “processing” and any associated terms are to be read in accordance with Article 4 of the UK GDPR.",
+      "ordinal": 112,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00113",
+      "block_type": "p",
+      "text": "1.2. The Processor shall notify the Controller immediately if it considers that any of the Controller’s instructions infringe Data Protection Legislation.",
+      "ordinal": 113,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00114",
+      "block_type": "p",
+      "text": "1.3. The Processor shall provide all reasonable assistance to the Controller in the preparation of any Data Protection Impact Assessment prior to commencing any processing. Such assistance may, at the discretion of the Controller, include:",
+      "ordinal": 114,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00115",
+      "block_type": "p",
+      "text": "a) a systematic description of the envisaged processing operations and the purpose of the processing;",
+      "ordinal": 115,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00116",
+      "block_type": "p",
+      "text": "b) an assessment of the necessity and proportionality of the processing operations in relation to the Services;",
+      "ordinal": 116,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00117",
+      "block_type": "p",
+      "text": "c) an assessment of the risks to the rights and freedoms of Data Subjects; and",
+      "ordinal": 117,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00118",
+      "block_type": "p",
+      "text": "d) the measures envisaged to address the risks, including safeguards, security measures and mechanisms to ensure the protection of Personal Data.",
+      "ordinal": 118,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00119",
+      "block_type": "p",
+      "text": "1.4. The Processor shall, in relation to any Personal Data processed in connection with its obligations under this Agreement:",
+      "ordinal": 119,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00120",
+      "block_type": "p",
+      "text": "a) process that Personal Data only in accordance with Schedule [X], unless the Processor is required to do otherwise by Law. If it is so required the Processor shall promptly notify the Controller before processing the Personal Data unless prohibited by Law;",
+      "ordinal": 120,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00121",
+      "block_type": "p",
+      "text": "b) ensure that it has in place Protective Measures, which are appropriate to protect against a Data Loss Event, which the Controller may reasonably reject. In the event of the Controller reasonably rejecting Protective Measures put in place by the Processor, the Processor must propose alternative Protective Measures to the satisfaction of the Controller. Failure to reject shall not amount to approval by the Controller of the adequacy of the Protective Measures. Protective Measures must take account of the:",
+      "ordinal": 121,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00122",
+      "block_type": "p",
+      "text": "i. nature of the data to be protected;",
+      "ordinal": 122,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00123",
+      "block_type": "p",
+      "text": "ii. harm that might result from a Data Loss Event;",
+      "ordinal": 123,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00124",
+      "block_type": "p",
+      "text": "iii. state of technological development; and",
+      "ordinal": 124,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00125",
+      "block_type": "p",
+      "text": "iv. cost of implementing any measures;",
+      "ordinal": 125,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00126",
+      "block_type": "p",
+      "text": "c) ensure that :",
+      "ordinal": 126,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00127",
+      "block_type": "p",
+      "text": "i. the Processor Personnel do not process Personal Data except in accordance with this Agreement (and in particular Schedule X);",
+      "ordinal": 127,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00128",
+      "block_type": "p",
+      "text": "ii. it takes all reasonable steps to ensure the reliability and integrity of any Processor Personnel who have access to the Personal Data and ensure that they:",
+      "ordinal": 128,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00129",
+      "block_type": "p",
+      "text": "A. are aware of and comply with the Processor’s duties under this clause;",
+      "ordinal": 129,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00130",
+      "block_type": "p",
+      "text": "B. are subject to appropriate confidentiality undertakings with the Processor or any Sub-processor;",
+      "ordinal": 130,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00131",
+      "block_type": "p",
+      "text": "C. are informed of the confidential nature of the Personal Data and do not publish, disclose or divulge any of the Personal Data to any third Party unless directed in writing to do so by the Controller or as otherwise permitted by this Agreement; and",
+      "ordinal": 131,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00132",
+      "block_type": "p",
+      "text": "D. have undergone adequate training in the use, care, protection and handling of Personal Data; and",
+      "ordinal": 132,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00133",
+      "block_type": "p",
+      "text": "d) not transfer Personal Data outside of the UK unless the prior written consent of the Controller has been obtained and the following conditions are fulfilled:",
+      "ordinal": 133,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00134",
+      "block_type": "p",
+      "text": "i. the destination country has been recognised as adequate by the UK government in accordance with Article 45 UK GDPR or section 74 of the DPA 2018;",
+      "ordinal": 134,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00135",
+      "block_type": "p",
+      "text": "ii. the Controller or the Processor has provided appropriate safeguards in relation to the transfer (whether in accordance with UK GDPR Article 46 or section 75 DPA 2018) as determined by the Controller;",
+      "ordinal": 135,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00136",
+      "block_type": "p",
+      "text": "iii. the Data Subject has enforceable rights and effective legal remedies;",
+      "ordinal": 136,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00137",
+      "block_type": "p",
+      "text": "iv. the Processor complies with its obligations under Data Protection Legislation by providing an appropriate level of protection to any Personal Data that is transferred (or, if it is not so bound, uses its best endeavours to assist the Controller in meeting its obligations); and",
+      "ordinal": 137,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00138",
+      "block_type": "p",
+      "text": "v. the Processor complies with any reasonable instructions notified to it in advance by the Controller with respect to the processing of the Personal Data;",
+      "ordinal": 138,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00139",
+      "block_type": "p",
+      "text": "e) at the written direction of the Controller, delete or return Personal Data (and any copies of it) to the controller on termination of the agreement unless the processor is required by law to retain the personal data.",
+      "ordinal": 139,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00140",
+      "block_type": "p",
+      "text": "1.5. Subject to clause 1.6, the Processor shall notify the Controller immediately if it:",
+      "ordinal": 140,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00141",
+      "block_type": "p",
+      "text": "a) receives a Data Subject Request (or purported Data Subject Request);",
+      "ordinal": 141,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00142",
+      "block_type": "p",
+      "text": "b) receives a request to rectify, block or erase any Personal Data;",
+      "ordinal": 142,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00143",
+      "block_type": "p",
+      "text": "c) receives any other request, complaint or communication relating to either Party’s obligations under Data Protection Legislation;",
+      "ordinal": 143,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00144",
+      "block_type": "p",
+      "text": "d) receives any communication from the Information Commissioner or any other regulatory authority in connection with Personal Data processed under this Agreement;",
+      "ordinal": 144,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00145",
+      "block_type": "p",
+      "text": "e) receives a request from any third party for disclosure of Personal Data where compliance with such request is required or purported to be required by Law; or",
+      "ordinal": 145,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00146",
+      "block_type": "p",
+      "text": "f) becomes aware of a Data Loss Event.",
+      "ordinal": 146,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00147",
+      "block_type": "p",
+      "text": "1.6. The Processor’s obligation to notify under clause 1.5 shall include the provision of further information to the Controller, as details become available.",
+      "ordinal": 147,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00148",
+      "block_type": "p",
+      "text": "1.7. Taking into account the nature of the processing, the Processor shall provide the Controller with full assistance in relation to either Party’s obligations under Data Protection Legislation and any complaint, communication or request made under clause 1.5 (and insofar as possible within the timescales reasonably required by the Controller) including but not limited to promptly providing:",
+      "ordinal": 148,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00149",
+      "block_type": "p",
+      "text": "a) the Controller with full details and copies of the complaint, communication or request;",
+      "ordinal": 149,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00150",
+      "block_type": "p",
+      "text": "b) such assistance as is reasonably requested by the Controller to enable the Controller to comply with a Data Subject Request within the relevant timescales set out in Data Protection Legislation;",
+      "ordinal": 150,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00151",
+      "block_type": "p",
+      "text": "c) the Controller, at its request, with any Personal Data it holds in relation to a Data Subject;",
+      "ordinal": 151,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00152",
+      "block_type": "p",
+      "text": "d) assistance as requested by the Controller following any Data Loss Event;",
+      "ordinal": 152,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00153",
+      "block_type": "p",
+      "text": "e) assistance as requested by the Controller with respect to any request from the Information Commissioner’s Office, or any consultation by the Controller with the Information Commissioner’s Office.",
+      "ordinal": 153,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00154",
+      "block_type": "p",
+      "text": "1.8. The Processor shall maintain complete and accurate records and information to demonstrate its compliance with this clause. This requirement does not apply where the Processor employs fewer than 250 staff, unless:",
+      "ordinal": 154,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00155",
+      "block_type": "p",
+      "text": "a) the Controller determines that the processing is not occasional;",
+      "ordinal": 155,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00156",
+      "block_type": "p",
+      "text": "b) the Controller determines the processing includes special categories of data as referred to in Article 9(1) of the UK GDPR or Personal Data relating to criminal convictions and offences referred to in Article 10 of the UK GDPR; or",
+      "ordinal": 156,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00157",
+      "block_type": "p",
+      "text": "c) the Controller determines that the processing is likely to result in a risk to the rights and freedoms of Data Subjects.",
+      "ordinal": 157,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00158",
+      "block_type": "p",
+      "text": "1.9. The Processor shall allow for audits of its Data Processing activity by the Controller or the Controller’s designated auditor.",
+      "ordinal": 158,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00159",
+      "block_type": "p",
+      "text": "1.10. Each Party shall designate its own data protection officer if required by Data Protection Legislation.",
+      "ordinal": 159,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00160",
+      "block_type": "p",
+      "text": "1.11. Before allowing any Sub-processor to process any Personal Data related to this Agreement, the Processor must:",
+      "ordinal": 160,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00161",
+      "block_type": "p",
+      "text": "a) notify the Controller in writing of the intended Sub-processor and processing;",
+      "ordinal": 161,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00162",
+      "block_type": "p",
+      "text": "b) obtain the written consent of the Controller;",
+      "ordinal": 162,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00163",
+      "block_type": "p",
+      "text": "c) enter into a written agreement with the Sub-processor which give effect to the terms set out in this clause [X] such that they apply to the Sub-processor; and",
+      "ordinal": 163,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00164",
+      "block_type": "p",
+      "text": "d) provide the Controller with such information regarding the Sub-processor as the Controller may reasonably require.",
+      "ordinal": 164,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00165",
+      "block_type": "p",
+      "text": "1.12. The Processor shall remain fully liable for all acts or omissions of any of its Sub-processors.",
+      "ordinal": 165,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00166",
+      "block_type": "p",
+      "text": "1.13. The Parties agree to take account of any guidance issued by the Information Commissioner’s Office. The Controller may upon giving the Processor not less than 30 working days’ notice to the Processor amend this agreement to ensure that it complies with any guidance issued by the Information Commissioner’s Office.",
+      "ordinal": 166,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 1: Generic standard UK GDPR clauses"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00167",
+      "block_type": "heading",
+      "text": "Annex A Part 2: Schedule of Processing, Personal Data and Data Subjects (Schedule X)",
+      "ordinal": 167,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 2: Schedule of Processing, Personal Data and Data Subjects (Schedule X)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00168",
+      "block_type": "heading",
+      "text": "Schedule [X] Processing, Personal Data and Data Subjects",
+      "ordinal": 168,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 2: Schedule of Processing, Personal Data and Data Subjects (Schedule X)",
+        "Schedule [X] Processing, Personal Data and Data Subjects"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00169",
+      "block_type": "p",
+      "text": "This Schedule shall be completed by the Controller, who may take account of the view of the Processor, however the final decision as to the content of this Schedule shall be with the Controller at its absolute discretion.",
+      "ordinal": 169,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 2: Schedule of Processing, Personal Data and Data Subjects (Schedule X)",
+        "Schedule [X] Processing, Personal Data and Data Subjects"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00170",
+      "block_type": "li",
+      "text": "The contact details of the Controller’s Data Protection Officer are: [Insert Contact details]",
+      "ordinal": 170,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 2: Schedule of Processing, Personal Data and Data Subjects (Schedule X)",
+        "Schedule [X] Processing, Personal Data and Data Subjects"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00171",
+      "block_type": "li",
+      "text": "The contact details of the Processor’s Data Protection Officer are: [Insert Contact details]",
+      "ordinal": 171,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 2: Schedule of Processing, Personal Data and Data Subjects (Schedule X)",
+        "Schedule [X] Processing, Personal Data and Data Subjects"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00172",
+      "block_type": "li",
+      "text": "The Processor shall comply with any further written instructions with respect to processing by the Controller.",
+      "ordinal": 172,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 2: Schedule of Processing, Personal Data and Data Subjects (Schedule X)",
+        "Schedule [X] Processing, Personal Data and Data Subjects"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00173",
+      "block_type": "li",
+      "text": "Any such further instructions shall be incorporated into this Schedule.",
+      "ordinal": 173,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 2: Schedule of Processing, Personal Data and Data Subjects (Schedule X)",
+        "Schedule [X] Processing, Personal Data and Data Subjects"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00174",
+      "block_type": "table",
+      "text": "Description\tDetails\nIdentity of the Controller and Processor\tThe Parties acknowledge that for the purposes of Data Protection Legislation, the Customer is the Controller and the Contractor is the Processor in accordance with Clause 1.1. [Guidance: You may need to vary this section where (in the rare case) the Customer and Contractor have a different relationship. For example, where the Parties are Joint Controllers. You should take advice before doing so.]\nSubject matter of the processing\t[This should be a high level, short description of what the processing is about i.e. its subject matter of the contract. Example: The processing is needed in order to ensure that the Processor can effectively deliver the contract to provide [insert description of relevant service]. ]\nDuration of the processing\t[Clearly set out the duration of the processing including dates]\nNature and purposes of the processing\t[Please be as specific as possible, but make sure that you cover all intended purposes. The nature of the processing means any operation such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction of data (whether or not by automated means) etc. The purpose might include: employment processing, statutory obligation, recruitment assessment etc]\nType of Personal Data being Processed\t[Examples here include: name, address, date of birth, NI number, telephone number, pay, images, biometric data etc]\nCategories of Data Subject\t[Examples include: Staff (including volunteers, agents, and temporary workers), customers/ clients, suppliers, patients, students / pupils, members of the public, users of a particular website etc]\nInternational transfers and legal gateway\t[Explain where geographically personal data may be stored or accessed from. Explain the legal gateway you are relying on to export the data e.g. adequacy decision, EU SCCs, UK IDTA. Annex any SCCs or IDTA to this contract]\nPlan for return and destruction of the data once the processing is complete\t[Describe how long the data will be retained for, how it be returned or destroyed]",
+      "ordinal": 174,
+      "heading_path": [
+        "Issue",
+        "Annex A Part 2: Schedule of Processing, Personal Data and Data Subjects (Schedule X)",
+        "Schedule [X] Processing, Personal Data and Data Subjects"
+      ],
+      "source_locator": "details.body",
+      "metadata": {
+        "rows": [
+          [
+            "Description",
+            "Details"
+          ],
+          [
+            "Identity of the Controller and Processor",
+            "The Parties acknowledge that for the purposes of Data Protection Legislation, the Customer is the Controller and the Contractor is the Processor in accordance with Clause 1.1. [Guidance: You may need to vary this section where (in the rare case) the Customer and Contractor have a different relationship. For example, where the Parties are Joint Controllers. You should take advice before doing so.]"
+          ],
+          [
+            "Subject matter of the processing",
+            "[This should be a high level, short description of what the processing is about i.e. its subject matter of the contract. Example: The processing is needed in order to ensure that the Processor can effectively deliver the contract to provide [insert description of relevant service]. ]"
+          ],
+          [
+            "Duration of the processing",
+            "[Clearly set out the duration of the processing including dates]"
+          ],
+          [
+            "Nature and purposes of the processing",
+            "[Please be as specific as possible, but make sure that you cover all intended purposes. The nature of the processing means any operation such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction of data (whether or not by automated means) etc. The purpose might include: employment processing, statutory obligation, recruitment assessment etc]"
+          ],
+          [
+            "Type of Personal Data being Processed",
+            "[Examples here include: name, address, date of birth, NI number, telephone number, pay, images, biometric data etc]"
+          ],
+          [
+            "Categories of Data Subject",
+            "[Examples include: Staff (including volunteers, agents, and temporary workers), customers/ clients, suppliers, patients, students / pupils, members of the public, users of a particular website etc]"
+          ],
+          [
+            "International transfers and legal gateway",
+            "[Explain where geographically personal data may be stored or accessed from. Explain the legal gateway you are relying on to export the data e.g. adequacy decision, EU SCCs, UK IDTA. Annex any SCCs or IDTA to this contract]"
+          ],
+          [
+            "Plan for return and destruction of the data once the processing is complete",
+            "[Describe how long the data will be retained for, how it be returned or destroyed]"
+          ]
+        ],
+        "row_count": 9
+      }
+    },
+    {
+      "block_id": "b00175",
+      "block_type": "heading",
+      "text": "Annex B: Security",
+      "ordinal": 175,
+      "heading_path": [
+        "Issue",
+        "Annex B: Security"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00176",
+      "block_type": "p",
+      "text": "The technical security requirements set out below provide an indication of the types of security measures that might be considered, in order to protect Personal Data. More, or less, measures may be appropriate depending on the subject matter of the contract, but the overall approach must be proportionate. The technical requirements must also be compliant with legislative and regulatory obligations for content and data, such as UK GDPR.",
+      "ordinal": 176,
+      "heading_path": [
+        "Issue",
+        "Annex B: Security"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00177",
+      "block_type": "p",
+      "text": "The example technical security requirements set out here are intended to supplement, not replace, security schedules that will detail the total contractual security obligations and requirements that the Processor (i.e. a supplier) will be held to account to deliver under contract. Processors are also required to ensure sufficient ‘flow-down’ of legislative and regulatory obligations to any third party Sub-processors.",
+      "ordinal": 177,
+      "heading_path": [
+        "Issue",
+        "Annex B: Security"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00178",
+      "block_type": "heading",
+      "text": "Examples",
+      "ordinal": 178,
+      "heading_path": [
+        "Issue",
+        "Annex B: Security",
+        "Examples"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00179",
+      "block_type": "p",
+      "text": "External Certifications: Buyers should ensure that Suppliers hold at least Cyber Essentials Plus certification and ISO 27001:2013 certification if proportionate to the service being procured.",
+      "ordinal": 179,
+      "heading_path": [
+        "Issue",
+        "Annex B: Security",
+        "Examples"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00180",
+      "block_type": "p",
+      "text": "Risk assessment: e.g. The Supplier should perform a technical information risk assessment on the service supplied and be able to demonstrate what controls are in place to address those risks.",
+      "ordinal": 180,
+      "heading_path": [
+        "Issue",
+        "Annex B: Security",
+        "Examples"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00181",
+      "block_type": "p",
+      "text": "Security classification of information: e.g. If the provision of the services requires the Supplier to Process Authority/Buyer Data which is classified as OFFICIAL,OFFICIAL-SENSITIVE or Personal Data, the Supplier shall implement such additional measures as agreed with the Authority/Buyer from time to time in order to ensure that such information is safeguarded in accordance with the applicable legislative and regulatory obligations.",
+      "ordinal": 181,
+      "heading_path": [
+        "Issue",
+        "Annex B: Security",
+        "Examples"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00182",
+      "block_type": "p",
+      "text": "End User Devices e.g.",
+      "ordinal": 182,
+      "heading_path": [
+        "Issue",
+        "Annex B: Security",
+        "Examples"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00183",
+      "block_type": "li",
+      "text": "The Supplier shall ensure that any Authority/Buyer Data which resides on a mobile, removable or physically uncontrolled device is stored encrypted using a product or system component which has been formally assured through a recognised certification process agreed with the Authority/Buyer except where the Authority/Buyer has given its prior written consent to an alternative arrangement.",
+      "ordinal": 183,
+      "heading_path": [
+        "Issue",
+        "Annex B: Security",
+        "Examples"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00184",
+      "block_type": "li",
+      "text": "The Supplier shall ensure that any device which is used to Process Authority/Buyer Data meets all of the security requirements set out in the NCSC End User Devices Platform Security Guidance .",
+      "ordinal": 184,
+      "heading_path": [
+        "Issue",
+        "Annex B: Security",
+        "Examples"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00185",
+      "block_type": "p",
+      "text": "Testing e.g. The Supplier shall at their own cost and expense, procure a CHECK or CREST Certified Supplier to perform an ITHC or Penetration Test prior to any live Authority/Buyer data being transferred into their systems. The ITHC scope must be agreed with the Authority/Buyer to ensure it covers all the relevant parts of the system that processes, stores or hosts Authority/Buyer data.",
+      "ordinal": 185,
+      "heading_path": [
+        "Issue",
+        "Annex B: Security",
+        "Examples"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00186",
+      "block_type": "p",
+      "text": "Networking e.g. The Supplier shall ensure that any Authority/Buyer Data which it causes to be transmitted over any public network (including the Internet, mobile networks or un-protected enterprise network) or to a mobile device shall be encrypted when transmitted.",
+      "ordinal": 186,
+      "heading_path": [
+        "Issue",
+        "Annex B: Security",
+        "Examples"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00187",
+      "block_type": "p",
+      "text": "Personnel Security e.g. All Supplier Personnel shall be subject to a pre-employment check before they may participate in the provision and or management of the Services. Such pre-employment checks must include all pre-employment checks which are required by the HMG Baseline Personnel Security Standard or equivalent including: verification of the individual’s identity; verification of the individual’s nationality and immigration status; and, verification of the individual’s employment history; verification of the individual’s criminal record. The Supplier may be required to implement additional security vetting for some roles.",
+      "ordinal": 187,
+      "heading_path": [
+        "Issue",
+        "Annex B: Security",
+        "Examples"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00188",
+      "block_type": "p",
+      "text": "Identity, Authentication and Access Control e.g. The supplier must operate an appropriate access control regime to ensure that users and administrators of the service are uniquely identified. The supplier must retain records of access to the physical sites and to the service.",
+      "ordinal": 188,
+      "heading_path": [
+        "Issue",
+        "Annex B: Security",
+        "Examples"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00189",
+      "block_type": "p",
+      "text": "Data Destruction/Deletion e.g. The Supplier must be able to demonstrate they can supply a copy of all data on request or at termination of the service, and must be able to securely erase or destroy all data and media that the Authority/Buyer data has been stored and processed on.",
+      "ordinal": 189,
+      "heading_path": [
+        "Issue",
+        "Annex B: Security",
+        "Examples"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00190",
+      "block_type": "p",
+      "text": "Audit and Protective Monitoring e.g. The Supplier shall collect audit records which relate to security events in delivery of the service or that would support the analysis of potential and actual compromises. In order to facilitate effective monitoring and forensic readiness such Supplier audit records should (as a minimum) include regular reports and alerts setting out details of access by users of the service, to enable the identification of (without limitation) changing access trends, any unusual patterns of usage and/or accounts accessing higher than average amounts of Authority/Buyer Data. The retention periods for audit records and event logs must be agreed with the Authority/Buyer and documented.",
+      "ordinal": 190,
+      "heading_path": [
+        "Issue",
+        "Annex B: Security",
+        "Examples"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00191",
+      "block_type": "p",
+      "text": "Location of Authority/Buyer Data e.g. The Supplier shall not, and shall procure that none of its Sub-contractors, process Authority/Buyer Data outside the EEA without the prior written consent of the Authority/Buyer and the Supplier shall not change where it or any of its Sub-contractors process Authority/Buyer Data without the Authority/Buyer’s prior written consent which may be subject to conditions.",
+      "ordinal": 191,
+      "heading_path": [
+        "Issue",
+        "Annex B: Security",
+        "Examples"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00192",
+      "block_type": "p",
+      "text": "Vulnerabilities and Corrective Action e.g. Suppliers shall procure and implement security patches to vulnerabilities in accordance with the timescales specified in the NCSC Cloud Security Principle 5.",
+      "ordinal": 192,
+      "heading_path": [
+        "Issue",
+        "Annex B: Security",
+        "Examples"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00193",
+      "block_type": "p",
+      "text": "Suppliers must ensure that all COTS Software and Third Party COTS Software be kept up to date such that all Supplier COTS Software and Third Party COTS Software are always in mainstream support.",
+      "ordinal": 193,
+      "heading_path": [
+        "Issue",
+        "Annex B: Security",
+        "Examples"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00194",
+      "block_type": "p",
+      "text": "Secure Architecture e.g. Suppliers should design the service in accordance with:",
+      "ordinal": 194,
+      "heading_path": [
+        "Issue",
+        "Annex B: Security",
+        "Examples"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00195",
+      "block_type": "li",
+      "text": "NCSC Security Design Principles for Digital Services",
+      "ordinal": 195,
+      "heading_path": [
+        "Issue",
+        "Annex B: Security",
+        "Examples"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00196",
+      "block_type": "li",
+      "text": "NCSC Bulk Data Principles",
+      "ordinal": 196,
+      "heading_path": [
+        "Issue",
+        "Annex B: Security",
+        "Examples"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00197",
+      "block_type": "li",
+      "text": "NSCS Cloud Security Principles",
+      "ordinal": 197,
+      "heading_path": [
+        "Issue",
+        "Annex B: Security",
+        "Examples"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00198",
+      "block_type": "li",
+      "text": "List of territories granted adequacy ↩",
+      "ordinal": 198,
+      "heading_path": [
+        "Issue",
+        "Annex B: Security",
+        "Examples"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00199",
+      "block_type": "p",
+      "text": "List of territories granted adequacy ↩",
+      "ordinal": 199,
+      "heading_path": [
+        "Issue",
+        "Annex B: Security",
+        "Examples"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00200",
+      "block_type": "li",
+      "text": "SCCs as set out in European Commission Decision 2001/497/EC and European Commission Decision 2010/87/EU. ↩",
+      "ordinal": 200,
+      "heading_path": [
+        "Issue",
+        "Annex B: Security",
+        "Examples"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00201",
+      "block_type": "p",
+      "text": "SCCs as set out in European Commission Decision 2001/497/EC and European Commission Decision 2010/87/EU. ↩",
+      "ordinal": 201,
+      "heading_path": [
+        "Issue",
+        "Annex B: Security",
+        "Examples"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00202",
+      "block_type": "li",
+      "text": "International data transfer agreement and guidance ↩",
+      "ordinal": 202,
+      "heading_path": [
+        "Issue",
+        "Annex B: Security",
+        "Examples"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00203",
+      "block_type": "p",
+      "text": "International data transfer agreement and guidance ↩",
+      "ordinal": 203,
+      "heading_path": [
+        "Issue",
+        "Annex B: Security",
+        "Examples"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00204",
+      "block_type": "li",
+      "text": "International Data Transfer Addendum to the EU Commission Standard Contractual Clauses (docx, 78.6KB) ↩",
+      "ordinal": 204,
+      "heading_path": [
+        "Issue",
+        "Annex B: Security",
+        "Examples"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00205",
+      "block_type": "p",
+      "text": "International Data Transfer Addendum to the EU Commission Standard Contractual Clauses (docx, 78.6KB) ↩",
+      "ordinal": 205,
+      "heading_path": [
+        "Issue",
+        "Annex B: Security",
+        "Examples"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00206",
+      "block_type": "li",
+      "text": "Transfer risk assessments ↩",
+      "ordinal": 206,
+      "heading_path": [
+        "Issue",
+        "Annex B: Security",
+        "Examples"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00207",
+      "block_type": "p",
+      "text": "Transfer risk assessments ↩",
+      "ordinal": 207,
+      "heading_path": [
+        "Issue",
+        "Annex B: Security",
+        "Examples"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "[footnote 1]",
+      "href": "https://www.gov.uk/government/publications/ppn-020-guidance-on-data-protection-legislation/ppn-020-guidance-on-data-protection-legislation-html#fn:1",
+      "block_id": "b00055",
+      "ordinal": 0,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 2]",
+      "href": "https://www.gov.uk/government/publications/ppn-020-guidance-on-data-protection-legislation/ppn-020-guidance-on-data-protection-legislation-html#fn:2",
+      "block_id": "b00056",
+      "ordinal": 1,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 3]",
+      "href": "https://www.gov.uk/government/publications/ppn-020-guidance-on-data-protection-legislation/ppn-020-guidance-on-data-protection-legislation-html#fn:3",
+      "block_id": "b00056",
+      "ordinal": 2,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "adequacy decision",
+      "href": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/international-transfers/international-transfers-a-guide/#Q1",
+      "block_id": "b00064",
+      "ordinal": 3,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "[footnote 4]",
+      "href": "https://www.gov.uk/government/publications/ppn-020-guidance-on-data-protection-legislation/ppn-020-guidance-on-data-protection-legislation-html#fn:4",
+      "block_id": "b00072",
+      "ordinal": 4,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 5]",
+      "href": "https://www.gov.uk/government/publications/ppn-020-guidance-on-data-protection-legislation/ppn-020-guidance-on-data-protection-legislation-html#fn:5",
+      "block_id": "b00077",
+      "ordinal": 5,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "guidance",
+      "href": "https://ico.org.uk/for-organisations/law-enforcement/guide-to-le-processing/",
+      "block_id": "b00079",
+      "ordinal": 6,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "ICO Information on UK GDPR",
+      "href": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/international-transfers/international-transfers-a-guide/",
+      "block_id": "b00083",
+      "ordinal": 7,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "General Data Protection Regulations",
+      "href": "https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX:32016R0679",
+      "block_id": "b00084",
+      "ordinal": 8,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "ICO guidance on law enforcement processing",
+      "href": "https://ico.org.uk/for-organisations/law-enforcement/guide-to-le-processing/",
+      "block_id": "b00085",
+      "ordinal": 9,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "UK GDPR",
+      "href": "https://www.legislation.gov.uk/eur/2016/679/contents",
+      "block_id": "b00086",
+      "ordinal": 10,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "info@crowncommercial.gov.uk",
+      "href": "mailto:info@crowncommercial.gov.uk",
+      "block_id": "b00088",
+      "ordinal": 11,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "Live Chat",
+      "href": "https://ico.org.uk/global/contact-us/contact-us-public/public-advice/",
+      "block_id": "b00089",
+      "ordinal": 12,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "NCSC End User Devices Platform Security Guidance",
+      "href": "https://www.ncsc.gov.uk/guidance/end-user-device-security",
+      "block_id": "b00184",
+      "ordinal": 13,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Security Design Principles for Digital Services",
+      "href": "https://www.ncsc.gov.uk/guidance/security-design-principles-digital-services-main",
+      "block_id": "b00195",
+      "ordinal": 14,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Bulk Data Principles",
+      "href": "https://www.ncsc.gov.uk/guidance/protecting-bulk-personal-data-main",
+      "block_id": "b00196",
+      "ordinal": 15,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Cloud Security Principles",
+      "href": "https://www.ncsc.gov.uk/guidance/implementing-cloud-security-principles",
+      "block_id": "b00197",
+      "ordinal": 16,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "List of territories granted adequacy",
+      "href": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/international-transfers/international-transfers-a-guide/#Q1",
+      "block_id": "b00198",
+      "ordinal": 17,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-020-guidance-on-data-protection-legislation/ppn-020-guidance-on-data-protection-legislation-html#fnref:1",
+      "block_id": "b00198",
+      "ordinal": 18,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "List of territories granted adequacy",
+      "href": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/international-transfers/international-transfers-a-guide/#Q1",
+      "block_id": "b00199",
+      "ordinal": 19,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-020-guidance-on-data-protection-legislation/ppn-020-guidance-on-data-protection-legislation-html#fnref:1",
+      "block_id": "b00199",
+      "ordinal": 20,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-020-guidance-on-data-protection-legislation/ppn-020-guidance-on-data-protection-legislation-html#fnref:2",
+      "block_id": "b00200",
+      "ordinal": 21,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-020-guidance-on-data-protection-legislation/ppn-020-guidance-on-data-protection-legislation-html#fnref:2",
+      "block_id": "b00201",
+      "ordinal": 22,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "International data transfer agreement and guidance",
+      "href": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/international-transfers/international-data-transfer-agreement-and-guidance/",
+      "block_id": "b00202",
+      "ordinal": 23,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-020-guidance-on-data-protection-legislation/ppn-020-guidance-on-data-protection-legislation-html#fnref:3",
+      "block_id": "b00202",
+      "ordinal": 24,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "International data transfer agreement and guidance",
+      "href": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/international-transfers/international-data-transfer-agreement-and-guidance/",
+      "block_id": "b00203",
+      "ordinal": 25,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-020-guidance-on-data-protection-legislation/ppn-020-guidance-on-data-protection-legislation-html#fnref:3",
+      "block_id": "b00203",
+      "ordinal": 26,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "International Data Transfer Addendum to the EU Commission Standard Contractual Clauses (docx, 78.6KB)",
+      "href": "https://ico.org.uk/media/for-organisations/documents/4019535/addendum-international-data-transfer.docx",
+      "block_id": "b00204",
+      "ordinal": 27,
+      "link_type": "ATTACHMENT"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-020-guidance-on-data-protection-legislation/ppn-020-guidance-on-data-protection-legislation-html#fnref:4",
+      "block_id": "b00204",
+      "ordinal": 28,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "International Data Transfer Addendum to the EU Commission Standard Contractual Clauses (docx, 78.6KB)",
+      "href": "https://ico.org.uk/media/for-organisations/documents/4019535/addendum-international-data-transfer.docx",
+      "block_id": "b00205",
+      "ordinal": 29,
+      "link_type": "ATTACHMENT"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-020-guidance-on-data-protection-legislation/ppn-020-guidance-on-data-protection-legislation-html#fnref:4",
+      "block_id": "b00205",
+      "ordinal": 30,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Transfer risk assessments",
+      "href": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/international-transfers/international-data-transfer-agreement-and-guidance/transfer-risk-assessments/",
+      "block_id": "b00206",
+      "ordinal": 31,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-020-guidance-on-data-protection-legislation/ppn-020-guidance-on-data-protection-legislation-html#fnref:5",
+      "block_id": "b00206",
+      "ordinal": 32,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Transfer risk assessments",
+      "href": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/international-transfers/international-data-transfer-agreement-and-guidance/transfer-risk-assessments/",
+      "block_id": "b00207",
+      "ordinal": 33,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-020-guidance-on-data-protection-legislation/ppn-020-guidance-on-data-protection-legislation-html#fnref:5",
+      "block_id": "b00207",
+      "ordinal": 34,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "PPN 020: Guidance on data protection legislation (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-020-guidance-on-data-protection-legislation/ppn-020-guidance-on-data-protection-legislation-html",
+      "block_id": "__document__",
+      "ordinal": 35,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2024 to 2026 Starmer Labour government",
+      "href": "https://www.gov.uk/government/2024-starmer-labour-government",
+      "block_id": "__document__",
+      "ordinal": 36,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 37,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "PPN 020: Guidance on data protection legislation",
+      "href": "https://www.gov.uk/government/publications/ppn-020-guidance-on-data-protection-legislation",
+      "block_id": "__document__",
+      "ordinal": 38,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 39,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 209(2)",
+      "block_id": "b00028",
+      "start": 79,
+      "end": 93,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "209",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 209(3)",
+      "block_id": "b00029",
+      "start": 4,
+      "end": 18,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "209",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 21(1)",
+      "block_id": "b00097",
+      "start": 66,
+      "end": 79,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "21",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 3",
+      "block_id": "b00100",
+      "start": 365,
+      "end": 374,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "3"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 3",
+      "block_id": "b00101",
+      "start": 98,
+      "end": 107,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "3"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "sections 64",
+      "block_id": "b00101",
+      "start": 127,
+      "end": 138,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "64"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 74",
+      "block_id": "b00134",
+      "start": 121,
+      "end": 131,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "74"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 75",
+      "block_id": "b00135",
+      "start": 150,
+      "end": 160,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "75"
+      }
+    }
+  ],
+  "attachments": [
+    {
+      "url": "https://ico.org.uk/media/for-organisations/documents/4019535/addendum-international-data-transfer.docx",
+      "title": "International Data Transfer Addendum to the EU Commission Standard Contractual Clauses (docx, 78.6KB)",
+      "discovered_in_block": "b00204"
+    }
+  ],
+  "warnings": []
+}

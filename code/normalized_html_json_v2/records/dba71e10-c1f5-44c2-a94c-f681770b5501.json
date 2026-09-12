@@ -1,0 +1,981 @@
+{
+  "document_id": "dba71e10-c1f5-44c2-a94c-f681770b5501",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/ee32b56679c19b54352aa232.json",
+  "input_sha256": "fb9636b7a687797957b683c192752b2d40f6c094857f06b2a59548cec7395da4",
+  "processed_at": "2026-08-27T02:26:46.608831+00:00",
+  "title": "Procurement Policy Note 11/23 – New Thresholds (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/ppn-1123-new-thresholds/procurement-policy-note-1123-new-thresholds-html",
+  "description": null,
+  "publication_date": "2023-12-19T11:00:15+00:00",
+  "updated_date": "2023-12-19T00:00:00+00:00",
+  "source_metadata": {
+    "content_id": "dba71e10-c1f5-44c2-a94c-f681770b5501",
+    "base_path": "/government/publications/ppn-1123-new-thresholds/procurement-policy-note-1123-new-thresholds-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Issue",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Dissemination and Scope",
+      "ordinal": 2,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Timing",
+      "ordinal": 4,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Action",
+      "ordinal": 6,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Background",
+      "ordinal": 11,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Contact",
+      "ordinal": 13,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Annex A – Summary of Thresholds from 1 January 2024",
+      "ordinal": 15,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "The Public Contracts Regulations",
+      "ordinal": 16,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Supplies & Services (except subsidised services contracts)",
+      "ordinal": 17,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Subsidised services contracts",
+      "ordinal": 20,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Works (including subsidised works contracts)",
+      "ordinal": 22,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Light Touch Regime for Services",
+      "ordinal": 24,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Small lots",
+      "ordinal": 26,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "The Utilities Contracts Regulations 2016",
+      "ordinal": 29,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Supplies and Services",
+      "ordinal": 30,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Works",
+      "ordinal": 32,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "The Concession Contracts Regulations 2016",
+      "ordinal": 35,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "The Defence and Security Public Contracts Regulations 2011",
+      "ordinal": 37,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "Issue",
+      "ordinal": 0,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "1. This Procurement Policy Note (PPN) provides advanced notification of the new thresholds that apply for the purposes of the Public Contracts Regulations 2015, Utilities Contracts Regulations 2016, the Concession Contracts Regulations 2016 and the Defence and Security Public Contracts Regulations 2011 (“the UK regulations”).",
+      "ordinal": 1,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "heading",
+      "text": "Dissemination and Scope",
+      "ordinal": 2,
+      "heading_path": [
+        "Issue",
+        "Dissemination and Scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "2. The contents of this PPN apply to all contracting authorities, as defined by the UK regulations. This includes all central government departments, their executive agencies, non-departmental public bodies and other public sector organisations. Together these are referred to in this PPN as ‘In-Scope Organisations’. Please circulate this PPN within your organisation, drawing it to the attention of those with a commercial and procurement role.",
+      "ordinal": 3,
+      "heading_path": [
+        "Issue",
+        "Dissemination and Scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "heading",
+      "text": "Timing",
+      "ordinal": 4,
+      "heading_path": [
+        "Issue",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "3. The new thresholds come into effect from 1 January 2024.",
+      "ordinal": 5,
+      "heading_path": [
+        "Issue",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "heading",
+      "text": "Action",
+      "ordinal": 6,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "4. The thresholds at which public procurement opportunities are subject to the full suite of UK regulations governing public contracts are due to be updated. Annex A sets out the revised thresholds for public contracts, utilities contracts and concession contracts from 1 January 2024, as per the amendments made to the UK regulations via the Public Procurement (Agreement on Government Procurement) (Thresholds) (Amendment) Regulations 2023 [footnote 1] .",
+      "ordinal": 7,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "5. The thresholds for small lots, light touch regime services and below threshold contracts are not subject to the two-year currency fluctuation amendment required to comply with our GPA obligations, and have not been amended.",
+      "ordinal": 8,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "6. For the purposes of the publication of notices under the UK regulations, the estimated contract value should continue to be provided exclusive of VAT. However, when the Procurement Act 2023 comes into effect, for the purposes of the publication",
+      "ordinal": 9,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "p",
+      "text": "of any notices under the new legislation, the estimated contract value must be provided inclusive of VAT. The new procurement regime is expected to come into effect in Autumn 2024. Further guidance will be provided on this matter in due course.",
+      "ordinal": 10,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "heading",
+      "text": "Background",
+      "ordinal": 11,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "7. The thresholds at which public procurement opportunities are subject to the full suite of UK regulations governing public contracts are revised every two years. This is to take account of currency fluctuations, and to ensure the UK complies with its obligations under the World Trade Organisation’s Agreement on Government Procurement (GPA).",
+      "ordinal": 12,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "heading",
+      "text": "Contact",
+      "ordinal": 13,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "8. Enquiries about this PPN should be directed to the Crown Commercial Service Helpdesk on 0345 410 2222 or info@crowncommercial.gov.uk.",
+      "ordinal": 14,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "heading",
+      "text": "Annex A – Summary of Thresholds from 1 January 2024",
+      "ordinal": 15,
+      "heading_path": [
+        "Issue",
+        "Annex A – Summary of Thresholds from 1 January 2024"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "heading",
+      "text": "The Public Contracts Regulations",
+      "ordinal": 16,
+      "heading_path": [
+        "Issue",
+        "Annex A – Summary of Thresholds from 1 January 2024",
+        "The Public Contracts Regulations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "heading",
+      "text": "Supplies & Services (except subsidised services contracts)",
+      "ordinal": 17,
+      "heading_path": [
+        "Issue",
+        "Annex A – Summary of Thresholds from 1 January 2024",
+        "The Public Contracts Regulations",
+        "Supplies & Services (except subsidised services contracts)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "li",
+      "text": "Central Government bodies [footnote 2] £139,688",
+      "ordinal": 18,
+      "heading_path": [
+        "Issue",
+        "Annex A – Summary of Thresholds from 1 January 2024",
+        "The Public Contracts Regulations",
+        "Supplies & Services (except subsidised services contracts)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "li",
+      "text": "Others £214,904",
+      "ordinal": 19,
+      "heading_path": [
+        "Issue",
+        "Annex A – Summary of Thresholds from 1 January 2024",
+        "The Public Contracts Regulations",
+        "Supplies & Services (except subsidised services contracts)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "heading",
+      "text": "Subsidised services contracts",
+      "ordinal": 20,
+      "heading_path": [
+        "Issue",
+        "Annex A – Summary of Thresholds from 1 January 2024",
+        "The Public Contracts Regulations",
+        "Subsidised services contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "li",
+      "text": "All bodies £214,904",
+      "ordinal": 21,
+      "heading_path": [
+        "Issue",
+        "Annex A – Summary of Thresholds from 1 January 2024",
+        "The Public Contracts Regulations",
+        "Subsidised services contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "heading",
+      "text": "Works (including subsidised works contracts)",
+      "ordinal": 22,
+      "heading_path": [
+        "Issue",
+        "Annex A – Summary of Thresholds from 1 January 2024",
+        "The Public Contracts Regulations",
+        "Works (including subsidised works contracts)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "li",
+      "text": "All bodies £5,372,609",
+      "ordinal": 23,
+      "heading_path": [
+        "Issue",
+        "Annex A – Summary of Thresholds from 1 January 2024",
+        "The Public Contracts Regulations",
+        "Works (including subsidised works contracts)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "heading",
+      "text": "Light Touch Regime for Services",
+      "ordinal": 24,
+      "heading_path": [
+        "Issue",
+        "Annex A – Summary of Thresholds from 1 January 2024",
+        "The Public Contracts Regulations",
+        "Light Touch Regime for Services"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "li",
+      "text": "All bodies £663,540",
+      "ordinal": 25,
+      "heading_path": [
+        "Issue",
+        "Annex A – Summary of Thresholds from 1 January 2024",
+        "The Public Contracts Regulations",
+        "Light Touch Regime for Services"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "heading",
+      "text": "Small lots",
+      "ordinal": 26,
+      "heading_path": [
+        "Issue",
+        "Annex A – Summary of Thresholds from 1 January 2024",
+        "The Public Contracts Regulations",
+        "Small lots"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "li",
+      "text": "Supplies and services £70,778",
+      "ordinal": 27,
+      "heading_path": [
+        "Issue",
+        "Annex A – Summary of Thresholds from 1 January 2024",
+        "The Public Contracts Regulations",
+        "Small lots"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "li",
+      "text": "Works £884,720",
+      "ordinal": 28,
+      "heading_path": [
+        "Issue",
+        "Annex A – Summary of Thresholds from 1 January 2024",
+        "The Public Contracts Regulations",
+        "Small lots"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "heading",
+      "text": "The Utilities Contracts Regulations 2016",
+      "ordinal": 29,
+      "heading_path": [
+        "Issue",
+        "Annex A – Summary of Thresholds from 1 January 2024",
+        "The Utilities Contracts Regulations 2016"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "heading",
+      "text": "Supplies and Services",
+      "ordinal": 30,
+      "heading_path": [
+        "Issue",
+        "Annex A – Summary of Thresholds from 1 January 2024",
+        "The Utilities Contracts Regulations 2016",
+        "Supplies and Services"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "li",
+      "text": "All sectors £429,809",
+      "ordinal": 31,
+      "heading_path": [
+        "Issue",
+        "Annex A – Summary of Thresholds from 1 January 2024",
+        "The Utilities Contracts Regulations 2016",
+        "Supplies and Services"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "heading",
+      "text": "Works",
+      "ordinal": 32,
+      "heading_path": [
+        "Issue",
+        "Annex A – Summary of Thresholds from 1 January 2024",
+        "The Utilities Contracts Regulations 2016",
+        "Works"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "li",
+      "text": "All sectors £5,372,609",
+      "ordinal": 33,
+      "heading_path": [
+        "Issue",
+        "Annex A – Summary of Thresholds from 1 January 2024",
+        "The Utilities Contracts Regulations 2016",
+        "Works"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "li",
+      "text": "Supplies and Services £70,778",
+      "ordinal": 34,
+      "heading_path": [
+        "Issue",
+        "Annex A – Summary of Thresholds from 1 January 2024",
+        "The Utilities Contracts Regulations 2016",
+        "Works"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "heading",
+      "text": "The Concession Contracts Regulations 2016",
+      "ordinal": 35,
+      "heading_path": [
+        "Issue",
+        "Annex A – Summary of Thresholds from 1 January 2024",
+        "The Concession Contracts Regulations 2016"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "li",
+      "text": "Concession contracts £5,372,609",
+      "ordinal": 36,
+      "heading_path": [
+        "Issue",
+        "Annex A – Summary of Thresholds from 1 January 2024",
+        "The Concession Contracts Regulations 2016"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "heading",
+      "text": "The Defence and Security Public Contracts Regulations 2011",
+      "ordinal": 37,
+      "heading_path": [
+        "Issue",
+        "Annex A – Summary of Thresholds from 1 January 2024",
+        "The Defence and Security Public Contracts Regulations 2011"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "li",
+      "text": "Available at: The Public Procurement (Agreement on Government Procurement) (Thresholds) (Amendment) Regulations 2023 ↩",
+      "ordinal": 38,
+      "heading_path": [
+        "Issue",
+        "Annex A – Summary of Thresholds from 1 January 2024",
+        "The Defence and Security Public Contracts Regulations 2011"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "p",
+      "text": "Available at: The Public Procurement (Agreement on Government Procurement) (Thresholds) (Amendment) Regulations 2023 ↩",
+      "ordinal": 39,
+      "heading_path": [
+        "Issue",
+        "Annex A – Summary of Thresholds from 1 January 2024",
+        "The Defence and Security Public Contracts Regulations 2011"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "li",
+      "text": "Defined by the Public Contracts Regulations 2015 as the Crown and all the bodies listed in Schedule 1 (see regulation 2 (definitions)). ↩",
+      "ordinal": 40,
+      "heading_path": [
+        "Issue",
+        "Annex A – Summary of Thresholds from 1 January 2024",
+        "The Defence and Security Public Contracts Regulations 2011"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "p",
+      "text": "Defined by the Public Contracts Regulations 2015 as the Crown and all the bodies listed in Schedule 1 (see regulation 2 (definitions)). ↩",
+      "ordinal": 41,
+      "heading_path": [
+        "Issue",
+        "Annex A – Summary of Thresholds from 1 January 2024",
+        "The Defence and Security Public Contracts Regulations 2011"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "[footnote 1]",
+      "href": "https://www.gov.uk/government/publications/ppn-1123-new-thresholds/procurement-policy-note-1123-new-thresholds-html#fn:1",
+      "block_id": "b00007",
+      "ordinal": 0,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "info@crowncommercial.gov.uk.",
+      "href": "mailto:info@crowncommercial.gov.uk",
+      "block_id": "b00014",
+      "ordinal": 1,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "[footnote 2]",
+      "href": "https://www.gov.uk/government/publications/ppn-1123-new-thresholds/procurement-policy-note-1123-new-thresholds-html#fn:2",
+      "block_id": "b00018",
+      "ordinal": 2,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "The Public Procurement (Agreement on Government Procurement) (Thresholds) (Amendment) Regulations 2023",
+      "href": "https://www.legislation.gov.uk/uksi/2023/1117/contents/made",
+      "block_id": "b00038",
+      "ordinal": 3,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-1123-new-thresholds/procurement-policy-note-1123-new-thresholds-html#fnref:1",
+      "block_id": "b00038",
+      "ordinal": 4,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "The Public Procurement (Agreement on Government Procurement) (Thresholds) (Amendment) Regulations 2023",
+      "href": "https://www.legislation.gov.uk/uksi/2023/1117/contents/made",
+      "block_id": "b00039",
+      "ordinal": 5,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-1123-new-thresholds/procurement-policy-note-1123-new-thresholds-html#fnref:1",
+      "block_id": "b00039",
+      "ordinal": 6,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-1123-new-thresholds/procurement-policy-note-1123-new-thresholds-html#fnref:2",
+      "block_id": "b00040",
+      "ordinal": 7,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-1123-new-thresholds/procurement-policy-note-1123-new-thresholds-html#fnref:2",
+      "block_id": "b00041",
+      "ordinal": 8,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Procurement Policy Note 11/23 – New Thresholds (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-1123-new-thresholds/procurement-policy-note-1123-new-thresholds-html",
+      "block_id": "__document__",
+      "ordinal": 9,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2022 to 2024 Sunak Conservative government",
+      "href": "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 10,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 11,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "PPN 11/23: New Thresholds",
+      "href": "https://www.gov.uk/government/publications/ppn-1123-new-thresholds",
+      "block_id": "__document__",
+      "ordinal": 12,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 13,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015",
+      "block_id": "b00001",
+      "start": 143,
+      "end": 159,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2016",
+      "block_id": "b00001",
+      "start": 181,
+      "end": 197,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2016"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2016",
+      "block_id": "b00001",
+      "start": 224,
+      "end": 240,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2016"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2011",
+      "block_id": "b00001",
+      "start": 287,
+      "end": 303,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2011"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2023",
+      "block_id": "b00007",
+      "start": 425,
+      "end": 441,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2023"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2016",
+      "block_id": "b00029",
+      "start": 24,
+      "end": 40,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2016"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2016",
+      "block_id": "b00035",
+      "start": 25,
+      "end": 41,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2016"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2011",
+      "block_id": "b00037",
+      "start": 42,
+      "end": 58,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2011"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2023",
+      "block_id": "b00038",
+      "start": 100,
+      "end": 116,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2023"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2023",
+      "block_id": "b00039",
+      "start": 100,
+      "end": 116,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2023"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015",
+      "block_id": "b00040",
+      "start": 32,
+      "end": 48,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 2 (definitions)",
+      "block_id": "b00040",
+      "start": 107,
+      "end": 133,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2",
+        "tail": " (definitions)"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 1",
+      "block_id": "b00040",
+      "start": 91,
+      "end": 101,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015",
+      "block_id": "b00041",
+      "start": 32,
+      "end": 48,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 2 (definitions)",
+      "block_id": "b00041",
+      "start": 107,
+      "end": 133,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2",
+        "tail": " (definitions)"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 1",
+      "block_id": "b00041",
+      "start": 91,
+      "end": 101,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "1"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

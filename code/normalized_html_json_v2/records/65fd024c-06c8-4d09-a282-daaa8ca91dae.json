@@ -1,0 +1,126 @@
+{
+  "document_id": "65fd024c-06c8-4d09-a282-daaa8ca91dae",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/08f9f794b9d921311f60e4c1.json",
+  "input_sha256": "58569dcbd948652de56a57bcd31a6b7ac3681e0145e5bf623ad31a28e4dfa59b",
+  "processed_at": "2026-08-27T02:26:03.762968+00:00",
+  "title": "PPN 012: Security Classifications Policy",
+  "canonical_url": "https://www.gov.uk/government/publications/ppn-012-security-classifications-policy",
+  "description": "This PPN provides details of the Government Security Classifications Policy (GSCP) which was updated on 30th June 2023.",
+  "publication_date": "2025-02-17T14:44:56+00:00",
+  "updated_date": "2025-02-17T14:44:56+00:00",
+  "source_metadata": {
+    "content_id": "65fd024c-06c8-4d09-a282-daaa8ca91dae",
+    "base_path": "/government/publications/ppn-012-security-classifications-policy",
+    "document_type": "guidance",
+    "schema_name": "publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "This PPN has been updated to reflect new terminology introduced by the Procurement Act 2023 and the Procurement Regulations 2024. For procurements commenced and contracts awarded before this date, please refer to PPN 07/23.",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "PPN 012: Security Classifications Policy",
+      "href": "https://www.gov.uk/government/publications/ppn-012-security-classifications-policy",
+      "block_id": "__document__",
+      "ordinal": 0,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "PPN 012: Security Classifications Policy (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-012-security-classifications-policy/ppn-012-security-classifications-policy-html",
+      "block_id": "__document__",
+      "ordinal": 1,
+      "link_type": "GOVUK_CHILDREN"
+    },
+    {
+      "text": "Procurement policy notes",
+      "href": "https://www.gov.uk/government/collections/procurement-policy-notes",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_DOCUMENT_COLLECTIONS"
+    },
+    {
+      "text": "2024 to 2026 Starmer Labour government",
+      "href": "https://www.gov.uk/government/2024-starmer-labour-government",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_ORIGINAL_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Government spending",
+      "href": "https://www.gov.uk/government/government-spending",
+      "block_id": "__document__",
+      "ordinal": 7,
+      "link_type": "GOVUK_TAXONS"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2024",
+      "block_id": "b00000",
+      "start": 112,
+      "end": 128,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2024"
+      }
+    }
+  ],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/67af7521a75f02dffca29bd5/PPN_012_Security_Classifications_Policy.pdf",
+      "title": "PPN 012: Security Classifications Policy (PDF)",
+      "content_type": "application/pdf",
+      "filename": "PPN_012_Security_Classifications_Policy.pdf",
+      "id": "8467559",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "/government/publications/ppn-012-security-classifications-policy/ppn-012-security-classifications-policy-html",
+      "title": "PPN 012: Security Classifications Policy (HTML)",
+      "content_type": null,
+      "filename": null,
+      "id": "8467558",
+      "logical_role": "ATTACHMENT"
+    }
+  ],
+  "warnings": []
+}

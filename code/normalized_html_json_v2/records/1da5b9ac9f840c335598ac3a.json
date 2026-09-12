@@ -1,0 +1,95 @@
+{
+  "document_id": "1da5b9ac9f840c335598ac3a",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "html",
+  "source_path": "corpus_ingest_v2/raw/9d6ab78e571bf5a27b57a501.html",
+  "input_sha256": "76f28cabb7284e29c73b3ebe0b2dbff655af04da26c1cfde7522c288705c3846",
+  "processed_at": "2026-08-27T02:26:32.931306+00:00",
+  "title": "Login",
+  "canonical_url": "https://www.procurementlawyers.org.uk/login/",
+  "description": "Unauthorized for: /forums/Please Log In or Renew The area you wish to view requires you to log in to your account and have a valid subscription. […]",
+  "publication_date": null,
+  "updated_date": "2022-10-06T20:38:07+00:00",
+  "source_metadata": {
+    "html_lang": "en-GB"
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Please Log In or Renew",
+      "ordinal": 1
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "Unauthorized for: /forums/",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "heading",
+      "text": "Please Log In or Renew",
+      "ordinal": 1,
+      "heading_path": [
+        "Please Log In or Renew"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "The area you wish to view requires you to log in to your account and have a valid subscription .",
+      "ordinal": 2,
+      "heading_path": [
+        "Please Log In or Renew"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "Not signed up? You can Register online . Already a member and need to renew? If your Private Sector Membership has recently expired, you can resubscribe at the new rate or visit your account area .",
+      "ordinal": 3,
+      "heading_path": [
+        "Please Log In or Renew"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "Register online",
+      "href": "https://www.procurementlawyers.org.uk/register/",
+      "block_id": "b00003",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "resubscribe at the new rate",
+      "href": "https://www.procurementlawyers.org.uk/register/private-sector-member/",
+      "block_id": "b00003",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "visit your account area",
+      "href": "https://www.procurementlawyers.org.uk/account/?action=subscriptions",
+      "block_id": "b00003",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    }
+  ],
+  "legal_references": [],
+  "attachments": [],
+  "warnings": []
+}

@@ -1,0 +1,114 @@
+{
+  "document_id": "e731c24c-8261-47e6-ba7b-edc3bc425097",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/c6d23ef8572ac994ef1f8f8d.json",
+  "input_sha256": "85a38986a6740354008b668bf68dd91b4f37ad80560a5e8ab0700780b1f4145d",
+  "processed_at": "2026-08-27T02:26:41.219094+00:00",
+  "title": "Procurement Policy Note 02/22 – The Consultancy Playbook v1.1",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-policy-note-0222-the-consultancy-playbook-v11",
+  "description": "Updated version of the Consultancy Playbook (Version 1.1) published 05/09/2022.",
+  "publication_date": "2022-09-20T09:17:00+01:00",
+  "updated_date": "2022-09-20T09:17:00+01:00",
+  "source_metadata": {
+    "content_id": "e731c24c-8261-47e6-ba7b-edc3bc425097",
+    "base_path": "/government/publications/procurement-policy-note-0222-the-consultancy-playbook-v11",
+    "document_type": "guidance",
+    "schema_name": "publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "Here you can find the updated version of the Consultancy Playbook (Version 1.1).",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "Procurement Policy Note 02/22 – The Consultancy Playbook v1.1",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0222-the-consultancy-playbook-v11",
+      "block_id": "__document__",
+      "ordinal": 0,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "Procurement policy notes",
+      "href": "https://www.gov.uk/government/collections/procurement-policy-notes",
+      "block_id": "__document__",
+      "ordinal": 1,
+      "link_type": "GOVUK_DOCUMENT_COLLECTIONS"
+    },
+    {
+      "text": "2022 Truss Conservative government",
+      "href": "https://www.gov.uk/government/2022-truss-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Government Commercial Function",
+      "href": "https://www.gov.uk/government/organisations/government-commercial-function",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_ORIGINAL_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Government",
+      "href": "https://www.gov.uk/government/all",
+      "block_id": "__document__",
+      "ordinal": 7,
+      "link_type": "GOVUK_TAXONS"
+    }
+  ],
+  "legal_references": [],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/632af7998fa8f53caf9d6891/Procurement-Policy-Note-02_22-The_Consultancy_Playbook_V1.1__2_.odt",
+      "title": "Procurement Policy Note – The Consultancy Playbook Version 1.1 (ODT)",
+      "content_type": "application/vnd.oasis.opendocument.text",
+      "filename": "Procurement-Policy-Note-02_22-The_Consultancy_Playbook_V1.1__2_.odt",
+      "id": "6904997",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/632af7a2e90e0737284e3fa5/Procurement-Policy-Note-02_22-The_Consultancy_Playbook_V1.1__1_.pdf",
+      "title": "Procurement Policy Note – The Consultancy Playbook Version 1.1 (PDF)",
+      "content_type": "application/pdf",
+      "filename": "Procurement-Policy-Note-02_22-The_Consultancy_Playbook_V1.1__1_.pdf",
+      "id": "6904998",
+      "logical_role": "ATTACHMENT"
+    }
+  ],
+  "warnings": []
+}

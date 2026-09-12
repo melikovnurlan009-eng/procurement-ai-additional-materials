@@ -1,0 +1,725 @@
+{
+  "document_id": "de79770d-44a7-41f8-8a6c-d34c20e1db4c",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/a1d86a105bd13aabe17f88bf.json",
+  "input_sha256": "2b9111c056af84230a4f338e5655cfdb7ede52b10e3b97ea83eef6e892b8acac",
+  "processed_at": "2026-08-27T02:26:34.559411+00:00",
+  "title": "Procurement Policy Note 001 - SME and VCSE procurement spend targets (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/ppn-001-sme-and-vcse-procurement-spend-targets/procurement-policy-note-001-sme-and-vcse-procurement-spend-targets-html",
+  "description": null,
+  "publication_date": "2025-02-13T11:00:47+00:00",
+  "updated_date": "2025-02-13T00:00:00+00:00",
+  "source_metadata": {
+    "content_id": "de79770d-44a7-41f8-8a6c-d34c20e1db4c",
+    "base_path": "/government/publications/ppn-001-sme-and-vcse-procurement-spend-targets/procurement-policy-note-001-sme-and-vcse-procurement-spend-targets-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Issue",
+      "ordinal": 2,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Dissemination and scope",
+      "ordinal": 5,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Timing",
+      "ordinal": 9,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Action",
+      "ordinal": 12,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Background",
+      "ordinal": 18,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Contact",
+      "ordinal": 30,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "Action Note: 001",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "Issued: February 2025",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "heading",
+      "text": "Issue",
+      "ordinal": 2,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "1. The National Procurement Policy Statement (NPPS) sets the Government’s strategic priorities for public procurement in support of the Government’s missions. This includes driving economic growth and strengthening supply chains by giving small and medium-sized enterprises (SMEs) and voluntary, community and social enterprises (VCSEs) a fair chance at public contracts.",
+      "ordinal": 3,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "2. To enable implementation of the NPPS and take forward commitments in the Plan for Small Business, all central government departments (including executive agencies and non-departmental public bodies (NDPBs)) must set a three year target for direct spend with SMEs (from 1 April 2025) and a two year target for direct spend with VCSEs (from 1 April 2026) and report results annually.",
+      "ordinal": 4,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "heading",
+      "text": "Dissemination and scope",
+      "ordinal": 5,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "p",
+      "text": "3. This Procurement Policy Note (PPN) applies to all central government departments, their executive agencies and non-departmental public bodies. Such bodies are referred to as ’in-scope organisation’.",
+      "ordinal": 6,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "4. Other contracting authorities may choose to apply the approach set out in this PPN. However, for the avoidance of doubt, this PPN does not apply to NHS trusts and foundation trusts or to contracting authorities whose functions are devolved or mainly devolved functions of Scotland, Wales or Northern Ireland.",
+      "ordinal": 7,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "5. Please circulate this PPN within your organisation, particularly to those with a commercial, procurement, data and/or contract management role. It may also be relevant to those in finance, operational and sustainability roles.",
+      "ordinal": 8,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "heading",
+      "text": "Timing",
+      "ordinal": 9,
+      "heading_path": [
+        "Issue",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "p",
+      "text": "6. In-scope organisation should note the provisions of this PPN with respect to direct spend with SMEs from 1 April 2025.",
+      "ordinal": 10,
+      "heading_path": [
+        "Issue",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "7. In-scope organisations should work towards setting a target for direct spend with VCSEs during 2025/26 and this must be in place by 1 April 2026. Further guidance will follow.",
+      "ordinal": 11,
+      "heading_path": [
+        "Issue",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "heading",
+      "text": "Action",
+      "ordinal": 12,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "8. Where this PPN applies, in-scope organisations should set a three year target for direct spend with SMEs and a two year target for direct spend with VCSEs, to be achieved in the financial year ending March 2028, and publish results annually. In-scope organisations can voluntarily set targets for, and report on, their indirect spend in addition to direct spend, if they wish",
+      "ordinal": 13,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "9. Spend by executive agencies and NDPBs should be included in the parent department’s target but these bodies are not required to set individual targets. However, where the agency or NDPB’s procurement spend is over £100m per annum their annual direct spend with SMEs and annual direct spend with VCSEs should be published by the parent department separately for transparency.",
+      "ordinal": 14,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "10. SME spend targets must be signed off by the department’s relevant Minister, who should write to the Parliamentary Secretary at the Cabinet Office confirming their target for direct spend with SMEs by 31 May 2025.",
+      "ordinal": 15,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "11. Publication of direct spend with SMEs and direct spend with VCSEs spend data should be no later than 30 September annually for the previous financial year period.",
+      "ordinal": 16,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "12. See the accompanying guidance for further detail.",
+      "ordinal": 17,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "heading",
+      "text": "Background",
+      "ordinal": 18,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "13. The NPPS launched on 13 February is a statutory statement that sets out the Government’s strategic priorities for public procurement.",
+      "ordinal": 19,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "p",
+      "text": "14. The Procurement Act 2023 introduces a number of reforms to make it easier for small businesses to access public sector supply-chains, removing unnecessary burdens and costs, including:",
+      "ordinal": 20,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "a) a new duty on contracting authorities to have regard to their participation and consider whether they can remove barriers to entry",
+      "ordinal": 21,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "p",
+      "text": "b) greater visibility of upcoming public sector opportunities and early market engagement to explain requirements to better help SMEs bid",
+      "ordinal": 22,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "c) preventing contracting authorities from requiring insurance relating to the performance of the contract to be in place prior to award",
+      "ordinal": 23,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "d) 30-day payment terms will apply throughout the public sector supply chain.",
+      "ordinal": 24,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "p",
+      "text": "15. SMEs are defined under section 123 of the Act [footnote 1] as suppliers that:",
+      "ordinal": 25,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "p",
+      "text": "a) have fewer than 250 staff, and",
+      "ordinal": 26,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "p",
+      "text": "b) have a turnover of an amount less than or equal to £44 million, or a balance sheet total of an amount less than or equal to £38 million",
+      "ordinal": 27,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "16. See also further guidance [footnote 2] published by the Cabinet Office for additional considerations of ownership (e.g. where a large enterprise creates a new, small subsidiary).",
+      "ordinal": 28,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "p",
+      "text": "17. VCSEs are defined under section 9 of the Procurement Regulations 2024 as ‘a non-governmental organisation that is value-driven and which principally reinvests its surpluses to further social, environmental or cultural objectives [footnote 3] .",
+      "ordinal": 29,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "heading",
+      "text": "Contact",
+      "ordinal": 30,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "p",
+      "text": "Enquiries about this PPN should be directed to the Crown Commercial Service Helpdesk on 0345 410 2222 or info@crowncommercial.gov.uk",
+      "ordinal": 31,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "li",
+      "text": "Procurement Act 2023 ↩",
+      "ordinal": 32,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "p",
+      "text": "Procurement Act 2023 ↩",
+      "ordinal": 33,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "li",
+      "text": "Supplementary information: Small and Medium-sized Enterprises definition ↩",
+      "ordinal": 34,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "p",
+      "text": "Supplementary information: Small and Medium-sized Enterprises definition ↩",
+      "ordinal": 35,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "li",
+      "text": "The Procurement Regulations 2024 ↩",
+      "ordinal": 36,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "p",
+      "text": "The Procurement Regulations 2024 ↩",
+      "ordinal": 37,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "[footnote 1]",
+      "href": "https://www.gov.uk/government/publications/ppn-001-sme-and-vcse-procurement-spend-targets/procurement-policy-note-001-sme-and-vcse-procurement-spend-targets-html#fn:1",
+      "block_id": "b00025",
+      "ordinal": 0,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 2]",
+      "href": "https://www.gov.uk/government/publications/ppn-001-sme-and-vcse-procurement-spend-targets/procurement-policy-note-001-sme-and-vcse-procurement-spend-targets-html#fn:2",
+      "block_id": "b00028",
+      "ordinal": 1,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 3]",
+      "href": "https://www.gov.uk/government/publications/ppn-001-sme-and-vcse-procurement-spend-targets/procurement-policy-note-001-sme-and-vcse-procurement-spend-targets-html#fn:3",
+      "block_id": "b00029",
+      "ordinal": 2,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "info@crowncommercial.gov.uk",
+      "href": "mailto:info@crowncommercial.gov.uk",
+      "block_id": "b00031",
+      "ordinal": 3,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "Procurement Act 2023",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/123",
+      "block_id": "b00032",
+      "ordinal": 4,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-001-sme-and-vcse-procurement-spend-targets/procurement-policy-note-001-sme-and-vcse-procurement-spend-targets-html#fnref:1",
+      "block_id": "b00032",
+      "ordinal": 5,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Procurement Act 2023",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/123",
+      "block_id": "b00033",
+      "ordinal": 6,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-001-sme-and-vcse-procurement-spend-targets/procurement-policy-note-001-sme-and-vcse-procurement-spend-targets-html#fnref:1",
+      "block_id": "b00033",
+      "ordinal": 7,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Supplementary information: Small and Medium-sized Enterprises definition",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-short-guides/supplementary-information-small-and-medium-sized-enterprises-definition-html",
+      "block_id": "b00034",
+      "ordinal": 8,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-001-sme-and-vcse-procurement-spend-targets/procurement-policy-note-001-sme-and-vcse-procurement-spend-targets-html#fnref:2",
+      "block_id": "b00034",
+      "ordinal": 9,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Supplementary information: Small and Medium-sized Enterprises definition",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-short-guides/supplementary-information-small-and-medium-sized-enterprises-definition-html",
+      "block_id": "b00035",
+      "ordinal": 10,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-001-sme-and-vcse-procurement-spend-targets/procurement-policy-note-001-sme-and-vcse-procurement-spend-targets-html#fnref:2",
+      "block_id": "b00035",
+      "ordinal": 11,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "The Procurement Regulations 2024",
+      "href": "https://www.legislation.gov.uk/uksi/2024/692/contents/made",
+      "block_id": "b00036",
+      "ordinal": 12,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-001-sme-and-vcse-procurement-spend-targets/procurement-policy-note-001-sme-and-vcse-procurement-spend-targets-html#fnref:3",
+      "block_id": "b00036",
+      "ordinal": 13,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "The Procurement Regulations 2024",
+      "href": "https://www.legislation.gov.uk/uksi/2024/692/contents/made",
+      "block_id": "b00037",
+      "ordinal": 14,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-001-sme-and-vcse-procurement-spend-targets/procurement-policy-note-001-sme-and-vcse-procurement-spend-targets-html#fnref:3",
+      "block_id": "b00037",
+      "ordinal": 15,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Procurement Policy Note 001 - SME and VCSE procurement spend targets (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-001-sme-and-vcse-procurement-spend-targets/procurement-policy-note-001-sme-and-vcse-procurement-spend-targets-html",
+      "block_id": "__document__",
+      "ordinal": 16,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2024 to 2026 Starmer Labour government",
+      "href": "https://www.gov.uk/government/2024-starmer-labour-government",
+      "block_id": "__document__",
+      "ordinal": 17,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 18,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "PPN 001: SME and VCSE procurement spend targets",
+      "href": "https://www.gov.uk/government/publications/ppn-001-sme-and-vcse-procurement-spend-targets",
+      "block_id": "__document__",
+      "ordinal": 19,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 20,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 123",
+      "block_id": "b00025",
+      "start": 27,
+      "end": 38,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "123"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 9",
+      "block_id": "b00029",
+      "start": 28,
+      "end": 37,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "9"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2024",
+      "block_id": "b00029",
+      "start": 57,
+      "end": 73,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2024"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2024",
+      "block_id": "b00036",
+      "start": 16,
+      "end": 32,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2024"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2024",
+      "block_id": "b00037",
+      "start": 16,
+      "end": 32,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2024"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

@@ -1,0 +1,833 @@
+{
+  "document_id": "2c257670-f6a9-4017-94fa-1969f157d0db",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/bc58bf990ef00398a2b6617b.json",
+  "input_sha256": "d9b426101c5ee93a646f11e73ec9be3420e9308f69a020be9acc39b177405984",
+  "processed_at": "2026-08-27T02:26:39.486903+00:00",
+  "title": "Guidance: Pipeline Notice (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-pipeline-notice-html",
+  "description": null,
+  "publication_date": "2024-05-24T15:08:33+01:00",
+  "updated_date": "2026-04-15T12:48:16+01:00",
+  "source_metadata": {
+    "content_id": "2c257670-f6a9-4017-94fa-1969f157d0db",
+    "base_path": "/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-pipeline-notice-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What is a pipeline notice?",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What is the legal framework that governs pipeline notices?",
+      "ordinal": 4,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What has changed?",
+      "ordinal": 6,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Key points and policy intent",
+      "ordinal": 9,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Content of a pipeline notice",
+      "ordinal": 18,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What are the primary notices linked to pipeline notices?",
+      "ordinal": 34,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What other guidance is of particular relevance to this topic area?",
+      "ordinal": 44,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Where can I go for more information or training?",
+      "ordinal": 47,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "What is a pipeline notice?",
+      "ordinal": 0,
+      "heading_path": [
+        "What is a pipeline notice?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "1. One of the most important things contracting authorities can do is to provide the market with information about current and future public contract opportunities by publishing a forward-looking procurement pipeline. The Procurement Act 2023 (Act) achieves this by requiring the publication of pipeline notices in certain circumstances. This is of particular benefit to small and medium-sized enterprises (SMEs) and voluntary, community and social enterprises as it provides them with time to plan for future work, ensuring a competitive and diverse market.",
+      "ordinal": 1,
+      "heading_path": [
+        "What is a pipeline notice?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "2. A pipeline notice is “a notice setting out specified information about any public contract with an estimated value of more than £2 million in respect of which the contracting authority intends to publish a tender notice or transparency notice during the reporting period”. In other words, it is the collection of individual procurements that make up a contracting authority’s procurement pipeline over the next reporting period. The ‘reporting period’ is 18 months, commencing on the first day of the financial year in which the notice is published.",
+      "ordinal": 2,
+      "heading_path": [
+        "What is a pipeline notice?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "3. Private utilities and transferred Northern Ireland authorities are not required to publish a pipeline notice.",
+      "ordinal": 3,
+      "heading_path": [
+        "What is a pipeline notice?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "heading",
+      "text": "What is the legal framework that governs pipeline notices?",
+      "ordinal": 4,
+      "heading_path": [
+        "What is a pipeline notice?",
+        "What is the legal framework that governs pipeline notices?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "4. The relevant provisions are section 93 and regulation 15 .",
+      "ordinal": 5,
+      "heading_path": [
+        "What is a pipeline notice?",
+        "What is the legal framework that governs pipeline notices?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "heading",
+      "text": "What has changed?",
+      "ordinal": 6,
+      "heading_path": [
+        "What is a pipeline notice?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "5. The Act makes publication of a pipeline notice on the central digital platform a legal requirement in the circumstances set out in the Act. In central government, there is additional policy within the Playbook series pertaining to the publication of commercial pipelines . Central government authorities are still required to comply with Playbook requirements in relation to pipeline publication and should note that the Playbook requirements can be met through the publication (and updating) of the pipeline notice on the central digital platform.",
+      "ordinal": 7,
+      "heading_path": [
+        "What is a pipeline notice?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "6. The pipeline notice may form a subset of a contracting authority’s wider commercial pipeline which is used for internal planning. The new legal requirement to publish a pipeline notice does not replace any internal reporting requirements.",
+      "ordinal": 8,
+      "heading_path": [
+        "What is a pipeline notice?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "heading",
+      "text": "Key points and policy intent",
+      "ordinal": 9,
+      "heading_path": [
+        "What is a pipeline notice?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "p",
+      "text": "7. A contracting authority is required to publish a pipeline notice on the central digital platform where it considers that it will, in the coming financial year, pay more than £100 million under relevant contracts.",
+      "ordinal": 10,
+      "heading_path": [
+        "What is a pipeline notice?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "8. For the purpose of calculating whether a contracting authority will exceed the £100 million threshold, the calculation must include all payments that will be made under contracts for the supply of goods, services or works other than exempted contracts (‘relevant contracts’). This includes below-threshold contracts and frameworks. The calculation will comprise payments due in the coming financial year under existing and future contracts. In the case of a framework, whilst a framework is a contract, the value of the framework itself is not taken into account. This is because payments will not be made under the framework itself, but instead will be made under each relevant contract awarded under the framework. Relevant contracts also include contracts awarded under frameworks and dynamic markets.",
+      "ordinal": 11,
+      "heading_path": [
+        "What is a pipeline notice?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "9. Whilst not required to do so under the Act, a central purchasing body that is planning to establish a framework for use by other contracting authorities that is valued over £2 million (based on the total value of the contracts to be awarded under the framework) should publish a pipeline notice in order to provide visibility to the market.",
+      "ordinal": 12,
+      "heading_path": [
+        "What is a pipeline notice?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "10. Note that the planned establishment of a dynamic market is not taken into account in calculating anticipated expenditure in the coming financial year for the purpose of determining whether a pipeline notice must be published (because a dynamic market is not a contract). However, a contracting authority establishing a dynamic market or intending to use one will need to include its planned spend under the dynamic market in the calculation. This spend includes only the contracting authority’s own planned spend through dynamic markets, not the potential spend of any other users of the relevant dynamic markets. So, for example, if a contracting authority established a dynamic market for cross-government use and anticipated that it (alone) would pay £10 million under relevant contracts awarded under the dynamic market in the coming financial year, whilst other users of the dynamic market might pay a further £50 million under contracts awarded under the dynamic market, the contracting authority establishing the dynamic market would only take into account the £10 million when calculating whether the £100 million threshold is met. Other contracting authorities awarding contracts under the dynamic market would include their share of that £50 million expenditure in their own calculations of spend.",
+      "ordinal": 13,
+      "heading_path": [
+        "What is a pipeline notice?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "11. The pipeline notice must be published within 56 days of the first day of the relevant financial year. Section 93(4) sets out that ‘financial year’ means:",
+      "ordinal": 14,
+      "heading_path": [
+        "What is a pipeline notice?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "(a) the period of twelve months beginning with the 1 April following the day on which this section comes into force; and",
+      "ordinal": 15,
+      "heading_path": [
+        "What is a pipeline notice?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "(b) each successive period of 12 months.",
+      "ordinal": 16,
+      "heading_path": [
+        "What is a pipeline notice?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "12. What this means is that the first procurement pipeline notice will need to be published within 56 days of April 1 2025, i.e. by 26th May 2025 and by 26th May in subsequent years.",
+      "ordinal": 17,
+      "heading_path": [
+        "What is a pipeline notice?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "heading",
+      "text": "Content of a pipeline notice",
+      "ordinal": 18,
+      "heading_path": [
+        "What is a pipeline notice?",
+        "Key points and policy intent",
+        "Content of a pipeline notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "13. Regulation 15 sets out the minimum information that must be published “for each procurement contained in the pipeline notice”. It therefore implies that one pipeline notice may contain more than one procurement.",
+      "ordinal": 19,
+      "heading_path": [
+        "What is a pipeline notice?",
+        "Key points and policy intent",
+        "Content of a pipeline notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "p",
+      "text": "14. However, in practice, a pipeline notice will need to be published for each individual procurement making up a contracting authority’s pipeline. This is so that subsequent notices about that procurement can be linked to those details. This information will be collated and presented on the central digital platform as a single ’pipeline notice view’ for each contracting authority, enabling the viewer to easily see all the procurements making up any individual contracting authority’s pipeline. .",
+      "ordinal": 20,
+      "heading_path": [
+        "What is a pipeline notice?",
+        "Key points and policy intent",
+        "Content of a pipeline notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "15. Exactly how the pipeline information will be published will depend on how the contracting authority publishes on the central digital platform; and some e-procurement system providers may offer a bulk upload or batching feature to make this process easier. Contracting authorities should refer to their e-procurement system provider if using one.",
+      "ordinal": 21,
+      "heading_path": [
+        "What is a pipeline notice?",
+        "Key points and policy intent",
+        "Content of a pipeline notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "p",
+      "text": "16. If publishing directly onto the central digital platform, a contracting authority will need to complete and publish details individually for each proposed public contract over the £2 million threshold. Regardless of the publication method used, all of the contracting authority’s procurements forming the pipeline will still be presented together in a pipeline notice view on the system.",
+      "ordinal": 22,
+      "heading_path": [
+        "What is a pipeline notice?",
+        "Key points and policy intent",
+        "Content of a pipeline notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "17. When completing the information, particularly the contract subject-matter, not all information is likely to be known at the point of publication of a pipeline notice and the expectation is that this information would be less detailed than any subsequent tender or transparency notice. Further information about what to consider when publishing pipeline information is included in the guidance on the central digital platform and publication of information .",
+      "ordinal": 23,
+      "heading_path": [
+        "What is a pipeline notice?",
+        "Key points and policy intent",
+        "Content of a pipeline notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "18. While the Act requires the pipeline notice to be published within 56 days of the first day of the relevant financial year, there are likely to be circumstances where a contracting authority will identify additional requirements during the financial year. Whilst not a requirement of the legislation, contracting authorities are encouraged to review and update their pipeline notices throughout the year, adding new procurements above the £2 million threshold. These additional procurements will be collated and presented in the pipeline notice view with the rest of the contracting authority’s upcoming procurements that have already been published in its pipeline notice.",
+      "ordinal": 24,
+      "heading_path": [
+        "What is a pipeline notice?",
+        "Key points and policy intent",
+        "Content of a pipeline notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "p",
+      "text": "19. Where an additional procurement above the £2 million threshold for inclusion in a pipeline notice is identified and the contracting authority considers that there is not enough time to publish an additional entry in their pipeline notice before commencing that new procurement, then the contracting authority is not required to include that procurement in its pipeline notice.",
+      "ordinal": 25,
+      "heading_path": [
+        "What is a pipeline notice?",
+        "Key points and policy intent",
+        "Content of a pipeline notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "p",
+      "text": "20. Contracting authorities are encouraged to go further than required by the Act by including in their pipeline notice:",
+      "ordinal": 26,
+      "heading_path": [
+        "What is a pipeline notice?",
+        "Key points and policy intent",
+        "Content of a pipeline notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "p",
+      "text": "a. works contracts above £2 million but below the works threshold at the time of publication where the contracting authority intends to carry out a competitive tendering process;",
+      "ordinal": 27,
+      "heading_path": [
+        "What is a pipeline notice?",
+        "Key points and policy intent",
+        "Content of a pipeline notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "b. contracts above £2 million where publication of a tender or transparency notice is not required, for example to alert the market where a contracting authority intends to award a call-off contract under a third party’s framework through a competitive selection process and contracts awarded under certain types of utilities dynamic markets;",
+      "ordinal": 28,
+      "heading_path": [
+        "What is a pipeline notice?",
+        "Key points and policy intent",
+        "Content of a pipeline notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "p",
+      "text": "c. contracts below £2 million where the contracting authority is intending to advertise the opportunity as this can be particularly beneficial to SMEs;",
+      "ordinal": 29,
+      "heading_path": [
+        "What is a pipeline notice?",
+        "Key points and policy intent",
+        "Content of a pipeline notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "p",
+      "text": "d. relevant contracts to be awarded over a period that is longer than 18 months.",
+      "ordinal": 30,
+      "heading_path": [
+        "What is a pipeline notice?",
+        "Key points and policy intent",
+        "Content of a pipeline notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "p",
+      "text": "21. Contracting authorities who are uncertain as to whether the £100 million threshold will be reached in a given financial year are also encouraged to publish a pipeline notice. This could arise, for example, because a contracting authority may receive funding for several years and be unsure how that will be divided between the current and subsequent financial years.",
+      "ordinal": 31,
+      "heading_path": [
+        "What is a pipeline notice?",
+        "Key points and policy intent",
+        "Content of a pipeline notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "p",
+      "text": "22. Additionally, contracting authorities who are exempt from publishing pipeline notices may publish them voluntarily.",
+      "ordinal": 32,
+      "heading_path": [
+        "What is a pipeline notice?",
+        "Key points and policy intent",
+        "Content of a pipeline notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "p",
+      "text": "23. While a pipeline notice is intended to provide suppliers with an indication of a contracting authority’s plans and expenditure for the following 18 months, contracting authorities are not bound by the information in the notice, which could change over time as plans for the procurements become clearer. Contracting authorities are not under any legal obligation to proceed with any procurement that has been specified in a pipeline notice. While there is no legal obligation to indicate that the procurement will not proceed, it would be good practice to provide visibility of such changes using the procurement termination notice on a voluntary basis.",
+      "ordinal": 33,
+      "heading_path": [
+        "What is a pipeline notice?",
+        "Key points and policy intent",
+        "Content of a pipeline notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "heading",
+      "text": "What are the primary notices linked to pipeline notices?",
+      "ordinal": 34,
+      "heading_path": [
+        "What is a pipeline notice?",
+        "What are the primary notices linked to pipeline notices?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "p",
+      "text": "24. When it is published, a pipeline notice will usually be the first notice in the sequence, containing information about individual procurements in a contracting authority’s pipeline.",
+      "ordinal": 35,
+      "heading_path": [
+        "What is a pipeline notice?",
+        "What are the primary notices linked to pipeline notices?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "p",
+      "text": "25. The next notice in the sequence after the pipeline notice will be one of the following:",
+      "ordinal": 36,
+      "heading_path": [
+        "What is a pipeline notice?",
+        "What are the primary notices linked to pipeline notices?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "p",
+      "text": "a. preliminary market engagement notice: can be used to consult the market about an upcoming procurement included in a pipeline notice;",
+      "ordinal": 37,
+      "heading_path": [
+        "What is a pipeline notice?",
+        "What are the primary notices linked to pipeline notices?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "p",
+      "text": "b. planned procurement notice: to provide advance notice of the procurement and potentially take advantage of reduced tendering periods;",
+      "ordinal": 38,
+      "heading_path": [
+        "What is a pipeline notice?",
+        "What are the primary notices linked to pipeline notices?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "p",
+      "text": "c. tender notice: to advertise the procurement;",
+      "ordinal": 39,
+      "heading_path": [
+        "What is a pipeline notice?",
+        "What are the primary notices linked to pipeline notices?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "p",
+      "text": "d. transparency notice: for use when a procurement identified in a pipeline notice is to be awarded under the direct award provisions;",
+      "ordinal": 40,
+      "heading_path": [
+        "What is a pipeline notice?",
+        "What are the primary notices linked to pipeline notices?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "p",
+      "text": "e. contract award notice: may be the next notice if the procurement identified in the pipeline results in an award in accordance with a framework;",
+      "ordinal": 41,
+      "heading_path": [
+        "What is a pipeline notice?",
+        "What are the primary notices linked to pipeline notices?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "p",
+      "text": "f. procurement termination notice: can be used voluntarily to indicate that a particular procurement set out in a pipeline notice will not be progressed.",
+      "ordinal": 42,
+      "heading_path": [
+        "What is a pipeline notice?",
+        "What are the primary notices linked to pipeline notices?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "p",
+      "text": "26. Contracting authorities must ensure that when publishing the next notice in the sequence that they refer back to the originating pipeline notice. This should be a function of system providers and contracting authorities should check local procedures for further information on publishing notices.",
+      "ordinal": 43,
+      "heading_path": [
+        "What is a pipeline notice?",
+        "What are the primary notices linked to pipeline notices?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "heading",
+      "text": "What other guidance is of particular relevance to this topic area?",
+      "ordinal": 44,
+      "heading_path": [
+        "What is a pipeline notice?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "p",
+      "text": "Guidance on the central digital platform and publication of information",
+      "ordinal": 45,
+      "heading_path": [
+        "What is a pipeline notice?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "p",
+      "text": "Guidance on valuation of contracts",
+      "ordinal": 46,
+      "heading_path": [
+        "What is a pipeline notice?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "heading",
+      "text": "Where can I go for more information or training?",
+      "ordinal": 47,
+      "heading_path": [
+        "What is a pipeline notice?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "p",
+      "text": "Platform guidance/local e-procurement system provider guidance",
+      "ordinal": 48,
+      "heading_path": [
+        "What is a pipeline notice?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "Procurement Act 2023 (Act)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/contents",
+      "block_id": "b00001",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 93",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/93",
+      "block_id": "b00005",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 15",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/15",
+      "block_id": "b00005",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "commercial pipelines",
+      "href": "https://www.gov.uk/government/publications/commercial-operating-standards-for-government/commercial-pipeline-guidance-v7-html",
+      "block_id": "b00007",
+      "ordinal": 3,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 93(4)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/93",
+      "block_id": "b00014",
+      "ordinal": 4,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Regulation 15",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/15",
+      "block_id": "b00019",
+      "ordinal": 5,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "central digital platform and publication of information",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-central-digital-platform-and-publication-of-information-html",
+      "block_id": "b00023",
+      "ordinal": 6,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "central digital platform and publication of information",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-central-digital-platform-and-publication-of-information-html",
+      "block_id": "b00045",
+      "ordinal": 7,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "valuation of contracts",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-valuation-of-contracts-html",
+      "block_id": "b00046",
+      "ordinal": 8,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Guidance: Pipeline Notice (HTML)",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-pipeline-notice-html",
+      "block_id": "__document__",
+      "ordinal": 9,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2022 to 2024 Sunak Conservative government",
+      "href": "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 10,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 11,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Procurement Act 2023 guidance documents - Plan phase",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase",
+      "block_id": "__document__",
+      "ordinal": 12,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 13,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 93",
+      "block_id": "b00005",
+      "start": 31,
+      "end": 41,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "93"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 15",
+      "block_id": "b00005",
+      "start": 46,
+      "end": 59,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "15"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 93(4)",
+      "block_id": "b00014",
+      "start": 106,
+      "end": 119,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "93",
+        "tail": "(4)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 15",
+      "block_id": "b00019",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "15"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

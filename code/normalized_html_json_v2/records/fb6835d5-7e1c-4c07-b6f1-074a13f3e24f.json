@@ -1,0 +1,134 @@
+{
+  "document_id": "fb6835d5-7e1c-4c07-b6f1-074a13f3e24f",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/2cdb65a412c156f255e9a947.json",
+  "input_sha256": "78bc15d188d42c861a276ddedbe9036e72e7e3104a8fd14b0d732c82c1475c29",
+  "processed_at": "2026-08-27T02:26:09.825637+00:00",
+  "title": "PPN 004: Open Book Contract Management",
+  "canonical_url": "https://www.gov.uk/government/publications/ppn-004-open-book-contract-management",
+  "description": "This PPN sets out the obligations of in-scope organisations when applying open book contract management to public contracts.",
+  "publication_date": "2025-02-17T00:00:00+00:00",
+  "updated_date": "2025-02-17T00:00:00+00:00",
+  "source_metadata": {
+    "content_id": "fb6835d5-7e1c-4c07-b6f1-074a13f3e24f",
+    "base_path": "/government/publications/ppn-004-open-book-contract-management",
+    "document_type": "guidance",
+    "schema_name": "publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "This PPN has been updated to reflect new terminology introduced by the Procurement Act 2023 and the Procurement Regulations 2024. For procurements commenced and contracts awarded before this date, please refer to PPN 05/16",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "PPN 004: Open Book Contract Management",
+      "href": "https://www.gov.uk/government/publications/ppn-004-open-book-contract-management",
+      "block_id": "__document__",
+      "ordinal": 0,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "PPN 004: Open Book Contract Management (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-004-open-book-contract-management/ppn-004-open-book-contract-management-html",
+      "block_id": "__document__",
+      "ordinal": 1,
+      "link_type": "GOVUK_CHILDREN"
+    },
+    {
+      "text": "Procurement policy notes",
+      "href": "https://www.gov.uk/government/collections/procurement-policy-notes",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_DOCUMENT_COLLECTIONS"
+    },
+    {
+      "text": "2024 to 2026 Starmer Labour government",
+      "href": "https://www.gov.uk/government/2024-starmer-labour-government",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_ORIGINAL_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Government spending",
+      "href": "https://www.gov.uk/government/government-spending",
+      "block_id": "__document__",
+      "ordinal": 7,
+      "link_type": "GOVUK_TAXONS"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2024",
+      "block_id": "b00000",
+      "start": 112,
+      "end": 128,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2024"
+      }
+    }
+  ],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/67b32ca04a80c6718b55be21/PPN_004_Open_Book_Contract_Management.pdf",
+      "title": "PPN 004: Open Book Contract Management (PDF)",
+      "content_type": "application/pdf",
+      "filename": "PPN_004_Open_Book_Contract_Management.pdf",
+      "id": "8470176",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "/government/publications/ppn-004-open-book-contract-management/ppn-004-open-book-contract-management-html",
+      "title": "PPN 004: Open Book Contract Management (HTML)",
+      "content_type": null,
+      "filename": null,
+      "id": "8470177",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/67b480483e77ca8b737d37be/Open_book_contract_management_guidance.pdf",
+      "title": "PPN 004: Open Book Contract Management Guidance (PDF)",
+      "content_type": "application/pdf",
+      "filename": "Open_book_contract_management_guidance.pdf",
+      "id": "8470178",
+      "logical_role": "ATTACHMENT"
+    }
+  ],
+  "warnings": []
+}

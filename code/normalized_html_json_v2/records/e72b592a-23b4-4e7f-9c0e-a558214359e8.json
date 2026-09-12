@@ -1,0 +1,1170 @@
+{
+  "document_id": "e72b592a-23b4-4e7f-9c0e-a558214359e8",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/7ca789231a93cb02f8607d6a.json",
+  "input_sha256": "a7c01a977950d105747597241e004d08a14020f4927be854ffd9ae389e9c9396",
+  "processed_at": "2026-08-27T02:26:27.246384+00:00",
+  "title": "Central Digital Platform - factsheet (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-act-2023-short-guides/central-digital-platform-factsheet-html",
+  "description": null,
+  "publication_date": "2024-10-29T15:29:58+00:00",
+  "updated_date": "2026-06-23T10:02:16+01:00",
+  "source_metadata": {
+    "content_id": "e72b592a-23b4-4e7f-9c0e-a558214359e8",
+    "base_path": "/government/publications/procurement-act-2023-short-guides/central-digital-platform-factsheet-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Introduction",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "1. What is Find a Tender, the central digital platform?",
+      "ordinal": 12,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "2. Where do I access Find a Tender?",
+      "ordinal": 14,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "3. What will this mean for buyers and procurement teams?",
+      "ordinal": 16,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "4. What will this mean for suppliers?",
+      "ordinal": 20,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "5. When can suppliers register?",
+      "ordinal": 22,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "6. Will suppliers complete their bids on Find a Tender?",
+      "ordinal": 25,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "7. What information will be required for supplier registration?",
+      "ordinal": 29,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Supplier Information",
+      "ordinal": 31,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "8. Who can see the information suppliers enter into the Find A Tender service, how is it protected and who can view it?",
+      "ordinal": 37,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "9. If I was previously registered on Find a Tender, will I need to re-register?",
+      "ordinal": 39,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "10. What support will be available for the registration process?",
+      "ordinal": 41,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "11. What happens if a supplier can’t access Find a Tender?",
+      "ordinal": 43,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "12. What happens if a Contracting Authority’s eSender’s integration with Find a Tender fails?",
+      "ordinal": 46,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "For more information",
+      "ordinal": 52,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "Introduction",
+      "ordinal": 0,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "The Procurement Act 2023 legislated for provision of a central digital platform to facilitate the publishing of required notices and documents in accordance with the new regulations. An enhanced Find a Tender service (FTS) was launched on 24 February 2025, which is the central digital platform for public procurement. It makes it easier to find and bid for contracts, and for buyers to meet their transparency commitments under the Act.",
+      "ordinal": 1,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "Find a Tender:",
+      "ordinal": 2,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "li",
+      "text": "Features a simple registration and identification for both suppliers and buyers.",
+      "ordinal": 3,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "li",
+      "text": "Stores suppliers’ core business details that can be used for multiple bids.",
+      "ordinal": 4,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "li",
+      "text": "Enables easy management and updating of core information quickly, and shared easily between suppliers, eSenders and buyers.",
+      "ordinal": 5,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "li",
+      "text": "Makes public procurement opportunities visible making it easier to search at no cost and set up alerts for tenders of interest for suppliers.",
+      "ordinal": 6,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "li",
+      "text": "Allows for procurement noticing throughout the procurement lifecycle.",
+      "ordinal": 7,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "li",
+      "text": "Captures procurement data and eventually will create dashboards to analyse that data.",
+      "ordinal": 8,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "This leaflet provides a summary of the key facts you need to know about the Find a Tender service.",
+      "ordinal": 9,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "p",
+      "text": "Find a Tender is free to use for everyone.",
+      "ordinal": 10,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "There are no charges and you should not pay to view opportunities in the public sector",
+      "ordinal": 11,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "heading",
+      "text": "1. What is Find a Tender, the central digital platform?",
+      "ordinal": 12,
+      "heading_path": [
+        "Introduction",
+        "1. What is Find a Tender, the central digital platform?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "Find a Tender, the central digital platform , is where all UK contracting authorities publish information relating to procurement. It is also the place where identifiers are recorded and/or issued and for suppliers to input their commonly used information. It is a fully integrated digital platform where noticing, sign-in and registration, supplier information all work together to support public sector procurement.",
+      "ordinal": 13,
+      "heading_path": [
+        "Introduction",
+        "1. What is Find a Tender, the central digital platform?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "heading",
+      "text": "2. Where do I access Find a Tender?",
+      "ordinal": 14,
+      "heading_path": [
+        "Introduction",
+        "2. Where do I access Find a Tender?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "Find a Tender is available",
+      "ordinal": 15,
+      "heading_path": [
+        "Introduction",
+        "2. Where do I access Find a Tender?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "heading",
+      "text": "3. What will this mean for buyers and procurement teams?",
+      "ordinal": 16,
+      "heading_path": [
+        "Introduction",
+        "3. What will this mean for buyers and procurement teams?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "Find a Tender is the central place for the contracting authority to register their organisation initially and then publish their procurement notices. However, many buyers use a third-party [an eSender] to facilitate publication of notices - they will log into and publish most of their notices from there.",
+      "ordinal": 17,
+      "heading_path": [
+        "Introduction",
+        "3. What will this mean for buyers and procurement teams?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "p",
+      "text": "Therefore, many buyers will never need to visit Find a Tender , other than to register, and use the data for research and analysis purposes - and as a contingency if their eSender is unable to publish for any reason.",
+      "ordinal": 18,
+      "heading_path": [
+        "Introduction",
+        "3. What will this mean for buyers and procurement teams?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "For teams that publish directly on Find a Tender , online forms have been set up for the required publication points.",
+      "ordinal": 19,
+      "heading_path": [
+        "Introduction",
+        "3. What will this mean for buyers and procurement teams?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "heading",
+      "text": "4. What will this mean for suppliers?",
+      "ordinal": 20,
+      "heading_path": [
+        "Introduction",
+        "4. What will this mean for suppliers?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "Find a Tender is the place for suppliers to find out what opportunities are coming along that they might wish to bid for, as well as details on contracts that have been let, how contracts are being changed and other useful information. Additionally, suppliers register, input and then share their commonly used information as part of the procurement.",
+      "ordinal": 21,
+      "heading_path": [
+        "Introduction",
+        "4. What will this mean for suppliers?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "heading",
+      "text": "5. When can suppliers register?",
+      "ordinal": 22,
+      "heading_path": [
+        "Introduction",
+        "5. When can suppliers register?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "There is no hurry to get suppliers registered. They only need to register at the point that they want to bid for a contract. Registering and entering their supplier information is fairly straightforward and quick, especially if they have to hand all of the information that they need before they begin.",
+      "ordinal": 23,
+      "heading_path": [
+        "Introduction",
+        "5. When can suppliers register?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "It is the supplier’s responsibility to ensure that the data they are sharing is accurate. Find a Tender doesn’t undertake any assurance before the supplier shares it. It is up to the buying organisation to ensure that the information meets all of their due diligence checks.",
+      "ordinal": 24,
+      "heading_path": [
+        "Introduction",
+        "5. When can suppliers register?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "heading",
+      "text": "6. Will suppliers complete their bids on Find a Tender?",
+      "ordinal": 25,
+      "heading_path": [
+        "Introduction",
+        "6. Will suppliers complete their bids on Find a Tender?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "p",
+      "text": "Suppliers will always need to complete their bids in the form and manner required by the contracting authority. This will include the need to complete basic information on the supplier information part of Find a Tender , declare it is correct and generate a share code or download a file of their information.",
+      "ordinal": 26,
+      "heading_path": [
+        "Introduction",
+        "6. Will suppliers complete their bids on Find a Tender?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "p",
+      "text": "The supplier will need to submit this share code or file in the way that was determined by the buyer in the tender notice or tender documents. This could be by pasting the share code into the eSender system against the opportunity or by downloading and emailing the file directly to the buyer.",
+      "ordinal": 27,
+      "heading_path": [
+        "Introduction",
+        "6. Will suppliers complete their bids on Find a Tender?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "For more information, ‘How to’ videos and guides go to the GOV.UK page Information and Advice for Suppliers.",
+      "ordinal": 28,
+      "heading_path": [
+        "Introduction",
+        "6. Will suppliers complete their bids on Find a Tender?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "heading",
+      "text": "7. What information will be required for supplier registration?",
+      "ordinal": 29,
+      "heading_path": [
+        "Introduction",
+        "7. What information will be required for supplier registration?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "p",
+      "text": "Suppliers will be required to submit their core business information, which can then be shared across multiple bids and customers. This includes business information and records of accreditations and financial information. Depending on the structure of your business, this also includes information such as connected persons. Suppliers will also need to declare accuracy of this information. The good news is that once this is completed it will be simple to review it and re-use it every time for each tender. We suggest you start getting this ready now in preparation for go-live.",
+      "ordinal": 30,
+      "heading_path": [
+        "Introduction",
+        "7. What information will be required for supplier registration?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "heading",
+      "text": "Supplier Information",
+      "ordinal": 31,
+      "heading_path": [
+        "Introduction",
+        "7. What information will be required for supplier registration?",
+        "Supplier Information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "p",
+      "text": "To complete registration, you will need:",
+      "ordinal": 32,
+      "heading_path": [
+        "Introduction",
+        "7. What information will be required for supplier registration?",
+        "Supplier Information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "p",
+      "text": "Basic Information: Name, address, Companies House number (or equivalent, e.g. Charity number), VAT Number (if applicable), relevant qualifications or trade assurances and whether the organisation is a SME, VCSE or public mutual.",
+      "ordinal": 33,
+      "heading_path": [
+        "Introduction",
+        "7. What information will be required for supplier registration?",
+        "Supplier Information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "p",
+      "text": "Financial information: Copies of your accounts from the most recent financial years.",
+      "ordinal": 34,
+      "heading_path": [
+        "Introduction",
+        "7. What information will be required for supplier registration?",
+        "Supplier Information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "p",
+      "text": "Connected Persons: Names, addresses and details on any connected persons to the business (e.g. persons with significant control). These are individuals or organisations who have influence or control over the supplier.",
+      "ordinal": 35,
+      "heading_path": [
+        "Introduction",
+        "7. What information will be required for supplier registration?",
+        "Supplier Information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "p",
+      "text": "Exclusions: Details of any discretionary or mandatory exclusions for the supplier or connected persons as set out in schedules 6 & 7 of the Procurement Act 2023.",
+      "ordinal": 36,
+      "heading_path": [
+        "Introduction",
+        "7. What information will be required for supplier registration?",
+        "Supplier Information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "heading",
+      "text": "8. Who can see the information suppliers enter into the Find A Tender service, how is it protected and who can view it?",
+      "ordinal": 37,
+      "heading_path": [
+        "Introduction",
+        "8. Who can see the information suppliers enter into the Find A Tender service, how is it protected and who can view it?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "p",
+      "text": "The details that suppliers enter into Find a Tender will be shared only with those contracting authorities that the supplier chooses to share with. This information is not accessible in any other way. To share, the supplier will either input a share code into the eSender platform as part of their bid or by the supplier downloading the information and sharing as directed by the contracting authority.",
+      "ordinal": 38,
+      "heading_path": [
+        "Introduction",
+        "8. Who can see the information suppliers enter into the Find A Tender service, how is it protected and who can view it?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "heading",
+      "text": "9. If I was previously registered on Find a Tender, will I need to re-register?",
+      "ordinal": 39,
+      "heading_path": [
+        "Introduction",
+        "9. If I was previously registered on Find a Tender, will I need to re-register?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "p",
+      "text": "Yes, you will need to re-register and enter your organisation information at Find a Tender - and if you use the same email address, saved searches from your old account will be pulled through to your new Find a Tender account.",
+      "ordinal": 40,
+      "heading_path": [
+        "Introduction",
+        "9. If I was previously registered on Find a Tender, will I need to re-register?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "heading",
+      "text": "10. What support will be available for the registration process?",
+      "ordinal": 41,
+      "heading_path": [
+        "Introduction",
+        "10. What support will be available for the registration process?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "p",
+      "text": "For more information, ‘How to’ videos and guides go to the GOV.UK page Information and Advice for Suppliers . You can also register for the Transforming Public Procurement newsletter from this page and the link in this factsheet, where you will get regular updates on planned and new developments on the Find a Tender service.",
+      "ordinal": 42,
+      "heading_path": [
+        "Introduction",
+        "10. What support will be available for the registration process?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "heading",
+      "text": "11. What happens if a supplier can’t access Find a Tender?",
+      "ordinal": 43,
+      "heading_path": [
+        "Introduction",
+        "11. What happens if a supplier can’t access Find a Tender?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "p",
+      "text": "Public procurement will always be possible. The Procurement Act 2023 and the Procurement Regulations 2024 allow for contingency arrangements to be enacted by the contracting authority, if a supplier can’t access Find a Tender , or update and share their supplier information via Find a Tender .",
+      "ordinal": 44,
+      "heading_path": [
+        "Introduction",
+        "11. What happens if a supplier can’t access Find a Tender?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "p",
+      "text": "If a supplier is having any issues with submitting their bid, they should contact the contracting authority immediately to discuss the alternative arrangements.",
+      "ordinal": 45,
+      "heading_path": [
+        "Introduction",
+        "11. What happens if a supplier can’t access Find a Tender?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "heading",
+      "text": "12. What happens if a Contracting Authority’s eSender’s integration with Find a Tender fails?",
+      "ordinal": 46,
+      "heading_path": [
+        "Introduction",
+        "12. What happens if a Contracting Authority’s eSender’s integration with Find a Tender fails?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "p",
+      "text": "Public procurement will always be possible. The Procurement Act 2023 and the Procurement Regulations 2024 allow for contingency arrangements if for any reason a contracting authority can’t access Find a Tender or access supplier information. These are laid out in Procurement Regulations no.5 and no.7 and a contingency support pack is available to contracting authorities",
+      "ordinal": 47,
+      "heading_path": [
+        "Introduction",
+        "12. What happens if a Contracting Authority’s eSender’s integration with Find a Tender fails?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "p",
+      "text": "Sign up to our newsletter",
+      "ordinal": 48,
+      "heading_path": [
+        "Introduction",
+        "12. What happens if a Contracting Authority’s eSender’s integration with Find a Tender fails?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "p",
+      "text": "Any queries: contact us at procurement.reform@cabinetoffice.gov.uk",
+      "ordinal": 49,
+      "heading_path": [
+        "Introduction",
+        "12. What happens if a Contracting Authority’s eSender’s integration with Find a Tender fails?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00050",
+      "block_type": "p",
+      "text": "Contracting Authorities can access more support via the Communities of Practice on the Government Commercial College.",
+      "ordinal": 50,
+      "heading_path": [
+        "Introduction",
+        "12. What happens if a Contracting Authority’s eSender’s integration with Find a Tender fails?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00051",
+      "block_type": "p",
+      "text": "We encourage Contracting Authorities to sign up.",
+      "ordinal": 51,
+      "heading_path": [
+        "Introduction",
+        "12. What happens if a Contracting Authority’s eSender’s integration with Find a Tender fails?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00052",
+      "block_type": "heading",
+      "text": "For more information",
+      "ordinal": 52,
+      "heading_path": [
+        "Introduction",
+        "12. What happens if a Contracting Authority’s eSender’s integration with Find a Tender fails?",
+        "For more information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00053",
+      "block_type": "p",
+      "text": "Find a Tender service",
+      "ordinal": 53,
+      "heading_path": [
+        "Introduction",
+        "12. What happens if a Contracting Authority’s eSender’s integration with Find a Tender fails?",
+        "For more information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00054",
+      "block_type": "p",
+      "text": "Transforming Public Procurement on GOV.UK",
+      "ordinal": 54,
+      "heading_path": [
+        "Introduction",
+        "12. What happens if a Contracting Authority’s eSender’s integration with Find a Tender fails?",
+        "For more information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00055",
+      "block_type": "p",
+      "text": "Information and advice for suppliers on GOV.UK",
+      "ordinal": 55,
+      "heading_path": [
+        "Introduction",
+        "12. What happens if a Contracting Authority’s eSender’s integration with Find a Tender fails?",
+        "For more information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00056",
+      "block_type": "p",
+      "text": "Procurement Act 2023",
+      "ordinal": 56,
+      "heading_path": [
+        "Introduction",
+        "12. What happens if a Contracting Authority’s eSender’s integration with Find a Tender fails?",
+        "For more information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00057",
+      "block_type": "p",
+      "text": "Procurement Regulation 2024",
+      "ordinal": 57,
+      "heading_path": [
+        "Introduction",
+        "12. What happens if a Contracting Authority’s eSender’s integration with Find a Tender fails?",
+        "For more information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00058",
+      "block_type": "p",
+      "text": "Procurement Act 2023 - A short guide for suppliers (PDF< 360KB)",
+      "ordinal": 58,
+      "heading_path": [
+        "Introduction",
+        "12. What happens if a Contracting Authority’s eSender’s integration with Find a Tender fails?",
+        "For more information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00059",
+      "block_type": "p",
+      "text": "Knowledge Drop videos",
+      "ordinal": 59,
+      "heading_path": [
+        "Introduction",
+        "12. What happens if a Contracting Authority’s eSender’s integration with Find a Tender fails?",
+        "For more information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00060",
+      "block_type": "p",
+      "text": "Factsheets",
+      "ordinal": 60,
+      "heading_path": [
+        "Introduction",
+        "12. What happens if a Contracting Authority’s eSender’s integration with Find a Tender fails?",
+        "For more information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00061",
+      "block_type": "p",
+      "text": "Technical Guidance",
+      "ordinal": 61,
+      "heading_path": [
+        "Introduction",
+        "12. What happens if a Contracting Authority’s eSender’s integration with Find a Tender fails?",
+        "For more information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00062",
+      "block_type": "p",
+      "text": "E-learning manual",
+      "ordinal": 62,
+      "heading_path": [
+        "Introduction",
+        "12. What happens if a Contracting Authority’s eSender’s integration with Find a Tender fails?",
+        "For more information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "Find a Tender, the central digital platform",
+      "href": "https://www.find-tender.service.gov.uk",
+      "block_id": "b00013",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Find a Tender is available",
+      "href": "https://www.find-tender.service.gov.uk",
+      "block_id": "b00015",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Find a Tender",
+      "href": "https://www.find-tender.service.gov.uk",
+      "block_id": "b00017",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Find a Tender",
+      "href": "https://www.find-tender.service.gov.uk",
+      "block_id": "b00018",
+      "ordinal": 3,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Find a Tender",
+      "href": "https://www.find-tender.service.gov.uk",
+      "block_id": "b00019",
+      "ordinal": 4,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Find a Tender",
+      "href": "https://www.find-tender.service.gov.uk",
+      "block_id": "b00021",
+      "ordinal": 5,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Find a Tender",
+      "href": "https://www.find-tender.service.gov.uk",
+      "block_id": "b00024",
+      "ordinal": 6,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Find a Tender",
+      "href": "https://www.find-tender.service.gov.uk",
+      "block_id": "b00026",
+      "ordinal": 7,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "For more information, ‘How to’ videos and guides go to the GOV.UK page Information and Advice for Suppliers.",
+      "href": "https://www.gov.uk/government/collections/information-and-guidance-for-suppliers",
+      "block_id": "b00028",
+      "ordinal": 8,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Find a Tender",
+      "href": "https://www.find-tender.service.gov.uk",
+      "block_id": "b00038",
+      "ordinal": 9,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Find a Tender",
+      "href": "https://www.gov.uk/find-tender",
+      "block_id": "b00040",
+      "ordinal": 10,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "GOV.UK page Information and Advice for Suppliers",
+      "href": "https://www.gov.uk/government/collections/information-and-guidance-for-suppliers",
+      "block_id": "b00042",
+      "ordinal": 11,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Find a Tender",
+      "href": "https://www.find-tender.service.gov.uk",
+      "block_id": "b00044",
+      "ordinal": 12,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Find a Tender",
+      "href": "https://www.find-tender.service.gov.uk",
+      "block_id": "b00044",
+      "ordinal": 13,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Find a Tender",
+      "href": "https://www.find-tender.service.gov.uk",
+      "block_id": "b00047",
+      "ordinal": 14,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Sign up to our newsletter",
+      "href": "https://docs.google.com/forms/d/12QBPAS1T8-Fe1xHAto426O7T-T1WoqolPR29lGnWSws/viewform?edit_requested=true",
+      "block_id": "b00048",
+      "ordinal": 15,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "procurement.reform@cabinetoffice.gov.uk",
+      "href": "mailto:procurement.reform@cabinetoffice.gov.uk",
+      "block_id": "b00049",
+      "ordinal": 16,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "We encourage Contracting Authorities to sign up.",
+      "href": "https://www.govcommercialcollege.co.uk/login/index.php",
+      "block_id": "b00051",
+      "ordinal": 17,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Find a Tender service",
+      "href": "https://www.find-tender.service.gov.uk",
+      "block_id": "b00053",
+      "ordinal": 18,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Transforming Public Procurement on GOV.UK",
+      "href": "https://www.gov.uk/government/collections/transforming-public-procurement",
+      "block_id": "b00054",
+      "ordinal": 19,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Information and advice for suppliers on GOV.UK",
+      "href": "https://www.gov.uk/government/collections/information-and-guidance-for-suppliers",
+      "block_id": "b00055",
+      "ordinal": 20,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement Act 2023",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/contents",
+      "block_id": "b00056",
+      "ordinal": 21,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement Regulation 2024",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/contents",
+      "block_id": "b00057",
+      "ordinal": 22,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement Act 2023 - A short guide for suppliers (PDF< 360KB)",
+      "href": "https://assets.publishing.service.gov.uk/media/6719065417e213a633220979/14.491_CO_GCF_TPP_The_Procurement_Act_2023_Draft_5.0_2___1_.pdf",
+      "block_id": "b00058",
+      "ordinal": 23,
+      "link_type": "ATTACHMENT"
+    },
+    {
+      "text": "Knowledge Drop videos",
+      "href": "https://www.gov.uk/guidance/the-official-transforming-public-procurement-knowledge-drops",
+      "block_id": "b00059",
+      "ordinal": 24,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Factsheets",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-short-guides",
+      "block_id": "b00060",
+      "ordinal": 25,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Technical Guidance",
+      "href": "https://www.gov.uk/government/collections/procurement-act-2023-guidance-documents",
+      "block_id": "b00061",
+      "ordinal": 26,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "E-learning manual",
+      "href": "https://www.gov.uk/government/publications/the-official-procurement-act-2023-e-learning",
+      "block_id": "b00062",
+      "ordinal": 27,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Central Digital Platform - factsheet (HTML)",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-short-guides/central-digital-platform-factsheet-html",
+      "block_id": "__document__",
+      "ordinal": 28,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2022 to 2024 Sunak Conservative government",
+      "href": "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 29,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Government Commercial Function",
+      "href": "https://www.gov.uk/government/organisations/government-commercial-function",
+      "block_id": "__document__",
+      "ordinal": 30,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Procurement Act 2023: short guides",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-short-guides",
+      "block_id": "__document__",
+      "ordinal": 31,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Government Commercial Function",
+      "href": "https://www.gov.uk/government/organisations/government-commercial-function",
+      "block_id": "__document__",
+      "ordinal": 32,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2024",
+      "block_id": "b00044",
+      "start": 89,
+      "end": 105,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2024"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2024",
+      "block_id": "b00047",
+      "start": 89,
+      "end": 105,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2024"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 2024",
+      "block_id": "b00057",
+      "start": 12,
+      "end": 27,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2024"
+      }
+    }
+  ],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/6719065417e213a633220979/14.491_CO_GCF_TPP_The_Procurement_Act_2023_Draft_5.0_2___1_.pdf",
+      "title": "Procurement Act 2023 - A short guide for suppliers (PDF< 360KB)",
+      "discovered_in_block": "b00058"
+    }
+  ],
+  "warnings": []
+}

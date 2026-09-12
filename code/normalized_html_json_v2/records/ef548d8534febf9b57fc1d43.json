@@ -1,0 +1,164 @@
+{
+  "document_id": "ef548d8534febf9b57fc1d43",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "html",
+  "source_path": "corpus_ingest_v2/raw/7d2bb0e02aa281325f13ff7e.html",
+  "input_sha256": "2deca6baa1584ec6bf6e7f3e3196c5ed9df81efb29854077c0efb361c8e99a78",
+  "processed_at": "2026-08-27T02:26:27.380699+00:00",
+  "title": "Do the 2015 Regulations apply?",
+  "canonical_url": "https://www.procurementportal.com/procurements-started-before-24-february-2025/public-contracts-regulations-2015-faqs/do-the-2015-regulations-apply/",
+  "description": null,
+  "publication_date": null,
+  "updated_date": null,
+  "source_metadata": {
+    "html_lang": "en"
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 1,
+      "title": "Do the 2015 Regulations apply?",
+      "ordinal": 0
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Contact Form",
+      "ordinal": 7
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "How we can help you",
+      "ordinal": 8
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "Do the 2015 Regulations apply?",
+      "ordinal": 0,
+      "heading_path": [
+        "Do the 2015 Regulations apply?"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "The 2015 Regulations will apply if:",
+      "ordinal": 1,
+      "heading_path": [
+        "Do the 2015 Regulations apply?"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "li",
+      "text": "a contract is being procured which meets the definition of a \"public service contract\", \"public supply contract\" or \"public works contract\" in the 2015 Regulations; and",
+      "ordinal": 2,
+      "heading_path": [
+        "Do the 2015 Regulations apply?"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "li",
+      "text": "the body procuring it is a \"contracting authority\" for the purposes of the 2015 Regulations; and",
+      "ordinal": 3,
+      "heading_path": [
+        "Do the 2015 Regulations apply?"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "li",
+      "text": "the value of the contract is over the relevant value threshold ; and",
+      "ordinal": 4,
+      "heading_path": [
+        "Do the 2015 Regulations apply?"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "li",
+      "text": "the procurement is commenced before 24 February 2025 (broadly speaking, a procurement will be commenced on the date that the advertisement is sent to Find a Tender Service. If the procurement was commenced on or after 24 February 2025, the Procurement Act 2023 will instead apply).",
+      "ordinal": 5,
+      "heading_path": [
+        "Do the 2015 Regulations apply?"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "p",
+      "text": "Note that if the contract is for one of the \"light touch regime\" services expressly listed at Schedule 3 (for example, health, social, education, cultural, legal and catering services) then the 2015 Regulations will only apply if its value is over a higher threshold of £663,540 inc. VAT. If this threshold is exceeded, an FTS advertisement will be required, and some transparent and non-discriminatory procurement process which treats bidders equally will need to be followed. However this need not be one of the five formal procedures (as would be required if the 2015 Regulations applied in full).",
+      "ordinal": 6,
+      "heading_path": [
+        "Do the 2015 Regulations apply?"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "heading",
+      "text": "Contact Form",
+      "ordinal": 7,
+      "heading_path": [
+        "Do the 2015 Regulations apply?",
+        "Contact Form"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "heading",
+      "text": "How we can help you",
+      "ordinal": 8,
+      "heading_path": [
+        "Do the 2015 Regulations apply?",
+        "How we can help you"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "relevant value threshold",
+      "href": "https://www.procurementportal.com/resources/guidance-documents/thresholds/",
+      "block_id": "b00004",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 3",
+      "block_id": "b00006",
+      "start": 94,
+      "end": 104,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "3"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

@@ -1,0 +1,136 @@
+{
+  "document_id": "65127e9c-1a8d-48cb-bdb8-33d9332181ec",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/6edb766c2f9c32dacad76ce6.json",
+  "input_sha256": "4f40f5b7ad083955d0faeab38b7453203e9533807cedc288a47e09af9ad38253",
+  "processed_at": "2026-08-27T02:26:22.301906+00:00",
+  "title": "Procurement Policy Note 12/15: Availability of Procurement Procedures (Decision Tree)",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-policy-note-1215-availability-of-procurement-procedures-decision-tree",
+  "description": "This procurement policy note provides guidance on the changes to the choices of procurement routes resulting from the Public Contracts Regulations 2015, including a revised Decision Tree. ",
+  "publication_date": "2015-07-30T15:34:00+01:00",
+  "updated_date": "2015-07-30T15:34:00+01:00",
+  "source_metadata": {
+    "content_id": "65127e9c-1a8d-48cb-bdb8-33d9332181ec",
+    "base_path": "/government/publications/procurement-policy-note-1215-availability-of-procurement-procedures-decision-tree",
+    "document_type": "guidance",
+    "schema_name": "publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "Since 2011 there has been a policy about the choice of procurement routes (e.g. Open or Restricted procedures) and the rationale supporting it. This was supported by a Procurement Route Decision Tree, as part of the Lean sourcing process.",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "With the introduction of the Public Contracts Regulations 2015 there are new choices available and the policy, together with the Decision Tree, has been updated to take account of these.",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "This note contains a new Decision Tree and guidance on the choice of procurement procedure. It also sets out the general policy expectations on procurement which continue to apply.",
+      "ordinal": 2,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "Procurement Policy Note 12/15: Availability of Procurement Procedures (Decision Tree)",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-1215-availability-of-procurement-procedures-decision-tree",
+      "block_id": "__document__",
+      "ordinal": 0,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "Procurement policy notes",
+      "href": "https://www.gov.uk/government/collections/procurement-policy-notes",
+      "block_id": "__document__",
+      "ordinal": 1,
+      "link_type": "GOVUK_DOCUMENT_COLLECTIONS"
+    },
+    {
+      "text": "2015 to 2016 Cameron Conservative government",
+      "href": "https://www.gov.uk/government/2015-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Crown Commercial Service",
+      "href": "https://www.gov.uk/government/organisations/crown-commercial-service",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Crown Commercial Service",
+      "href": "https://www.gov.uk/government/organisations/crown-commercial-service",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_ORIGINAL_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Crown Commercial Service",
+      "href": "https://www.gov.uk/government/organisations/crown-commercial-service",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Government spending",
+      "href": "https://www.gov.uk/government/government-spending",
+      "block_id": "__document__",
+      "ordinal": 7,
+      "link_type": "GOVUK_TAXONS"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015",
+      "block_id": "b00001",
+      "start": 46,
+      "end": 62,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015"
+      }
+    }
+  ],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/5a819382e5274a2e87dbe5e3/PPN_12_15.pdf",
+      "title": "Procurement Policy Note: Availability of Procurement Procedures (Decision Tree)",
+      "content_type": "application/pdf",
+      "filename": "PPN_12_15.pdf",
+      "id": "1165597",
+      "logical_role": "ATTACHMENT"
+    }
+  ],
+  "warnings": []
+}

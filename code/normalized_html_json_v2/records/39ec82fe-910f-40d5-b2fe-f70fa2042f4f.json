@@ -1,0 +1,1495 @@
+{
+  "document_id": "39ec82fe-910f-40d5-b2fe-f70fa2042f4f",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/ba3514eef69ea1d70799d9a9.json",
+  "input_sha256": "8d93b160934183db40a92bb936892c8891981dff57a8d9d5af054ae278375852",
+  "processed_at": "2026-08-27T02:26:38.856818+00:00",
+  "title": "Procurement Review Unit",
+  "canonical_url": "https://www.gov.uk/guidance/procurement-review-unit",
+  "description": "The Procurement Review Unit (PRU) has responsibility for oversight of the Procurement Act 2023",
+  "publication_date": "2025-02-24T00:00:00+00:00",
+  "updated_date": "2026-02-22T23:59:03+00:00",
+  "source_metadata": {
+    "content_id": "39ec82fe-910f-40d5-b2fe-f70fa2042f4f",
+    "base_path": "/guidance/procurement-review-unit",
+    "document_type": "detailed_guide",
+    "schema_name": "detailed_guide",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {
+      "explanation": "<div class=\"govspeak\"><p>From April 1st, 2026, the Procurement Review Unit no longer exists as a business unit. The Debarment Review Service (DRS) has transferred to the Government Commercial Agency (GCA). The Procurement Compliance Service (PCS) and the Public Procurement Review Service (PPRS) remain within the Cabinet Office.</p>\n\n<p><a href=\"https://www.gov.uk/guidance/procurement-compliance-oversight\">Procurement Compliance &amp; Oversight</a></p>\n\n<p><a href=\"https://www.gov.uk/guidance/debarment-review-service-drs\">Debarment Review Service (DRS)</a></p>\n</div>",
+      "withdrawn_at": "2026-04-01T08:10:14Z"
+    }
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Overview",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Our Ambition",
+      "ordinal": 8,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Structure of the PRU",
+      "ordinal": 10,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Public Procurement Review Service (PPRS)",
+      "ordinal": 13,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Procurement Compliance Service (PCS)",
+      "ordinal": 17,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Debarment Review Service (DRS)",
+      "ordinal": 21,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "National Security Unit for Procurement",
+      "ordinal": 26,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Before using the Procurement Review Unit service",
+      "ordinal": 29,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Public Procurement Review Service",
+      "ordinal": 36,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Procurement Compliance Service",
+      "ordinal": 42,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Debarment Services",
+      "ordinal": 50,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Debarment List",
+      "ordinal": 59,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Guidance and Support on the Procurement Act 2023",
+      "ordinal": 65,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Complaints Procedure",
+      "ordinal": 67,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Privacy Notice",
+      "ordinal": 72,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Keeping updated with publications on GOV.UK",
+      "ordinal": 74,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "Overview",
+      "ordinal": 0,
+      "heading_path": [
+        "Overview"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "The Procurement Act 2023 was introduced to transform how public procurement is carried out in England, Wales and Northern Ireland. The Act reforms the UK’s public procurement regime, making it quicker, simpler, more transparent and better able to meet the UK’s needs while remaining compliant with our international obligations.",
+      "ordinal": 1,
+      "heading_path": [
+        "Overview"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "The Procurement Review Unit (PRU) has responsibility for oversight of the regime, initially aiming to ensure that the changes introduced by the Procurement Act 2023 are embedded within contracting authorities. The PRU will investigate contracting authorities, to ensure compliance with the Act, and suppliers, for possible addition to the debarment list. Private utilities and some NHS personal care services are, however, out of scope of the PRU.",
+      "ordinal": 2,
+      "heading_path": [
+        "Overview"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "The PRU is designed to deliver the following benefits:",
+      "ordinal": 3,
+      "heading_path": [
+        "Overview"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "li",
+      "text": "Raising standards across public sector procurement through focus on, but not limited to, early identification and rectification of systemic and institutional breaches.",
+      "ordinal": 4,
+      "heading_path": [
+        "Overview"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "li",
+      "text": "The protection of public contracts and public money from suppliers who pose risk by: Central consideration of ‘self-cleaning’ evidence provided by suppliers in order to assess whether the circumstances giving rise to an exclusion ground are continuing or likely to occur again Greater consistency and efficiency of supplier exclusions across the public sector, informed by a central debarment list and published investigation reports.",
+      "ordinal": 5,
+      "heading_path": [
+        "Overview"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "li",
+      "text": "Central consideration of ‘self-cleaning’ evidence provided by suppliers in order to assess whether the circumstances giving rise to an exclusion ground are continuing or likely to occur again",
+      "ordinal": 6,
+      "heading_path": [
+        "Overview"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "li",
+      "text": "Greater consistency and efficiency of supplier exclusions across the public sector, informed by a central debarment list and published investigation reports.",
+      "ordinal": 7,
+      "heading_path": [
+        "Overview"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "heading",
+      "text": "Our Ambition",
+      "ordinal": 8,
+      "heading_path": [
+        "Overview",
+        "Our Ambition"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "Our ambition is to raise standards in public procurement, driving accountability for contracting authorities and suppliers in the UK. Raising Standards - Our Ambition sets out how the Procurement Review Unit supports the Procurement Act 2023.",
+      "ordinal": 9,
+      "heading_path": [
+        "Overview",
+        "Our Ambition"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "heading",
+      "text": "Structure of the PRU",
+      "ordinal": 10,
+      "heading_path": [
+        "Overview",
+        "Structure of the PRU"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "The PRU consists of three services. To make a referral to a service, click on the relevant service referral form or scroll down the page for further information:",
+      "ordinal": 11,
+      "heading_path": [
+        "Overview",
+        "Structure of the PRU"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "li",
+      "text": "Public Procurement Review Service (PPRS)",
+      "ordinal": 12,
+      "heading_path": [
+        "Overview",
+        "Structure of the PRU"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "heading",
+      "text": "Public Procurement Review Service (PPRS)",
+      "ordinal": 13,
+      "heading_path": [
+        "Overview",
+        "Structure of the PRU",
+        "Public Procurement Review Service (PPRS)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "Public Procurement Review Service Scope and Remit ( PDF , 163 KB , 8 pages )",
+      "ordinal": 14,
+      "heading_path": [
+        "Overview",
+        "Structure of the PRU",
+        "Public Procurement Review Service (PPRS)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "Raise a supplier concern with public sector procurement, contract management, or late payment",
+      "ordinal": 15,
+      "heading_path": [
+        "Overview",
+        "Structure of the PRU",
+        "Public Procurement Review Service (PPRS)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "li",
+      "text": "Procurement Compliance Service (PCS)",
+      "ordinal": 16,
+      "heading_path": [
+        "Overview",
+        "Structure of the PRU",
+        "Public Procurement Review Service (PPRS)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "heading",
+      "text": "Procurement Compliance Service (PCS)",
+      "ordinal": 17,
+      "heading_path": [
+        "Overview",
+        "Structure of the PRU",
+        "Procurement Compliance Service (PCS)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "p",
+      "text": "Procurement Compliance Service Scope and Remit ( PDF , 198 KB , 6 pages )",
+      "ordinal": 18,
+      "heading_path": [
+        "Overview",
+        "Structure of the PRU",
+        "Procurement Compliance Service (PCS)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "Raise a concern in regard to a contracting authority’s non-compliance with the Procurement Act 2023",
+      "ordinal": 19,
+      "heading_path": [
+        "Overview",
+        "Structure of the PRU",
+        "Procurement Compliance Service (PCS)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "li",
+      "text": "Debarment Review Service (DRS)",
+      "ordinal": 20,
+      "heading_path": [
+        "Overview",
+        "Structure of the PRU",
+        "Procurement Compliance Service (PCS)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "heading",
+      "text": "Debarment Review Service (DRS)",
+      "ordinal": 21,
+      "heading_path": [
+        "Overview",
+        "Structure of the PRU",
+        "Debarment Review Service (DRS)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "p",
+      "text": "Debarment Review Service Scope and Remit ( PDF , 196 KB , 5 pages )",
+      "ordinal": 22,
+      "heading_path": [
+        "Overview",
+        "Structure of the PRU",
+        "Debarment Review Service (DRS)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "Raise a referral for debarment with the Debarment Review Service",
+      "ordinal": 23,
+      "heading_path": [
+        "Overview",
+        "Structure of the PRU",
+        "Debarment Review Service (DRS)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "Notify the Debarment Review Service that a supplier has been excluded, replaced or removed from a public sector procurement",
+      "ordinal": 24,
+      "heading_path": [
+        "Overview",
+        "Structure of the PRU",
+        "Debarment Review Service (DRS)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "p",
+      "text": "This service is also responsible for managing the debarment list.",
+      "ordinal": 25,
+      "heading_path": [
+        "Overview",
+        "Structure of the PRU",
+        "Debarment Review Service (DRS)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "heading",
+      "text": "National Security Unit for Procurement",
+      "ordinal": 26,
+      "heading_path": [
+        "Overview",
+        "Structure of the PRU",
+        "National Security Unit for Procurement"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "p",
+      "text": "In addition to these services, but separate from the PRU, the National Security Unit for Procurement (NSUP) has responsibility for debarment, exclusion, and termination cases which engage the national security grounds. NSUP is based within the Cabinet Office and works closely with the DRS.",
+      "ordinal": 27,
+      "heading_path": [
+        "Overview",
+        "Structure of the PRU",
+        "National Security Unit for Procurement"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "To read the national security specific exclusions and terminations guidance, make a referral on national security grounds, or generally find out more about NSUP, please refer to the National Security Unit for Procurement Overview Page .",
+      "ordinal": 28,
+      "heading_path": [
+        "Overview",
+        "Structure of the PRU",
+        "National Security Unit for Procurement"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "heading",
+      "text": "Before using the Procurement Review Unit service",
+      "ordinal": 29,
+      "heading_path": [
+        "Overview",
+        "Structure of the PRU",
+        "Before using the Procurement Review Unit service"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "p",
+      "text": "We highly encourage you to review the information outlined in the relevant services’ scope and remit documents prior to engaging the service in question. These documents clarify what you can expect from us, as well as what we require from you for a successful resolution to your inquiry. By submitting a referral form in relation to one of the services provided, you acknowledge and accept the scope and remit of our service.",
+      "ordinal": 30,
+      "heading_path": [
+        "Overview",
+        "Structure of the PRU",
+        "Before using the Procurement Review Unit service"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "p",
+      "text": "We will endeavour to keep details of referrers confidential in investigations and related publications where appropriate, but we cannot guarantee confidentiality in all circumstances including where legal obligations may require disclosure.",
+      "ordinal": 31,
+      "heading_path": [
+        "Overview",
+        "Structure of the PRU",
+        "Before using the Procurement Review Unit service"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "p",
+      "text": "If your concern is in regards to a procurement activity under a devolved procurement arrangement, please see links below:",
+      "ordinal": 32,
+      "heading_path": [
+        "Overview",
+        "Structure of the PRU",
+        "Before using the Procurement Review Unit service"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "p",
+      "text": "Northern Ireland – Construction and Procurement Delivery (CPD)",
+      "ordinal": 33,
+      "heading_path": [
+        "Overview",
+        "Structure of the PRU",
+        "Before using the Procurement Review Unit service"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "p",
+      "text": "Scotland – Single Point of Enquiry",
+      "ordinal": 34,
+      "heading_path": [
+        "Overview",
+        "Structure of the PRU",
+        "Before using the Procurement Review Unit service"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "p",
+      "text": "Wales – Wales Procurement Review Unit - GOV.WALES",
+      "ordinal": 35,
+      "heading_path": [
+        "Overview",
+        "Structure of the PRU",
+        "Before using the Procurement Review Unit service"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "heading",
+      "text": "Public Procurement Review Service",
+      "ordinal": 36,
+      "heading_path": [
+        "Overview",
+        "Public Procurement Review Service"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "p",
+      "text": "The Public Procurement Review Service (PPRS) was introduced in 2011 as one of a range of measures designed to make government easier to work with, particularly for smaller businesses. Both central and wider public sector contracting authorities are in scope of the PPRS.",
+      "ordinal": 37,
+      "heading_path": [
+        "Overview",
+        "Public Procurement Review Service"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "p",
+      "text": "The role of PPRS is to investigate public sector procurement processes in response to a supplier’s (or a supplier’s representative) complaint about a specific procurement. It may make (non-binding) recommendations to contracting authorities with the aim to improve standards, which can lead to live procurements being adjusted or reviewed. The issue must have taken place in the last 2 years and can relate to any stage of the procurement life cycle. The PPRS also handles cases concerning the late payment of valid and undisputed invoices.",
+      "ordinal": 38,
+      "heading_path": [
+        "Overview",
+        "Public Procurement Review Service"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "p",
+      "text": "Generally when carrying out its investigations, the PPRS will not exercise the powers under the Procurement Act 2023, but may do so in cases where the contracting authority being investigated fails to co-operate. The PPRS may also refer a case to the Procurement Compliance Service for a formal investigation under the Procurement Act 2023, for example if it uncovers serious breaches in the course of its investigation. The PPRS will also carry out non-statutory reviews of central government authorities.",
+      "ordinal": 39,
+      "heading_path": [
+        "Overview",
+        "Public Procurement Review Service"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "p",
+      "text": "Please read the scope and remit and complete the form below to raise an issue.",
+      "ordinal": 40,
+      "heading_path": [
+        "Overview",
+        "Public Procurement Review Service"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "p",
+      "text": "In line with the government’s commitment to transparency, the service publishes case resolutions on the Public Procurement Review Service Annual Reports and Public Procurement Review Service Raised Referrals and Case Resolutions pages.",
+      "ordinal": 41,
+      "heading_path": [
+        "Overview",
+        "Public Procurement Review Service"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "heading",
+      "text": "Procurement Compliance Service",
+      "ordinal": 42,
+      "heading_path": [
+        "Overview",
+        "Procurement Compliance Service"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "p",
+      "text": "The Procurement Compliance Service (PCS) focuses on investigating in-scope contracting authorities’ compliance with the requirements of the Procurement Act 2023.",
+      "ordinal": 43,
+      "heading_path": [
+        "Overview",
+        "Procurement Compliance Service"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "p",
+      "text": "The PCS covers both central and wider public sector contracting authorities (such as NHS, local government and universities). The PCS will utilise the statutory powers under Part 10 of the Procurement Act 2023 to carry out investigations into a relevant contracting authority’s compliance with the Act. Where appropriate, the PCS may issue recommendations to that contracting authority as to the action it should take to comply with the Act and/or guidance that applies to contracting authorities more generally.",
+      "ordinal": 44,
+      "heading_path": [
+        "Overview",
+        "Procurement Compliance Service"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "p",
+      "text": "A recommendation issued under the Procurement Act 2023 cannot relate to a contracting authority’s compliance with procurement objectives under section 12, the National Procurement Policy Statement (or the Welsh equivalent ), the duty to consider small and medium enterprises in regulated below-threshold contracts under section 86, nor the exercise of a contracting authority’s discretion in procurements.",
+      "ordinal": 45,
+      "heading_path": [
+        "Overview",
+        "Procurement Compliance Service"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "p",
+      "text": "The PCS may by notice require a contracting authority being investigated to provide relevant documents and giving assistance with an investigation as is reasonable in the circumstances.",
+      "ordinal": 46,
+      "heading_path": [
+        "Overview",
+        "Procurement Compliance Service"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "p",
+      "text": "Findings and recommendations will be captured in a report which may be published on GOV.UK. A contracting authority may also be requested to provide progress reports (which could include an action plan), to demonstrate what actions (if any) the contracting authority has taken as a result of a recommendation. These may also be published.",
+      "ordinal": 47,
+      "heading_path": [
+        "Overview",
+        "Procurement Compliance Service"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "p",
+      "text": "Whilst the Act does not set out any limits or parameters for a PCS investigation, the PCS will focus on, but not be limited to, investigating systemic (actual or potential breaches common across multiple contracting authorities), and institutional (breaches that are regularly being made, or are anticipated to be made, by one particular contracting authority) breaches of the Act.",
+      "ordinal": 48,
+      "heading_path": [
+        "Overview",
+        "Procurement Compliance Service"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "p",
+      "text": "Please read the scope and remit and complete the form below to raise a referral",
+      "ordinal": 49,
+      "heading_path": [
+        "Overview",
+        "Procurement Compliance Service"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00050",
+      "block_type": "heading",
+      "text": "Debarment Services",
+      "ordinal": 50,
+      "heading_path": [
+        "Overview",
+        "Debarment Services"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00051",
+      "block_type": "p",
+      "text": "Debarment aims to protect public money from suppliers who pose a risk to public procurement. There are two teams that work on behalf of the minister to consider if a supplier should be added to the debarment list.",
+      "ordinal": 51,
+      "heading_path": [
+        "Overview",
+        "Debarment Services"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00052",
+      "block_type": "p",
+      "text": "The National Security Unit for Procurement (NSUP) manages debarments on the basis of the two national security exclusion grounds (contained in paragraph 35 of Schedule 6 and paragraph 14 of Schedule 7 of the Act), in addition to national security exclusions and terminations.",
+      "ordinal": 52,
+      "heading_path": [
+        "Overview",
+        "Debarment Services"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00053",
+      "block_type": "p",
+      "text": "The Debarment Review Service (DRS) manages debarment for all other exclusion grounds.",
+      "ordinal": 53,
+      "heading_path": [
+        "Overview",
+        "Debarment Services"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00054",
+      "block_type": "p",
+      "text": "Contracting authorities are mandated to notify the PRU of suppliers they have excluded, replaced or removed from a public sector procurement and the applicable exclusion ground(s).",
+      "ordinal": 54,
+      "heading_path": [
+        "Overview",
+        "Debarment Services"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00055",
+      "block_type": "p",
+      "text": "Before submitting a completed form to refer a supplier, please read the DRS scope and remit:",
+      "ordinal": 55,
+      "heading_path": [
+        "Overview",
+        "Debarment Services"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00056",
+      "block_type": "p",
+      "text": "You may also wish to refer to the Debarment Protocol and Triage Risk Assessment Framework to learn more about our processes:",
+      "ordinal": 56,
+      "heading_path": [
+        "Overview",
+        "Debarment Services"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00057",
+      "block_type": "p",
+      "text": "Debarment Protocol ( PDF , 1.02 MB , 38 pages )",
+      "ordinal": 57,
+      "heading_path": [
+        "Overview",
+        "Debarment Services"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00058",
+      "block_type": "p",
+      "text": "Triage Risk Assessment Framework ( PDF , 61.3 KB , 1 page )",
+      "ordinal": 58,
+      "heading_path": [
+        "Overview",
+        "Debarment Services"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00059",
+      "block_type": "heading",
+      "text": "Debarment List",
+      "ordinal": 59,
+      "heading_path": [
+        "Overview",
+        "Debarment Services",
+        "Debarment List"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00060",
+      "block_type": "p",
+      "text": "Please refer to the Debarment list ( PDF , 109 KB , 1 page ) to check which suppliers have been included on the list, the applicable exclusion ground(s) and the associated investigation report (where available).",
+      "ordinal": 60,
+      "heading_path": [
+        "Overview",
+        "Debarment Services",
+        "Debarment List"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00061",
+      "block_type": "p",
+      "text": "Please note, the debarment regime went live on 24th February 2025, which granted the powers to investigate. Consequently, until such time as a ministerial decision is taken to add a supplier to the debarment list, following investigation, the list will remain blank.",
+      "ordinal": 61,
+      "heading_path": [
+        "Overview",
+        "Debarment Services",
+        "Debarment List"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00062",
+      "block_type": "p",
+      "text": "Submitting referrals for consideration for debarment or to provide notification for excluding a supplier on the basis of an exclusion ground(s) (except national security):",
+      "ordinal": 62,
+      "heading_path": [
+        "Overview",
+        "Debarment Services",
+        "Debarment List"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00063",
+      "block_type": "p",
+      "text": "To raise a referral for consideration for a debarment investigation on the basis of an exclusion ground(s) in Schedules 6 and 7 of the Procurement Act (except on the grounds of national security)",
+      "ordinal": 63,
+      "heading_path": [
+        "Overview",
+        "Debarment Services",
+        "Debarment List"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00064",
+      "block_type": "p",
+      "text": "For Contracting Authorities providing notification that a supplier has been excluded, replaced or removed from a public procurement procedure, [Procurement Act, section 59 - except where section 59(1)(b)(ii) applies]",
+      "ordinal": 64,
+      "heading_path": [
+        "Overview",
+        "Debarment Services",
+        "Debarment List"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00065",
+      "block_type": "heading",
+      "text": "Guidance and Support on the Procurement Act 2023",
+      "ordinal": 65,
+      "heading_path": [
+        "Overview",
+        "Guidance and Support on the Procurement Act 2023"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00066",
+      "block_type": "p",
+      "text": "There is a published suite of guidance documents addressing all aspects of the Procurement Act 2023. View the guidance page .",
+      "ordinal": 66,
+      "heading_path": [
+        "Overview",
+        "Guidance and Support on the Procurement Act 2023"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00067",
+      "block_type": "heading",
+      "text": "Complaints Procedure",
+      "ordinal": 67,
+      "heading_path": [
+        "Overview",
+        "Complaints Procedure"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00068",
+      "block_type": "p",
+      "text": "The quality of services we provide within the PRU is a key indicator of our effectiveness. Learning from feedback and complaints is essential for continuously improving and enhancing our operations.",
+      "ordinal": 68,
+      "heading_path": [
+        "Overview",
+        "Complaints Procedure"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00069",
+      "block_type": "p",
+      "text": "The PRU has a two-stage Complaints Procedure ( PDF , 133 KB , 5 pages ) when dealing with any complaints we receive concerning the services we offer.",
+      "ordinal": 69,
+      "heading_path": [
+        "Overview",
+        "Complaints Procedure"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00070",
+      "block_type": "p",
+      "text": "If you would like to raise a service complaint about the Procurement Review Unit please complete this form (stage 1 complaints only) Raise a concern about the service you have received from the Procurement Review Unit team",
+      "ordinal": 70,
+      "heading_path": [
+        "Overview",
+        "Complaints Procedure"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00071",
+      "block_type": "p",
+      "text": "For stage 2 complaints please refer to the instruction contact the Cabinet Office",
+      "ordinal": 71,
+      "heading_path": [
+        "Overview",
+        "Complaints Procedure"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00072",
+      "block_type": "heading",
+      "text": "Privacy Notice",
+      "ordinal": 72,
+      "heading_path": [
+        "Overview",
+        "Privacy Notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00073",
+      "block_type": "p",
+      "text": "For each of the service’s ‘Privacy notice’ refer to the team’s scope and remit document.",
+      "ordinal": 73,
+      "heading_path": [
+        "Overview",
+        "Privacy Notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00074",
+      "block_type": "heading",
+      "text": "Keeping updated with publications on GOV.UK",
+      "ordinal": 74,
+      "heading_path": [
+        "Overview",
+        "Keeping updated with publications on GOV.UK"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00075",
+      "block_type": "p",
+      "text": "Signing up to GOV.UK Subscribe will notify you of any updates made on GOV.UK including the PRU publications Subscribe - GOV.UK",
+      "ordinal": 75,
+      "heading_path": [
+        "Overview",
+        "Keeping updated with publications on GOV.UK"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "Raising Standards - Our Ambition",
+      "href": "https://www.gov.uk/government/publications/raising-standards-our-ambition",
+      "block_id": "b00009",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Public Procurement Review Service (PPRS)",
+      "href": "https://www.gov.uk/guidance/procurement-review-unit#public-procurement-review-service",
+      "block_id": "b00012",
+      "ordinal": 1,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Public Procurement Review Service (PPRS)",
+      "href": "https://www.gov.uk/guidance/procurement-review-unit#public-procurement-review-service",
+      "block_id": "b00013",
+      "ordinal": 2,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Public Procurement Review Service Scope and Remit",
+      "href": "https://assets.publishing.service.gov.uk/media/688780b82f4f3f3c34bbeca3/Public_Procurement_Review_Service_-_Scope_and_Remit__1_.pdf",
+      "block_id": "b00014",
+      "ordinal": 3,
+      "link_type": "ATTACHMENT"
+    },
+    {
+      "text": "Raise a supplier concern with public sector procurement, contract management, or late payment",
+      "href": "https://submit.forms.service.gov.uk/form/314/raise-a-concern-with-public-procurement-review-service/1293",
+      "block_id": "b00015",
+      "ordinal": 4,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement Compliance Service (PCS)",
+      "href": "https://www.gov.uk/guidance/procurement-review-unit#procurement-compliance-service",
+      "block_id": "b00016",
+      "ordinal": 5,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Procurement Compliance Service (PCS)",
+      "href": "https://www.gov.uk/guidance/procurement-review-unit#procurement-compliance-service",
+      "block_id": "b00017",
+      "ordinal": 6,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Procurement Compliance Service Scope and Remit",
+      "href": "https://assets.publishing.service.gov.uk/media/68b8379411b4ded2da19fd86/Procurement_Compliance_Service_-_Scope_and_Remit_3_Sep.pdf",
+      "block_id": "b00018",
+      "ordinal": 7,
+      "link_type": "ATTACHMENT"
+    },
+    {
+      "text": "Raise a concern in regard to a contracting authority’s non-compliance with the Procurement Act 2023",
+      "href": "https://submit.forms.service.gov.uk/form/264311/raise-a-concern-in-regard-to-a-contracting-authority-s-non-compliance-with-the-procurement-act-2023",
+      "block_id": "b00019",
+      "ordinal": 8,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Debarment Review Service (DRS)",
+      "href": "https://www.gov.uk/guidance/procurement-review-unit#debarment-services",
+      "block_id": "b00020",
+      "ordinal": 9,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Debarment Review Service (DRS)",
+      "href": "https://www.gov.uk/guidance/procurement-review-unit#debarment-services",
+      "block_id": "b00021",
+      "ordinal": 10,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Debarment Review Service Scope and Remit",
+      "href": "https://assets.publishing.service.gov.uk/media/681cc0d6155568d3da1d2aa4/Debarment_Review_Service_-_Scope_and_Remit.pdf",
+      "block_id": "b00022",
+      "ordinal": 11,
+      "link_type": "ATTACHMENT"
+    },
+    {
+      "text": "Raise a referral for debarment with the Debarment Review Service",
+      "href": "https://submit.forms.service.gov.uk/form/2912/debarment-referral-form",
+      "block_id": "b00023",
+      "ordinal": 12,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Notify the Debarment Review Service that a supplier has been excluded, replaced or removed from a public sector procurement",
+      "href": "https://submit.forms.service.gov.uk/form/4118/exclusion-referral-form",
+      "block_id": "b00024",
+      "ordinal": 13,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "National Security Unit for Procurement Overview Page",
+      "href": "https://www.gov.uk/guidance/the-national-security-unit-for-procurement",
+      "block_id": "b00028",
+      "ordinal": 14,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Construction and Procurement Delivery (CPD)",
+      "href": "https://www.finance-ni.gov.uk/topics/services-provided-cpd",
+      "block_id": "b00033",
+      "ordinal": 15,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Single Point of Enquiry",
+      "href": "https://www.gov.scot/publications/single-point-of-enquiry/",
+      "block_id": "b00034",
+      "ordinal": 16,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Wales Procurement Review Unit - GOV.WALES",
+      "href": "https://www.gov.wales/wales-procurement-review-unit",
+      "block_id": "b00035",
+      "ordinal": 17,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Public Procurement Review Service Annual Reports",
+      "href": "https://www.gov.uk/government/publications/mystery-shopper-progress-reports",
+      "block_id": "b00041",
+      "ordinal": 18,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Public Procurement Review Service Raised Referrals and Case Resolutions",
+      "href": "https://www.gov.uk/government/publications/mystery-shopper-results-2018",
+      "block_id": "b00041",
+      "ordinal": 19,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "National Procurement Policy Statement",
+      "href": "https://www.gov.uk/government/publications/national-procurement-policy-statement",
+      "block_id": "b00045",
+      "ordinal": 20,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Welsh equivalent",
+      "href": "https://www.gov.wales/wales-procurement-policy-statement",
+      "block_id": "b00045",
+      "ordinal": 21,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 6",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/6",
+      "block_id": "b00052",
+      "ordinal": 22,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 7",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/7",
+      "block_id": "b00052",
+      "ordinal": 23,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Debarment Protocol",
+      "href": "https://assets.publishing.service.gov.uk/media/69a9b63f1f59a04b996e783f/Debarment_Protocol_v2.0.pdf",
+      "block_id": "b00057",
+      "ordinal": 24,
+      "link_type": "ATTACHMENT"
+    },
+    {
+      "text": "Triage Risk Assessment Framework",
+      "href": "https://assets.publishing.service.gov.uk/media/69a9b5ae5a86fe94496e7830/Triage_Risk_Assessment_Framework.pdf",
+      "block_id": "b00058",
+      "ordinal": 25,
+      "link_type": "ATTACHMENT"
+    },
+    {
+      "text": "Debarment list",
+      "href": "https://assets.publishing.service.gov.uk/media/68595a94eaa6f6419fade63b/Debarment_List.pdf",
+      "block_id": "b00060",
+      "ordinal": 26,
+      "link_type": "ATTACHMENT"
+    },
+    {
+      "text": "View the guidance page",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents",
+      "block_id": "b00066",
+      "ordinal": 27,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Complaints Procedure",
+      "href": "https://assets.publishing.service.gov.uk/media/681cc1799ef97b58cce3e5f3/Procurement_Review_Unit_Complaints_Procedure_.pdf",
+      "block_id": "b00069",
+      "ordinal": 28,
+      "link_type": "ATTACHMENT"
+    },
+    {
+      "text": "Raise a concern about the service you have received from the Procurement Review Unit team",
+      "href": "https://submit.forms.service.gov.uk/form/4328/raise-a-concern-about-the-service-you-have-received-from-the-procurement-review-unit-team",
+      "block_id": "b00070",
+      "ordinal": 29,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "contact the Cabinet Office",
+      "href": "https://www.gov.uk/guidance/contact-the-cabinet-office",
+      "block_id": "b00071",
+      "ordinal": 30,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Subscribe - GOV.UK",
+      "href": "https://insidegovuk.blog.gov.uk/subscribe/",
+      "block_id": "b00075",
+      "ordinal": 31,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement Review Unit",
+      "href": "https://www.gov.uk/guidance/procurement-review-unit",
+      "block_id": "__document__",
+      "ordinal": 32,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2024 to 2026 Starmer Labour government",
+      "href": "https://www.gov.uk/government/2024-starmer-labour-government",
+      "block_id": "__document__",
+      "ordinal": 33,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 34,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 35,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Government",
+      "href": "https://www.gov.uk/government/all",
+      "block_id": "__document__",
+      "ordinal": 36,
+      "link_type": "GOVUK_TAXONS"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 12",
+      "block_id": "b00045",
+      "start": 143,
+      "end": 153,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "12"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 86",
+      "block_id": "b00045",
+      "start": 320,
+      "end": 330,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "86"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 6",
+      "block_id": "b00052",
+      "start": 159,
+      "end": 169,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "6"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 7",
+      "block_id": "b00052",
+      "start": 190,
+      "end": 200,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "7"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 35",
+      "block_id": "b00052",
+      "start": 143,
+      "end": 155,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "35"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 14",
+      "block_id": "b00052",
+      "start": 174,
+      "end": 186,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "14"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 59",
+      "block_id": "b00064",
+      "start": 161,
+      "end": 171,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "59"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 59(1)(b)(ii)",
+      "block_id": "b00064",
+      "start": 187,
+      "end": 207,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "59",
+        "tail": "(1)(b)(ii)"
+      }
+    }
+  ],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/688780b82f4f3f3c34bbeca3/Public_Procurement_Review_Service_-_Scope_and_Remit__1_.pdf",
+      "title": "Public Procurement Review Service Scope and Remit",
+      "content_type": "application/pdf",
+      "filename": "Public_Procurement_Review_Service_-_Scope_and_Remit__1_.pdf",
+      "id": "9197075",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/68b8379411b4ded2da19fd86/Procurement_Compliance_Service_-_Scope_and_Remit_3_Sep.pdf",
+      "title": "Procurement Compliance Service Scope and Remit",
+      "content_type": "application/pdf",
+      "filename": "Procurement_Compliance_Service_-_Scope_and_Remit_3_Sep.pdf",
+      "id": "9197076",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/681cc0d6155568d3da1d2aa4/Debarment_Review_Service_-_Scope_and_Remit.pdf",
+      "title": " Debarment Review Service Scope and Remit",
+      "content_type": "application/pdf",
+      "filename": "Debarment_Review_Service_-_Scope_and_Remit.pdf",
+      "id": "9197072",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/69a9b63f1f59a04b996e783f/Debarment_Protocol_v2.0.pdf",
+      "title": " Debarment Protocol",
+      "content_type": "application/pdf",
+      "filename": "Debarment_Protocol_v2.0.pdf",
+      "id": "9197078",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/69a9b5ae5a86fe94496e7830/Triage_Risk_Assessment_Framework.pdf",
+      "title": "Triage Risk Assessment Framework ",
+      "content_type": "application/pdf",
+      "filename": "Triage_Risk_Assessment_Framework.pdf",
+      "id": "9197077",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/68595a94eaa6f6419fade63b/Debarment_List.pdf",
+      "title": "Debarment list",
+      "content_type": "application/pdf",
+      "filename": "Debarment_List.pdf",
+      "id": "9197071",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/681cc1799ef97b58cce3e5f3/Procurement_Review_Unit_Complaints_Procedure_.pdf",
+      "title": "Complaints Procedure",
+      "content_type": "application/pdf",
+      "filename": "Procurement_Review_Unit_Complaints_Procedure_.pdf",
+      "id": "9197073",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/67ae0c2ee270ceae39f9e190/Procurement_Compliance_Service_Scope_and_Remit.pdf",
+      "title": "Procurement Compliance Service Scope and Remit",
+      "content_type": "application/pdf",
+      "filename": "Procurement_Compliance_Service_Scope_and_Remit.pdf",
+      "id": "9197074",
+      "logical_role": "ATTACHMENT"
+    }
+  ],
+  "warnings": []
+}

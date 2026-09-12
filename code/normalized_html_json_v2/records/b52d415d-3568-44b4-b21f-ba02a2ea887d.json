@@ -1,0 +1,1980 @@
+{
+  "document_id": "b52d415d-3568-44b4-b21f-ba02a2ea887d",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/327a69efbcc55a187d49bc84.json",
+  "input_sha256": "86adb6f399b11a3cdf6d01dba76acd80fbcec253d22eb2f065c609d5f7329e33",
+  "processed_at": "2026-08-27T02:26:10.771387+00:00",
+  "title": "PPN 01/22: Contracts with suppliers from Russia and Belarus",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-policy-note-0122-contracts-with-suppliers-from-russia-and-belarus/ppn-0122-contracts-with-suppliers-from-russia-and-belarus--2",
+  "description": null,
+  "publication_date": "2022-08-10T10:54:46+01:00",
+  "updated_date": "2022-08-10T10:54:46+01:00",
+  "source_metadata": {
+    "content_id": "b52d415d-3568-44b4-b21f-ba02a2ea887d",
+    "base_path": "/government/publications/procurement-policy-note-0122-contracts-with-suppliers-from-russia-and-belarus/ppn-0122-contracts-with-suppliers-from-russia-and-belarus--2",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "1. Issue",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "2. Dissemination and Scope",
+      "ordinal": 2,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "3. Timing",
+      "ordinal": 5,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "4. Action",
+      "ordinal": 7,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "5. Background",
+      "ordinal": 14,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "6. Contact",
+      "ordinal": 33,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "7. Guidance on Contracts with Suppliers from Russia and Belarus",
+      "ordinal": 35,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "7.1 Introduction",
+      "ordinal": 36,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "8. Central Government Guidance",
+      "ordinal": 40,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "8.1 Identifying Contracts",
+      "ordinal": 41,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "8.2 Assessing Risks",
+      "ordinal": 46,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "8.3 Taking Action to Terminate",
+      "ordinal": 70,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "8.4 Managing Costs",
+      "ordinal": 72,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "8.5 Reporting and Record Keeping",
+      "ordinal": 74,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "9. Best Value Authorities and Parish Councils Guidance",
+      "ordinal": 76,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "9.1 New Burdens",
+      "ordinal": 77,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "9.2 Identifying Contracts",
+      "ordinal": 79,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "9.3 Assessing Risks",
+      "ordinal": 84,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "9.4 Taking Action to Terminate",
+      "ordinal": 104,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "9.5 Managing Costs",
+      "ordinal": 106,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "9.6 Reporting and Record Keeping",
+      "ordinal": 108,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "1. Issue",
+      "ordinal": 0,
+      "heading_path": [
+        "1. Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "The invasion of Ukraine by Russia has been met with unprecedented global condemnation. The UK Government has introduced financial and investment sanctions aimed at encouraging Russia to cease actions which destabilise Ukraine. Contracting authorities should consider how they can further cut ties with companies backed by the states of Russia and Belarus.",
+      "ordinal": 1,
+      "heading_path": [
+        "1. Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "heading",
+      "text": "2. Dissemination and Scope",
+      "ordinal": 2,
+      "heading_path": [
+        "1. Issue",
+        "2. Dissemination and Scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "This PPN applies to all Central Government Departments, their Executive Agencies and Non Departmental Public Bodies, and to best value authorities within the meaning of section 1 of the Local Government Act 1999 (c. 27) and parish councils in England. These organisations are referred to in this PPN as ‘In-Scope Organisations’. Other public sector contracting authorities should consider applying the approach set out in this PPN. Please circulate this PPN within your organisation, drawing it to the attention of those with a commercial and procurement role.",
+      "ordinal": 3,
+      "heading_path": [
+        "1. Issue",
+        "2. Dissemination and Scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "In-Scope Organisations should take action to apply this PPN to all contracts (i.e. above and below the thresholds set out in the Public Contracts Regulations 2015) where it is relevant and proportionate to do so.",
+      "ordinal": 4,
+      "heading_path": [
+        "1. Issue",
+        "2. Dissemination and Scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "heading",
+      "text": "3. Timing",
+      "ordinal": 5,
+      "heading_path": [
+        "1. Issue",
+        "3. Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "p",
+      "text": "In-Scope Organisations should apply the provisions of this PPN with immediate effect.",
+      "ordinal": 6,
+      "heading_path": [
+        "1. Issue",
+        "3. Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "heading",
+      "text": "4. Action",
+      "ordinal": 7,
+      "heading_path": [
+        "1. Issue",
+        "4. Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "In-Scope Organisations should:",
+      "ordinal": 8,
+      "heading_path": [
+        "1. Issue",
+        "4. Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "li",
+      "text": "Review their contract portfolio and identify any contracts where the prime contractor is a Russian or Belarusian supplier.",
+      "ordinal": 9,
+      "heading_path": [
+        "1. Issue",
+        "4. Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "li",
+      "text": "Where a Russian or Belarusian prime contractor is identified, they should consider terminating that contract in accordance with the terms of the contract i.e. following a legally compliant process.",
+      "ordinal": 10,
+      "heading_path": [
+        "1. Issue",
+        "4. Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "li",
+      "text": "Only proceed to terminate a contract if an alternative supplier can be sourced in line with value for money, affordability and with minimal disruption to public services.",
+      "ordinal": 11,
+      "heading_path": [
+        "1. Issue",
+        "4. Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "Any decisions to terminate a contract should be made on a case-by-case basis and within existing legal restrictions, financial allocations and budgets. Where volume-based contracts exist, a reduction in volume to zero could achieve the same effect if termination is not feasible. This does not alleviate Accounting Officers (or their equivalents in other parts of the public sector) from their usual duties to ensure that spending is regular, proper and value for money or for other contracting authorities to conduct appropriate and proportionate due diligence and to act in accordance with their contractual obligations.",
+      "ordinal": 12,
+      "heading_path": [
+        "1. Issue",
+        "4. Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "Central Government organisations should note that HM Treasury consent must first be obtained for any transactions which set precedents, are novel, contentious or could cause repercussions elsewhere in the public sector, in line with Managing Public Money.",
+      "ordinal": 13,
+      "heading_path": [
+        "1. Issue",
+        "4. Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "heading",
+      "text": "5. Background",
+      "ordinal": 14,
+      "heading_path": [
+        "1. Issue",
+        "5. Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "In-Scope Organisations should take a proportionate and risk-based approach to reviewing their contract portfolio to identify Russian and Belarusian prime contractors. The focus should be on major contracts and those which could have the most impact and influence on the Russian or Belarusian regimes.",
+      "ordinal": 15,
+      "heading_path": [
+        "1. Issue",
+        "5. Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "For the purposes of considering the termination of existing contracts, a ‘Russian or Belarusian prime contractor’ means:",
+      "ordinal": 16,
+      "heading_path": [
+        "1. Issue",
+        "5. Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "(i) an entity constituted or organised under the law of Russia or Belarus; or",
+      "ordinal": 17,
+      "heading_path": [
+        "1. Issue",
+        "5. Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "p",
+      "text": "(ii) an entity registered in the UK or with substantive business operations in the UK, or another country but controlled by an entity based in Russia or Belarus e.g. a parent company or by ‘Persons of Significant Control’ (or beneficial owner is defined as holding i) more than 25% of shares in the company; and/or ii) more than 25% of voting rights in the company; and/or the right to appoint or remove the majority of the board of directors).",
+      "ordinal": 18,
+      "heading_path": [
+        "1. Issue",
+        "5. Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "In-Scope Organisations should only consider terminating a contract if:",
+      "ordinal": 19,
+      "heading_path": [
+        "1. Issue",
+        "5. Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "li",
+      "text": "There are suitable, commercially acceptable termination provisions contained in the contract.",
+      "ordinal": 20,
+      "heading_path": [
+        "1. Issue",
+        "5. Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "li",
+      "text": "An assessment has been made as to the criticality of the contract and the availability and affordability of alternative providers.",
+      "ordinal": 21,
+      "heading_path": [
+        "1. Issue",
+        "5. Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "li",
+      "text": "An assessment has been made of the financial and other implications of termination and these have been mitigated.",
+      "ordinal": 22,
+      "heading_path": [
+        "1. Issue",
+        "5. Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "In-Scope Organisations should ensure these assessments are documented and any recommendations approved by the appropriate senior commercial or procurement leader in their organisation. In central government organisations, this should be the Commercial Director. Accounting Officers should approve final decisions to terminate any contracts under this PPN, ensuring appropriate HM Treasury consent has first been obtained.",
+      "ordinal": 23,
+      "heading_path": [
+        "1. Issue",
+        "5. Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "It is important that the terms of the contract and the implications of termination are correctly understood. When taking action to terminate, the process set out in the contract should be followed precisely to ensure the termination is valid. Contracting authorities will need to take their own legal advice about what is possible within the terms of the individual contracts to which they are party.",
+      "ordinal": 24,
+      "heading_path": [
+        "1. Issue",
+        "5. Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "p",
+      "text": "The public sector’s exposure to Russian and Belarusian suppliers is primarily limited to the energy markets, where there have been significant price fluctuations and the market is considered volatile. You must seek advice from an energy expert and/or a relevant public sector buying organisation before taking action to terminate an existing energy supply contract to ensure an alternative source of supply is available and affordable.",
+      "ordinal": 25,
+      "heading_path": [
+        "1. Issue",
+        "5. Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "p",
+      "text": "Regarding new procurements, you could decline to consider (or otherwise exclude from participating in the procurement) bids from suppliers who are constituted or organised under the law of Russia or Belarus, or whose ‘Persons of Significant Control’ information states Russia or Belarus as the place of residency, unless the supplier (or any member of their supply chain they rely on to deliver the contract):",
+      "ordinal": 26,
+      "heading_path": [
+        "1. Issue",
+        "5. Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "li",
+      "text": "is registered in the UK or in a country the UK has a relevant international agreement with reciprocal rights of access to public procurement; and/or",
+      "ordinal": 27,
+      "heading_path": [
+        "1. Issue",
+        "5. Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "li",
+      "text": "has significant business operations in the UK or in a country the UK has a relevant international agreement with reciprocal rights of access to public procurement.",
+      "ordinal": 28,
+      "heading_path": [
+        "1. Issue",
+        "5. Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "p",
+      "text": "If either of these criteria apply, the supplier should not be automatically excluded from a new procurement, as the non-discrimination, equal treatment and remedy provisions contained within the Public Contracts Regulations 2015 apply. Where the supplier has a more complex group structure involving parent or group companies based or operating in the UK, or in a country the UK has a relevant international agreement with reciprocal rights of access to procurement, you should consider the specific circumstances and take legal advice where appropriate.",
+      "ordinal": 29,
+      "heading_path": [
+        "1. Issue",
+        "5. Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "p",
+      "text": "Substantive business operations means having a registered office, factory or other permanent base in the relevant country from which meaningful business operations are being conducted. In-Scope Organisations should conduct due diligence to check supplier details with Companies House and other open information sources, or seek verification directly from the supplier.",
+      "ordinal": 30,
+      "heading_path": [
+        "1. Issue",
+        "5. Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "p",
+      "text": "The Department for Levelling Up, Housing and Communities has modified the effect of the Local Government Act 1988 through secondary legislation for specified bodies. The Local Government (Exclusion of Non-commercial Considerations) (England) Order 2022 [footnote 1] , came into force on 1 July 2022, to allow best value authorities [footnote 2] and parish councils to apply this PPN.",
+      "ordinal": 31,
+      "heading_path": [
+        "1. Issue",
+        "5. Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "p",
+      "text": "The Local Government (Exclusion of Non-Commercial Considerations) (England) Order 2022 disapplies the prohibition in section 17(5)(e) of the Local Government Act 1988 in respect of Russia and Belarus. This means that the fact a supplier is Russian or Belarusian, which was previously a non-commercial consideration under the Act, can now be taken into account by best value authorities and parish councils in England, when awarding or terminating contacts in scope of this PPN. Best value authorities and parish councils in England are still bound by their obligations under the Public Contracts Regulations 2015 and should only terminate contracts or exclude suppliers where legally able to do so and in accordance with commercial considerations, as set out in this PPN.",
+      "ordinal": 32,
+      "heading_path": [
+        "1. Issue",
+        "5. Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "heading",
+      "text": "6. Contact",
+      "ordinal": 33,
+      "heading_path": [
+        "1. Issue",
+        "6. Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "p",
+      "text": "Enquiries about this PPN should be directed to the Crown Commercial Service Helpdesk on 0345 410 2222 or info@crowncommercial.gov.uk . Local authorities and parish councils should contact the Department for Levelling Up, Housing and Communities directly on LGCommercial@levellingup.gov.uk",
+      "ordinal": 34,
+      "heading_path": [
+        "1. Issue",
+        "6. Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "heading",
+      "text": "7. Guidance on Contracts with Suppliers from Russia and Belarus",
+      "ordinal": 35,
+      "heading_path": [
+        "1. Issue",
+        "7. Guidance on Contracts with Suppliers from Russia and Belarus"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "heading",
+      "text": "7.1 Introduction",
+      "ordinal": 36,
+      "heading_path": [
+        "1. Issue",
+        "7. Guidance on Contracts with Suppliers from Russia and Belarus",
+        "7.1 Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "p",
+      "text": "The invasion of Ukraine by Russia has been met with unprecedented global condemnation. The UK Government has introduced financial and investment sanctions aimed at encouraging Russia to cease actions which destabilise Ukraine.",
+      "ordinal": 37,
+      "heading_path": [
+        "1. Issue",
+        "7. Guidance on Contracts with Suppliers from Russia and Belarus",
+        "7.1 Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "p",
+      "text": "The Government is supportive of public bodies seeking to divest from Russia and contracting authorities should consider how they can further cut ties with companies backed by, or linked to, the Russian and Belarusian state regimes, while minimising the impact to taxpayers and the delivery of public services. This includes identifying contracts with Russian or Belarusian prime contractors and to consider, where it is lawful to do so and an appropriate legal mechanism is available, terminating the contract, whilst ensuring an alternative supplier can be sourced in line with assessing risks and value for money.",
+      "ordinal": 38,
+      "heading_path": [
+        "1. Issue",
+        "7. Guidance on Contracts with Suppliers from Russia and Belarus",
+        "7.1 Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "p",
+      "text": "In all cases you must be proportionate and take a risk-based approach. Contracts may be complex and take a period of time to exit from; you should ensure you prioritise and take action on the areas of the highest impact. The reasons for terminating a contract should be documented and transparent; the final decision to terminate a contract rests with the contracting authority with responsibility for the contract.",
+      "ordinal": 39,
+      "heading_path": [
+        "1. Issue",
+        "7. Guidance on Contracts with Suppliers from Russia and Belarus",
+        "7.1 Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "heading",
+      "text": "8. Central Government Guidance",
+      "ordinal": 40,
+      "heading_path": [
+        "1. Issue",
+        "8. Central Government Guidance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "heading",
+      "text": "8.1 Identifying Contracts",
+      "ordinal": 41,
+      "heading_path": [
+        "1. Issue",
+        "8. Central Government Guidance",
+        "8.1 Identifying Contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "p",
+      "text": "For the purposes of considering the termination of existing contracts a ‘Russian or Belarusian supplier’ means:",
+      "ordinal": 42,
+      "heading_path": [
+        "1. Issue",
+        "8. Central Government Guidance",
+        "8.1 Identifying Contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "p",
+      "text": "(ii) an entity registered in the UK or with substantive business operations in the UK, or another country but controlled by an entity based in Russia or Belarus (e.g. a parent company or by ‘Persons of Significant Control’)",
+      "ordinal": 43,
+      "heading_path": [
+        "1. Issue",
+        "8. Central Government Guidance",
+        "8.1 Identifying Contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "p",
+      "text": "This information should normally have been captured as part of the selection stage of the procurement process. You may need to undertake further verification of this information however and should use as many sources available to you to do so. To establish Russian/Belarusian ownership, you may also want to consider if the Persons of Significant Control[1] are resident in Russia or Belarus.",
+      "ordinal": 44,
+      "heading_path": [
+        "1. Issue",
+        "8. Central Government Guidance",
+        "8.1 Identifying Contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "p",
+      "text": "You may also want to consider whether there are Russian/Belarusian subcontractors (being relied on to deliver the contract) in your supply chains, providing you take a proportionate, risk-based approach. There is no requirement to ask prime contractors to consider terminating subcontracts with Russian/Belarusian subcontractors at this stage or from undertaking full supply chain mapping.",
+      "ordinal": 45,
+      "heading_path": [
+        "1. Issue",
+        "8. Central Government Guidance",
+        "8.1 Identifying Contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "heading",
+      "text": "8.2 Assessing Risks",
+      "ordinal": 46,
+      "heading_path": [
+        "1. Issue",
+        "8. Central Government Guidance",
+        "8.2 Assessing Risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "p",
+      "text": "Once a contract has been identified you should take a systematic approach to assessing the risks to determine whether it is appropriate to terminate the contract. A recommended approach is as follows:",
+      "ordinal": 47,
+      "heading_path": [
+        "1. Issue",
+        "8. Central Government Guidance",
+        "8.2 Assessing Risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "p",
+      "text": "1 - Review the termination provisions within each contract, highlighting those that might allow for termination where this is not linked to poor performance, together with any early termination costs. You should seek legal advice in confirming those clauses within your contracts that are relevant.",
+      "ordinal": 48,
+      "heading_path": [
+        "1. Issue",
+        "8. Central Government Guidance",
+        "8.2 Assessing Risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "p",
+      "text": "2 - Confirm there are no Intellectual Property (IP) issues e.g. if the prime contractor owns the IP and potential compensation to obtain a licence to use, if required, under a replacement contract.",
+      "ordinal": 49,
+      "heading_path": [
+        "1. Issue",
+        "8. Central Government Guidance",
+        "8.2 Assessing Risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00050",
+      "block_type": "p",
+      "text": "3 - You may also need to consider whether there are resilience issues related to Russian/Belarusian subcontractors in the supply chain to be managed with the prime contractor. If these cannot be resolved, it may be possible to substitute subcontractors but only where this follows a legally compliant process, and an alternative supplier can be sourced in line with value for money, affordability and with minimal disruption to public services including impact on energy markets.",
+      "ordinal": 50,
+      "heading_path": [
+        "1. Issue",
+        "8. Central Government Guidance",
+        "8.2 Assessing Risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00051",
+      "block_type": "p",
+      "text": "4 - Establish whether an alternative source of supply is required and whether those sources are available. In doing so you must:",
+      "ordinal": 51,
+      "heading_path": [
+        "1. Issue",
+        "8. Central Government Guidance",
+        "8.2 Assessing Risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00052",
+      "block_type": "p",
+      "text": "i. estimate the timescales associated with securing an alternative supply as this might affect the notice period for termination;",
+      "ordinal": 52,
+      "heading_path": [
+        "1. Issue",
+        "8. Central Government Guidance",
+        "8.2 Assessing Risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00053",
+      "block_type": "p",
+      "text": "ii. consider the cost and complexity of switching suppliers and the time required for the new supplier to mobilise to deliver;",
+      "ordinal": 53,
+      "heading_path": [
+        "1. Issue",
+        "8. Central Government Guidance",
+        "8.2 Assessing Risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00054",
+      "block_type": "p",
+      "text": "iii. satisfy yourself that the alternative supply does not result in any form of payment to Russian/Belarusian suppliers;",
+      "ordinal": 54,
+      "heading_path": [
+        "1. Issue",
+        "8. Central Government Guidance",
+        "8.2 Assessing Risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00055",
+      "block_type": "p",
+      "text": "iv. consider whether Russian/Belarusian subcontractors can be substituted for alternative suppliers, without disrupting supply or the contract;",
+      "ordinal": 55,
+      "heading_path": [
+        "1. Issue",
+        "8. Central Government Guidance",
+        "8.2 Assessing Risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00056",
+      "block_type": "p",
+      "text": "v. where a decision is made to terminate a contract, ensure that the decision will not negatively impact, or put at risk, any other contracts with the same supplier which are not being terminated.",
+      "ordinal": 56,
+      "heading_path": [
+        "1. Issue",
+        "8. Central Government Guidance",
+        "8.2 Assessing Risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00057",
+      "block_type": "p",
+      "text": "5 - You should consider both the business criticality of the contract (including the impact on services to the public where this is relevant) and the associated costs.",
+      "ordinal": 57,
+      "heading_path": [
+        "1. Issue",
+        "8. Central Government Guidance",
+        "8.2 Assessing Risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00058",
+      "block_type": "p",
+      "text": "6 - An example methodology for assessing business criticality is set out below:",
+      "ordinal": 58,
+      "heading_path": [
+        "1. Issue",
+        "8. Central Government Guidance",
+        "8.2 Assessing Risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00059",
+      "block_type": "p",
+      "text": "i. Low risk = Termination of the contract will have no measurable impact on organisational business or services to the public.",
+      "ordinal": 59,
+      "heading_path": [
+        "1. Issue",
+        "8. Central Government Guidance",
+        "8.2 Assessing Risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00060",
+      "block_type": "p",
+      "text": "ii. Medium risk = Termination will have a measurable impact on organisational business or services to the public but the impact is manageable, including switching to alternative sources of supply.",
+      "ordinal": 60,
+      "heading_path": [
+        "1. Issue",
+        "8. Central Government Guidance",
+        "8.2 Assessing Risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00061",
+      "block_type": "p",
+      "text": "iii. High risk = Termination will have a significant measurable impact on organisational business or services to the public but would not pose a risk to life or public wellbeing (e.g. risk that no heating will be available in an occupied space such as a school or hospital). Alternative sources of supply exist but switching is complex.",
+      "ordinal": 61,
+      "heading_path": [
+        "1. Issue",
+        "8. Central Government Guidance",
+        "8.2 Assessing Risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00062",
+      "block_type": "p",
+      "text": "iv. Very High risk = Termination will have a significant measurable impact on UK resilience or would pose a risk to life or public wellbeing.",
+      "ordinal": 62,
+      "heading_path": [
+        "1. Issue",
+        "8. Central Government Guidance",
+        "8.2 Assessing Risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00063",
+      "block_type": "p",
+      "text": "7 - An example methodology for assessing the financial implications of terminating the contract is set out below:",
+      "ordinal": 63,
+      "heading_path": [
+        "1. Issue",
+        "8. Central Government Guidance",
+        "8.2 Assessing Risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00064",
+      "block_type": "p",
+      "text": "i. Low risk = Termination would not involve any payment to the supplier and the cost of switching to a new contract is not prohibitive.",
+      "ordinal": 64,
+      "heading_path": [
+        "1. Issue",
+        "8. Central Government Guidance",
+        "8.2 Assessing Risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00065",
+      "block_type": "p",
+      "text": "ii. Medium risk = Termination would involve a payment to the supplier but the cost of switching to a new contract is not prohibitive.",
+      "ordinal": 65,
+      "heading_path": [
+        "1. Issue",
+        "8. Central Government Guidance",
+        "8.2 Assessing Risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00066",
+      "block_type": "p",
+      "text": "iii. High risk = Termination would involve a payment to the supplier of more than the annual value of the contract.",
+      "ordinal": 66,
+      "heading_path": [
+        "1. Issue",
+        "8. Central Government Guidance",
+        "8.2 Assessing Risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00067",
+      "block_type": "p",
+      "text": "iv. Very High risk = Termination would involve a significant payment to the supplier of more than the remaining payments to be made under the contract.",
+      "ordinal": 67,
+      "heading_path": [
+        "1. Issue",
+        "8. Central Government Guidance",
+        "8.2 Assessing Risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00068",
+      "block_type": "p",
+      "text": "The assessment of all relevant risks should be clearly documented, and recommendations on whether or not to terminate relevant contracts should be made to your Commercial Director (or the most senior commercial/procurement professional in your organisation), and to your Accounting Officer (or their equivalents in other parts of the public sector). This should clearly include any additional costs that will be incurred, including those related to securing an alternative supply; you will need to seek Accounting Officer approval for additional funds if they are required, bearing in mind this may require you to seek HM Treasury approval in some cases. You should supplement your assessment and recommendations with legal advice where necessary. You should not take action to terminate contracts until your recommendations have been approved. Any decisions to terminate a contract should be made on a case-by-case basis.",
+      "ordinal": 68,
+      "heading_path": [
+        "1. Issue",
+        "8. Central Government Guidance",
+        "8.2 Assessing Risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00069",
+      "block_type": "p",
+      "text": "This does not alleviate Accounting Officers from their usual duties to ensure that spending is regular, proper and value for money or for other contracting authorities to conduct appropriate and proportionate due diligence. Central Government organisations should note that Treasury consent must first be obtained in the usual way, for any transactions which set precedents, are novel, contentious or could cause repercussions elsewhere in the public sector, in line with Managing Public Money.",
+      "ordinal": 69,
+      "heading_path": [
+        "1. Issue",
+        "8. Central Government Guidance",
+        "8.2 Assessing Risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00070",
+      "block_type": "heading",
+      "text": "8.3 Taking Action to Terminate",
+      "ordinal": 70,
+      "heading_path": [
+        "1. Issue",
+        "8. Central Government Guidance",
+        "8.3 Taking Action to Terminate"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00071",
+      "block_type": "p",
+      "text": "Your contract will set out the process and timescales associated with instigating termination. Generally, shorter notice periods result in additional costs of termination. In order of preference, where there are longer notice periods, or clauses which allow termination without cost, these should be considered for use first. Longer notice periods will also enable you to secure alternative supply, which is important if this might be complex or time-consuming to arrange.",
+      "ordinal": 71,
+      "heading_path": [
+        "1. Issue",
+        "8. Central Government Guidance",
+        "8.3 Taking Action to Terminate"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00072",
+      "block_type": "heading",
+      "text": "8.4 Managing Costs",
+      "ordinal": 72,
+      "heading_path": [
+        "1. Issue",
+        "8. Central Government Guidance",
+        "8.4 Managing Costs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00073",
+      "block_type": "p",
+      "text": "There are likely to be some additional costs associated with terminating a contract particularly where there is a need to secure an alternative supply, for example increased costs of commodities, market engagement and tendering costs as well as legal support. You should ensure these have been quantified up-front, and that there are funds approved and available to support your course of action.",
+      "ordinal": 73,
+      "heading_path": [
+        "1. Issue",
+        "8. Central Government Guidance",
+        "8.4 Managing Costs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00074",
+      "block_type": "heading",
+      "text": "8.5 Reporting and Record Keeping",
+      "ordinal": 74,
+      "heading_path": [
+        "1. Issue",
+        "8. Central Government Guidance",
+        "8.5 Reporting and Record Keeping"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00075",
+      "block_type": "p",
+      "text": "You should clearly document all your decision making in relation to assessing whether contracts should or should not be terminated, and ensure there is an audit-trail to support your decision.",
+      "ordinal": 75,
+      "heading_path": [
+        "1. Issue",
+        "8. Central Government Guidance",
+        "8.5 Reporting and Record Keeping"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00076",
+      "block_type": "heading",
+      "text": "9. Best Value Authorities and Parish Councils Guidance",
+      "ordinal": 76,
+      "heading_path": [
+        "1. Issue",
+        "9. Best Value Authorities and Parish Councils Guidance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00077",
+      "block_type": "heading",
+      "text": "9.1 New Burdens",
+      "ordinal": 77,
+      "heading_path": [
+        "1. Issue",
+        "9. Best Value Authorities and Parish Councils Guidance",
+        "9.1 New Burdens"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00078",
+      "block_type": "p",
+      "text": "The Local Government (Exclusion of Non-commercial Considerations) (England) Order 2022 [footnote 3] , came into force on 1 July 2022, to disapply the prohibition in section 17(5)(e) of the Local Government Act 1988 in respect of Russia and Belarus. This means that the fact a supplier is Russian or Belarusian, which was previously a non-commercial consideration under the Act, can now be taken into account by best value authorities and parish councils in England in their commercial decision making. Council leaders requested that the Government accommodate a flexible approach for local government bodies in response to the invasion of Ukraine. As such, the new Order does not mandate any activity and therefore does not create a new burden for these bodies.",
+      "ordinal": 78,
+      "heading_path": [
+        "1. Issue",
+        "9. Best Value Authorities and Parish Councils Guidance",
+        "9.1 New Burdens"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00079",
+      "block_type": "heading",
+      "text": "9.2 Identifying Contracts",
+      "ordinal": 79,
+      "heading_path": [
+        "1. Issue",
+        "9. Best Value Authorities and Parish Councils Guidance",
+        "9.2 Identifying Contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00080",
+      "block_type": "p",
+      "text": "For best value authorities and parish councils in England, the country or territory of origin of entities (including suppliers, subcontractors, associated bodies and customers) with which these organisations hold public supply or works contracts can be taken into consideration where either:",
+      "ordinal": 80,
+      "heading_path": [
+        "1. Issue",
+        "9. Best Value Authorities and Parish Councils Guidance",
+        "9.2 Identifying Contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00081",
+      "block_type": "li",
+      "text": "the country or territory of origin of supplies to the contractor is the Russian Federation or the Republic of Belarus, or",
+      "ordinal": 81,
+      "heading_path": [
+        "1. Issue",
+        "9. Best Value Authorities and Parish Councils Guidance",
+        "9.2 Identifying Contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00082",
+      "block_type": "li",
+      "text": "the location of the business activities or interests of a contractor is the Russian Federation or the Republic of Belarus. [footnote 4]",
+      "ordinal": 82,
+      "heading_path": [
+        "1. Issue",
+        "9. Best Value Authorities and Parish Councils Guidance",
+        "9.2 Identifying Contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00083",
+      "block_type": "p",
+      "text": "As is the case for other In-Scope Organisations, you should use as many sources available to you as possible to verify whether these criteria apply, including considering whether relevant contractors’ Persons of Significant Control [footnote 5] are resident in Russia or Belarus.",
+      "ordinal": 83,
+      "heading_path": [
+        "1. Issue",
+        "9. Best Value Authorities and Parish Councils Guidance",
+        "9.2 Identifying Contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00084",
+      "block_type": "heading",
+      "text": "9.3 Assessing Risks",
+      "ordinal": 84,
+      "heading_path": [
+        "1. Issue",
+        "9. Best Value Authorities and Parish Councils Guidance",
+        "9.3 Assessing Risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00085",
+      "block_type": "p",
+      "text": "1 - Review the termination provisions within each contract, highlighting those that might allow for termination where this is not linked to poor performance, together with any early termination costs. Authorities should seek their own legal advice to identify relevant clauses within their contracts.",
+      "ordinal": 85,
+      "heading_path": [
+        "1. Issue",
+        "9. Best Value Authorities and Parish Councils Guidance",
+        "9.3 Assessing Risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00086",
+      "block_type": "p",
+      "text": "3 - Authorities may also need to consider whether there are resilience issues related to Russian/Belarusian subcontractors in the supply chain to be managed with the prime contractor. If these cannot be resolved, it may be possible to substitute subcontractors but only where this follows a legally compliant process, and an alternative supplier can be sourced in line with value for money, affordability and with minimal disruption to public services including impact on energy markets.",
+      "ordinal": 86,
+      "heading_path": [
+        "1. Issue",
+        "9. Best Value Authorities and Parish Councils Guidance",
+        "9.3 Assessing Risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00087",
+      "block_type": "p",
+      "text": "4 - Establish whether an alternative source of supply is required and whether those sources are available. In doing so an authority should:",
+      "ordinal": 87,
+      "heading_path": [
+        "1. Issue",
+        "9. Best Value Authorities and Parish Councils Guidance",
+        "9.3 Assessing Risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00088",
+      "block_type": "li",
+      "text": "estimate the timescales associated with securing an alternative supply as this might affect the notice period for termination;",
+      "ordinal": 88,
+      "heading_path": [
+        "1. Issue",
+        "9. Best Value Authorities and Parish Councils Guidance",
+        "9.3 Assessing Risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00089",
+      "block_type": "li",
+      "text": "consider the cost and complexity of switching suppliers and the time required for the new supplier to mobilise to deliver;",
+      "ordinal": 89,
+      "heading_path": [
+        "1. Issue",
+        "9. Best Value Authorities and Parish Councils Guidance",
+        "9.3 Assessing Risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00090",
+      "block_type": "li",
+      "text": "satisfy yourself that the alternative supply does not result in any form of payment to Russian/Belarusian suppliers;",
+      "ordinal": 90,
+      "heading_path": [
+        "1. Issue",
+        "9. Best Value Authorities and Parish Councils Guidance",
+        "9.3 Assessing Risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00091",
+      "block_type": "li",
+      "text": "consider whether Russian/Belarusian subcontractors can be substituted for alternative suppliers, without disrupting supply or the contract;",
+      "ordinal": 91,
+      "heading_path": [
+        "1. Issue",
+        "9. Best Value Authorities and Parish Councils Guidance",
+        "9.3 Assessing Risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00092",
+      "block_type": "li",
+      "text": "where a decision is made to terminate a contract, ensure that the decision will not negatively impact, or put at risk, any other contracts with the same supplier which are not being terminated.",
+      "ordinal": 92,
+      "heading_path": [
+        "1. Issue",
+        "9. Best Value Authorities and Parish Councils Guidance",
+        "9.3 Assessing Risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00093",
+      "block_type": "p",
+      "text": "5 - An authority should consider both the business criticality of the contract (including the impact on services to the public where this is relevant) and the associated costs.",
+      "ordinal": 93,
+      "heading_path": [
+        "1. Issue",
+        "9. Best Value Authorities and Parish Councils Guidance",
+        "9.3 Assessing Risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00094",
+      "block_type": "li",
+      "text": "Low risk = Termination of the contract will have no measurable impact on organisational business or services to the public.",
+      "ordinal": 94,
+      "heading_path": [
+        "1. Issue",
+        "9. Best Value Authorities and Parish Councils Guidance",
+        "9.3 Assessing Risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00095",
+      "block_type": "li",
+      "text": "Medium risk = Termination will have a measurable impact on organisational business or services to the public but the impact is manageable, including switching to alternative sources of supply.",
+      "ordinal": 95,
+      "heading_path": [
+        "1. Issue",
+        "9. Best Value Authorities and Parish Councils Guidance",
+        "9.3 Assessing Risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00096",
+      "block_type": "li",
+      "text": "High risk = Termination will have a significant measurable impact on organisational business or services to the public but would not pose a risk to life or public wellbeing. [footnote 6] Alternative sources of supply exist but switching is complex.",
+      "ordinal": 96,
+      "heading_path": [
+        "1. Issue",
+        "9. Best Value Authorities and Parish Councils Guidance",
+        "9.3 Assessing Risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00097",
+      "block_type": "li",
+      "text": "Very High risk = Termination will have a significant measurable impact on UK resilience or would pose a risk to life or public wellbeing.",
+      "ordinal": 97,
+      "heading_path": [
+        "1. Issue",
+        "9. Best Value Authorities and Parish Councils Guidance",
+        "9.3 Assessing Risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00098",
+      "block_type": "li",
+      "text": "Low risk = Termination would not involve any payment to the supplier and the cost of switching to a new contract is not prohibitive.",
+      "ordinal": 98,
+      "heading_path": [
+        "1. Issue",
+        "9. Best Value Authorities and Parish Councils Guidance",
+        "9.3 Assessing Risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00099",
+      "block_type": "li",
+      "text": "Medium risk = Termination would involve a payment to the supplier but the cost of switching to a new contract is not prohibitive.",
+      "ordinal": 99,
+      "heading_path": [
+        "1. Issue",
+        "9. Best Value Authorities and Parish Councils Guidance",
+        "9.3 Assessing Risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00100",
+      "block_type": "li",
+      "text": "High risk = Termination would involve a payment to the supplier of more than the annual value of the contract.",
+      "ordinal": 100,
+      "heading_path": [
+        "1. Issue",
+        "9. Best Value Authorities and Parish Councils Guidance",
+        "9.3 Assessing Risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00101",
+      "block_type": "li",
+      "text": "Very High risk = Termination would involve a significant payment to the supplier of more than the remaining payments to be made under the contract.",
+      "ordinal": 101,
+      "heading_path": [
+        "1. Issue",
+        "9. Best Value Authorities and Parish Councils Guidance",
+        "9.3 Assessing Risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00102",
+      "block_type": "p",
+      "text": "The assessment of all relevant risks should be clearly documented, and recommendations on whether or not to terminate relevant contracts should be made to the most senior commercial/procurement professional in the authority, and to the S151 Officer / Chief Financial Officer, Responsible Financial Officer or equivalent. This should clearly include any additional costs that will be incurred, including those related to securing an alternative supply; an authority will need to seek approval from the appropriate Officer (S151 Officer / Chief Financial Officer, Responsible Financial Officer or equivalent) for additional funds if they are required. An authority should not take action to terminate contracts until these recommendations have been approved. Any decisions to terminate a contract should be made on a case by case basis. As independent bodies it is for each individual public authority to which the 2022 Order applies to make their own decisions concerning their contract portfolio.",
+      "ordinal": 102,
+      "heading_path": [
+        "1. Issue",
+        "9. Best Value Authorities and Parish Councils Guidance",
+        "9.3 Assessing Risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00103",
+      "block_type": "p",
+      "text": "S151 Officer / Chief Financial Officer, Responsible Financial Officer or equivalent remain subject to their duties to ensure that spending is regular, proper and value for money or for other contracting authorities to conduct appropriate and proportionate due diligence.",
+      "ordinal": 103,
+      "heading_path": [
+        "1. Issue",
+        "9. Best Value Authorities and Parish Councils Guidance",
+        "9.3 Assessing Risks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00104",
+      "block_type": "heading",
+      "text": "9.4 Taking Action to Terminate",
+      "ordinal": 104,
+      "heading_path": [
+        "1. Issue",
+        "9. Best Value Authorities and Parish Councils Guidance",
+        "9.4 Taking Action to Terminate"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00105",
+      "block_type": "p",
+      "text": "The contract will set out the process and timescales associated with instigating termination. Generally, shorter notice periods result in additional costs of termination. In order of preference, where there are longer notice periods, or clauses which allow termination without cost, these should be considered for use first. Longer notice periods will also enable you to secure alternative supply, which is important if this might be complex or time-consuming to arrange.",
+      "ordinal": 105,
+      "heading_path": [
+        "1. Issue",
+        "9. Best Value Authorities and Parish Councils Guidance",
+        "9.4 Taking Action to Terminate"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00106",
+      "block_type": "heading",
+      "text": "9.5 Managing Costs",
+      "ordinal": 106,
+      "heading_path": [
+        "1. Issue",
+        "9. Best Value Authorities and Parish Councils Guidance",
+        "9.5 Managing Costs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00107",
+      "block_type": "p",
+      "text": "There are likely to be some additional costs associated with terminating a contract particularly where there is a need to secure an alternative supply, for example increased costs of commodities, market engagement and tendering costs as well as legal support. Authorities should ensure these have been quantified up-front, and that there are funds approved and available to support your course of action.",
+      "ordinal": 107,
+      "heading_path": [
+        "1. Issue",
+        "9. Best Value Authorities and Parish Councils Guidance",
+        "9.5 Managing Costs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00108",
+      "block_type": "heading",
+      "text": "9.6 Reporting and Record Keeping",
+      "ordinal": 108,
+      "heading_path": [
+        "1. Issue",
+        "9. Best Value Authorities and Parish Councils Guidance",
+        "9.6 Reporting and Record Keeping"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00109",
+      "block_type": "p",
+      "text": "Authorities should clearly document all your decision making in relation to assessing whether contracts should or should not be terminated, and ensure there is an audit-trail to support their decision.",
+      "ordinal": 109,
+      "heading_path": [
+        "1. Issue",
+        "9. Best Value Authorities and Parish Councils Guidance",
+        "9.6 Reporting and Record Keeping"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00110",
+      "block_type": "li",
+      "text": "The Local Government (Exclusion of Non-commercial Considerations) (England) Order 2022 ↩",
+      "ordinal": 110,
+      "heading_path": [
+        "1. Issue",
+        "9. Best Value Authorities and Parish Councils Guidance",
+        "9.6 Reporting and Record Keeping"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00111",
+      "block_type": "p",
+      "text": "The Local Government (Exclusion of Non-commercial Considerations) (England) Order 2022 ↩",
+      "ordinal": 111,
+      "heading_path": [
+        "1. Issue",
+        "9. Best Value Authorities and Parish Councils Guidance",
+        "9.6 Reporting and Record Keeping"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00112",
+      "block_type": "li",
+      "text": "‘Best value authorities’ within the meaning of section 1 of the Local Government Act 1999 (c. 27) and parish councils in England. ↩",
+      "ordinal": 112,
+      "heading_path": [
+        "1. Issue",
+        "9. Best Value Authorities and Parish Councils Guidance",
+        "9.6 Reporting and Record Keeping"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00113",
+      "block_type": "p",
+      "text": "‘Best value authorities’ within the meaning of section 1 of the Local Government Act 1999 (c. 27) and parish councils in England. ↩",
+      "ordinal": 113,
+      "heading_path": [
+        "1. Issue",
+        "9. Best Value Authorities and Parish Councils Guidance",
+        "9.6 Reporting and Record Keeping"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00114",
+      "block_type": "li",
+      "text": "The Local Government (Exclusion of Non-Commercial Considerations) (England) Order 2022 ↩",
+      "ordinal": 114,
+      "heading_path": [
+        "1. Issue",
+        "9. Best Value Authorities and Parish Councils Guidance",
+        "9.6 Reporting and Record Keeping"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00115",
+      "block_type": "p",
+      "text": "The Local Government (Exclusion of Non-Commercial Considerations) (England) Order 2022 ↩",
+      "ordinal": 115,
+      "heading_path": [
+        "1. Issue",
+        "9. Best Value Authorities and Parish Councils Guidance",
+        "9.6 Reporting and Record Keeping"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00116",
+      "block_type": "li",
+      "text": "A ‘Person of Significant Control’ or beneficial owner is defined as holding i) more than 25% of shares in the company; and/or ii) more than 25% of voting rights in the company; and/or the right to appoint or remove the majority of the board of directors ↩",
+      "ordinal": 116,
+      "heading_path": [
+        "1. Issue",
+        "9. Best Value Authorities and Parish Councils Guidance",
+        "9.6 Reporting and Record Keeping"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00117",
+      "block_type": "p",
+      "text": "A ‘Person of Significant Control’ or beneficial owner is defined as holding i) more than 25% of shares in the company; and/or ii) more than 25% of voting rights in the company; and/or the right to appoint or remove the majority of the board of directors ↩",
+      "ordinal": 117,
+      "heading_path": [
+        "1. Issue",
+        "9. Best Value Authorities and Parish Councils Guidance",
+        "9.6 Reporting and Record Keeping"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00118",
+      "block_type": "li",
+      "text": "E.g. risk that no heating will be available in an occupied space such as a school or hospital. ↩",
+      "ordinal": 118,
+      "heading_path": [
+        "1. Issue",
+        "9. Best Value Authorities and Parish Councils Guidance",
+        "9.6 Reporting and Record Keeping"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00119",
+      "block_type": "p",
+      "text": "E.g. risk that no heating will be available in an occupied space such as a school or hospital. ↩",
+      "ordinal": 119,
+      "heading_path": [
+        "1. Issue",
+        "9. Best Value Authorities and Parish Councils Guidance",
+        "9.6 Reporting and Record Keeping"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "[footnote 1]",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0122-contracts-with-suppliers-from-russia-and-belarus/ppn-0122-contracts-with-suppliers-from-russia-and-belarus--2#fn:1",
+      "block_id": "b00031",
+      "ordinal": 0,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 2]",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0122-contracts-with-suppliers-from-russia-and-belarus/ppn-0122-contracts-with-suppliers-from-russia-and-belarus--2#fn:2",
+      "block_id": "b00031",
+      "ordinal": 1,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "info@crowncommercial.gov.uk",
+      "href": "mailto:info@crowncommercial.gov.uk",
+      "block_id": "b00034",
+      "ordinal": 2,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "LGCommercial@levellingup.gov.uk",
+      "href": "mailto:LGCommercial@levellingup.gov.uk",
+      "block_id": "b00034",
+      "ordinal": 3,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "[footnote 3]",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0122-contracts-with-suppliers-from-russia-and-belarus/ppn-0122-contracts-with-suppliers-from-russia-and-belarus--2#fn:3",
+      "block_id": "b00078",
+      "ordinal": 4,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 4]",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0122-contracts-with-suppliers-from-russia-and-belarus/ppn-0122-contracts-with-suppliers-from-russia-and-belarus--2#fn:4",
+      "block_id": "b00082",
+      "ordinal": 5,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 5]",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0122-contracts-with-suppliers-from-russia-and-belarus/ppn-0122-contracts-with-suppliers-from-russia-and-belarus--2#fn:5",
+      "block_id": "b00083",
+      "ordinal": 6,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 6]",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0122-contracts-with-suppliers-from-russia-and-belarus/ppn-0122-contracts-with-suppliers-from-russia-and-belarus--2#fn:6",
+      "block_id": "b00096",
+      "ordinal": 7,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "The Local Government (Exclusion of Non-commercial Considerations) (England) Order 2022",
+      "href": "https://www.legislation.gov.uk/ukdsi/2022/9780348235500",
+      "block_id": "b00110",
+      "ordinal": 8,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0122-contracts-with-suppliers-from-russia-and-belarus/ppn-0122-contracts-with-suppliers-from-russia-and-belarus--2#fnref:1",
+      "block_id": "b00110",
+      "ordinal": 9,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "The Local Government (Exclusion of Non-commercial Considerations) (England) Order 2022",
+      "href": "https://www.legislation.gov.uk/ukdsi/2022/9780348235500",
+      "block_id": "b00111",
+      "ordinal": 10,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0122-contracts-with-suppliers-from-russia-and-belarus/ppn-0122-contracts-with-suppliers-from-russia-and-belarus--2#fnref:1",
+      "block_id": "b00111",
+      "ordinal": 11,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0122-contracts-with-suppliers-from-russia-and-belarus/ppn-0122-contracts-with-suppliers-from-russia-and-belarus--2#fnref:2",
+      "block_id": "b00112",
+      "ordinal": 12,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0122-contracts-with-suppliers-from-russia-and-belarus/ppn-0122-contracts-with-suppliers-from-russia-and-belarus--2#fnref:2",
+      "block_id": "b00113",
+      "ordinal": 13,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "The Local Government (Exclusion of Non-Commercial Considerations) (England) Order 2022",
+      "href": "https://www.legislation.gov.uk/ukdsi/2022/9780348235500",
+      "block_id": "b00114",
+      "ordinal": 14,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0122-contracts-with-suppliers-from-russia-and-belarus/ppn-0122-contracts-with-suppliers-from-russia-and-belarus--2#fnref:4",
+      "block_id": "b00114",
+      "ordinal": 15,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "The Local Government (Exclusion of Non-Commercial Considerations) (England) Order 2022",
+      "href": "https://www.legislation.gov.uk/ukdsi/2022/9780348235500",
+      "block_id": "b00115",
+      "ordinal": 16,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0122-contracts-with-suppliers-from-russia-and-belarus/ppn-0122-contracts-with-suppliers-from-russia-and-belarus--2#fnref:4",
+      "block_id": "b00115",
+      "ordinal": 17,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0122-contracts-with-suppliers-from-russia-and-belarus/ppn-0122-contracts-with-suppliers-from-russia-and-belarus--2#fnref:5",
+      "block_id": "b00116",
+      "ordinal": 18,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0122-contracts-with-suppliers-from-russia-and-belarus/ppn-0122-contracts-with-suppliers-from-russia-and-belarus--2#fnref:5",
+      "block_id": "b00117",
+      "ordinal": 19,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0122-contracts-with-suppliers-from-russia-and-belarus/ppn-0122-contracts-with-suppliers-from-russia-and-belarus--2#fnref:6",
+      "block_id": "b00118",
+      "ordinal": 20,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0122-contracts-with-suppliers-from-russia-and-belarus/ppn-0122-contracts-with-suppliers-from-russia-and-belarus--2#fnref:6",
+      "block_id": "b00119",
+      "ordinal": 21,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "PPN 01/22: Contracts with suppliers from Russia and Belarus",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0122-contracts-with-suppliers-from-russia-and-belarus/ppn-0122-contracts-with-suppliers-from-russia-and-belarus--2",
+      "block_id": "__document__",
+      "ordinal": 22,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2019 to 2022 Johnson Conservative government",
+      "href": "https://www.gov.uk/government/2019-to-2022-johnson-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 23,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 24,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Procurement Policy Note 01/22: contracts with suppliers from Russia and Belarus",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0122-contracts-with-suppliers-from-russia-and-belarus",
+      "block_id": "__document__",
+      "ordinal": 25,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 26,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 1",
+      "block_id": "b00003",
+      "start": 169,
+      "end": 178,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015",
+      "block_id": "b00004",
+      "start": 146,
+      "end": 162,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015",
+      "block_id": "b00029",
+      "start": 212,
+      "end": 228,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 17(5)(e)",
+      "block_id": "b00032",
+      "start": 117,
+      "end": 133,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "17",
+        "tail": "(5)(e)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015",
+      "block_id": "b00032",
+      "start": 596,
+      "end": 612,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 17(5)(e)",
+      "block_id": "b00078",
+      "start": 165,
+      "end": 181,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "17",
+        "tail": "(5)(e)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 1",
+      "block_id": "b00112",
+      "start": 47,
+      "end": 56,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 1",
+      "block_id": "b00113",
+      "start": 47,
+      "end": 56,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "1"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

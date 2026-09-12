@@ -1,0 +1,137 @@
+{
+  "document_id": "020a8529-2e4b-4d11-ba7e-9b8596e608bb",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/329b00acc9db28cef9064dda.json",
+  "input_sha256": "2b7466f41d78f4649f17b7e135f7417c3be8313c134805ea7f511709ce61a373",
+  "processed_at": "2026-08-27T02:26:10.774183+00:00",
+  "title": "PPN 001: SME and VCSE procurement spend targets",
+  "canonical_url": "https://www.gov.uk/government/publications/ppn-001-sme-and-vcse-procurement-spend-targets",
+  "description": "This PPN sets out the requirements to set targets for direct spend with SMEs and VCSEs and to publish results annually.",
+  "publication_date": "2025-02-13T00:00:00+00:00",
+  "updated_date": "2025-02-13T00:00:00+00:00",
+  "source_metadata": {
+    "content_id": "020a8529-2e4b-4d11-ba7e-9b8596e608bb",
+    "base_path": "/government/publications/ppn-001-sme-and-vcse-procurement-spend-targets",
+    "document_type": "guidance",
+    "schema_name": "publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "This PPN sets out the requirements to set targets for direct spend with SMEs and VCSEs and to publish results annually.",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "PPN 001: SME and VCSE procurement spend targets",
+      "href": "https://www.gov.uk/government/publications/ppn-001-sme-and-vcse-procurement-spend-targets",
+      "block_id": "__document__",
+      "ordinal": 0,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "Procurement Policy Note 001 - Guidance on how to set SME spend targets and annual publication of results (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-001-sme-and-vcse-procurement-spend-targets/procurement-policy-note-001-guidance-on-how-to-set-sme-spend-targets-and-annual-publication-of-results-html",
+      "block_id": "__document__",
+      "ordinal": 1,
+      "link_type": "GOVUK_CHILDREN"
+    },
+    {
+      "text": "Procurement Policy Note 001 - SME and VCSE procurement spend targets (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-001-sme-and-vcse-procurement-spend-targets/procurement-policy-note-001-sme-and-vcse-procurement-spend-targets-html",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_CHILDREN"
+    },
+    {
+      "text": "Procurement policy notes",
+      "href": "https://www.gov.uk/government/collections/procurement-policy-notes",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_DOCUMENT_COLLECTIONS"
+    },
+    {
+      "text": "2024 to 2026 Starmer Labour government",
+      "href": "https://www.gov.uk/government/2024-starmer-labour-government",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_ORIGINAL_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 7,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Government spending",
+      "href": "https://www.gov.uk/government/government-spending",
+      "block_id": "__document__",
+      "ordinal": 8,
+      "link_type": "GOVUK_TAXONS"
+    }
+  ],
+  "legal_references": [],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/67ae095f2c594609b38acd89/2025-02-12_PPN_001_SME_and_VCSE_procurement_spend_targets.pdf",
+      "title": "Procurement Policy Note 001 - SME and VCSE procurement spend targets (PDF)",
+      "content_type": "application/pdf",
+      "filename": "2025-02-12_PPN_001_SME_and_VCSE_procurement_spend_targets.pdf",
+      "id": "8465083",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "/government/publications/ppn-001-sme-and-vcse-procurement-spend-targets/procurement-policy-note-001-sme-and-vcse-procurement-spend-targets-html",
+      "title": "Procurement Policy Note 001 - SME and VCSE procurement spend targets (HTML)",
+      "content_type": null,
+      "filename": null,
+      "id": "8465084",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/67acb850e400ae62338324e7/2025-02-12_PPN_001_SME_and_VCSE_procurement_spend_targets_Guidance_.pdf",
+      "title": "Procurement Policy Note 001 - Guidance on how to set SME spend targets and annual publication of results (PDF)",
+      "content_type": "application/pdf",
+      "filename": "2025-02-12_PPN_001_SME_and_VCSE_procurement_spend_targets_Guidance_.pdf",
+      "id": "8465085",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "/government/publications/ppn-001-sme-and-vcse-procurement-spend-targets/procurement-policy-note-001-guidance-on-how-to-set-sme-spend-targets-and-annual-publication-of-results-html",
+      "title": "Procurement Policy Note 001 - Guidance on how to set SME spend targets and annual publication of results (HTML)",
+      "content_type": null,
+      "filename": null,
+      "id": "8465086",
+      "logical_role": "ATTACHMENT"
+    }
+  ],
+  "warnings": []
+}

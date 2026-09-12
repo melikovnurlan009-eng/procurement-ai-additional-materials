@@ -1,0 +1,138 @@
+{
+  "document_id": "cee646f2-2911-439c-9d41-8d57d52a47c1",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/9aa6436b18eeba7120273e67.json",
+  "input_sha256": "c97cb6ea362111c4b4cdaa041d262325f0b6c6c21924b7627c0b8580a2ad123c",
+  "processed_at": "2026-08-27T02:26:32.724468+00:00",
+  "title": "Procurement Policy Note 13/15: increasing the transparency of contract information",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-policy-note-1315-increasing-the-transparency-of-contract-information",
+  "description": "This procurement policy note is now out of date.",
+  "publication_date": "2015-08-03T16:02:00+01:00",
+  "updated_date": "2017-02-16T14:03:44+00:00",
+  "source_metadata": {
+    "content_id": "cee646f2-2911-439c-9d41-8d57d52a47c1",
+    "base_path": "/government/publications/procurement-policy-note-1315-increasing-the-transparency-of-contract-information",
+    "document_type": "guidance",
+    "schema_name": "publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "This note has been replaced by procurement policy note 01/17: update to transparency principles.",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "This procurement policy note provides guidance on the how to implement the transparency principles published in March 2015. It aims to increase the type and accessibility of contract and procurement data to the public.",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "It applies to all central government departments including their executive agencies and non-departmental public bodies (NDPBs).",
+      "ordinal": 2,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "procurement policy note 01/17: update to transparency principles.",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0117-update-to-transparency-principles",
+      "block_id": "b00000",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "transparency principles",
+      "href": "https://www.gov.uk/government/publications/transparency-of-suppliers-and-government-to-the-public",
+      "block_id": "b00001",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement Policy Note 13/15: increasing the transparency of contract information",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-1315-increasing-the-transparency-of-contract-information",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "Procurement policy notes",
+      "href": "https://www.gov.uk/government/collections/procurement-policy-notes",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_DOCUMENT_COLLECTIONS"
+    },
+    {
+      "text": "2015 to 2016 Cameron Conservative government",
+      "href": "https://www.gov.uk/government/2015-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Crown Commercial Service",
+      "href": "https://www.gov.uk/government/organisations/crown-commercial-service",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 7,
+      "link_type": "GOVUK_ORIGINAL_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 8,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Government spending",
+      "href": "https://www.gov.uk/government/government-spending",
+      "block_id": "__document__",
+      "ordinal": 9,
+      "link_type": "GOVUK_TAXONS"
+    }
+  ],
+  "legal_references": [],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/5a805dc740f0b62302693150/Procurement_Policy_Note_13_15.pdf",
+      "title": "Procurement policy note 13/15 - increasing the transparency of contract information to the public",
+      "content_type": "application/pdf",
+      "filename": "Procurement_Policy_Note_13_15.pdf",
+      "id": "1969226",
+      "logical_role": "ATTACHMENT"
+    }
+  ],
+  "warnings": []
+}

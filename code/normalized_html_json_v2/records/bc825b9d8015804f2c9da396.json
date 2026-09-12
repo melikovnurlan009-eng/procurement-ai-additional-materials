@@ -1,0 +1,974 @@
+{
+  "document_id": "bc825b9d8015804f2c9da396",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "html",
+  "source_path": "corpus_ingest_v2/raw/66500a908b7c8deddf7feec6.html",
+  "input_sha256": "227a78f6277ce0f2188d330790a58e04a897a587123974b23e1973076c922cf8",
+  "processed_at": "2026-08-27T02:26:21.000580+00:00",
+  "title": "What do Buyers Need to Know About AI? | Procurement Journey",
+  "canonical_url": "https://www.procurementjourney.scot/index.php/artificial-intelligence-ai/what-do-buyers-need-know-about-ai",
+  "description": null,
+  "publication_date": null,
+  "updated_date": null,
+  "source_metadata": {
+    "html_lang": "en"
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Sensitive Information",
+      "ordinal": 2
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "If AI can Potentially be Used in the Delivery of the Service",
+      "ordinal": 11
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Bidders Using AI to Generate Bids",
+      "ordinal": 13
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Equal Treatment, Non-Discrimination and Evaluation",
+      "ordinal": 22
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Considerations for Buyers Using AI",
+      "ordinal": 25
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "An Example of AI Being Used in a Bid",
+      "ordinal": 30
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "An Example of AI Being Used to Write Bid Content",
+      "ordinal": 32
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Useful Links and Guidance",
+      "ordinal": 60
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "li",
+      "text": "View PDF",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "Artificial Intelligence (AI) may have an impact on how buyers and bidders function. Below are some of the key considerations for AI in Public Procurement.",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "heading",
+      "text": "Sensitive Information",
+      "ordinal": 2,
+      "heading_path": [
+        "Sensitive Information"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "AI systems share and use information and data that users input e.g. into AI tools or any systems that make use of AI for any purpose. As a result you should be aware of this and actively manage this risk of sensitive information or copyrighted material being shared inappropriately.",
+      "ordinal": 3,
+      "heading_path": [
+        "Sensitive Information"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "When preparing tender documentation, you should always ensure that you do not add:",
+      "ordinal": 4,
+      "heading_path": [
+        "Sensitive Information"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "li",
+      "text": "personal data",
+      "ordinal": 5,
+      "heading_path": [
+        "Sensitive Information"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "li",
+      "text": "unpublished/restricted data or",
+      "ordinal": 6,
+      "heading_path": [
+        "Sensitive Information"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "li",
+      "text": "data which might suggest future government or public body activity (which may not be in the public domain)",
+      "ordinal": 7,
+      "heading_path": [
+        "Sensitive Information"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "into any AI tools or into any systems which make use of AI for any purpose.",
+      "ordinal": 8,
+      "heading_path": [
+        "Sensitive Information"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "You should also seek advice from data security colleagues in accordance with any internal governance regarding any potential risks of data security breaches associated with any AI data platform you intend to use.",
+      "ordinal": 9,
+      "heading_path": [
+        "Sensitive Information"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "p",
+      "text": "You should ensure that bidders are made aware that any information that is personal, classified, sensitive or reveals the intent of government or the public body (which may not otherwise be publicly available) included in any tender documentation must not be input by bidders into any AI tools.",
+      "ordinal": 10,
+      "heading_path": [
+        "Sensitive Information"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "heading",
+      "text": "If AI can Potentially be Used in the Delivery of the Service",
+      "ordinal": 11,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "Buyers should engage with stakeholders in the development of the specification and tender documentation if AI could be used in the delivery of the service. This should be done in accordance with your organisation's policies and guidance and any associated standards or quality checks that may be required. Input from colleagues such as AI data policy experts, cyber security or legal advisers is advised in this decision-making process, determining required quality standards, which may require human checking and considering reliance on any particular supplier.",
+      "ordinal": 12,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "heading",
+      "text": "Bidders Using AI to Generate Bids",
+      "ordinal": 13,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service",
+        "Bidders Using AI to Generate Bids"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "As the availability and functionality of AI tools grow, bidders may consider, or may already be using AI (including generative AI) to generate their bids.",
+      "ordinal": 14,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service",
+        "Bidders Using AI to Generate Bids"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "AI can be used by bidders to help with the initial drafting, formatting and the general quality of bids.",
+      "ordinal": 15,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service",
+        "Bidders Using AI to Generate Bids"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "AI may also enable bidders who have the relevant capability and capacity to bid (especially SMEs and third sector businesses) when they would have previously prioritised their bid team resource elsewhere.",
+      "ordinal": 16,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service",
+        "Bidders Using AI to Generate Bids"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "However, you should be aware that AI may sometimes also generate inaccurate or misleading statements. Statements, facts or references generated can appear plausible, but are in fact false. This is because generative AI will gather all information, whether fact or fiction, current or outdated, so it can be inconsistent, misleading or inaccurate. Generative AI will also try to return the answer or output it thinks you are looking for. So it is not deliberately misleading, but it can propose information which it has pulled from looking at other similar examples or bids.",
+      "ordinal": 17,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service",
+        "Bidders Using AI to Generate Bids"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "p",
+      "text": "Bidders who do not check their bid carefully could accidentally include information which is not accurate because of poor checking rather than as a method or attempting to deliberately mislead.",
+      "ordinal": 18,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service",
+        "Bidders Using AI to Generate Bids"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "Whether the response is prepared by the bidder themselves, a bid writer, a consultant or with the aid of generative AI, bidders should be made aware in the tender documentation that it is their responsibility to check their bid before it is submitted to ensure accuracy.",
+      "ordinal": 19,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service",
+        "Bidders Using AI to Generate Bids"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "p",
+      "text": "You should consider that, if you expect AI to be used in generating bids, you may wish to carefully think about how you will evaluate very similar bids (although bidders should, of course, be tailoring their bid for the specific procurement).",
+      "ordinal": 20,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service",
+        "Bidders Using AI to Generate Bids"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "You may wish to consider and plan, where appropriate, for a general increase in procurement activity. This is because bidders may use AI to streamline or automate their processes and improve their bid writing capability and capacity, which may lead to an increase in the number of bids you receive.",
+      "ordinal": 21,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service",
+        "Bidders Using AI to Generate Bids"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "heading",
+      "text": "Equal Treatment, Non-Discrimination and Evaluation",
+      "ordinal": 22,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service",
+        "Equal Treatment, Non-Discrimination and Evaluation"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "You must adhere to the principles of equal treatment and non-discrimination, irrespective of whether bidders have used AI to generate their bid or not.",
+      "ordinal": 23,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service",
+        "Equal Treatment, Non-Discrimination and Evaluation"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "As with all bids, buyers should ensure proportionate due diligence is conducted prior to contract award and throughout the duration of the contract, to ensure bidders can deliver the goods and services e.g. clarifications may be required as appropriate.",
+      "ordinal": 24,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service",
+        "Equal Treatment, Non-Discrimination and Evaluation"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "heading",
+      "text": "Considerations for Buyers Using AI",
+      "ordinal": 25,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service",
+        "Considerations for Buyers Using AI"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "p",
+      "text": "The Central Digital and Data Office (CDDO) leads the UK Government Digital and Data function. They have produced guidance which should be used by civil servants in relation to their use of AI.",
+      "ordinal": 26,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service",
+        "Considerations for Buyers Using AI"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "p",
+      "text": "The Scottish Government also advises that personal or sensitive information should not be used in AI tools and promotes this UK Government guidance for civil servants on the use of generative AI.",
+      "ordinal": 27,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service",
+        "Considerations for Buyers Using AI"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "If you are not a civil servant, you should check if your own organisation has AI guidance/governance procedures which you should use.",
+      "ordinal": 28,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service",
+        "Considerations for Buyers Using AI"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "p",
+      "text": "As AI is a fast changing area you should ensure you keep up to date with the most relevant guidance. Like bidders and other users of AI, you will need to check the accuracy of any AI generated information that you use. You should be aware that AI may sometimes generate inaccurate or misleading statements; where statements, facts or references appear plausible, but are in fact false. Generative AI will gather all information, whether fact or fiction, current or outdated, so can be inconsistent, misleading or inaccurate.",
+      "ordinal": 29,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service",
+        "Considerations for Buyers Using AI"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "heading",
+      "text": "An Example of AI Being Used in a Bid",
+      "ordinal": 30,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service",
+        "An Example of AI Being Used in a Bid"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "p",
+      "text": "The following is an example of what can be generated by AI with minimal input from the bidder. This same example is also shown on An Example of AI Being Used to Write Bid Content .",
+      "ordinal": 31,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service",
+        "An Example of AI Being Used in a Bid"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "heading",
+      "text": "An Example of AI Being Used to Write Bid Content",
+      "ordinal": 32,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service",
+        "An Example of AI Being Used in a Bid",
+        "An Example of AI Being Used to Write Bid Content"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "p",
+      "text": "Scenario",
+      "ordinal": 33,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service",
+        "An Example of AI Being Used in a Bid",
+        "An Example of AI Being Used to Write Bid Content"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "p",
+      "text": "A bidder uses AI to construct a bid response on Fair Work First for a tender.",
+      "ordinal": 34,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service",
+        "An Example of AI Being Used in a Bid",
+        "An Example of AI Being Used to Write Bid Content"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "p",
+      "text": "Prompts provided by the bidder in an AI system:",
+      "ordinal": 35,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service",
+        "An Example of AI Being Used in a Bid",
+        "An Example of AI Being Used to Write Bid Content"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "li",
+      "text": "can you tell me how I can ensure that Scottish Government Fair Work First criteria are written into my bid to work as a catering supplier?",
+      "ordinal": 36,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service",
+        "An Example of AI Being Used in a Bid",
+        "An Example of AI Being Used to Write Bid Content"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "li",
+      "text": "can you tell me how to add in a reference to the Scottish Government and equality?",
+      "ordinal": 37,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service",
+        "An Example of AI Being Used in a Bid",
+        "An Example of AI Being Used to Write Bid Content"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "li",
+      "text": "can you help me write the bid?",
+      "ordinal": 38,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service",
+        "An Example of AI Being Used in a Bid",
+        "An Example of AI Being Used to Write Bid Content"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "p",
+      "text": "The AI could produce the following response:",
+      "ordinal": 39,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service",
+        "An Example of AI Being Used in a Bid",
+        "An Example of AI Being Used to Write Bid Content"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "p",
+      "text": "Of course! Here's a draft of your bid incorporating references to the Scottish Government's equality requirements:",
+      "ordinal": 40,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service",
+        "An Example of AI Being Used in a Bid",
+        "An Example of AI Being Used to Write Bid Content"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "p",
+      "text": "Bid: Catering Services with a Commitment to Equality and Fair Work",
+      "ordinal": 41,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service",
+        "An Example of AI Being Used in a Bid",
+        "An Example of AI Being Used to Write Bid Content"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "p",
+      "text": "Introduction: At [Your Company Name], we are dedicated to providing exceptional catering services while upholding the highest standards of equality, diversity, and fair work practices. With a firm commitment to promoting inclusivity and supporting the Scottish Government's equality agenda, we are proud to submit our bid for consideration as your catering supplier.",
+      "ordinal": 42,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service",
+        "An Example of AI Being Used in a Bid",
+        "An Example of AI Being Used to Write Bid Content"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "p",
+      "text": "Our Commitment to Equality: [Your Company Name] recognizes the importance of equality in the workplace and is committed to ensuring that all employees are treated with dignity, respect, and fairness. We align our practices with the principles set forth by the Scottish Government, including those outlined in the Equality Act 2010 and the Fair Work Framework.",
+      "ordinal": 43,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service",
+        "An Example of AI Being Used in a Bid",
+        "An Example of AI Being Used to Write Bid Content"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "p",
+      "text": "Key Features of Our Equality Policies:",
+      "ordinal": 44,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service",
+        "An Example of AI Being Used in a Bid",
+        "An Example of AI Being Used to Write Bid Content"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "li",
+      "text": "Inclusive Recruitment: We employ inclusive recruitment practices to ensure that our workforce reflects the diverse communities we serve. We actively encourage applications from individuals of all backgrounds and identities, including those from underrepresented groups.",
+      "ordinal": 45,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service",
+        "An Example of AI Being Used in a Bid",
+        "An Example of AI Being Used to Write Bid Content"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "li",
+      "text": "Diversity Training: We provide regular diversity and inclusion training to all employees to foster a culture of understanding, respect, and acceptance. This training covers topics such as unconscious bias, cultural competence, and LGBTQ+ inclusion.",
+      "ordinal": 46,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service",
+        "An Example of AI Being Used in a Bid",
+        "An Example of AI Being Used to Write Bid Content"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "li",
+      "text": "Equal Opportunities: We are committed to providing equal opportunities for career development and advancement to all employees, regardless of their background, gender, race, age, sexual orientation, or disability status. Promotion decisions are based solely on merit and performance.",
+      "ordinal": 47,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service",
+        "An Example of AI Being Used in a Bid",
+        "An Example of AI Being Used to Write Bid Content"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "li",
+      "text": "Work-Life Balance: We support work-life balance initiatives, such as flexible working arrangements and parental leave policies, to accommodate the diverse needs of our employees and promote their well-being.",
+      "ordinal": 48,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service",
+        "An Example of AI Being Used in a Bid",
+        "An Example of AI Being Used to Write Bid Content"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "li",
+      "text": "Accessibility: We strive to ensure that our workplace and facilities are accessible to employees of all abilities. Reasonable accommodations are provided to employees with disabilities to enable their full participation and inclusion in the workplace.",
+      "ordinal": 49,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service",
+        "An Example of AI Being Used in a Bid",
+        "An Example of AI Being Used to Write Bid Content"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00050",
+      "block_type": "li",
+      "text": "Monitoring and Reporting: We regularly monitor and report on our equality performance to identify areas for improvement and track progress over time. We are transparent about our practices and welcome feedback from employees and stakeholders.",
+      "ordinal": 50,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service",
+        "An Example of AI Being Used in a Bid",
+        "An Example of AI Being Used to Write Bid Content"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00051",
+      "block_type": "p",
+      "text": "Alignment with Scottish Government's Equality Agenda: [Your Company Name] is fully aligned with the Scottish Government's commitment to promoting equality, diversity, and inclusion in the workplace. Our fair work policies reflect the principles outlined in the Scottish Government's equality legislation and initiatives, and we are dedicated to supporting the government's efforts to create a fairer and more inclusive society.",
+      "ordinal": 51,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service",
+        "An Example of AI Being Used in a Bid",
+        "An Example of AI Being Used to Write Bid Content"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00052",
+      "block_type": "p",
+      "text": "Conclusion: In choosing [Your Company Name] as your catering supplier, you can trust that you are partnering with a company that shares your values and is committed to promoting equality, diversity, and fair work practices. We look forward to the opportunity to work with you and contribute to the success of your organization.",
+      "ordinal": 52,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service",
+        "An Example of AI Being Used in a Bid",
+        "An Example of AI Being Used to Write Bid Content"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00053",
+      "block_type": "p",
+      "text": "Should you require any further information or clarification, please do not hesitate to contact us.",
+      "ordinal": 53,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service",
+        "An Example of AI Being Used in a Bid",
+        "An Example of AI Being Used to Write Bid Content"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00054",
+      "block_type": "p",
+      "text": "Sincerely, [Your Name] [Your Position] [Your Company Name] [Contact Information]",
+      "ordinal": 54,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service",
+        "An Example of AI Being Used in a Bid",
+        "An Example of AI Being Used to Write Bid Content"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00055",
+      "block_type": "p",
+      "text": "While the above provides a reasonable generic response to the Fair Work and Equality aspects of the request, there is no substantive detail as to how the catering company in the example would deliver the service.",
+      "ordinal": 55,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service",
+        "An Example of AI Being Used in a Bid",
+        "An Example of AI Being Used to Write Bid Content"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00056",
+      "block_type": "p",
+      "text": "This illustrates the fact that bidders should not rely solely on AI to produce a bid. It is always essential that there is human intervention and contribution by bidders prior to submitting their bids.",
+      "ordinal": 56,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service",
+        "An Example of AI Being Used in a Bid",
+        "An Example of AI Being Used to Write Bid Content"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00057",
+      "block_type": "p",
+      "text": "You should inform bidders that it is their responsibility to check their bid before it is submitted to ensure accuracy and completeness. Proportional due diligence should also be conducted prior to contract award.",
+      "ordinal": 57,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service",
+        "An Example of AI Being Used in a Bid",
+        "An Example of AI Being Used to Write Bid Content"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00058",
+      "block_type": "p",
+      "text": "As always, you should aim to write your tender documents in a way that will result in clear, tangible, responses from your bidders. This will mitigate against bidders trying to solely use AI generated responses, which tend to be generic and are unlikely to be sufficiently tailored to specific requirements outlined in the ITT.",
+      "ordinal": 58,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service",
+        "An Example of AI Being Used in a Bid",
+        "An Example of AI Being Used to Write Bid Content"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00059",
+      "block_type": "p",
+      "text": "Quickfire Guide",
+      "ordinal": 59,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service",
+        "An Example of AI Being Used in a Bid",
+        "An Example of AI Being Used to Write Bid Content"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00060",
+      "block_type": "heading",
+      "text": "Useful Links and Guidance",
+      "ordinal": 60,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service",
+        "Useful Links and Guidance"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00061",
+      "block_type": "li",
+      "text": "The Scottish AI Register - use of the Scottish AI Register is now mandatory, initially on a non-statutory basis, for all Scottish Government Departments and Agencies. The register provides information on AI systems in use or in development with the Scottish public sector. Using the register, you can get to know the basics of those systems, or examine them in more detail, based on your own interests. You are also invited to ask questions and give feedback, to help develop trustworthy, ethical and inclusive AI systems. For each use case of AI, citizens can read on the register’s website a short summary in plain English of why and how AI is used, as well as more technical details if they wish.",
+      "ordinal": 61,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service",
+        "Useful Links and Guidance"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00062",
+      "block_type": "li",
+      "text": "The Scottish AI Playbook - an open, practical guide to how we do AI in Scotland. It is a shared and living asset, embodying Scotland’s AI Strategy ethos of openness, transparency and collaboration. With this in mind, the first iteration of the Scottish AI Playbook is available in a Wiki format, hosting accessible and dynamic content. It allows all users to participate and contribute to the existing resources they find relevant and useful.",
+      "ordinal": 62,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service",
+        "Useful Links and Guidance"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00063",
+      "block_type": "li",
+      "text": "The UK is a member country of the Organisation for Economic Co-operation and Development (OECD) - you can read more on their principles for using AI .",
+      "ordinal": 63,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service",
+        "Useful Links and Guidance"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00064",
+      "block_type": "li",
+      "text": "ICO: How to use AI and personal data – guidance from the Information Commissioner’s Office on responsible use of AI and personal data",
+      "ordinal": 64,
+      "heading_path": [
+        "Sensitive Information",
+        "If AI can Potentially be Used in the Delivery of the Service",
+        "Useful Links and Guidance"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "View PDF",
+      "href": "https://www.procurementjourney.scot/index.php/print/pdf/node/862",
+      "block_id": "b00000",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "guidance",
+      "href": "https://www.gov.uk/government/publications/guidance-to-civil-servants-on-use-of-generative-ai",
+      "block_id": "b00026",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "An Example of AI Being Used to Write Bid Content",
+      "href": "https://procurementjourney.scot/example-ai-being-used-write-bid-content",
+      "block_id": "b00031",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "The Scottish AI Register",
+      "href": "https://scottishairegister.com/",
+      "block_id": "b00061",
+      "ordinal": 3,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "The Scottish AI Playbook",
+      "href": "https://www.scottishaiplaybook.com/",
+      "block_id": "b00062",
+      "ordinal": 4,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "principles for using AI",
+      "href": "https://oecd.ai/en/ai-principles",
+      "block_id": "b00063",
+      "ordinal": 5,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "ICO: How to use AI and personal data",
+      "href": "https://ico.org.uk/media/for-organisations/documents/4022261/how-to-use-ai-and-personal-data.pdf",
+      "block_id": "b00064",
+      "ordinal": 6,
+      "link_type": "ATTACHMENT"
+    }
+  ],
+  "legal_references": [],
+  "attachments": [
+    {
+      "url": "https://ico.org.uk/media/for-organisations/documents/4022261/how-to-use-ai-and-personal-data.pdf",
+      "title": "ICO: How to use AI and personal data",
+      "discovered_in_block": "b00064"
+    }
+  ],
+  "warnings": []
+}

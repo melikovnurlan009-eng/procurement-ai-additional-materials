@@ -1,0 +1,703 @@
+{
+  "document_id": "cc068a08-3dfd-4876-bb1b-21fe7c3fa82a",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/c7c8ceda74f570d5c9dd8b01.json",
+  "input_sha256": "b64bdb88e28975cd17442bda5e6777fe1b0894bbaa1a4c2261f1b8a762ed0c61",
+  "processed_at": "2026-08-27T02:26:41.333853+00:00",
+  "title": "Guidance: Procurement Termination Notices (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-procurement-termination-notices-html",
+  "description": null,
+  "publication_date": "2024-08-02T12:31:38+01:00",
+  "updated_date": "2026-08-17T15:52:00+01:00",
+  "source_metadata": {
+    "content_id": "cc068a08-3dfd-4876-bb1b-21fe7c3fa82a",
+    "base_path": "/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-procurement-termination-notices-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What is a procurement termination notice?",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What is the legal framework that governs procurement termination notices?",
+      "ordinal": 2,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What has changed?",
+      "ordinal": 6,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Key points and policy intent",
+      "ordinal": 8,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Timing",
+      "ordinal": 16,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What are the notices linked to this aspect of the Act?",
+      "ordinal": 18,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What other guidance is of particular relevance to this topic area?",
+      "ordinal": 31,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "What is a procurement termination notice?",
+      "ordinal": 0,
+      "heading_path": [
+        "What is a procurement termination notice?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "1. A procurement termination notice informs the market that a contracting authority has decided not to award a contract and to terminate the procurement. It must be published on the central digital platform.",
+      "ordinal": 1,
+      "heading_path": [
+        "What is a procurement termination notice?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "heading",
+      "text": "What is the legal framework that governs procurement termination notices?",
+      "ordinal": 2,
+      "heading_path": [
+        "What is a procurement termination notice?",
+        "What is the legal framework that governs procurement termination notices?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "2. The relevant provisions are contained in:",
+      "ordinal": 3,
+      "heading_path": [
+        "What is a procurement termination notice?",
+        "What is the legal framework that governs procurement termination notices?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "a. section 55 (Procurement termination notices) of the Procurement Act 2023 (Act) , which sets out when the notice must be used; and",
+      "ordinal": 4,
+      "heading_path": [
+        "What is a procurement termination notice?",
+        "What is the legal framework that governs procurement termination notices?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "b. regulation 37 (Procurement termination notices), which sets out what information must be included in the notice.",
+      "ordinal": 5,
+      "heading_path": [
+        "What is a procurement termination notice?",
+        "What is the legal framework that governs procurement termination notices?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "heading",
+      "text": "What has changed?",
+      "ordinal": 6,
+      "heading_path": [
+        "What is a procurement termination notice?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "3. A procurement termination notice is a new concept introduced by the Act to inform suppliers and the public that the intentions of the contracting authority have changed, and the procurement is to be discontinued. In these circumstances, publication of the notice may reduce bid costs for suppliers (by allowing the release of resources they may have on standby) and provide increased market certainty.",
+      "ordinal": 7,
+      "heading_path": [
+        "What is a procurement termination notice?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "heading",
+      "text": "Key points and policy intent",
+      "ordinal": 8,
+      "heading_path": [
+        "What is a procurement termination notice?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "4. If a contracting authority decides not to award a public contract after it has published a tender or transparency notice but before the contract has been entered into, the Act requires the contracting authority to publish a procurement termination notice. This requirement does not apply to private utilities.",
+      "ordinal": 9,
+      "heading_path": [
+        "What is a procurement termination notice?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "p",
+      "text": "5. Each time a tender or transparency notice is published, it creates a data record of the procurement and any resulting contract. Failing to publish a procurement termination notice will result in suppliers not being aware of the termination and there being permanently incomplete data records on the central digital platform, with the number of ongoing procurements incorrectly including terminated procurements. This is unhelpful for anyone monitoring and using this data. A procurement termination notice is therefore required to ensure that the data record is correct and a complete history of the procurement, up to its termination, is available.",
+      "ordinal": 10,
+      "heading_path": [
+        "What is a procurement termination notice?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "6. The information required to be included in a procurement termination notice is set out in regulation 37 and includes a statement setting out that following the publication of a tender or transparency notice in respect of a contract, the contracting authority has decided not to award the contract, and the date when the contracting authority made the decision not to award the public contract.",
+      "ordinal": 11,
+      "heading_path": [
+        "What is a procurement termination notice?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "7. There are circumstances where the Act does not require contracting authorities to publish a procurement termination notice, but contracting authorities may wish to do so. A procurement termination notice may be published voluntarily to inform the market that a below-threshold procurement or a selection process under a framework has been terminated and a contract will not be awarded, or to publicise the fact that a process to establish a dynamic market has been terminated. It may also be published prior to a tender or transparency notice being published where a procurement indicated in an earlier notice, such as a planned procurement notice, preliminary market engagement notice, or pipeline notice, is being terminated and a tender or transparency notice will not be published.",
+      "ordinal": 12,
+      "heading_path": [
+        "What is a procurement termination notice?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "8. Where a procurement has progressed to the point of inviting tenders, either by the contracting authority publishing a tender notice or notifying selected suppliers in a multi-stage procedure, there is a reasonable expectation that suppliers will be incurring costs to prepare tenders. Contracting authorities should therefore inform suppliers directly of any decision to discontinue the procurement in addition to providing visibility of the decision through the publication of the procurement termination notice. Where a contracting authority is not yet aware of which suppliers intend to submit a tender, i.e. if first or only tenders have not yet been submitted, the procurement termination notice notifies suppliers of the termination of the procurement.",
+      "ordinal": 13,
+      "heading_path": [
+        "What is a procurement termination notice?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "9. Where a procurement has been divided into lots and some lots progress to contract award, but some lots do not, contracting authorities should use a contract award notice, rather than a procurement termination notice, to indicate this. This is done by completing the ‘ceased lot information’ (see regulation 27(2)(w) and 27(3) ).",
+      "ordinal": 14,
+      "heading_path": [
+        "What is a procurement termination notice?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "10. Once the contract has been entered into, the procurement termination notice is no longer relevant. Contracting authorities are required, however, to publish a contract termination notice after a public contract has terminated (see guidance on contract termination for more information).",
+      "ordinal": 15,
+      "heading_path": [
+        "What is a procurement termination notice?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "heading",
+      "text": "Timing",
+      "ordinal": 16,
+      "heading_path": [
+        "What is a procurement termination notice?",
+        "Key points and policy intent",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "11. Contracting authorities must publish a procurement termination notice as soon as reasonably practicable after making the decision to terminate the procurement. Whilst not defined specifically in the Act, timely notification is important to avoid suppliers incurring unnecessary costs in relation to the procurement. Contracting authorities should consider the covered procurement objectives in section 12(1)(c-d) of the Act which make it clear that contracting authorities must have regard to the importance of sharing information for the purpose of allowing suppliers and others to understand the authority’s procurement policies and decisions and acting, and being seen to act, with integrity.",
+      "ordinal": 17,
+      "heading_path": [
+        "What is a procurement termination notice?",
+        "Key points and policy intent",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "heading",
+      "text": "What are the notices linked to this aspect of the Act?",
+      "ordinal": 18,
+      "heading_path": [
+        "What is a procurement termination notice?",
+        "What are the notices linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "12. If a procurement is terminated prior to publication of a tender or transparency notice and the contracting authority decides to voluntarily publish a procurement termination notice, it may follow one of the following notices:",
+      "ordinal": 19,
+      "heading_path": [
+        "What is a procurement termination notice?",
+        "What are the notices linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "p",
+      "text": "a. pipeline notice;",
+      "ordinal": 20,
+      "heading_path": [
+        "What is a procurement termination notice?",
+        "What are the notices linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "b. preliminary market engagement notice;",
+      "ordinal": 21,
+      "heading_path": [
+        "What is a procurement termination notice?",
+        "What are the notices linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "p",
+      "text": "c. planned procurement notice;",
+      "ordinal": 22,
+      "heading_path": [
+        "What is a procurement termination notice?",
+        "What are the notices linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "d. tender notice (below-threshold version); or",
+      "ordinal": 23,
+      "heading_path": [
+        "What is a procurement termination notice?",
+        "What are the notices linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "e. dynamic market (intention) notice.",
+      "ordinal": 24,
+      "heading_path": [
+        "What is a procurement termination notice?",
+        "What are the notices linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "p",
+      "text": "13. If a procurement is terminated following publication of one of the following notices, the Act requires publication of the procurement termination notice:",
+      "ordinal": 25,
+      "heading_path": [
+        "What is a procurement termination notice?",
+        "What are the notices linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "p",
+      "text": "a. tender notice;",
+      "ordinal": 26,
+      "heading_path": [
+        "What is a procurement termination notice?",
+        "What are the notices linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "p",
+      "text": "b. transparency notice;",
+      "ordinal": 27,
+      "heading_path": [
+        "What is a procurement termination notice?",
+        "What are the notices linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "c. contract award notice (but prior to the contract being entered into).",
+      "ordinal": 28,
+      "heading_path": [
+        "What is a procurement termination notice?",
+        "What are the notices linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "p",
+      "text": "14. Contracting authorities must ensure that when publishing the procurement termination notice they refer back to the originating notice for the procurement. This should be a function of their system provider and authorities should check local procedures for further information on publishing notices.",
+      "ordinal": 29,
+      "heading_path": [
+        "What is a procurement termination notice?",
+        "What are the notices linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "p",
+      "text": "15. Where relevant, the procurement termination notice will be the last notice to be published on the central digital platform.",
+      "ordinal": 30,
+      "heading_path": [
+        "What is a procurement termination notice?",
+        "What are the notices linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "heading",
+      "text": "What other guidance is of particular relevance to this topic area?",
+      "ordinal": 31,
+      "heading_path": [
+        "What is a procurement termination notice?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "p",
+      "text": "Guidance on competitive tendering procedures",
+      "ordinal": 32,
+      "heading_path": [
+        "What is a procurement termination notice?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "p",
+      "text": "Guidance on direct award",
+      "ordinal": 33,
+      "heading_path": [
+        "What is a procurement termination notice?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "p",
+      "text": "Guidance on frameworks",
+      "ordinal": 34,
+      "heading_path": [
+        "What is a procurement termination notice?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "p",
+      "text": "Guidance on dynamic markets",
+      "ordinal": 35,
+      "heading_path": [
+        "What is a procurement termination notice?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "p",
+      "text": "Guidance on publication of information",
+      "ordinal": 36,
+      "heading_path": [
+        "What is a procurement termination notice?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "section 55",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/55",
+      "block_id": "b00004",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement Act 2023 (Act)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/contents",
+      "block_id": "b00004",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 37",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/37",
+      "block_id": "b00005",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 37",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/37",
+      "block_id": "b00011",
+      "ordinal": 3,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 27(2)(w) and 27(3)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/27",
+      "block_id": "b00014",
+      "ordinal": 4,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "contract termination",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-termination-html",
+      "block_id": "b00015",
+      "ordinal": 5,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 12(1)(c-d)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/12",
+      "block_id": "b00017",
+      "ordinal": 6,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "competitive tendering procedures",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/competitive-tendering-procedures-html",
+      "block_id": "b00032",
+      "ordinal": 7,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "direct award",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/direct-award-html",
+      "block_id": "b00033",
+      "ordinal": 8,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "frameworks",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-frameworks-html",
+      "block_id": "b00034",
+      "ordinal": 9,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "dynamic markets",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-dynamic-markets-html",
+      "block_id": "b00035",
+      "ordinal": 10,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "publication of information",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-central-digital-platform-and-publication-of-information-html",
+      "block_id": "b00036",
+      "ordinal": 11,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Guidance: Procurement Termination Notices (HTML)",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-procurement-termination-notices-html",
+      "block_id": "__document__",
+      "ordinal": 12,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2022 to 2024 Sunak Conservative government",
+      "href": "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 13,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 14,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Procurement Act 2023 guidance documents - Procure phase",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase",
+      "block_id": "__document__",
+      "ordinal": 15,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 16,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 55",
+      "block_id": "b00004",
+      "start": 3,
+      "end": 13,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "55"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 37",
+      "block_id": "b00005",
+      "start": 3,
+      "end": 16,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "37"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 37",
+      "block_id": "b00011",
+      "start": 93,
+      "end": 106,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "37"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 27(2)(w)",
+      "block_id": "b00014",
+      "start": 299,
+      "end": 318,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "27",
+        "tail": "(2)(w)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 12(1)",
+      "block_id": "b00017",
+      "start": 398,
+      "end": 411,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "12",
+        "tail": "(1)"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

@@ -1,0 +1,3834 @@
+{
+  "document_id": "1316c766-5ec3-4cca-9277-879071a1a148",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/6a120d38497353a1b311685d.json",
+  "input_sha256": "3856014b784da663090e9a8334154aaa03bc85237fa0b3dba375c6937ece1940",
+  "processed_at": "2026-08-27T02:26:21.570170+00:00",
+  "title": "Guidance: Contract Award Notices and Standstill (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-contract-award-notices-and-standstill-html",
+  "description": null,
+  "publication_date": "2024-08-02T12:31:39+01:00",
+  "updated_date": "2026-08-17T15:52:00+01:00",
+  "source_metadata": {
+    "content_id": "1316c766-5ec3-4cca-9277-879071a1a148",
+    "base_path": "/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-contract-award-notices-and-standstill-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What are contract award notices and how do they link with standstill?",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What is the legal framework that governs contract award and standstill?",
+      "ordinal": 3,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What has changed?",
+      "ordinal": 6,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Key points and policy intent",
+      "ordinal": 10,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Contract award notices",
+      "ordinal": 11,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Publication of a contract award notice following a competitive tendering procedure",
+      "ordinal": 25,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Lots",
+      "ordinal": 33,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Timing of the notice",
+      "ordinal": 38,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Publication of a contract award notice prior to a direct award",
+      "ordinal": 40,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Contract award notices published by private utilities",
+      "ordinal": 49,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Contract award notices published by private utilities: competitive tendering procedures",
+      "ordinal": 52,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Contract award notices published by private utilities: direct awards",
+      "ordinal": 54,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Contract award notices published by private utilities: contracts awarded under frameworks",
+      "ordinal": 56,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Standstill",
+      "ordinal": 58,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Application of the standstill period",
+      "ordinal": 69,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Entry into a contract",
+      "ordinal": 81,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What are the primary notices linked to this aspect of the Act?",
+      "ordinal": 84,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What other guidance is of particular relevance to this topic area?",
+      "ordinal": 89,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Annex A: Table setting out when assessment summaries, contract award notices and standstill periods are required",
+      "ordinal": 96,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "What are contract award notices and how do they link with standstill?",
+      "ordinal": 0,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "1. A contract award notice informs interested parties that the contracting authority intends to enter into a public contract with a specified supplier (or, where relevant, multiple suppliers).",
+      "ordinal": 1,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "2. The standstill period is the period between the contracting authority announcing its intention to enter into a contract (by publishing the contract award notice) and actually entering into that contract; the contracting authority cannot enter into the contract during the standstill period. The standstill period provides an opportunity for suppliers to raise any concerns about, or formally challenge, the award decision before the contract is entered into. It must be at least eight working days beginning with the day on which the contract award notice is published.",
+      "ordinal": 2,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "heading",
+      "text": "What is the legal framework that governs contract award and standstill?",
+      "ordinal": 3,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "What is the legal framework that governs contract award and standstill?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "3. Section 50 (Contract award notices and assessment summaries) of the Procurement Act 2023 (Act) sets out the requirement for contracting authorities to publish a contract award notice before entering into a public contract (and the exemptions to this requirement). Regulations 27-30 set out what needs to be included in this notice.",
+      "ordinal": 4,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "What is the legal framework that governs contract award and standstill?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "4. Section 51 (Standstill periods on the award of contracts) provides that the ‘mandatory standstill period’ is the period of eight working days beginning with the day the contract award notice is published. It also sets out the exemptions to this requirement and makes provision for a voluntary standstill period where these exemptions apply.",
+      "ordinal": 5,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "What is the legal framework that governs contract award and standstill?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "heading",
+      "text": "What has changed?",
+      "ordinal": 6,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "5. Contract award notices under the Act are different from contract award notices under the previous legislation which were used to inform interested parties that the contract had been entered into and to provide certain information about that contract. Under the Act, this function is broadly replicated by the contract details notice (see guidance on contract details notice for more information).",
+      "ordinal": 7,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "6. Under the Act, the publication of the contract award notice takes place before the contract has been entered into and starts the standstill period where applicable. This position is different from the previous legislation where the standstill period was triggered by issuing notices of a decision to award a contract (commonly referred to as ‘standstill letters’) to suppliers. The function of the standstill letter in providing information about assessed tenders is now provided by the assessment summary (see guidance on assessment summaries ). The requirement to publish a notice informing suppliers and other interested parties that the contracting authority intends to enter into a contract is a new obligation.",
+      "ordinal": 8,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "7. The standstill period is now a minimum of eight working days (rather than 10 calendar days) and applies to all public contracts apart from those listed in section 51(3) . This eight working day period will usually result in a standstill period commensurate with that under the previous legislation but avoids the standstill period being artificially shortened by bank holidays.holidays.",
+      "ordinal": 9,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "heading",
+      "text": "Key points and policy intent",
+      "ordinal": 10,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "heading",
+      "text": "Contract award notices",
+      "ordinal": 11,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Contract award notices"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "8. Before entering into a public contract, a contracting authority must publish a contract award notice on the central digital platform. This notice provides advanced information to suppliers and other interested parties that the contracting authority intends to enter into a contract and provides certain information about the contract. Generally, the contract award notice will initiate a standstill period of at least 8 working days, but there are exceptions. Further information on standstill is provided at paragraphs 37-50 below.",
+      "ordinal": 12,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Contract award notices"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "9. Section 50(6) provides that the requirement to publish a contract award notice does not apply to:",
+      "ordinal": 13,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Contract award notices"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "a. a defence and security contract awarded under a defence and security framework; or",
+      "ordinal": 14,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Contract award notices"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "b. a contract awarded under section 41 by reference to Schedule 5, paragraph 15 (Direct award: user choice contracts).",
+      "ordinal": 15,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Contract award notices"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "(The requirement to publish a contract award notice does not apply to below-threshold contracts as the requirement to publish a contract award notice only applies to public contracts.)",
+      "ordinal": 16,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Contract award notices"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "10. Regulations 27 to 30 set out the information to be included in contract award notices. Much of this information will replicate and update what was published in the tender notice or transparency notice (as relevant), including the value and scope of the contract. Significant additional information requirements are explained below.",
+      "ordinal": 17,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Contract award notices"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "p",
+      "text": "11. For private utilities, the information (set out in regulations 28-30) is slightly different from that for contract award notices published by other contracting authorities. This is because the notice for private utilities contains information that would usually be set out in the contract details notice, which private utilities are not required to publish. The differences for private utilities are set out at paragraphs 32-36 below.",
+      "ordinal": 18,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Contract award notices"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "12. For each supplier awarded the contract, information is required to be published about the supplier’s:",
+      "ordinal": 19,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Contract award notices"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "p",
+      "text": "a. associated persons, as defined in section 26(4) of the Act; and",
+      "ordinal": 20,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Contract award notices"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "b. connected persons as defined in Schedule 6, paragraph 45 of the Act.",
+      "ordinal": 21,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Contract award notices"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "p",
+      "text": "13. Regulation 11 sets out the supplier’s connected person information to be included in the contract award notice. For certain connected persons who are individuals, connected person information which is ‘secured information’ as defined in regulation 27(5) is not required to be published.",
+      "ordinal": 22,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Contract award notices"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "14. Where secured information is not required to be published, contracting authorities should instead indicate that there is a connected person who meets the description in regulation 11(3)(b) or (c) , or the description in regulation 11(15)(b) , but not provide any details. The information should be correct as at the time the notice is published. Whilst not a requirement of the legislation, once that connected person information no longer meets the definition of secured information, it would be good practice for the contracting authority to update the contract award notice with the connected person information.",
+      "ordinal": 23,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Contract award notices"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "15. The contracting authority must publish the date the decision was made to award the public contract to the supplier. This is in addition to the estimated date the contract will be entered into, which will be after any standstill period.",
+      "ordinal": 24,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Contract award notices"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "heading",
+      "text": "Publication of a contract award notice following a competitive tendering procedure",
+      "ordinal": 25,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Contract award notices",
+        "Publication of a contract award notice following a competitive tendering procedure"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "p",
+      "text": "16. In a competitive tendering procedure, in addition to updating information provided in the tender notice and that set out above, the contract award notice must include information about ‘assessed tenders’ (as defined in section 50(5) ) and, in the case of contracts over £5 million, the unsuccessful suppliers who submitted those tenders.",
+      "ordinal": 26,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Contract award notices",
+        "Publication of a contract award notice following a competitive tendering procedure"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "p",
+      "text": "17. In competitive tendering procedures for public contracts valued at under £5 million, the contract award notice does not need to include information about each unsuccessful supplier. Instead, the contract award notice must include:",
+      "ordinal": 27,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Contract award notices",
+        "Publication of a contract award notice following a competitive tendering procedure"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "a. the total number of tenders submitted by the contracting authority’s deadline for submitting tenders (discounting tenders submitted but subsequently withdrawn);",
+      "ordinal": 28,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Contract award notices",
+        "Publication of a contract award notice following a competitive tendering procedure"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "p",
+      "text": "b. the total number of tenders assessed by the contracting authority, and the total number of tenders assessed by the contracting authority which were submitted by either:",
+      "ordinal": 29,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Contract award notices",
+        "Publication of a contract award notice following a competitive tendering procedure"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "p",
+      "text": "i. a small and medium-sized enterprise; and",
+      "ordinal": 30,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Contract award notices",
+        "Publication of a contract award notice following a competitive tendering procedure"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "p",
+      "text": "ii. a non-governmental organisation that is value-driven and which principally reinvests its surpluses to further social, environmental or cultural objectives.",
+      "ordinal": 31,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Contract award notices",
+        "Publication of a contract award notice following a competitive tendering procedure"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "p",
+      "text": "18. Information relating to unsuccessful suppliers and their tenders is not required for call-off contracts under frameworks which do not involve the assessment of ‘tenders’, rather ‘proposals’ are assessed under section 46(8) of the Act. Where a call-off contract is being awarded under a framework, regulation 27 requires the contracting authority to state whether a competitive selection process or award without further competition was used to award the contract.",
+      "ordinal": 32,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Contract award notices",
+        "Publication of a contract award notice following a competitive tendering procedure"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "heading",
+      "text": "Lots",
+      "ordinal": 33,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Contract award notices",
+        "Lots"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "p",
+      "text": "19. A procurement may result in more than one contract being awarded, for example, if it is divided into lots. Where a supplier is successful in more than one lot, it may be awarded separate contracts for each lot or a single contract covering all or some of the lots it has been successful in. In this scenario, once the nature and content of each contract is known, the contracting authority can determine whether the contract to be awarded is a public contract, for example because it is above the relevant threshold, and therefore whether a contract award notice is required. It is possible for a procurement to result in some contracts that are public contracts, which generally require publication of a contract award notice, and some contracts that are not public contracts. It could also be the case that an above-threshold procurement results in only below-threshold contracts being awarded, for example because all lots and all contracts to be awarded are below-threshold. For those contracts that are not public contracts, contracting authorities will need to determine whether a below-threshold contract details notice will need to be published under section 87(4) . Contracting authorities are encouraged to voluntarily publish a contract award notice for these below-threshold contracts in order to provide greater transparency about the outcome of the procurement.",
+      "ordinal": 34,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Contract award notices",
+        "Lots"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "p",
+      "text": "20. If a contracting authority decides not to proceed with one or more lots during a procurement procedure (but not to terminate the entire procurement procedure), the contracting authority must include the ‘ceased lot information’ in the contract award notice, which will inform suppliers that those specific lots are not going to be awarded to any supplier. A contracting authority may decide not to award one or more lots in a procurement for a variety of reasons such as, for example, the contracting authority deciding it no longer wishes to procure the goods, services or works in those lots, or because no suitable tenders have been submitted with respect to those lots.",
+      "ordinal": 35,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Contract award notices",
+        "Lots"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "p",
+      "text": "21. The contracting authority can decide to cease procurement of a specific lot at any time after the tender notice has been published. This decision should be shared with interested suppliers (where known) as soon as the decision is made as well as being set out in the contract award notice. If the decision not to award a contract for a specified lot is made after the final assessment of tenders, suppliers will be informed through the contract award notice.",
+      "ordinal": 36,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Contract award notices",
+        "Lots"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "p",
+      "text": "22. A contracting authority is not required to explain or justify in the contract award notice its decision to cease the procurement of a specific lot, but it must have regard to the importance of sharing information for the purpose of allowing suppliers and others to understand its decision ( section 12(1)(c) ).",
+      "ordinal": 37,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Contract award notices",
+        "Lots"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "heading",
+      "text": "Timing of the notice",
+      "ordinal": 38,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Contract award notices",
+        "Timing of the notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "p",
+      "text": "23. In a competitive tendering procedure, the contract award notice can only be published after assessment summaries have been issued to successful and unsuccessful suppliers (see guidance on assessment summaries ). It is anticipated that in most circumstances the contracting authority will want to publish the contract award notice on the same day that the assessment summaries are provided, assuming assessment summaries are provided electronically. In others, they may want to build in a period of time following the provision of assessment summaries and before the contract award notice is published. The Act allows for both scenarios and does not prescribe any particular period of time between when assessment summaries are provided and when the contract award notice should be published. It will be for the contracting authority to determine the appropriate time to publish the contract award notice, taking into account the circumstances at hand, including the design of any competitive flexible procedure. Assessment summaries should be provided promptly after the award decision has been made.",
+      "ordinal": 39,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Contract award notices",
+        "Timing of the notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "heading",
+      "text": "Publication of a contract award notice prior to a direct award",
+      "ordinal": 40,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Contract award notices",
+        "Publication of a contract award notice prior to a direct award"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "p",
+      "text": "24. In the case of directly awarded contracts, the contract award notice provides similar and updated information to that set out in the transparency notice regarding the justification for the direct award as well as information about the supplier who has been awarded the contract (see guidance on direct award ). This includes where a contract is being awarded to an excluded supplier, the grounds under which the supplier is excluded and the overriding public interest that justifies awarding the contract to that supplier.",
+      "ordinal": 41,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Contract award notices",
+        "Publication of a contract award notice prior to a direct award"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "p",
+      "text": "25. If a contract is being awarded directly under regulations made under section 42 (Direct award to protect life, etc.), the title and registration number of the statutory instrument containing those regulations must be included in the contract award notice.",
+      "ordinal": 42,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Contract award notices",
+        "Publication of a contract award notice prior to a direct award"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "p",
+      "text": "26. If the contract is being directly awarded under section 43 (Switching to direct award) of the Act, the contracting authority must set out in the contract award notice why it considers it has not received any suitable tenders or requests to participate (see section 43(2) for when a tender or request is not suitable) and why it considers that award under section 19 is not possible in the circumstances.",
+      "ordinal": 43,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Contract award notices",
+        "Publication of a contract award notice prior to a direct award"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "p",
+      "text": "27. If a contracting authority has switched to direct award and awarded the contract under section 43 , it does not need to complete the elements of the contract award notice related to unsuccessful suppliers as publication of the transparency notice (as required under section 44 ) in this circumstance confirms that the contract is not to be awarded following a competitive tendering procedure.",
+      "ordinal": 44,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Contract award notices",
+        "Publication of a contract award notice prior to a direct award"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "p",
+      "text": "28. Where a contracting authority is directly awarding a contract, it must have published a transparency notice before it can publish a contract award notice. The purpose of the transparency notice is to provide visibility of the intention to directly award a contract and to provide transparency in the decision process and an opportunity for interested parties to consider the justification for the direct award. It is recommended that the transparency notice is published as soon as the decision to directly award the contract is made. (See guidance on direct award .)",
+      "ordinal": 45,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Contract award notices",
+        "Publication of a contract award notice prior to a direct award"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "p",
+      "text": "29. A contracting authority can publish a contract award notice at any point after publication of the transparency notice (i.e. there is no requirement to wait until the contract is about to be awarded). Early publication of the contract award notice can avoid any standstill period delaying the contracting authority entering into the contract and it could be published, for example, during negotiations or while contract administration is being finalised. Contracting authorities will, however, need to ensure that any contract award notice accurately reflects the contract that is to be awarded or the contract award notice will need to be re-published and (where relevant) a new standstill period observed.",
+      "ordinal": 46,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Contract award notices",
+        "Publication of a contract award notice prior to a direct award"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "p",
+      "text": "30. Publication of a contract award notice is mandatory whenever a contract is directly awarded except, as set out in paragraph 9 above, when this is under Schedule 5, paragraph 15 (Direct award: user choice contracts).",
+      "ordinal": 47,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Contract award notices",
+        "Publication of a contract award notice prior to a direct award"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "p",
+      "text": "31. Where multiple contracts will be entered into as a result of a single procurement exercise, it is possible for more than one public contract to be set out in the same contract award notice. The contracts can either be above threshold, below threshold or a combination of the two.",
+      "ordinal": 48,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Contract award notices",
+        "Publication of a contract award notice prior to a direct award"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "heading",
+      "text": "Contract award notices published by private utilities",
+      "ordinal": 49,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Contract award notices",
+        "Contract award notices published by private utilities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00050",
+      "block_type": "p",
+      "text": "32. The requirements for a contract award notice published by private utilities are set out in regulations 28-30 , with regulations 29 and 30 dealing specifically with contract award notices prior to direct award and award of a public contract under a framework, respectively.",
+      "ordinal": 50,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Contract award notices",
+        "Contract award notices published by private utilities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00051",
+      "block_type": "p",
+      "text": "33. In all three regulations, private utilities are required to publish a description of any option in the public contract to supply additional goods, services or works; or to extend or renew the term of the contract, which is not required for a standard contract award notice under regulation 27 (as this is included in the contract details notice (see paragraph 11 above)).",
+      "ordinal": 51,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Contract award notices",
+        "Contract award notices published by private utilities"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00052",
+      "block_type": "heading",
+      "text": "Contract award notices published by private utilities: competitive tendering procedures",
+      "ordinal": 52,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Contract award notices",
+        "Contract award notices published by private utilities: competitive tendering procedures"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00053",
+      "block_type": "p",
+      "text": "34. Regulation 28 sets out the information required to be included in contract award notices published by private utilities following an open or competitive tendering procedure. For the most part this is the same as that required under regulation 27 for a standard contract award notice. The exceptions are that private utilities are not required to provide information about tenders or unsuccessful suppliers as required for other contracting authorities.",
+      "ordinal": 53,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Contract award notices",
+        "Contract award notices published by private utilities: competitive tendering procedures"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00054",
+      "block_type": "heading",
+      "text": "Contract award notices published by private utilities: direct awards",
+      "ordinal": 54,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Contract award notices",
+        "Contract award notices published by private utilities: direct awards"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00055",
+      "block_type": "p",
+      "text": "35. Regulation 29 sets out the information required to be included in contract award notices published by private utilities prior to making a direct award. This requires less information to be included than for other contracting authorities.",
+      "ordinal": 55,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Contract award notices",
+        "Contract award notices published by private utilities: direct awards"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00056",
+      "block_type": "heading",
+      "text": "Contract award notices published by private utilities: contracts awarded under frameworks",
+      "ordinal": 56,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Contract award notices",
+        "Contract award notices published by private utilities: contracts awarded under frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00057",
+      "block_type": "p",
+      "text": "36. Whilst private utilities are required to publish contract award notices prior to entering into a contract awarded under a framework, the information required to be included in the notice is less than for other contracting authorities. Regulation 30 sets out this information.",
+      "ordinal": 57,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Contract award notices",
+        "Contract award notices published by private utilities: contracts awarded under frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00058",
+      "block_type": "heading",
+      "text": "Standstill",
+      "ordinal": 58,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Standstill"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00059",
+      "block_type": "p",
+      "text": "37. A standstill period, during which time the contracting authority is not permitted to enter into the contract, generally applies both to contracts awarded following a competitive tendering procedure and those that are directly awarded. However, there are some types of contracts (listed in section 51(3) of the Act) that do not require a standstill period to be observed, which are:",
+      "ordinal": 59,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Standstill"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00060",
+      "block_type": "p",
+      "text": "a. contracts directly awarded under:",
+      "ordinal": 60,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Standstill"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00061",
+      "block_type": "p",
+      "text": "i. Schedule 5, paragraph 13 (extreme and unavoidable urgency);",
+      "ordinal": 61,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Standstill"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00062",
+      "block_type": "p",
+      "text": "ii. regulations made under section 42 (Direct award to protect life, etc.); and",
+      "ordinal": 62,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Standstill"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00063",
+      "block_type": "p",
+      "text": "iii. sections 41 or 43 by a private utility;",
+      "ordinal": 63,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Standstill"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00064",
+      "block_type": "p",
+      "text": "b. call-off contracts awarded under a framework;",
+      "ordinal": 64,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Standstill"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00065",
+      "block_type": "p",
+      "text": "c. contracts awarded under a dynamic market; and",
+      "ordinal": 65,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Standstill"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00066",
+      "block_type": "p",
+      "text": "d. light touch contracts.",
+      "ordinal": 66,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Standstill"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00067",
+      "block_type": "p",
+      "text": "38. Where there is no requirement to observe a standstill period, contracting authorities can, however, choose to apply a voluntary standstill period. Like any required standstill period, any voluntary standstill period must be at least eight working days. If a voluntary standstill period is applied, a contracting authority must not enter into the contract before the end of that voluntary standstill period. Contracting authorities may wish to consider applying a voluntary standstill period as a means to manage the risk of the contract being set aside and other post contractual remedies for procurements and contract modifications (see section 104 ).",
+      "ordinal": 67,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Standstill"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00068",
+      "block_type": "p",
+      "text": "39. A legal challenge issued and notified during the standstill period will trigger automatic suspension, which prevents a contracting authority from entering into the contract until the challenge is withdrawn or resolved or the Court lifts the suspension. See guidance on remedies for more information. Any claims received outside of the standstill period will not trigger the automatic suspension, although suppliers may apply to the Court for an injunction which would have the same effect.",
+      "ordinal": 68,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Standstill"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00069",
+      "block_type": "heading",
+      "text": "Application of the standstill period",
+      "ordinal": 69,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Standstill",
+        "Application of the standstill period"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00070",
+      "block_type": "p",
+      "text": "40. As set out at paragraph 8 above, publication of the contract award notice triggers, where relevant, the standstill period required under the Act (and any voluntary standstill period applied by the contracting authority).",
+      "ordinal": 70,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Standstill",
+        "Application of the standstill period"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00071",
+      "block_type": "p",
+      "text": "41. The standstill period to apply is either the mandatory standstill period (eight working days) or any longer period set out in the contract award notice.",
+      "ordinal": 71,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Standstill",
+        "Application of the standstill period"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00072",
+      "block_type": "p",
+      "text": "42. The appropriate length of the standstill period should be considered during the procurement planning/development stage, taking into account the specific circumstances of the procurement. For example, if there is a large number of award criteria and therefore a lot of information provided in the assessment summary, contracting authorities may want to give suppliers a longer time to consider. Or, if the risk of a challenge being brought is considered to be high (perhaps because of the litigious nature of the market), giving suppliers more time to assure themselves that there is no basis for a claim may avoid a claim being issued prematurely, simply due to the pressure of the standstill period deadline. Contracting authorities may also decide that they wish to provide suppliers more time to review the information in assessment summaries when the standstill period falls over a holiday period and key staff in both supplier organisations and the contracting authority are likely to be on leave, as in the example at paragraph 47 below.",
+      "ordinal": 72,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Standstill",
+        "Application of the standstill period"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00073",
+      "block_type": "p",
+      "text": "43. The last day of the standstill period must be set out in the contract award notice. This is to ensure that all unsuccessful suppliers are clear about the deadline for issuing a claim which will trigger automatic suspension and prevent the contract from being entered into. The contract award notice may be updated to reflect a longer standstill period if a decision to extend it is made after the standstill period has commenced; for example, where a supplier raises a concern directly with the contracting authority during the standstill period and the outcome of discussions may determine whether a claim will be issued. The contracting authority may decide that extending the standstill period is beneficial to give the parties adequate time to engage and to ensure the supplier does not feel compelled to issue a claim that may otherwise have been avoided, simply due to the standstill deadline. In addition to re-publishing the contract award notice, the contracting authority should also notify affected suppliers directly of the extension to ensure that each supplier is aware they have longer to consider the information provided.",
+      "ordinal": 73,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Standstill",
+        "Application of the standstill period"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00074",
+      "block_type": "p",
+      "text": "44. It is important to remember that publication of the contract award notice is the first working day (‘working day one’) of the standstill period. If, for whatever reason, contracting authorities are unable to publish the contract award notice until late afternoon, they may wish to delay publication until the next morning in order to provide eight full working days. Alternatively, contracting authorities could add an additional working day to their standstill period.",
+      "ordinal": 74,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Standstill",
+        "Application of the standstill period"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00075",
+      "block_type": "p",
+      "text": "45. Assuming a standstill period of the minimum eight working days, contracting authorities must not enter into the contract until working day nine. Weekends and bank holidays [footnote 1] in any part of the United Kingdom do not count as working days for the purposes of calculating the standstill period. This means that a contracting authority will need to factor in all of the bank holidays in England, Wales, Scotland and Northern Ireland when calculating the standstill period.",
+      "ordinal": 75,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Standstill",
+        "Application of the standstill period"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00076",
+      "block_type": "p",
+      "text": "46. The below example assumes an eight working day standstill period with no public holidays.",
+      "ordinal": 76,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Standstill",
+        "Application of the standstill period"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00077",
+      "block_type": "table",
+      "text": "WD 1 (contract award notice published and start of standstill period)\tWD 2\tWD 3\tWD 4\tWD 5\tWD 6\tWD 7\tWD 8\tWD 9 (contract can be entered into)\nMon\tTue\tWed\tThu\tFri\tMon\tTue\tWed\tThu",
+      "ordinal": 77,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Standstill",
+        "Application of the standstill period"
+      ],
+      "source_locator": "details.body",
+      "metadata": {
+        "rows": [
+          [
+            "WD 1 (contract award notice published and start of standstill period)",
+            "WD 2",
+            "WD 3",
+            "WD 4",
+            "WD 5",
+            "WD 6",
+            "WD 7",
+            "WD 8",
+            "WD 9 (contract can be entered into)"
+          ],
+          [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+          ]
+        ],
+        "row_count": 2
+      }
+    },
+    {
+      "block_id": "b00078",
+      "block_type": "p",
+      "text": "47. The next example assumes an eight working day standstill period that takes place over the Christmas period. The bank holidays (Christmas Day, Boxing Day and New Year’s Day, which are bank holidays throughout the UK, and 2nd January, which is a bank holiday in Scotland only) have been taken into account.",
+      "ordinal": 78,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Standstill",
+        "Application of the standstill period"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00079",
+      "block_type": "table",
+      "text": "WD 1 (contract award notice published and start of standstill)\tWD 2\tWD 3\tWD 4\tWD 5\tWD 6\tWD 7\tWD 8\tWD 9 (contract can be entered into)\nWed 19 Dec\tThu 20 Dec\tFri 21 Dec\tMon 24 Dec\tThu 27 Dec\tFri 28 Dec\tMon 31 Dec\tThu 03 Jan\tFri 04 Jan",
+      "ordinal": 79,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Standstill",
+        "Application of the standstill period"
+      ],
+      "source_locator": "details.body",
+      "metadata": {
+        "rows": [
+          [
+            "WD 1 (contract award notice published and start of standstill)",
+            "WD 2",
+            "WD 3",
+            "WD 4",
+            "WD 5",
+            "WD 6",
+            "WD 7",
+            "WD 8",
+            "WD 9 (contract can be entered into)"
+          ],
+          [
+            "Wed 19 Dec",
+            "Thu 20 Dec",
+            "Fri 21 Dec",
+            "Mon 24 Dec",
+            "Thu 27 Dec",
+            "Fri 28 Dec",
+            "Mon 31 Dec",
+            "Thu 03 Jan",
+            "Fri 04 Jan"
+          ]
+        ],
+        "row_count": 2
+      }
+    },
+    {
+      "block_id": "b00080",
+      "block_type": "p",
+      "text": "48. There is no obligation to enter into the contract immediately after the standstill period has ended.",
+      "ordinal": 80,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Standstill",
+        "Application of the standstill period"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00081",
+      "block_type": "heading",
+      "text": "Entry into a contract",
+      "ordinal": 81,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Standstill",
+        "Entry into a contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00082",
+      "block_type": "p",
+      "text": "49. The term ‘enter into’ a contract is not defined in the Act or the regulations. It is the point when a legally binding contract comes into effect, which will be when the essential elements under contract law are satisfied (offer and acceptance; consideration; and intention to create legally binding relations).",
+      "ordinal": 82,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Standstill",
+        "Entry into a contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00083",
+      "block_type": "p",
+      "text": "50. When all of those elements have been satisfied will be fact-specific. For example, it may be when the contract is signed and dated, and that is likely to be the relevant date in the majority of cases. However, the date the contract is entered into may instead be, for example, after a particular event has occurred or based on when services or work start under the contract. It is for the contracting authority to determine the relevant date based on the circumstances. In doing so, contracting authorities must continue to have regard to the objective of information-sharing set out in section 12(1) and be transparent about when contracts have been entered into.",
+      "ordinal": 83,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Key points and policy intent",
+        "Standstill",
+        "Entry into a contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00084",
+      "block_type": "heading",
+      "text": "What are the primary notices linked to this aspect of the Act?",
+      "ordinal": 84,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "What are the primary notices linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00085",
+      "block_type": "p",
+      "text": "51. The function of the contract award notice means that it is published at the end of a process to award a contract. It will be preceded by either the tender notice (for competitive tendering procedures) or the transparency notice (for contracts awarded directly under sections 41 or 43 or under regulations made under section 42 ).",
+      "ordinal": 85,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "What are the primary notices linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00086",
+      "block_type": "p",
+      "text": "52. The next notice in the sequence after the contract award notice will be one of the following:",
+      "ordinal": 86,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "What are the primary notices linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00087",
+      "block_type": "p",
+      "text": "a. the procurement termination notice: in the unlikely event that the contracting authority decides not to award the contract after the award decision has been made (or if it is required (for example by a Court) to terminate or re-start a procurement) before the contract is entered into;",
+      "ordinal": 87,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "What are the primary notices linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00088",
+      "block_type": "p",
+      "text": "b. contract details notice: informs interested parties that the contract has been entered into. Unless an exemption applies (for example in the case of private utilities), it must be published after the contracting authority has entered into the contract. If a contracting authority enters into a contract which is terminated or requires modification or is subject to partial termination before the contract details notice has been published, the contracting authority must first publish the contract details notice for the contract before publishing the next relevant notice.",
+      "ordinal": 88,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "What are the primary notices linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00089",
+      "block_type": "heading",
+      "text": "What other guidance is of particular relevance to this topic area?",
+      "ordinal": 89,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00090",
+      "block_type": "p",
+      "text": "Guidance on publication of information",
+      "ordinal": 90,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00091",
+      "block_type": "p",
+      "text": "Guidance on direct award",
+      "ordinal": 91,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00092",
+      "block_type": "p",
+      "text": "Guidance on competitive tendering procedures",
+      "ordinal": 92,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00093",
+      "block_type": "p",
+      "text": "Guidance on assessing competitive tenders",
+      "ordinal": 93,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00094",
+      "block_type": "p",
+      "text": "Guidance on assessment summaries",
+      "ordinal": 94,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00095",
+      "block_type": "p",
+      "text": "Guidance on lots",
+      "ordinal": 95,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00096",
+      "block_type": "heading",
+      "text": "Annex A: Table setting out when assessment summaries, contract award notices and standstill periods are required",
+      "ordinal": 96,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Annex A: Table setting out when assessment summaries, contract award notices and standstill periods are required"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00097",
+      "block_type": "table",
+      "text": "Procurement type\tRequires assessment summary\tLegislative reference\tRequires contract award notice\tLegislative reference\tRequires standstill period\tLegislative reference\nPublic contracts awarded under section 19\tY\tSection 50(3)\tY\tSection 50(1)\tY\tSection 51(1)\nLight touch contracts awarded under section 19\tY\tSection 50(3)\tY\tSection 50(1)\tN\tSection 51(3)\nA defence and security contract awarded under a defence and security framework\tN\tSection 50(6)(a)\tN\tSection 50(6)(a)\tN\tSection 50(6)\nBelow-threshold contracts, including where awarded under a framework\tN\tSection 50(1)\tN\tSection 50(1)\tN\tSection 51(1)\nDirect award: user choice contracts\tN\tSection 50(6)(b)\tN\tSection 50 (6)(b)\tN\tSection 51(2)\nDirect award: extreme and unavoidable urgency\tN\tSection 50(5)\tY\tSection 50(1)\tN\tSection 51 (3)(a)\nDirect award to protect life\tN\tSection 50(5)\tY\tSection 50(1)\tN\tSection 51 (3)(b)\nDirect award: switching to direct award\tN\tSection 50(5)\tY\tSection 50(1)\tY [footnote 2]\tSection 51(3)(c)\nDirect award: other justification as set out in Schedule 5\tN\tSection 50(5)\tY\tSection 50(1)\tY\tSection 51(1)\nEstablishment of a framework that is a public contract\tY\tSection 50(3)\tY\tSection 50(1)\tY\tSection 51(1)\nPublic contracts awarded under a framework following a competitive selection process\tN\tSection 46 [footnote 3] and 50(3)\tY\tSection 50(1)\tN\tSection 51(3)(d)\nPublic contracts awarded under a framework without further competition\tN\tSection 50(3)\tY\tSection 50(1)\tN\tSection 51(3)(d)\nPublic contracts that are utilities contracts awarded under a framework (with or without competition) by private utilities\tN\tSection 50(3)\tY [footnote 4]\tSection 50(1)\tN\tSection 51(3)(d)\nDynamic market establishment (including utilities dynamic market and utilities dynamic market established under section 40 )\tN\tA dynamic market is not a contract\tN\tA dynamic market is not a contract\tN\tA dynamic market is not a contract\nPublic contracts (call-offs) awarded under a dynamic market, utilities dynamic market or qualifying utilities dynamic market\tY\tSection 50(3)\tY\tSection 50(1)\tN\tSection 51(3)(e)",
+      "ordinal": 97,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Annex A: Table setting out when assessment summaries, contract award notices and standstill periods are required"
+      ],
+      "source_locator": "details.body",
+      "metadata": {
+        "rows": [
+          [
+            "Procurement type",
+            "Requires assessment summary",
+            "Legislative reference",
+            "Requires contract award notice",
+            "Legislative reference",
+            "Requires standstill period",
+            "Legislative reference"
+          ],
+          [
+            "Public contracts awarded under section 19",
+            "Y",
+            "Section 50(3)",
+            "Y",
+            "Section 50(1)",
+            "Y",
+            "Section 51(1)"
+          ],
+          [
+            "Light touch contracts awarded under section 19",
+            "Y",
+            "Section 50(3)",
+            "Y",
+            "Section 50(1)",
+            "N",
+            "Section 51(3)"
+          ],
+          [
+            "A defence and security contract awarded under a defence and security framework",
+            "N",
+            "Section 50(6)(a)",
+            "N",
+            "Section 50(6)(a)",
+            "N",
+            "Section 50(6)"
+          ],
+          [
+            "Below-threshold contracts, including where awarded under a framework",
+            "N",
+            "Section 50(1)",
+            "N",
+            "Section 50(1)",
+            "N",
+            "Section 51(1)"
+          ],
+          [
+            "Direct award: user choice contracts",
+            "N",
+            "Section 50(6)(b)",
+            "N",
+            "Section 50 (6)(b)",
+            "N",
+            "Section 51(2)"
+          ],
+          [
+            "Direct award: extreme and unavoidable urgency",
+            "N",
+            "Section 50(5)",
+            "Y",
+            "Section 50(1)",
+            "N",
+            "Section 51 (3)(a)"
+          ],
+          [
+            "Direct award to protect life",
+            "N",
+            "Section 50(5)",
+            "Y",
+            "Section 50(1)",
+            "N",
+            "Section 51 (3)(b)"
+          ],
+          [
+            "Direct award: switching to direct award",
+            "N",
+            "Section 50(5)",
+            "Y",
+            "Section 50(1)",
+            "Y [footnote 2]",
+            "Section 51(3)(c)"
+          ],
+          [
+            "Direct award: other justification as set out in Schedule 5",
+            "N",
+            "Section 50(5)",
+            "Y",
+            "Section 50(1)",
+            "Y",
+            "Section 51(1)"
+          ],
+          [
+            "Establishment of a framework that is a public contract",
+            "Y",
+            "Section 50(3)",
+            "Y",
+            "Section 50(1)",
+            "Y",
+            "Section 51(1)"
+          ],
+          [
+            "Public contracts awarded under a framework following a competitive selection process",
+            "N",
+            "Section 46 [footnote 3] and 50(3)",
+            "Y",
+            "Section 50(1)",
+            "N",
+            "Section 51(3)(d)"
+          ],
+          [
+            "Public contracts awarded under a framework without further competition",
+            "N",
+            "Section 50(3)",
+            "Y",
+            "Section 50(1)",
+            "N",
+            "Section 51(3)(d)"
+          ],
+          [
+            "Public contracts that are utilities contracts awarded under a framework (with or without competition) by private utilities",
+            "N",
+            "Section 50(3)",
+            "Y [footnote 4]",
+            "Section 50(1)",
+            "N",
+            "Section 51(3)(d)"
+          ],
+          [
+            "Dynamic market establishment (including utilities dynamic market and utilities dynamic market established under section 40 )",
+            "N",
+            "A dynamic market is not a contract",
+            "N",
+            "A dynamic market is not a contract",
+            "N",
+            "A dynamic market is not a contract"
+          ],
+          [
+            "Public contracts (call-offs) awarded under a dynamic market, utilities dynamic market or qualifying utilities dynamic market",
+            "Y",
+            "Section 50(3)",
+            "Y",
+            "Section 50(1)",
+            "N",
+            "Section 51(3)(e)"
+          ]
+        ],
+        "row_count": 16
+      }
+    },
+    {
+      "block_id": "b00098",
+      "block_type": "p",
+      "text": "Where there is no requirement to publish a contract award notice, there will also be no requirement to publish either an assessment summary or to observe a standstill period in relation to the procurement. This is because the assessment summary must be provided before publishing the contract award notice (section 50(3)) and it is the contract award notice which triggers the standstill period (section 51(2).",
+      "ordinal": 98,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Annex A: Table setting out when assessment summaries, contract award notices and standstill periods are required"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00099",
+      "block_type": "li",
+      "text": "Bank holidays in the UK are listed or created under the Banking and Financial Dealings Act 1977 ↩",
+      "ordinal": 99,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Annex A: Table setting out when assessment summaries, contract award notices and standstill periods are required"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00100",
+      "block_type": "p",
+      "text": "Bank holidays in the UK are listed or created under the Banking and Financial Dealings Act 1977 ↩",
+      "ordinal": 100,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Annex A: Table setting out when assessment summaries, contract award notices and standstill periods are required"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00101",
+      "block_type": "li",
+      "text": "Unless the contract is being awarded by a private utility. ↩",
+      "ordinal": 101,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Annex A: Table setting out when assessment summaries, contract award notices and standstill periods are required"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00102",
+      "block_type": "p",
+      "text": "Unless the contract is being awarded by a private utility. ↩",
+      "ordinal": 102,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Annex A: Table setting out when assessment summaries, contract award notices and standstill periods are required"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00103",
+      "block_type": "li",
+      "text": "A competitive selection process for the award of a call-off contract under a framework does not have the same meaning in law as a section 19 competitive tendering procedure. This means that in the case of call-off contracts, assessment summaries and standstill periods are not required, regardless of whether a competitive selection process is used, but they may be applied optionally at the discretion of the contracting authority. ↩",
+      "ordinal": 103,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Annex A: Table setting out when assessment summaries, contract award notices and standstill periods are required"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00104",
+      "block_type": "p",
+      "text": "A competitive selection process for the award of a call-off contract under a framework does not have the same meaning in law as a section 19 competitive tendering procedure. This means that in the case of call-off contracts, assessment summaries and standstill periods are not required, regardless of whether a competitive selection process is used, but they may be applied optionally at the discretion of the contracting authority. ↩",
+      "ordinal": 104,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Annex A: Table setting out when assessment summaries, contract award notices and standstill periods are required"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00105",
+      "block_type": "li",
+      "text": "Contract award notices published by private utilities when awarding public contracts that are utilities contracts are required to contain less information than a standard contract award notice (see regulation 30 ) ↩",
+      "ordinal": 105,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Annex A: Table setting out when assessment summaries, contract award notices and standstill periods are required"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00106",
+      "block_type": "p",
+      "text": "Contract award notices published by private utilities when awarding public contracts that are utilities contracts are required to contain less information than a standard contract award notice (see regulation 30 ) ↩",
+      "ordinal": 106,
+      "heading_path": [
+        "What are contract award notices and how do they link with standstill?",
+        "Annex A: Table setting out when assessment summaries, contract award notices and standstill periods are required"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "Section 50",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/50",
+      "block_id": "b00004",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement Act 2023 (Act)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/contents",
+      "block_id": "b00004",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Regulations 27-30",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/part/2",
+      "block_id": "b00004",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 51",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/51",
+      "block_id": "b00005",
+      "ordinal": 3,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "contract details notice",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-contract-details-notices-html",
+      "block_id": "b00007",
+      "ordinal": 4,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "assessment summaries",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-assessment-summaries-html",
+      "block_id": "b00008",
+      "ordinal": 5,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 51(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/51",
+      "block_id": "b00009",
+      "ordinal": 6,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 50(6)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/50",
+      "block_id": "b00013",
+      "ordinal": 7,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 41",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/41",
+      "block_id": "b00015",
+      "ordinal": 8,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 5, paragraph 15",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/5/paragraph/15",
+      "block_id": "b00015",
+      "ordinal": 9,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Regulations 27 to 30",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/part/2",
+      "block_id": "b00017",
+      "ordinal": 10,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 26(4)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/26",
+      "block_id": "b00020",
+      "ordinal": 11,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 6, paragraph 45",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/6/paragraph/45",
+      "block_id": "b00021",
+      "ordinal": 12,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Regulation 11",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/11",
+      "block_id": "b00022",
+      "ordinal": 13,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 27(5)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/27",
+      "block_id": "b00022",
+      "ordinal": 14,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 11(3)(b) or (c)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/11",
+      "block_id": "b00023",
+      "ordinal": 15,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 11(15)(b)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/11",
+      "block_id": "b00023",
+      "ordinal": 16,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 50(5)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/50",
+      "block_id": "b00026",
+      "ordinal": 17,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 46(8)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/46",
+      "block_id": "b00032",
+      "ordinal": 18,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 27",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/27",
+      "block_id": "b00032",
+      "ordinal": 19,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 87(4)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/87",
+      "block_id": "b00034",
+      "ordinal": 20,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 12(1)(c)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/12",
+      "block_id": "b00037",
+      "ordinal": 21,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "assessment summaries",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-assessment-summaries-html",
+      "block_id": "b00039",
+      "ordinal": 22,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "direct award",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/direct-award-html",
+      "block_id": "b00041",
+      "ordinal": 23,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 42",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/42",
+      "block_id": "b00042",
+      "ordinal": 24,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 43",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/43",
+      "block_id": "b00043",
+      "ordinal": 25,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 43(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/43",
+      "block_id": "b00043",
+      "ordinal": 26,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 19",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/19",
+      "block_id": "b00043",
+      "ordinal": 27,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 43",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/43",
+      "block_id": "b00044",
+      "ordinal": 28,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 44",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/44",
+      "block_id": "b00044",
+      "ordinal": 29,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "direct award",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/direct-award-html",
+      "block_id": "b00045",
+      "ordinal": 30,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 5, paragraph 15",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/5/paragraph/15",
+      "block_id": "b00047",
+      "ordinal": 31,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulations 28-30",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/part/2",
+      "block_id": "b00050",
+      "ordinal": 32,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulations 29 and 30",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/part/2",
+      "block_id": "b00050",
+      "ordinal": 33,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 27",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/27",
+      "block_id": "b00051",
+      "ordinal": 34,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Regulation 28",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/28",
+      "block_id": "b00053",
+      "ordinal": 35,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 27",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/27",
+      "block_id": "b00053",
+      "ordinal": 36,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Regulation 30",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/30",
+      "block_id": "b00057",
+      "ordinal": 37,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 51(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/51",
+      "block_id": "b00059",
+      "ordinal": 38,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 5, paragraph 13",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/5/paragraph/13",
+      "block_id": "b00061",
+      "ordinal": 39,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 42",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/42",
+      "block_id": "b00062",
+      "ordinal": 40,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "sections 41 or 43",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/part/3/chapter/3",
+      "block_id": "b00063",
+      "ordinal": 41,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 104",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/104",
+      "block_id": "b00067",
+      "ordinal": 42,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "remedies",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-remedies-html",
+      "block_id": "b00068",
+      "ordinal": 43,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "[footnote 1]",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-contract-award-notices-and-standstill-html#fn:1",
+      "block_id": "b00075",
+      "ordinal": 44,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "section 12(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/12",
+      "block_id": "b00083",
+      "ordinal": 45,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "sections 41 or 43",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/part/3/chapter/3",
+      "block_id": "b00085",
+      "ordinal": 46,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 42",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/42",
+      "block_id": "b00085",
+      "ordinal": 47,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "publication of information",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-central-digital-platform-and-publication-of-information-html",
+      "block_id": "b00090",
+      "ordinal": 48,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "direct award",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/direct-award-html",
+      "block_id": "b00091",
+      "ordinal": 49,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "competitive tendering procedures",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/competitive-tendering-procedures-html",
+      "block_id": "b00092",
+      "ordinal": 50,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "assessing competitive tenders",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/assessing-competitive-tenders-html",
+      "block_id": "b00093",
+      "ordinal": 51,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "assessment summaries",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-assessment-summaries-html",
+      "block_id": "b00094",
+      "ordinal": 52,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "lots",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-lots-html",
+      "block_id": "b00095",
+      "ordinal": 53,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 19",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/19",
+      "block_id": "b00097",
+      "ordinal": 54,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 50(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/50",
+      "block_id": "b00097",
+      "ordinal": 55,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 50(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/50",
+      "block_id": "b00097",
+      "ordinal": 56,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 51(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/51",
+      "block_id": "b00097",
+      "ordinal": 57,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 19",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/19",
+      "block_id": "b00097",
+      "ordinal": 58,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 50(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/50",
+      "block_id": "b00097",
+      "ordinal": 59,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 50(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/50",
+      "block_id": "b00097",
+      "ordinal": 60,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 51(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/51",
+      "block_id": "b00097",
+      "ordinal": 61,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 50(6)(a)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/50",
+      "block_id": "b00097",
+      "ordinal": 62,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 50(6)(a)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/50",
+      "block_id": "b00097",
+      "ordinal": 63,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 50(6)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/50",
+      "block_id": "b00097",
+      "ordinal": 64,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 50(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/50",
+      "block_id": "b00097",
+      "ordinal": 65,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 50(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/50",
+      "block_id": "b00097",
+      "ordinal": 66,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 51(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/51",
+      "block_id": "b00097",
+      "ordinal": 67,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 50(6)(b)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/50",
+      "block_id": "b00097",
+      "ordinal": 68,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 50 (6)(b)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/50",
+      "block_id": "b00097",
+      "ordinal": 69,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 51(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/51",
+      "block_id": "b00097",
+      "ordinal": 70,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 50(5)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/50",
+      "block_id": "b00097",
+      "ordinal": 71,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 50(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/50",
+      "block_id": "b00097",
+      "ordinal": 72,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 51 (3)(a)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/51",
+      "block_id": "b00097",
+      "ordinal": 73,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 50(5)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/50",
+      "block_id": "b00097",
+      "ordinal": 74,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 50(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/50",
+      "block_id": "b00097",
+      "ordinal": 75,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 51 (3)(b)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/51",
+      "block_id": "b00097",
+      "ordinal": 76,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 50(5)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/50",
+      "block_id": "b00097",
+      "ordinal": 77,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 50(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/50",
+      "block_id": "b00097",
+      "ordinal": 78,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "[footnote 2]",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-contract-award-notices-and-standstill-html#fn:2",
+      "block_id": "b00097",
+      "ordinal": 79,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Section 51(3)(c)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/51",
+      "block_id": "b00097",
+      "ordinal": 80,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 5",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/5",
+      "block_id": "b00097",
+      "ordinal": 81,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 50(5)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/50",
+      "block_id": "b00097",
+      "ordinal": 82,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 50(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/50",
+      "block_id": "b00097",
+      "ordinal": 83,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 51(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/51",
+      "block_id": "b00097",
+      "ordinal": 84,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 50(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/50",
+      "block_id": "b00097",
+      "ordinal": 85,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 50(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/50",
+      "block_id": "b00097",
+      "ordinal": 86,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 51(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/51",
+      "block_id": "b00097",
+      "ordinal": 87,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 46",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/46",
+      "block_id": "b00097",
+      "ordinal": 88,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "[footnote 3]",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-contract-award-notices-and-standstill-html#fn:3",
+      "block_id": "b00097",
+      "ordinal": 89,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "50(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/50",
+      "block_id": "b00097",
+      "ordinal": 90,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 50(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/50",
+      "block_id": "b00097",
+      "ordinal": 91,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 51(3)(d)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/51",
+      "block_id": "b00097",
+      "ordinal": 92,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 50(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/50",
+      "block_id": "b00097",
+      "ordinal": 93,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 50(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/50",
+      "block_id": "b00097",
+      "ordinal": 94,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 51(3)(d)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/51",
+      "block_id": "b00097",
+      "ordinal": 95,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 50(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/50",
+      "block_id": "b00097",
+      "ordinal": 96,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "[footnote 4]",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-contract-award-notices-and-standstill-html#fn:4",
+      "block_id": "b00097",
+      "ordinal": 97,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Section 50(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/50",
+      "block_id": "b00097",
+      "ordinal": 98,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 51(3)(d)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/51",
+      "block_id": "b00097",
+      "ordinal": 99,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 40",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/40",
+      "block_id": "b00097",
+      "ordinal": 100,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 50(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/50",
+      "block_id": "b00097",
+      "ordinal": 101,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 50(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/50",
+      "block_id": "b00097",
+      "ordinal": 102,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 51(3)(e)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/51",
+      "block_id": "b00097",
+      "ordinal": 103,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Banking and Financial Dealings Act 1977",
+      "href": "https://www.legislation.gov.uk/ukpga/1971/80/contents",
+      "block_id": "b00099",
+      "ordinal": 104,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-contract-award-notices-and-standstill-html#fnref:1",
+      "block_id": "b00099",
+      "ordinal": 105,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Banking and Financial Dealings Act 1977",
+      "href": "https://www.legislation.gov.uk/ukpga/1971/80/contents",
+      "block_id": "b00100",
+      "ordinal": 106,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-contract-award-notices-and-standstill-html#fnref:1",
+      "block_id": "b00100",
+      "ordinal": 107,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-contract-award-notices-and-standstill-html#fnref:2",
+      "block_id": "b00101",
+      "ordinal": 108,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-contract-award-notices-and-standstill-html#fnref:2",
+      "block_id": "b00102",
+      "ordinal": 109,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "section 19",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/19",
+      "block_id": "b00103",
+      "ordinal": 110,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-contract-award-notices-and-standstill-html#fnref:3",
+      "block_id": "b00103",
+      "ordinal": 111,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "section 19",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/19",
+      "block_id": "b00104",
+      "ordinal": 112,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-contract-award-notices-and-standstill-html#fnref:3",
+      "block_id": "b00104",
+      "ordinal": 113,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "regulation 30",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/30",
+      "block_id": "b00105",
+      "ordinal": 114,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-contract-award-notices-and-standstill-html#fnref:4",
+      "block_id": "b00105",
+      "ordinal": 115,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "regulation 30",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/30",
+      "block_id": "b00106",
+      "ordinal": 116,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-contract-award-notices-and-standstill-html#fnref:4",
+      "block_id": "b00106",
+      "ordinal": 117,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Guidance: Contract Award Notices and Standstill (HTML)",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-contract-award-notices-and-standstill-html",
+      "block_id": "__document__",
+      "ordinal": 118,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2022 to 2024 Sunak Conservative government",
+      "href": "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 119,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 120,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Procurement Act 2023 guidance documents - Procure phase",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase",
+      "block_id": "__document__",
+      "ordinal": 121,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 122,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 50",
+      "block_id": "b00004",
+      "start": 3,
+      "end": 13,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "50"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 27",
+      "block_id": "b00004",
+      "start": 267,
+      "end": 281,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "27"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 51",
+      "block_id": "b00005",
+      "start": 3,
+      "end": 13,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "51"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 51(3)",
+      "block_id": "b00009",
+      "start": 158,
+      "end": 171,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "51",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraphs 37",
+      "block_id": "b00012",
+      "start": 512,
+      "end": 525,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "37"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 50(6)",
+      "block_id": "b00013",
+      "start": 3,
+      "end": 16,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "50",
+        "tail": "(6)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 41",
+      "block_id": "b00015",
+      "start": 28,
+      "end": 38,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "41"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 5, paragraph 15",
+      "block_id": "b00015",
+      "start": 55,
+      "end": 79,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "5",
+        "paragraph": "15"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 15",
+      "block_id": "b00015",
+      "start": 67,
+      "end": 79,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "15"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 27",
+      "block_id": "b00017",
+      "start": 4,
+      "end": 18,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "27"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulations 28",
+      "block_id": "b00018",
+      "start": 55,
+      "end": 69,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "28"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraphs 32",
+      "block_id": "b00018",
+      "start": 415,
+      "end": 428,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "32"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 26(4)",
+      "block_id": "b00020",
+      "start": 37,
+      "end": 50,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "26",
+        "tail": "(4)"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 6, paragraph 45",
+      "block_id": "b00021",
+      "start": 35,
+      "end": 59,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "6",
+        "paragraph": "45"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 45",
+      "block_id": "b00021",
+      "start": 47,
+      "end": 59,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "45"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 11",
+      "block_id": "b00022",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "11"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 27(5)",
+      "block_id": "b00022",
+      "start": 241,
+      "end": 257,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "27",
+        "tail": "(5)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 11(3)(b)",
+      "block_id": "b00023",
+      "start": 173,
+      "end": 192,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "11",
+        "tail": "(3)(b)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 11(15)(b)",
+      "block_id": "b00023",
+      "start": 224,
+      "end": 244,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "11",
+        "tail": "(15)(b)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 50(5)",
+      "block_id": "b00026",
+      "start": 223,
+      "end": 236,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "50",
+        "tail": "(5)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 46(8)",
+      "block_id": "b00032",
+      "start": 213,
+      "end": 226,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "46",
+        "tail": "(8)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 27",
+      "block_id": "b00032",
+      "start": 301,
+      "end": 314,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "27"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 87(4)",
+      "block_id": "b00034",
+      "start": 1163,
+      "end": 1176,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "87",
+        "tail": "(4)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 12(1)(c)",
+      "block_id": "b00037",
+      "start": 295,
+      "end": 311,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "12",
+        "tail": "(1)(c)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 42",
+      "block_id": "b00042",
+      "start": 73,
+      "end": 83,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "42"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 43",
+      "block_id": "b00043",
+      "start": 52,
+      "end": 62,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "43"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 43(2)",
+      "block_id": "b00043",
+      "start": 261,
+      "end": 274,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "43",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 19",
+      "block_id": "b00043",
+      "start": 359,
+      "end": 369,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "19"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 43",
+      "block_id": "b00044",
+      "start": 91,
+      "end": 101,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "43"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 44",
+      "block_id": "b00044",
+      "start": 270,
+      "end": 280,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "44"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 5, paragraph 15",
+      "block_id": "b00047",
+      "start": 156,
+      "end": 180,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "5",
+        "paragraph": "15"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 9",
+      "block_id": "b00047",
+      "start": 118,
+      "end": 129,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "9"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 15",
+      "block_id": "b00047",
+      "start": 168,
+      "end": 180,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "15"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulations 28",
+      "block_id": "b00050",
+      "start": 95,
+      "end": 109,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "28"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulations 29",
+      "block_id": "b00050",
+      "start": 120,
+      "end": 134,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "29"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 27",
+      "block_id": "b00051",
+      "start": 283,
+      "end": 296,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "27"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 11",
+      "block_id": "b00051",
+      "start": 354,
+      "end": 366,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "11"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 28",
+      "block_id": "b00053",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "28"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 27",
+      "block_id": "b00053",
+      "start": 236,
+      "end": 249,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "27"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 29",
+      "block_id": "b00055",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "29"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 30",
+      "block_id": "b00057",
+      "start": 239,
+      "end": 252,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "30"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 51(3)",
+      "block_id": "b00059",
+      "start": 293,
+      "end": 306,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "51",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 5, paragraph 13",
+      "block_id": "b00061",
+      "start": 3,
+      "end": 27,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "5",
+        "paragraph": "13"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 13",
+      "block_id": "b00061",
+      "start": 15,
+      "end": 27,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "13"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 42",
+      "block_id": "b00062",
+      "start": 27,
+      "end": 37,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "42"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "sections 41",
+      "block_id": "b00063",
+      "start": 5,
+      "end": 16,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "41"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 104",
+      "block_id": "b00067",
+      "start": 642,
+      "end": 653,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "104"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 8",
+      "block_id": "b00070",
+      "start": 18,
+      "end": 29,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "8"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 47",
+      "block_id": "b00072",
+      "start": 1028,
+      "end": 1040,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "47"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 12(1)",
+      "block_id": "b00083",
+      "start": 591,
+      "end": 604,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "12",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "sections 41",
+      "block_id": "b00085",
+      "start": 270,
+      "end": 281,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "41"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 42",
+      "block_id": "b00085",
+      "start": 320,
+      "end": 330,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "42"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 19",
+      "block_id": "b00097",
+      "start": 200,
+      "end": 210,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "19"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 50(3)",
+      "block_id": "b00097",
+      "start": 213,
+      "end": 226,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "50",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 50(1)",
+      "block_id": "b00097",
+      "start": 229,
+      "end": 242,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "50",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 51(1)",
+      "block_id": "b00097",
+      "start": 245,
+      "end": 258,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "51",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 19",
+      "block_id": "b00097",
+      "start": 295,
+      "end": 305,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "19"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 50(3)",
+      "block_id": "b00097",
+      "start": 308,
+      "end": 321,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "50",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 50(1)",
+      "block_id": "b00097",
+      "start": 324,
+      "end": 337,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "50",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 51(3)",
+      "block_id": "b00097",
+      "start": 340,
+      "end": 353,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "51",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 50(6)(a)",
+      "block_id": "b00097",
+      "start": 435,
+      "end": 451,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "50",
+        "tail": "(6)(a)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 50(6)(a)",
+      "block_id": "b00097",
+      "start": 454,
+      "end": 470,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "50",
+        "tail": "(6)(a)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 50(6)",
+      "block_id": "b00097",
+      "start": 473,
+      "end": 486,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "50",
+        "tail": "(6)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 50(1)",
+      "block_id": "b00097",
+      "start": 558,
+      "end": 571,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "50",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 50(1)",
+      "block_id": "b00097",
+      "start": 574,
+      "end": 587,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "50",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 51(1)",
+      "block_id": "b00097",
+      "start": 590,
+      "end": 603,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "51",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 50(6)(b)",
+      "block_id": "b00097",
+      "start": 642,
+      "end": 658,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "50",
+        "tail": "(6)(b)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 50 (6)(b)",
+      "block_id": "b00097",
+      "start": 661,
+      "end": 678,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "50",
+        "tail": " (6)(b)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 51(2)",
+      "block_id": "b00097",
+      "start": 681,
+      "end": 694,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "51",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 50(5)",
+      "block_id": "b00097",
+      "start": 743,
+      "end": 756,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "50",
+        "tail": "(5)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 50(1)",
+      "block_id": "b00097",
+      "start": 759,
+      "end": 772,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "50",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 51 (3)(a)",
+      "block_id": "b00097",
+      "start": 775,
+      "end": 792,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "51",
+        "tail": " (3)(a)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 50(5)",
+      "block_id": "b00097",
+      "start": 824,
+      "end": 837,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "50",
+        "tail": "(5)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 50(1)",
+      "block_id": "b00097",
+      "start": 840,
+      "end": 853,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "50",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 51 (3)(b)",
+      "block_id": "b00097",
+      "start": 856,
+      "end": 873,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "51",
+        "tail": " (3)(b)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 50(5)",
+      "block_id": "b00097",
+      "start": 916,
+      "end": 929,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "50",
+        "tail": "(5)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 50(1)",
+      "block_id": "b00097",
+      "start": 932,
+      "end": 945,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "50",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 51(3)(c)",
+      "block_id": "b00097",
+      "start": 961,
+      "end": 977,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "51",
+        "tail": "(3)(c)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 50(5)",
+      "block_id": "b00097",
+      "start": 1039,
+      "end": 1052,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "50",
+        "tail": "(5)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 50(1)",
+      "block_id": "b00097",
+      "start": 1055,
+      "end": 1068,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "50",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 51(1)",
+      "block_id": "b00097",
+      "start": 1071,
+      "end": 1084,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "51",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 50(3)",
+      "block_id": "b00097",
+      "start": 1142,
+      "end": 1155,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "50",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 50(1)",
+      "block_id": "b00097",
+      "start": 1158,
+      "end": 1171,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "50",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 51(1)",
+      "block_id": "b00097",
+      "start": 1174,
+      "end": 1187,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "51",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 46",
+      "block_id": "b00097",
+      "start": 1275,
+      "end": 1285,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "46"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 50(1)",
+      "block_id": "b00097",
+      "start": 1311,
+      "end": 1324,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "50",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 51(3)(d)",
+      "block_id": "b00097",
+      "start": 1327,
+      "end": 1343,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "51",
+        "tail": "(3)(d)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 50(3)",
+      "block_id": "b00097",
+      "start": 1417,
+      "end": 1430,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "50",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 50(1)",
+      "block_id": "b00097",
+      "start": 1433,
+      "end": 1446,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "50",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 51(3)(d)",
+      "block_id": "b00097",
+      "start": 1449,
+      "end": 1465,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "51",
+        "tail": "(3)(d)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 50(3)",
+      "block_id": "b00097",
+      "start": 1591,
+      "end": 1604,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "50",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 50(1)",
+      "block_id": "b00097",
+      "start": 1620,
+      "end": 1633,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "50",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 51(3)(d)",
+      "block_id": "b00097",
+      "start": 1636,
+      "end": 1652,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "51",
+        "tail": "(3)(d)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 40",
+      "block_id": "b00097",
+      "start": 1765,
+      "end": 1775,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "40"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 50(3)",
+      "block_id": "b00097",
+      "start": 2016,
+      "end": 2029,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "50",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 50(1)",
+      "block_id": "b00097",
+      "start": 2032,
+      "end": 2045,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "50",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 51(3)(e)",
+      "block_id": "b00097",
+      "start": 2048,
+      "end": 2064,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "51",
+        "tail": "(3)(e)"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 5",
+      "block_id": "b00097",
+      "start": 1026,
+      "end": 1036,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "5"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 50(3)",
+      "block_id": "b00098",
+      "start": 307,
+      "end": 320,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "50",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 51(2)",
+      "block_id": "b00098",
+      "start": 396,
+      "end": 409,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "51",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 19",
+      "block_id": "b00103",
+      "start": 130,
+      "end": 140,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "19"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 19",
+      "block_id": "b00104",
+      "start": 130,
+      "end": 140,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "19"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 30",
+      "block_id": "b00105",
+      "start": 198,
+      "end": 211,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "30"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 30",
+      "block_id": "b00106",
+      "start": 198,
+      "end": 211,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "30"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

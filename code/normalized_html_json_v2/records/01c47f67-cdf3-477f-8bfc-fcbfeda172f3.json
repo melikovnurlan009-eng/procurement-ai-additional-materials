@@ -1,0 +1,111 @@
+{
+  "document_id": "01c47f67-cdf3-477f-8bfc-fcbfeda172f3",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/cf377e6690bd58cc2599d777.json",
+  "input_sha256": "07281b308c4aadef1d9b11a0d9141d80107a67b389fb1adacf1fd8416872332a",
+  "processed_at": "2026-08-27T02:26:42.312286+00:00",
+  "title": "Procurement Policy Note 03/19: The Public Procurement (Electronic Invoices etc.) Regulations",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-policy-note-0319-the-public-procurement-electronic-invoices-etc-regulations",
+  "description": "This note explains that Public Procurement (Electronic Invoices etc.) Regulations 2019 are now made and describes actions required by contracting authorities.",
+  "publication_date": "2019-05-20T16:06:38+01:00",
+  "updated_date": "2019-05-20T16:06:38+01:00",
+  "source_metadata": {
+    "content_id": "01c47f67-cdf3-477f-8bfc-fcbfeda172f3",
+    "base_path": "/government/publications/procurement-policy-note-0319-the-public-procurement-electronic-invoices-etc-regulations",
+    "document_type": "guidance",
+    "schema_name": "publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "Government has implemented The EU Directive on electronic invoicing in public procurement through The Public Procurement (Electronic Invoices etc.) Regulations 2019. Contracting authorities and other contracting entities (utilities) are now required to receive and process supplier invoices that comply with the technical e-invoicing standard developed under the Directive.",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "Procurement Policy Note 03/19: The Public Procurement (Electronic Invoices etc.) Regulations",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0319-the-public-procurement-electronic-invoices-etc-regulations",
+      "block_id": "__document__",
+      "ordinal": 0,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "Procurement policy notes",
+      "href": "https://www.gov.uk/government/collections/procurement-policy-notes",
+      "block_id": "__document__",
+      "ordinal": 1,
+      "link_type": "GOVUK_DOCUMENT_COLLECTIONS"
+    },
+    {
+      "text": "2016 to 2019 May Conservative government",
+      "href": "https://www.gov.uk/government/2016-to-2019-may-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_ORIGINAL_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Government efficiency, transparency and accountability",
+      "href": "https://www.gov.uk/government/government-efficiency-transparency-and-accountability",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_TAXONS"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2019",
+      "block_id": "b00000",
+      "start": 148,
+      "end": 164,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2019"
+      }
+    }
+  ],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/5ce2bec1e5274a4bf48201af/_Procurement_Policy_Note_03_19-_The_Public_Procurement__Electronic_Invoices_etc.__Regulations_2019.pdf",
+      "title": "Procurement Policy Note 03/19: The Public Procurement (Electronic Invoices etc.) Regulations 2019",
+      "content_type": "application/pdf",
+      "filename": "_Procurement_Policy_Note_03_19-_The_Public_Procurement__Electronic_Invoices_etc.__Regulations_2019.pdf",
+      "id": "3407109",
+      "logical_role": "ATTACHMENT"
+    }
+  ],
+  "warnings": []
+}

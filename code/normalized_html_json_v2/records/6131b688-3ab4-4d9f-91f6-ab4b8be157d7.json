@@ -1,0 +1,116 @@
+{
+  "document_id": "6131b688-3ab4-4d9f-91f6-ab4b8be157d7",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/335649c0178b9547db80abac.json",
+  "input_sha256": "ba5167debcff5190a269b155ad424a9feb9eeddbd0861289c2d9e5e8bbf88490",
+  "processed_at": "2026-08-27T02:26:10.903538+00:00",
+  "title": "PPN 03/22 – Updated guidance on data protection legislation",
+  "canonical_url": "https://www.gov.uk/government/publications/ppn-0322-updated-guidance-on-data-protection-legislation",
+  "description": "This PPN updates and replaces PPN 02/18 and reflects changes to the data protection legal framework which impacts government procurement.",
+  "publication_date": "2022-11-30T15:58:13+00:00",
+  "updated_date": "2022-11-30T15:58:13+00:00",
+  "source_metadata": {
+    "content_id": "6131b688-3ab4-4d9f-91f6-ab4b8be157d7",
+    "base_path": "/government/publications/ppn-0322-updated-guidance-on-data-protection-legislation",
+    "document_type": "guidance",
+    "schema_name": "publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "This note applies to all Central Government Departments, their Executive Agencies and Non Departmental Public Bodies. Other public bodies will also be subject to the new Data Protection Legislation and may wish to apply the approaches set out in this note.",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "This PPN updates and replaces PPN 02/18 and reflects changes to the data protection legal framework which impacts government procurement.",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "PPN 03/22 – Updated guidance on data protection legislation",
+      "href": "https://www.gov.uk/government/publications/ppn-0322-updated-guidance-on-data-protection-legislation",
+      "block_id": "__document__",
+      "ordinal": 0,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "Procurement policy notes",
+      "href": "https://www.gov.uk/government/collections/procurement-policy-notes",
+      "block_id": "__document__",
+      "ordinal": 1,
+      "link_type": "GOVUK_DOCUMENT_COLLECTIONS"
+    },
+    {
+      "text": "2022 to 2024 Sunak Conservative government",
+      "href": "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Crown Commercial Service",
+      "href": "https://www.gov.uk/government/organisations/crown-commercial-service",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Crown Commercial Service",
+      "href": "https://www.gov.uk/government/organisations/crown-commercial-service",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_ORIGINAL_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Crown Commercial Service",
+      "href": "https://www.gov.uk/government/organisations/crown-commercial-service",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Data protection",
+      "href": "https://www.gov.uk/crime-justice-and-law/data-protection",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_TAXONS"
+    }
+  ],
+  "legal_references": [],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/63876b508fa8f5370b118363/Procurement-Policy-Note-03_22-Updated-Guidance-on-Data-Protection-Legislation.docx.pdf",
+      "title": "Procurement Policy Note 03/22 - Updated Guidance on Data Protection Legislation (PDF)",
+      "content_type": "application/pdf",
+      "filename": "Procurement-Policy-Note-03_22-Updated-Guidance-on-Data-Protection-Legislation.docx.pdf",
+      "id": "7065819",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/63876b7be90e07656583bf59/Procurement-Policy-Note-03_22-Updated-Guidance-on-Data-Protection-Legislation.docx.odt",
+      "title": "Procurement Policy Note 03/22 - Updated Guidance on Data Protection Legislation (ODT)",
+      "content_type": "application/vnd.oasis.opendocument.text",
+      "filename": "Procurement-Policy-Note-03_22-Updated-Guidance-on-Data-Protection-Legislation.docx.odt",
+      "id": "7065820",
+      "logical_role": "ATTACHMENT"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,154 @@
+{
+  "document_id": "c2f091ac-d353-4339-84c4-935dc2f9a412",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/f3308bce13839692008d212b.json",
+  "input_sha256": "2d212c5276fd14c18c3f31e9e4546d103785fa17dab629c5d6bcdc4d682a5def",
+  "processed_at": "2026-08-27T02:26:47.440951+00:00",
+  "title": "Procurement Policy Note 04/15: taking account of suppliers’ past performance",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-policy-note-0415-taking-account-of-suppliers-past-performance",
+  "description": "This note sets out government policy to ensure suppliers' past performance is taken into account.",
+  "publication_date": "2015-03-25T15:09:00+00:00",
+  "updated_date": "2015-03-25T15:09:00+00:00",
+  "source_metadata": {
+    "content_id": "c2f091ac-d353-4339-84c4-935dc2f9a412",
+    "base_path": "/government/publications/procurement-policy-note-0415-taking-account-of-suppliers-past-performance",
+    "document_type": "guidance",
+    "schema_name": "publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "To ensure good provision of public services and value for money, suppliers with the necessary technical and professional ability should be selected to bid for contracts. One aspect of a supplier’s technical and professional ability is its reliability as demonstrated by how it performed in past contracts.",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "This Procurement Policy Note ( PPN ) incorporates new Public Contracts Regulations 2015 requirements and sets out how government ensures that suppliers’ past performance is taken into account in certain procurements.",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "This PPN applies from 1 April 2015 for all in-scope stand-alone public contracts and framework agreements (as set out in paragraphs 5 and 6 of the note) for which a contract notice has not yet been published in the Official Journal of the European Union.",
+      "ordinal": 2,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "Public Contracts Regulations 2015",
+      "href": "http://www.legislation.gov.uk/uksi/2015/102/contents/made",
+      "block_id": "b00001",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement Policy Note 04/15: taking account of suppliers’ past performance",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0415-taking-account-of-suppliers-past-performance",
+      "block_id": "__document__",
+      "ordinal": 1,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "Procurement policy notes",
+      "href": "https://www.gov.uk/government/collections/procurement-policy-notes",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_DOCUMENT_COLLECTIONS"
+    },
+    {
+      "text": "2010 to 2015 Conservative and Liberal Democrat coalition government",
+      "href": "https://www.gov.uk/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Crown Commercial Service",
+      "href": "https://www.gov.uk/government/organisations/crown-commercial-service",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Crown Commercial Service",
+      "href": "https://www.gov.uk/government/organisations/crown-commercial-service",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_ORIGINAL_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Crown Commercial Service",
+      "href": "https://www.gov.uk/government/organisations/crown-commercial-service",
+      "block_id": "__document__",
+      "ordinal": 7,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Government spending",
+      "href": "https://www.gov.uk/government/government-spending",
+      "block_id": "__document__",
+      "ordinal": 8,
+      "link_type": "GOVUK_TAXONS"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015",
+      "block_id": "b00001",
+      "start": 71,
+      "end": 87,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraphs 5",
+      "block_id": "b00002",
+      "start": 121,
+      "end": 133,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "5"
+      }
+    }
+  ],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/5a807c70ed915d74e33fab47/PPN04-15_Supplier_Past_Performance_.pdf",
+      "title": "Procurement Policy Note: taking account of suppliers’ past performance",
+      "content_type": "application/pdf",
+      "filename": "PPN04-15_Supplier_Past_Performance_.pdf",
+      "id": "973548",
+      "logical_role": "ATTACHMENT"
+    }
+  ],
+  "warnings": []
+}

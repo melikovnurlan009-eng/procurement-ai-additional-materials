@@ -1,0 +1,1057 @@
+{
+  "document_id": "5f1016f4-2b91-453b-9a1b-d99649fc98e3",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/af62b9795ee8200904125d47.json",
+  "input_sha256": "3baa61d2795b1022d0571e46ba10ee2108f9129ef2a50576836118a435e73b8d",
+  "processed_at": "2026-08-27T02:26:36.351187+00:00",
+  "title": "PPN 006: Technical standard for Completion of Carbon Reduction Plans (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/ppn-006-taking-account-of-carbon-reduction-plans-in-the-procurement-of-major-government-contracts/ppn-006-technical-standard-for-completion-of-carbon-reduction-plans-html",
+  "description": null,
+  "publication_date": "2025-02-17T14:44:14+00:00",
+  "updated_date": "2025-07-10T15:23:52+01:00",
+  "source_metadata": {
+    "content_id": "5f1016f4-2b91-453b-9a1b-d99649fc98e3",
+    "base_path": "/government/publications/ppn-006-taking-account-of-carbon-reduction-plans-in-the-procurement-of-major-government-contracts/ppn-006-technical-standard-for-completion-of-carbon-reduction-plans-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Introduction",
+      "ordinal": 2,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Carbon Reduction Plans",
+      "ordinal": 6,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Committing to Net Zero by 2050",
+      "ordinal": 12,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Meeting the Reporting Requirements",
+      "ordinal": 14,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Scope guidance",
+      "ordinal": 20,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Your Carbon Footprint Data",
+      "ordinal": 23,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Financial Control",
+      "ordinal": 38,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Operational Control",
+      "ordinal": 40,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Equity share",
+      "ordinal": 42,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Approval and publication",
+      "ordinal": 44,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "Previously issued: June 2021",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "Updated: February 2025",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "heading",
+      "text": "Introduction",
+      "ordinal": 2,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "1. In 2019, the UK became the first major economy to adopt a legal commitment to achieve ‘Net Zero’ carbon emissions by 2050 [footnote 1] .",
+      "ordinal": 3,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "2. This guidance supports Procurement Policy Note (PPN) 006 which sets out how suppliers’ Carbon Reduction Plans (CRP) and commitment to Net Zero can be taken into account in the procurement of in-scope central government contracts (subject to the Procurement Act 2023 and contracts in excess of £5 million (including VAT) per annum).",
+      "ordinal": 4,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "3. This guidance sets out the standards that carbon footprint data should adhere to for inclusion in your CRP, how and where you should publish your CRP, and how it should be approved and signed off within your organisation",
+      "ordinal": 5,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "heading",
+      "text": "Carbon Reduction Plans",
+      "ordinal": 6,
+      "heading_path": [
+        "Introduction",
+        "Carbon Reduction Plans"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "4. CRPs are to be completed on behalf of the bidding supplier and must meet the reporting requirements set out in this guidance, and include the supplier’s current carbon footprint and its commitment to reducing emissions to achieve Net Zero emissions by 2050.",
+      "ordinal": 7,
+      "heading_path": [
+        "Introduction",
+        "Carbon Reduction Plans"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "5. CRPs will help suppliers and customers understand the impact the contract and therefore their wider operations have upon the environment. They detail the organisation’s emissions across a single year against a range of emissions sources and greenhouse gasses.",
+      "ordinal": 8,
+      "heading_path": [
+        "Introduction",
+        "Carbon Reduction Plans"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "6. :CRPs must be provided by suppliers when responding to in-scope procurements as defined by PPN 006. The CRP is not intended to replace existing reporting or calculation of your organisational carbon footprint. It is a summary document that details high level information that demonstrates your compliance with the measure.",
+      "ordinal": 9,
+      "heading_path": [
+        "Introduction",
+        "Carbon Reduction Plans"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "p",
+      "text": "7. The content and structure of the CRP is detailed in the ‘Template Carbon Reduction Plan’ published alongside PPN 006, and the reporting requirements are further detailed in this supporting guidance.",
+      "ordinal": 10,
+      "heading_path": [
+        "Introduction",
+        "Carbon Reduction Plans"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "table",
+      "text": "Scope 3 Category\tCategory description\tMinimum boundary\n4. Upstream transportation and distribution [footnote 2]\tTransportation and distribution of products purchased by the reporting company in the reporting year between a company’s tier 1 suppliers and its own operations (in vehicles and facilities not owned or controlled by the\t\nreporting company) Transportation and distribution services purchased by the reporting company in the reporting year, including inbound logistics, outbound logistics (e.g., of sold products), and transportation and distribution between a company’s own facilities (in vehicles and facilities not owned or controlled by the reporting company)\tThe scope 1 and scope 2 emissions of transportation and distribution providers that occur during use of vehicles and facilities (e.g., from energy use) Optional: The life cycle emissions associated with manufacturing vehicles, facilities, or infrastructure\t\n5. Waste generated in operations\tDisposal and treatment of waste generated in the reporting company’s operations in the reporting year (in facilities not owned or controlled by the reporting company)\tThe scope 1 and scope 2 emissions of waste management suppliers that occur during disposal or treatment Optional: Emissions from transportation of waste\n6. Business travel\tTransportation of employees for business related activities during the reporting year (in vehicles not owned or operated by the reporting company)\tThe scope 1 and scope 2 emissions of transportation carriers that occur during use of vehicles (e.g., from energy use) Optional: The life cycle emissions associated with manufacturing vehicles or infrastructure\n7. Employee commuting\tTransportation of employees between their homes and their worksites during the reporting year (in vehicles not owned or operated by the reporting company)\tThe scope 1 and scope 2 emissions of employees and transportation providers that occur during use of vehicles (e.g., from energy use) Optional: Emissions from employee teleworking\n9. Downstream transportation and distribution\tTransportation and distribution of products sold by the reporting company in the reporting year between the reporting company’s operations and the end consumer (if not paid for by the reporting company), including retail and storage (in vehicles and facilities not owned or controlled by the reporting company\tThe scope 1 and scope 2 emissions of transportation providers, distributors, and retailers that occur during use of vehicles and facilities (e.g., from energy use) Optional: The life cycle emissions associated with manufacturing vehicles, facilities, or infrastructure",
+      "ordinal": 11,
+      "heading_path": [
+        "Introduction",
+        "Carbon Reduction Plans"
+      ],
+      "source_locator": "details.body",
+      "metadata": {
+        "rows": [
+          [
+            "Scope 3 Category",
+            "Category description",
+            "Minimum boundary"
+          ],
+          [
+            "4. Upstream transportation and distribution [footnote 2]",
+            "Transportation and distribution of products purchased by the reporting company in the reporting year between a company’s tier 1 suppliers and its own operations (in vehicles and facilities not owned or controlled by the",
+            ""
+          ],
+          [
+            "reporting company) Transportation and distribution services purchased by the reporting company in the reporting year, including inbound logistics, outbound logistics (e.g., of sold products), and transportation and distribution between a company’s own facilities (in vehicles and facilities not owned or controlled by the reporting company)",
+            "The scope 1 and scope 2 emissions of transportation and distribution providers that occur during use of vehicles and facilities (e.g., from energy use) Optional: The life cycle emissions associated with manufacturing vehicles, facilities, or infrastructure",
+            ""
+          ],
+          [
+            "5. Waste generated in operations",
+            "Disposal and treatment of waste generated in the reporting company’s operations in the reporting year (in facilities not owned or controlled by the reporting company)",
+            "The scope 1 and scope 2 emissions of waste management suppliers that occur during disposal or treatment Optional: Emissions from transportation of waste"
+          ],
+          [
+            "6. Business travel",
+            "Transportation of employees for business related activities during the reporting year (in vehicles not owned or operated by the reporting company)",
+            "The scope 1 and scope 2 emissions of transportation carriers that occur during use of vehicles (e.g., from energy use) Optional: The life cycle emissions associated with manufacturing vehicles or infrastructure"
+          ],
+          [
+            "7. Employee commuting",
+            "Transportation of employees between their homes and their worksites during the reporting year (in vehicles not owned or operated by the reporting company)",
+            "The scope 1 and scope 2 emissions of employees and transportation providers that occur during use of vehicles (e.g., from energy use) Optional: Emissions from employee teleworking"
+          ],
+          [
+            "9. Downstream transportation and distribution",
+            "Transportation and distribution of products sold by the reporting company in the reporting year between the reporting company’s operations and the end consumer (if not paid for by the reporting company), including retail and storage (in vehicles and facilities not owned or controlled by the reporting company",
+            "The scope 1 and scope 2 emissions of transportation providers, distributors, and retailers that occur during use of vehicles and facilities (e.g., from energy use) Optional: The life cycle emissions associated with manufacturing vehicles, facilities, or infrastructure"
+          ]
+        ],
+        "row_count": 7
+      }
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "heading",
+      "text": "Committing to Net Zero by 2050",
+      "ordinal": 12,
+      "heading_path": [
+        "Introduction",
+        "Committing to Net Zero by 2050"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "8. Within their Carbon Reduction Plan, suppliers must confirm their organisational commitment to achieving Net Zero by 2050 at the latest. This is consistent with the UK Government’s commitment under the Climate Change Act, and will play a significant role in the decarbonisation of the United Kingdom as a whole.",
+      "ordinal": 13,
+      "heading_path": [
+        "Introduction",
+        "Committing to Net Zero by 2050"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "heading",
+      "text": "Meeting the Reporting Requirements",
+      "ordinal": 14,
+      "heading_path": [
+        "Introduction",
+        "Meeting the Reporting Requirements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "9. Carbon Reduction Plans focus upon the recording and reporting of Scope 1 and 2 emissions, and introduce additional reporting against a subset of Scope 3 emissions. Please read the ‘Scope Guidance’ section carefully to determine which sources are considered to be in-scope.",
+      "ordinal": 15,
+      "heading_path": [
+        "Introduction",
+        "Meeting the Reporting Requirements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "10. In order to ensure consistency of reporting and ease of comparison between suppliers, Carbon Reduction Plans should be completed in accordance with the latest environmental reporting guidance [footnote 3] for Scope 1 and Scope 2 emissions, and the reporting of the required subset of Scope 3 emissions should be in line with best industry practice and technical guidance [footnote 4] detailed below.",
+      "ordinal": 16,
+      "heading_path": [
+        "Introduction",
+        "Meeting the Reporting Requirements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "11. Suppliers’ Carbon Reduction Plans should be reviewed and updated annually to reflect changes in organisational structure and to take account of the efforts made to reduce their emissions over time. Suppliers should ensure that the same reporting period is used throughout the submission, to ensure the most accurate and meaningful data can be used in the completion of your Carbon Reduction Plan. To this end your Carbon Reduction Plan should be reviewed and updated within 6 months of your organisation’s financial year-end.",
+      "ordinal": 17,
+      "heading_path": [
+        "Introduction",
+        "Meeting the Reporting Requirements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "p",
+      "text": "12. In order to increase transparency, suppliers should publish their latest Carbon Reduction Plan on their UK website.",
+      "ordinal": 18,
+      "heading_path": [
+        "Introduction",
+        "Meeting the Reporting Requirements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "13. Suppliers should place the link on a prominent place on your homepage. It is good practice to keep previous CRPs on your website so that your progress can be monitored. If you do not have a website, you must provide a copy of the statement in writing to anyone who requests one within 30 days.",
+      "ordinal": 19,
+      "heading_path": [
+        "Introduction",
+        "Meeting the Reporting Requirements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "heading",
+      "text": "Scope guidance",
+      "ordinal": 20,
+      "heading_path": [
+        "Introduction",
+        "Scope guidance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "14. The Greenhouse Gas Protocol breaks emissions sources down into three categories or Scopes. All Scope 1 and Scope 2 emissions are to be included when completing your CRP, along with a subset of Scope 3 emissions.",
+      "ordinal": 21,
+      "heading_path": [
+        "Introduction",
+        "Scope guidance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "p",
+      "text": "15. Scope 3 emissions represent up to 80% of any organisation’s carbon emissions. There are 15 categories of Scope 3 emissions defined by the GHG Protocol. In completing your CRP, suppliers are required to detail their emissions for five of these categories as detailed below.",
+      "ordinal": 22,
+      "heading_path": [
+        "Introduction",
+        "Scope guidance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "heading",
+      "text": "Your Carbon Footprint Data",
+      "ordinal": 23,
+      "heading_path": [
+        "Introduction",
+        "Your Carbon Footprint Data"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "16. The data required to complete your Carbon Reduction Plan will come from completing a carbon footprint for your organisation’s emissions from sources in the United Kingdom. You may already have an existing carbon footprint that you can refer to.",
+      "ordinal": 24,
+      "heading_path": [
+        "Introduction",
+        "Your Carbon Footprint Data"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "p",
+      "text": "17. To determine your carbon footprint, you may wish to seek advice and guidance from organisations operating within the carbon accounting sector, use available online tools and resources and consult your in-house teams where available, to ensure your carbon footprint is as detailed and accurate as possible. Many tools and resources are available for free if you are an SME or VCSE supplier.",
+      "ordinal": 25,
+      "heading_path": [
+        "Introduction",
+        "Your Carbon Footprint Data"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "p",
+      "text": "18. Your carbon footprint should be completed in accordance with best industry practice, using the best and latest data you have available. Your carbon footprint should adhere to the Greenhouse Gas Protocol’s Corporate Accounting and Reporting Standard and should be conducted to a reasonable level of assurance. ISO 14064-3 and ISAE 3410 are widely-used standards for the verification of GHG emissions reports, however it should be noted that there is no requirement to have your carbon footprint audited.",
+      "ordinal": 26,
+      "heading_path": [
+        "Introduction",
+        "Your Carbon Footprint Data"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "p",
+      "text": "19. The specific greenhouse gases to be reported against are the seven greenhouse gasses named by the Kyoto Protocol:",
+      "ordinal": 27,
+      "heading_path": [
+        "Introduction",
+        "Your Carbon Footprint Data"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "20. The specific greenhouse gases to be reported against are the seven greenhouse gasses named by the Kyoto Protocol:",
+      "ordinal": 28,
+      "heading_path": [
+        "Introduction",
+        "Your Carbon Footprint Data"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "li",
+      "text": "Carbon Dioxide (CO2)",
+      "ordinal": 29,
+      "heading_path": [
+        "Introduction",
+        "Your Carbon Footprint Data"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "li",
+      "text": "Hydrofluorocarbons (HFCs)",
+      "ordinal": 30,
+      "heading_path": [
+        "Introduction",
+        "Your Carbon Footprint Data"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "li",
+      "text": "Methane (CH4)",
+      "ordinal": 31,
+      "heading_path": [
+        "Introduction",
+        "Your Carbon Footprint Data"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "li",
+      "text": "Nitrous Oxide (N2O)",
+      "ordinal": 32,
+      "heading_path": [
+        "Introduction",
+        "Your Carbon Footprint Data"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "li",
+      "text": "Nitrogen Trifluoride (NF3)",
+      "ordinal": 33,
+      "heading_path": [
+        "Introduction",
+        "Your Carbon Footprint Data"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "li",
+      "text": "Perfluorocarbons (PCFs)",
+      "ordinal": 34,
+      "heading_path": [
+        "Introduction",
+        "Your Carbon Footprint Data"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "li",
+      "text": "Sulphur Hexafluoride (SF6)",
+      "ordinal": 35,
+      "heading_path": [
+        "Introduction",
+        "Your Carbon Footprint Data"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "p",
+      "text": "21. Greenhouse gas emissions, reductions of greenhouse gas emissions and removals of greenhouse gas from the atmosphere shall be measured or calculated in tonnes of carbon dioxide equivalent (CO2e) using the appropriate conversion factors published by the UK Government [footnote 5] A “tonne of carbon dioxide equivalent” means one metric tonne of carbon dioxide or an amount of any other greenhouse gas with an equivalent global warming potential.",
+      "ordinal": 36,
+      "heading_path": [
+        "Introduction",
+        "Your Carbon Footprint Data"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "p",
+      "text": "22. In accordance with the GHG Protocol’s Corporate Standard, your carbon footprint should account for emissions within your operational boundary using one of the following methodologies:",
+      "ordinal": 37,
+      "heading_path": [
+        "Introduction",
+        "Your Carbon Footprint Data"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "heading",
+      "text": "Financial Control",
+      "ordinal": 38,
+      "heading_path": [
+        "Introduction",
+        "Your Carbon Footprint Data",
+        "Financial Control"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "p",
+      "text": "The supplier reports on all sources of carbon emissions over which it has financial control. The supplier is deemed to have financial control over a service if it has the ability to direct the financial and operating policies of the service with a view to financially managing its activities, e.g. setting budgets, managing expenditure, and/or obtaining an ‘income’, such it might be the case in leisure centres, entertainment halls, community centres, etc.",
+      "ordinal": 39,
+      "heading_path": [
+        "Introduction",
+        "Your Carbon Footprint Data",
+        "Financial Control"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "heading",
+      "text": "Operational Control",
+      "ordinal": 40,
+      "heading_path": [
+        "Introduction",
+        "Your Carbon Footprint Data",
+        "Operational Control"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "p",
+      "text": "The supplier reports on all sources of carbon emissions over which it has operational control. The supplier is deemed to have operational control over a service if it has full authority to introduce and implement its operating policies.",
+      "ordinal": 41,
+      "heading_path": [
+        "Introduction",
+        "Your Carbon Footprint Data",
+        "Operational Control"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "heading",
+      "text": "Equity share",
+      "ordinal": 42,
+      "heading_path": [
+        "Introduction",
+        "Your Carbon Footprint Data",
+        "Equity share"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "p",
+      "text": "Your organisation accounts for GHG emissions from operations according to its share of equity in the operation. This model may be helpful where emissions are recorded centrally across a range of entities, e.g. recorded UK wide by the parent company rather than at the trading entity level.",
+      "ordinal": 43,
+      "heading_path": [
+        "Introduction",
+        "Your Carbon Footprint Data",
+        "Equity share"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "heading",
+      "text": "Approval and publication",
+      "ordinal": 44,
+      "heading_path": [
+        "Introduction",
+        "Approval and publication"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "p",
+      "text": "23. Once you have created your Carbon Reduction Plan, you should publish it on your UK website. Place the link in a prominent place on your homepage. It is good practice to keep previous Carbon Reduction Plans on your website so that your progress can be monitored. If you do not have a website, you must provide a copy of the statement in writing to anyone who requests one within 30 days.",
+      "ordinal": 45,
+      "heading_path": [
+        "Introduction",
+        "Approval and publication"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "p",
+      "text": "24. Your Carbon Reduction Plan should clearly state that board of directors (or equivalent management body) approval has been given with the date of approval. Where the organisation is a limited liability partnership (LLP), your Carbon Reduction Plan should be approved by the members. Your Carbon Reduction Plan should clearly state that members’ approval has been given with the date of approval.",
+      "ordinal": 46,
+      "heading_path": [
+        "Introduction",
+        "Approval and publication"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "p",
+      "text": "25. Your Carbon Reduction Plan must be signed off by a director (or equivalent) or designated member (for LLPs). Include their name, job title and the date. You do not need to include a physical signature but you should still clearly state that it has been signed.",
+      "ordinal": 47,
+      "heading_path": [
+        "Introduction",
+        "Approval and publication"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "li",
+      "text": "Climate Change Act 2008 ↩",
+      "ordinal": 48,
+      "heading_path": [
+        "Introduction",
+        "Approval and publication"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "p",
+      "text": "Climate Change Act 2008 ↩",
+      "ordinal": 49,
+      "heading_path": [
+        "Introduction",
+        "Approval and publication"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00050",
+      "block_type": "li",
+      "text": "The government provides specific guidance for freight transport operators: Guidance on measuring and reporting Greenhouse Gas (GHG) emissions from freight transport operations (PDF, 3.7MB) ↩",
+      "ordinal": 50,
+      "heading_path": [
+        "Introduction",
+        "Approval and publication"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00051",
+      "block_type": "p",
+      "text": "The government provides specific guidance for freight transport operators: Guidance on measuring and reporting Greenhouse Gas (GHG) emissions from freight transport operations (PDF, 3.7MB) ↩",
+      "ordinal": 51,
+      "heading_path": [
+        "Introduction",
+        "Approval and publication"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00052",
+      "block_type": "li",
+      "text": "Environmental reporting guidelines: including Streamlined Energy and Carbon Reporting requirements ↩",
+      "ordinal": 52,
+      "heading_path": [
+        "Introduction",
+        "Approval and publication"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00053",
+      "block_type": "p",
+      "text": "Environmental reporting guidelines: including Streamlined Energy and Carbon Reporting requirements ↩",
+      "ordinal": 53,
+      "heading_path": [
+        "Introduction",
+        "Approval and publication"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00054",
+      "block_type": "li",
+      "text": "Technical Guidance for Calculating Scope 3 Emissions (PDF, 2MB) ↩",
+      "ordinal": 54,
+      "heading_path": [
+        "Introduction",
+        "Approval and publication"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00055",
+      "block_type": "p",
+      "text": "Technical Guidance for Calculating Scope 3 Emissions (PDF, 2MB) ↩",
+      "ordinal": 55,
+      "heading_path": [
+        "Introduction",
+        "Approval and publication"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00056",
+      "block_type": "li",
+      "text": "Government conversion factors for company reporting of greenhouse gas emissions ↩",
+      "ordinal": 56,
+      "heading_path": [
+        "Introduction",
+        "Approval and publication"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00057",
+      "block_type": "p",
+      "text": "Government conversion factors for company reporting of greenhouse gas emissions ↩",
+      "ordinal": 57,
+      "heading_path": [
+        "Introduction",
+        "Approval and publication"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "[footnote 1]",
+      "href": "https://www.gov.uk/government/publications/ppn-006-taking-account-of-carbon-reduction-plans-in-the-procurement-of-major-government-contracts/ppn-006-technical-standard-for-completion-of-carbon-reduction-plans-html#fn:1",
+      "block_id": "b00003",
+      "ordinal": 0,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 2]",
+      "href": "https://www.gov.uk/government/publications/ppn-006-taking-account-of-carbon-reduction-plans-in-the-procurement-of-major-government-contracts/ppn-006-technical-standard-for-completion-of-carbon-reduction-plans-html#fn:2",
+      "block_id": "b00011",
+      "ordinal": 1,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 3]",
+      "href": "https://www.gov.uk/government/publications/ppn-006-taking-account-of-carbon-reduction-plans-in-the-procurement-of-major-government-contracts/ppn-006-technical-standard-for-completion-of-carbon-reduction-plans-html#fn:3",
+      "block_id": "b00016",
+      "ordinal": 2,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 4]",
+      "href": "https://www.gov.uk/government/publications/ppn-006-taking-account-of-carbon-reduction-plans-in-the-procurement-of-major-government-contracts/ppn-006-technical-standard-for-completion-of-carbon-reduction-plans-html#fn:4",
+      "block_id": "b00016",
+      "ordinal": 3,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Corporate Accounting and Reporting Standard",
+      "href": "https://ghgprotocol.org/corporate-standard",
+      "block_id": "b00026",
+      "ordinal": 4,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "[footnote 5]",
+      "href": "https://www.gov.uk/government/publications/ppn-006-taking-account-of-carbon-reduction-plans-in-the-procurement-of-major-government-contracts/ppn-006-technical-standard-for-completion-of-carbon-reduction-plans-html#fn:5",
+      "block_id": "b00036",
+      "ordinal": 5,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Climate Change Act 2008",
+      "href": "https://www.legislation.gov.uk/ukpga/2008/27/contents",
+      "block_id": "b00048",
+      "ordinal": 6,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-006-taking-account-of-carbon-reduction-plans-in-the-procurement-of-major-government-contracts/ppn-006-technical-standard-for-completion-of-carbon-reduction-plans-html#fnref:1",
+      "block_id": "b00048",
+      "ordinal": 7,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Climate Change Act 2008",
+      "href": "https://www.legislation.gov.uk/ukpga/2008/27/contents",
+      "block_id": "b00049",
+      "ordinal": 8,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-006-taking-account-of-carbon-reduction-plans-in-the-procurement-of-major-government-contracts/ppn-006-technical-standard-for-completion-of-carbon-reduction-plans-html#fnref:1",
+      "block_id": "b00049",
+      "ordinal": 9,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Guidance on measuring and reporting Greenhouse Gas (GHG) emissions from freight transport operations (PDF, 3.7MB)",
+      "href": "https://assets.publishing.service.gov.uk/media/5a7c2df4e5274a25a9140f9d/ghg-freight-guide.pdf%20%20",
+      "block_id": "b00050",
+      "ordinal": 10,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-006-taking-account-of-carbon-reduction-plans-in-the-procurement-of-major-government-contracts/ppn-006-technical-standard-for-completion-of-carbon-reduction-plans-html#fnref:2",
+      "block_id": "b00050",
+      "ordinal": 11,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Guidance on measuring and reporting Greenhouse Gas (GHG) emissions from freight transport operations (PDF, 3.7MB)",
+      "href": "https://assets.publishing.service.gov.uk/media/5a7c2df4e5274a25a9140f9d/ghg-freight-guide.pdf%20%20",
+      "block_id": "b00051",
+      "ordinal": 12,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-006-taking-account-of-carbon-reduction-plans-in-the-procurement-of-major-government-contracts/ppn-006-technical-standard-for-completion-of-carbon-reduction-plans-html#fnref:2",
+      "block_id": "b00051",
+      "ordinal": 13,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Environmental reporting guidelines: including Streamlined Energy and Carbon Reporting requirements",
+      "href": "https://www.gov.uk/government/publications/environmental-reporting-guidelines-including-mandatory-greenhouse-gas-emissions-reporting-guidance",
+      "block_id": "b00052",
+      "ordinal": 14,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-006-taking-account-of-carbon-reduction-plans-in-the-procurement-of-major-government-contracts/ppn-006-technical-standard-for-completion-of-carbon-reduction-plans-html#fnref:3",
+      "block_id": "b00052",
+      "ordinal": 15,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Environmental reporting guidelines: including Streamlined Energy and Carbon Reporting requirements",
+      "href": "https://www.gov.uk/government/publications/environmental-reporting-guidelines-including-mandatory-greenhouse-gas-emissions-reporting-guidance",
+      "block_id": "b00053",
+      "ordinal": 16,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-006-taking-account-of-carbon-reduction-plans-in-the-procurement-of-major-government-contracts/ppn-006-technical-standard-for-completion-of-carbon-reduction-plans-html#fnref:3",
+      "block_id": "b00053",
+      "ordinal": 17,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Technical Guidance for Calculating Scope 3 Emissions (PDF, 2MB)",
+      "href": "https://ghgprotocol.org/sites/default/files/standards/Scope3_Calculation_Guidance_0.pdf",
+      "block_id": "b00054",
+      "ordinal": 18,
+      "link_type": "ATTACHMENT"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-006-taking-account-of-carbon-reduction-plans-in-the-procurement-of-major-government-contracts/ppn-006-technical-standard-for-completion-of-carbon-reduction-plans-html#fnref:4",
+      "block_id": "b00054",
+      "ordinal": 19,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Technical Guidance for Calculating Scope 3 Emissions (PDF, 2MB)",
+      "href": "https://ghgprotocol.org/sites/default/files/standards/Scope3_Calculation_Guidance_0.pdf",
+      "block_id": "b00055",
+      "ordinal": 20,
+      "link_type": "ATTACHMENT"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-006-taking-account-of-carbon-reduction-plans-in-the-procurement-of-major-government-contracts/ppn-006-technical-standard-for-completion-of-carbon-reduction-plans-html#fnref:4",
+      "block_id": "b00055",
+      "ordinal": 21,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Government conversion factors for company reporting of greenhouse gas emissions",
+      "href": "https://www.gov.uk/government/collections/government-conversion-factors-for-company-reporting",
+      "block_id": "b00056",
+      "ordinal": 22,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-006-taking-account-of-carbon-reduction-plans-in-the-procurement-of-major-government-contracts/ppn-006-technical-standard-for-completion-of-carbon-reduction-plans-html#fnref:5",
+      "block_id": "b00056",
+      "ordinal": 23,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Government conversion factors for company reporting of greenhouse gas emissions",
+      "href": "https://www.gov.uk/government/collections/government-conversion-factors-for-company-reporting",
+      "block_id": "b00057",
+      "ordinal": 24,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-006-taking-account-of-carbon-reduction-plans-in-the-procurement-of-major-government-contracts/ppn-006-technical-standard-for-completion-of-carbon-reduction-plans-html#fnref:5",
+      "block_id": "b00057",
+      "ordinal": 25,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "PPN 006: Technical standard for Completion of Carbon Reduction Plans (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-006-taking-account-of-carbon-reduction-plans-in-the-procurement-of-major-government-contracts/ppn-006-technical-standard-for-completion-of-carbon-reduction-plans-html",
+      "block_id": "__document__",
+      "ordinal": 26,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2024 to 2026 Starmer Labour government",
+      "href": "https://www.gov.uk/government/2024-starmer-labour-government",
+      "block_id": "__document__",
+      "ordinal": 27,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 28,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "PPN 006: Taking account of Carbon Reduction Plans in the procurement of major government contracts",
+      "href": "https://www.gov.uk/government/publications/ppn-006-taking-account-of-carbon-reduction-plans-in-the-procurement-of-major-government-contracts",
+      "block_id": "__document__",
+      "ordinal": 29,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 30,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [],
+  "attachments": [
+    {
+      "url": "https://ghgprotocol.org/sites/default/files/standards/Scope3_Calculation_Guidance_0.pdf",
+      "title": "Technical Guidance for Calculating Scope 3 Emissions (PDF, 2MB)",
+      "discovered_in_block": "b00054"
+    }
+  ],
+  "warnings": []
+}

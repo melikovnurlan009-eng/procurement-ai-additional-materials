@@ -1,0 +1,174 @@
+{
+  "document_id": "7da44185-60fb-4a6f-93e3-1f2d6b04fa74",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/df3fae97082d35d3bcc28cbb.json",
+  "input_sha256": "4f9a8d914eaa657f3902d6019715eda07fe66a383867a424ada2ef1aacf63532",
+  "processed_at": "2026-08-27T02:26:44.572176+00:00",
+  "title": "PPN 03/24: Standard Selection Questionnaire (SQ)",
+  "canonical_url": "https://www.gov.uk/government/publications/ppn-0324-standard-selection-questionnaire-sq",
+  "description": "This Procurement Policy Note (PPN) updates the Selection Questionnaire (SQ) and accompanying statutory guidance and replaces PPN 03/23.",
+  "publication_date": "2024-03-27T15:16:29+00:00",
+  "updated_date": "2024-03-27T15:16:29+00:00",
+  "source_metadata": {
+    "content_id": "7da44185-60fb-4a6f-93e3-1f2d6b04fa74",
+    "base_path": "/government/publications/ppn-0324-standard-selection-questionnaire-sq",
+    "document_type": "guidance",
+    "schema_name": "publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "This replaces PPN 03/23.",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "PPN 03/24: Standard Selection Questionnaire (SQ)",
+      "href": "https://www.gov.uk/government/publications/ppn-0324-standard-selection-questionnaire-sq",
+      "block_id": "__document__",
+      "ordinal": 0,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "Annex D - Exclusion Grounds: Public Procurement (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-0324-standard-selection-questionnaire-sq/annex-d-exclusion-grounds-public-procurement-html",
+      "block_id": "__document__",
+      "ordinal": 1,
+      "link_type": "GOVUK_CHILDREN"
+    },
+    {
+      "text": "Annex C - Selection Questionnaire Template / Single Procurement Document (SPD)(HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-0324-standard-selection-questionnaire-sq/annex-c-selection-questionnaire-template-single-procurement-document-spdhtml",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_CHILDREN"
+    },
+    {
+      "text": "Annex B - Standard Selection Questions (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-0324-standard-selection-questionnaire-sq/annex-b-standard-selection-questions-html",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_CHILDREN"
+    },
+    {
+      "text": "Annex A - Guidance on the Selection Stage Process, including Standard Selection Questions (PCR 2015) (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-0324-standard-selection-questionnaire-sq/annex-a-guidance-on-the-selection-stage-process-including-standard-selection-questions-pcr-2015-html",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_CHILDREN"
+    },
+    {
+      "text": "PPN 03/24: Standard Selection Questionnaire (SQ) (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-0324-standard-selection-questionnaire-sq/ppn-0324-standard-selection-questionnaire-sq-html",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_CHILDREN"
+    },
+    {
+      "text": "Procurement policy notes",
+      "href": "https://www.gov.uk/government/collections/procurement-policy-notes",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_DOCUMENT_COLLECTIONS"
+    },
+    {
+      "text": "2022 to 2024 Sunak Conservative government",
+      "href": "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 7,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 8,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 9,
+      "link_type": "GOVUK_ORIGINAL_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 10,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Government spending",
+      "href": "https://www.gov.uk/government/government-spending",
+      "block_id": "__document__",
+      "ordinal": 11,
+      "link_type": "GOVUK_TAXONS"
+    }
+  ],
+  "legal_references": [],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/6603fef791a320001182b066/PPN_03_24_Standard_Selection_Questionnaire_2024_Update.pdf",
+      "title": "PPN 03/24: Standard Selection Questionnaire (SQ) (PDF)",
+      "content_type": "application/pdf",
+      "filename": "PPN_03_24_Standard_Selection_Questionnaire_2024_Update.pdf",
+      "id": "7893904",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "/government/publications/ppn-0324-standard-selection-questionnaire-sq/ppn-0324-standard-selection-questionnaire-sq-html",
+      "title": "PPN 03/24: Standard Selection Questionnaire (SQ) (HTML)",
+      "content_type": null,
+      "filename": null,
+      "id": "7893478",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "/government/publications/ppn-0324-standard-selection-questionnaire-sq/annex-a-guidance-on-the-selection-stage-process-including-standard-selection-questions-pcr-2015-html",
+      "title": "Annex A - Guidance on the Selection Stage Process, including Standard Selection Questions (PCR 2015) (HTML)",
+      "content_type": null,
+      "filename": null,
+      "id": "7893501",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "/government/publications/ppn-0324-standard-selection-questionnaire-sq/annex-b-standard-selection-questions-html",
+      "title": "Annex B - Standard Selection Questions (HTML)",
+      "content_type": null,
+      "filename": null,
+      "id": "7893737",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "/government/publications/ppn-0324-standard-selection-questionnaire-sq/annex-c-selection-questionnaire-template-single-procurement-document-spdhtml",
+      "title": "Annex C - Selection Questionnaire Template / Single Procurement Document (SPD)(HTML)",
+      "content_type": null,
+      "filename": null,
+      "id": "7893801",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "/government/publications/ppn-0324-standard-selection-questionnaire-sq/annex-d-exclusion-grounds-public-procurement-html",
+      "title": "Annex D - Exclusion Grounds: Public Procurement (HTML)",
+      "content_type": null,
+      "filename": null,
+      "id": "7893896",
+      "logical_role": "ATTACHMENT"
+    }
+  ],
+  "warnings": []
+}

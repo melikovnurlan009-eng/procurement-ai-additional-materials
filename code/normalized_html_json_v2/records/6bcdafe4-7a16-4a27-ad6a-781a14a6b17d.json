@@ -1,0 +1,2253 @@
+{
+  "document_id": "6bcdafe4-7a16-4a27-ad6a-781a14a6b17d",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/316a05e48cb1036b0d31a634.json",
+  "input_sha256": "0ca079ae1a96e852127fb012c97147592d8d3e79821c931355ad96e8455193b8",
+  "processed_at": "2026-08-27T02:26:10.663885+00:00",
+  "title": "Guidance: Contract Details Notices (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-contract-details-notices-html",
+  "description": null,
+  "publication_date": "2024-08-06T16:19:21+01:00",
+  "updated_date": "2026-08-17T15:52:00+01:00",
+  "source_metadata": {
+    "content_id": "6bcdafe4-7a16-4a27-ad6a-781a14a6b17d",
+    "base_path": "/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-contract-details-notices-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What is a contract details notice?",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What is the legal framework that governs contract details notices?",
+      "ordinal": 6,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What has changed?",
+      "ordinal": 10,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Key points and policy intent",
+      "ordinal": 12,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Content of contract details notices: competitive tendering procedures",
+      "ordinal": 16,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "KPIs",
+      "ordinal": 18,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Contract value, duration and options",
+      "ordinal": 21,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Conflicts assessments",
+      "ordinal": 24,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Content of contract details notices: frameworks",
+      "ordinal": 26,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Content of contract details notices: call-off contracts awarded under frameworks",
+      "ordinal": 29,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Content of contract details notices: direct award",
+      "ordinal": 31,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Timing of publication",
+      "ordinal": 33,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Publication of the contract",
+      "ordinal": 40,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Timing of publication of the contract",
+      "ordinal": 42,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Contract change prior to publication of the contract details notice",
+      "ordinal": 46,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What notices are linked to this aspect of the Act?",
+      "ordinal": 49,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What other guidance is of particular relevance to this topic area?",
+      "ordinal": 56,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Annex 1: Table setting out when contract details notices, contract documents and KPIs are required to be published",
+      "ordinal": 60,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "What is a contract details notice?",
+      "ordinal": 0,
+      "heading_path": [
+        "What is a contract details notice?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "1. A contract details notice informs suppliers and the public that the contracting authority has entered into a contract. It provides key information about the contract that has been entered into.",
+      "ordinal": 1,
+      "heading_path": [
+        "What is a contract details notice?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "2. Where the contracting authority has entered into a public contract with an estimated value of more than £5 million, the contract details notice:",
+      "ordinal": 2,
+      "heading_path": [
+        "What is a contract details notice?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "a. provides access to the contract (and therefore serves to fulfil the obligation in section 52(3) to publish the KPIs); and",
+      "ordinal": 3,
+      "heading_path": [
+        "What is a contract details notice?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "b. where relevant, sets out the three key performance indicators (KPIs) that the contracting authority regards as most material to performance of the contract obligations at the time the contract details notice is published.",
+      "ordinal": 4,
+      "heading_path": [
+        "What is a contract details notice?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "3. Publication of the contract details notice takes place after any standstill period has ended and the contract has been entered into. The contract details notice is required to be published on the central digital platform.",
+      "ordinal": 5,
+      "heading_path": [
+        "What is a contract details notice?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "heading",
+      "text": "What is the legal framework that governs contract details notices?",
+      "ordinal": 6,
+      "heading_path": [
+        "What is a contract details notice?",
+        "What is the legal framework that governs contract details notices?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "4. Section 53 of the Procurement Act (Act) requires contracting authorities to publish a contract details notice setting out that it has entered into a public contract within 30 days of the contract being entered into, except in relation to light touch contracts for which the period is 120 days. Regulations 32-35 set out the information required to be included in the notice. It also requires contracting authorities to publish a copy of any public contract it enters into with an estimated value of more than £5 million. The obligation to publish a contract details notice or a public contract does not apply to private utilities or to direct award: user choice contracts (see Schedule 5, paragraph 15 ).",
+      "ordinal": 7,
+      "heading_path": [
+        "What is a contract details notice?",
+        "What is the legal framework that governs contract details notices?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "5. Section 87 of the Act requires contracting authorities to publish a contract details notice as soon as reasonably practicable after entering into a ‘notifiable below-threshold contract’.",
+      "ordinal": 8,
+      "heading_path": [
+        "What is a contract details notice?",
+        "What is the legal framework that governs contract details notices?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "6. This guidance deals with contract details notices required to be published under section 53 , following entry into a public contract. See guidance on below-threshold contracts for guidance on contract details notices for regulated below-threshold procurements.",
+      "ordinal": 9,
+      "heading_path": [
+        "What is a contract details notice?",
+        "What is the legal framework that governs contract details notices?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "heading",
+      "text": "What has changed?",
+      "ordinal": 10,
+      "heading_path": [
+        "What is a contract details notice?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "7. The contract details notice is published on the central digital platform after the contract has been entered into. It replaces the contract award notice published on the Find a Tender Service and the awarded opportunity notice published on Contracts Finder under the previous legislation. For public contracts with an estimated value of more than £5 million, there are also new requirements to publish copies of the contract and the KPIs set in accordance with section 52(1) .",
+      "ordinal": 11,
+      "heading_path": [
+        "What is a contract details notice?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "heading",
+      "text": "Key points and policy intent",
+      "ordinal": 12,
+      "heading_path": [
+        "What is a contract details notice?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "8. A contract details notice serves to tell interested parties that the contract has been entered into and to provide details about that contract. Its publication is mandatory for all contracting authorities except for private utilities and for all public contracts (including call-off contracts that are public contracts) except contracts awarded under section 41 by reference to paragraph 15 of Schedule 5 (direct award: user choice contracts). Where a contract details notice is published for a contract over £5 million, the contracting authority must also publish a copy of the contract. These requirements are set out in tabular form in Annex A.",
+      "ordinal": 13,
+      "heading_path": [
+        "What is a contract details notice?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "9. There are four separate regulations ( regulations 32-35 ) that set out the information which must be included in a contract details notice published under section 53 , with different information required depending on the circumstances (i.e. whether the notice is published following a competitive tendering procedure, direct award, the award of a framework or the award of a ‘call-off contract’ awarded under a framework).",
+      "ordinal": 14,
+      "heading_path": [
+        "What is a contract details notice?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "10. There is no requirement to publish contracts over £5 million awarded by a devolved Welsh authority or a transferred Northern Ireland authority (unless it is awarded under a reserved procurement arrangement) or contracts awarded under a devolved Welsh procurement arrangement or a transferred Northern Ireland procurement arrangement (see guidance on Devolved Contracting Authorities ). This is the case even though there is a requirement to publish a contract details notice. Devolved Welsh authorities should refer to the Welsh-specific guidance.",
+      "ordinal": 15,
+      "heading_path": [
+        "What is a contract details notice?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "heading",
+      "text": "Content of contract details notices: competitive tendering procedures",
+      "ordinal": 16,
+      "heading_path": [
+        "What is a contract details notice?",
+        "Key points and policy intent",
+        "Content of contract details notices: competitive tendering procedures"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "11. The information to be published in a contract details notice where an open or competitive flexible procedure is used to award a public contract is set out in regulation 32 . It includes much of the same information published in previous notices (such as in the tender notice, transparency notice and contract award notice) for the relevant procurement, but with new and updated information to reflect that the contract has been entered into. Points to consider are set out below.",
+      "ordinal": 17,
+      "heading_path": [
+        "What is a contract details notice?",
+        "Key points and policy intent",
+        "Content of contract details notices: competitive tendering procedures"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "heading",
+      "text": "KPIs",
+      "ordinal": 18,
+      "heading_path": [
+        "What is a contract details notice?",
+        "Key points and policy intent",
+        "Content of contract details notices: competitive tendering procedures",
+        "KPIs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "12. Where section 52 of the Act applies and KPIs have been set, contracting authorities must provide a description of the three KPIs which the contracting authority regards, at the time the contract details notice is published, as most material to performance of the contract obligations. [1] If the three KPIs that are most material to performance of the contract obligations at the time the contract details notice is published are only a snapshot in time and different KPIs would be relevant when considering those that are most material to performance of the contract obligations over the life of the contract, contracting authorities should also include those KPIs in the contract details notice. Circumstances when details of the KPIs must be included in the contract details notice are summarised in Annex A. See the guidance on KPIs for further information.",
+      "ordinal": 19,
+      "heading_path": [
+        "What is a contract details notice?",
+        "Key points and policy intent",
+        "Content of contract details notices: competitive tendering procedures",
+        "KPIs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "p",
+      "text": "13. Where KPIs have not been set under section 52 , the contract details notice must include an explanation of why KPIs were not appropriate to assess the performance of the supplier.",
+      "ordinal": 20,
+      "heading_path": [
+        "What is a contract details notice?",
+        "Key points and policy intent",
+        "Content of contract details notices: competitive tendering procedures",
+        "KPIs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "heading",
+      "text": "Contract value, duration and options",
+      "ordinal": 21,
+      "heading_path": [
+        "What is a contract details notice?",
+        "Key points and policy intent",
+        "Content of contract details notices: competitive tendering procedures",
+        "Contract value, duration and options"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "p",
+      "text": "14. A procurement may result in more than one contract, all of which can be set out in the same contract details notice. Where this is the case, required information on contract value and duration must be included for each individual contract. This means that for each contract, there will be the option to include the minimum value and a requirement to include the maximum value, which must include the value of any options in the public contract. The contract details notice must also set out the estimated date when, or period over which, the goods, services or works will be supplied (this is part of the ‘contract subject-matter’ as defined in regulation 14 ) and the end date of any options to extend or renew the term of the contract.",
+      "ordinal": 22,
+      "heading_path": [
+        "What is a contract details notice?",
+        "Key points and policy intent",
+        "Content of contract details notices: competitive tendering procedures",
+        "Contract value, duration and options"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "15. As options that increase the value and/or duration of a contract are included in the maximum estimated value/duration of the contract as awarded and published in the contract details notice, modifications that rely on Schedule 8, paragraph 1 and increase the value or term of a contract are exempt in effect from the requirement to publish a contract change notice. If an option that is included in the contract details notice is not exercised before a contract is terminated, the final value of the contract set out in the contract termination notice may be lower than the value set out in the contract details notice.",
+      "ordinal": 23,
+      "heading_path": [
+        "What is a contract details notice?",
+        "Key points and policy intent",
+        "Content of contract details notices: competitive tendering procedures",
+        "Contract value, duration and options"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "heading",
+      "text": "Conflicts assessments",
+      "ordinal": 24,
+      "heading_path": [
+        "What is a contract details notice?",
+        "Key points and policy intent",
+        "Content of contract details notices: competitive tendering procedures",
+        "Conflicts assessments"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "p",
+      "text": "16. A contracting authority must confirm in the contract details notice that a conflicts assessment has been prepared and revised as necessary, as required by section 83(5) (note conflicts assessments themselves are not required to be published).",
+      "ordinal": 25,
+      "heading_path": [
+        "What is a contract details notice?",
+        "Key points and policy intent",
+        "Content of contract details notices: competitive tendering procedures",
+        "Conflicts assessments"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "heading",
+      "text": "Content of contract details notices: frameworks",
+      "ordinal": 26,
+      "heading_path": [
+        "What is a contract details notice?",
+        "Key points and policy intent",
+        "Content of contract details notices: frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "p",
+      "text": "17. Regulation 33 sets out the information required to be included in a contract details notice published following the award of a framework that is a public contract. This is largely the information required by regulation 32 plus some additional information. The additional information includes details of any selection process to be followed when subsequent call-off contracts are awarded under the framework.",
+      "ordinal": 27,
+      "heading_path": [
+        "What is a contract details notice?",
+        "Key points and policy intent",
+        "Content of contract details notices: frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "18. When publishing a contract details notice, the contracting authority will usually be able to set out comprehensive details of the contract subject-matter (as required by regulation 32(2)(f) and regulation 14 ). However, in some instances, the full extent of the contract subject-matter may not be known, which is recognised by regulation 14 which requires the contract subject-matter to be set out so far as it is known at the time the notice is published. This may be the case, for example, following the award of a framework where it is not known how the goods, services or works will be supplied for all call-off contracts that may be awarded under the framework.",
+      "ordinal": 28,
+      "heading_path": [
+        "What is a contract details notice?",
+        "Key points and policy intent",
+        "Content of contract details notices: frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "heading",
+      "text": "Content of contract details notices: call-off contracts awarded under frameworks",
+      "ordinal": 29,
+      "heading_path": [
+        "What is a contract details notice?",
+        "Key points and policy intent",
+        "Content of contract details notices: call-off contracts awarded under frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "p",
+      "text": "19. Regulation 34 sets out the information required to be included in a contract details notice published following the award of a call-off contract that is a public contract. This is largely the information required by regulation 32 plus some additional information. The additional information includes whether the award was made following a competitive selection process (under section 46 of the Act) or without further competition (under section 45(4) of the Act) and, if the latter, an explanation as to why the contracting authority considered no further competition was required (by reference to section 45(4) ).",
+      "ordinal": 30,
+      "heading_path": [
+        "What is a contract details notice?",
+        "Key points and policy intent",
+        "Content of contract details notices: call-off contracts awarded under frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "heading",
+      "text": "Content of contract details notices: direct award",
+      "ordinal": 31,
+      "heading_path": [
+        "What is a contract details notice?",
+        "Key points and policy intent",
+        "Content of contract details notices: direct award"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "p",
+      "text": "20. Regulation 35 sets out the information required to be included in a contract details notice published following the direct award of a public contract. This is largely the information required by regulation 32 plus some additional information, such as which direct award ground in Schedule 5 applies or whether the contract was awarded pursuant to regulations made under section 42 .",
+      "ordinal": 32,
+      "heading_path": [
+        "What is a contract details notice?",
+        "Key points and policy intent",
+        "Content of contract details notices: direct award"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "heading",
+      "text": "Timing of publication",
+      "ordinal": 33,
+      "heading_path": [
+        "What is a contract details notice?",
+        "Key points and policy intent",
+        "Timing of publication"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "p",
+      "text": "21. Section 53(1) provides that the the contract details notice must be published:",
+      "ordinal": 34,
+      "heading_path": [
+        "What is a contract details notice?",
+        "Key points and policy intent",
+        "Timing of publication"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "p",
+      "text": "a. within 30 days of the contract being entered into; or",
+      "ordinal": 35,
+      "heading_path": [
+        "What is a contract details notice?",
+        "Key points and policy intent",
+        "Timing of publication"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "p",
+      "text": "b. in the case of a light touch contract, within 120 days of the contract being entered into.",
+      "ordinal": 36,
+      "heading_path": [
+        "What is a contract details notice?",
+        "Key points and policy intent",
+        "Timing of publication"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "p",
+      "text": "22. The 30 or 90 (calendar) day period begins with the day the contract is entered into; the period may end on a non-working day and contracting authorities should take this into account (although the central digital platform will be available for use on non-working days).",
+      "ordinal": 37,
+      "heading_path": [
+        "What is a contract details notice?",
+        "Key points and policy intent",
+        "Timing of publication"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "p",
+      "text": "23. The definition of what it means for a contracting authority to enter into a contract is not set out in the Act or the regulations. It is the point when a legally binding contract comes into effect, which will be when the essential elements under contract law are satisfied (offer and acceptance; consideration; and intention to create legally binding relations).",
+      "ordinal": 38,
+      "heading_path": [
+        "What is a contract details notice?",
+        "Key points and policy intent",
+        "Timing of publication"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "p",
+      "text": "24. When all of those elements have been satisfied will be fact-specific. For example, it may be when the contract is signed and dated, and it is expected that will be the relevant date in the majority of cases. However, the date the contract is entered into may instead be, for example, after a particular event has occurred or based on when services or works start under the contract. It is for the contracting authority to determine the relevant date based on the circumstances. In doing so, contracting authorities must continue to have regard to the objective of information-sharing set out in section 12(1) and be transparent about when contracts have been entered into.",
+      "ordinal": 39,
+      "heading_path": [
+        "What is a contract details notice?",
+        "Key points and policy intent",
+        "Timing of publication"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "heading",
+      "text": "Publication of the contract",
+      "ordinal": 40,
+      "heading_path": [
+        "What is a contract details notice?",
+        "Key points and policy intent",
+        "Publication of the contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "p",
+      "text": "25. As set out in section 53 (Contract details notices and publication of contracts) contracting authorities that enter into a public contract with an estimated value of more than £5 million must publish a copy of the contract. The contract details notice will be the vehicle for publication of the contract where this threshold is met. This will be done by including the contract as an attachment to the notice.",
+      "ordinal": 41,
+      "heading_path": [
+        "What is a contract details notice?",
+        "Key points and policy intent",
+        "Publication of the contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "heading",
+      "text": "Timing of publication of the contract",
+      "ordinal": 42,
+      "heading_path": [
+        "What is a contract details notice?",
+        "Key points and policy intent",
+        "Publication of the contract",
+        "Timing of publication of the contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "p",
+      "text": "26. For most contracts, publication must take place before the end of the period of 90 days beginning with the day on which the contract is entered into. For light touch contracts, a copy of the contract must be published before the end of the period of 180 days beginning with the day on which the contract is entered into.",
+      "ordinal": 43,
+      "heading_path": [
+        "What is a contract details notice?",
+        "Key points and policy intent",
+        "Publication of the contract",
+        "Timing of publication of the contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "p",
+      "text": "27. These are the maximum timeframes for publication and mean that a contract may be published some time after the contract details notice is published. For efficiency, and to save having to add the contract to the notice later, the contract can be published at the same time as the contract details notice.",
+      "ordinal": 44,
+      "heading_path": [
+        "What is a contract details notice?",
+        "Key points and policy intent",
+        "Publication of the contract",
+        "Timing of publication of the contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "p",
+      "text": "28. The contract may be redacted in accordance with the exemptions set out in section 94 (General exemptions from duties to publish or disclose information). The guidance on the central digital platform provides further information.",
+      "ordinal": 45,
+      "heading_path": [
+        "What is a contract details notice?",
+        "Key points and policy intent",
+        "Publication of the contract",
+        "Timing of publication of the contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "heading",
+      "text": "Contract change prior to publication of the contract details notice",
+      "ordinal": 46,
+      "heading_path": [
+        "What is a contract details notice?",
+        "Key points and policy intent",
+        "Publication of the contract",
+        "Contract change prior to publication of the contract details notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "p",
+      "text": "29. The contract published with the contract details notice must be the contract that was originally entered into. There may be cases where there is an immediate change to a contract after it has been entered into i.e. a modification occurs immediately after the contract commences. This could trigger the requirement to publish a contract change notice (under section 77 of the Act) during the period in which the contract details notice would be published; this is in addition to the requirement under section 53(3) to publish the contract entered into.",
+      "ordinal": 47,
+      "heading_path": [
+        "What is a contract details notice?",
+        "Key points and policy intent",
+        "Publication of the contract",
+        "Contract change prior to publication of the contract details notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "p",
+      "text": "30. In these cases, contracting authorities must not use the contract details notice to record the contract change. They must publish the contract details notice and a copy of the contract that was entered into; and then subsequently publish the contract change notice (and a copy of the contract as modified or the modification) to document the contract change. Please see the guidance on contract modifications for further information.",
+      "ordinal": 48,
+      "heading_path": [
+        "What is a contract details notice?",
+        "Key points and policy intent",
+        "Publication of the contract",
+        "Contract change prior to publication of the contract details notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "heading",
+      "text": "What notices are linked to this aspect of the Act?",
+      "ordinal": 49,
+      "heading_path": [
+        "What is a contract details notice?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00050",
+      "block_type": "p",
+      "text": "31. Generally, the contract details notice will be preceded by the contract award notice under section 50 ; with one signalling the contracting authority’s intent to enter into a specific contract and the other confirming that this has taken place.",
+      "ordinal": 50,
+      "heading_path": [
+        "What is a contract details notice?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00051",
+      "block_type": "p",
+      "text": "32. The next notice in the sequence could be any of the following:",
+      "ordinal": 51,
+      "heading_path": [
+        "What is a contract details notice?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00052",
+      "block_type": "p",
+      "text": "a. contract change notice: a contract may be modified after the contract has been entered into, with the changes published in a contract change notice;",
+      "ordinal": 52,
+      "heading_path": [
+        "What is a contract details notice?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00053",
+      "block_type": "p",
+      "text": "b. contract performance notice [footnote 2] : if KPIs were required to be included in the contract under section 52 , a contract performance notice must be published at least annually to record the contracting authority’s assessment of the supplier’s performance against them. It must also be published if a breach occurs that results in partial termination, damages, or a settlement, or the contracting authority considers there to be poor performance. It may also be published in respect of a framework where the contracting authority is using the notice to notify framework users of the removal of a supplier (see guidance on contract performance notices and frameworks ); or",
+      "ordinal": 53,
+      "heading_path": [
+        "What is a contract details notice?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00054",
+      "block_type": "p",
+      "text": "c. contract termination notice: when the contract ends, for whatever reason, there is a requirement to publish a contract termination notice.",
+      "ordinal": 54,
+      "heading_path": [
+        "What is a contract details notice?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00055",
+      "block_type": "p",
+      "text": "33. If any of the events which require these notices to be published take place in the period after the contract has been entered into but before the contract details notice has been published, the contracting authority must first publish the contract details notice in respect of the contract that was entered into.",
+      "ordinal": 55,
+      "heading_path": [
+        "What is a contract details notice?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00056",
+      "block_type": "heading",
+      "text": "What other guidance is of particular relevance to this topic area?",
+      "ordinal": 56,
+      "heading_path": [
+        "What is a contract details notice?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00057",
+      "block_type": "p",
+      "text": "Guidance on contract award notices and standstill",
+      "ordinal": 57,
+      "heading_path": [
+        "What is a contract details notice?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00058",
+      "block_type": "p",
+      "text": "Guidance on key performance indicators",
+      "ordinal": 58,
+      "heading_path": [
+        "What is a contract details notice?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00059",
+      "block_type": "p",
+      "text": "Guidance on publication of information",
+      "ordinal": 59,
+      "heading_path": [
+        "What is a contract details notice?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00060",
+      "block_type": "heading",
+      "text": "Annex 1: Table setting out when contract details notices, contract documents and KPIs are required to be published",
+      "ordinal": 60,
+      "heading_path": [
+        "What is a contract details notice?",
+        "Annex 1: Table setting out when contract details notices, contract documents and KPIs are required to be published"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00061",
+      "block_type": "table",
+      "text": "Circumstance\tRequires contract details notice\tSection reference\tRequires contract publication if over £5m\tSection reference\tRequires KPI listing in contract details notice if contract over £5m\tSection reference\nPublic contract (except where specified below)\tY\t53(1)\tY\t53(3)\tY [footnote 3]\t52(3)/53(2)\nFramework (public contract)\tY\t53(1)\tY\t53(3)\tN\t52(6)\nConcession contract\tY\t53(1)\tY\t53(3)\tN\t52(6)\nLight touch contract\tY\t53(1)\tY\t53(3)\tN\t52(6)\nPublic contract awarded by a devolved Welsh authority or a transferred Northern Ireland authority, unless awarded under a reserved procurement arrangement.\tY\t53(1)\tN\t53(4)\tY\t52(3)/53(2)\nPublic contract awarded under a devolved Welsh procurement arrangement or a\t\t\t\t\t\t\ntransferred Northern Ireland procurement arrangement.\tY\t53(1)\tN\t53(4)\tY\t52(3)/53(2)\nContract awarded by a private utility\tN\t53(6)\tN\t53(6)\tN\t52(6)\nDirect award: user choice contract\tN\t53(6)\tN\t53(6)\tN [footnote 4]\t52(6)",
+      "ordinal": 61,
+      "heading_path": [
+        "What is a contract details notice?",
+        "Annex 1: Table setting out when contract details notices, contract documents and KPIs are required to be published"
+      ],
+      "source_locator": "details.body",
+      "metadata": {
+        "rows": [
+          [
+            "Circumstance",
+            "Requires contract details notice",
+            "Section reference",
+            "Requires contract publication if over £5m",
+            "Section reference",
+            "Requires KPI listing in contract details notice if contract over £5m",
+            "Section reference"
+          ],
+          [
+            "Public contract (except where specified below)",
+            "Y",
+            "53(1)",
+            "Y",
+            "53(3)",
+            "Y [footnote 3]",
+            "52(3)/53(2)"
+          ],
+          [
+            "Framework (public contract)",
+            "Y",
+            "53(1)",
+            "Y",
+            "53(3)",
+            "N",
+            "52(6)"
+          ],
+          [
+            "Concession contract",
+            "Y",
+            "53(1)",
+            "Y",
+            "53(3)",
+            "N",
+            "52(6)"
+          ],
+          [
+            "Light touch contract",
+            "Y",
+            "53(1)",
+            "Y",
+            "53(3)",
+            "N",
+            "52(6)"
+          ],
+          [
+            "Public contract awarded by a devolved Welsh authority or a transferred Northern Ireland authority, unless awarded under a reserved procurement arrangement.",
+            "Y",
+            "53(1)",
+            "N",
+            "53(4)",
+            "Y",
+            "52(3)/53(2)"
+          ],
+          [
+            "Public contract awarded under a devolved Welsh procurement arrangement or a",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "transferred Northern Ireland procurement arrangement.",
+            "Y",
+            "53(1)",
+            "N",
+            "53(4)",
+            "Y",
+            "52(3)/53(2)"
+          ],
+          [
+            "Contract awarded by a private utility",
+            "N",
+            "53(6)",
+            "N",
+            "53(6)",
+            "N",
+            "52(6)"
+          ],
+          [
+            "Direct award: user choice contract",
+            "N",
+            "53(6)",
+            "N",
+            "53(6)",
+            "N [footnote 4]",
+            "52(6)"
+          ]
+        ],
+        "row_count": 10
+      }
+    },
+    {
+      "block_id": "b00062",
+      "block_type": "li",
+      "text": "This guidance reflects planned changes to the KPI information required in the contract performance notice at regulation 39(4)(d-e) . The regulations will be amended to reflect this position before the Act comes into force ↩",
+      "ordinal": 62,
+      "heading_path": [
+        "What is a contract details notice?",
+        "Annex 1: Table setting out when contract details notices, contract documents and KPIs are required to be published"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00063",
+      "block_type": "p",
+      "text": "This guidance reflects planned changes to the KPI information required in the contract performance notice at regulation 39(4)(d-e) . The regulations will be amended to reflect this position before the Act comes into force ↩",
+      "ordinal": 63,
+      "heading_path": [
+        "What is a contract details notice?",
+        "Annex 1: Table setting out when contract details notices, contract documents and KPIs are required to be published"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00064",
+      "block_type": "li",
+      "text": "Does not apply if the contracting authority considers that the supplier’s performance under the contract could not appropriately be assessed by reference to KPIs. ↩",
+      "ordinal": 64,
+      "heading_path": [
+        "What is a contract details notice?",
+        "Annex 1: Table setting out when contract details notices, contract documents and KPIs are required to be published"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00065",
+      "block_type": "p",
+      "text": "Does not apply if the contracting authority considers that the supplier’s performance under the contract could not appropriately be assessed by reference to KPIs. ↩",
+      "ordinal": 65,
+      "heading_path": [
+        "What is a contract details notice?",
+        "Annex 1: Table setting out when contract details notices, contract documents and KPIs are required to be published"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00066",
+      "block_type": "li",
+      "text": "All direct award: user choice contracts are light touch contracts and as such are exempt from the requirement to set and publish KPIs. ↩",
+      "ordinal": 66,
+      "heading_path": [
+        "What is a contract details notice?",
+        "Annex 1: Table setting out when contract details notices, contract documents and KPIs are required to be published"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00067",
+      "block_type": "p",
+      "text": "All direct award: user choice contracts are light touch contracts and as such are exempt from the requirement to set and publish KPIs. ↩",
+      "ordinal": 67,
+      "heading_path": [
+        "What is a contract details notice?",
+        "Annex 1: Table setting out when contract details notices, contract documents and KPIs are required to be published"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "section 52(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/52",
+      "block_id": "b00003",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 53",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/53",
+      "block_id": "b00007",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement Act (Act)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/contents",
+      "block_id": "b00007",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Regulations 32-35",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/part/2",
+      "block_id": "b00007",
+      "ordinal": 3,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 5, paragraph 15",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/5/paragraph/15",
+      "block_id": "b00007",
+      "ordinal": 4,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 87",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/87",
+      "block_id": "b00008",
+      "ordinal": 5,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 53",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/53",
+      "block_id": "b00009",
+      "ordinal": 6,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "below-threshold contracts",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-below-threshold-contracts-html",
+      "block_id": "b00009",
+      "ordinal": 7,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "contract details notices",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-contract-details-notices-html",
+      "block_id": "b00009",
+      "ordinal": 8,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "section 52(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/52",
+      "block_id": "b00011",
+      "ordinal": 9,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 41",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/41",
+      "block_id": "b00013",
+      "ordinal": 10,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "paragraph 15 of Schedule 5",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/5/paragraph/15",
+      "block_id": "b00013",
+      "ordinal": 11,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulations 32-35",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/part/2",
+      "block_id": "b00014",
+      "ordinal": 12,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 53",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/53",
+      "block_id": "b00014",
+      "ordinal": 13,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Devolved Contracting Authorities",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-devolved-contracting-authorities-html",
+      "block_id": "b00015",
+      "ordinal": 14,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 32",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/32",
+      "block_id": "b00017",
+      "ordinal": 15,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 52",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/52",
+      "block_id": "b00019",
+      "ordinal": 16,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "[1]",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-contract-details-notices-html#_ftn1",
+      "block_id": "b00019",
+      "ordinal": 17,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "KPIs",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-key-performance-indicators-html",
+      "block_id": "b00019",
+      "ordinal": 18,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 52",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/52",
+      "block_id": "b00020",
+      "ordinal": 19,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 14",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/14",
+      "block_id": "b00022",
+      "ordinal": 20,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 8, paragraph 1",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/8/paragraph/1",
+      "block_id": "b00023",
+      "ordinal": 21,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 83(5)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/83",
+      "block_id": "b00025",
+      "ordinal": 22,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Regulation 33",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/33",
+      "block_id": "b00027",
+      "ordinal": 23,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 32",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/32",
+      "block_id": "b00027",
+      "ordinal": 24,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 32(2)(f)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/32",
+      "block_id": "b00028",
+      "ordinal": 25,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 14",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/14",
+      "block_id": "b00028",
+      "ordinal": 26,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 14",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/14",
+      "block_id": "b00028",
+      "ordinal": 27,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Regulation 34",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/34",
+      "block_id": "b00030",
+      "ordinal": 28,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 32",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/32",
+      "block_id": "b00030",
+      "ordinal": 29,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 46",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/46",
+      "block_id": "b00030",
+      "ordinal": 30,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 45(4)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/45",
+      "block_id": "b00030",
+      "ordinal": 31,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 45(4)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/45",
+      "block_id": "b00030",
+      "ordinal": 32,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Regulation 35",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/35",
+      "block_id": "b00032",
+      "ordinal": 33,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 32",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/32",
+      "block_id": "b00032",
+      "ordinal": 34,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 5",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/5",
+      "block_id": "b00032",
+      "ordinal": 35,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 42",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/42",
+      "block_id": "b00032",
+      "ordinal": 36,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 53(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/53",
+      "block_id": "b00034",
+      "ordinal": 37,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 12(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/12",
+      "block_id": "b00039",
+      "ordinal": 38,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 53",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/53",
+      "block_id": "b00041",
+      "ordinal": 39,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 94",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/94",
+      "block_id": "b00045",
+      "ordinal": 40,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "central digital platform",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-central-digital-platform-and-publication-of-information-html",
+      "block_id": "b00045",
+      "ordinal": 41,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 77",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/77",
+      "block_id": "b00047",
+      "ordinal": 42,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 53(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/53",
+      "block_id": "b00047",
+      "ordinal": 43,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "contract modifications",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-modifications-html",
+      "block_id": "b00048",
+      "ordinal": 44,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 50",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/50",
+      "block_id": "b00050",
+      "ordinal": 45,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "[footnote 2]",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-contract-details-notices-html#fn:2",
+      "block_id": "b00053",
+      "ordinal": 46,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "section 52",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/52",
+      "block_id": "b00053",
+      "ordinal": 47,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "contract performance notices",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-performance-notices-html",
+      "block_id": "b00053",
+      "ordinal": 48,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "frameworks",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-frameworks-html",
+      "block_id": "b00053",
+      "ordinal": 49,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "contract award notices and standstill",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-contract-award-notices-and-standstill-html",
+      "block_id": "b00057",
+      "ordinal": 50,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "key performance indicators",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-key-performance-indicators-html",
+      "block_id": "b00058",
+      "ordinal": 51,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "publication of information",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-central-digital-platform-and-publication-of-information-html",
+      "block_id": "b00059",
+      "ordinal": 52,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "53(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/53",
+      "block_id": "b00061",
+      "ordinal": 53,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "53(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/53",
+      "block_id": "b00061",
+      "ordinal": 54,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "[footnote 3]",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-contract-details-notices-html#fn:3",
+      "block_id": "b00061",
+      "ordinal": 55,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "52(3)/53(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/part/3/chapter/5",
+      "block_id": "b00061",
+      "ordinal": 56,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "53(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/53",
+      "block_id": "b00061",
+      "ordinal": 57,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "53(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/53",
+      "block_id": "b00061",
+      "ordinal": 58,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "52(6)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/52",
+      "block_id": "b00061",
+      "ordinal": 59,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "53(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/53",
+      "block_id": "b00061",
+      "ordinal": 60,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "53(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/53",
+      "block_id": "b00061",
+      "ordinal": 61,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "52(6)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/52",
+      "block_id": "b00061",
+      "ordinal": 62,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "53(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/53",
+      "block_id": "b00061",
+      "ordinal": 63,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "53(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/53",
+      "block_id": "b00061",
+      "ordinal": 64,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "52(6)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/52",
+      "block_id": "b00061",
+      "ordinal": 65,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "53(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/53",
+      "block_id": "b00061",
+      "ordinal": 66,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "53(4)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/53",
+      "block_id": "b00061",
+      "ordinal": 67,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "52(3)/53(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/part/3/chapter/5",
+      "block_id": "b00061",
+      "ordinal": 68,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "53(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/53",
+      "block_id": "b00061",
+      "ordinal": 69,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "53(4)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/53",
+      "block_id": "b00061",
+      "ordinal": 70,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "52(3)/53(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/part/3/chapter/5",
+      "block_id": "b00061",
+      "ordinal": 71,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "53(6)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/53",
+      "block_id": "b00061",
+      "ordinal": 72,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "53(6)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/53",
+      "block_id": "b00061",
+      "ordinal": 73,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "52(6)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/52",
+      "block_id": "b00061",
+      "ordinal": 74,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "53(6)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/53",
+      "block_id": "b00061",
+      "ordinal": 75,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "53(6)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/53",
+      "block_id": "b00061",
+      "ordinal": 76,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "[footnote 4]",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-contract-details-notices-html#fn:4",
+      "block_id": "b00061",
+      "ordinal": 77,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "52(6)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/52",
+      "block_id": "b00061",
+      "ordinal": 78,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 39(4)(d-e)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/39",
+      "block_id": "b00062",
+      "ordinal": 79,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-contract-details-notices-html#fnref:2",
+      "block_id": "b00062",
+      "ordinal": 80,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "regulation 39(4)(d-e)",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/39",
+      "block_id": "b00063",
+      "ordinal": 81,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-contract-details-notices-html#fnref:2",
+      "block_id": "b00063",
+      "ordinal": 82,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-contract-details-notices-html#fnref:3",
+      "block_id": "b00064",
+      "ordinal": 83,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-contract-details-notices-html#fnref:3",
+      "block_id": "b00065",
+      "ordinal": 84,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-contract-details-notices-html#fnref:4",
+      "block_id": "b00066",
+      "ordinal": 85,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-contract-details-notices-html#fnref:4",
+      "block_id": "b00067",
+      "ordinal": 86,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Guidance: Contract Details Notices (HTML)",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-contract-details-notices-html",
+      "block_id": "__document__",
+      "ordinal": 87,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2022 to 2024 Sunak Conservative government",
+      "href": "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 88,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 89,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Procurement Act 2023 guidance documents - Procure phase",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase",
+      "block_id": "__document__",
+      "ordinal": 90,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 91,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 52(3)",
+      "block_id": "b00003",
+      "start": 85,
+      "end": 98,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "52",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 53",
+      "block_id": "b00007",
+      "start": 3,
+      "end": 13,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "53"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 32",
+      "block_id": "b00007",
+      "start": 297,
+      "end": 311,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "32"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 5, paragraph 15",
+      "block_id": "b00007",
+      "start": 680,
+      "end": 704,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "5",
+        "paragraph": "15"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 15",
+      "block_id": "b00007",
+      "start": 692,
+      "end": 704,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "15"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 87",
+      "block_id": "b00008",
+      "start": 3,
+      "end": 13,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "87"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 53",
+      "block_id": "b00009",
+      "start": 84,
+      "end": 94,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "53"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 52(1)",
+      "block_id": "b00011",
+      "start": 464,
+      "end": 477,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "52",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 41",
+      "block_id": "b00013",
+      "start": 354,
+      "end": 364,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "41"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 5",
+      "block_id": "b00013",
+      "start": 397,
+      "end": 407,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "5"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 15",
+      "block_id": "b00013",
+      "start": 381,
+      "end": 393,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "15"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 53",
+      "block_id": "b00014",
+      "start": 158,
+      "end": 168,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "53"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulations 32",
+      "block_id": "b00014",
+      "start": 41,
+      "end": 55,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "32"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 32",
+      "block_id": "b00017",
+      "start": 162,
+      "end": 175,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "32"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 52",
+      "block_id": "b00019",
+      "start": 10,
+      "end": 20,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "52"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 52",
+      "block_id": "b00020",
+      "start": 39,
+      "end": 49,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "52"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 14",
+      "block_id": "b00022",
+      "start": 649,
+      "end": 662,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "14"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 8, paragraph 1",
+      "block_id": "b00023",
+      "start": 222,
+      "end": 245,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "8",
+        "paragraph": "1"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 1",
+      "block_id": "b00023",
+      "start": 234,
+      "end": 245,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 83(5)",
+      "block_id": "b00025",
+      "start": 159,
+      "end": 172,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "83",
+        "tail": "(5)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 33",
+      "block_id": "b00027",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "33"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 32",
+      "block_id": "b00027",
+      "start": 212,
+      "end": 225,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "32"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 32(2)(f)",
+      "block_id": "b00028",
+      "start": 174,
+      "end": 193,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "32",
+        "tail": "(2)(f)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 14",
+      "block_id": "b00028",
+      "start": 198,
+      "end": 211,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "14"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 14",
+      "block_id": "b00028",
+      "start": 331,
+      "end": 344,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "14"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 46",
+      "block_id": "b00030",
+      "start": 380,
+      "end": 390,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "46"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 45(4)",
+      "block_id": "b00030",
+      "start": 441,
+      "end": 454,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "45",
+        "tail": "(4)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 45(4)",
+      "block_id": "b00030",
+      "start": 602,
+      "end": 615,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "45",
+        "tail": "(4)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 34",
+      "block_id": "b00030",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "34"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 32",
+      "block_id": "b00030",
+      "start": 220,
+      "end": 233,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "32"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 42",
+      "block_id": "b00032",
+      "start": 374,
+      "end": 384,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "42"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 35",
+      "block_id": "b00032",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "35"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 32",
+      "block_id": "b00032",
+      "start": 199,
+      "end": 212,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "32"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 5",
+      "block_id": "b00032",
+      "start": 284,
+      "end": 294,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "5"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 53(1)",
+      "block_id": "b00034",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "53",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 12(1)",
+      "block_id": "b00039",
+      "start": 599,
+      "end": 612,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "12",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 53",
+      "block_id": "b00041",
+      "start": 18,
+      "end": 28,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "53"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 94",
+      "block_id": "b00045",
+      "start": 78,
+      "end": 88,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "94"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 77",
+      "block_id": "b00047",
+      "start": 361,
+      "end": 371,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "77"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 53(3)",
+      "block_id": "b00047",
+      "start": 504,
+      "end": 517,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "53",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 50",
+      "block_id": "b00050",
+      "start": 95,
+      "end": 105,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "50"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 52",
+      "block_id": "b00053",
+      "start": 105,
+      "end": 115,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "52"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 39(4)",
+      "block_id": "b00062",
+      "start": 109,
+      "end": 125,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "39",
+        "tail": "(4)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 39(4)",
+      "block_id": "b00063",
+      "start": 109,
+      "end": 125,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "39",
+        "tail": "(4)"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

@@ -1,0 +1,122 @@
+{
+  "document_id": "97eac5b6-7f2f-4d2a-b4e1-38339eba6fa0",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/a2d962caa8a0c574880bb5bb.json",
+  "input_sha256": "89084fa99308303a00881ae38606a6a92c4c6a1def7b1d481f8de28062667546",
+  "processed_at": "2026-08-27T02:26:34.657564+00:00",
+  "title": "Procurement Policy Note 01/16: complying with international obligations",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-policy-note-0116-complying-with-international-obligations",
+  "description": "This note explains how contracting authorities can ensure compliance with wider international obligations when letting public contracts.",
+  "publication_date": "2016-02-17T13:30:07+00:00",
+  "updated_date": "2016-02-17T13:30:07+00:00",
+  "source_metadata": {
+    "content_id": "97eac5b6-7f2f-4d2a-b4e1-38339eba6fa0",
+    "base_path": "/government/publications/procurement-policy-note-0116-complying-with-international-obligations",
+    "document_type": "policy_paper",
+    "schema_name": "publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "This note reminds contracting authorities of their international obligations when letting public contracts. It states that boycotts in public procurement are inappropriate, unless formal legal sanctions, embargoes and restrictions have been put in place by the UK government.",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "Read the press release on putting a stop to public procurement boycotts .",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "putting a stop to public procurement boycotts",
+      "href": "https://www.gov.uk/government/news/putting-a-stop-to-public-procurement-boycotts",
+      "block_id": "b00001",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement Policy Note 01/16: complying with international obligations",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0116-complying-with-international-obligations",
+      "block_id": "__document__",
+      "ordinal": 1,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "Procurement policy notes",
+      "href": "https://www.gov.uk/government/collections/procurement-policy-notes",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_DOCUMENT_COLLECTIONS"
+    },
+    {
+      "text": "2015 to 2016 Cameron Conservative government",
+      "href": "https://www.gov.uk/government/2015-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Crown Commercial Service",
+      "href": "https://www.gov.uk/government/organisations/crown-commercial-service",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_ORIGINAL_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 7,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Government spending",
+      "href": "https://www.gov.uk/government/government-spending",
+      "block_id": "__document__",
+      "ordinal": 8,
+      "link_type": "GOVUK_TAXONS"
+    }
+  ],
+  "legal_references": [],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/5a75067540f0b6360e472bd7/PPN_on_wider_international_obligations.pdf",
+      "title": "Procurement Policy Note: Ensuring compliance with wider international obligations when letting public contracts",
+      "content_type": "application/pdf",
+      "filename": "PPN_on_wider_international_obligations.pdf",
+      "id": "1414421",
+      "logical_role": "ATTACHMENT"
+    }
+  ],
+  "warnings": []
+}

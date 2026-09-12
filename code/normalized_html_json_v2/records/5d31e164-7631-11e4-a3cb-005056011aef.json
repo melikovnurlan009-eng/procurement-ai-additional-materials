@@ -1,0 +1,138 @@
+{
+  "document_id": "5d31e164-7631-11e4-a3cb-005056011aef",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/dfc82b4e0e16d46db03962a0.json",
+  "input_sha256": "ec1863340ee64abf844fc7e090469d9d1e0753a217eea61d8a2c99a1ecd33efb",
+  "processed_at": "2026-08-27T02:26:44.609218+00:00",
+  "title": "Procurement policy note 02/12: guidance on ICT contracts that exceed £100m",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-policy-note-02-12-guidance-on-ict-contracts-that-exceed-100m",
+  "description": "This Procurement Policy Note (PPN) [and guidance / documents] is now out of date",
+  "publication_date": "2012-03-30T01:00:00+01:00",
+  "updated_date": "2023-01-31T17:00:10+00:00",
+  "source_metadata": {
+    "content_id": "5d31e164-7631-11e4-a3cb-005056011aef",
+    "base_path": "/government/publications/procurement-policy-note-02-12-guidance-on-ict-contracts-that-exceed-100m",
+    "document_type": "guidance",
+    "schema_name": "publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "This Procurement Policy Note (PPN) is now out of date. Please refer to the Digital, Data and Technology (DD&T) Playbook, which can be found here: https://www.gov.uk/government/publications/the-digital-data-and-technology-playbook",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "PPN 02/12 contains guidance relating to the procurement of ICT products and services where there is a possibility that the whole life cost could exceed £100m. The Cabinet Office Structural Reform Plan stated that this guidance, which was a coalition commitment, would be published and implemented across central government.",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "This PPN contains a foreword by the Minister for the Cabinet Office, Francis Maude, advising how this guidance should be implemented and highlighting the benefits and implications of this new approach to procuring ICT.",
+      "ordinal": 2,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "https://www.gov.uk/government/publications/the-digital-data-and-technology-playbook",
+      "href": "https://www.gov.uk/government/publications/the-digital-data-and-technology-playbook",
+      "block_id": "b00000",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement policy note 02/12: guidance on ICT contracts that exceed £100m",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-02-12-guidance-on-ict-contracts-that-exceed-100m",
+      "block_id": "__document__",
+      "ordinal": 1,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "Procurement policy notes",
+      "href": "https://www.gov.uk/government/collections/procurement-policy-notes",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_DOCUMENT_COLLECTIONS"
+    },
+    {
+      "text": "2010 to 2015 Conservative and Liberal Democrat coalition government",
+      "href": "https://www.gov.uk/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Efficiency and Reform Group",
+      "href": "https://www.gov.uk/government/organisations/efficiency-and-reform-group",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Crown Commercial Service",
+      "href": "https://www.gov.uk/government/organisations/crown-commercial-service",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 7,
+      "link_type": "GOVUK_ORIGINAL_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 8,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Government spending",
+      "href": "https://www.gov.uk/government/government-spending",
+      "block_id": "__document__",
+      "ordinal": 9,
+      "link_type": "GOVUK_TAXONS"
+    }
+  ],
+  "legal_references": [],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/5a79adc1ed915d07d35b74ca/PPN-Guidance-on-ICT-Contracts-less-than-100m-new.pdf",
+      "title": "Procurement policy note 02/12: guidance on ICT contracts over £100m",
+      "content_type": "application/pdf",
+      "filename": "PPN-Guidance-on-ICT-Contracts-less-than-100m-new.pdf",
+      "id": "7142146",
+      "logical_role": "ATTACHMENT"
+    }
+  ],
+  "warnings": []
+}

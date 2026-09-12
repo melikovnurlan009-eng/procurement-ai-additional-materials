@@ -1,0 +1,2784 @@
+{
+  "document_id": "9f5710b9-196e-4042-b04c-196f08e5af1b",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/3c9915e0e2cb9f295d1ee886.json",
+  "input_sha256": "7acb1ab510254c34f04dbf94f03ca9be1cab74ed5abe5b442efc0f2fc9c7062e",
+  "processed_at": "2026-08-27T02:26:12.295894+00:00",
+  "title": "Guidance: Below-Threshold Contracts (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-below-threshold-contracts-html",
+  "description": null,
+  "publication_date": "2024-07-08T16:45:34+01:00",
+  "updated_date": "2026-07-13T09:24:55+01:00",
+  "source_metadata": {
+    "content_id": "9f5710b9-196e-4042-b04c-196f08e5af1b",
+    "base_path": "/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-below-threshold-contracts-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What is a below-threshold contract?",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What is the legal framework that governs below-threshold contracts?",
+      "ordinal": 2,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What has changed?",
+      "ordinal": 18,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Key points and policy intent",
+      "ordinal": 31,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Below-threshold frameworks",
+      "ordinal": 52,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Below-threshold contracts and dynamic markets",
+      "ordinal": 55,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Modifying a below-threshold contract",
+      "ordinal": 58,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Unregulated below-threshold contracts",
+      "ordinal": 61,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What notices are linked to this aspect of the Act?",
+      "ordinal": 67,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What other guidance is of particular relevance to this topic area?",
+      "ordinal": 83,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "What is a below-threshold contract?",
+      "ordinal": 0,
+      "heading_path": [
+        "What is a below-threshold contract?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "1. A ‘below-threshold contract’ is defined in section 5 of the Procurement Act 2023 (Act) (see paragraph 2 below) and is broadly a contract of lower value (defined in relation to the thresholds set out in Schedule 1 ) than a ‘public contract’. The award, entry into and management of a below-threshold contract is not ‘covered procurement’ as defined in section 1 of the Act. This means that fewer obligations in the Act apply to the procurement of below threshold contracts than apply to covered procurement. See paragraph 13 below for covered procurement and procurement.",
+      "ordinal": 1,
+      "heading_path": [
+        "What is a below-threshold contract?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "heading",
+      "text": "What is the legal framework that governs below-threshold contracts?",
+      "ordinal": 2,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What is the legal framework that governs below-threshold contracts?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "2. Section 5 defines a below-threshold contract as:",
+      "ordinal": 3,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What is the legal framework that governs below-threshold contracts?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "a. a contract for the supply, for pecuniary interest, of goods, services or works to a contracting authority;",
+      "ordinal": 4,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What is the legal framework that governs below-threshold contracts?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "b. a framework; or",
+      "ordinal": 5,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What is the legal framework that governs below-threshold contracts?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "p",
+      "text": "c. a concession contract,",
+      "ordinal": 6,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What is the legal framework that governs below-threshold contracts?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "that has an estimated value of less than the ‘threshold amount’ for the type of contract.",
+      "ordinal": 7,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What is the legal framework that governs below-threshold contracts?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "3. The threshold amounts are set out in Schedule 1 .",
+      "ordinal": 8,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What is the legal framework that governs below-threshold contracts?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "4. Section 84 provides that a ‘regulated below-threshold contract’ is a below-threshold contract that is not:",
+      "ordinal": 9,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What is the legal framework that governs below-threshold contracts?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "p",
+      "text": "a. an exempted contract as defined Schedule 2 ;",
+      "ordinal": 10,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What is the legal framework that governs below-threshold contracts?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "b. a concession contract; or",
+      "ordinal": 11,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What is the legal framework that governs below-threshold contracts?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "c. a utilities contract.",
+      "ordinal": 12,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What is the legal framework that governs below-threshold contracts?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "5. Part 6 of the Act sets out the rules that apply when carrying out the procurement of below-threshold contracts. This includes provisions relating to procurement procedures, duties, notices and implied payment terms. Regulation 24 sets out the information required to be included in a ‘below-threshold tender notice’.",
+      "ordinal": 13,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What is the legal framework that governs below-threshold contracts?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "6. Section 84 provides that the below-threshold provisions in Part 6 do not apply to procurement:",
+      "ordinal": 14,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What is the legal framework that governs below-threshold contracts?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "a. by a school (as defined in section 123 ); or",
+      "ordinal": 15,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What is the legal framework that governs below-threshold contracts?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "b. by transferred Northern Ireland authorities, unless the procurement takes place under a reserved procurement arrangement or a devolved Welsh procurement arrangement (such as a framework or dynamic market). This would also be the case if the transferred Northern Ireland authority participated in a joint procurement led by a reserved or devolved Welsh authority or a reserved or devolved Welsh central purchasing authority (for information about central purchasing authorities see guidance on frameworks ); or",
+      "ordinal": 16,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What is the legal framework that governs below-threshold contracts?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "c. under a transferred Northern Ireland procurement arrangement, that is to say using a framework or dynamic market established by a transferred Northern Ireland authority. This is also the case where a contracting authority participates in a joint procurement led by a transferred Northern Ireland authority or a transferred Northern Ireland central purchasing authority.",
+      "ordinal": 17,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What is the legal framework that governs below-threshold contracts?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "heading",
+      "text": "What has changed?",
+      "ordinal": 18,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "7. The Act replaces the provisions in Part 4, Chapter 8 of the Public Contracts Regulations 2015 (PCR), which set out the requirements for below-threshold contracts. The Utilities Contracts Regulations 2016, the Concessions Contracts Regulations 2016 and the Defence and Security Public Contracts Regulations 2011 did not include provisions on below-threshold contracts.",
+      "ordinal": 19,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "p",
+      "text": "8. Section 85(1) sets a similar restriction on assessing suppliers’ suitability as the PCR, which provided that a contracting authority may not include a pre-qualification stage in a procurement for a below-threshold contract. However, whereas under the PCR, contracting authorities were required to have regard to guidance issued by the Minister for the Cabinet Office in complying with the restriction on a pre-qualification stage, and report any deviations, the Act does not make similar provision.",
+      "ordinal": 20,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "9. There is no exemption for Welsh devolved authorities from publishing below-threshold notices unlike in the PCR. The Act does not change the position for Northern Ireland transferred authorities (other than procurement under a reserved procurement arrangement or a devolved Welsh procurement arrangement) or schools who remain exempt from below-threshold regulation.",
+      "ordinal": 21,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "p",
+      "text": "10. In both the PCR and the Act, the below-threshold noticing requirements apply at different thresholds to different categories of contracting authorities. These categories have changed under the Act. Previously these were defined in regulation 109 of the PCR as follows:",
+      "ordinal": 22,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "a. central government authorities: £12,000 including VAT; and",
+      "ordinal": 23,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "b. sub-central contracting authorities, NHS Trusts and NHS Foundation Trusts: £30,000 including VAT.",
+      "ordinal": 24,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "p",
+      "text": "The new categories at section 87(4) of the Act are:",
+      "ordinal": 25,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "p",
+      "text": "a. ‘central government authorities’: £12,000 including VAT; and",
+      "ordinal": 26,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "p",
+      "text": "b. all other contracting authorities’: £30,000 including VAT.",
+      "ordinal": 27,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "The definition of a central government authority at Schedule 1 of the Act and Schedule 2 of its regulations includes NHS Trusts and NHS Foundation Trusts, which means that the effect of the change to the categories is that NHS Trusts and NHS Foundation Trusts are now subject to the same (lower) threshold as other central government authorities.",
+      "ordinal": 28,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "p",
+      "text": "11. The requirement to publish a below-threshold tender notice and contract details notice on the central digital platform replaces the requirement to publish a contract notice and contract award notice only on Contracts Finder. This means that below-threshold notices are now required to be published centrally in a single place and provides easier and greater visibility.",
+      "ordinal": 29,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "p",
+      "text": "12. A below-threshold tender notice must be published on the central digital platform before being published elsewhere. This differs from the PCR, which allowed publication elsewhere first, with the notice required to be published on Contracts Finder within 24 hours of it appearing elsewhere.",
+      "ordinal": 30,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "heading",
+      "text": "Key points and policy intent",
+      "ordinal": 31,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "p",
+      "text": "13. Section 3 of the Act establishes that a contract is not a public contract if it is less than the applicable threshold for that contract. Section 1 of the Act defines covered procurement as the award, entry into and management of a public contract. As below-threshold contracts are not public contracts, the award, entry into and management of a below-threshold contract is not covered procurement. If a provision in the Act expressly refers to covered procurement, it does not apply to below-threshold contracts. Generally, the only provisions in the Act that are relevant to the procurement of below-threshold contracts are those set out in Part 6 , although there are some exceptions. For example, the obligations in section 13(1) to have regard to the national procurement policy statement (NPPS) or Welsh procurement policy statement (where applicable) and in section 90(1) to not discriminate against a treaty supplier (but only to the extent that below-threshold procurements are covered by an international agreement set out in Schedule 9 of the Act) apply to any procurement, including for a below-threshold contract.",
+      "ordinal": 32,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "p",
+      "text": "14. This gives contracting authorities undertaking a below-threshold procurement greater flexibility in designing and running a procurement and awarding and managing the resulting contract. This flexibility (which may be subject to other policies and procedures) might include, for example, the ability to choose to award a contract without competition or to request quotes from targeted known suppliers only, or to restrict the award of contracts to suppliers who are small and medium-sized enterprises (SMEs), or voluntary, community and social enterprises (VCSEs).",
+      "ordinal": 33,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "p",
+      "text": "15. There is also flexibility for competitions for below-threshold contracts to be reserved to suppliers based within the UK or a local area:",
+      "ordinal": 34,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "p",
+      "text": "a. PPN 005 (PDF, 144KB) sets out how central government departments, their executive agencies and non-departmental bodies may reserve competitions for below-threshold contracts to suppliers based within the UK or to a single county or London borough.",
+      "ordinal": 35,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "p",
+      "text": "b. Guidance available on Gov.uk ( ‘Reserving competitions for below-threshold contracts’ ) sets out how local authorities and other relevant authorities in England who are subject to the duty contained in section 17 of the Local Government Act 1988 , may reserve competitions for below-threshold contracts to suppliers based within the UK or a defined local area in accordance with the Local Government (Non-commercial Considerations) (England) Order 2026.",
+      "ordinal": 36,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "p",
+      "text": "16. Section 85 provides that contracting authorities carrying out a procurement for a regulated below-threshold contract cannot restrict the submission of tenders by reference to suppliers’ suitability to perform the contract. This includes an assessment of suppliers’ legal status, financial capacity or technical ability, for example through use of conditions of participation. Examples of this include assessment of suppliers’ experience, financial accounts, or taking into account any relevant convictions, professional misconduct or whether the supplier has been or is insolvent or bankrupt. This means that there cannot be a separate suitability stage before the submission of tenders as a way of reducing the number of suppliers who are invited to tender. This does not prevent a contracting authority assessing suitability at the award stage if it wishes and could support this assessment with data available to it on the central digital platform, (if the supplier is registered on the platform). There are differences in relation to this section for devolved Welsh authorities who should review the guidance specific to devolved Welsh procurement for more information.",
+      "ordinal": 37,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "p",
+      "text": "17. This prohibition reflects the fact that assessment of technical capacity, legal status and financial standing can be disproportionate and resource intensive and a particular barrier for SMEs and VCSEs.",
+      "ordinal": 38,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "p",
+      "text": "18. There is an exception to the prohibition of a separate suitability stage for below-threshold works contracts that exceed the specified thresholds set out in section 85(3)(a) and (b) . The thresholds align with the relevant goods and services thresholds in Schedule 1 .",
+      "ordinal": 39,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "p",
+      "text": "19. This exception is because the works threshold is much higher, and it is appropriate that contracting authorities carrying out procurements for higher value below-threshold works contracts that are still above the goods and services thresholds, are able to include a separate suitability stage before the award stage, if desired.",
+      "ordinal": 40,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "p",
+      "text": "20. The prohibition on applying a separate suitability stage also does not apply to:",
+      "ordinal": 41,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "p",
+      "text": "a. a contract awarded by devolved Welsh authorities, unless awarded under a reserved procurement arrangement;",
+      "ordinal": 42,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "p",
+      "text": "b. the award of a contract under devolved Welsh procurement arrangements; and",
+      "ordinal": 43,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "p",
+      "text": "c. the award of a contract under a framework.",
+      "ordinal": 44,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "p",
+      "text": "Devolved Welsh contracting authorities and contracting authorities wishing to use devolved Welsh procurement arrangements should refer to the guidance specific to devolved Welsh procurement.",
+      "ordinal": 45,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "p",
+      "text": "21. It should be noted that the prohibition in section 85(1) on a separate suitability stage applies only where the contracting authority invites the submission of tenders. This means that contracting authorities are able to award below-threshold contracts to suppliers from a group of pre-selected suppliers without competition. Following the award of the contract, the contracting authority would still be required to publish a contract details notice in accordance with section 87(3) (see paragraphs 39-42 below).",
+      "ordinal": 46,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "p",
+      "text": "22. Section 86 imposes a duty on contracting authorities, before inviting tenders, to consider the barriers SMEs may face in competing for a contract and whether such barriers can be removed or reduced. This obligation does not apply to below-threshold contracts awarded under a framework.",
+      "ordinal": 47,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "p",
+      "text": "23. There is no requirement to publish a below-threshold tender notice where the contracting authority invites quotes, proposals or tenders from a closed group of pre-selected suppliers, (ie suppliers on a framework) or from one or more targeted individual suppliers, provided it does not advertise the procurement in any other way (for example in a newspaper or on a local website or portal). However, section 87 requires that if a contracting authority intends to advertise a ‘notifiable below-threshold contract’ it must first publish a ‘below-threshold tender notice’. A notifiable below-threshold contract is a regulated below threshold contract with, if it is being awarded by a central government authority, a value of not less than £12,000 or, if it is being awarded by any other contracting authority, a value of not less than £30,000. Regulation 5 provides that this notice must be published on the central digital platform.",
+      "ordinal": 48,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "p",
+      "text": "24. The effect of section 87(6) relating to time limits is that the contracting authority must provide a reasonable time period in the below-threshold tender notice for the submission of tenders and that this should be the same period for all suppliers.",
+      "ordinal": 49,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00050",
+      "block_type": "p",
+      "text": "25. Section 87(3) provides that as soon as reasonably practicable after entering into a notifiable below-threshold contract, the contracting authority must publish a contract details notice. This applies to all notifiable below-threshold contracts, and not just those which require the publication of a below-threshold tender notice. Contracting authorities should note that this includes where a contracting authority has not published a below-threshold tender notice because it has only sought a quote from a single supplier and where a below-threshold contract has been awarded under a framework.",
+      "ordinal": 50,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00051",
+      "block_type": "p",
+      "text": "26. Section 88 mirrors the prompt payment provisions in section 68 (implied payment terms in public contracts) and 73 (implied payment terms in sub-contracts) that apply to public contracts. Further information on these is available in guidance on electronic invoicing and payment .",
+      "ordinal": 51,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00052",
+      "block_type": "heading",
+      "text": "Below-threshold frameworks",
+      "ordinal": 52,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "Key points and policy intent",
+        "Below-threshold frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00053",
+      "block_type": "p",
+      "text": "27. It would be unusual, but not impossible, to award a below-threshold contract that is a framework (‘below threshold framework’). The definition of a below-threshold contract in section 5 recognises this. Section 45(2) defines a framework as a contract between a contracting authority and one or more suppliers that provides for the future award of contracts by a contracting authority to the supplier or suppliers. A below-threshold framework is one where the estimated total value of contracts to be awarded under the framework is below the applicable threshold for that type of contract (see Schedule 3 for how to estimate the value of a framework). It may be more likely that below-threshold frameworks are awarded for works contracts where the threshold is much higher than for goods and services (and therefore the estimated value of contracts to be awarded under the framework is higher). If the contracting authority considers there is a possibility that a threshold may be exceeded they should award the framework as though it is an above-threshold framework.",
+      "ordinal": 53,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "Key points and policy intent",
+        "Below-threshold frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00054",
+      "block_type": "p",
+      "text": "28. When establishing a below-threshold framework, contracting authorities are still subject to the restriction on assessing supplier suitability to perform the contract set out in section 85 . However, they may still address suitability in the procedure (as long as this is not a separate, initial stage to reduce the number of suppliers). Section 85(1) , however, does not apply to the award of a below-threshold contract under a framework.",
+      "ordinal": 54,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "Key points and policy intent",
+        "Below-threshold frameworks"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00055",
+      "block_type": "heading",
+      "text": "Below-threshold contracts and dynamic markets",
+      "ordinal": 55,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "Key points and policy intent",
+        "Below-threshold contracts and dynamic markets"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00056",
+      "block_type": "p",
+      "text": "29. In order to be admitted to a dynamic market, suppliers must satisfy conditions for membership that assess their ability to perform the contracts to be awarded under the dynamic market. For below-threshold contracts, this is inconsistent with the prohibition in section 85(1) which prevents contracting authorities from applying a separate stage that assesses suppliers’ suitability to perform a contract. As set out at paragraph 18 above, this prohibition does not apply to works contracts over the thresholds set out in section 85(3) (which are set at the same level as the thresholds for goods and services).",
+      "ordinal": 56,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "Key points and policy intent",
+        "Below-threshold contracts and dynamic markets"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00057",
+      "block_type": "p",
+      "text": "30. The Act only regulates dynamic markets established for the future award of public contracts and the award of those contracts. This does not mean that below-threshold works contracts above the thresholds set out in section 85(3) cannot be awarded under a dynamic market, but those awards are not regulated by the Act’s provisions on dynamic markets. In those cases, the contracting authority should follow this guidance for notice requirements. (If awarding a contract under a dynamic market, contracting authorities may be required to publish a below-threshold tender notice and a contracts details notice (see paragraphs 35-42 below)).",
+      "ordinal": 57,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "Key points and policy intent",
+        "Below-threshold contracts and dynamic markets"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00058",
+      "block_type": "heading",
+      "text": "Modifying a below-threshold contract",
+      "ordinal": 58,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "Key points and policy intent",
+        "Modifying a below-threshold contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00059",
+      "block_type": "p",
+      "text": "31. Below-threshold contracts may be modified after the contract has been entered into without the same constraints on modifications that apply to public contracts in sections 74-77 of the Act.",
+      "ordinal": 59,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "Key points and policy intent",
+        "Modifying a below-threshold contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00060",
+      "block_type": "p",
+      "text": "32. However, section 74(1) of the Act introduces the concept of a ‘convertible contract’, which is a contract where the value of a modification will take the value of the contract after the modification over the relevant threshold amount in Schedule 1 of the Act, such that the contract will become a public contract. A modification to a convertible contract is only permitted under section 74 . Following the modification of the convertible contract, the contract is subject to the provisions in the Act that govern public contracts, rather than the provisions specific to below-threshold contracts in Part 6 . See guidance on contract modifications for more information.",
+      "ordinal": 60,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "Key points and policy intent",
+        "Modifying a below-threshold contract"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00061",
+      "block_type": "heading",
+      "text": "Unregulated below-threshold contracts",
+      "ordinal": 61,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "Key points and policy intent",
+        "Unregulated below-threshold contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00062",
+      "block_type": "p",
+      "text": "33. Section 84 provides that Part 6 does not apply to below-threshold contracts that are:",
+      "ordinal": 62,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "Key points and policy intent",
+        "Unregulated below-threshold contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00063",
+      "block_type": "p",
+      "text": "a. exempted contracts;",
+      "ordinal": 63,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "Key points and policy intent",
+        "Unregulated below-threshold contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00064",
+      "block_type": "p",
+      "text": "b. utilities or concession contracts; or",
+      "ordinal": 64,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "Key points and policy intent",
+        "Unregulated below-threshold contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00065",
+      "block_type": "p",
+      "text": "c. procured by a school, by a transferred Northern Ireland authority [footnote 1] or under a transferred Northern Ireland procurement arrangement (see section 84(2) ).",
+      "ordinal": 65,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "Key points and policy intent",
+        "Unregulated below-threshold contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00066",
+      "block_type": "p",
+      "text": "However, obligations elsewhere in the Act relating to ‘procurement’ will apply, such as those relating to the NPPS and relevant treaty state suppliers (see paragraph 13 above).",
+      "ordinal": 66,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "Key points and policy intent",
+        "Unregulated below-threshold contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00067",
+      "block_type": "heading",
+      "text": "What notices are linked to this aspect of the Act?",
+      "ordinal": 67,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00068",
+      "block_type": "p",
+      "text": "34. Pipeline notice: A pipeline notice is required if a contracting authority considers that it will, in the coming financial year, pay more than £100 million under contracts for the supply of goods, services or works other than exempted contracts (‘relevant contracts’). For the purpose of calculating whether a contracting authority will exceed the £100 million threshold, the calculation must include all payments that will be made under existing and future contracts. This includes payments under below-threshold contracts. Where a contracting authority is required to publish a pipeline notice, there is no requirement under the Act to include planned future awards of below-threshold contracts in that notice (because they are below the £2 million threshold for contracts that must be included). However, a contracting authority may include below-threshold contracts in the notice if it wishes and should particularly consider whether it would be useful to give early visibility to the market of upcoming below-threshold works contracts that are over £2 million.",
+      "ordinal": 68,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00069",
+      "block_type": "p",
+      "text": "35. Below threshold tender notice: When a contracting authority intends to advertise a notifiable below-threshold contract (see paragraph 23), it must first publish a below-threshold tender notice on the central digital platform.",
+      "ordinal": 69,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00070",
+      "block_type": "p",
+      "text": "36. The below-threshold tender notice is a lighter touch version of the tender notice for covered procurement (although it will be accessed on the central digital platform through the standard tender notice). It must set out that the contracting authority intends to invite the submission of tenders and contain as a minimum the information set out at regulation 24 , although contracting authorities may include additional information.",
+      "ordinal": 70,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00071",
+      "block_type": "p",
+      "text": "37. Whilst not set out in the regulations, a contracting authority may supplement the information in the below-threshold tender notice by including additional information in tender documents. Tender documents can be made available by the contracting authority in any way, for example at a portal/website address or via email. The information in the tender documents supplements and can duplicate information provided in the below-threshold tender notice. Tender documents could include information such as the specification, assessment methodology and terms and conditions of the contract.",
+      "ordinal": 71,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00072",
+      "block_type": "p",
+      "text": "38. Contracting authorities will need to ensure that the tender notice (and tender documents where applicable) provide suppliers with sufficient information to allow them to prepare a tender within the timeframes provided for in the tender notice.",
+      "ordinal": 72,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00073",
+      "block_type": "p",
+      "text": "39. Contract details notice: If the contract is a notifiable below-threshold contract (see paragraph 23), the next notice required to be published is the contract details notice for below-threshold contracts. Because there is not always a requirement to publish a below-threshold tender notice, the contract details notice may sometimes be the first and only notice published in a procurement for a below-threshold contract.",
+      "ordinal": 73,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00074",
+      "block_type": "p",
+      "text": "40. The information to be included in a contract details notice for a below-threshold contract is less than that required under section 53 for public contracts and is set out in regulation 36 .",
+      "ordinal": 74,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00075",
+      "block_type": "p",
+      "text": "41. Section 87(3) requires that the contract details notice must be published as soon as reasonably practicable after entering into a notifiable below-threshold contract. What is reasonably practicable will be a judgement for the contracting authority based upon the size, complexity and nature of each procurement but will usually mean:",
+      "ordinal": 75,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00076",
+      "block_type": "p",
+      "text": "a. in the case of a contract to be awarded by a central government authority, within 30 days of the contract being entered into; or",
+      "ordinal": 76,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00077",
+      "block_type": "p",
+      "text": "b. otherwise, within 90 days of the contract being entered into.",
+      "ordinal": 77,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00078",
+      "block_type": "p",
+      "text": "42. This timeframe does not apply in the case of a below-threshold light touch contract, in which case the notice should be published within 120 days of the contract being entered into.",
+      "ordinal": 78,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00079",
+      "block_type": "p",
+      "text": "43. Contract change notice: As set out in paragraph 32 above, when the value of a modification will take the value of a contract over the relevant threshold amount in Schedule 1 such that it will become a public contract, it is a convertible contract. A modification which will make the contract a public contract, and any subsequent modification to a convertible contract, is only permitted under section 74 and a contract change notice must be published in accordance with section 75 .",
+      "ordinal": 79,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00080",
+      "block_type": "p",
+      "text": "44. Additional noticing information for contracts awarded under a dynamic market: A contracting authority may award a below-threshold contract under a dynamic market where section 85(1) does not apply, for example, to award a works contract that is above the thresholds set out in section 85(3) (see paragraph 29). In doing so, the contracting authority may have to publish a below-threshold tender notice in line with the requirements for below-threshold tender notices set out in section 87 and regulation 24 (see paragraphs 23 and 35-38 above).",
+      "ordinal": 80,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00081",
+      "block_type": "p",
+      "text": "45. Although not a requirement of the regulations, authorities should specify in any below-threshold tender notice that the contract is being awarded by reference to a dynamic market (and the relevant part of the market, if appropriate) and the unique identifier of the dynamic market. Contracting authorities may choose to give suppliers the opportunity to join a dynamic market in order to participate in a procurement and, if doing so, should allow enough time for suppliers to become members.",
+      "ordinal": 81,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00082",
+      "block_type": "p",
+      "text": "46. Where the contract awarded is a notifiable below-threshold contract, the contracting authority is required to publish a contract details notice in accordance with section 87(3) and regulation 36 (see paragraphs 25 and 39-43). Although not a requirement of the regulations, in the contract details notice for a below-threshold contract awarded under a dynamic market, the contracting authority should also provide the unique identifier of the dynamic market.",
+      "ordinal": 82,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What notices are linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00083",
+      "block_type": "heading",
+      "text": "What other guidance is of particular relevance to this topic area?",
+      "ordinal": 83,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00084",
+      "block_type": "p",
+      "text": "Guidance on thresholds",
+      "ordinal": 84,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00085",
+      "block_type": "p",
+      "text": "Guidance on valuation of contracts",
+      "ordinal": 85,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00086",
+      "block_type": "p",
+      "text": "Guidance on central digital platform and publication of information",
+      "ordinal": 86,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00087",
+      "block_type": "p",
+      "text": "Guidance on NPPS",
+      "ordinal": 87,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00088",
+      "block_type": "p",
+      "text": "Guidance on treaty state suppliers",
+      "ordinal": 88,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00089",
+      "block_type": "p",
+      "text": "© Crown copyright 2024",
+      "ordinal": 89,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00090",
+      "block_type": "p",
+      "text": "This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated. To view this licence, visit nationalarchives.gov.uk/doc/open-government-licence/version/3",
+      "ordinal": 90,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00091",
+      "block_type": "p",
+      "text": "Where we have identified any third party copyright information you will need to obtain permission from the copyright holders concerned.",
+      "ordinal": 91,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00092",
+      "block_type": "p",
+      "text": "This publication is available at www.gov.uk/government/publications",
+      "ordinal": 92,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00093",
+      "block_type": "p",
+      "text": "Any enquiries regarding this publication should be sent to us at procurement.reform@cabinetoffice.gov.uk .",
+      "ordinal": 93,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00094",
+      "block_type": "li",
+      "text": "Unless the transferred Northern Ireland authority is carrying out a procurement under a reserved or devolved Welsh procurement arrangement, as defined in section 114 of the Act. ↩",
+      "ordinal": 94,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00095",
+      "block_type": "p",
+      "text": "Unless the transferred Northern Ireland authority is carrying out a procurement under a reserved or devolved Welsh procurement arrangement, as defined in section 114 of the Act. ↩",
+      "ordinal": 95,
+      "heading_path": [
+        "What is a below-threshold contract?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "section 5",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/5",
+      "block_id": "b00001",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement Act 2023 (Act)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/contents",
+      "block_id": "b00001",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 1",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/1",
+      "block_id": "b00001",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 1",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/1",
+      "block_id": "b00001",
+      "ordinal": 3,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 5",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/5",
+      "block_id": "b00003",
+      "ordinal": 4,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 1",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/1",
+      "block_id": "b00008",
+      "ordinal": 5,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 84",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/84",
+      "block_id": "b00009",
+      "ordinal": 6,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 2",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/2",
+      "block_id": "b00010",
+      "ordinal": 7,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Part 6",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/part/6",
+      "block_id": "b00013",
+      "ordinal": 8,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Regulation 24",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/24",
+      "block_id": "b00013",
+      "ordinal": 9,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 84",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/84",
+      "block_id": "b00014",
+      "ordinal": 10,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Part 6",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/part/6",
+      "block_id": "b00014",
+      "ordinal": 11,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 123",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/123",
+      "block_id": "b00015",
+      "ordinal": 12,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "frameworks",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-frameworks-html",
+      "block_id": "b00016",
+      "ordinal": 13,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 85(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/85",
+      "block_id": "b00020",
+      "ordinal": 14,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 87(4)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/87",
+      "block_id": "b00025",
+      "ordinal": 15,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 1",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/1",
+      "block_id": "b00028",
+      "ordinal": 16,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 2",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/2",
+      "block_id": "b00028",
+      "ordinal": 17,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 3",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/3",
+      "block_id": "b00032",
+      "ordinal": 18,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 1",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/1",
+      "block_id": "b00032",
+      "ordinal": 19,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Part 6",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/part/6",
+      "block_id": "b00032",
+      "ordinal": 20,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 13(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/13",
+      "block_id": "b00032",
+      "ordinal": 21,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 90(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/90",
+      "block_id": "b00032",
+      "ordinal": 22,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 9",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/9",
+      "block_id": "b00032",
+      "ordinal": 23,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "PPN 005 (PDF, 144KB)",
+      "href": "https://assets.publishing.service.gov.uk/media/67af55e96e6c8d18118ace31/PPN_005_Reserving_below_threshold.pdf",
+      "block_id": "b00035",
+      "ordinal": 24,
+      "link_type": "ATTACHMENT"
+    },
+    {
+      "text": "Gov.uk",
+      "href": "http://gov.uk",
+      "block_id": "b00036",
+      "ordinal": 25,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "‘Reserving competitions for below-threshold contracts’",
+      "href": "https://www.gov.uk/government/publications/reserving-competitions-for-below-threshold-contracts",
+      "block_id": "b00036",
+      "ordinal": 26,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 17",
+      "href": "https://www.legislation.gov.uk/ukpga/1988/9/section/17",
+      "block_id": "b00036",
+      "ordinal": 27,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Local Government Act 1988",
+      "href": "https://www.legislation.gov.uk/ukpga/1988/9/contents",
+      "block_id": "b00036",
+      "ordinal": 28,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 85",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/85",
+      "block_id": "b00037",
+      "ordinal": 29,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 85(3)(a) and (b)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/85",
+      "block_id": "b00039",
+      "ordinal": 30,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 1",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/1",
+      "block_id": "b00039",
+      "ordinal": 31,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 85(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/85",
+      "block_id": "b00046",
+      "ordinal": 32,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 87(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/87",
+      "block_id": "b00046",
+      "ordinal": 33,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 86",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/86",
+      "block_id": "b00047",
+      "ordinal": 34,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 87",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/87",
+      "block_id": "b00048",
+      "ordinal": 35,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Regulation 5",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/5",
+      "block_id": "b00048",
+      "ordinal": 36,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 87(6)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/87",
+      "block_id": "b00049",
+      "ordinal": 37,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 87(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/87",
+      "block_id": "b00050",
+      "ordinal": 38,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 88",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/88",
+      "block_id": "b00051",
+      "ordinal": 39,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 68",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/68",
+      "block_id": "b00051",
+      "ordinal": 40,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "electronic invoicing and payment",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-electronic-invoicing-and-payment-html",
+      "block_id": "b00051",
+      "ordinal": 41,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 5",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/5",
+      "block_id": "b00053",
+      "ordinal": 42,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 45(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/45",
+      "block_id": "b00053",
+      "ordinal": 43,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 3",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/3",
+      "block_id": "b00053",
+      "ordinal": 44,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 85",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/85",
+      "block_id": "b00054",
+      "ordinal": 45,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 85(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/85",
+      "block_id": "b00054",
+      "ordinal": 46,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 85(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/85",
+      "block_id": "b00056",
+      "ordinal": 47,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 85(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/85",
+      "block_id": "b00056",
+      "ordinal": 48,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 85(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/85",
+      "block_id": "b00057",
+      "ordinal": 49,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "sections 74-77",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/part/4/crossheading/modifying-public-contracts",
+      "block_id": "b00059",
+      "ordinal": 50,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 74(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/74",
+      "block_id": "b00060",
+      "ordinal": 51,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 1",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/1",
+      "block_id": "b00060",
+      "ordinal": 52,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 74",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/74",
+      "block_id": "b00060",
+      "ordinal": 53,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Part 6",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/part/6",
+      "block_id": "b00060",
+      "ordinal": 54,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "contract modifications",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-manage-phase/guidance-contract-modifications-html",
+      "block_id": "b00060",
+      "ordinal": 55,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 84",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/84",
+      "block_id": "b00062",
+      "ordinal": 56,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Part 6",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/part/6",
+      "block_id": "b00062",
+      "ordinal": 57,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "[footnote 1]",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-below-threshold-contracts-html#fn:1",
+      "block_id": "b00065",
+      "ordinal": 58,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "section 84(2)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/84",
+      "block_id": "b00065",
+      "ordinal": 59,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 24",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/24",
+      "block_id": "b00070",
+      "ordinal": 60,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 53",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/53",
+      "block_id": "b00074",
+      "ordinal": 61,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 36",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/36",
+      "block_id": "b00074",
+      "ordinal": 62,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 87(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/87",
+      "block_id": "b00075",
+      "ordinal": 63,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Schedule 1",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/schedule/1",
+      "block_id": "b00079",
+      "ordinal": 64,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 74",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/74",
+      "block_id": "b00079",
+      "ordinal": 65,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 75",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/75",
+      "block_id": "b00079",
+      "ordinal": 66,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 85(1)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/85",
+      "block_id": "b00080",
+      "ordinal": 67,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 85(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/85",
+      "block_id": "b00080",
+      "ordinal": 68,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 87",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/87",
+      "block_id": "b00080",
+      "ordinal": 69,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 24",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/24",
+      "block_id": "b00080",
+      "ordinal": 70,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 87(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/87",
+      "block_id": "b00082",
+      "ordinal": 71,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 36",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/36",
+      "block_id": "b00082",
+      "ordinal": 72,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "thresholds",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-thresholds-html",
+      "block_id": "b00084",
+      "ordinal": 73,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "valuation of contracts",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-valuation-of-contracts-html",
+      "block_id": "b00085",
+      "ordinal": 74,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "central digital platform and publication of information",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-central-digital-platform-and-publication-of-information-html",
+      "block_id": "b00086",
+      "ordinal": 75,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "NPPS",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-national-procurement-policy-statement-html",
+      "block_id": "b00087",
+      "ordinal": 76,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "treaty state suppliers",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-treaty-state-suppliers-html",
+      "block_id": "b00088",
+      "ordinal": 77,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "nationalarchives.gov.uk/doc/open-government-licence/version/3",
+      "href": "http://nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "block_id": "b00090",
+      "ordinal": 78,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "www.gov.uk/government/publications",
+      "href": "http://www.gov.uk/government/publications",
+      "block_id": "b00092",
+      "ordinal": 79,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "procurement.reform@cabinetoffice.gov.uk",
+      "href": "mailto:procurement.reform@cabinetoffice.gov.uk",
+      "block_id": "b00093",
+      "ordinal": 80,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "section 114",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/114",
+      "block_id": "b00094",
+      "ordinal": 81,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-below-threshold-contracts-html#fnref:1",
+      "block_id": "b00094",
+      "ordinal": 82,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "section 114",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/114",
+      "block_id": "b00095",
+      "ordinal": 83,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-below-threshold-contracts-html#fnref:1",
+      "block_id": "b00095",
+      "ordinal": 84,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Guidance: Below-Threshold Contracts (HTML)",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-below-threshold-contracts-html",
+      "block_id": "__document__",
+      "ordinal": 85,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2022 to 2024 Sunak Conservative government",
+      "href": "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 86,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 87,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Procurement Act 2023 guidance documents - Define phase",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase",
+      "block_id": "__document__",
+      "ordinal": 88,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 89,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 5",
+      "block_id": "b00001",
+      "start": 46,
+      "end": 55,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "5"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 1",
+      "block_id": "b00001",
+      "start": 354,
+      "end": 363,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 1",
+      "block_id": "b00001",
+      "start": 205,
+      "end": 215,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 2",
+      "block_id": "b00001",
+      "start": 95,
+      "end": 106,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "2"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 13",
+      "block_id": "b00001",
+      "start": 514,
+      "end": 526,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "13"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 5",
+      "block_id": "b00003",
+      "start": 3,
+      "end": 12,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "5"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 1",
+      "block_id": "b00008",
+      "start": 40,
+      "end": 50,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 84",
+      "block_id": "b00009",
+      "start": 3,
+      "end": 13,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "84"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 2",
+      "block_id": "b00010",
+      "start": 35,
+      "end": 45,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "2"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 24",
+      "block_id": "b00013",
+      "start": 219,
+      "end": 232,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "24"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 84",
+      "block_id": "b00014",
+      "start": 3,
+      "end": 13,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "84"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 123",
+      "block_id": "b00015",
+      "start": 30,
+      "end": 41,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "123"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015 (PCR)",
+      "block_id": "b00019",
+      "start": 80,
+      "end": 102,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015",
+        "tail": " (PCR)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2016",
+      "block_id": "b00019",
+      "start": 190,
+      "end": 206,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2016"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2016",
+      "block_id": "b00019",
+      "start": 234,
+      "end": 250,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2016"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2011",
+      "block_id": "b00019",
+      "start": 297,
+      "end": 313,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2011"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 85(1)",
+      "block_id": "b00020",
+      "start": 3,
+      "end": 16,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "85",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 109",
+      "block_id": "b00022",
+      "start": 235,
+      "end": 249,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "109"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 87(4)",
+      "block_id": "b00025",
+      "start": 22,
+      "end": 35,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "87",
+        "tail": "(4)"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 1",
+      "block_id": "b00028",
+      "start": 52,
+      "end": 62,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 2",
+      "block_id": "b00028",
+      "start": 78,
+      "end": 88,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "2"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 3",
+      "block_id": "b00032",
+      "start": 4,
+      "end": 13,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "3"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 1",
+      "block_id": "b00032",
+      "start": 141,
+      "end": 150,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 13(1)",
+      "block_id": "b00032",
+      "start": 723,
+      "end": 736,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "13",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 90(1)",
+      "block_id": "b00032",
+      "start": 868,
+      "end": 881,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "90",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 9",
+      "block_id": "b00032",
+      "start": 1039,
+      "end": 1049,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "9"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 17",
+      "block_id": "b00036",
+      "start": 205,
+      "end": 215,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "17"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 85",
+      "block_id": "b00037",
+      "start": 4,
+      "end": 14,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "85"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 85(3)(a)",
+      "block_id": "b00039",
+      "start": 161,
+      "end": 177,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "85",
+        "tail": "(3)(a)"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 1",
+      "block_id": "b00039",
+      "start": 260,
+      "end": 270,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 85(1)",
+      "block_id": "b00046",
+      "start": 47,
+      "end": 60,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "85",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 87(3)",
+      "block_id": "b00046",
+      "start": 473,
+      "end": 486,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "87",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraphs 39",
+      "block_id": "b00046",
+      "start": 492,
+      "end": 505,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "39"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 86",
+      "block_id": "b00047",
+      "start": 4,
+      "end": 14,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "86"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 87",
+      "block_id": "b00048",
+      "start": 403,
+      "end": 413,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "87"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 5",
+      "block_id": "b00048",
+      "start": 845,
+      "end": 857,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "5"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 87(6)",
+      "block_id": "b00049",
+      "start": 18,
+      "end": 31,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "87",
+        "tail": "(6)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 87(3)",
+      "block_id": "b00050",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "87",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 88",
+      "block_id": "b00051",
+      "start": 4,
+      "end": 14,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "88"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 68",
+      "block_id": "b00051",
+      "start": 56,
+      "end": 66,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 5",
+      "block_id": "b00053",
+      "start": 180,
+      "end": 189,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "5"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 45(2)",
+      "block_id": "b00053",
+      "start": 207,
+      "end": 220,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "45",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 3",
+      "block_id": "b00053",
+      "start": 597,
+      "end": 607,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "3"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 85",
+      "block_id": "b00054",
+      "start": 181,
+      "end": 191,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "85"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 85(1)",
+      "block_id": "b00054",
+      "start": 341,
+      "end": 354,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "85",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 85(1)",
+      "block_id": "b00056",
+      "start": 265,
+      "end": 278,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "85",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 85(3)",
+      "block_id": "b00056",
+      "start": 525,
+      "end": 538,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "85",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 18",
+      "block_id": "b00056",
+      "start": 423,
+      "end": 435,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "18"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 85(3)",
+      "block_id": "b00057",
+      "start": 218,
+      "end": 231,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "85",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraphs 35",
+      "block_id": "b00057",
+      "start": 615,
+      "end": 628,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "35"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "sections 74",
+      "block_id": "b00059",
+      "start": 167,
+      "end": 178,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "74"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 74(1)",
+      "block_id": "b00060",
+      "start": 13,
+      "end": 26,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "74",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 74",
+      "block_id": "b00060",
+      "start": 383,
+      "end": 393,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "74"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 1",
+      "block_id": "b00060",
+      "start": 241,
+      "end": 251,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 84",
+      "block_id": "b00062",
+      "start": 4,
+      "end": 14,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "84"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 84(2)",
+      "block_id": "b00065",
+      "start": 151,
+      "end": 164,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "84",
+        "tail": "(2)"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 13",
+      "block_id": "b00066",
+      "start": 156,
+      "end": 168,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "13"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 23",
+      "block_id": "b00069",
+      "start": 128,
+      "end": 140,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "23"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 24",
+      "block_id": "b00070",
+      "start": 352,
+      "end": 365,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "24"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 23",
+      "block_id": "b00073",
+      "start": 91,
+      "end": 103,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "23"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 53",
+      "block_id": "b00074",
+      "start": 128,
+      "end": 138,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "53"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 36",
+      "block_id": "b00074",
+      "start": 178,
+      "end": 191,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "36"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 87(3)",
+      "block_id": "b00075",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "87",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 74",
+      "block_id": "b00079",
+      "start": 398,
+      "end": 408,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "74"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 75",
+      "block_id": "b00079",
+      "start": 475,
+      "end": 485,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "75"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 1",
+      "block_id": "b00079",
+      "start": 167,
+      "end": 177,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 32",
+      "block_id": "b00079",
+      "start": 42,
+      "end": 54,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "32"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 85(1)",
+      "block_id": "b00080",
+      "start": 172,
+      "end": 185,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "85",
+        "tail": "(1)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 85(3)",
+      "block_id": "b00080",
+      "start": 281,
+      "end": 294,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "85",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 87",
+      "block_id": "b00080",
+      "start": 482,
+      "end": 492,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "87"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 24",
+      "block_id": "b00080",
+      "start": 497,
+      "end": 510,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "24"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 29",
+      "block_id": "b00080",
+      "start": 300,
+      "end": 312,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "29"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraphs 23",
+      "block_id": "b00080",
+      "start": 516,
+      "end": 529,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "23"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 87(3)",
+      "block_id": "b00082",
+      "start": 167,
+      "end": 180,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "87",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 36",
+      "block_id": "b00082",
+      "start": 185,
+      "end": 198,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "36"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraphs 25",
+      "block_id": "b00082",
+      "start": 204,
+      "end": 217,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "25"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 114",
+      "block_id": "b00094",
+      "start": 154,
+      "end": 165,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "114"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 114",
+      "block_id": "b00095",
+      "start": 154,
+      "end": 165,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "114"
+      }
+    }
+  ],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/67af55e96e6c8d18118ace31/PPN_005_Reserving_below_threshold.pdf",
+      "title": "PPN 005 (PDF, 144KB)",
+      "discovered_in_block": "b00035"
+    }
+  ],
+  "warnings": []
+}

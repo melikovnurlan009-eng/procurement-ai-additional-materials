@@ -1,0 +1,97 @@
+{
+  "document_id": "395443f4033d4b1c944e5c86",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "html",
+  "source_path": "corpus_ingest_v2/raw/e39f82b1c8cfc7ef8341cb6b.html",
+  "input_sha256": "17cf8a07daeb05c1f693b7b95b44514dd6466a2f49bffbc188e25cfba30d9bc0",
+  "processed_at": "2026-08-27T02:26:45.191348+00:00",
+  "title": "Cabinet office guidance",
+  "canonical_url": "https://www.procurementportal.com/procurements-started-before-24-february-2025/public-contracts-regulations-2015-faqs/cabinet-office-guidance-on-the-public-contracts-regulations-2015/",
+  "description": null,
+  "publication_date": null,
+  "updated_date": null,
+  "source_metadata": {
+    "html_lang": "en"
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 1,
+      "title": "Cabinet office guidance",
+      "ordinal": 0
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "How we can help you",
+      "ordinal": 3
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "Cabinet office guidance",
+      "ordinal": 0,
+      "heading_path": [
+        "Cabinet office guidance"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "The guidance on the 2015 Regulations, is, together with other training materials, at this link here .",
+      "ordinal": 1,
+      "heading_path": [
+        "Cabinet office guidance"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "In addition, the Government publishes Procurement Policy Notes containing guidance on policy, which it posts here .",
+      "ordinal": 2,
+      "heading_path": [
+        "Cabinet office guidance"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "heading",
+      "text": "How we can help you",
+      "ordinal": 3,
+      "heading_path": [
+        "Cabinet office guidance",
+        "How we can help you"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "here",
+      "href": "https://www.gov.uk/transposing-eu-procurement-directives",
+      "block_id": "b00001",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "here",
+      "href": "https://www.gov.uk/government/collections/procurement-policy-notes",
+      "block_id": "b00002",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    }
+  ],
+  "legal_references": [],
+  "attachments": [],
+  "warnings": []
+}

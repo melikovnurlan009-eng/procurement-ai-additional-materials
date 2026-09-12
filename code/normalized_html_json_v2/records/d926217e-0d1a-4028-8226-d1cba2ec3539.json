@@ -1,0 +1,297 @@
+{
+  "document_id": "d926217e-0d1a-4028-8226-d1cba2ec3539",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/c43a8766ec240b30330a8bf5.json",
+  "input_sha256": "a426bdfaebbf86ec7f35227d6ea39ffa87668d48f2d29805585b4f2ed747ba8a",
+  "processed_at": "2026-08-27T02:26:40.843278+00:00",
+  "title": "PPN 010: Example contract clause (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/ppn-010-procuring-steel-in-government-contracts/ppn-010-example-contract-clause-html",
+  "description": null,
+  "publication_date": "2025-04-28T15:07:34+01:00",
+  "updated_date": "2025-04-28T15:07:33+01:00",
+  "source_metadata": {
+    "content_id": "d926217e-0d1a-4028-8226-d1cba2ec3539",
+    "base_path": "/government/publications/ppn-010-procuring-steel-in-government-contracts/ppn-010-example-contract-clause-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Procuring steel in government contracts",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Example contract clause",
+      "ordinal": 1,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "Procuring steel in government contracts",
+      "ordinal": 0,
+      "heading_path": [
+        "Procuring steel in government contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "heading",
+      "text": "Example contract clause",
+      "ordinal": 1,
+      "heading_path": [
+        "Procuring steel in government contracts",
+        "Example contract clause"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "STEEL PRODUCT AND ORIGIN DATA REQUIREMENT [include this requirement in the main body of the contract for qualifying projects/programmes]",
+      "ordinal": 2,
+      "heading_path": [
+        "Procuring steel in government contracts",
+        "Example contract clause"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "1.1 As a condition of this contract, in relation to the purchase of steel products, the Supplier agrees to:",
+      "ordinal": 3,
+      "heading_path": [
+        "Procuring steel in government contracts",
+        "Example contract clause"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "(a) record the steel product type data, which constitutes the description of the steel purchased under one of the categories below (e.g. Flat Rolled Steel Products, Steel Plate etc).",
+      "ordinal": 4,
+      "heading_path": [
+        "Procuring steel in government contracts",
+        "Example contract clause"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "(i) Flat Rolled Steel Product: Products commonly referred to as hot and cold rolled coil, sheet, and strip, including those clad, plated, and galvanised. This will include products such as coated steel building panels, tinmill steel, or corrugated sheeting.",
+      "ordinal": 5,
+      "heading_path": [
+        "Procuring steel in government contracts",
+        "Example contract clause"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "p",
+      "text": "(ii) Steel Plate: Products often referred to as heavy or quarto plate, and typically of flat rolled steels exceeding 10mm in thickness.",
+      "ordinal": 6,
+      "heading_path": [
+        "Procuring steel in government contracts",
+        "Example contract clause"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "(iii) Sections and Shapes: Products commonly referred to as beams, columns, bearing piles, flange channels, bulb flats, and angles.",
+      "ordinal": 7,
+      "heading_path": [
+        "Procuring steel in government contracts",
+        "Example contract clause"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "(iv) Reinforcing Bar: Products commonly referred to as rebar, whether in rod, coils, or products suitable for mesh.",
+      "ordinal": 8,
+      "heading_path": [
+        "Procuring steel in government contracts",
+        "Example contract clause"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "(v) Other Bars and Rods: Wide range of other steel mill products commonly referred to as wire rod, merchant bar, bright bar, black bar.",
+      "ordinal": 9,
+      "heading_path": [
+        "Procuring steel in government contracts",
+        "Example contract clause"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "p",
+      "text": "(vi) Tubes/Pipes/Hollow Sections: Steel products commonly referred to as hollow sections/profiles, welded tube, seamless tube, pipes, hollow sections.",
+      "ordinal": 10,
+      "heading_path": [
+        "Procuring steel in government contracts",
+        "Example contract clause"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "(vii) Wire: steel products commonly referred to as wire or strand, produced though the drawing of rod to produce wire of varying diameters. This would include construction products such as pre-stressed wire, and those coated and plated.",
+      "ordinal": 11,
+      "heading_path": [
+        "Procuring steel in government contracts",
+        "Example contract clause"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "(viii) Rail: Railway or tramway track construction material of iron or steel, including grooved rail. (Note: This would not include products such as switch blades, point rods, sleepers, rail clips, crossing frogs).",
+      "ordinal": 12,
+      "heading_path": [
+        "Procuring steel in government contracts",
+        "Example contract clause"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "(ix) Sheet Piling: Sheet piling made from assembled elements; welded angles, shapes, and sections;",
+      "ordinal": 13,
+      "heading_path": [
+        "Procuring steel in government contracts",
+        "Example contract clause"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "(b) record the steel quantity data, which constitutes the amount of steel in tonnes;",
+      "ordinal": 14,
+      "heading_path": [
+        "Procuring steel in government contracts",
+        "Example contract clause"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "(c) record the steel origin data, which constitutes the country in which the steel was produced as set out in Inspection Certificate (EN10204 Type 3.1) attached to the steel purchased, and whether this is also where the steel was melted and poured according to the Certificate; and",
+      "ordinal": 15,
+      "heading_path": [
+        "Procuring steel in government contracts",
+        "Example contract clause"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "(d) report the steel product type data, steel quantity data, and steel origin data to the Authority, using the template provided, within ten weeks of the end of the financial year in which the contract was placed.",
+      "ordinal": 16,
+      "heading_path": [
+        "Procuring steel in government contracts",
+        "Example contract clause"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "1.2 In the event that the Supplier is not purchasing the steel directly, it remains responsible for recording and reporting the steel product type data, the steel quantity data, and the steel origin data to the Authority, as per 1.1. It shall make all necessary arrangements with its Sub-Contractor(s) to facilitate this",
+      "ordinal": 17,
+      "heading_path": [
+        "Procuring steel in government contracts",
+        "Example contract clause"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "PPN 010: Example contract clause (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-010-procuring-steel-in-government-contracts/ppn-010-example-contract-clause-html",
+      "block_id": "__document__",
+      "ordinal": 0,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2024 to 2026 Starmer Labour government",
+      "href": "https://www.gov.uk/government/2024-starmer-labour-government",
+      "block_id": "__document__",
+      "ordinal": 1,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "PPN 010: Procuring steel in government contracts",
+      "href": "https://www.gov.uk/government/publications/ppn-010-procuring-steel-in-government-contracts",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [],
+  "attachments": [],
+  "warnings": []
+}

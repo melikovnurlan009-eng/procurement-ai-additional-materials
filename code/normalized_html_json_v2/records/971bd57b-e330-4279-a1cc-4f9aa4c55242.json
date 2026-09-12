@@ -1,0 +1,1180 @@
+{
+  "document_id": "971bd57b-e330-4279-a1cc-4f9aa4c55242",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/5c076b76e4d060dcb8c460f2.json",
+  "input_sha256": "9d9333c85a21eca9e73ce83721b7115c0c312383e3278a4e31add4f1cb0d4097",
+  "processed_at": "2026-08-27T02:26:18.997964+00:00",
+  "title": "Procurement Policy Note 001 - Guidance on how to set SME spend targets and annual publication of results (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/ppn-001-sme-and-vcse-procurement-spend-targets/procurement-policy-note-001-guidance-on-how-to-set-sme-spend-targets-and-annual-publication-of-results-html",
+  "description": null,
+  "publication_date": "2025-02-13T11:00:47+00:00",
+  "updated_date": "2025-02-13T00:00:00+00:00",
+  "source_metadata": {
+    "content_id": "971bd57b-e330-4279-a1cc-4f9aa4c55242",
+    "base_path": "/government/publications/ppn-001-sme-and-vcse-procurement-spend-targets/procurement-policy-note-001-guidance-on-how-to-set-sme-spend-targets-and-annual-publication-of-results-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Introduction",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Setting a target for direct spend with SMEs",
+      "ordinal": 3,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Annual publication of direct spend with SMEs",
+      "ordinal": 9,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Indirect spend reporting process",
+      "ordinal": 14,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "SME Action Plans",
+      "ordinal": 19,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Annex A: Template of metrics required for publication of annual spend with SMEs data",
+      "ordinal": 22,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Direct Spend with SMEs FYXX/XX",
+      "ordinal": 23,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Indirect Spend with SMEs FYXX/XX (where applicable)",
+      "ordinal": 31,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Annex B: FAQs",
+      "ordinal": 35,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "What do departments need to publish and by when?",
+      "ordinal": 36,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "What about Government Executive Agencies (EAs) and Non-Departmental Public Bodies (NDPBs)?",
+      "ordinal": 43,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Does this target and publication include indirect spend with SMEs or is this direct spend with SMEs only?",
+      "ordinal": 45,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Are we expected to meet the direct spend with SMEs target in each of the three years or by the end of the 3rd year?",
+      "ordinal": 47,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "What if we exceed our target earlier than March 2028?",
+      "ordinal": 49,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Where should departments publish their target for direct spend with SMEs?",
+      "ordinal": 51,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "What is the role of the Parliamentary Secretary at the Cabinet Office in reviewing departmental targets?",
+      "ordinal": 53,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "When are departments expected to publish direct spend with SMEs results?",
+      "ordinal": 55,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "What is the mechanism and who is responsible for publishing the data? Can data be updated easily?",
+      "ordinal": 57,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "What happens if departments publish progress later than 30 September?",
+      "ordinal": 59,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "How often should departmental SME Action Plans be published?",
+      "ordinal": 61,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "How is the Government ensuring that departmental targets for spend with SMEs are ambitious?",
+      "ordinal": 63,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "If we don’t set a target for indirect spend with SMEs, can we still publish the indirect spend with SMEs from Government’s strategic suppliers relating to our department?",
+      "ordinal": 66,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Who signs off the targets if our department does not have a relevant Minister?",
+      "ordinal": 68,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "Introduction",
+      "ordinal": 0,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "This guidance supports Procurement Policy Note 001 and sets out how In-scope organisations should set targets for direct spend with SMEs and publish annual progress against it.",
+      "ordinal": 1,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "FAQs can be found in Annex B",
+      "ordinal": 2,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "heading",
+      "text": "Setting a target for direct spend with SMEs",
+      "ordinal": 3,
+      "heading_path": [
+        "Introduction",
+        "Setting a target for direct spend with SMEs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "Departments should set a target for direct spend with SMEs to be achieved in the financial year ending 31 March 2028. Departments can voluntarily set targets for, and report on, their indirect spend with SMEs. However, targets for direct and indirect spend with SMEs must be split out for ease of comparison across Government.",
+      "ordinal": 4,
+      "heading_path": [
+        "Introduction",
+        "Setting a target for direct spend with SMEs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "This is not a target for the average annual direct spend with SMEs over the three year period. Departments may wish to also set annual targets for each of the three years within departmental SME action plans to demonstrate their planned trajectory.",
+      "ordinal": 5,
+      "heading_path": [
+        "Introduction",
+        "Setting a target for direct spend with SMEs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "p",
+      "text": "All targets for direct spend with SMEs (and indirect spend with SMEs if applicable) must be signed off by the department’s relevant Minister who should write to the Parliamentary Secretary at the Cabinet Office confirming their target by 31 May 2025. Cabinet Office will collate all direct SME spend targets and publish centrally.",
+      "ordinal": 6,
+      "heading_path": [
+        "Introduction",
+        "Setting a target for direct spend with SMEs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "Prior to ministerial sign off, each Commercial Director must present their target for direct spend with SMEs and SME action plans to the SME Crown Representative who will provide challenge and scrutiny to ensure the proposed targets are ambitious and stretching.",
+      "ordinal": 7,
+      "heading_path": [
+        "Introduction",
+        "Setting a target for direct spend with SMEs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "There may be exceptional circumstances such as machinery of government changes and major infrastructure changes where an existing target for direct spend with SMEs should be reconsidered. Any changes to a target must be approved by the relevant departmental Minister and published (along with the rationale).",
+      "ordinal": 8,
+      "heading_path": [
+        "Introduction",
+        "Setting a target for direct spend with SMEs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "heading",
+      "text": "Annual publication of direct spend with SMEs",
+      "ordinal": 9,
+      "heading_path": [
+        "Introduction",
+        "Annual publication of direct spend with SMEs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "p",
+      "text": "Departments are required to publish annual progress against their direct spend with SMEs target (and indirect spend with SMEs if applicable). Annual publication should be no later than the end of the second quarter of each financial year (i.e. by 30 September). Progress against the target should be monitored by the departmental board and included in the department’s annual report.",
+      "ordinal": 10,
+      "heading_path": [
+        "Introduction",
+        "Annual publication of direct spend with SMEs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "Annual progress of spend with SMEs should be signed off by the relevant departmental Minister prior to publication. See Annex A for a template of metrics for publication.",
+      "ordinal": 11,
+      "heading_path": [
+        "Introduction",
+        "Annual publication of direct spend with SMEs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "Where executive agencies and NDPBs have procurement spend over £100m per annum, their direct spend with SMEs must also be published.",
+      "ordinal": 12,
+      "heading_path": [
+        "Introduction",
+        "Annual publication of direct spend with SMEs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "The intention is for all targets for direct spend with SMEs and the annual publication of direct spend with SMEs to be published on the Central Digital Platform for ease of comparison. Whilst this functionality is being developed, all targets for direct spend with SMEs should be sent to the Cabinet Office who will collate and publish centrally.",
+      "ordinal": 13,
+      "heading_path": [
+        "Introduction",
+        "Annual publication of direct spend with SMEs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "heading",
+      "text": "Indirect spend reporting process",
+      "ordinal": 14,
+      "heading_path": [
+        "Introduction",
+        "Indirect spend reporting process"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "Cabinet Office will continue to annually collect Strategic Supplier [footnote 1] indirect spend with SMEs through one central survey and will share with all departments, regardless of whether they have set a target for indirect spend with SMEs. Any Strategic Supplier spend relating to departments will be provided to departments annually in the third quarter of each financial year.",
+      "ordinal": 15,
+      "heading_path": [
+        "Introduction",
+        "Indirect spend reporting process"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "Those departments who opt to set a target for indirect spend with SMEs, in addition to the Strategic Supplier data above, may also choose to conduct their own additional annual survey of non-strategic suppliers to capture a broader range of their own departmental indirect spend with SMEs.",
+      "ordinal": 16,
+      "heading_path": [
+        "Introduction",
+        "Indirect spend reporting process"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "Departments may use and publish Strategic Supplier and/or non-strategic supplier data but no individual supplier should be identifiable through any use of this data (including publication of summary information).",
+      "ordinal": 17,
+      "heading_path": [
+        "Introduction",
+        "Indirect spend reporting process"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "p",
+      "text": "Where indirect spend with SMEs is published, this should be split out separately from direct spend with SMEs for ease of comparison across departments.",
+      "ordinal": 18,
+      "heading_path": [
+        "Introduction",
+        "Indirect spend reporting process"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "heading",
+      "text": "SME Action Plans",
+      "ordinal": 19,
+      "heading_path": [
+        "Introduction",
+        "SME Action Plans"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "p",
+      "text": "SME Action Plans should be updated annually alongside the publication of your SME spend figures and should reflect any new actions required for the following 12 months to achieve your target. These plans should include your latest approved spend with SMEs, along with your signed off departmental targets for spend with SMEs.",
+      "ordinal": 20,
+      "heading_path": [
+        "Introduction",
+        "SME Action Plans"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "Departmental SME action plans should set out the rationale for any increases or decreases in spend with SMEs and actions underway to open up their contracts to SMEs.",
+      "ordinal": 21,
+      "heading_path": [
+        "Introduction",
+        "SME Action Plans"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "heading",
+      "text": "Annex A: Template of metrics required for publication of annual spend with SMEs data",
+      "ordinal": 22,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Template of metrics required for publication of annual spend with SMEs data"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "heading",
+      "text": "Direct Spend with SMEs FYXX/XX",
+      "ordinal": 23,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Template of metrics required for publication of annual spend with SMEs data",
+        "Direct Spend with SMEs FYXX/XX"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "li",
+      "text": "Department Target for Direct Spend with SMEs [%]",
+      "ordinal": 24,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Template of metrics required for publication of annual spend with SMEs data",
+        "Direct Spend with SMEs FYXX/XX"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "li",
+      "text": "Total Procurement Spend for the Department [£]",
+      "ordinal": 25,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Template of metrics required for publication of annual spend with SMEs data",
+        "Direct Spend with SMEs FYXX/XX"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "li",
+      "text": "Total Direct Spend with SMEs [£]",
+      "ordinal": 26,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Template of metrics required for publication of annual spend with SMEs data",
+        "Direct Spend with SMEs FYXX/XX"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "li",
+      "text": "Percentage of Direct Spend with SMEs [%] (Total Direct Spend with SMEs ÷ Total Procurement Spend x 100)",
+      "ordinal": 27,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Template of metrics required for publication of annual spend with SMEs data",
+        "Direct Spend with SMEs FYXX/XX"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "In addition, if any executive agencies and NDPBs have a Total Procurement Spend greater than £100m per annum please provide for each EA / NDPB",
+      "ordinal": 28,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Template of metrics required for publication of annual spend with SMEs data",
+        "Direct Spend with SMEs FYXX/XX"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "li",
+      "text": "Total Procurement Spend [£]",
+      "ordinal": 29,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Template of metrics required for publication of annual spend with SMEs data",
+        "Direct Spend with SMEs FYXX/XX"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "li",
+      "text": "Percentage of Direct Spend with SMEs [%]",
+      "ordinal": 30,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Template of metrics required for publication of annual spend with SMEs data",
+        "Direct Spend with SMEs FYXX/XX"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "heading",
+      "text": "Indirect Spend with SMEs FYXX/XX (where applicable)",
+      "ordinal": 31,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Template of metrics required for publication of annual spend with SMEs data",
+        "Indirect Spend with SMEs FYXX/XX (where applicable)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "li",
+      "text": "Department Target for Indirect Spend with SMEs [%]",
+      "ordinal": 32,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Template of metrics required for publication of annual spend with SMEs data",
+        "Indirect Spend with SMEs FYXX/XX (where applicable)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "li",
+      "text": "Total Indirect Spend with SMEs [£]",
+      "ordinal": 33,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Template of metrics required for publication of annual spend with SMEs data",
+        "Indirect Spend with SMEs FYXX/XX (where applicable)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "li",
+      "text": "Percentage of Indirect Spend with SMEs [%] (Total Indirect Spend with SMEs ÷ Total Procurement Spend x 100)",
+      "ordinal": 34,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Template of metrics required for publication of annual spend with SMEs data",
+        "Indirect Spend with SMEs FYXX/XX (where applicable)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "heading",
+      "text": "Annex B: FAQs",
+      "ordinal": 35,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "heading",
+      "text": "What do departments need to publish and by when?",
+      "ordinal": 36,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "What do departments need to publish and by when?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "p",
+      "text": "By 31 May 2025, government departments should have set a target for direct spend with SMEs covering the three years (1 April 2025 to 31 March 2028) and submitted these to the Parliamentary Secretary at the Cabinet Office. Cabinet Office will collate and publish all departmental targets for direct spend with SMEs centrally.",
+      "ordinal": 37,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "What do departments need to publish and by when?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "p",
+      "text": "From then on, departments should publish their progress against their target for direct spend with SMEs annually by the end of Q2 (30 September) for the previous financial year. This is allowing up to 6 months for departments to collate and sign off direct spend figures. For example:",
+      "ordinal": 38,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "What do departments need to publish and by when?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "li",
+      "text": "By 30 September 2026 for FY25/26",
+      "ordinal": 39,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "What do departments need to publish and by when?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "li",
+      "text": "By 30 September 2027 for FY26/27",
+      "ordinal": 40,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "What do departments need to publish and by when?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "li",
+      "text": "By 30 September 2028 for FY27/28",
+      "ordinal": 41,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "What do departments need to publish and by when?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "p",
+      "text": "Where indirect spend with SMEs is to be published, this should be split out separately for ease of comparison. Cabinet Office will continue to capture Strategic Supplier indirect spend with SMEs and share with all central Government Departments. See template in Annex A for departments to use to ensure that there is a consistent approach in how the data is reported.",
+      "ordinal": 42,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "What do departments need to publish and by when?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "heading",
+      "text": "What about Government Executive Agencies (EAs) and Non-Departmental Public Bodies (NDPBs)?",
+      "ordinal": 43,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "What about Government Executive Agencies (EAs) and Non-Departmental Public Bodies (NDPBs)?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "p",
+      "text": "To aid transparency and visibility of the breakdown of SME spend, departments must set out the direct spend with SMEs (£) and percentage of direct spend with SMEs of their EAs and NDPBs where the individual total annual procurement spend is in excess of £100m per annum (mandatory). For their remaining EAs and NDPBs, departments are encouraged to set this out where possible although this is voluntary.",
+      "ordinal": 44,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "What about Government Executive Agencies (EAs) and Non-Departmental Public Bodies (NDPBs)?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "heading",
+      "text": "Does this target and publication include indirect spend with SMEs or is this direct spend with SMEs only?",
+      "ordinal": 45,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Does this target and publication include indirect spend with SMEs or is this direct spend with SMEs only?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "p",
+      "text": "Departments may opt to set and publish their target for indirect spend with SMEs, however, this should be split out (both in the target itself and on annual publication) to support transparency and ease comparison across departments.",
+      "ordinal": 46,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Does this target and publication include indirect spend with SMEs or is this direct spend with SMEs only?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "heading",
+      "text": "Are we expected to meet the direct spend with SMEs target in each of the three years or by the end of the 3rd year?",
+      "ordinal": 47,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Are we expected to meet the direct spend with SMEs target in each of the three years or by the end of the 3rd year?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "p",
+      "text": "This target should be stretching and something the department aims for by the end of the three years (i.e. target set for your financial year 2027/28 direct spend with SMEs). Departments may wish to identify individual annual targets for each of the 3 years within their SME action plan to demonstrate the trajectory, however as a minimum, departments should have one headline figure to be achieved by the end of the three years.",
+      "ordinal": 48,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Are we expected to meet the direct spend with SMEs target in each of the three years or by the end of the 3rd year?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "heading",
+      "text": "What if we exceed our target earlier than March 2028?",
+      "ordinal": 49,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "What if we exceed our target earlier than March 2028?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00050",
+      "block_type": "p",
+      "text": "The setting of the original target for direct spend with SMEs should be stretching and ambitious (these will need to be signed off by your departmental Minister). In the event that departments exceed the original target early (i.e. by FY25/26 or FY26/27), this does not remove the need to achieve the target for direct spend with SMEs during financial year 2027/28. Any narratives to explain increases / decreases should be set out in the departmental SME Action Plan.",
+      "ordinal": 50,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "What if we exceed our target earlier than March 2028?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00051",
+      "block_type": "heading",
+      "text": "Where should departments publish their target for direct spend with SMEs?",
+      "ordinal": 51,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Where should departments publish their target for direct spend with SMEs?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00052",
+      "block_type": "p",
+      "text": "Whilst functionality for publication is being developed on the Central Digital Platform, all signed off targets should be sent to the Cabinet Office smallbusinessteam@cabinetoffice.gov.uk for collation and publication in one place on GOV.UK. In addition, departments can publish their targets in their own departmental SME Action Plan once this has been signed off by their departmental Minister and submitted to the Parliamentary Secretary at the Cabinet Office.",
+      "ordinal": 52,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Where should departments publish their target for direct spend with SMEs?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00053",
+      "block_type": "heading",
+      "text": "What is the role of the Parliamentary Secretary at the Cabinet Office in reviewing departmental targets?",
+      "ordinal": 53,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "What is the role of the Parliamentary Secretary at the Cabinet Office in reviewing departmental targets?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00054",
+      "block_type": "p",
+      "text": "The Parliamentary Secretary at the Cabinet Office has overall responsibility for this policy area. Their role will be to provide oversight and scrutiny on Government targets for spend with SMEs to ensure they are stretching and ambitious.",
+      "ordinal": 54,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "What is the role of the Parliamentary Secretary at the Cabinet Office in reviewing departmental targets?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00055",
+      "block_type": "heading",
+      "text": "When are departments expected to publish direct spend with SMEs results?",
+      "ordinal": 55,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "When are departments expected to publish direct spend with SMEs results?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00056",
+      "block_type": "p",
+      "text": "Departments should publish their annual progress no later than 6 months following the end of the previous financial year. All departmental progress should be published in your SME Action Plan (and on the Central Digital Platform when available) by 30 September for the previous financial years direct spend with SMEs. This will give departments up to 6 months to allow for internal systems to be updated by individual business units, figures collated by commercial teams and internal sign off. We strongly recommend that all departments regularly monitor their spend with SMEs throughout the year to avoid significant work at the end of the financial year.",
+      "ordinal": 56,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "When are departments expected to publish direct spend with SMEs results?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00057",
+      "block_type": "heading",
+      "text": "What is the mechanism and who is responsible for publishing the data? Can data be updated easily?",
+      "ordinal": 57,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "What is the mechanism and who is responsible for publishing the data? Can data be updated easily?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00058",
+      "block_type": "p",
+      "text": "Departments are responsible for publishing their own direct spend with SMEs. Initially this should be achieved by including the data SME Action Plans. The functionality for this data to be entered onto the Central Digital Platform is being explored.",
+      "ordinal": 58,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "What is the mechanism and who is responsible for publishing the data? Can data be updated easily?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00059",
+      "block_type": "heading",
+      "text": "What happens if departments publish progress later than 30 September?",
+      "ordinal": 59,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "What happens if departments publish progress later than 30 September?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00060",
+      "block_type": "p",
+      "text": "This is a departmental responsibility and if the deadline is missed, the department will need to justify or explain any delay. Departments are given 6 months to allow time for internal systems to be updated and any spend with SMEs data validation to take place.",
+      "ordinal": 60,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "What happens if departments publish progress later than 30 September?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00061",
+      "block_type": "heading",
+      "text": "How often should departmental SME Action Plans be published?",
+      "ordinal": 61,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "How often should departmental SME Action Plans be published?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00062",
+      "block_type": "p",
+      "text": "These should be updated annually and should reflect any new actions required for the following 12 months to achieve the target. These plans should include the latest approved spend with SMEs.",
+      "ordinal": 62,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "How often should departmental SME Action Plans be published?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00063",
+      "block_type": "heading",
+      "text": "How is the Government ensuring that departmental targets for spend with SMEs are ambitious?",
+      "ordinal": 63,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "How is the Government ensuring that departmental targets for spend with SMEs are ambitious?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00064",
+      "block_type": "p",
+      "text": "Departments are responsible for setting their own targets for spend with SMEs and these must be signed off by departmental Ministers, who will hold them to account on their progress. Furthermore, these will be submitted to the Parliamentary Secretary at the Cabinet Office who will provide oversight of all departmental targets for spend with SMEs prior to publication.",
+      "ordinal": 64,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "How is the Government ensuring that departmental targets for spend with SMEs are ambitious?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00065",
+      "block_type": "p",
+      "text": "In addition, annual publication of performance will drive greater transparency and scrutiny of how individual departments are performing.",
+      "ordinal": 65,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "How is the Government ensuring that departmental targets for spend with SMEs are ambitious?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00066",
+      "block_type": "heading",
+      "text": "If we don’t set a target for indirect spend with SMEs, can we still publish the indirect spend with SMEs from Government’s strategic suppliers relating to our department?",
+      "ordinal": 66,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "If we don’t set a target for indirect spend with SMEs, can we still publish the indirect spend with SMEs from Government’s strategic suppliers relating to our department?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00067",
+      "block_type": "p",
+      "text": "Yes, departments can publish any indirect spend with SMEs in their departmental SME Action Plans.",
+      "ordinal": 67,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "If we don’t set a target for indirect spend with SMEs, can we still publish the indirect spend with SMEs from Government’s strategic suppliers relating to our department?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00068",
+      "block_type": "heading",
+      "text": "Who signs off the targets if our department does not have a relevant Minister?",
+      "ordinal": 68,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Who signs off the targets if our department does not have a relevant Minister?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00069",
+      "block_type": "p",
+      "text": "Non-Ministerial departments will have a nominated parent department or government Minister who should sign off the three year target.",
+      "ordinal": 69,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Who signs off the targets if our department does not have a relevant Minister?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00070",
+      "block_type": "li",
+      "text": "Crown Representatives and strategic suppliers ↩",
+      "ordinal": 70,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Who signs off the targets if our department does not have a relevant Minister?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00071",
+      "block_type": "p",
+      "text": "Crown Representatives and strategic suppliers ↩",
+      "ordinal": 71,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "Who signs off the targets if our department does not have a relevant Minister?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "[footnote 1]",
+      "href": "https://www.gov.uk/government/publications/ppn-001-sme-and-vcse-procurement-spend-targets/procurement-policy-note-001-guidance-on-how-to-set-sme-spend-targets-and-annual-publication-of-results-html#fn:1",
+      "block_id": "b00015",
+      "ordinal": 0,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "smallbusinessteam@cabinetoffice.gov.uk",
+      "href": "mailto:smallbusinessteam@cabinetoffice.gov.uk",
+      "block_id": "b00052",
+      "ordinal": 1,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "Crown Representatives and strategic suppliers",
+      "href": "https://www.gov.uk/government/publications/strategic-suppliers",
+      "block_id": "b00070",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-001-sme-and-vcse-procurement-spend-targets/procurement-policy-note-001-guidance-on-how-to-set-sme-spend-targets-and-annual-publication-of-results-html#fnref:1",
+      "block_id": "b00070",
+      "ordinal": 3,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Crown Representatives and strategic suppliers",
+      "href": "https://www.gov.uk/government/publications/strategic-suppliers",
+      "block_id": "b00071",
+      "ordinal": 4,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-001-sme-and-vcse-procurement-spend-targets/procurement-policy-note-001-guidance-on-how-to-set-sme-spend-targets-and-annual-publication-of-results-html#fnref:1",
+      "block_id": "b00071",
+      "ordinal": 5,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Procurement Policy Note 001 - Guidance on how to set SME spend targets and annual publication of results (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-001-sme-and-vcse-procurement-spend-targets/procurement-policy-note-001-guidance-on-how-to-set-sme-spend-targets-and-annual-publication-of-results-html",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2024 to 2026 Starmer Labour government",
+      "href": "https://www.gov.uk/government/2024-starmer-labour-government",
+      "block_id": "__document__",
+      "ordinal": 7,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 8,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "PPN 001: SME and VCSE procurement spend targets",
+      "href": "https://www.gov.uk/government/publications/ppn-001-sme-and-vcse-procurement-spend-targets",
+      "block_id": "__document__",
+      "ordinal": 9,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 10,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [],
+  "attachments": [],
+  "warnings": []
+}

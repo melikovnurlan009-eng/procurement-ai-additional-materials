@@ -1,0 +1,440 @@
+{
+  "document_id": "b20c54c8-fb11-45d9-b25e-d8c7a85b5014",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/163d3a549366bd3d90610477.json",
+  "input_sha256": "037b27ce736b3fbf47cdc819b00bf1c6c02659802347221cdf9df7776c8ea976",
+  "processed_at": "2026-08-27T02:26:05.569023+00:00",
+  "title": "Procurement Policy Note – Taking account of a bidder’s approach to payment in the procurement of major contracts (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/ppn-1023-taking-account-of-a-bidders-approach-to-payment-in-the-procurement-of-major-contracts/procurement-policy-note-taking-account-of-a-bidders-approach-to-payment-in-the-procurement-of-major-contracts-html",
+  "description": null,
+  "publication_date": "2023-11-23T10:00:04+00:00",
+  "updated_date": "2025-04-24T12:00:11+01:00",
+  "source_metadata": {
+    "content_id": "b20c54c8-fb11-45d9-b25e-d8c7a85b5014",
+    "base_path": "/government/publications/ppn-1023-taking-account-of-a-bidders-approach-to-payment-in-the-procurement-of-major-contracts/procurement-policy-note-taking-account-of-a-bidders-approach-to-payment-in-the-procurement-of-major-contracts-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Issue",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Dissemination and Scope",
+      "ordinal": 2,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Timing",
+      "ordinal": 7,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Action",
+      "ordinal": 9,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Selection Questions and Guidance",
+      "ordinal": 11,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Background",
+      "ordinal": 13,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Contact",
+      "ordinal": 16,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "Issue",
+      "ordinal": 0,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "1. The Government understands the importance of prompt, fair and effective payment in all businesses. Being paid promptly for work done ensures businesses have a healthy cash flow. This Procurement Policy Note (PPN) sets out how payment approaches can be taken into account in the procurement of major Government contracts. This PPN replaces PPN 08/21 from 1 April 2024.",
+      "ordinal": 1,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "heading",
+      "text": "Dissemination and Scope",
+      "ordinal": 2,
+      "heading_path": [
+        "Issue",
+        "Dissemination and Scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "2. This PPN applies to all Central Government Departments, their Executive Agencies and Non Departmental Public Bodies. These organisations are referred to in this PPN as ‘In-Scope Organisations’. Please circulate this PPN within your organisation, drawing it to the attention of those with a commercial and procurement role.",
+      "ordinal": 3,
+      "heading_path": [
+        "Issue",
+        "Dissemination and Scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "3. For the avoidance of doubt, this PPN does not apply to NHS trusts or to contracting authorities whose functions are devolved or mainly devolved functions of Scotland, Wales or Northern Ireland.",
+      "ordinal": 4,
+      "heading_path": [
+        "Issue",
+        "Dissemination and Scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "4. In-Scope Organisations should take action to apply this PPN when procuring goods and/or services and/or works with an anticipated contract value above £5 million per annum [footnote 1] (excluding VAT) which are subject to the Public Contracts Regulations 2015 save where, in exceptional circumstances, it would not be relevant or proportionate to do so.",
+      "ordinal": 5,
+      "heading_path": [
+        "Issue",
+        "Dissemination and Scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "p",
+      "text": "5. This PPN applies to framework agreements and dynamic purchasing systems only where it is anticipated that the individual value of any contract to be awarded under the framework agreement or dynamic purchasing system is greater than £5 million per annum (excluding VAT).",
+      "ordinal": 6,
+      "heading_path": [
+        "Issue",
+        "Dissemination and Scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "heading",
+      "text": "Timing",
+      "ordinal": 7,
+      "heading_path": [
+        "Issue",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "6. In-Scope Organisations must apply the provisions of this PPN in relevant procurements advertised on or after 1 April 2024. In-Scope Organisations should continue to apply PPN 08/21 to all relevant procurements before that date.",
+      "ordinal": 8,
+      "heading_path": [
+        "Issue",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "heading",
+      "text": "Action",
+      "ordinal": 9,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "p",
+      "text": "7. Where this PPN applies, In-Scope organisations must use the questions in Part 3 (Technical and Professional Ability) in the standard selection questionnaire [footnote 2] . The questions require bidders to demonstrate they are paying 95% of invoices within 60 days (90% with an action plan), and also paying all their invoices within an average of 55 days.",
+      "ordinal": 10,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "heading",
+      "text": "Selection Questions and Guidance",
+      "ordinal": 11,
+      "heading_path": [
+        "Issue",
+        "Selection Questions and Guidance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "8. The accompanying guidance explains how to assess (with specific questions) a bidder’s payment systems to demonstrate it has a reliable supply chain and when it would be appropriate to exclude those bidders that cannot demonstrate they have effective systems in place. It also gives examples of exceptional circumstances where it might not be relevant or proportionate to apply this PPN, and explains the process for an exemption request.",
+      "ordinal": 12,
+      "heading_path": [
+        "Issue",
+        "Selection Questions and Guidance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "heading",
+      "text": "Background",
+      "ordinal": 13,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "9. In its 2019 Manifesto, the Government stated that it would ‘..support start-ups and small businesses via government procurement, and commit to paying them on time. We will also clamp down on late payment more broadly…’. This PPN reflects that commitment in the context of the UK’s procurement rules and builds upon a series of measures that started in 2019, and were subsequently strengthened in 2020 and 2021.",
+      "ordinal": 14,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "10. PPN 10/23 replaces PPN 08/21. The key update to PPN 08/21 is a new threshold based on average payment days bidders have to meet to demonstrate they have effective payment systems in place to ensure the reliability of their supply chains.",
+      "ordinal": 15,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "heading",
+      "text": "Contact",
+      "ordinal": 16,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "11. Enquiries about this PPN should be directed to the Crown Commercial Service Helpdesk on 0345 410 2222 or info@crowncommercial.gov.uk .",
+      "ordinal": 17,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "li",
+      "text": "Based on advertised contract value, averaged over the life of the contract, e.g. a contract with a four year term with a total contract value of £21m would be in scope, even if the value in the first year was under £5m. ↩",
+      "ordinal": 18,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "Based on advertised contract value, averaged over the life of the contract, e.g. a contract with a four year term with a total contract value of £21m would be in scope, even if the value in the first year was under £5m. ↩",
+      "ordinal": 19,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "li",
+      "text": "Contained within Annex B of the guidance of PPN 03/23 ↩",
+      "ordinal": 20,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "Contained within Annex B of the guidance of PPN 03/23 ↩",
+      "ordinal": 21,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "[footnote 1]",
+      "href": "https://www.gov.uk/government/publications/ppn-1023-taking-account-of-a-bidders-approach-to-payment-in-the-procurement-of-major-contracts/procurement-policy-note-taking-account-of-a-bidders-approach-to-payment-in-the-procurement-of-major-contracts-html#fn:1",
+      "block_id": "b00005",
+      "ordinal": 0,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 2]",
+      "href": "https://www.gov.uk/government/publications/ppn-1023-taking-account-of-a-bidders-approach-to-payment-in-the-procurement-of-major-contracts/procurement-policy-note-taking-account-of-a-bidders-approach-to-payment-in-the-procurement-of-major-contracts-html#fn:2",
+      "block_id": "b00010",
+      "ordinal": 1,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "info@crowncommercial.gov.uk",
+      "href": "mailto:info@crowncommercial.gov.uk",
+      "block_id": "b00017",
+      "ordinal": 2,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-1023-taking-account-of-a-bidders-approach-to-payment-in-the-procurement-of-major-contracts/procurement-policy-note-taking-account-of-a-bidders-approach-to-payment-in-the-procurement-of-major-contracts-html#fnref:1",
+      "block_id": "b00018",
+      "ordinal": 3,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-1023-taking-account-of-a-bidders-approach-to-payment-in-the-procurement-of-major-contracts/procurement-policy-note-taking-account-of-a-bidders-approach-to-payment-in-the-procurement-of-major-contracts-html#fnref:1",
+      "block_id": "b00019",
+      "ordinal": 4,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-1023-taking-account-of-a-bidders-approach-to-payment-in-the-procurement-of-major-contracts/procurement-policy-note-taking-account-of-a-bidders-approach-to-payment-in-the-procurement-of-major-contracts-html#fnref:2",
+      "block_id": "b00020",
+      "ordinal": 5,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-1023-taking-account-of-a-bidders-approach-to-payment-in-the-procurement-of-major-contracts/procurement-policy-note-taking-account-of-a-bidders-approach-to-payment-in-the-procurement-of-major-contracts-html#fnref:2",
+      "block_id": "b00021",
+      "ordinal": 6,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Procurement Policy Note – Taking account of a bidder’s approach to payment in the procurement of major contracts (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-1023-taking-account-of-a-bidders-approach-to-payment-in-the-procurement-of-major-contracts/procurement-policy-note-taking-account-of-a-bidders-approach-to-payment-in-the-procurement-of-major-contracts-html",
+      "block_id": "__document__",
+      "ordinal": 7,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2022 to 2024 Sunak Conservative government",
+      "href": "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 8,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 9,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "PPN 10/23: Taking account of a bidder’s approach to payment in the procurement of major contracts",
+      "href": "https://www.gov.uk/government/publications/ppn-1023-taking-account-of-a-bidders-approach-to-payment-in-the-procurement-of-major-contracts",
+      "block_id": "__document__",
+      "ordinal": 10,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 11,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015",
+      "block_id": "b00005",
+      "start": 246,
+      "end": 262,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

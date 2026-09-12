@@ -1,0 +1,463 @@
+{
+  "document_id": "19bf3fc3-9dde-43e7-bf09-0776a9be4c5f",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/16f701c049020aad33dd5b01.json",
+  "input_sha256": "e250dec5e666de97f06ae3453fdabd3b013da6e64db885553bf869e4c0359f67",
+  "processed_at": "2026-08-27T02:26:05.878330+00:00",
+  "title": "PPN 03/24: Standard Selection Questionnaire (SQ) (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/ppn-0324-standard-selection-questionnaire-sq/ppn-0324-standard-selection-questionnaire-sq-html",
+  "description": null,
+  "publication_date": "2024-03-27T15:16:29+00:00",
+  "updated_date": "2024-03-27T15:16:29+00:00",
+  "source_metadata": {
+    "content_id": "19bf3fc3-9dde-43e7-bf09-0776a9be4c5f",
+    "base_path": "/government/publications/ppn-0324-standard-selection-questionnaire-sq/ppn-0324-standard-selection-questionnaire-sq-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Issue",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Dissemination and Scope",
+      "ordinal": 2,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Timing",
+      "ordinal": 4,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Action",
+      "ordinal": 6,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Background",
+      "ordinal": 12,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Contact",
+      "ordinal": 23,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "Issue",
+      "ordinal": 0,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "1. This Procurement Policy Note (PPN) updates the Selection Questionnaire (SQ) and accompanying statutory guidance. The amendments reflect changes to policy.",
+      "ordinal": 1,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "heading",
+      "text": "Dissemination and Scope",
+      "ordinal": 2,
+      "heading_path": [
+        "Issue",
+        "Dissemination and Scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "2. This PPN applies to all contracting authorities in England, and contracting authorities in Wales and Northern Ireland that exercise wholly or mainly reserved functions, in each case when undertaking above threshold procurements within part 2 of the Public Contracts Regulations 2015 (PCR 2015). Please circulate this PPN within your organisation, drawing it to the attention of those with a purchasing role.",
+      "ordinal": 3,
+      "heading_path": [
+        "Issue",
+        "Dissemination and Scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "heading",
+      "text": "Timing",
+      "ordinal": 4,
+      "heading_path": [
+        "Issue",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "3. The revised standard selection questions and any other changes to this PPN are to be in use at the latest by 3 months after the publication date, but can be used immediately. This timescale is to allow for the time needed to incorporate the revised SQ into procurement processes and for the amendment of e-procurement tools.",
+      "ordinal": 5,
+      "heading_path": [
+        "Issue",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "heading",
+      "text": "Action",
+      "ordinal": 6,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "4. It is important to comply with the guidance and the standard selection questions in the attached annexes:",
+      "ordinal": 7,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "Annex A - Guidance on the selection stage process",
+      "ordinal": 8,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "Annex B - Standard selection questions",
+      "ordinal": 9,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "p",
+      "text": "Annex C - Selection questionnaire template",
+      "ordinal": 10,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "Annex D - Exclusion grounds.",
+      "ordinal": 11,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "heading",
+      "text": "Background",
+      "ordinal": 12,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "5. Regulation 107 of the PCR 2015 provides for statutory guidance on the selection stage of a procurement. This PPN updates and replaces:",
+      "ordinal": 13,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "i) PPN 03/23 with revised statutory guidance and standard selection questions; and",
+      "ordinal": 14,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "ii) replaces the European Single Procurement Document (ESPD) with the Single Procurement Document (SPD), as set out in regulation 59 of the PCR 2015 (following EU Exit). The SPD is the Selection questionnaire template at Annex C.",
+      "ordinal": 15,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "6. The standard selection questions incorporate the exclusion grounds listed in the PCR 2015 .",
+      "ordinal": 16,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "7. In response to feedback received on PPN 03/23, and subsequent policy changes, the SQ has been changed as follows: -",
+      "ordinal": 17,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "li",
+      "text": "updated payment related questions;",
+      "ordinal": 18,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "li",
+      "text": "updated steel related questions;",
+      "ordinal": 19,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "li",
+      "text": "clarity for contracting authorities on considering bids from Russian/Belarusian suppliers as set out in Procurement Policy Note 01/22; and",
+      "ordinal": 20,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "li",
+      "text": "removed references to PAS91 which has now been withdrawn by the BSI.",
+      "ordinal": 21,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "p",
+      "text": "8. To support the move to e-procurement platforms, the format of the SQ template has been revised. Whilst the template may be helpful for some contracting authorities, the growing need is for a format that can be easily adapted for use on e-platforms. This PPN provides both a list of standard selection questions and an SQ template.",
+      "ordinal": 22,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "heading",
+      "text": "Contact",
+      "ordinal": 23,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "9. Enquiries about this PPN should be directed to the Helpdesk (hosted by Crown Commercial Service) on 0345 410 2222 or email info@crowncommercial.gov.uk).",
+      "ordinal": 24,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "PCR 2015",
+      "href": "http://www.legislation.gov.uk/uksi/2015/102/contents/made",
+      "block_id": "b00013",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "PCR 2015",
+      "href": "http://www.legislation.gov.uk/uksi/2015/102/contents/made",
+      "block_id": "b00016",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement Policy Note 01/22;",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0122-contracts-with-suppliers-from-russia-and-belarus",
+      "block_id": "b00020",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "PPN 03/24: Standard Selection Questionnaire (SQ) (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-0324-standard-selection-questionnaire-sq/ppn-0324-standard-selection-questionnaire-sq-html",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2022 to 2024 Sunak Conservative government",
+      "href": "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "PPN 03/24: Standard Selection Questionnaire (SQ)",
+      "href": "https://www.gov.uk/government/publications/ppn-0324-standard-selection-questionnaire-sq",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 7,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015",
+      "block_id": "b00003",
+      "start": 269,
+      "end": 285,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 107",
+      "block_id": "b00013",
+      "start": 3,
+      "end": 17,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "107"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 59",
+      "block_id": "b00015",
+      "start": 119,
+      "end": 132,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "59"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

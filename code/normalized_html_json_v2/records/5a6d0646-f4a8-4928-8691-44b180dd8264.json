@@ -1,0 +1,636 @@
+{
+  "document_id": "5a6d0646-f4a8-4928-8691-44b180dd8264",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/a482830905ffeb51ef2e443a.json",
+  "input_sha256": "09383f7cfc7073260910ead6ab320d89a36bb585ed38384eb4f2d2efa95d4384",
+  "processed_at": "2026-08-27T02:26:34.952067+00:00",
+  "title": "Guidance: National Procurement Policy Statement (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-national-procurement-policy-statement-html",
+  "description": null,
+  "publication_date": "2024-05-24T15:08:32+01:00",
+  "updated_date": "2026-04-15T12:48:16+01:00",
+  "source_metadata": {
+    "content_id": "5a6d0646-f4a8-4928-8691-44b180dd8264",
+    "base_path": "/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-national-procurement-policy-statement-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What is the NPPS?",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What is the legal framework that governs the NPPS?",
+      "ordinal": 2,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What has changed?",
+      "ordinal": 11,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Key points and policy intent",
+      "ordinal": 13,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What notices are linked to this aspect of the new regime?",
+      "ordinal": 20,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What other guidance is of particular relevance to this topic area?",
+      "ordinal": 22,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Where can I go for more information or training?",
+      "ordinal": 25,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "What is the NPPS?",
+      "ordinal": 0,
+      "heading_path": [
+        "What is the NPPS?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "1. The NPPS is a statutory statement which allows the Government to set and communicate the wider policy objectives to which it expects public procurement to contribute. This might include, for example, objectives to increase skills or jobs in a certain industry or area, or to align with the pledge to achieve net zero by 2050. In 2021/2022 public procurement made up about a third of public sector spending; it can therefore have a large impact on the achievement of these wider objectives.",
+      "ordinal": 1,
+      "heading_path": [
+        "What is the NPPS?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "heading",
+      "text": "What is the legal framework that governs the NPPS?",
+      "ordinal": 2,
+      "heading_path": [
+        "What is the NPPS?",
+        "What is the legal framework that governs the NPPS?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "2. The NPPS is provided for at section 13 of the Procurement Act 2023 (Act) . Contracting authorities are required to have regard to the policy objectives contained within the NPPS that is current at the time they are carrying out a procurement.",
+      "ordinal": 3,
+      "heading_path": [
+        "What is the NPPS?",
+        "What is the legal framework that governs the NPPS?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "3. Section 13(10) sets out that the statutory duty to have regard to the NPPS does not apply to:",
+      "ordinal": 4,
+      "heading_path": [
+        "What is the NPPS?",
+        "What is the legal framework that governs the NPPS?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "a. private utilities;",
+      "ordinal": 5,
+      "heading_path": [
+        "What is the NPPS?",
+        "What is the legal framework that governs the NPPS?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "p",
+      "text": "b. contracts awarded under a framework;",
+      "ordinal": 6,
+      "heading_path": [
+        "What is the NPPS?",
+        "What is the legal framework that governs the NPPS?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "c. contracts awarded under a dynamic market;",
+      "ordinal": 7,
+      "heading_path": [
+        "What is the NPPS?",
+        "What is the legal framework that governs the NPPS?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "d. procurements under devolved Welsh or transferred Northern Irish procurement arrangements; or",
+      "ordinal": 8,
+      "heading_path": [
+        "What is the NPPS?",
+        "What is the legal framework that governs the NPPS?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "e. devolved Welsh authorities or transferred Northern Irish authorities. [footnote 1]",
+      "ordinal": 9,
+      "heading_path": [
+        "What is the NPPS?",
+        "What is the legal framework that governs the NPPS?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "p",
+      "text": "4. Section 14 establishes that the Welsh Government has the power to issue its own Welsh procurement policy statement (the WPPS) which is generally relevant to devolved Welsh authorities or procurements under a devolved Welsh procurement arrangement. Welsh contracting authorities should refer to the Welsh-specific guidance.",
+      "ordinal": 10,
+      "heading_path": [
+        "What is the NPPS?",
+        "What is the legal framework that governs the NPPS?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "heading",
+      "text": "What has changed?",
+      "ordinal": 11,
+      "heading_path": [
+        "What is the NPPS?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "5. There was no such statutory statement in the previous legislation. The first NPPS was released as PPN 05/21 and required, as a matter of policy, that contracting authorities take account of its specified priorities. The Act changes this so that contracting authorities are now under a statutory duty to have regard to the NPPS. The Act also specifies how the NPPS should be drafted, consulted upon and considered by Parliament.",
+      "ordinal": 12,
+      "heading_path": [
+        "What is the NPPS?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "heading",
+      "text": "Key points and policy intent",
+      "ordinal": 13,
+      "heading_path": [
+        "What is the NPPS?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "6. The NPPS places a statutory obligation on contracting authorities to have regard to its policy priorities and determine how procurements can contribute to the delivery of these wider policy objectives. This means that a contracting authority must consider whether the procurement can contribute to achieving one or more of the policy objectives stated in the NPPS in a manner that is appropriate, proportionate and relevant; and take steps to address this where possible. This could include, for example, changes to the way the procurement is structured or the process is carried out, the specification of the goods, services or works to be purchased, or the award criteria which will determine the most advantageous tender.",
+      "ordinal": 14,
+      "heading_path": [
+        "What is the NPPS?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "7. While contracting authorities have a duty to consider whether and how to address the policies, there is no absolute obligation to do so. There may be cases where the priorities are irrelevant to a specific procurement or it would be disproportionate to introduce measures to address them. This decision not to address one or more of the policies will be procurement-specific as will the means by which any policies to be considered are incorporated into a procurement.",
+      "ordinal": 15,
+      "heading_path": [
+        "What is the NPPS?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "8. As the Act places a statutory duty on contracting authorities to have regard to the NPPS, contracting authorities should document their thinking on which NPPS policies an individual procurement can contribute to and how this will be addressed, as well as note why any disregarded policies are irrelevant or inappropriate or would be disproportionate to consider.",
+      "ordinal": 16,
+      "heading_path": [
+        "What is the NPPS?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "9. The policy objectives established in the NPPS are separate from the procurement objectives at section 12 of the Act. Those objectives go to the heart of the purpose of public procurement regulation rather than linking to wider governmental policies to which public procurement can contribute. Contracting authorities must ensure that any attempts to address NPPS priorities do not conflict with the procurement objectives at section 12 , for example by treating suppliers (unjustifiably) differently or failing to consider barriers to small and medium-sized enterprises.",
+      "ordinal": 17,
+      "heading_path": [
+        "What is the NPPS?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "p",
+      "text": "10. A breach of this statutory duty is not actionable under Part 9 of the Act (Remedies for breach of statutory duty) but a contracting authority can be held to account for non-compliance through the judicial review process and systemic breaches of this nature could be grounds for a procurement investigation under part 10 of the Act.",
+      "ordinal": 18,
+      "heading_path": [
+        "What is the NPPS?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "11. The NPPS is kept under review by the responsible Minister and policy priorities can therefore change.",
+      "ordinal": 19,
+      "heading_path": [
+        "What is the NPPS?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "heading",
+      "text": "What notices are linked to this aspect of the new regime?",
+      "ordinal": 20,
+      "heading_path": [
+        "What is the NPPS?",
+        "What notices are linked to this aspect of the new regime?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "12. There are no notices linked to the NPPS. However, contracting authorities should consider their record-keeping obligations under section 98 of the Act where the NPPS impacts a ‘material decision made for the purpose of awarding or entering into a public contract’. In any case, it is good practice for contracting authorities to document their decision-making process with respect to consideration of the NPPS so that they can demonstrate that their statutory duty has been fulfilled if required.",
+      "ordinal": 21,
+      "heading_path": [
+        "What is the NPPS?",
+        "What notices are linked to this aspect of the new regime?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "heading",
+      "text": "What other guidance is of particular relevance to this topic area?",
+      "ordinal": 22,
+      "heading_path": [
+        "What is the NPPS?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "Guidance on covered procurement objectives",
+      "ordinal": 23,
+      "heading_path": [
+        "What is the NPPS?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "Guidance on assessing competitive tenders",
+      "ordinal": 24,
+      "heading_path": [
+        "What is the NPPS?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "heading",
+      "text": "Where can I go for more information or training?",
+      "ordinal": 25,
+      "heading_path": [
+        "What is the NPPS?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "p",
+      "text": "The social value model guide provides information on incorporating wider social value considerations into public procurement.",
+      "ordinal": 26,
+      "heading_path": [
+        "What is the NPPS?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "li",
+      "text": "Except in relation to procurements under a reserved procurement arrangement. ↩",
+      "ordinal": 27,
+      "heading_path": [
+        "What is the NPPS?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "Except in relation to procurements under a reserved procurement arrangement. ↩",
+      "ordinal": 28,
+      "heading_path": [
+        "What is the NPPS?",
+        "Where can I go for more information or training?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "section 13",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/13",
+      "block_id": "b00003",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement Act 2023 (Act)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/contents",
+      "block_id": "b00003",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 13(10)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/13",
+      "block_id": "b00004",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "[footnote 1]",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-national-procurement-policy-statement-html#fn:1",
+      "block_id": "b00009",
+      "ordinal": 3,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Section 14",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/14",
+      "block_id": "b00010",
+      "ordinal": 4,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 12",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/12",
+      "block_id": "b00017",
+      "ordinal": 5,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 12",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/12",
+      "block_id": "b00017",
+      "ordinal": 6,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Part 9",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/part/9",
+      "block_id": "b00018",
+      "ordinal": 7,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "part 10",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/part/10",
+      "block_id": "b00018",
+      "ordinal": 8,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 98",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/98",
+      "block_id": "b00021",
+      "ordinal": 9,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "covered procurement objectives",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-covered-procurement-objectives-html",
+      "block_id": "b00023",
+      "ordinal": 10,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "assessing competitive tenders",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/assessing-competitive-tenders-html",
+      "block_id": "b00024",
+      "ordinal": 11,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "social value model guide",
+      "href": "https://www.gov.uk/government/publications/ppn-002-taking-account-of-social-value-in-the-award-of-contracts/ppn-002-guide-to-using-the-social-value-model-html",
+      "block_id": "b00026",
+      "ordinal": 12,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-national-procurement-policy-statement-html#fnref:1",
+      "block_id": "b00027",
+      "ordinal": 13,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-national-procurement-policy-statement-html#fnref:1",
+      "block_id": "b00028",
+      "ordinal": 14,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Guidance: National Procurement Policy Statement (HTML)",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-national-procurement-policy-statement-html",
+      "block_id": "__document__",
+      "ordinal": 15,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2022 to 2024 Sunak Conservative government",
+      "href": "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 16,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 17,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Procurement Act 2023 guidance documents - Plan phase",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase",
+      "block_id": "__document__",
+      "ordinal": 18,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 19,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 13",
+      "block_id": "b00003",
+      "start": 31,
+      "end": 41,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "13"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 13(10)",
+      "block_id": "b00004",
+      "start": 3,
+      "end": 17,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "13",
+        "tail": "(10)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 14",
+      "block_id": "b00010",
+      "start": 3,
+      "end": 13,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "14"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 12",
+      "block_id": "b00017",
+      "start": 97,
+      "end": 107,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "12"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 12",
+      "block_id": "b00017",
+      "start": 428,
+      "end": 438,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "12"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 98",
+      "block_id": "b00021",
+      "start": 133,
+      "end": 143,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "98"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

@@ -1,0 +1,1115 @@
+{
+  "document_id": "1f1ea578-f1c9-4c23-8198-9e78bf9ac22f",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/80db2e575caccc26b541c55e.json",
+  "input_sha256": "d514a21f38fca73da2a811ec6464576c15f9d2ffa03c3622eed55f2e9bae0991",
+  "processed_at": "2026-08-27T02:26:27.977681+00:00",
+  "title": "The Transparency of Suppliers and Government to the Public (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-policy-note-0117-update-to-transparency-principles/the-transparency-of-suppliers-and-government-to-the-public-html",
+  "description": null,
+  "publication_date": "2023-03-29T11:21:45+01:00",
+  "updated_date": "2023-03-29T11:21:45+01:00",
+  "source_metadata": {
+    "content_id": "1f1ea578-f1c9-4c23-8198-9e78bf9ac22f",
+    "base_path": "/government/publications/procurement-policy-note-0117-update-to-transparency-principles/the-transparency-of-suppliers-and-government-to-the-public-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Intention",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Audience and scope",
+      "ordinal": 2,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Objectives",
+      "ordinal": 6,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Considering what should be disclosed",
+      "ordinal": 12,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Releasing information proactively",
+      "ordinal": 33,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Releasing information on public request",
+      "ordinal": 43,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Audit",
+      "ordinal": 54,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Unreasonable requests",
+      "ordinal": 56,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "Intention",
+      "ordinal": 0,
+      "heading_path": [
+        "Intention"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "1 - Transparency and accountability of public service delivery data and information builds public trust and confidence in public services. It enables citizens to see how taxpayers’ money is being spent; and allows the performance of public services to be independently scrutinised. It also supports the functioning of competitive, innovative and open markets by providing all businesses with information about public sector purchasing and service providers’ performance. This note [footnote 1] sets out a high level statement of the expectations on government and its suppliers in meeting these aims.",
+      "ordinal": 1,
+      "heading_path": [
+        "Intention"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "heading",
+      "text": "Audience and scope",
+      "ordinal": 2,
+      "heading_path": [
+        "Intention",
+        "Audience and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "2 - The following groups should note and act on the contents of this statement:",
+      "ordinal": 3,
+      "heading_path": [
+        "Intention",
+        "Audience and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "li",
+      "text": "all central government authorities [footnote 2]",
+      "ordinal": 4,
+      "heading_path": [
+        "Intention",
+        "Audience and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "li",
+      "text": "all suppliers to the above, whether from the public, private or voluntary and community sector, or new commercial models such as mutuals.",
+      "ordinal": 5,
+      "heading_path": [
+        "Intention",
+        "Audience and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "heading",
+      "text": "Objectives",
+      "ordinal": 6,
+      "heading_path": [
+        "Intention",
+        "Objectives"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "3 - This statement aims to:",
+      "ordinal": 7,
+      "heading_path": [
+        "Intention",
+        "Objectives"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "li",
+      "text": "ensure the public has access to clear and accurate information pertaining to service delivery,",
+      "ordinal": 8,
+      "heading_path": [
+        "Intention",
+        "Objectives"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "li",
+      "text": "emphasise the importance of suppliers and government working together to improve transparency and service delivery,",
+      "ordinal": 9,
+      "heading_path": [
+        "Intention",
+        "Objectives"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "li",
+      "text": "highlight the merits of a proactive approach to information management; and",
+      "ordinal": 10,
+      "heading_path": [
+        "Intention",
+        "Objectives"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "li",
+      "text": "advocate a seamless and consistent flow of contracting and service delivery information between government and suppliers.",
+      "ordinal": 11,
+      "heading_path": [
+        "Intention",
+        "Objectives"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "heading",
+      "text": "Considering what should be disclosed",
+      "ordinal": 12,
+      "heading_path": [
+        "Intention",
+        "Considering what should be disclosed"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "4 - All in-scope organisations should operate on a presumption in favour of disclosing information. Exemptions will follow the provisions of the Freedom of Information Act – for example, on national security or commercial confidentiality grounds. The presumption in favour of disclosure should apply to the vast majority of commercial information about government contracts, with commercial confidentiality being the exception rather than the rule.",
+      "ordinal": 13,
+      "heading_path": [
+        "Intention",
+        "Considering what should be disclosed"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "5 - Companies that deliver public services must be mindful of their existing legal and contractual obligations, especially those related to disclosure.",
+      "ordinal": 14,
+      "heading_path": [
+        "Intention",
+        "Considering what should be disclosed"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "6 - In-scope procuring organisations should explain transparency requirements to potential suppliers as early as possible in the procurement process and set out clearly in tender documentation the types of information to be disclosed on contract award and thereafter.",
+      "ordinal": 15,
+      "heading_path": [
+        "Intention",
+        "Considering what should be disclosed"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "7 - Government contractual requirements will stipulate how the need for transparency will be met. This will include defining information that will be released to the public, covering the following:",
+      "ordinal": 16,
+      "heading_path": [
+        "Intention",
+        "Considering what should be disclosed"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "li",
+      "text": "contract prices and any incentivisation mechanisms in the contract",
+      "ordinal": 17,
+      "heading_path": [
+        "Intention",
+        "Considering what should be disclosed"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "li",
+      "text": "performance metrics",
+      "ordinal": 18,
+      "heading_path": [
+        "Intention",
+        "Considering what should be disclosed"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "li",
+      "text": "plans for management of underperformance",
+      "ordinal": 19,
+      "heading_path": [
+        "Intention",
+        "Considering what should be disclosed"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "li",
+      "text": "governance arrangements, including those for supply chains where significant contract value rests with subcontractors",
+      "ordinal": 20,
+      "heading_path": [
+        "Intention",
+        "Considering what should be disclosed"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "li",
+      "text": "resource plans",
+      "ordinal": 21,
+      "heading_path": [
+        "Intention",
+        "Considering what should be disclosed"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "li",
+      "text": "service improvement plans",
+      "ordinal": 22,
+      "heading_path": [
+        "Intention",
+        "Considering what should be disclosed"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "li",
+      "text": "frequency of information release.",
+      "ordinal": 23,
+      "heading_path": [
+        "Intention",
+        "Considering what should be disclosed"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "8 - Suppliers and government will also discuss what categories of information may be exempted and government will stipulate the categories of information that may be exempt in contracts where feasible.",
+      "ordinal": 24,
+      "heading_path": [
+        "Intention",
+        "Considering what should be disclosed"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "p",
+      "text": "9 - Decisions on what information should be published or withheld under these Transparency Principles will be in accordance with the stipulations of the Freedom of Information Act (FOIA).",
+      "ordinal": 25,
+      "heading_path": [
+        "Intention",
+        "Considering what should be disclosed"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "p",
+      "text": "10 - Note that the following categories of information could be reasonably withheld on the grounds of commercial confidentiality:",
+      "ordinal": 26,
+      "heading_path": [
+        "Intention",
+        "Considering what should be disclosed"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "p",
+      "text": "a - Pricing. The way the supplier has arrived at the price they are charging government in a contract could normally be withheld but this should not be grounds for withholding the contract value itself.",
+      "ordinal": 27,
+      "heading_path": [
+        "Intention",
+        "Considering what should be disclosed"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "b - Intellectual property. Certain proprietary details of the solution that the contractor is deploying for government could be confidential. This should not be grounds for withholding performance information.",
+      "ordinal": 28,
+      "heading_path": [
+        "Intention",
+        "Considering what should be disclosed"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "p",
+      "text": "c - Business plans. Detail of how the contractor expects to yield a financial return from the service, including investment plans could normally be withheld.",
+      "ordinal": 29,
+      "heading_path": [
+        "Intention",
+        "Considering what should be disclosed"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "p",
+      "text": "11 - Suppliers must respect the confidentiality provisions in their contracts and the legal requirement to protect sensitive information. This will be the case particularly where suppliers to government are party to confidential information that is necessary for them to be effective partners. This information, even if it is not acquired in the process of delivering a contract, should be handled with the same care as information of similar sensitivity in the supplier’s own organisation.",
+      "ordinal": 30,
+      "heading_path": [
+        "Intention",
+        "Considering what should be disclosed"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "p",
+      "text": "12 - Transparency clauses for inclusion in all new government contracts were introduced in 2011. These have been incorporated into the government’s Model Services Contract for major services contracts. [footnote 3] Crown Commercial Service is also adopting the new transparency clause in their model contracts for common goods and services.",
+      "ordinal": 31,
+      "heading_path": [
+        "Intention",
+        "Considering what should be disclosed"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "p",
+      "text": "13 - The government has implemented the Open Contracting Data Standard (OCDS) in the Crown Commercial Service’s operations by publishing Contracts Finder data in OCDS format.",
+      "ordinal": 32,
+      "heading_path": [
+        "Intention",
+        "Considering what should be disclosed"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "heading",
+      "text": "Releasing information proactively",
+      "ordinal": 33,
+      "heading_path": [
+        "Intention",
+        "Releasing information proactively"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "p",
+      "text": "14 - All public services should be transparent about their performance, regardless of their function or delivery model. It is expected that proactive release of information is the norm.",
+      "ordinal": 34,
+      "heading_path": [
+        "Intention",
+        "Releasing information proactively"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "p",
+      "text": "15 - In-scope procuring organisations should:",
+      "ordinal": 35,
+      "heading_path": [
+        "Intention",
+        "Releasing information proactively"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "li",
+      "text": "ensure that information is made available to, and is accessible by, the public either by uploading the information into the ‘Transparency’ section of their own websites or by updating the relevant sections of GOV.UK",
+      "ordinal": 36,
+      "heading_path": [
+        "Intention",
+        "Releasing information proactively"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "li",
+      "text": "ensure that the data published is in line with Open Data Principles. This means ensuring the data is accessible at no more than the cost of reproduction, without limitations based on user identity or intent, and in a digital, machine-readable format under the Open Government License. Open Data Principles in full",
+      "ordinal": 37,
+      "heading_path": [
+        "Intention",
+        "Releasing information proactively"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "li",
+      "text": "not, other than in exceptional circumstances, explicitly prohibit or otherwise impede the proactive release of information by suppliers.",
+      "ordinal": 38,
+      "heading_path": [
+        "Intention",
+        "Releasing information proactively"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "li",
+      "text": "ensure that if information is redacted, there is a clear explanation as to why.",
+      "ordinal": 39,
+      "heading_path": [
+        "Intention",
+        "Releasing information proactively"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "li",
+      "text": "update the information at regular intervals during the life of the contract so it remains current.",
+      "ordinal": 40,
+      "heading_path": [
+        "Intention",
+        "Releasing information proactively"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "li",
+      "text": "update published information when significant changes have occurred during the life of the contract. This might mean, for example, setting out plans for performance improvement at the start of the contract, and detailing specific plans if performance improvement is required later on in the contract’s life.",
+      "ordinal": 41,
+      "heading_path": [
+        "Intention",
+        "Releasing information proactively"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "li",
+      "text": "ensure that all central government contracts over £12,000 are published online on Contracts Finder.",
+      "ordinal": 42,
+      "heading_path": [
+        "Intention",
+        "Releasing information proactively"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "heading",
+      "text": "Releasing information on public request",
+      "ordinal": 43,
+      "heading_path": [
+        "Intention",
+        "Releasing information on public request"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "p",
+      "text": "16 - Government will stipulate how to manage enquiries from the public. When requests for release of information are received, government will:",
+      "ordinal": 44,
+      "heading_path": [
+        "Intention",
+        "Releasing information on public request"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "li",
+      "text": "act as a single point of contact for public enquiries relating to the performance of privately delivered services that they commission.",
+      "ordinal": 45,
+      "heading_path": [
+        "Intention",
+        "Releasing information on public request"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "li",
+      "text": "decide what information is relevant to the contract(s) in question, communicating this to suppliers.",
+      "ordinal": 46,
+      "heading_path": [
+        "Intention",
+        "Releasing information on public request"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "li",
+      "text": "cascade enquiries regarding a service that the government commissions to the relevant private supplier in a timely fashion",
+      "ordinal": 47,
+      "heading_path": [
+        "Intention",
+        "Releasing information on public request"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "li",
+      "text": "respond to public enquiries, using information supplied by the relevant supplier(s)",
+      "ordinal": 48,
+      "heading_path": [
+        "Intention",
+        "Releasing information on public request"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "li",
+      "text": "decide what to release, bearing in mind the stipulations of FOIA.",
+      "ordinal": 49,
+      "heading_path": [
+        "Intention",
+        "Releasing information on public request"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00050",
+      "block_type": "p",
+      "text": "17 - Suppliers will:",
+      "ordinal": 50,
+      "heading_path": [
+        "Intention",
+        "Releasing information on public request"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00051",
+      "block_type": "li",
+      "text": "provide government with information that helps it respond to public enquiries regarding the contract(s) in question.",
+      "ordinal": 51,
+      "heading_path": [
+        "Intention",
+        "Releasing information on public request"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00052",
+      "block_type": "li",
+      "text": "supply government with information that helps it respond to the government’s own transparency obligations",
+      "ordinal": 52,
+      "heading_path": [
+        "Intention",
+        "Releasing information on public request"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00053",
+      "block_type": "li",
+      "text": "respond to government queries that are relevant to the service in question within a reasonable time frame and with due consideration to the urgency of the question.",
+      "ordinal": 53,
+      "heading_path": [
+        "Intention",
+        "Releasing information on public request"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00054",
+      "block_type": "heading",
+      "text": "Audit",
+      "ordinal": 54,
+      "heading_path": [
+        "Intention",
+        "Audit"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00055",
+      "block_type": "p",
+      "text": "18 - Suppliers and government will set out the types of audit envisaged throughout the life of the contract so that suppliers can better price this activity. This will not limit the rights of the National Audit Office to audit government contacts. The Comptroller and Auditor General will have access rights to government contracts.",
+      "ordinal": 55,
+      "heading_path": [
+        "Intention",
+        "Audit"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00056",
+      "block_type": "heading",
+      "text": "Unreasonable requests",
+      "ordinal": 56,
+      "heading_path": [
+        "Intention",
+        "Unreasonable requests"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00057",
+      "block_type": "p",
+      "text": "19 - If suppliers receive an information request from government that they believe to be unreasonable or to represent poor contract management practice, they should alert as follows:",
+      "ordinal": 57,
+      "heading_path": [
+        "Intention",
+        "Unreasonable requests"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00058",
+      "block_type": "li",
+      "text": "suppliers that are not ‘Strategic Suppliers’ to government should raise any such request with the Crown Commercial Service’s Mystery Shopper Service",
+      "ordinal": 58,
+      "heading_path": [
+        "Intention",
+        "Unreasonable requests"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00059",
+      "block_type": "li",
+      "text": "Strategic Suppliers should refer the matter to their relevant Crown Representative",
+      "ordinal": 59,
+      "heading_path": [
+        "Intention",
+        "Unreasonable requests"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00060",
+      "block_type": "p",
+      "text": "20 - The Mystery Shopper Service can be contacted at MysteryShopper@cabinetoffice.gsi.gov.uk . More information .",
+      "ordinal": 60,
+      "heading_path": [
+        "Intention",
+        "Unreasonable requests"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00061",
+      "block_type": "p",
+      "text": "21 - If the Crown Representative has been unable to resolve the issue, suppliers should contact the Government Chief Commercial Officer at cco@cabinetoffice.gov.uk .",
+      "ordinal": 61,
+      "heading_path": [
+        "Intention",
+        "Unreasonable requests"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00062",
+      "block_type": "li",
+      "text": "This was set-out originally in PPN 13/15 (pdf, 129 kb) and has now been updated and simplified. ↩",
+      "ordinal": 62,
+      "heading_path": [
+        "Intention",
+        "Unreasonable requests"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00063",
+      "block_type": "p",
+      "text": "This was set-out originally in PPN 13/15 (pdf, 129 kb) and has now been updated and simplified. ↩",
+      "ordinal": 63,
+      "heading_path": [
+        "Intention",
+        "Unreasonable requests"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00064",
+      "block_type": "li",
+      "text": "as defined in regulation 2 of the Public Contracts Regulations 2015 ↩",
+      "ordinal": 64,
+      "heading_path": [
+        "Intention",
+        "Unreasonable requests"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00065",
+      "block_type": "p",
+      "text": "as defined in regulation 2 of the Public Contracts Regulations 2015 ↩",
+      "ordinal": 65,
+      "heading_path": [
+        "Intention",
+        "Unreasonable requests"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00066",
+      "block_type": "li",
+      "text": "Model Services Contract . ↩",
+      "ordinal": 66,
+      "heading_path": [
+        "Intention",
+        "Unreasonable requests"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00067",
+      "block_type": "p",
+      "text": "Model Services Contract . ↩",
+      "ordinal": 67,
+      "heading_path": [
+        "Intention",
+        "Unreasonable requests"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "[footnote 1]",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0117-update-to-transparency-principles/the-transparency-of-suppliers-and-government-to-the-public-html#fn:1",
+      "block_id": "b00001",
+      "ordinal": 0,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 2]",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0117-update-to-transparency-principles/the-transparency-of-suppliers-and-government-to-the-public-html#fn:2",
+      "block_id": "b00004",
+      "ordinal": 1,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 3]",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0117-update-to-transparency-principles/the-transparency-of-suppliers-and-government-to-the-public-html#fn:3",
+      "block_id": "b00031",
+      "ordinal": 2,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Open Data Principles in full",
+      "href": "https://www.gov.uk/service-manual/technology/open-data.htm",
+      "block_id": "b00037",
+      "ordinal": 3,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "MysteryShopper@cabinetoffice.gsi.gov.uk",
+      "href": "mailto:MysteryShopper@cabinetoffice.gsi.gov.uk",
+      "block_id": "b00060",
+      "ordinal": 4,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "More information",
+      "href": "https://www.gov.uk/government/publications/mystery-shopper-scope-and-remit",
+      "block_id": "b00060",
+      "ordinal": 5,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "cco@cabinetoffice.gov.uk",
+      "href": "mailto:cco@cabinetoffice.gov.uk",
+      "block_id": "b00061",
+      "ordinal": 6,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "PPN 13/15 (pdf, 129 kb)",
+      "href": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/416421/Transparency_of_suppliers_and_government_to_the_public.pdf",
+      "block_id": "b00062",
+      "ordinal": 7,
+      "link_type": "ATTACHMENT"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0117-update-to-transparency-principles/the-transparency-of-suppliers-and-government-to-the-public-html#fnref:1",
+      "block_id": "b00062",
+      "ordinal": 8,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "PPN 13/15 (pdf, 129 kb)",
+      "href": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/416421/Transparency_of_suppliers_and_government_to_the_public.pdf",
+      "block_id": "b00063",
+      "ordinal": 9,
+      "link_type": "ATTACHMENT"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0117-update-to-transparency-principles/the-transparency-of-suppliers-and-government-to-the-public-html#fnref:1",
+      "block_id": "b00063",
+      "ordinal": 10,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0117-update-to-transparency-principles/the-transparency-of-suppliers-and-government-to-the-public-html#fnref:2",
+      "block_id": "b00064",
+      "ordinal": 11,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0117-update-to-transparency-principles/the-transparency-of-suppliers-and-government-to-the-public-html#fnref:2",
+      "block_id": "b00065",
+      "ordinal": 12,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Model Services Contract",
+      "href": "https://www.gov.uk/government/publications/model-services-contract",
+      "block_id": "b00066",
+      "ordinal": 13,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0117-update-to-transparency-principles/the-transparency-of-suppliers-and-government-to-the-public-html#fnref:3",
+      "block_id": "b00066",
+      "ordinal": 14,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Model Services Contract",
+      "href": "https://www.gov.uk/government/publications/model-services-contract",
+      "block_id": "b00067",
+      "ordinal": 15,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0117-update-to-transparency-principles/the-transparency-of-suppliers-and-government-to-the-public-html#fnref:3",
+      "block_id": "b00067",
+      "ordinal": 16,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "The Transparency of Suppliers and Government to the Public (HTML)",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0117-update-to-transparency-principles/the-transparency-of-suppliers-and-government-to-the-public-html",
+      "block_id": "__document__",
+      "ordinal": 17,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2016 to 2019 May Conservative government",
+      "href": "https://www.gov.uk/government/2016-to-2019-may-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 18,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Crown Commercial Service",
+      "href": "https://www.gov.uk/government/organisations/crown-commercial-service",
+      "block_id": "__document__",
+      "ordinal": 19,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 20,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Procurement Policy Note 01/17: Update to Transparency Principles",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0117-update-to-transparency-principles",
+      "block_id": "__document__",
+      "ordinal": 21,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Crown Commercial Service",
+      "href": "https://www.gov.uk/government/organisations/crown-commercial-service",
+      "block_id": "__document__",
+      "ordinal": 22,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 2",
+      "block_id": "b00064",
+      "start": 14,
+      "end": 26,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015",
+      "block_id": "b00064",
+      "start": 51,
+      "end": 67,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 2",
+      "block_id": "b00065",
+      "start": 14,
+      "end": 26,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015",
+      "block_id": "b00065",
+      "start": 51,
+      "end": 67,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015"
+      }
+    }
+  ],
+  "attachments": [
+    {
+      "url": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/416421/Transparency_of_suppliers_and_government_to_the_public.pdf",
+      "title": "PPN 13/15 (pdf, 129 kb)",
+      "discovered_in_block": "b00062"
+    }
+  ],
+  "warnings": []
+}

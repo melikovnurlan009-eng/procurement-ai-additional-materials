@@ -1,0 +1,819 @@
+{
+  "document_id": "43b45380-5c33-47f5-9e16-2e420c582f8d",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/9faa6663c5fb5582151d83dc.json",
+  "input_sha256": "4d0733a7436c1e5ecfd1bd94e4d96a55b201bf17e48659b990259cfc4a866aca",
+  "processed_at": "2026-08-27T02:26:34.108934+00:00",
+  "title": "PPN 008: Armed Forces Covenant (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/ppn-008-armed-forces-covenant/ppn-008-armed-forces-covenant-html",
+  "description": null,
+  "publication_date": "2025-02-17T14:44:30+00:00",
+  "updated_date": "2025-02-17T14:44:29+00:00",
+  "source_metadata": {
+    "content_id": "43b45380-5c33-47f5-9e16-2e420c582f8d",
+    "base_path": "/government/publications/ppn-008-armed-forces-covenant/ppn-008-armed-forces-covenant-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Issue",
+      "ordinal": 3,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Dissemination and scope",
+      "ordinal": 6,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Timing",
+      "ordinal": 11,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "To Note for Information",
+      "ordinal": 13,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Background",
+      "ordinal": 15,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Contact",
+      "ordinal": 24,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Annex A – Text for inclusion in tender documents",
+      "ordinal": 26,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "The Corporate Covenant:",
+      "ordinal": 33,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Section 1: Principles of the Armed Forces Covenant",
+      "ordinal": 34,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Section 2: Demonstrating our Commitment",
+      "ordinal": 38,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "Information Note: 008",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "Previously issued: June 2016",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "Updated: February 2025",
+      "ordinal": 2,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "heading",
+      "text": "Issue",
+      "ordinal": 3,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "1. The Armed Forces Covenant is a public sector pledge from government, businesses, charities and organisations to demonstrate their support for the armed forces community.",
+      "ordinal": 4,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "2. This Procurement Policy Note (PPN) sets out guidance on how departments can encourage suppliers to sign the Covenant.",
+      "ordinal": 5,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "heading",
+      "text": "Dissemination and scope",
+      "ordinal": 6,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "3. The contents of this PPN apply to all central government departments, their executive agencies and non-departmental public bodies. Together these are referred to in this PPN as ‘in-scope organisations’. Please circulate this PPN within your organisation, drawing it to the attention of those with a purchasing role.",
+      "ordinal": 7,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "4. This PPN has been updated to reflect new terminology introduced by the Procurement Act 2023 and the Procurement Regulations 2024. The Procurement Act 2023 and the Procurement Regulations 2024 apply to procurements commenced on or after 24 February 2025. For more detail on the meaning of ‘commenced’ please refer to the Procurement Act 2023 Guidance on Transitional and Savings Arrangements .",
+      "ordinal": 8,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "5. The Procurement Act 2023 does not apply to procurements commenced before 24 February 2025 or to contracts awarded prior to this date (including via frameworks, dynamic purchasing systems or qualification systems established under the previous legislation). For procurements commenced and contracts awarded before this date, please refer to PPN 06/16.",
+      "ordinal": 9,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "p",
+      "text": "6. This update does not incorporate amendments made by the Armed Forces Act 2021, and does not constitute a change in policy or a new call for action, but in- scope organisations should continue to apply any ongoing obligations set out in the provisions of this PPN.",
+      "ordinal": 10,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "heading",
+      "text": "Timing",
+      "ordinal": 11,
+      "heading_path": [
+        "Issue",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "7. In-scope organisations should apply the provisions of this Information Note from 24 February 2025.",
+      "ordinal": 12,
+      "heading_path": [
+        "Issue",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "heading",
+      "text": "To Note for Information",
+      "ordinal": 13,
+      "heading_path": [
+        "Issue",
+        "To Note for Information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "li",
+      "text": "Departments should be aware of the Armed Forces Covenant and of government’s desire to encourage communities, charities and businesses to sign it. They should consider encouraging suppliers to sign the Covenant by including the text at Annex A in their tender documents.",
+      "ordinal": 14,
+      "heading_path": [
+        "Issue",
+        "To Note for Information"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "heading",
+      "text": "Background",
+      "ordinal": 15,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "9. The Armed Forces Covenant is a public sector pledge from government, businesses, charities and organisations to demonstrate their support for the armed forces community. The Covenant was brought in under the Armed Forces Act 2011 to recognise that the whole nation has a moral obligation to redress the disadvantages the armed forces community face in comparison to other citizens, and recognise sacrifices made.",
+      "ordinal": 16,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "10. The Covenant’s two principles are that, recognising the unique obligations of, and sacrifices made by, the Armed Forces:",
+      "ordinal": 17,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "li",
+      "text": "Those who serve in the Armed Forces, whether Regular or Reserve, those who have served in the past, and their families, should face no disadvantage compared to other citizens in the provision of public and commercial services.",
+      "ordinal": 18,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "li",
+      "text": "Special consideration is appropriate in some cases, especially for those who have given most, such as the injured and the bereaved.",
+      "ordinal": 19,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "p",
+      "text": "11. The Covenant seeks for organisations to uphold the principles via a number of further values (See Annex A).",
+      "ordinal": 20,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "12. Businesses and charitable organisations who wish to demonstrate their support for the Armed Forces community can sign the Covenant. Organisations can make a range of written and publicised promises to set out their support to members of the Armed Forces community who work in their business or access their products and services.",
+      "ordinal": 21,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "p",
+      "text": "13. The level of support will depend on the size and nature of the organisation, but typically includes policies that: encourage reserve service; support employment of veterans and service spouses/partners; give the Armed Forces community a fair deal on commercial products and services.",
+      "ordinal": 22,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "14. More than 800 businesses and charities have signed an Armed Forces Covenant, and that number continues to grow. The government wants to encourage this.",
+      "ordinal": 23,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "heading",
+      "text": "Contact",
+      "ordinal": 24,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "p",
+      "text": "15. Enquiries about this PPN, and requests to receive the standard templates should be directed to the Crown Commercial Service Helpdesk (0345 410 2222, info@crowncommercial.gov.uk ).",
+      "ordinal": 25,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "heading",
+      "text": "Annex A – Text for inclusion in tender documents",
+      "ordinal": 26,
+      "heading_path": [
+        "Issue",
+        "Annex A – Text for inclusion in tender documents"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "p",
+      "text": "1. The Armed Forces Covenant is a public sector pledge from government, businesses, charities and organisations to demonstrate their support for the armed forces community. The Covenant was brought in under the Armed Forces Act 2011 to recognise that the whole nation has a moral obligation to redress the disadvantages the armed forces community face in comparison to other citizens, and recognise sacrifices made.",
+      "ordinal": 27,
+      "heading_path": [
+        "Issue",
+        "Annex A – Text for inclusion in tender documents"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "2. The Covenant’s 2 principles are that:",
+      "ordinal": 28,
+      "heading_path": [
+        "Issue",
+        "Annex A – Text for inclusion in tender documents"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "li",
+      "text": "Special consideration is appropriate in some cases, especially for those who have given most such as the injured and the bereaved.",
+      "ordinal": 29,
+      "heading_path": [
+        "Issue",
+        "Annex A – Text for inclusion in tender documents"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "p",
+      "text": "3. The Authority encourages all suppliers to sign the Covenant, declaring their support for the Armed Forces community by displaying the values and behaviours set out therein.",
+      "ordinal": 30,
+      "heading_path": [
+        "Issue",
+        "Annex A – Text for inclusion in tender documents"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "p",
+      "text": "4. For further guidance on how you can sign the Covenant and how you can further show your support, please go to Show your support",
+      "ordinal": 31,
+      "heading_path": [
+        "Issue",
+        "Annex A – Text for inclusion in tender documents"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "p",
+      "text": "5. Paragraphs 1 - 3 above are not a condition of working with the contracting authority now or in the future, nor will this issue form any part of the procurement process (for example, as a condition of participation, an award criteria or term of the contract). However, the Authority very much hopes you will want to provide your support.",
+      "ordinal": 32,
+      "heading_path": [
+        "Issue",
+        "Annex A – Text for inclusion in tender documents"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "heading",
+      "text": "The Corporate Covenant:",
+      "ordinal": 33,
+      "heading_path": [
+        "Issue",
+        "The Corporate Covenant:"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "heading",
+      "text": "Section 1: Principles of the Armed Forces Covenant",
+      "ordinal": 34,
+      "heading_path": [
+        "Issue",
+        "The Corporate Covenant:",
+        "Section 1: Principles of the Armed Forces Covenant"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "p",
+      "text": "1.1. We, [Company XYZ], will endeavour to uphold the key principles of the Armed Forces Covenant:",
+      "ordinal": 35,
+      "heading_path": [
+        "Issue",
+        "The Corporate Covenant:",
+        "Section 1: Principles of the Armed Forces Covenant"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "li",
+      "text": "Members of the Armed Forces Community should not face disadvantages arising from their service in the provision of public and commercial services.",
+      "ordinal": 36,
+      "heading_path": [
+        "Issue",
+        "The Corporate Covenant:",
+        "Section 1: Principles of the Armed Forces Covenant"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "li",
+      "text": "In some circumstances special provision may be justified, especially for those who have given the most, such as the injured or bereaved.",
+      "ordinal": 37,
+      "heading_path": [
+        "Issue",
+        "The Corporate Covenant:",
+        "Section 1: Principles of the Armed Forces Covenant"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "heading",
+      "text": "Section 2: Demonstrating our Commitment",
+      "ordinal": 38,
+      "heading_path": [
+        "Issue",
+        "Section 2: Demonstrating our Commitment"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "p",
+      "text": "2.1. Company XYZ recognises the contribution of Service personnel, reservists, veterans, the cadet movement and military families make to our organisation, our community and to the country. We (Company XYZ) will seek to uphold the principles of the Armed Forces Covenant, by: [there is a different list in the current version of this document.]",
+      "ordinal": 39,
+      "heading_path": [
+        "Issue",
+        "Section 2: Demonstrating our Commitment"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "li",
+      "text": "promoting the fact that we are an armed forces-friendly organisation;",
+      "ordinal": 40,
+      "heading_path": [
+        "Issue",
+        "Section 2: Demonstrating our Commitment"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "li",
+      "text": "seeking to support the employment of veterans young and old and working with the Career Transition Partnership (CTP), in order to establish a tailored employment pathway for Service Leavers;",
+      "ordinal": 41,
+      "heading_path": [
+        "Issue",
+        "Section 2: Demonstrating our Commitment"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "li",
+      "text": "striving to support the employment of Service spouses and partners;",
+      "ordinal": 42,
+      "heading_path": [
+        "Issue",
+        "Section 2: Demonstrating our Commitment"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "li",
+      "text": "endeavouring to offer a degree of flexibility in granting leave for Service spouses and partners before, during and after a partner’s deployment;",
+      "ordinal": 43,
+      "heading_path": [
+        "Issue",
+        "Section 2: Demonstrating our Commitment"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "li",
+      "text": "seeking to support our employees who choose to be members of the Reserve forces, including by accommodating their training and deployment where possible;",
+      "ordinal": 44,
+      "heading_path": [
+        "Issue",
+        "Section 2: Demonstrating our Commitment"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "li",
+      "text": "offering support to our local cadet units, either in our local community or in local schools, where possible;",
+      "ordinal": 45,
+      "heading_path": [
+        "Issue",
+        "Section 2: Demonstrating our Commitment"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "li",
+      "text": "aiming to actively participate in Armed Forces Day;",
+      "ordinal": 46,
+      "heading_path": [
+        "Issue",
+        "Section 2: Demonstrating our Commitment"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "li",
+      "text": "offering a discount to members of the Armed Forces Community;",
+      "ordinal": 47,
+      "heading_path": [
+        "Issue",
+        "Section 2: Demonstrating our Commitment"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "li",
+      "text": "any additional commitments [XYZ] could make (based on local circumstances).",
+      "ordinal": 48,
+      "heading_path": [
+        "Issue",
+        "Section 2: Demonstrating our Commitment"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "li",
+      "text": "[You are encouraged to sign up to as many of the above as appropriate to your business. Please amend to provide details of how you intend to meet each commitment.]",
+      "ordinal": 49,
+      "heading_path": [
+        "Issue",
+        "Section 2: Demonstrating our Commitment"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00050",
+      "block_type": "p",
+      "text": "2.2. We will publicise these commitments through our literature and/or on our website, setting out how we will seek to honour them and inviting feedback from the Armed Forces Community and our customers on how we are doing. [Amended as appropriate for your business.]",
+      "ordinal": 50,
+      "heading_path": [
+        "Issue",
+        "Section 2: Demonstrating our Commitment"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "Guidance on Transitional and Savings Arrangements",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-transitional-and-saving-arrangements-html",
+      "block_id": "b00008",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "info@crowncommercial.gov.uk",
+      "href": "mailto:info@crowncommercial.gov.uk",
+      "block_id": "b00025",
+      "ordinal": 1,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "Show your support",
+      "href": "https://www.armedforcescovenant.gov.uk/show-your-support/",
+      "block_id": "b00031",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "PPN 008: Armed Forces Covenant (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-008-armed-forces-covenant/ppn-008-armed-forces-covenant-html",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2024 to 2026 Starmer Labour government",
+      "href": "https://www.gov.uk/government/2024-starmer-labour-government",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "PPN 008: Armed Forces Covenant",
+      "href": "https://www.gov.uk/government/publications/ppn-008-armed-forces-covenant",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 7,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2024",
+      "block_id": "b00008",
+      "start": 115,
+      "end": 131,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2024"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2024",
+      "block_id": "b00008",
+      "start": 178,
+      "end": 194,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2024"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "Paragraphs 1",
+      "block_id": "b00032",
+      "start": 3,
+      "end": 15,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 1",
+      "block_id": "b00034",
+      "start": 0,
+      "end": 9,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 2",
+      "block_id": "b00038",
+      "start": 0,
+      "end": 9,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "2"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

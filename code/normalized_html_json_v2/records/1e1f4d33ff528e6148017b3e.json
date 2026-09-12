@@ -1,0 +1,774 @@
+{
+  "document_id": "1e1f4d33ff528e6148017b3e",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "html",
+  "source_path": "corpus_ingest_v2/raw/988d13d804115bb5aadfbbc8.html",
+  "input_sha256": "322650384b6b615f069ac02f8d73e2dcb728fcd8fb4176f45b3478641232917a",
+  "processed_at": "2026-08-27T02:26:32.487686+00:00",
+  "title": "Contract and Supplier Management Introduction | Procurement Journey",
+  "canonical_url": "https://www.procurementjourney.scot/route-2/contract-and-supplier-management-introduction",
+  "description": null,
+  "publication_date": null,
+  "updated_date": null,
+  "source_metadata": {
+    "html_lang": "en"
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Purpose of CSM",
+      "ordinal": 12
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Vision",
+      "ordinal": 19
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Benefits of CSM",
+      "ordinal": 29
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Continuous Improvement",
+      "ordinal": 32
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "li",
+      "text": "View PDF",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "Route 2 medium/high-value, medium/high-risk contracts make up a significant proportion of the Scottish public sector’s commercial activity. While they do not carry the same level of complexity or financial exposure as high-risk contracts, they are essential to the effective delivery of services, support organisational objectives, and represent a substantial cumulative spend across public bodies. Effective management of these contracts helps ensure value for money, service reliability, and compliance with procurement and governance requirements.",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "This guidance provides a practical and proportionate framework for managing Route 2 contracts and the supplier relationships that support them. It is aligned with the Scottish Public Finance Manual (SPFM ), Scottish Procurement Policy Handbook and recognised best-practice principles for Contract and Supplier Management (CSM) across the public sector.",
+      "ordinal": 2,
+      "heading_path": [],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "Route 2 contracts benefit from structured but scalable oversight. They typically require regular performance monitoring, clear roles and responsibilities, documented communication routes, and a disciplined approach to issue and risk management.",
+      "ordinal": 3,
+      "heading_path": [],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "By applying a consistent management approach, Organisations can ensure:",
+      "ordinal": 4,
+      "heading_path": [],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "li",
+      "text": "Contract performance meets agreed standards and service levels",
+      "ordinal": 5,
+      "heading_path": [],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "li",
+      "text": "Risks are identified and controlled in a timely and proportional manner",
+      "ordinal": 6,
+      "heading_path": [],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "li",
+      "text": "Financial and commercial arrangements remain transparent and well-governed",
+      "ordinal": 7,
+      "heading_path": [],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "li",
+      "text": "Suppliers understand expectations and are supported to deliver continuous improvement",
+      "ordinal": 8,
+      "heading_path": [],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "li",
+      "text": "Social value, sustainability, and community benefit commitments are monitored and delivered",
+      "ordinal": 9,
+      "heading_path": [],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "li",
+      "text": "Contracts remain compliant with relevant Scottish procurement policy and legislation",
+      "ordinal": 10,
+      "heading_path": [],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "This guidance sets out the processes, tools, and governance structures that support effective management throughout the contract life cycle - from mobilisation and day-to-day monitoring to performance reporting, change control, contract closure and lessons learned. It is designed to be practical, scalable, and useful for contract managers, service leads, procurement professionals, and operational staff who play a role in managing medium-risk contracts.",
+      "ordinal": 11,
+      "heading_path": [],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "heading",
+      "text": "Purpose of CSM",
+      "ordinal": 12,
+      "heading_path": [
+        "Purpose of CSM"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "The purpose of Contract and Supplier Management is to work closely with suppliers and internal customers to:",
+      "ordinal": 13,
+      "heading_path": [
+        "Purpose of CSM"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "li",
+      "text": "minimise the total cost of ownership and",
+      "ordinal": 14,
+      "heading_path": [
+        "Purpose of CSM"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "li",
+      "text": "to maximise supply chain efficiencies",
+      "ordinal": 15,
+      "heading_path": [
+        "Purpose of CSM"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "Contract and Supplier Management should result in ongoing benefits that will include contract procedure and process improvements; increased Procurement Function knowledge and experience; improved supplier capability and improved supplier relationships. All of these provide mutual benefits that can then be used to benefit future contracts for both buying and supplying organisations. This can be done by:",
+      "ordinal": 16,
+      "heading_path": [
+        "Purpose of CSM"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "table",
+      "text": "Relationships\tDeveloping and managing constructive and transparent relationships with suppliers\nExecution\tEnsuring the contract is successfully executed. Includes meeting all special conditions relating to the performance of the contract which may cover economic, innovation-related, environmental, social or employment-related conditions\nValue for Money\tMaximising value for money from suppliers and contracts\nMonitoring and Improvement\tProviding a formalised system of monitoring, managing and continuously improving the supplier and the Organisation’s performance against the contract\nRoles and Responsibilities\tEnsuring that all parties recognise and understand their contractual roles and responsibilities\nCompliance\tMonitoring overall compliance to Key Performance Indicators(KPIs) and Service Level Agreements. Implementing improvement plans in the event of underperformance. Leveraging supplier expertise in pursuit of cost and efficiency gains\nImproved Benefits\trealising additional savings and benefits and sharing them appropriately\nSupply Chain\tEffectively managing the prompt payment of the supply chain\nInnovation\tProviding a focus for development of initiatives and innovations\nContinuous Improvement\tDriving continuous improvement\nLessons Learned\tIdentifying lessons learned to inform future contract terms or strategies\nEfficiency\tDeveloping supplier relationships to maximise efficiency. Collaborate towards common goals and reduce waste, environmental or social risks\nStrategic Goals\tSupport the achievement of strategic goals, such as attracting Community Benefits through the contract\nSustainable Procurement\tMonitoring Sustainable Procurement benefits through the life of the contract and ensuring that targets are met\nCommunity Benefits\tMonitoring Community Benefits achieved vs anticipated\nBest Practice Sharing\tUsing the CSM process as a vehicle to share experiences across different contracts, so synergising opportunities and practices",
+      "ordinal": 17,
+      "heading_path": [
+        "Purpose of CSM"
+      ],
+      "source_locator": null,
+      "metadata": {
+        "rows": [
+          [
+            "Relationships",
+            "Developing and managing constructive and transparent relationships with suppliers"
+          ],
+          [
+            "Execution",
+            "Ensuring the contract is successfully executed. Includes meeting all special conditions relating to the performance of the contract which may cover economic, innovation-related, environmental, social or employment-related conditions"
+          ],
+          [
+            "Value for Money",
+            "Maximising value for money from suppliers and contracts"
+          ],
+          [
+            "Monitoring and Improvement",
+            "Providing a formalised system of monitoring, managing and continuously improving the supplier and the Organisation’s performance against the contract"
+          ],
+          [
+            "Roles and Responsibilities",
+            "Ensuring that all parties recognise and understand their contractual roles and responsibilities"
+          ],
+          [
+            "Compliance",
+            "Monitoring overall compliance to Key Performance Indicators(KPIs) and Service Level Agreements. Implementing improvement plans in the event of underperformance. Leveraging supplier expertise in pursuit of cost and efficiency gains"
+          ],
+          [
+            "Improved Benefits",
+            "realising additional savings and benefits and sharing them appropriately"
+          ],
+          [
+            "Supply Chain",
+            "Effectively managing the prompt payment of the supply chain"
+          ],
+          [
+            "Innovation",
+            "Providing a focus for development of initiatives and innovations"
+          ],
+          [
+            "Continuous Improvement",
+            "Driving continuous improvement"
+          ],
+          [
+            "Lessons Learned",
+            "Identifying lessons learned to inform future contract terms or strategies"
+          ],
+          [
+            "Efficiency",
+            "Developing supplier relationships to maximise efficiency. Collaborate towards common goals and reduce waste, environmental or social risks"
+          ],
+          [
+            "Strategic Goals",
+            "Support the achievement of strategic goals, such as attracting Community Benefits through the contract"
+          ],
+          [
+            "Sustainable Procurement",
+            "Monitoring Sustainable Procurement benefits through the life of the contract and ensuring that targets are met"
+          ],
+          [
+            "Community Benefits",
+            "Monitoring Community Benefits achieved vs anticipated"
+          ],
+          [
+            "Best Practice Sharing",
+            "Using the CSM process as a vehicle to share experiences across different contracts, so synergising opportunities and practices"
+          ]
+        ],
+        "row_count": 16
+      }
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "p",
+      "text": "Care should also be taken to manage risks to changes in contracts e.g. you may require to re-tender if there is a substantial modification.",
+      "ordinal": 18,
+      "heading_path": [
+        "Purpose of CSM"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "heading",
+      "text": "Vision",
+      "ordinal": 19,
+      "heading_path": [
+        "Purpose of CSM",
+        "Vision"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "p",
+      "text": "Organisations should use the four quadrants of the balanced scorecard consistently . This allows measurement of a supplier’s performance across all organisations and / or sectors who are using that supplier.",
+      "ordinal": 20,
+      "heading_path": [
+        "Purpose of CSM",
+        "Vision"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "Contract and Supplier Management should:",
+      "ordinal": 21,
+      "heading_path": [
+        "Purpose of CSM",
+        "Vision"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "li",
+      "text": "ensure that the service/contract is delivered to the required standards",
+      "ordinal": 22,
+      "heading_path": [
+        "Purpose of CSM",
+        "Vision"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "li",
+      "text": "provides value for money;",
+      "ordinal": 23,
+      "heading_path": [
+        "Purpose of CSM",
+        "Vision"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "li",
+      "text": "proactively identify and manage any risks which may impact on a supplier’s service delivery / fulfilment of the contract requirements;",
+      "ordinal": 24,
+      "heading_path": [
+        "Purpose of CSM",
+        "Vision"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "li",
+      "text": "improve and develop contract and supplier performance across organisations, sectors and nationally. A consistent approach will maximise efficiencies and promote adding value across the supply base;",
+      "ordinal": 25,
+      "heading_path": [
+        "Purpose of CSM",
+        "Vision"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "li",
+      "text": "appropriately influence supplier activity and decisions, improving value for money, over and above cost savings;",
+      "ordinal": 26,
+      "heading_path": [
+        "Purpose of CSM",
+        "Vision"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "li",
+      "text": "ensure the contract is effectively administered, for example from a change management perspective.",
+      "ordinal": 27,
+      "heading_path": [
+        "Purpose of CSM",
+        "Vision"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "You should frequently aim to improve your own and supply base performance by various techniques.",
+      "ordinal": 28,
+      "heading_path": [
+        "Purpose of CSM",
+        "Vision"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "heading",
+      "text": "Benefits of CSM",
+      "ordinal": 29,
+      "heading_path": [
+        "Purpose of CSM",
+        "Vision",
+        "Benefits of CSM"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "p",
+      "text": "Both you and the supplier should be motivated and enabled to deliver additional value. This should be done within legal limits and, over and above that specified in the original contract, e.g. not simply extending the expenditure. The process should deliver benefits such as:",
+      "ordinal": 30,
+      "heading_path": [
+        "Purpose of CSM",
+        "Vision",
+        "Benefits of CSM"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "table",
+      "text": "Routes of Engagement\tProvide formal routes of engagement at different levels of management. This allows opportunities for improvement at senior levels\nSupply Costs\tEnsure supply costs are contained and minimising, and that opportunities for improving cost effectiveness and efficiencies are explored and progressed e.g. packaging/delivery efficiencies, service level definition\nDeliver Business Needs\tProactively ensure that the business needs under the contract are defined and delivered. Ensure both customer and supplier’s obligations are understood and managed. Reduce reactive ‘incident resolution activity’ to minimise the cost of failure and of managing the relationship\nIssue Resolution\tPromote proactive issue resolution. Ensure clear escalation paths exist within both organisations\nStandardisation\tUse a standardised approach for a number of suppliers/customers. This will embed operational efficiency, consistency and quality\nConsistency\tLimit the number of people involved. This ensures process consistency and communication. It ensures the right people are involved in the right activities at the right time with the right information\nImprovements\tEncourage the supplier to improve their product or service in ways which provide additional value to the customer and to future customers. Promote efficiencies within both organisations which will develop the skills of the employees and help the supplier’s staff to deliver a better service",
+      "ordinal": 31,
+      "heading_path": [
+        "Purpose of CSM",
+        "Vision",
+        "Benefits of CSM"
+      ],
+      "source_locator": null,
+      "metadata": {
+        "rows": [
+          [
+            "Routes of Engagement",
+            "Provide formal routes of engagement at different levels of management. This allows opportunities for improvement at senior levels"
+          ],
+          [
+            "Supply Costs",
+            "Ensure supply costs are contained and minimising, and that opportunities for improving cost effectiveness and efficiencies are explored and progressed e.g. packaging/delivery efficiencies, service level definition"
+          ],
+          [
+            "Deliver Business Needs",
+            "Proactively ensure that the business needs under the contract are defined and delivered. Ensure both customer and supplier’s obligations are understood and managed. Reduce reactive ‘incident resolution activity’ to minimise the cost of failure and of managing the relationship"
+          ],
+          [
+            "Issue Resolution",
+            "Promote proactive issue resolution. Ensure clear escalation paths exist within both organisations"
+          ],
+          [
+            "Standardisation",
+            "Use a standardised approach for a number of suppliers/customers. This will embed operational efficiency, consistency and quality"
+          ],
+          [
+            "Consistency",
+            "Limit the number of people involved. This ensures process consistency and communication. It ensures the right people are involved in the right activities at the right time with the right information"
+          ],
+          [
+            "Improvements",
+            "Encourage the supplier to improve their product or service in ways which provide additional value to the customer and to future customers. Promote efficiencies within both organisations which will develop the skills of the employees and help the supplier’s staff to deliver a better service"
+          ]
+        ],
+        "row_count": 7
+      }
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "heading",
+      "text": "Continuous Improvement",
+      "ordinal": 32,
+      "heading_path": [
+        "Purpose of CSM",
+        "Vision",
+        "Benefits of CSM",
+        "Continuous Improvement"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "p",
+      "text": "There are a number of formal and informal continuous improvement methods. These range from: full continuous improvement programmes; to organisational collaboration; and improved internal and external communication.",
+      "ordinal": 33,
+      "heading_path": [
+        "Purpose of CSM",
+        "Vision",
+        "Benefits of CSM",
+        "Continuous Improvement"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "p",
+      "text": "One of the key continuous improvement tools used in the Scottish Public Sector is the Procurement and Commercial Improvement Programme (PCIP) . This is designed to drive forward best practice and develop procurement activity and provides organisations with a means to benchmark their own activities against a suite of nationally agreed criteria",
+      "ordinal": 34,
+      "heading_path": [
+        "Purpose of CSM",
+        "Vision",
+        "Benefits of CSM",
+        "Continuous Improvement"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "p",
+      "text": "Contract & Supplier Management can be considered successful when:",
+      "ordinal": 35,
+      "heading_path": [
+        "Purpose of CSM",
+        "Vision",
+        "Benefits of CSM",
+        "Continuous Improvement"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "li",
+      "text": "the arrangements for service delivery continue to be satisfactory to both parties, and the expected business benefits and value for money are being achieved or exceeded",
+      "ordinal": 36,
+      "heading_path": [
+        "Purpose of CSM",
+        "Vision",
+        "Benefits of CSM",
+        "Continuous Improvement"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "li",
+      "text": "the supplier is efficient, co-operative and responsive",
+      "ordinal": 37,
+      "heading_path": [
+        "Purpose of CSM",
+        "Vision",
+        "Benefits of CSM",
+        "Continuous Improvement"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "li",
+      "text": "the Organisation understands its obligations under the contract",
+      "ordinal": 38,
+      "heading_path": [
+        "Purpose of CSM",
+        "Vision",
+        "Benefits of CSM",
+        "Continuous Improvement"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "li",
+      "text": "there are no surprises",
+      "ordinal": 39,
+      "heading_path": [
+        "Purpose of CSM",
+        "Vision",
+        "Benefits of CSM",
+        "Continuous Improvement"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "li",
+      "text": "there are no disputes",
+      "ordinal": 40,
+      "heading_path": [
+        "Purpose of CSM",
+        "Vision",
+        "Benefits of CSM",
+        "Continuous Improvement"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "li",
+      "text": "professional and objective discussions over changes and issues are straightforward and easily managed",
+      "ordinal": 41,
+      "heading_path": [
+        "Purpose of CSM",
+        "Vision",
+        "Benefits of CSM",
+        "Continuous Improvement"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "li",
+      "text": "efficiencies are being realised",
+      "ordinal": 42,
+      "heading_path": [
+        "Purpose of CSM",
+        "Vision",
+        "Benefits of CSM",
+        "Continuous Improvement"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "li",
+      "text": "the Organisation’s procurement department contract and market knowledge improves, and benefits future contracts",
+      "ordinal": 43,
+      "heading_path": [
+        "Purpose of CSM",
+        "Vision",
+        "Benefits of CSM",
+        "Continuous Improvement"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "p",
+      "text": "Consideration must also be given to Planning , Sustainable Procurement and Risk Management throughout this stage of the Journey.",
+      "ordinal": 44,
+      "heading_path": [
+        "Purpose of CSM",
+        "Vision",
+        "Benefits of CSM",
+        "Continuous Improvement"
+      ],
+      "source_locator": null,
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "View PDF",
+      "href": "https://www.procurementjourney.scot/print/pdf/node/239",
+      "block_id": "b00000",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Scottish Public Finance Manual (SPFM",
+      "href": "https://www.gov.scot/publications/scottish-public-finance-manual/",
+      "block_id": "b00002",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Scottish Procurement Policy Handbook",
+      "href": "https://www.gov.scot/publications/scottish-procurement-policy-handbook/pages/19/",
+      "block_id": "b00002",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "roles and responsibilities",
+      "href": "https://www.procurementjourney.scot/route-2/contract-and-supplier-management/csm-roles-responsibilities",
+      "block_id": "b00017",
+      "ordinal": 3,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "prompt payment",
+      "href": "https://www.procurementjourney.scot/additional-resources/prompt-payment",
+      "block_id": "b00017",
+      "ordinal": 4,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Innovation",
+      "href": "https://www.procurementjourney.scot/additional-resources/innovation",
+      "block_id": "b00017",
+      "ordinal": 5,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Lessons Learned",
+      "href": "https://www.procurementjourney.scot/route-2/contract-and-supplier-management/lessons-learned",
+      "block_id": "b00017",
+      "ordinal": 6,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "manage risks",
+      "href": "https://www.procurementjourney.scot/additional-resources/risk-management",
+      "block_id": "b00018",
+      "ordinal": 7,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "changes in contracts",
+      "href": "https://www.procurementjourney.scot/route-2/contract-and-supplier-management/variations-extensions-amendments",
+      "block_id": "b00018",
+      "ordinal": 8,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "balanced scorecard",
+      "href": "https://www.procurementjourney.scot/route-2/contract-and-supplier-management/monitoring-and-reporting/balanced-scorecard",
+      "block_id": "b00020",
+      "ordinal": 9,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement and Commercial Improvement Programme (PCIP)",
+      "href": "https://procurementjourney.scot/pcip/pcip-overview",
+      "block_id": "b00034",
+      "ordinal": 10,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Planning",
+      "href": "https://www.procurementjourney.scot/node/351",
+      "block_id": "b00044",
+      "ordinal": 11,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Sustainable Procurement",
+      "href": "https://procurementjourney.scot/route-3/develop-strategy/profiling-commodityservice/sustainable-procurement",
+      "block_id": "b00044",
+      "ordinal": 12,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Risk Management",
+      "href": "https://www.procurementjourney.scot/node/352",
+      "block_id": "b00044",
+      "ordinal": 13,
+      "link_type": "EXTERNAL_OR_RELATED"
+    }
+  ],
+  "legal_references": [],
+  "attachments": [],
+  "warnings": []
+}

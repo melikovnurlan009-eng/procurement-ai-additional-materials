@@ -1,0 +1,129 @@
+{
+  "document_id": "601d52a2-7631-11e4-a3cb-005056011aef",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/2c8337c7b343578c6f695087.json",
+  "input_sha256": "239b10995b27c7a091c2f1cb73ebb681e7c9cf2a4587d52e6474841dbce62031",
+  "processed_at": "2026-08-27T02:26:09.768938+00:00",
+  "title": "Procurement Policy Note 09/14: Cyber Essentials scheme certification",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-policy-note-0914-cyber-essentials-scheme-certification",
+  "description": "This note explains how to use the Cyber Essentials scheme, which aims to reduce cyber security risk in government supply chains.",
+  "publication_date": "2014-09-26T10:14:00+01:00",
+  "updated_date": "2016-05-26T16:39:44+01:00",
+  "source_metadata": {
+    "content_id": "601d52a2-7631-11e4-a3cb-005056011aef",
+    "base_path": "/government/publications/procurement-policy-note-0914-cyber-essentials-scheme-certification",
+    "document_type": "guidance",
+    "schema_name": "publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "The government is taking steps to further reduce the levels of cyber security risk in its supply chain through the Cyber Essentials scheme. The scheme defines a set of controls which, when properly implemented, will provide organisations with basic protection from the most prevalent forms of threat coming from the internet. There are 2 levels of certification: Cyber Essentials and Cyber Essentials Plus.",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "Cyber Essentials is for all organisations of all sizes, and in all sectors. We are making the scheme mandatory for central government contracts advertised after 1 October 2014 which involve handling personal information and providing certain ICT products and services.",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "Cyber Essentials",
+      "href": "https://www.gov.uk/government/publications/cyber-essentials-scheme-overview",
+      "block_id": "b00000",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement Policy Note 09/14: Cyber Essentials scheme certification",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0914-cyber-essentials-scheme-certification",
+      "block_id": "__document__",
+      "ordinal": 1,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "Procurement policy notes",
+      "href": "https://www.gov.uk/government/collections/procurement-policy-notes",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_DOCUMENT_COLLECTIONS"
+    },
+    {
+      "text": "2010 to 2015 Conservative and Liberal Democrat coalition government",
+      "href": "https://www.gov.uk/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_ORIGINAL_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Cyber security",
+      "href": "https://www.gov.uk/government/cyber-security",
+      "block_id": "__document__",
+      "ordinal": 7,
+      "link_type": "GOVUK_TAXONS"
+    },
+    {
+      "text": "National security",
+      "href": "https://www.gov.uk/government/national-security",
+      "block_id": "__document__",
+      "ordinal": 8,
+      "link_type": "GOVUK_TAXONS"
+    },
+    {
+      "text": "Government spending",
+      "href": "https://www.gov.uk/government/government-spending",
+      "block_id": "__document__",
+      "ordinal": 9,
+      "link_type": "GOVUK_TAXONS"
+    }
+  ],
+  "legal_references": [],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/5a816448e5274a2e87dbd61a/ppn_update_cyber_essentials_0914.pdf",
+      "title": "Procurement Policy Note – Use of Cyber Essentials Scheme certification",
+      "content_type": "application/pdf",
+      "filename": "ppn_update_cyber_essentials_0914.pdf",
+      "id": "1569928",
+      "logical_role": "ATTACHMENT"
+    }
+  ],
+  "warnings": []
+}

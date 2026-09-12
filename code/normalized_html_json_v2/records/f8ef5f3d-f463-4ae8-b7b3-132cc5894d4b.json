@@ -1,0 +1,106 @@
+{
+  "document_id": "f8ef5f3d-f463-4ae8-b7b3-132cc5894d4b",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/604bbb898c6fb9cb28ffd96b.json",
+  "input_sha256": "64d4cec3a0a8a83aae20cad6bdc873d18d36a4d6363198f97c11dab4d8e02a73",
+  "processed_at": "2026-08-27T02:26:19.656240+00:00",
+  "title": "Procurement policy note 11/15: unstructured electronic invoices",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-policy-note-1115-unstructured-electronic-invoices",
+  "description": "Central government departments and their arm's length bodies must accept unstructured e-invoices submitted on or after 30 June 2015.\r\n",
+  "publication_date": "2015-06-22T18:01:00+01:00",
+  "updated_date": "2015-06-22T18:01:00+01:00",
+  "source_metadata": {
+    "content_id": "f8ef5f3d-f463-4ae8-b7b3-132cc5894d4b",
+    "base_path": "/government/publications/procurement-policy-note-1115-unstructured-electronic-invoices",
+    "document_type": "guidance",
+    "schema_name": "publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "This procurement policy note introduces the new requirement for central government departments and their arm’s length bodies to accept unstructured e-invoices. It applies to invoices submitted by suppliers on or after 30 June 2015.",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "Procurement policy note 11/15: unstructured electronic invoices",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-1115-unstructured-electronic-invoices",
+      "block_id": "__document__",
+      "ordinal": 0,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "Procurement policy notes",
+      "href": "https://www.gov.uk/government/collections/procurement-policy-notes",
+      "block_id": "__document__",
+      "ordinal": 1,
+      "link_type": "GOVUK_DOCUMENT_COLLECTIONS"
+    },
+    {
+      "text": "2015 to 2016 Cameron Conservative government",
+      "href": "https://www.gov.uk/government/2015-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Crown Commercial Service",
+      "href": "https://www.gov.uk/government/organisations/crown-commercial-service",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_ORIGINAL_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Government spending",
+      "href": "https://www.gov.uk/government/government-spending",
+      "block_id": "__document__",
+      "ordinal": 7,
+      "link_type": "GOVUK_TAXONS"
+    }
+  ],
+  "legal_references": [],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/5a80c89c40f0b62305b8d210/PPN_e-invoicing.pdf",
+      "title": "Procurement policy note 11/15: acceptance of unstructured electronic invoices by central government authorities",
+      "content_type": "application/pdf",
+      "filename": "PPN_e-invoicing.pdf",
+      "id": "1089490",
+      "logical_role": "ATTACHMENT"
+    }
+  ],
+  "warnings": []
+}

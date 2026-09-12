@@ -1,0 +1,115 @@
+{
+  "document_id": "4c326ab4-65f8-4929-87df-a907b160bf58",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/dc29c63b4c01a044b71e2ae7.json",
+  "input_sha256": "66b388d356b517ba9adb0ed3abdfcd27dbd53d0167485f2917c96fc56556d8c9",
+  "processed_at": "2026-08-27T02:26:43.861137+00:00",
+  "title": "Procurement Policy Note 08/20 - Introduction of Find a Tender",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-policy-note-0820-introduction-of-find-a-tender",
+  "description": "This Procurement Policy Note (PPN) reminds contracting authorities of the 'Find a Tender' service.",
+  "publication_date": "2020-11-23T12:00:01+00:00",
+  "updated_date": "2020-11-23T12:00:01+00:00",
+  "source_metadata": {
+    "content_id": "4c326ab4-65f8-4929-87df-a907b160bf58",
+    "base_path": "/government/publications/procurement-policy-note-0820-introduction-of-find-a-tender",
+    "document_type": "policy_paper",
+    "schema_name": "publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "This Procurement Policy Note (PPN) reminds contracting authorities of the ‘Find a Tender’ service.",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "Procurement Policy Note 08/20 - Introduction of Find a Tender",
+      "href": "https://www.gov.uk/government/publications/procurement-policy-note-0820-introduction-of-find-a-tender",
+      "block_id": "__document__",
+      "ordinal": 0,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "Procurement policy notes",
+      "href": "https://www.gov.uk/government/collections/procurement-policy-notes",
+      "block_id": "__document__",
+      "ordinal": 1,
+      "link_type": "GOVUK_DOCUMENT_COLLECTIONS"
+    },
+    {
+      "text": "2019 to 2022 Johnson Conservative government",
+      "href": "https://www.gov.uk/government/2019-to-2022-johnson-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_ORIGINAL_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Government efficiency, transparency and accountability",
+      "href": "https://www.gov.uk/government/government-efficiency-transparency-and-accountability",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_TAXONS"
+    }
+  ],
+  "legal_references": [],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/5fb7e662e90e077edda5704d/PPN_08_20_Procurement_Policy_Note_Introduction_of_Find_a_Tender.pdf",
+      "title": "PPN 08/20 Procurement Policy Note - Introduction of Find a Tender",
+      "content_type": "application/pdf",
+      "filename": "PPN_08_20_Procurement_Policy_Note_Introduction_of_Find_a_Tender.pdf",
+      "id": "4737837",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/5fb7e673e90e077edee80782/Frequently_Asked_Questions-_Find_a_tender_and_the_end_of_the_Transition_Period.pdf",
+      "title": "Frequently Asked Questions- Find a tender and the end of the Transition Period",
+      "content_type": "application/pdf",
+      "filename": "Frequently_Asked_Questions-_Find_a_tender_and_the_end_of_the_Transition_Period.pdf",
+      "id": "4737847",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/5fb7e686e90e077ee2eadbca/FTS_end_of_transition_flow_chart.pdf",
+      "title": "FTS end of transition flow chart",
+      "content_type": "application/pdf",
+      "filename": "FTS_end_of_transition_flow_chart.pdf",
+      "id": "4737848",
+      "logical_role": "ATTACHMENT"
+    }
+  ],
+  "warnings": []
+}

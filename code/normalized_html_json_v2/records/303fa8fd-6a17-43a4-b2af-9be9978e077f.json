@@ -1,0 +1,788 @@
+{
+  "document_id": "303fa8fd-6a17-43a4-b2af-9be9978e077f",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/d2d3374ace2416973096c2ea.json",
+  "input_sha256": "a7dfb6696e666819f4206eb89f4c539ed427c309f9358868109fdb0afb5b2205",
+  "processed_at": "2026-08-27T02:26:42.500266+00:00",
+  "title": "Procurement Policy Note – update to legal and policy requirements to publish procurement information on Contracts Finder (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/ppn-0123-requirements-to-publish-on-contracts-finder/procurement-policy-note-update-to-legal-and-policy-requirements-to-publish-procurement-information-on-contracts-finder-html",
+  "description": null,
+  "publication_date": "2023-01-18T09:18:09+00:00",
+  "updated_date": "2023-01-18T09:18:00+00:00",
+  "source_metadata": {
+    "content_id": "303fa8fd-6a17-43a4-b2af-9be9978e077f",
+    "base_path": "/government/publications/ppn-0123-requirements-to-publish-on-contracts-finder/procurement-policy-note-update-to-legal-and-policy-requirements-to-publish-procurement-information-on-contracts-finder-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Issue",
+      "ordinal": 1,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Dissemination and Scope",
+      "ordinal": 9,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Timing",
+      "ordinal": 23,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Action",
+      "ordinal": 25,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Background",
+      "ordinal": 28,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Contact",
+      "ordinal": 40,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "Action Note PPN 01/23 -January 2023",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "heading",
+      "text": "Issue",
+      "ordinal": 1,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "This PPN and associated guidance replaces PPN 09/21. The PPN provides consolidated guidance that reminds public bodies of the requirements of the Public Contracts Regulations 2015 (PCR 2015) to publish information about opportunities and awards, over certain value thresholds, on Contracts Finder (CFS). The guidance incorporates additional policy requirements for Central Government to publish procurement and contract documents.",
+      "ordinal": 2,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "The Public Contracts (Amendment) Regulations 2022 came into force on 21 Dec 2022. This makes two changes to the Below Threshold Regime:",
+      "ordinal": 3,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "li",
+      "text": "The contract value limits have been amended: from £10,000 to £12,000 for central government authorities; and from £25,000 to £30,000 for sub-central authorities.",
+      "ordinal": 4,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "li",
+      "text": "from £10,000 to £12,000 for central government authorities; and",
+      "ordinal": 5,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "li",
+      "text": "from £25,000 to £30,000 for sub-central authorities.",
+      "ordinal": 6,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "li",
+      "text": "NHS Foundation Trusts now have the same publication value thresholds as sub-central authorities, alongside NHS Trusts (i.e. £30,000 and above), and need only publish the minimum information required by the PCR 2015, and to the 90 day timescale.",
+      "ordinal": 7,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "All contracting authorities should also note that the contract value limits are to be calculated inclusive of VAT (this took effect from 1 Jan 2022).",
+      "ordinal": 8,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "heading",
+      "text": "Dissemination and Scope",
+      "ordinal": 9,
+      "heading_path": [
+        "Issue",
+        "Dissemination and Scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "p",
+      "text": "The attached “Guidance on transparency requirements for publishing on Contracts Finder” is in two parts. Part 1 sets out the legal requirements to publish certain information on Contracts Finder. Part 2 places requirements on central government authorities to publish the tender and contract documents on Contracts Finder with the appropriate notice at certain stages of the procurement.",
+      "ordinal": 10,
+      "heading_path": [
+        "Issue",
+        "Dissemination and Scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "The guidance applies to the organisations as detailed below (which together are referred to as ‘In-Scope Organisations’).",
+      "ordinal": 11,
+      "heading_path": [
+        "Issue",
+        "Dissemination and Scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "Part 1 of the guidance applies to all contracting authorities across the public sector other than (as set out in section 6 of Part 1):",
+      "ordinal": 12,
+      "heading_path": [
+        "Issue",
+        "Dissemination and Scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "li",
+      "text": "contracting authorities whose functions are wholly or mainly Scottish, Northern Ireland or Welsh devolved functions (as defined by regulation 1(7) and 1(8) PCR 2015);",
+      "ordinal": 13,
+      "heading_path": [
+        "Issue",
+        "Dissemination and Scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "li",
+      "text": "the procurement of health care services for the purposes of the NHS within the meaning and scope of the National Health Service (Procurement, Patient Choice and Competition) (No. 2) Regulations 2013;",
+      "ordinal": 14,
+      "heading_path": [
+        "Issue",
+        "Dissemination and Scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "li",
+      "text": "maintained schools, academies and sixth form college corporations.",
+      "ordinal": 15,
+      "heading_path": [
+        "Issue",
+        "Dissemination and Scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "In addition, in respect of below-threshold procurements, the Part 1 publication of information requirements only apply to In-Scope Organisations that are also (as set out in section 3 of Part 1):",
+      "ordinal": 16,
+      "heading_path": [
+        "Issue",
+        "Dissemination and Scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "li",
+      "text": "central government authorities, where the contract value is at least £12,000 (inc VAT); and",
+      "ordinal": 17,
+      "heading_path": [
+        "Issue",
+        "Dissemination and Scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "li",
+      "text": "sub-central contracting authorities, NHS Trusts and NHS Foundation Trusts, where the contract value is at least £30,000 (inc of VAT).",
+      "ordinal": 18,
+      "heading_path": [
+        "Issue",
+        "Dissemination and Scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "Part 2 of the guidance applies to all central government authorities other than (as set out in section 5 of Part 2):",
+      "ordinal": 19,
+      "heading_path": [
+        "Issue",
+        "Dissemination and Scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "li",
+      "text": "contracting authorities whose functions are wholly or mainly Northern Ireland, Welsh or Scottish devolved functions as defined by regulation 1(7) and 1(8) PCR 2015);",
+      "ordinal": 20,
+      "heading_path": [
+        "Issue",
+        "Dissemination and Scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "li",
+      "text": "maintained schools, academies and sixth form college corporations (which are generally not considered central government authorities);",
+      "ordinal": 21,
+      "heading_path": [
+        "Issue",
+        "Dissemination and Scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "li",
+      "text": "NHS Trusts and NHS Foundation Trusts.",
+      "ordinal": 22,
+      "heading_path": [
+        "Issue",
+        "Dissemination and Scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "heading",
+      "text": "Timing",
+      "ordinal": 23,
+      "heading_path": [
+        "Issue",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "In-Scope Organisations may apply the changes brought in by these amendments with immediate effect. Contracting authorities requiring more time to adopt the higher thresholds may continue to publish at the lower thresholds during this period.",
+      "ordinal": 24,
+      "heading_path": [
+        "Issue",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "heading",
+      "text": "Action",
+      "ordinal": 25,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "p",
+      "text": "All In-Scope Organisations should apply Part 1 of the guidance to publish information about opportunities and contract awards over the applicable contract value limits on Contracts Finder within the timescales set out in the guidance.",
+      "ordinal": 26,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "p",
+      "text": "Relevant central government authorities considered an ‘In Scope Organisation’ for Part 2 of the guidance should also publish associated documents with the relevant notice on Contracts Finder.",
+      "ordinal": 27,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "heading",
+      "text": "Background",
+      "ordinal": 28,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "p",
+      "text": "As set out in PPN 10/21 (pdf, 48.8 KB) when calculating the estimated value of the contract to determine whether the regulations apply, the contract value estimation should be inclusive of VAT (where applicable) from 1 January 2022. This had the effect of bringing more contracts into scope of the requirement to publish on Contracts Finder. We have now amended these low value thresholds to the values set out above.",
+      "ordinal": 29,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "p",
+      "text": "There was previously uncertainty around whether NHS Foundation Trusts should be considered central government authorities. For clarity, in 2021 they were added to Schedule 1 of PCR 2015 as a category distinct from other NHS Trusts.",
+      "ordinal": 30,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "p",
+      "text": "The equivalent amendment to regulation 109(2)(c)(i), which includes NHS Trusts alongside sub-central authorities in applying the higher value limit, was not made at the same time. The impact of this is that NHS Foundation Trusts were required to follow the lower contract value limit of £10,000.",
+      "ordinal": 31,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "p",
+      "text": "The 2022 Regulations rectify this by applying the same threshold to NHS Foundation Trusts as is applied to NHS Trusts (i.e. £30,000 including VAT).",
+      "ordinal": 32,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "p",
+      "text": "Previous policy and guidance was last issued in December 2021 under PPN 09/21 and in June 2021 under PPN 07/21. This was to reflect changes following the end of the transition period, subsequent updates to Schedule 1 of the PCR 2015 and to provide further clarity to enable In-Scope Organisations to meet their transparency obligations. The key changes then were:",
+      "ordinal": 33,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "li",
+      "text": "References to OJEU/TED were replaced with Find a Tender service (FTS), reflecting the UK’s departure from the EU. Additional information has been provided on publishing to FTS and Contracts Finder.",
+      "ordinal": 34,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "li",
+      "text": "The term “contract award date” was further defined as the date on which the contract is signed by the last contracting party, to avoid varying interpretations. Timescales are to be taken to commence on the day after the contract has been signed by the last contracting party and, if the deadline for publication of the information falls on a non-working day, the guidance clarified that the contracting authority has until the end of the next working day to publish the information on Contracts Finder.",
+      "ordinal": 35,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "li",
+      "text": "The definition of Central Government in the Guidance on Transparency Requirements for publication on Contracts Finder was aligned with that in regulation 2 of the PCR 2015 (which includes the bodies listed in Schedule 1 to PCR 2015).",
+      "ordinal": 36,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "li",
+      "text": "For the purposes of Part 2 of the guidance, departments may include other Executive Agencies and bodies for which they are responsible, that are not explicitly listed in Schedule 1, as central government authorities and should encourage their wider families of Arms Length Bodies (ALBs) and Non Departmental Public Bodies (NDPBs) to adopt this transparency policy on a voluntary basis as appropriate. Departments should keep this coverage under review.",
+      "ordinal": 37,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "li",
+      "text": "The requirement to publish details of the award and the awarded contracts by central government authorities was amended from 20 days following the end of the ten-day standstill period (where applicable) to a fixed 30 calendar days from contract award date. This brought the timescale for publication of award information on Contracts Finder in line with requirements to publish contract award notices on FTS.",
+      "ordinal": 38,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "li",
+      "text": "Further clarity was provided for redactions, framework agreements and contract modifications.",
+      "ordinal": 39,
+      "heading_path": [
+        "Issue",
+        "Background"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "heading",
+      "text": "Contact",
+      "ordinal": 40,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "p",
+      "text": "Enquiries about this PPN should be directed to the Crown Commercial Service Helpdesk on 0345 410 2222 or info@crowncommercial.gov.uk .",
+      "ordinal": 41,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "The Public Contracts (Amendment) Regulations 2022",
+      "href": "https://www.legislation.gov.uk/uksi/2022/1390/made",
+      "block_id": "b00003",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "PPN 10/21 (pdf, 48.8 KB)",
+      "href": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1041964/Procurement_Policy_Note_10_21_-_New_Thresholds_Values_and_Inclusion_of_VAT_in_Contract_Estimates.pdf",
+      "block_id": "b00029",
+      "ordinal": 1,
+      "link_type": "ATTACHMENT"
+    },
+    {
+      "text": "info@crowncommercial.gov.uk",
+      "href": "mailto:info@crowncommercial.gov.uk",
+      "block_id": "b00041",
+      "ordinal": 2,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "Procurement Policy Note – update to legal and policy requirements to publish procurement information on Contracts Finder (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-0123-requirements-to-publish-on-contracts-finder/procurement-policy-note-update-to-legal-and-policy-requirements-to-publish-procurement-information-on-contracts-finder-html",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2022 to 2024 Sunak Conservative government",
+      "href": "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "PPN 01/23: Requirements to publish on Contracts Finder",
+      "href": "https://www.gov.uk/government/publications/ppn-0123-requirements-to-publish-on-contracts-finder",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 7,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015",
+      "block_id": "b00002",
+      "start": 163,
+      "end": 179,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2022",
+      "block_id": "b00003",
+      "start": 33,
+      "end": 49,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2022"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 6",
+      "block_id": "b00012",
+      "start": 113,
+      "end": 122,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "6"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 1(7)",
+      "block_id": "b00013",
+      "start": 131,
+      "end": 146,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "1",
+        "tail": "(7)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2013",
+      "block_id": "b00014",
+      "start": 182,
+      "end": 198,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2013"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 3",
+      "block_id": "b00016",
+      "start": 174,
+      "end": 183,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "3"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 5",
+      "block_id": "b00019",
+      "start": 95,
+      "end": 104,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "5"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 1(7)",
+      "block_id": "b00020",
+      "start": 130,
+      "end": 145,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "1",
+        "tail": "(7)"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 1",
+      "block_id": "b00030",
+      "start": 163,
+      "end": 173,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 109(2)(c)(i)",
+      "block_id": "b00031",
+      "start": 28,
+      "end": 51,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "109",
+        "tail": "(2)(c)(i)"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 1",
+      "block_id": "b00033",
+      "start": 206,
+      "end": 216,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 2",
+      "block_id": "b00036",
+      "start": 143,
+      "end": 155,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 1",
+      "block_id": "b00036",
+      "start": 209,
+      "end": 219,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 1",
+      "block_id": "b00037",
+      "start": 170,
+      "end": 180,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "1"
+      }
+    }
+  ],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1041964/Procurement_Policy_Note_10_21_-_New_Thresholds_Values_and_Inclusion_of_VAT_in_Contract_Estimates.pdf",
+      "title": "PPN 10/21 (pdf, 48.8 KB)",
+      "discovered_in_block": "b00029"
+    }
+  ],
+  "warnings": []
+}

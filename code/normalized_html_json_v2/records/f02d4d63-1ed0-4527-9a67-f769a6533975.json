@@ -1,0 +1,3116 @@
+{
+  "document_id": "f02d4d63-1ed0-4527-9a67-f769a6533975",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/62e7e66afb3e68ba4961b88e.json",
+  "input_sha256": "7279faef976f737a522c33444bc1b97442fd7d73acb59c4cfa3f1da5539b45ec",
+  "processed_at": "2026-08-27T02:26:20.365871+00:00",
+  "title": "PPN 015: How to take account of a supplier's approach to payment in the procurement of major contracts (Guidance) (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts-guidance-html",
+  "description": null,
+  "publication_date": "2024-12-03T12:00:02+00:00",
+  "updated_date": "2025-04-24T12:00:10+01:00",
+  "source_metadata": {
+    "content_id": "f02d4d63-1ed0-4527-9a67-f769a6533975",
+    "base_path": "/government/publications/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts-guidance-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Introduction",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Assessment methodology",
+      "ordinal": 4,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Self-declaration (questions 1 to 4)",
+      "ordinal": 7,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Payment performance (question 5)",
+      "ordinal": 10,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "1. Verification",
+      "ordinal": 29,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "2. Payment statistics and use of supply chain finance",
+      "ordinal": 35,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "3. Call-off contracts from framework agreements",
+      "ordinal": 40,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "4. Exemption process",
+      "ordinal": 43,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Annex A: Standard procurement questions",
+      "ordinal": 49,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Table 1: Questions",
+      "ordinal": 51,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Questions 1 to 4: Self-declarations",
+      "ordinal": 52,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Public sector contracts only – Requirement under the Procurement Act 2023 (Sections 68 and 73)",
+      "ordinal": 54,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "Public and private sector contracts",
+      "ordinal": 56,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "6. Table 2: Evidence requirements (questions 2 to 4)",
+      "ordinal": 58,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Annex B: FAQs",
+      "ordinal": 63,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "7. Groups of suppliers",
+      "ordinal": 64,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "1. How do these criteria apply to consortia bids?",
+      "ordinal": 65,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "8. New entrants",
+      "ordinal": 67,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "2. How do you assess a supplier’s payment history if it is new to the market or is a special purpose vehicle (SPV) or joint venture (JV) set up to deliver the contract?",
+      "ordinal": 68,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "9. Framework agreements",
+      "ordinal": 70,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "3. Does this criterion apply to framework agreements and dynamic markets)?",
+      "ordinal": 72,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "4. What if a framework or dynamic market was established before 24 February 2025, but contracts awarded under the framework/dynamic market take place after 24 February 2025 – which threshold applies?",
+      "ordinal": 74,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "5. If a DM was established before 24 February 2025 but is in place after this date, suppliers may continue to join the DM and will be required to answer a Procurement Specific Questionnaire. Do suppliers joining after 24 February 2025 have to meet the thresholds in the latest PPN?",
+      "ordinal": 76,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "6. What about an extension to the term of the framework, can these questions be added?",
+      "ordinal": 78,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "10. Supply chains",
+      "ordinal": 80,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "7. What happens if a supplier at the point of bidding does not have a supply chain/use sub-contractors, but does at a later stage?",
+      "ordinal": 81,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "8. How does this fit with a supply chain finance (or similar) scheme?",
+      "ordinal": 83,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "9. If an SME bids, does it have to respond?",
+      "ordinal": 85,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "11. Statutory reporting requirement – ‘Duty to Report’",
+      "ordinal": 87,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "10. What if a supplier has filed responses under the Reporting on Payment Practices and Performance Regulations 2017 – can this data be used?",
+      "ordinal": 88,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "11. What if the supplier is about to submit another six-monthly payment report shortly after the deadline for submitting the tender which would meet the required thresholds?",
+      "ordinal": 90,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "12. If a supplier who is not in scope of publishing payment data under the Reporting on Payment Practices and Performance Regulations 2017 submits a response to the tender in January 2026 (for example) is it expected to provide data covering the 12-month period from January 2025 to December 2026?",
+      "ordinal": 93,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "13. What if its parent company or another company within its group has filed responses – can this data be used?",
+      "ordinal": 98,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "14. What if the supplier’s response to question 5 does not match the payment data publicly available online?",
+      "ordinal": 100,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "15. If the supplier removes intercompany payments from the total headline figure, this figure won’t match its reported data under the Reporting on Payment Practices and Performance Regulations 2017?",
+      "ordinal": 102,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "16. When does the supplier start counting day 1 when calculating the number of days in which it pays invoices? When does the clock start? (taken from DBT guidance on reporting).",
+      "ordinal": 104,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "12. Invoices",
+      "ordinal": 106,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "17. When reporting the percentage of invoices and average days taken to pay does this include disputed invoices or is it undisputed invoices only?",
+      "ordinal": 107,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "18. Is the average calculation based solely on the number of invoices paid or is the value of invoices taken into account?",
+      "ordinal": 112,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "19. What if there is no invoice presented for payment? Should situations where payment is due but there is no invoice be counted?",
+      "ordinal": 114,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "13. Action Plans and the Fair Payment Code",
+      "ordinal": 120,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "22. If a supplier has already completed an action plan for the Small Business Commissioner (SBC) because it is not meeting the code’s standards can the same action plan be submitted?",
+      "ordinal": 121,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "23. If a supplier does not include some of the five key criteria within the action plan, will it still pass?",
+      "ordinal": 123,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "24. A supplier is expected to explain why it is not paying all its invoices within the agreed terms to pass. If it needs to submit an action plan, does it also need to set out what steps it is taking to rectify this situation?",
+      "ordinal": 125,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "25. If a supplier is suspended/removed from the Fair Payment Code does this mean it is excluded from the bid?",
+      "ordinal": 127,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "26. What about multinational deals – are these exempt from the measure? These are long-standing deals with other large firms where both parties are mutually content with the terms set.",
+      "ordinal": 129,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "27. What is the definition of supply chain for this measure?",
+      "ordinal": 132,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "13. Exemptions",
+      "ordinal": 134,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "title": "15. I am a central government authority, how do I request an exemption to this measure?",
+      "ordinal": 135,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "Introduction",
+      "ordinal": 0,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "1. This guidance supports Procurement Policy Note (PPN) 015 and sets out how payment approaches can be taken into account when awarding public contracts [footnote 1] for procuring goods and/or services and/or works, other than special regime contracts, [footnote 2] with an anticipated contract value above £5 million (including VAT) per year [footnote 3] under the Procurement Act 2023. A set of standard procurement questions can be found at Annex A.",
+      "ordinal": 1,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "2. This PPN replaces PPN 10/23. This guidance has been updated to reflect new terminology introduced by the Procurement Act 2023 and the Procurement Regulations 2024.",
+      "ordinal": 2,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "3. FAQs can be found in Annex B.",
+      "ordinal": 3,
+      "heading_path": [
+        "Introduction"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "heading",
+      "text": "Assessment methodology",
+      "ordinal": 4,
+      "heading_path": [
+        "Introduction",
+        "Assessment methodology"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "4. The key issue to be assessed via conditions of participation is whether a supplier that intends to use a supply chain to deliver the contract has effective payment systems in place to ensure the reliability of that supply chain.",
+      "ordinal": 5,
+      "heading_path": [
+        "Introduction",
+        "Assessment methodology"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "p",
+      "text": "5. Under this measure, a bidding supplier should be deselected if it fails to meet the conditions of participation. This includes taking into account the self-declarations, an assessment of its systems, and recent payment performance. A bidding supplier should also be deselected if it is unable to verify its self-declarations with the required evidence.",
+      "ordinal": 6,
+      "heading_path": [
+        "Introduction",
+        "Assessment methodology"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "heading",
+      "text": "Self-declaration (questions 1 to 4)",
+      "ordinal": 7,
+      "heading_path": [
+        "Introduction",
+        "Self-declaration (questions 1 to 4)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "6. Question 1 is for information only and will not be scored. If the answer to question 1 is ‘No’, the supplier is not required to answer the remaining questions.",
+      "ordinal": 8,
+      "heading_path": [
+        "Introduction",
+        "Self-declaration (questions 1 to 4)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "7. Questions 2, 3 and 4 should be assessed on a pass/fail basis based on self-declarations by the supplier.",
+      "ordinal": 9,
+      "heading_path": [
+        "Introduction",
+        "Self-declaration (questions 1 to 4)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "heading",
+      "text": "Payment performance (question 5)",
+      "ordinal": 10,
+      "heading_path": [
+        "Introduction",
+        "Payment performance (question 5)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "8. Contracting authorities must assess the supplier’s responses to question 5 to determine whether it has an effective and reliable supply chain management system in place. This is done by looking at two aspects of the supply chain management system:",
+      "ordinal": 11,
+      "heading_path": [
+        "Introduction",
+        "Payment performance (question 5)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "li",
+      "text": "whether the supplier has paid its suppliers following the contractual terms that it applies to its supply chain; and",
+      "ordinal": 12,
+      "heading_path": [
+        "Introduction",
+        "Payment performance (question 5)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "li",
+      "text": "whether, overall, the supplier has paid its suppliers promptly by: paying at least 95% (at least 90% if an action plan is provided) of invoices within 60 days, which is considered an appropriate measure of overall payment promptness, and; meeting the average payment days threshold of at least 55 days for all invoices",
+      "ordinal": 13,
+      "heading_path": [
+        "Introduction",
+        "Payment performance (question 5)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "li",
+      "text": "paying at least 95% (at least 90% if an action plan is provided) of invoices within 60 days, which is considered an appropriate measure of overall payment promptness, and;",
+      "ordinal": 14,
+      "heading_path": [
+        "Introduction",
+        "Payment performance (question 5)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "li",
+      "text": "meeting the average payment days threshold of at least 55 days for all invoices",
+      "ordinal": 15,
+      "heading_path": [
+        "Introduction",
+        "Payment performance (question 5)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "9. Subject to paragraph 10, question 5 should be measured over 12 months and the supplier must demonstrate that it meets simultaneously the required standard of paying its supply chain within agreed terms, paying at least 95% (at least 90% if an action plan is provided) of invoices within 60 days, and meet the average payment threshold of 55 days or fewer for all invoices in at least one of the two previous six month periods (‘reporting periods’). [footnote 4]",
+      "ordinal": 16,
+      "heading_path": [
+        "Introduction",
+        "Payment performance (question 5)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "10. Where the supplier has reported payment data every six months per the Reporting on Payment Practices and Performance Regulations 2017, the two most recent reports can be submitted in response to question 5. If the supplier has more recent data for the previous three or more months which has not been reported under the regulations this can also be submitted as a reporting period. If a supplier is not required to publish data under the regulations, it should still submit the available data for the previous 12 months in two (six-month) periods, in line with the DBT Guidance to Reporting Payment Practices and Performance.",
+      "ordinal": 17,
+      "heading_path": [
+        "Introduction",
+        "Payment performance (question 5)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "p",
+      "text": "11. For question 5(c), if the supplier has not paid all invoices within the agreed contractual terms in at least one reporting period, it must explain why to pass. If the supplier needs to submit an action plan under 5(d), that plan must also cover what actions it is taking to improve payment of its suppliers within the agreed terms.",
+      "ordinal": 18,
+      "heading_path": [
+        "Introduction",
+        "Payment performance (question 5)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "12. The assessment methodology to be applied when assessing 5(c) is set out below. You must ensure this is included in the tender documentation so that suppliers are aware of the assessment criteria and methodology.",
+      "ordinal": 19,
+      "heading_path": [
+        "Introduction",
+        "Payment performance (question 5)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "table",
+      "text": "Supplier’s performance\tAssessment criteria and methodology\tOutcome\nSupplier pays all supply chain invoices within agreed terms.\tSupplier meets the required standard.\tPass\nSupplier does not pay all supply chain invoices within agreed terms but provides an explanation why.\tSupplier meets the required standard.\tPass\nSupplier does not pay all supply chain invoices within agreed terms and does not provide an explanation why.\tSupplier does not meet the required standard.\tFail",
+      "ordinal": 20,
+      "heading_path": [
+        "Introduction",
+        "Payment performance (question 5)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {
+        "rows": [
+          [
+            "Supplier’s performance",
+            "Assessment criteria and methodology",
+            "Outcome"
+          ],
+          [
+            "Supplier pays all supply chain invoices within agreed terms.",
+            "Supplier meets the required standard.",
+            "Pass"
+          ],
+          [
+            "Supplier does not pay all supply chain invoices within agreed terms but provides an explanation why.",
+            "Supplier meets the required standard.",
+            "Pass"
+          ],
+          [
+            "Supplier does not pay all supply chain invoices within agreed terms and does not provide an explanation why.",
+            "Supplier does not meet the required standard.",
+            "Fail"
+          ]
+        ],
+        "row_count": 4
+      }
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "13. For question 5(d), if the supplier has not met the required standard of paying 95% or more of all invoices in 60 days in at least one reporting period, it will still pass provided:",
+      "ordinal": 21,
+      "heading_path": [
+        "Introduction",
+        "Payment performance (question 5)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "li",
+      "text": "after the supplier has removed intercompany payments from the calculations, it pays 95% or more of all invoices within 60 days in at least one of the previous two reporting periods",
+      "ordinal": 22,
+      "heading_path": [
+        "Introduction",
+        "Payment performance (question 5)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "li",
+      "text": "the supplier has paid between 90% and 95% of all its invoices within 60 days in at least one of the previous two reporting periods (after removing intercompany payments if relevant) and it demonstrates that it has a compliant action plan to achieve the required standard in future",
+      "ordinal": 23,
+      "heading_path": [
+        "Introduction",
+        "Payment performance (question 5)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "li",
+      "text": "the supplier is a new entrant to the market (trading for less than 12 months). In these circumstances, suppliers should not be disadvantaged and should therefore pass question 5 - the supplier is still expected to respond to questions 1 to 4 to pass",
+      "ordinal": 24,
+      "heading_path": [
+        "Introduction",
+        "Payment performance (question 5)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "p",
+      "text": "14. The assessment methodology to be applied when assessing question 5(d) is set out below. You must ensure this is included in the tender documentation so that suppliers are aware of the assessment criteria and methodology. For the avoidance of doubt, suppliers must meet both of the below criteria simultaneously in one of the last two reporting periods (after removing intercompany payments):",
+      "ordinal": 25,
+      "heading_path": [
+        "Introduction",
+        "Payment performance (question 5)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "p",
+      "text": "a. supplier pays 95% or more of its invoices in 60 days (90% plus if a valid action plan has been provided)",
+      "ordinal": 26,
+      "heading_path": [
+        "Introduction",
+        "Payment performance (question 5)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "p",
+      "text": "b. supplier has paid all of its invoices in an average of 55 days or fewer",
+      "ordinal": 27,
+      "heading_path": [
+        "Introduction",
+        "Payment performance (question 5)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "table",
+      "text": "Supplier’s performance\tAssessment criteria and methodology\tOutcome\nSupplier pays at least 95% of all supply chain invoices in 60 days (90% or more if a valid action plan has been provided) and the supplier’s average payment time is 55 days or fewer [footnote 5] . Both metrics are hit concurrently in at least one of the previous two six-month reporting periods.\tSupplier meets the required standard.\tPass",
+      "ordinal": 28,
+      "heading_path": [
+        "Introduction",
+        "Payment performance (question 5)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {
+        "rows": [
+          [
+            "Supplier’s performance",
+            "Assessment criteria and methodology",
+            "Outcome"
+          ],
+          [
+            "Supplier pays at least 95% of all supply chain invoices in 60 days (90% or more if a valid action plan has been provided) and the supplier’s average payment time is 55 days or fewer [footnote 5] . Both metrics are hit concurrently in at least one of the previous two six-month reporting periods.",
+            "Supplier meets the required standard.",
+            "Pass"
+          ]
+        ],
+        "row_count": 2
+      }
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "heading",
+      "text": "1. Verification",
+      "ordinal": 29,
+      "heading_path": [
+        "Introduction",
+        "Payment performance (question 5)",
+        "1. Verification"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "p",
+      "text": "15. Contracting authorities must verify or cross-reference (see paragraphs 17 and 18) that the successful bidder meets the selection criteria before awarding the contract or appointment to a framework agreement or dynamic market by requiring the evidence set out in Annex A. Contracting authorities may request this evidence at any time during the procurement process. For multi-stage procurements, contracting authorities may want to consider verifying or cross-referencing the evidence before taking bidders on to the next stage. For contracts awarded under a framework agreement or dynamic market, contracting authorities should ensure that the bidder continues to meet the selection criteria before entering into any contract awarded under a framework agreement or dynamic purchasing system.",
+      "ordinal": 30,
+      "heading_path": [
+        "Introduction",
+        "Payment performance (question 5)",
+        "1. Verification"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "p",
+      "text": "16. Contracting authorities should not require a bidder to provide further evidence where it can be obtained directly and free of charge by the contracting authority from a national database (although it is not unreasonable for the bidder to be required to provide details of how to access that database).",
+      "ordinal": 31,
+      "heading_path": [
+        "Introduction",
+        "Payment performance (question 5)",
+        "1. Verification"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "p",
+      "text": "17. To cross-reference data a supplier has provided in answer to question 5, the contracting authority may use data published online under the Reporting on Payment Practices and Performance Regulations 2017.",
+      "ordinal": 32,
+      "heading_path": [
+        "Introduction",
+        "Payment performance (question 5)",
+        "1. Verification"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "p",
+      "text": "18. If a supplier has not published data under the Reporting on Payment Practices and Performance Regulations 2017 and a Contracting authority has reason to believe it is in scope of these regulations, it should consider further investigation of the supplier and its payment performance.",
+      "ordinal": 33,
+      "heading_path": [
+        "Introduction",
+        "Payment performance (question 5)",
+        "1. Verification"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "p",
+      "text": "19. As set out in the procurement specific questionnaire, if bidders provide false/ misleading information in their responses, they may face sanctions, including exclusion from the procurement and bidding for other contracts for between three and five years (depending on the circumstances), rescission of any contract that had been entered into, damages and in some cases criminal prosecution.",
+      "ordinal": 34,
+      "heading_path": [
+        "Introduction",
+        "Payment performance (question 5)",
+        "1. Verification"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "heading",
+      "text": "2. Payment statistics and use of supply chain finance",
+      "ordinal": 35,
+      "heading_path": [
+        "Introduction",
+        "Payment performance (question 5)",
+        "2. Payment statistics and use of supply chain finance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "p",
+      "text": "20. Contracting authorities are reminded that a supplier should follow the approach set out below in reporting its payment data where supply chain finance is used (i.e the supplier receives payment from a finance provider or other third party rather than from the supplier itself):",
+      "ordinal": 36,
+      "heading_path": [
+        "Introduction",
+        "Payment performance (question 5)",
+        "2. Payment statistics and use of supply chain finance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "p",
+      "text": "a. a supplier must confirm that it meets the payment terms set out in question 4 and demonstrate that it meets the standard set out in question 5. If a subcontractor to the supplier chooses to enter into a supply chain finance arrangement to be paid earlier than the payment terms set out in question 4 or the standard set out in question 5, then that would be acceptable and a matter for the subcontractor.",
+      "ordinal": 37,
+      "heading_path": [
+        "Introduction",
+        "Payment performance (question 5)",
+        "2. Payment statistics and use of supply chain finance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "p",
+      "text": "b. a supplier should not be required to enter into a supply chain finance arrangement for the payment terms (set out in question 4) or period in which payment is actually made (as reported under question 5(a)) to meet the required standards.",
+      "ordinal": 38,
+      "heading_path": [
+        "Introduction",
+        "Payment performance (question 5)",
+        "2. Payment statistics and use of supply chain finance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "p",
+      "text": "c. see FAQs for further information on how suppliers are expected to calculate payment reporting statistics if supply chain finance is used.",
+      "ordinal": 39,
+      "heading_path": [
+        "Introduction",
+        "Payment performance (question 5)",
+        "2. Payment statistics and use of supply chain finance"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "heading",
+      "text": "3. Call-off contracts from framework agreements",
+      "ordinal": 40,
+      "heading_path": [
+        "Introduction",
+        "Payment performance (question 5)",
+        "3. Call-off contracts from framework agreements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "p",
+      "text": "21. In answering question 1 when bidding for appointment to framework agreements, a supplier must confirm if it intends to use a supply chain to deliver any call-off contract that may be awarded under the framework agreement. If a supplier does not propose to use a supply chain, but during the procurement of a call-off contract its circumstances change such that it then proposes to do so, it must advise the authority immediately. Where such a change is permissible in the circumstances, the supplier must be assessed against the relevant conditions of participation and provide the additional information required, including the relevant payment data (applicable at the time the call-off tender is submitted). The authority should assess the data provided in the usual way.",
+      "ordinal": 41,
+      "heading_path": [
+        "Introduction",
+        "Payment performance (question 5)",
+        "3. Call-off contracts from framework agreements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "p",
+      "text": "22. Authorities may also consider whether they would like to include a mechanism to deal with deterioration in payment performance after a supplier has been appointed to a framework agreement. For example, it may wish to suspend the award of any further work under the framework agreement until the supplier’s performance returns to the required standard. If so, any such mechanism must be set out in the framework agreement.",
+      "ordinal": 42,
+      "heading_path": [
+        "Introduction",
+        "Payment performance (question 5)",
+        "3. Call-off contracts from framework agreements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "heading",
+      "text": "4. Exemption process",
+      "ordinal": 43,
+      "heading_path": [
+        "Introduction",
+        "Payment performance (question 5)",
+        "4. Exemption process"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "p",
+      "text": "23. In exceptional circumstances, it may not be relevant or proportionate (having regard to the nature, cost and complexity of the contract) to apply this PPN. Exceptional circumstances may include:",
+      "ordinal": 44,
+      "heading_path": [
+        "Introduction",
+        "Payment performance (question 5)",
+        "4. Exemption process"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "li",
+      "text": "where the market for a contract of this type is distorted, narrowed, or struggling to such a significant extent that delivery of public services is likely put at risk, or value for money is likely to be severely compromised",
+      "ordinal": 45,
+      "heading_path": [
+        "Introduction",
+        "Payment performance (question 5)",
+        "4. Exemption process"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "li",
+      "text": "where there is a civil emergency",
+      "ordinal": 46,
+      "heading_path": [
+        "Introduction",
+        "Payment performance (question 5)",
+        "4. Exemption process"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "p",
+      "text": "24. Should a central government authority wish to seek an exemption they must contact the Commercial Policy Team in Cabinet Office with an evidence-based rationale for the exemption request, and an alternative measure should be proposed to improve payment performance in the specific market area. Cabinet Office will then liaise with the contracting authority before deciding on whether to recommend the exemption to the minister. An exemption can only be agreed by the relevant Cabinet Office minister.",
+      "ordinal": 47,
+      "heading_path": [
+        "Introduction",
+        "Payment performance (question 5)",
+        "4. Exemption process"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "p",
+      "text": "25. No exemption should be requested without a Cabinet Office recommendation, which will handle the submission process.",
+      "ordinal": 48,
+      "heading_path": [
+        "Introduction",
+        "Payment performance (question 5)",
+        "4. Exemption process"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "heading",
+      "text": "Annex A: Standard procurement questions",
+      "ordinal": 49,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Standard procurement questions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00050",
+      "block_type": "p",
+      "text": "If you intend to use a supply chain for this contract, you must demonstrate you have effective systems in place to ensure a reliable supply chain. This criteria is focused on exploring your payment systems. If your response to question 1 is that you do not intend to use a supply chain for this contract, you are not required to complete the rest of this section.",
+      "ordinal": 50,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Standard procurement questions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00051",
+      "block_type": "heading",
+      "text": "Table 1: Questions",
+      "ordinal": 51,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Standard procurement questions",
+        "Table 1: Questions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00052",
+      "block_type": "heading",
+      "text": "Questions 1 to 4: Self-declarations",
+      "ordinal": 52,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Standard procurement questions",
+        "Table 1: Questions",
+        "Questions 1 to 4: Self-declarations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00053",
+      "block_type": "table",
+      "text": "Question number\tQuestion\tResponse\n1\tPlease confirm if you intend to use a supply chain [footnote 6] for this contract or (if relevant) to deliver any call-off contract that may be awarded under this framework agreement. If you answer “No” you do not need to complete the rest of this section. [Information only]\tYes/No Not scored\n2\tPlease confirm that you have systems in place to pay those in your supply chain promptly and effectively, i.e. within your agreed contractual terms.\tYes/No Pass/fail\n3\tPlease confirm you have procedures for resolving disputed invoices with those in your supply chain promptly and effectively. [footnote 7]\tYes/No Pass/fail",
+      "ordinal": 53,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Standard procurement questions",
+        "Table 1: Questions",
+        "Questions 1 to 4: Self-declarations"
+      ],
+      "source_locator": "details.body",
+      "metadata": {
+        "rows": [
+          [
+            "Question number",
+            "Question",
+            "Response"
+          ],
+          [
+            "1",
+            "Please confirm if you intend to use a supply chain [footnote 6] for this contract or (if relevant) to deliver any call-off contract that may be awarded under this framework agreement. If you answer “No” you do not need to complete the rest of this section. [Information only]",
+            "Yes/No Not scored"
+          ],
+          [
+            "2",
+            "Please confirm that you have systems in place to pay those in your supply chain promptly and effectively, i.e. within your agreed contractual terms.",
+            "Yes/No Pass/fail"
+          ],
+          [
+            "3",
+            "Please confirm you have procedures for resolving disputed invoices with those in your supply chain promptly and effectively. [footnote 7]",
+            "Yes/No Pass/fail"
+          ]
+        ],
+        "row_count": 4
+      }
+    },
+    {
+      "block_id": "b00054",
+      "block_type": "heading",
+      "text": "Public sector contracts only – Requirement under the Procurement Act 2023 (Sections 68 and 73)",
+      "ordinal": 54,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Standard procurement questions",
+        "Table 1: Questions",
+        "Public sector contracts only – Requirement under the Procurement Act 2023 (Sections 68 and 73)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00055",
+      "block_type": "table",
+      "text": "Question number\tQuestion\tResponse\n4\tPlease confirm that for public sector contracts awarded under the Procurement Act 2023 you have systems in place to include (as a minimum) 30-day payment terms in all of your supply chain contracts and require that such terms are passed down through your supply chain.\tYes/No Pass/fail",
+      "ordinal": 55,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Standard procurement questions",
+        "Table 1: Questions",
+        "Public sector contracts only – Requirement under the Procurement Act 2023 (Sections 68 and 73)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {
+        "rows": [
+          [
+            "Question number",
+            "Question",
+            "Response"
+          ],
+          [
+            "4",
+            "Please confirm that for public sector contracts awarded under the Procurement Act 2023 you have systems in place to include (as a minimum) 30-day payment terms in all of your supply chain contracts and require that such terms are passed down through your supply chain.",
+            "Yes/No Pass/fail"
+          ]
+        ],
+        "row_count": 2
+      }
+    },
+    {
+      "block_id": "b00056",
+      "block_type": "heading",
+      "text": "Public and private sector contracts",
+      "ordinal": 56,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Standard procurement questions",
+        "Table 1: Questions",
+        "Public and private sector contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00057",
+      "block_type": "table",
+      "text": "Question number\tQuestion\tResponse\n5\t(a) Please provide the percentage of invoices [footnote 6] paid by you to those in your immediate supply chain on all contracts for each of the two previous six-month reporting periods. [footnote 8] This should include the percentage of invoices paid within each of the following categories: 1. within 30 days 2. in 31 to 60 days 3. in 61 days or more 4. due but not paid by the last date for payment under agreed contractual terms (b) Please provide the average number of days taken by you to pay an invoice to those in your immediate supply chain on all contracts for each of the two previous six-month reporting periods. It is acceptable to cross refer to information that has previously been submitted to government or other bodies or is publicly available (provided it covers the required reporting periods), including data published in accordance with the Reporting on Payment Practices and Performance Regulations 2017. If you do wish to cross-refer, please provide details and/or insert link(s). (c) If you are unable to demonstrate that all invoices have been paid within the agreed contractual terms, please explain why. Note: if you are required to submit an action plan under question 5(d), this action plan must also set out steps to address your payment within agreed terms, to achieve a pass for question 5(d). (d) If you are unable to demonstrate that at least 95% of invoices payable to your supply chain on all contracts have been paid within 60 days of the receipt of the invoice in at least one of the last two six-month reporting periods, please provide an action plan for improvement which includes (as a minimum) the following: 1. Identification of the primary causes of failure to pay: - 95% of all supply chain invoices within 60 days; and - if relevant under question 5(c), all invoices within agreed terms 2. Actions to address each of these causes. 3. A mechanism for and commitment to regular reporting on progress to the supplier’s audit committee (or equivalent). 4. Plan signed off by director. 5. Plan published on its website (this can be a shorter summary plan). If you have an existing action plan prepared for a different purpose, it is acceptable to attach this but it should contain the above features.\t-",
+      "ordinal": 57,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Standard procurement questions",
+        "Table 1: Questions",
+        "Public and private sector contracts"
+      ],
+      "source_locator": "details.body",
+      "metadata": {
+        "rows": [
+          [
+            "Question number",
+            "Question",
+            "Response"
+          ],
+          [
+            "5",
+            "(a) Please provide the percentage of invoices [footnote 6] paid by you to those in your immediate supply chain on all contracts for each of the two previous six-month reporting periods. [footnote 8] This should include the percentage of invoices paid within each of the following categories: 1. within 30 days 2. in 31 to 60 days 3. in 61 days or more 4. due but not paid by the last date for payment under agreed contractual terms (b) Please provide the average number of days taken by you to pay an invoice to those in your immediate supply chain on all contracts for each of the two previous six-month reporting periods. It is acceptable to cross refer to information that has previously been submitted to government or other bodies or is publicly available (provided it covers the required reporting periods), including data published in accordance with the Reporting on Payment Practices and Performance Regulations 2017. If you do wish to cross-refer, please provide details and/or insert link(s). (c) If you are unable to demonstrate that all invoices have been paid within the agreed contractual terms, please explain why. Note: if you are required to submit an action plan under question 5(d), this action plan must also set out steps to address your payment within agreed terms, to achieve a pass for question 5(d). (d) If you are unable to demonstrate that at least 95% of invoices payable to your supply chain on all contracts have been paid within 60 days of the receipt of the invoice in at least one of the last two six-month reporting periods, please provide an action plan for improvement which includes (as a minimum) the following: 1. Identification of the primary causes of failure to pay: - 95% of all supply chain invoices within 60 days; and - if relevant under question 5(c), all invoices within agreed terms 2. Actions to address each of these causes. 3. A mechanism for and commitment to regular reporting on progress to the supplier’s audit committee (or equivalent). 4. Plan signed off by director. 5. Plan published on its website (this can be a shorter summary plan). If you have an existing action plan prepared for a different purpose, it is acceptable to attach this but it should contain the above features.",
+            "-"
+          ]
+        ],
+        "row_count": 2
+      }
+    },
+    {
+      "block_id": "b00058",
+      "block_type": "heading",
+      "text": "6. Table 2: Evidence requirements (questions 2 to 4)",
+      "ordinal": 58,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Standard procurement questions",
+        "6. Table 2: Evidence requirements (questions 2 to 4)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00059",
+      "block_type": "p",
+      "text": "Evidence for self-declarations (questions 2 to 4): Prior to contract award the following evidence will be required from the successful supplier (where the supplier has answered ‘Yes’ to question 1 above) to verify the supplier’s responses",
+      "ordinal": 59,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Standard procurement questions",
+        "6. Table 2: Evidence requirements (questions 2 to 4)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00060",
+      "block_type": "table",
+      "text": "Question\tEvidence\n2\tA copy of your standard payment terms for all of your supply chain contracts.\n3\tA copy of your procedures for resolving disputed invoices promptly and effectively.\n3\tDetails of any payments of interest for late payments you have paid in the past 12 months or which became due during the past 12 months and remain payable (contractually or under late payment legislation) and, if any such payment has been made (or arose), an explanation as to why this occurred and an outline of what remedial steps have been taken to ensure this does not occur again.\n4\tA copy of your standard payment terms used with sub-contractors on public sector contracts subject to the Procurement Act 2023",
+      "ordinal": 60,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Standard procurement questions",
+        "6. Table 2: Evidence requirements (questions 2 to 4)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {
+        "rows": [
+          [
+            "Question",
+            "Evidence"
+          ],
+          [
+            "2",
+            "A copy of your standard payment terms for all of your supply chain contracts."
+          ],
+          [
+            "3",
+            "A copy of your procedures for resolving disputed invoices promptly and effectively."
+          ],
+          [
+            "3",
+            "Details of any payments of interest for late payments you have paid in the past 12 months or which became due during the past 12 months and remain payable (contractually or under late payment legislation) and, if any such payment has been made (or arose), an explanation as to why this occurred and an outline of what remedial steps have been taken to ensure this does not occur again."
+          ],
+          [
+            "4",
+            "A copy of your standard payment terms used with sub-contractors on public sector contracts subject to the Procurement Act 2023"
+          ]
+        ],
+        "row_count": 5
+      }
+    },
+    {
+      "block_id": "b00061",
+      "block_type": "p",
+      "text": "Evidence for prompt payment performance (question 5): Prior to contract award the Contracting authority may cross-reference the data provided for this question with data published online under the Reporting on Payment Practices and Performance Regulations 2017.",
+      "ordinal": 61,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Standard procurement questions",
+        "6. Table 2: Evidence requirements (questions 2 to 4)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00062",
+      "block_type": "table",
+      "text": "Question\tEvidence\n5\tA link to your data published online under the Reporting on Payment Practices and Performance Regulations 2017 if you are required to publish under these regulations.",
+      "ordinal": 62,
+      "heading_path": [
+        "Introduction",
+        "Annex A: Standard procurement questions",
+        "6. Table 2: Evidence requirements (questions 2 to 4)"
+      ],
+      "source_locator": "details.body",
+      "metadata": {
+        "rows": [
+          [
+            "Question",
+            "Evidence"
+          ],
+          [
+            "5",
+            "A link to your data published online under the Reporting on Payment Practices and Performance Regulations 2017 if you are required to publish under these regulations."
+          ]
+        ],
+        "row_count": 2
+      }
+    },
+    {
+      "block_id": "b00063",
+      "block_type": "heading",
+      "text": "Annex B: FAQs",
+      "ordinal": 63,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00064",
+      "block_type": "heading",
+      "text": "7. Groups of suppliers",
+      "ordinal": 64,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "7. Groups of suppliers"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00065",
+      "block_type": "heading",
+      "text": "1. How do these criteria apply to consortia bids?",
+      "ordinal": 65,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "7. Groups of suppliers",
+        "1. How do these criteria apply to consortia bids?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00066",
+      "block_type": "p",
+      "text": "All members of a consortium are required to provide the information required. See the Procurement Specific Questionnaire (PSQ) for further guidance on groups of suppliers.",
+      "ordinal": 66,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "7. Groups of suppliers",
+        "1. How do these criteria apply to consortia bids?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00067",
+      "block_type": "heading",
+      "text": "8. New entrants",
+      "ordinal": 67,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "8. New entrants"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00068",
+      "block_type": "heading",
+      "text": "2. How do you assess a supplier’s payment history if it is new to the market or is a special purpose vehicle (SPV) or joint venture (JV) set up to deliver the contract?",
+      "ordinal": 68,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "8. New entrants",
+        "2. How do you assess a supplier’s payment history if it is new to the market or is a special purpose vehicle (SPV) or joint venture (JV) set up to deliver the contract?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00069",
+      "block_type": "p",
+      "text": "Any supplier (e.g. new entrants, SPVs or JVs) which does not have a payment history record (as required by question 5) should not be disadvantaged in the procurement and can explain its circumstances in its responses. A new entrant to the market will still be expected to demonstrate that it meets or (in the case of a supplier that has not yet traded) will meet the requirements of questions 2, 3 and 4 (if relevant). For a JV, formed of a group of independent organisations, all members of the JV should each respond to the questions (see question 1).",
+      "ordinal": 69,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "8. New entrants",
+        "2. How do you assess a supplier’s payment history if it is new to the market or is a special purpose vehicle (SPV) or joint venture (JV) set up to deliver the contract?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00070",
+      "block_type": "heading",
+      "text": "9. Framework agreements",
+      "ordinal": 70,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "9. Framework agreements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00071",
+      "block_type": "p",
+      "text": "The following section applies to framework agreements or dynamic markets (referred to as Dynamic Purchasing Systems prior to the commencement of the Procurement Act on 24 February 2025).",
+      "ordinal": 71,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "9. Framework agreements"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00072",
+      "block_type": "heading",
+      "text": "3. Does this criterion apply to framework agreements and dynamic markets)?",
+      "ordinal": 72,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "9. Framework agreements",
+        "3. Does this criterion apply to framework agreements and dynamic markets)?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00073",
+      "block_type": "p",
+      "text": "Yes. It applies to framework agreements and dynamic markets (DM) but only where it is anticipated that the value of individual contracts awarded under the framework agreement or DM will be more than £5 million per year (including VAT). Verification should take place both before entering into the framework agreement/DM and before entering into any contract awarded under the framework agreement/DM. Terms should be included in the framework agreement to allow for this.",
+      "ordinal": 73,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "9. Framework agreements",
+        "3. Does this criterion apply to framework agreements and dynamic markets)?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00074",
+      "block_type": "heading",
+      "text": "4. What if a framework or dynamic market was established before 24 February 2025, but contracts awarded under the framework/dynamic market take place after 24 February 2025 – which threshold applies?",
+      "ordinal": 74,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "9. Framework agreements",
+        "4. What if a framework or dynamic market was established before 24 February 2025, but contracts awarded under the framework/dynamic market take place after 24 February 2025 – which threshold applies?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00075",
+      "block_type": "p",
+      "text": "The payment questions and relevant threshold are applied as part of the conditions for membership. If the framework/DM was advertised before 24 February 2025, then PPN 10/23 would apply throughout the period of the framework/DM – regardless of whether contracts awarded under that framework/DM occur after 24 February 2025. PPN 015 applies to framework agreements and dynamic markets established on or after 24 February 2025.",
+      "ordinal": 75,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "9. Framework agreements",
+        "4. What if a framework or dynamic market was established before 24 February 2025, but contracts awarded under the framework/dynamic market take place after 24 February 2025 – which threshold applies?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00076",
+      "block_type": "heading",
+      "text": "5. If a DM was established before 24 February 2025 but is in place after this date, suppliers may continue to join the DM and will be required to answer a Procurement Specific Questionnaire. Do suppliers joining after 24 February 2025 have to meet the thresholds in the latest PPN?",
+      "ordinal": 76,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "9. Framework agreements",
+        "5. If a DM was established before 24 February 2025 but is in place after this date, suppliers may continue to join the DM and will be required to answer a Procurement Specific Questionnaire. Do suppliers joining after 24 February 2025 have to meet the thresholds in the latest PPN?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00077",
+      "block_type": "p",
+      "text": "No. The same threshold must be applied consistently throughout the DM. If the DM is advertised before 24 February 2025, PPN 10/23 applies throughout the DM, including to suppliers applying to join the DM after 24 February 2025.",
+      "ordinal": 77,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "9. Framework agreements",
+        "5. If a DM was established before 24 February 2025 but is in place after this date, suppliers may continue to join the DM and will be required to answer a Procurement Specific Questionnaire. Do suppliers joining after 24 February 2025 have to meet the thresholds in the latest PPN?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00078",
+      "block_type": "heading",
+      "text": "6. What about an extension to the term of the framework, can these questions be added?",
+      "ordinal": 78,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "9. Framework agreements",
+        "6. What about an extension to the term of the framework, can these questions be added?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00079",
+      "block_type": "p",
+      "text": "No. You cannot assess payment performance in the event of an extension to the term of the framework. Payment performance can only be assessed at the beginning of the procurement process.",
+      "ordinal": 79,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "9. Framework agreements",
+        "6. What about an extension to the term of the framework, can these questions be added?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00080",
+      "block_type": "heading",
+      "text": "10. Supply chains",
+      "ordinal": 80,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "10. Supply chains"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00081",
+      "block_type": "heading",
+      "text": "7. What happens if a supplier at the point of bidding does not have a supply chain/use sub-contractors, but does at a later stage?",
+      "ordinal": 81,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "10. Supply chains",
+        "7. What happens if a supplier at the point of bidding does not have a supply chain/use sub-contractors, but does at a later stage?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00082",
+      "block_type": "p",
+      "text": "If this occurs after the procurement has concluded then this is not relevant because the contract will have already been awarded, although contract managers will still be expected to monitor compliance with the Procurement Act 2023 and meet relevant best practice guidance. If this occurs before the contract is awarded (and is permissible in the particular circumstances), the supplier should be asked to respond to the questions (to the extent that it can, given that it may not have a history of payments to a supply chain/sub-contractors (see question 2)).",
+      "ordinal": 82,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "10. Supply chains",
+        "7. What happens if a supplier at the point of bidding does not have a supply chain/use sub-contractors, but does at a later stage?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00083",
+      "block_type": "heading",
+      "text": "8. How does this fit with a supply chain finance (or similar) scheme?",
+      "ordinal": 83,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "10. Supply chains",
+        "8. How does this fit with a supply chain finance (or similar) scheme?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00084",
+      "block_type": "p",
+      "text": "A supplier must demonstrate that it meets the payment terms in question 4 and the standard in question 5. If a subcontractor to the supplier chooses to enter into a supply chain finance agreement to be paid earlier than the payment terms in question 4 or the standard in question 5 then that would be acceptable and a matter for the subcontractor. However, suppliers should not be required to do so for the payment terms or period for payment to meet the required standard. This is consistent with the reporting requirements under the Small Business, Enterprise and Employment Act 2015 (SBEE) and the Limited Liability Partnerships Act 2000 (LLPA). Further guidance",
+      "ordinal": 84,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "10. Supply chains",
+        "8. How does this fit with a supply chain finance (or similar) scheme?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00085",
+      "block_type": "heading",
+      "text": "9. If an SME bids, does it have to respond?",
+      "ordinal": 85,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "10. Supply chains",
+        "9. If an SME bids, does it have to respond?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00086",
+      "block_type": "p",
+      "text": "Yes, these questions apply to any supplier regardless of size who bids for a public contract in excess of £5 million per year (including VAT) from 24 February 2025. A smaller supplier may not have published data available via the DBT reporting requirements. However, if it is using a supply chain to deliver the contract it is still expected to respond to the questions and to meet the required standard.",
+      "ordinal": 86,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "10. Supply chains",
+        "9. If an SME bids, does it have to respond?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00087",
+      "block_type": "heading",
+      "text": "11. Statutory reporting requirement – ‘Duty to Report’",
+      "ordinal": 87,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "11. Statutory reporting requirement – ‘Duty to Report’"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00088",
+      "block_type": "heading",
+      "text": "10. What if a supplier has filed responses under the Reporting on Payment Practices and Performance Regulations 2017 – can this data be used?",
+      "ordinal": 88,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "11. Statutory reporting requirement – ‘Duty to Report’",
+        "10. What if a supplier has filed responses under the Reporting on Payment Practices and Performance Regulations 2017 – can this data be used?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00089",
+      "block_type": "p",
+      "text": "Yes, provided it reflects the last two six-month periods. The data may still be cross-referenced by the Contracting authority as described in the guidance. Similarly, if bidders have filed/published data as part of any other requirement, code, etc., this can be used provided it reflects the last two six-month periods.",
+      "ordinal": 89,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "11. Statutory reporting requirement – ‘Duty to Report’",
+        "10. What if a supplier has filed responses under the Reporting on Payment Practices and Performance Regulations 2017 – can this data be used?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00090",
+      "block_type": "heading",
+      "text": "11. What if the supplier is about to submit another six-monthly payment report shortly after the deadline for submitting the tender which would meet the required thresholds?",
+      "ordinal": 90,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "11. Statutory reporting requirement – ‘Duty to Report’",
+        "11. What if the supplier is about to submit another six-monthly payment report shortly after the deadline for submitting the tender which would meet the required thresholds?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00091",
+      "block_type": "p",
+      "text": "Where interim (unreported data) is available for the most recent three months or more, this can also be accepted.",
+      "ordinal": 91,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "11. Statutory reporting requirement – ‘Duty to Report’",
+        "11. What if the supplier is about to submit another six-monthly payment report shortly after the deadline for submitting the tender which would meet the required thresholds?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00092",
+      "block_type": "p",
+      "text": "For example, if a supplier’s last report was submitted in July for the period covering January to June and it is bidding for a contract in October, it would be able to submit the previous three month’s worth of unreported data (i.e. July, August, September) and this would count as a ‘reporting period’ (see paragraph 10 of the guidance). Payment performance would need to be calculated in the same way as for a six-monthly payment report.",
+      "ordinal": 92,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "11. Statutory reporting requirement – ‘Duty to Report’",
+        "11. What if the supplier is about to submit another six-monthly payment report shortly after the deadline for submitting the tender which would meet the required thresholds?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00093",
+      "block_type": "heading",
+      "text": "12. If a supplier who is not in scope of publishing payment data under the Reporting on Payment Practices and Performance Regulations 2017 submits a response to the tender in January 2026 (for example) is it expected to provide data covering the 12-month period from January 2025 to December 2026?",
+      "ordinal": 93,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "11. Statutory reporting requirement – ‘Duty to Report’",
+        "12. If a supplier who is not in scope of publishing payment data under the Reporting on Payment Practices and Performance Regulations 2017 submits a response to the tender in January 2026 (for example) is it expected to provide data covering the 12-month period from January 2025 to December 2026?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00094",
+      "block_type": "p",
+      "text": "This depends. A supplier which is not required to publish data per the regulations should still submit its data in two (six-month) periods in line with the DBT Guidance to Reporting Payment Practices and Performance",
+      "ordinal": 94,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "11. Statutory reporting requirement – ‘Duty to Report’",
+        "12. If a supplier who is not in scope of publishing payment data under the Reporting on Payment Practices and Performance Regulations 2017 submits a response to the tender in January 2026 (for example) is it expected to provide data covering the 12-month period from January 2025 to December 2026?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00095",
+      "block_type": "p",
+      "text": "If your financial year starts on the 5th of a month, the last day of that reporting period would be the 4th of the month, six months later. The second reporting period starts on the next day and runs until the end of your financial year.",
+      "ordinal": 95,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "11. Statutory reporting requirement – ‘Duty to Report’",
+        "12. If a supplier who is not in scope of publishing payment data under the Reporting on Payment Practices and Performance Regulations 2017 submits a response to the tender in January 2026 (for example) is it expected to provide data covering the 12-month period from January 2025 to December 2026?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00096",
+      "block_type": "p",
+      "text": "Example: A business’ financial year starts on 1 January, its first reporting period would be 1 January until 30 June. Its second reporting period would be 1 July until 31 December. In these circumstances, when submitting a bid in January 2026, the supplier would submit data for the period 1 January 2025 to 31 December 2025. However, if its financial year commenced on 1 April, then it should submit data for the periods 1 October 2024 to 31 March 2025 and 1 April 2025 to 30 September 2025.",
+      "ordinal": 96,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "11. Statutory reporting requirement – ‘Duty to Report’",
+        "12. If a supplier who is not in scope of publishing payment data under the Reporting on Payment Practices and Performance Regulations 2017 submits a response to the tender in January 2026 (for example) is it expected to provide data covering the 12-month period from January 2025 to December 2026?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00097",
+      "block_type": "p",
+      "text": "For a supplier which is required to publish data under the regulations, the same principle as set out in question 11 applies and suppliers could also choose to submit data for the period October 2025 to December 2025. This would be accepted as a reporting period because it covers three months or more since the last six monthly reporting period (see paragraph 10 of the guidance).",
+      "ordinal": 97,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "11. Statutory reporting requirement – ‘Duty to Report’",
+        "12. If a supplier who is not in scope of publishing payment data under the Reporting on Payment Practices and Performance Regulations 2017 submits a response to the tender in January 2026 (for example) is it expected to provide data covering the 12-month period from January 2025 to December 2026?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00098",
+      "block_type": "heading",
+      "text": "13. What if its parent company or another company within its group has filed responses – can this data be used?",
+      "ordinal": 98,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "11. Statutory reporting requirement – ‘Duty to Report’",
+        "13. What if its parent company or another company within its group has filed responses – can this data be used?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00099",
+      "block_type": "p",
+      "text": "Responses are required from the legal entity bidding for the contract. If it has already filed data, then this may be used in the response. However, if the entity that has filed data is not the same entity bidding for the contract, then the filed data will not be relevant and the supplier must respond to the questions.",
+      "ordinal": 99,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "11. Statutory reporting requirement – ‘Duty to Report’",
+        "13. What if its parent company or another company within its group has filed responses – can this data be used?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00100",
+      "block_type": "heading",
+      "text": "14. What if the supplier’s response to question 5 does not match the payment data publicly available online?",
+      "ordinal": 100,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "11. Statutory reporting requirement – ‘Duty to Report’",
+        "14. What if the supplier’s response to question 5 does not match the payment data publicly available online?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00101",
+      "block_type": "p",
+      "text": "If the response to question 5 does not appear consistent with payment data that is publicly available, the contracting authority should clarify this with the supplier.",
+      "ordinal": 101,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "11. Statutory reporting requirement – ‘Duty to Report’",
+        "14. What if the supplier’s response to question 5 does not match the payment data publicly available online?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00102",
+      "block_type": "heading",
+      "text": "15. If the supplier removes intercompany payments from the total headline figure, this figure won’t match its reported data under the Reporting on Payment Practices and Performance Regulations 2017?",
+      "ordinal": 102,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "11. Statutory reporting requirement – ‘Duty to Report’",
+        "15. If the supplier removes intercompany payments from the total headline figure, this figure won’t match its reported data under the Reporting on Payment Practices and Performance Regulations 2017?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00103",
+      "block_type": "p",
+      "text": "Yes. The published data includes intercompany payments. When filing six-monthly reports under the Reporting on Payment Practices and Performance Regulations, 2017 an organisation is encouraged to set out in the free text box what its payment performance would be if intercompany payments were removed from the calculations. If it does so, the reported data will then be completely transparent and consistent with the information it has submitted in bidding.",
+      "ordinal": 103,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "11. Statutory reporting requirement – ‘Duty to Report’",
+        "15. If the supplier removes intercompany payments from the total headline figure, this figure won’t match its reported data under the Reporting on Payment Practices and Performance Regulations 2017?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00104",
+      "block_type": "heading",
+      "text": "16. When does the supplier start counting day 1 when calculating the number of days in which it pays invoices? When does the clock start? (taken from DBT guidance on reporting).",
+      "ordinal": 104,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "11. Statutory reporting requirement – ‘Duty to Report’",
+        "16. When does the supplier start counting day 1 when calculating the number of days in which it pays invoices? When does the clock start? (taken from DBT guidance on reporting)."
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00105",
+      "block_type": "p",
+      "text": "Day 1 is the day after the date on which the supplier receives an invoice or has notice by other means of the amount to pay, and the period ends when the supplier receives the payment.",
+      "ordinal": 105,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "11. Statutory reporting requirement – ‘Duty to Report’",
+        "16. When does the supplier start counting day 1 when calculating the number of days in which it pays invoices? When does the clock start? (taken from DBT guidance on reporting)."
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00106",
+      "block_type": "heading",
+      "text": "12. Invoices",
+      "ordinal": 106,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "12. Invoices"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00107",
+      "block_type": "heading",
+      "text": "17. When reporting the percentage of invoices and average days taken to pay does this include disputed invoices or is it undisputed invoices only?",
+      "ordinal": 107,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "12. Invoices",
+        "17. When reporting the percentage of invoices and average days taken to pay does this include disputed invoices or is it undisputed invoices only?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00108",
+      "block_type": "p",
+      "text": "This includes all invoices. This approach is consistent with the Reporting on Payment Practices and Performance Regulations 2017 whereby businesses include disputed invoices which fall due in the reporting period and are not paid.",
+      "ordinal": 108,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "12. Invoices",
+        "17. When reporting the percentage of invoices and average days taken to pay does this include disputed invoices or is it undisputed invoices only?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00109",
+      "block_type": "p",
+      "text": "All payments that are made under a qualifying contract during the reporting period, should be included. Invoices that a business has received but has not yet paid should not be included in the figure. These payments should be reported in the reporting period in which they are paid, should the reporting business still be in scope of the requirement.",
+      "ordinal": 109,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "12. Invoices",
+        "17. When reporting the percentage of invoices and average days taken to pay does this include disputed invoices or is it undisputed invoices only?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00110",
+      "block_type": "p",
+      "text": "Disputed invoices which fall due in the reporting period and are not paid will need to be included in the statistics that record the proportion of invoices which were not paid within agreed terms.",
+      "ordinal": 110,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "12. Invoices",
+        "17. When reporting the percentage of invoices and average days taken to pay does this include disputed invoices or is it undisputed invoices only?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00111",
+      "block_type": "p",
+      "text": "Any disputed invoices that have been paid in a given reporting period will be included in the statistics for that period on the average time taken to pay and in the percentage of payments made within the reporting period which were paid: in 30 days or fewer, between 31 and 60 days, and in 61 days or longer.",
+      "ordinal": 111,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "12. Invoices",
+        "17. When reporting the percentage of invoices and average days taken to pay does this include disputed invoices or is it undisputed invoices only?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00112",
+      "block_type": "heading",
+      "text": "18. Is the average calculation based solely on the number of invoices paid or is the value of invoices taken into account?",
+      "ordinal": 112,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "12. Invoices",
+        "18. Is the average calculation based solely on the number of invoices paid or is the value of invoices taken into account?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00113",
+      "block_type": "p",
+      "text": "The value of invoices is not taken into account. The calculation is the average (mean) number of days within which payments are made under qualifying contracts during the reporting period. To find the mean, add together the number of days it took to make all payments to be reported and divide it by the number of payments made.",
+      "ordinal": 113,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "12. Invoices",
+        "18. Is the average calculation based solely on the number of invoices paid or is the value of invoices taken into account?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00114",
+      "block_type": "heading",
+      "text": "19. What if there is no invoice presented for payment? Should situations where payment is due but there is no invoice be counted?",
+      "ordinal": 114,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "12. Invoices",
+        "19. What if there is no invoice presented for payment? Should situations where payment is due but there is no invoice be counted?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00115",
+      "block_type": "p",
+      "text": "Yes. If there is no invoice then the date when payment would otherwise become due is the relevant date. This could arise, for example, where payment is triggered by the receipt of a timesheet setting out work carried out under an ongoing contract for services. These should still be included as part of the response, with the first day after receipt of the timesheet being equivalent to the first day after receipt of an invoice. This is consistent with the reporting requirements under the SBEE or the LLPA and further guidance",
+      "ordinal": 115,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "12. Invoices",
+        "19. What if there is no invoice presented for payment? Should situations where payment is due but there is no invoice be counted?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00116",
+      "block_type": "p",
+      "text": "20. Is it percentage by value or volume of invoices in response to question 5?",
+      "ordinal": 116,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "12. Invoices",
+        "19. What if there is no invoice presented for payment? Should situations where payment is due but there is no invoice be counted?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00117",
+      "block_type": "p",
+      "text": "By volume. This is consistent with the requirement to publish under the Reporting on Payment Practices and Performance Regulations 2017.",
+      "ordinal": 117,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "12. Invoices",
+        "19. What if there is no invoice presented for payment? Should situations where payment is due but there is no invoice be counted?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00118",
+      "block_type": "p",
+      "text": "21. Do the percentage of invoices paid in 60 days metric and the average payment days metric have to be hit in the same period, or is it acceptable for one to be hit in one of the previous two periods, and one in the other?",
+      "ordinal": 118,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "12. Invoices",
+        "19. What if there is no invoice presented for payment? Should situations where payment is due but there is no invoice be counted?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00119",
+      "block_type": "p",
+      "text": "Both metrics must be achieved in the same period.",
+      "ordinal": 119,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "12. Invoices",
+        "19. What if there is no invoice presented for payment? Should situations where payment is due but there is no invoice be counted?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00120",
+      "block_type": "heading",
+      "text": "13. Action Plans and the Fair Payment Code",
+      "ordinal": 120,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "13. Action Plans and the Fair Payment Code"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00121",
+      "block_type": "heading",
+      "text": "22. If a supplier has already completed an action plan for the Small Business Commissioner (SBC) because it is not meeting the code’s standards can the same action plan be submitted?",
+      "ordinal": 121,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "13. Action Plans and the Fair Payment Code",
+        "22. If a supplier has already completed an action plan for the Small Business Commissioner (SBC) because it is not meeting the code’s standards can the same action plan be submitted?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00122",
+      "block_type": "p",
+      "text": "If a supplier has an action plan already developed and shared with SBC it can provide this one so long as it meets all the five criteria set out in the guidance.",
+      "ordinal": 122,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "13. Action Plans and the Fair Payment Code",
+        "22. If a supplier has already completed an action plan for the Small Business Commissioner (SBC) because it is not meeting the code’s standards can the same action plan be submitted?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00123",
+      "block_type": "heading",
+      "text": "23. If a supplier does not include some of the five key criteria within the action plan, will it still pass?",
+      "ordinal": 123,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "13. Action Plans and the Fair Payment Code",
+        "23. If a supplier does not include some of the five key criteria within the action plan, will it still pass?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00124",
+      "block_type": "p",
+      "text": "No. The supplier must submit a plan which meets all five criteria of this PPN to pass.",
+      "ordinal": 124,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "13. Action Plans and the Fair Payment Code",
+        "23. If a supplier does not include some of the five key criteria within the action plan, will it still pass?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00125",
+      "block_type": "heading",
+      "text": "24. A supplier is expected to explain why it is not paying all its invoices within the agreed terms to pass. If it needs to submit an action plan, does it also need to set out what steps it is taking to rectify this situation?",
+      "ordinal": 125,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "13. Action Plans and the Fair Payment Code",
+        "24. A supplier is expected to explain why it is not paying all its invoices within the agreed terms to pass. If it needs to submit an action plan, does it also need to set out what steps it is taking to rectify this situation?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00126",
+      "block_type": "p",
+      "text": "Yes. See paragraph 11 of the guidance. If you are required to submit an action plan because you are not paying at least 95% of invoices in 60 days then this plan must also include what actions you are taking to improve payment of your suppliers in the event you are not paying all invoices within the agreed terms.",
+      "ordinal": 126,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "13. Action Plans and the Fair Payment Code",
+        "24. A supplier is expected to explain why it is not paying all its invoices within the agreed terms to pass. If it needs to submit an action plan, does it also need to set out what steps it is taking to rectify this situation?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00127",
+      "block_type": "heading",
+      "text": "25. If a supplier is suspended/removed from the Fair Payment Code does this mean it is excluded from the bid?",
+      "ordinal": 127,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "13. Action Plans and the Fair Payment Code",
+        "25. If a supplier is suspended/removed from the Fair Payment Code does this mean it is excluded from the bid?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00128",
+      "block_type": "p",
+      "text": "No. Whilst suspension from the FPC is an indication that the supplier’s performance has fallen below required standards, this should not be used as a simple pass/fail. Bids must all be assessed against the selection questions. This includes, where the supplier does not meet the 95% threshold but does meet the 90% threshold, taking into account an explanation as to why the supplier is not meeting the required standard and its proposed action plan.",
+      "ordinal": 128,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "13. Action Plans and the Fair Payment Code",
+        "25. If a supplier is suspended/removed from the Fair Payment Code does this mean it is excluded from the bid?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00129",
+      "block_type": "heading",
+      "text": "26. What about multinational deals – are these exempt from the measure? These are long-standing deals with other large firms where both parties are mutually content with the terms set.",
+      "ordinal": 129,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "13. Action Plans and the Fair Payment Code",
+        "26. What about multinational deals – are these exempt from the measure? These are long-standing deals with other large firms where both parties are mutually content with the terms set."
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00130",
+      "block_type": "p",
+      "text": "No, these are not exempt from the measure. If a contract is subject to UK law or involves a supplier registered as a company in the UK then this measure will apply.",
+      "ordinal": 130,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "13. Action Plans and the Fair Payment Code",
+        "26. What about multinational deals – are these exempt from the measure? These are long-standing deals with other large firms where both parties are mutually content with the terms set."
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00131",
+      "block_type": "p",
+      "text": "This includes situations where the two immediate parties may accept payment terms beyond 60 days because the supply chain may still be impacted. Suppliers have the opportunity to provide an explanation and to propose remedial action if these circumstances apply.",
+      "ordinal": 131,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "13. Action Plans and the Fair Payment Code",
+        "26. What about multinational deals – are these exempt from the measure? These are long-standing deals with other large firms where both parties are mutually content with the terms set."
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00132",
+      "block_type": "heading",
+      "text": "27. What is the definition of supply chain for this measure?",
+      "ordinal": 132,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "13. Action Plans and the Fair Payment Code",
+        "27. What is the definition of supply chain for this measure?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00133",
+      "block_type": "p",
+      "text": "References to supply chain means suppliers or sub-contractors of any tier that execute any works, supply any products or provide any services that are used wholly or substantially for the purpose of performing (or contributing to the performance of) the whole or any part of the contract.",
+      "ordinal": 133,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "13. Action Plans and the Fair Payment Code",
+        "27. What is the definition of supply chain for this measure?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00134",
+      "block_type": "heading",
+      "text": "13. Exemptions",
+      "ordinal": 134,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "13. Exemptions"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00135",
+      "block_type": "heading",
+      "text": "15. I am a central government authority, how do I request an exemption to this measure?",
+      "ordinal": 135,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "13. Exemptions",
+        "15. I am a central government authority, how do I request an exemption to this measure?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00136",
+      "block_type": "p",
+      "text": "Contact the Commercial Policy Team via info@crowncommercial.gov.uk who will direct you to the relevant official.",
+      "ordinal": 136,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "13. Exemptions",
+        "15. I am a central government authority, how do I request an exemption to this measure?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00137",
+      "block_type": "p",
+      "text": "Prepare an evidence-based rationale for the exemption request and alternative measures to improve payment performance in the specific market area.",
+      "ordinal": 137,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "13. Exemptions",
+        "15. I am a central government authority, how do I request an exemption to this measure?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00138",
+      "block_type": "p",
+      "text": "The Cabinet Office will then decide whether to recommend to the relevant minister for approval and handle the rest of the process.",
+      "ordinal": 138,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "13. Exemptions",
+        "15. I am a central government authority, how do I request an exemption to this measure?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00139",
+      "block_type": "li",
+      "text": "See section 3 of the Procurement Act 2023 ↩",
+      "ordinal": 139,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "13. Exemptions",
+        "15. I am a central government authority, how do I request an exemption to this measure?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00140",
+      "block_type": "p",
+      "text": "See section 3 of the Procurement Act 2023 ↩",
+      "ordinal": 140,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "13. Exemptions",
+        "15. I am a central government authority, how do I request an exemption to this measure?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00141",
+      "block_type": "li",
+      "text": "See section 10(6) of the Procurement Act 2023 ↩",
+      "ordinal": 141,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "13. Exemptions",
+        "15. I am a central government authority, how do I request an exemption to this measure?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00142",
+      "block_type": "p",
+      "text": "See section 10(6) of the Procurement Act 2023 ↩",
+      "ordinal": 142,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "13. Exemptions",
+        "15. I am a central government authority, how do I request an exemption to this measure?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00143",
+      "block_type": "li",
+      "text": "Based on advertised contract value averaged over the life of the contract, e.g. a contract with a four year term with a total contract value of £21 million would be in scope, even if the value in the first year was under £5 million. The term length of a contract will include any extension options, if applicable. ↩",
+      "ordinal": 143,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "13. Exemptions",
+        "15. I am a central government authority, how do I request an exemption to this measure?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00144",
+      "block_type": "p",
+      "text": "Based on advertised contract value averaged over the life of the contract, e.g. a contract with a four year term with a total contract value of £21 million would be in scope, even if the value in the first year was under £5 million. The term length of a contract will include any extension options, if applicable. ↩",
+      "ordinal": 144,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "13. Exemptions",
+        "15. I am a central government authority, how do I request an exemption to this measure?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00145",
+      "block_type": "li",
+      "text": "A reporting period is a period of six calendar months as set out in the DBT Guidance to Reporting Payment Practices and Performance under the Reporting on Payment Practices and Performance Regulations 2017 ↩",
+      "ordinal": 145,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "13. Exemptions",
+        "15. I am a central government authority, how do I request an exemption to this measure?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00146",
+      "block_type": "p",
+      "text": "A reporting period is a period of six calendar months as set out in the DBT Guidance to Reporting Payment Practices and Performance under the Reporting on Payment Practices and Performance Regulations 2017 ↩",
+      "ordinal": 146,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "13. Exemptions",
+        "15. I am a central government authority, how do I request an exemption to this measure?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00147",
+      "block_type": "li",
+      "text": "Both metrics may be calculated either with or without intercompany payments included. ↩",
+      "ordinal": 147,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "13. Exemptions",
+        "15. I am a central government authority, how do I request an exemption to this measure?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00148",
+      "block_type": "p",
+      "text": "Both metrics may be calculated either with or without intercompany payments included. ↩",
+      "ordinal": 148,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "13. Exemptions",
+        "15. I am a central government authority, how do I request an exemption to this measure?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00149",
+      "block_type": "li",
+      "text": "References to supply chain means suppliers or sub-contractors of any tier that execute any works, supply any products or provide any services that are used wholly or substantially for the purpose of performing (or contributing to the performance of) the whole or any part of the contract. ↩ ↩ 2",
+      "ordinal": 149,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "13. Exemptions",
+        "15. I am a central government authority, how do I request an exemption to this measure?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00150",
+      "block_type": "p",
+      "text": "References to supply chain means suppliers or sub-contractors of any tier that execute any works, supply any products or provide any services that are used wholly or substantially for the purpose of performing (or contributing to the performance of) the whole or any part of the contract. ↩ ↩ 2",
+      "ordinal": 150,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "13. Exemptions",
+        "15. I am a central government authority, how do I request an exemption to this measure?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00151",
+      "block_type": "li",
+      "text": "This should include all situations where payments are due; not all payments involve an invoice (see FAQs). You should explain this in the tender documents. ↩",
+      "ordinal": 151,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "13. Exemptions",
+        "15. I am a central government authority, how do I request an exemption to this measure?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00152",
+      "block_type": "p",
+      "text": "This should include all situations where payments are due; not all payments involve an invoice (see FAQs). You should explain this in the tender documents. ↩",
+      "ordinal": 152,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "13. Exemptions",
+        "15. I am a central government authority, how do I request an exemption to this measure?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00153",
+      "block_type": "li",
+      "text": "You should explain in the tender documents what a reporting period is by referring to the DBT Guidance ↩",
+      "ordinal": 153,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "13. Exemptions",
+        "15. I am a central government authority, how do I request an exemption to this measure?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00154",
+      "block_type": "p",
+      "text": "You should explain in the tender documents what a reporting period is by referring to the DBT Guidance ↩",
+      "ordinal": 154,
+      "heading_path": [
+        "Introduction",
+        "Annex B: FAQs",
+        "13. Exemptions",
+        "15. I am a central government authority, how do I request an exemption to this measure?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "[footnote 1]",
+      "href": "https://www.gov.uk/government/publications/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts-guidance-html#fn:1",
+      "block_id": "b00001",
+      "ordinal": 0,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 2]",
+      "href": "https://www.gov.uk/government/publications/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts-guidance-html#fn:2",
+      "block_id": "b00001",
+      "ordinal": 1,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 3]",
+      "href": "https://www.gov.uk/government/publications/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts-guidance-html#fn:3",
+      "block_id": "b00001",
+      "ordinal": 2,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 4]",
+      "href": "https://www.gov.uk/government/publications/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts-guidance-html#fn:4",
+      "block_id": "b00016",
+      "ordinal": 3,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 5]",
+      "href": "https://www.gov.uk/government/publications/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts-guidance-html#fn:5",
+      "block_id": "b00028",
+      "ordinal": 4,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 6]",
+      "href": "https://www.gov.uk/government/publications/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts-guidance-html#fn:6",
+      "block_id": "b00053",
+      "ordinal": 5,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 7]",
+      "href": "https://www.gov.uk/government/publications/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts-guidance-html#fn:7",
+      "block_id": "b00053",
+      "ordinal": 6,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 6]",
+      "href": "https://www.gov.uk/government/publications/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts-guidance-html#fn:6",
+      "block_id": "b00057",
+      "ordinal": 7,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 8]",
+      "href": "https://www.gov.uk/government/publications/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts-guidance-html#fn:8",
+      "block_id": "b00057",
+      "ordinal": 8,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Further guidance",
+      "href": "https://www.gov.uk/government/publications/business-payment-practices-and-performance-reporting-requirements",
+      "block_id": "b00084",
+      "ordinal": 9,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "DBT Guidance to Reporting Payment Practices and Performance",
+      "href": "https://www.gov.uk/government/publications/business-payment-practices-and-performance-reporting-requirements",
+      "block_id": "b00094",
+      "ordinal": 10,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "further guidance",
+      "href": "https://www.gov.uk/government/publications/business-payment-practices-and-performance-reporting-requirements",
+      "block_id": "b00115",
+      "ordinal": 11,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "info@crowncommercial.gov.uk",
+      "href": "mailto:info@crowncommercial.gov.uk",
+      "block_id": "b00136",
+      "ordinal": 12,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts-guidance-html#fnref:1",
+      "block_id": "b00139",
+      "ordinal": 13,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts-guidance-html#fnref:1",
+      "block_id": "b00140",
+      "ordinal": 14,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts-guidance-html#fnref:2",
+      "block_id": "b00141",
+      "ordinal": 15,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts-guidance-html#fnref:2",
+      "block_id": "b00142",
+      "ordinal": 16,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts-guidance-html#fnref:3",
+      "block_id": "b00143",
+      "ordinal": 17,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts-guidance-html#fnref:3",
+      "block_id": "b00144",
+      "ordinal": 18,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "DBT Guidance to Reporting Payment Practices and Performance under the Reporting on Payment Practices and Performance Regulations 2017",
+      "href": "https://www.gov.uk/government/publications/business-payment-practices-and-performance-reporting-requirements",
+      "block_id": "b00145",
+      "ordinal": 19,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts-guidance-html#fnref:4",
+      "block_id": "b00145",
+      "ordinal": 20,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "DBT Guidance to Reporting Payment Practices and Performance under the Reporting on Payment Practices and Performance Regulations 2017",
+      "href": "https://www.gov.uk/government/publications/business-payment-practices-and-performance-reporting-requirements",
+      "block_id": "b00146",
+      "ordinal": 21,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts-guidance-html#fnref:4",
+      "block_id": "b00146",
+      "ordinal": 22,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts-guidance-html#fnref:5",
+      "block_id": "b00147",
+      "ordinal": 23,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts-guidance-html#fnref:5",
+      "block_id": "b00148",
+      "ordinal": 24,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts-guidance-html#fnref:6",
+      "block_id": "b00149",
+      "ordinal": 25,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩ 2",
+      "href": "https://www.gov.uk/government/publications/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts-guidance-html#fnref:6:1",
+      "block_id": "b00149",
+      "ordinal": 26,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts-guidance-html#fnref:6",
+      "block_id": "b00150",
+      "ordinal": 27,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩ 2",
+      "href": "https://www.gov.uk/government/publications/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts-guidance-html#fnref:6:1",
+      "block_id": "b00150",
+      "ordinal": 28,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts-guidance-html#fnref:7",
+      "block_id": "b00151",
+      "ordinal": 29,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts-guidance-html#fnref:7",
+      "block_id": "b00152",
+      "ordinal": 30,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "DBT Guidance",
+      "href": "https://www.gov.uk/government/publications/business-payment-practices-and-performance-reporting-requirements",
+      "block_id": "b00153",
+      "ordinal": 31,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts-guidance-html#fnref:8",
+      "block_id": "b00153",
+      "ordinal": 32,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "DBT Guidance",
+      "href": "https://www.gov.uk/government/publications/business-payment-practices-and-performance-reporting-requirements",
+      "block_id": "b00154",
+      "ordinal": 33,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts-guidance-html#fnref:8",
+      "block_id": "b00154",
+      "ordinal": 34,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "PPN 015: How to take account of a supplier's approach to payment in the procurement of major contracts (Guidance) (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts-guidance-html",
+      "block_id": "__document__",
+      "ordinal": 35,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2024 to 2026 Starmer Labour government",
+      "href": "https://www.gov.uk/government/2024-starmer-labour-government",
+      "block_id": "__document__",
+      "ordinal": 36,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 37,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "PPN 015: How to take account of a supplier's approach to payment in the procurement of major contracts",
+      "href": "https://www.gov.uk/government/publications/ppn-015-how-to-take-account-of-a-suppliers-approach-to-payment-in-the-procurement-of-major-contracts",
+      "block_id": "__document__",
+      "ordinal": 38,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 39,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2024",
+      "block_id": "b00002",
+      "start": 149,
+      "end": 165,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2024"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 10",
+      "block_id": "b00016",
+      "start": 14,
+      "end": 26,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "10"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2017",
+      "block_id": "b00017",
+      "start": 121,
+      "end": 137,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2017"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraphs 17",
+      "block_id": "b00030",
+      "start": 64,
+      "end": 77,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "17"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2017",
+      "block_id": "b00032",
+      "start": 190,
+      "end": 206,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2017"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2017",
+      "block_id": "b00033",
+      "start": 98,
+      "end": 114,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2017"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Sections 68",
+      "block_id": "b00054",
+      "start": 75,
+      "end": 86,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "68"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2017",
+      "block_id": "b00057",
+      "start": 945,
+      "end": 961,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2017"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2017",
+      "block_id": "b00061",
+      "start": 244,
+      "end": 260,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2017"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2017",
+      "block_id": "b00062",
+      "start": 114,
+      "end": 130,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2017"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2017",
+      "block_id": "b00088",
+      "start": 100,
+      "end": 116,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2017"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 10",
+      "block_id": "b00092",
+      "start": 308,
+      "end": 320,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "10"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2017",
+      "block_id": "b00093",
+      "start": 122,
+      "end": 138,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2017"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 10",
+      "block_id": "b00097",
+      "start": 351,
+      "end": 363,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "10"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2017",
+      "block_id": "b00102",
+      "start": 181,
+      "end": 197,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2017"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2017",
+      "block_id": "b00108",
+      "start": 112,
+      "end": 128,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2017"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2017",
+      "block_id": "b00117",
+      "start": 119,
+      "end": 135,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2017"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 11",
+      "block_id": "b00126",
+      "start": 9,
+      "end": 21,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "11"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 3",
+      "block_id": "b00139",
+      "start": 4,
+      "end": 13,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "3"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 3",
+      "block_id": "b00140",
+      "start": 4,
+      "end": 13,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "3"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 10(6)",
+      "block_id": "b00141",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "10",
+        "tail": "(6)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 10(6)",
+      "block_id": "b00142",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "10",
+        "tail": "(6)"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2017",
+      "block_id": "b00145",
+      "start": 189,
+      "end": 205,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2017"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2017",
+      "block_id": "b00146",
+      "start": 189,
+      "end": 205,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2017"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

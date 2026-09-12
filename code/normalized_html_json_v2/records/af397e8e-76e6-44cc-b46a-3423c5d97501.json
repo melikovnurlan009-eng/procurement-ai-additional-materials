@@ -1,0 +1,1290 @@
+{
+  "document_id": "af397e8e-76e6-44cc-b46a-3423c5d97501",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/6fadf902ade92f2f526bc2a7.json",
+  "input_sha256": "4a8afa033b5354ef559d3c1b5859937a5f593ed96a003e8fae559b2ee92ad74e",
+  "processed_at": "2026-08-27T02:26:22.331778+00:00",
+  "title": "Guidance: Planned Procurement Notice (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-planned-procurement-notice-html",
+  "description": null,
+  "publication_date": "2024-05-24T15:08:23+01:00",
+  "updated_date": "2026-07-13T09:24:55+01:00",
+  "source_metadata": {
+    "content_id": "af397e8e-76e6-44cc-b46a-3423c5d97501",
+    "base_path": "/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-planned-procurement-notice-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What is a planned procurement notice?",
+      "ordinal": 0,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What is the legal framework that governs the planned procurement notice?",
+      "ordinal": 2,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What has changed?",
+      "ordinal": 7,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Key points and policy intent",
+      "ordinal": 10,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Content of a planned procurement notice",
+      "ordinal": 17,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Timing of publication",
+      "ordinal": 19,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "title": "Qualifying planned procurement notice: reducing timescales",
+      "ordinal": 22,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What are the primary notices linked to this aspect of the Act?",
+      "ordinal": 35,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "What other guidance is of particular relevance to this topic area?",
+      "ordinal": 44,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "heading",
+      "text": "What is a planned procurement notice?",
+      "ordinal": 0,
+      "heading_path": [
+        "What is a planned procurement notice?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "1. The planned procurement notice is an optional notice under the Procurement Act 2023 (Act) which is published at the pre-procurement stage. The planned procurement notice is similar to a pipeline notice in that it provides advance notice of an upcoming procurement. It goes further than a pipeline notice and is designed to give as much advance information to the market as possible to enable potentially interested suppliers to determine if the upcoming procurement is something that they wish to bid for, and to provide maximum time for preparation. It is the only type of notice that, when used correctly, can provide a reduction in the minimum time periods between submission of the tender notice and the deadline for submission of tenders in competitive tendering procedures.",
+      "ordinal": 1,
+      "heading_path": [
+        "What is a planned procurement notice?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "heading",
+      "text": "What is the legal framework that governs the planned procurement notice?",
+      "ordinal": 2,
+      "heading_path": [
+        "What is a planned procurement notice?",
+        "What is the legal framework that governs the planned procurement notice?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "p",
+      "text": "2. The legal framework that governs the planned procurement notice is as follows:",
+      "ordinal": 3,
+      "heading_path": [
+        "What is a planned procurement notice?",
+        "What is the legal framework that governs the planned procurement notice?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "Section 15 : planned procurement notices",
+      "ordinal": 4,
+      "heading_path": [
+        "What is a planned procurement notice?",
+        "What is the legal framework that governs the planned procurement notice?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "p",
+      "text": "Regulation 16 : planned procurement notices",
+      "ordinal": 5,
+      "heading_path": [
+        "What is a planned procurement notice?",
+        "What is the legal framework that governs the planned procurement notice?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "p",
+      "text": "Regulation 18 (and as incorporated into regulations 19 - 22 ): tender notices (see guidance on competitive tendering procedures and time periods for more information).",
+      "ordinal": 6,
+      "heading_path": [
+        "What is a planned procurement notice?",
+        "What is the legal framework that governs the planned procurement notice?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "heading",
+      "text": "What has changed?",
+      "ordinal": 7,
+      "heading_path": [
+        "What is a planned procurement notice?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "3. The planned procurement notice fulfils a similar function to a prior information notice and a periodic indicative notice (both referred to here as PIN), as relevant, in the previous legislation. [footnote 1]",
+      "ordinal": 8,
+      "heading_path": [
+        "What is a planned procurement notice?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "4. The planned procurement notice replaces both PINs and when used, must be published on the central digital platform (previously PINs published under the Public Contracts Regulations, Defence and Security Public Contracts Regulations and Utilities Contract Regulations could be published on a buyer profile). Unlike the Utilities Contract Regulations and Concession Contracts Regulations PINs, a planned procurement notice cannot be used as a call for competition. As with a PIN, if it publishes a planned procurement notice, a contracting authority can reduce the time period for submission of tenders (tendering period) in certain circumstances.",
+      "ordinal": 9,
+      "heading_path": [
+        "What is a planned procurement notice?",
+        "What has changed?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "heading",
+      "text": "Key points and policy intent",
+      "ordinal": 10,
+      "heading_path": [
+        "What is a planned procurement notice?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "5. All contracting authorities are able to take advantage of the reduced tendering period provided by publishing a qualifying planned procurement notice. Publication may take place at any time before publication of the tender notice. It may be the first notice published about an upcoming procurement or it may follow a pipeline or a preliminary market engagement notice.",
+      "ordinal": 11,
+      "heading_path": [
+        "What is a planned procurement notice?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "6. A planned procurement notice sets out that a contracting authority intends to publish a tender notice. A planned procurement notice is therefore not used when:",
+      "ordinal": 12,
+      "heading_path": [
+        "What is a planned procurement notice?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "p",
+      "text": "a. establishing a dynamic market;",
+      "ordinal": 13,
+      "heading_path": [
+        "What is a planned procurement notice?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "b. awarding in accordance with a framework; or",
+      "ordinal": 14,
+      "heading_path": [
+        "What is a planned procurement notice?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "p",
+      "text": "c. making a direct award.",
+      "ordinal": 15,
+      "heading_path": [
+        "What is a planned procurement notice?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "7. Section 15 of the Act sets out that if the notice is published at least 40 days and no longer than one year before publication of the tender notice then the notice is a ‘qualifying’ planned procurement notice. This means that the contracting authority may, if it chooses to, reduce the tendering period to a period of ten days or more. However, in setting the tendering period, the contracting authority must have regard to the covered procurement objectives in section 12 (such as the need to remove or reduce barriers to participation that small and medium-sized enterprises (SMEs) face and to ensure that tendering periods are sufficient to allow bidders to understand the contracting authority’s procurement policies and decisions).",
+      "ordinal": 16,
+      "heading_path": [
+        "What is a planned procurement notice?",
+        "Key points and policy intent"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "heading",
+      "text": "Content of a planned procurement notice",
+      "ordinal": 17,
+      "heading_path": [
+        "What is a planned procurement notice?",
+        "Key points and policy intent",
+        "Content of a planned procurement notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "p",
+      "text": "8. A planned procurement notice must contain the information set out in regulation 16 . This includes much of the information required in the tender notice for the procedure that the contracting authority intends to use (to the extent this information is known at the time of publication). A contracting authority can supplement the information required for the notice with additional information and documentation.",
+      "ordinal": 18,
+      "heading_path": [
+        "What is a planned procurement notice?",
+        "Key points and policy intent",
+        "Content of a planned procurement notice"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "heading",
+      "text": "Timing of publication",
+      "ordinal": 19,
+      "heading_path": [
+        "What is a planned procurement notice?",
+        "Key points and policy intent",
+        "Timing of publication"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "p",
+      "text": "9. As above, contracting authorities are required to provide as much information relating to the tender notice as is available at the time of publishing the planned procurement notice. So contracting authorities will wish to consider the best time to publish their planned procurement notice i.e. there may be little benefit to suppliers in publishing a planned procurement notice 12 months in advance if the contracting authority can only provide limited detail about the opportunity.",
+      "ordinal": 20,
+      "heading_path": [
+        "What is a planned procurement notice?",
+        "Key points and policy intent",
+        "Timing of publication"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "10. Contracting authorities can, if they wish, revise their planned procurement notice to make further information available. Provided this is published within the timescales set out in paragraph 7 above, this would meet the requirements of a qualifying planned procurement notice.",
+      "ordinal": 21,
+      "heading_path": [
+        "What is a planned procurement notice?",
+        "Key points and policy intent",
+        "Timing of publication"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "heading",
+      "text": "Qualifying planned procurement notice: reducing timescales",
+      "ordinal": 22,
+      "heading_path": [
+        "What is a planned procurement notice?",
+        "Key points and policy intent",
+        "Qualifying planned procurement notice: reducing timescales"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "11. If a contracting authority publishes a qualifying planned procurement notice, it may, if it chooses to, reduce the tendering period to a minimum of ten days. The Act sets out that a qualifying planned procurement notice means a planned procurement notice published at least 40 days but not more than 12 months before the day on which the tender notice is published.",
+      "ordinal": 23,
+      "heading_path": [
+        "What is a planned procurement notice?",
+        "Key points and policy intent",
+        "Qualifying planned procurement notice: reducing timescales"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "12. It is possible for a contracting authority to have published a planned procurement notice, undertaken a competitive tendering procedure and reduced the tendering period, but then to have subsequently switched to direct award using the section 43 provisions.",
+      "ordinal": 24,
+      "heading_path": [
+        "What is a planned procurement notice?",
+        "Key points and policy intent",
+        "Qualifying planned procurement notice: reducing timescales"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "p",
+      "text": "13. A planned procurement notice may be published prior to publishing a tender notice where an authority plans to award the contract under a dynamic market. However, as the minimum tendering period in this case is already 10 days, there is no reduction in the minimum period.",
+      "ordinal": 25,
+      "heading_path": [
+        "What is a planned procurement notice?",
+        "Key points and policy intent",
+        "Qualifying planned procurement notice: reducing timescales"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "p",
+      "text": "14. Contracting authorities may also voluntarily publish a planned procurement notice for contracts below the applicable threshold, to provide advance notice to suppliers, especially SMEs, although in these circumstances this will not result in a reduction in the tendering period as there is no minimum tendering period for below-threshold procurements.",
+      "ordinal": 26,
+      "heading_path": [
+        "What is a planned procurement notice?",
+        "Key points and policy intent",
+        "Qualifying planned procurement notice: reducing timescales"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "p",
+      "text": "15. Having published a qualifying planned procurement notice, a contracting authority does not have to take advantage of a reduced tendering period. In fact, contracting authorities should think carefully about applying any time reduction at the tender stage. In deciding whether to do so, contracting authorities should consider whether their qualifying planned procurement notice together with the tender notice have provided enough information to enable suppliers to effectively bid for the procurement during any reduced tendering period.",
+      "ordinal": 27,
+      "heading_path": [
+        "What is a planned procurement notice?",
+        "Key points and policy intent",
+        "Qualifying planned procurement notice: reducing timescales"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "p",
+      "text": "16. A contracting authority might determine that its procurement at the tender stage no longer reflects what it set out in its qualifying planned procurement notice and it is therefore not appropriate to reduce the tendering period. This may be because requirements have been refined to the extent that the types of suppliers who had been attracted to the planned procurement notice would be different from the types of suppliers who would likely now tender for the contract, for example, where the quantity of goods set out in a planned procurement notice is vastly different to that set out in the tender notice.",
+      "ordinal": 28,
+      "heading_path": [
+        "What is a planned procurement notice?",
+        "Key points and policy intent",
+        "Qualifying planned procurement notice: reducing timescales"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "p",
+      "text": "17. In these circumstances, the contracting authority could either terminate the current procurement (and (voluntarily) publish a procurement termination notice if it wished) and then publish a new planned procurement notice or proceed to publish a tender notice and continue with the procurement in accordance with the standard tendering period, forgoing any reduced tendering period. In considering whether to choose the latter option, contracting authorities should think about whether suppliers who might have seen the planned procurement notice and been following the procurement may have disregarded the opportunity due to different information being contained in the planned procurement notice in which case it would be advisable to restart the procurement.",
+      "ordinal": 29,
+      "heading_path": [
+        "What is a planned procurement notice?",
+        "Key points and policy intent",
+        "Qualifying planned procurement notice: reducing timescales"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "p",
+      "text": "18. A qualifying planned procurement notice cannot be used to reduce the tendering period where the procurement has changed substantially, such as where the notice expressed an intention to buy photocopiers but the tender notice relates to the purchase of computers. In such cases, a contracting authority must restart the procurement and publish a fresh planned procurement notice (which will not be a qualifying planned procurement notice until it meets the requirements of section 15(3) ) or proceed to publish a tender notice, without relying on the original planned procurement notice to reduce the tendering period.",
+      "ordinal": 30,
+      "heading_path": [
+        "What is a planned procurement notice?",
+        "Key points and policy intent",
+        "Qualifying planned procurement notice: reducing timescales"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "p",
+      "text": "19. Information set out in the planned procurement notice relating to any timing of publication of the subsequent tender notice may also have a bearing on whether the contracting authority should reduce the tendering period. For example, if a planned procurement notice provided that the tender notice would be issued in six months’ time, but it is actually issued in two months’ time then suppliers might not be ready to bid. In these circumstances the contracting authority should not rely on the planned procurement notice to justify reducing the tendering period.",
+      "ordinal": 31,
+      "heading_path": [
+        "What is a planned procurement notice?",
+        "Key points and policy intent",
+        "Qualifying planned procurement notice: reducing timescales"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "p",
+      "text": "20. It would be good practice, although not a requirement under the Act, to publish a procurement termination notice if the contracting authority subsequently decides not to proceed with a procurement following publication of a planned procurement notice.",
+      "ordinal": 32,
+      "heading_path": [
+        "What is a planned procurement notice?",
+        "Key points and policy intent",
+        "Qualifying planned procurement notice: reducing timescales"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "p",
+      "text": "21. A qualifying planned procurement notice could contain a number of named contracting authorities who are cooperating in a procurement. For example, several local authorities might decide to enter into a joint contract for waste disposal services. If one of the contracting authorities who is named in the planned procurement notice decides, at the tender stage, not to participate in the joint procurement, the participating contracting authorities should consider whether it is still appropriate to rely on the qualifying planned procurement notice. In this case, it would very much depend on the circumstances, such as the impact of the contracting authority not participating and whether such a scenario had been envisioned in the content of the planned procurement notice. In some circumstances, it may not be advisable to reduce the tendering period.",
+      "ordinal": 33,
+      "heading_path": [
+        "What is a planned procurement notice?",
+        "Key points and policy intent",
+        "Qualifying planned procurement notice: reducing timescales"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "p",
+      "text": "22. Similarly, if a number of contracting authorities intend to procure individual waste services, and each publishes a planned procurement notice to this effect, and then it is subsequently considered appropriate to aggregate their requirements into a single procurement/contract they might not attract the same suppliers because of the difference in scale of the requirement. In this scenario the contracting authorities should consider whether it is appropriate to reduce the tendering periods in reliance on the individual qualifying planned procurement notices, or if they should publish a new planned procurement notice (or proceed in reliance on a single tender notice and the standard tendering period).",
+      "ordinal": 34,
+      "heading_path": [
+        "What is a planned procurement notice?",
+        "Key points and policy intent",
+        "Qualifying planned procurement notice: reducing timescales"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "heading",
+      "text": "What are the primary notices linked to this aspect of the Act?",
+      "ordinal": 35,
+      "heading_path": [
+        "What is a planned procurement notice?",
+        "What are the primary notices linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "p",
+      "text": "23. The planned procurement notice may be published before or after a pipeline notice or a preliminary market engagement notice.",
+      "ordinal": 36,
+      "heading_path": [
+        "What is a planned procurement notice?",
+        "What are the primary notices linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "p",
+      "text": "24. The next notice in the sequence will be one of the following:",
+      "ordinal": 37,
+      "heading_path": [
+        "What is a planned procurement notice?",
+        "What are the primary notices linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "p",
+      "text": "a. pipeline notice: to publish the individual upcoming procurements for the coming reporting period;",
+      "ordinal": 38,
+      "heading_path": [
+        "What is a planned procurement notice?",
+        "What are the primary notices linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "p",
+      "text": "b. preliminary market engagement notice: can be used to engage with the market about an upcoming procurement;",
+      "ordinal": 39,
+      "heading_path": [
+        "What is a planned procurement notice?",
+        "What are the primary notices linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "p",
+      "text": "c. tender notice: to advertise the procurement;",
+      "ordinal": 40,
+      "heading_path": [
+        "What is a planned procurement notice?",
+        "What are the primary notices linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "p",
+      "text": "d. transparency notice: it is possible, though unlikely, except where section 43 (switching to direct award) applies, that contracting authorities could publish a planned procurement notice but subsequently determine that there are grounds to directly award the contract and therefore publish a transparency notice;",
+      "ordinal": 41,
+      "heading_path": [
+        "What is a planned procurement notice?",
+        "What are the primary notices linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "p",
+      "text": "e. procurement termination notice: can be used voluntarily to indicate that a procurement set out in a planned procurement notice will not be progressed.",
+      "ordinal": 42,
+      "heading_path": [
+        "What is a planned procurement notice?",
+        "What are the primary notices linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "p",
+      "text": "25. Contracting authorities must ensure that when publishing the next notice in the sequence that they refer back to the originating notice if one exists. This should be a function of system providers and contracting authorities should check local procedures for further information on publishing notices.",
+      "ordinal": 43,
+      "heading_path": [
+        "What is a planned procurement notice?",
+        "What are the primary notices linked to this aspect of the Act?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00044",
+      "block_type": "heading",
+      "text": "What other guidance is of particular relevance to this topic area?",
+      "ordinal": 44,
+      "heading_path": [
+        "What is a planned procurement notice?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00045",
+      "block_type": "p",
+      "text": "Guidance on competitive tendering procedures",
+      "ordinal": 45,
+      "heading_path": [
+        "What is a planned procurement notice?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00046",
+      "block_type": "p",
+      "text": "Guidance on the central digital platform and publication of information",
+      "ordinal": 46,
+      "heading_path": [
+        "What is a planned procurement notice?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00047",
+      "block_type": "p",
+      "text": "© Crown copyright 2024",
+      "ordinal": 47,
+      "heading_path": [
+        "What is a planned procurement notice?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00048",
+      "block_type": "p",
+      "text": "This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated. To view this licence, visit nationalarchives.gov.uk/doc/open-government-licence/version/3",
+      "ordinal": 48,
+      "heading_path": [
+        "What is a planned procurement notice?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00049",
+      "block_type": "p",
+      "text": "Where we have identified any third party copyright information you will need to obtain permission from the copyright holders concerned.",
+      "ordinal": 49,
+      "heading_path": [
+        "What is a planned procurement notice?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00050",
+      "block_type": "p",
+      "text": "This publication is available at www.gov.uk/government/publications",
+      "ordinal": 50,
+      "heading_path": [
+        "What is a planned procurement notice?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00051",
+      "block_type": "p",
+      "text": "Any enquiries regarding this publication should be sent to us at procurement.reform@cabinetoffice.gov.uk .",
+      "ordinal": 51,
+      "heading_path": [
+        "What is a planned procurement notice?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00052",
+      "block_type": "li",
+      "text": "See Public Contracts Regulations 2015 regulation 48, Concession Contracts Regulations 2016 regulation 31, Defence and Security Public Contracts Regulations 2011 regulation 14, and periodic indicative notices, used in Utilities Contracts Regulations 2016 regulation 67 ↩",
+      "ordinal": 52,
+      "heading_path": [
+        "What is a planned procurement notice?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00053",
+      "block_type": "p",
+      "text": "See Public Contracts Regulations 2015 regulation 48, Concession Contracts Regulations 2016 regulation 31, Defence and Security Public Contracts Regulations 2011 regulation 14, and periodic indicative notices, used in Utilities Contracts Regulations 2016 regulation 67 ↩",
+      "ordinal": 53,
+      "heading_path": [
+        "What is a planned procurement notice?",
+        "What other guidance is of particular relevance to this topic area?"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "Procurement Act 2023 (Act)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/contents",
+      "block_id": "b00001",
+      "ordinal": 0,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Section 15",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/15",
+      "block_id": "b00004",
+      "ordinal": 1,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Regulation 16",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/16",
+      "block_id": "b00005",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Regulation 18",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/18",
+      "block_id": "b00006",
+      "ordinal": 3,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulations 19 - 22",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/part/2",
+      "block_id": "b00006",
+      "ordinal": 4,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "competitive tendering procedures",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/competitive-tendering-procedures-html",
+      "block_id": "b00006",
+      "ordinal": 5,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "[footnote 1]",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-planned-procurement-notice-html#fn:1",
+      "block_id": "b00008",
+      "ordinal": 6,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Section 15",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/15",
+      "block_id": "b00016",
+      "ordinal": 7,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 12",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/12",
+      "block_id": "b00016",
+      "ordinal": 8,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "regulation 16",
+      "href": "https://www.legislation.gov.uk/ukdsi/2024/9780348259728/regulation/16",
+      "block_id": "b00018",
+      "ordinal": 9,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 43",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/43",
+      "block_id": "b00024",
+      "ordinal": 10,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 15(3)",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/15",
+      "block_id": "b00030",
+      "ordinal": 11,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "section 43",
+      "href": "https://www.legislation.gov.uk/ukpga/2023/54/section/43",
+      "block_id": "b00041",
+      "ordinal": 12,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "competitive tendering procedures",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/competitive-tendering-procedures-html",
+      "block_id": "b00045",
+      "ordinal": 13,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "central digital platform and publication of information",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-central-digital-platform-and-publication-of-information-html",
+      "block_id": "b00046",
+      "ordinal": 14,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "nationalarchives.gov.uk/doc/open-government-licence/version/3",
+      "href": "http://nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "block_id": "b00048",
+      "ordinal": 15,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "www.gov.uk/government/publications",
+      "href": "http://www.gov.uk/government/publications",
+      "block_id": "b00050",
+      "ordinal": 16,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "procurement.reform@cabinetoffice.gov.uk",
+      "href": "mailto:procurement.reform@cabinetoffice.gov.uk",
+      "block_id": "b00051",
+      "ordinal": 17,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "Public Contracts Regulations 2015",
+      "href": "http://www.legislation.gov.uk/uksi/2015/102/contents",
+      "block_id": "b00052",
+      "ordinal": 18,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Concession Contracts Regulations 2016",
+      "href": "http://www.legislation.gov.uk/uksi/2016/273/contents",
+      "block_id": "b00052",
+      "ordinal": 19,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Defence and Security Public Contracts Regulations 2011",
+      "href": "http://www.legislation.gov.uk/uksi/2011/1848/contents",
+      "block_id": "b00052",
+      "ordinal": 20,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Utilities Contracts Regulations 2016",
+      "href": "http://www.legislation.gov.uk/uksi/2016/274/contents",
+      "block_id": "b00052",
+      "ordinal": 21,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-planned-procurement-notice-html#fnref:1",
+      "block_id": "b00052",
+      "ordinal": 22,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Public Contracts Regulations 2015",
+      "href": "http://www.legislation.gov.uk/uksi/2015/102/contents",
+      "block_id": "b00053",
+      "ordinal": 23,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Concession Contracts Regulations 2016",
+      "href": "http://www.legislation.gov.uk/uksi/2016/273/contents",
+      "block_id": "b00053",
+      "ordinal": 24,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Defence and Security Public Contracts Regulations 2011",
+      "href": "http://www.legislation.gov.uk/uksi/2011/1848/contents",
+      "block_id": "b00053",
+      "ordinal": 25,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Utilities Contracts Regulations 2016",
+      "href": "http://www.legislation.gov.uk/uksi/2016/274/contents",
+      "block_id": "b00053",
+      "ordinal": 26,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-planned-procurement-notice-html#fnref:1",
+      "block_id": "b00053",
+      "ordinal": 27,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Guidance: Planned Procurement Notice (HTML)",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase/guidance-planned-procurement-notice-html",
+      "block_id": "__document__",
+      "ordinal": 28,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2022 to 2024 Sunak Conservative government",
+      "href": "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 29,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 30,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Procurement Act 2023 guidance documents - Define phase",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-define-phase",
+      "block_id": "__document__",
+      "ordinal": 31,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 32,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 15",
+      "block_id": "b00004",
+      "start": 0,
+      "end": 10,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "15"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 16",
+      "block_id": "b00005",
+      "start": 0,
+      "end": 13,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "16"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulation 18",
+      "block_id": "b00006",
+      "start": 0,
+      "end": 13,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "18"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulations 19",
+      "block_id": "b00006",
+      "start": 40,
+      "end": 54,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "19"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "Section 15",
+      "block_id": "b00016",
+      "start": 3,
+      "end": 13,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "15"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 12",
+      "block_id": "b00016",
+      "start": 465,
+      "end": 475,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "12"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 16",
+      "block_id": "b00018",
+      "start": 72,
+      "end": 85,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "16"
+      }
+    },
+    {
+      "reference_type": "PARAGRAPH_REFERENCE",
+      "raw_text": "paragraph 7",
+      "block_id": "b00021",
+      "start": 186,
+      "end": 197,
+      "normalized": {
+        "kind": "PARAGRAPH_REFERENCE",
+        "number": "7"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 43",
+      "block_id": "b00024",
+      "start": 239,
+      "end": 249,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "43"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 15(3)",
+      "block_id": "b00030",
+      "start": 476,
+      "end": 489,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "15",
+        "tail": "(3)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 43",
+      "block_id": "b00041",
+      "start": 70,
+      "end": 80,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "43"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015",
+      "block_id": "b00052",
+      "start": 21,
+      "end": 37,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 48",
+      "block_id": "b00052",
+      "start": 38,
+      "end": 51,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "48"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2016",
+      "block_id": "b00052",
+      "start": 74,
+      "end": 90,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2016"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 31",
+      "block_id": "b00052",
+      "start": 91,
+      "end": 104,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "31"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2011",
+      "block_id": "b00052",
+      "start": 144,
+      "end": 160,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2011"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 14",
+      "block_id": "b00052",
+      "start": 161,
+      "end": 174,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "14"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2016",
+      "block_id": "b00052",
+      "start": 237,
+      "end": 253,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2016"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 67",
+      "block_id": "b00052",
+      "start": 254,
+      "end": 267,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "67"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2015",
+      "block_id": "b00053",
+      "start": 21,
+      "end": 37,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2015"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 48",
+      "block_id": "b00053",
+      "start": 38,
+      "end": 51,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "48"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2016",
+      "block_id": "b00053",
+      "start": 74,
+      "end": 90,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2016"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 31",
+      "block_id": "b00053",
+      "start": 91,
+      "end": 104,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "31"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2011",
+      "block_id": "b00053",
+      "start": 144,
+      "end": 160,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2011"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 14",
+      "block_id": "b00053",
+      "start": 161,
+      "end": 174,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "14"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2016",
+      "block_id": "b00053",
+      "start": 237,
+      "end": 253,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2016"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "regulation 67",
+      "block_id": "b00053",
+      "start": 254,
+      "end": 267,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "67"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}

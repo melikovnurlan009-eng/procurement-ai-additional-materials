@@ -1,0 +1,168 @@
+{
+  "document_id": "577fde19-7c02-4872-911e-c4ae62e7ec13",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/933b50fe844ea219c1aa47cc.json",
+  "input_sha256": "607c347e50d520e429728a20973d399e5c5559130b479be6d8abaad7ff9877ee",
+  "processed_at": "2026-08-27T02:26:31.299624+00:00",
+  "title": "PPN 01/24 Carbon Reduction Contract Schedule",
+  "canonical_url": "https://www.gov.uk/government/publications/ppn-0124-carbon-reduction-contract-schedule",
+  "description": "PPN 01/24 introduces an optional standard carbon reduction contract schedule that can be included in Government contracts.",
+  "publication_date": "2024-03-18T00:00:00+00:00",
+  "updated_date": "2024-03-18T00:00:00+00:00",
+  "source_metadata": {
+    "content_id": "577fde19-7c02-4872-911e-c4ae62e7ec13",
+    "base_path": "/government/publications/ppn-0124-carbon-reduction-contract-schedule",
+    "document_type": "guidance",
+    "schema_name": "publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "The Carbon Reduction Schedule provides standard T&Cs to support contract specific decarbonisation objectives to be set and delivered, and provides a framework to monitor and assess the Supplier’s decarbonisation performance. These include contract specific GHG emissions reporting, setting supplier GHG emissions reduction targets and monitoring and reducing GHG emissions throughout the life of the contract though a supplier GHG emissions Reduction Plan.",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "PPN 01/24 Carbon Reduction Contract Schedule",
+      "href": "https://www.gov.uk/government/publications/ppn-0124-carbon-reduction-contract-schedule",
+      "block_id": "__document__",
+      "ordinal": 0,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "Carbon Reduction Schedule Guidance (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-0124-carbon-reduction-contract-schedule/carbon-reduction-schedule-guidance-html",
+      "block_id": "__document__",
+      "ordinal": 1,
+      "link_type": "GOVUK_CHILDREN"
+    },
+    {
+      "text": "Carbon Reduction Schedule (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-0124-carbon-reduction-contract-schedule/carbon-reduction-schedule-html",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_CHILDREN"
+    },
+    {
+      "text": "Procurement Policy Note 01/24: Carbon Reduction Contract Schedule (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-0124-carbon-reduction-contract-schedule/procurement-policy-note-0124-carbon-reduction-contract-schedule-html",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_CHILDREN"
+    },
+    {
+      "text": "Procurement policy notes",
+      "href": "https://www.gov.uk/government/collections/procurement-policy-notes",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_DOCUMENT_COLLECTIONS"
+    },
+    {
+      "text": "2022 to 2024 Sunak Conservative government",
+      "href": "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 7,
+      "link_type": "GOVUK_ORIGINAL_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 8,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Government spending",
+      "href": "https://www.gov.uk/government/government-spending",
+      "block_id": "__document__",
+      "ordinal": 9,
+      "link_type": "GOVUK_TAXONS"
+    }
+  ],
+  "legal_references": [],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/65f80672af6a0daea190d501/2023-12-01_Carbon_clauses_PPN_01_24.pdf",
+      "title": "Procurement Policy Note 01/24: Carbon Reduction Contract Schedule (PDF)",
+      "content_type": "application/pdf",
+      "filename": "2023-12-01_Carbon_clauses_PPN_01_24.pdf",
+      "id": "7939048",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "/government/publications/ppn-0124-carbon-reduction-contract-schedule/procurement-policy-note-0124-carbon-reduction-contract-schedule-html",
+      "title": "Procurement Policy Note 01/24: Carbon Reduction Contract Schedule (HTML)",
+      "content_type": null,
+      "filename": null,
+      "id": "7939049",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/65f80b818112257381579f49/2024-02-15_Carbon_Reduction_Schedule.pdf",
+      "title": "Carbon Reduction Schedule (PDF)",
+      "content_type": "application/pdf",
+      "filename": "2024-02-15_Carbon_Reduction_Schedule.pdf",
+      "id": "7939050",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/65f80b4450397e72ccc755a6/2024-02-15-Carbon-Reduction-Schedule.odt",
+      "title": "Carbon Reduction Schedule (ODT)",
+      "content_type": "application/vnd.oasis.opendocument.text",
+      "filename": "2024-02-15-Carbon-Reduction-Schedule.odt",
+      "id": "7939051",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "/government/publications/ppn-0124-carbon-reduction-contract-schedule/carbon-reduction-schedule-html",
+      "title": "Carbon Reduction Schedule (HTML)",
+      "content_type": null,
+      "filename": null,
+      "id": "7939052",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/661cf7fc08c3be25cfbd3d8b/2023-11-15_Carbon_Schedule_Guidance_updated.pdf",
+      "title": "Carbon Reduction Schedule Guidance (PDF)",
+      "content_type": "application/pdf",
+      "filename": "2023-11-15_Carbon_Schedule_Guidance_updated.pdf",
+      "id": "7939053",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "/government/publications/ppn-0124-carbon-reduction-contract-schedule/carbon-reduction-schedule-guidance-html",
+      "title": "Carbon Reduction Schedule Guidance (HTML)",
+      "content_type": null,
+      "filename": null,
+      "id": "7939054",
+      "logical_role": "ATTACHMENT"
+    }
+  ],
+  "warnings": []
+}

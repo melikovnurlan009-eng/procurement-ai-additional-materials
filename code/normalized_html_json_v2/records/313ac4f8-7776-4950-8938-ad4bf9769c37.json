@@ -1,0 +1,114 @@
+{
+  "document_id": "313ac4f8-7776-4950-8938-ad4bf9769c37",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/92d3c89e490fa6b332be37db.json",
+  "input_sha256": "ed8644d0c0987cbfa654321b779791f1f4307c62b26ff223aa854c61641c69af",
+  "processed_at": "2026-08-27T02:26:31.200886+00:00",
+  "title": "PPN 06/23 The Commercial Playbooks",
+  "canonical_url": "https://www.gov.uk/government/publications/ppn-0623-the-commercial-playbooks",
+  "description": "PPN setting out which organisations are in-scope of the Commercial Playbooks and how their principles should be applied. ",
+  "publication_date": "2023-06-20T11:00:03+01:00",
+  "updated_date": "2023-06-20T11:00:03+01:00",
+  "source_metadata": {
+    "content_id": "313ac4f8-7776-4950-8938-ad4bf9769c37",
+    "base_path": "/government/publications/ppn-0623-the-commercial-playbooks",
+    "document_type": "guidance",
+    "schema_name": "publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "PPN setting out which organisations are in-scope of the Commercial Playbooks and how their principles should be applied.",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "PPN 06/23 The Commercial Playbooks",
+      "href": "https://www.gov.uk/government/publications/ppn-0623-the-commercial-playbooks",
+      "block_id": "__document__",
+      "ordinal": 0,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "Procurement Policy Note: The Commercial Playbooks (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-0623-the-commercial-playbooks/procurement-policy-note-the-commercial-playbooks-html",
+      "block_id": "__document__",
+      "ordinal": 1,
+      "link_type": "GOVUK_CHILDREN"
+    },
+    {
+      "text": "Procurement policy notes",
+      "href": "https://www.gov.uk/government/collections/procurement-policy-notes",
+      "block_id": "__document__",
+      "ordinal": 2,
+      "link_type": "GOVUK_DOCUMENT_COLLECTIONS"
+    },
+    {
+      "text": "2022 to 2024 Sunak Conservative government",
+      "href": "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government",
+      "block_id": "__document__",
+      "ordinal": 3,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 4,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 5,
+      "link_type": "GOVUK_ORIGINAL_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 6,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    },
+    {
+      "text": "Government spending",
+      "href": "https://www.gov.uk/government/government-spending",
+      "block_id": "__document__",
+      "ordinal": 7,
+      "link_type": "GOVUK_TAXONS"
+    }
+  ],
+  "legal_references": [],
+  "attachments": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/64905c015f7bb7000c7fad21/PPN_06_23_The_Commercial_Playbooks.pdf",
+      "title": "Procurement Policy Note: The Commercial Playbooks (PDF)",
+      "content_type": "application/pdf",
+      "filename": "PPN_06_23_The_Commercial_Playbooks.pdf",
+      "id": "7386537",
+      "logical_role": "ATTACHMENT"
+    },
+    {
+      "url": "/government/publications/ppn-0623-the-commercial-playbooks/procurement-policy-note-the-commercial-playbooks-html",
+      "title": "Procurement Policy Note: The Commercial Playbooks (HTML)",
+      "content_type": null,
+      "filename": null,
+      "id": "7386540",
+      "logical_role": "ATTACHMENT"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,810 @@
+{
+  "document_id": "896844ac-289a-4d9e-ad00-a81c2c8c5755",
+  "processor_name": "deterministic_html_json_normalizer",
+  "processor_version": "1.0.0",
+  "source_format": "govuk_json",
+  "source_path": "corpus_ingest_v2/raw/5620846c1fa180f75346dc31.json",
+  "input_sha256": "1ee1f0a18c0b22ad158899f33bbf9e948c4b68a95af3f6b0155788d00f7a2efe",
+  "processed_at": "2026-08-27T02:26:18.365253+00:00",
+  "title": "PPN 005: Reserving below threshold (HTML)",
+  "canonical_url": "https://www.gov.uk/government/publications/ppn-005-reserving-below-threshold-procurements/ppn-005-reserving-below-threshold-html",
+  "description": null,
+  "publication_date": "2025-02-17T14:44:07+00:00",
+  "updated_date": "2025-02-17T00:00:00+00:00",
+  "source_metadata": {
+    "content_id": "896844ac-289a-4d9e-ad00-a81c2c8c5755",
+    "base_path": "/government/publications/ppn-005-reserving-below-threshold-procurements/ppn-005-reserving-below-threshold-html",
+    "document_type": "html_publication",
+    "schema_name": "html_publication",
+    "publishing_app": "whitehall",
+    "rendering_app": "frontend",
+    "locale": "en",
+    "withdrawn_notice": {}
+  },
+  "logical_structure": [
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Issue",
+      "ordinal": 3,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Dissemination and scope",
+      "ordinal": 5,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Timing",
+      "ordinal": 13,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Action",
+      "ordinal": 15,
+      "source": "details.body"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "title": "Contact",
+      "ordinal": 38,
+      "source": "details.body"
+    }
+  ],
+  "content_blocks": [
+    {
+      "block_id": "b00000",
+      "block_type": "p",
+      "text": "Action Note: 005",
+      "ordinal": 0,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00001",
+      "block_type": "p",
+      "text": "Previously issued: December 2020",
+      "ordinal": 1,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00002",
+      "block_type": "p",
+      "text": "Updated: February 2025",
+      "ordinal": 2,
+      "heading_path": [],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00003",
+      "block_type": "heading",
+      "text": "Issue",
+      "ordinal": 3,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00004",
+      "block_type": "p",
+      "text": "1. This Procurement Policy Note (PPN) sets out information and associated guidance on the options available to contracting authorities to streamline and simplify procurement for goods, services and works contracts with a value below the applicable thresholds.",
+      "ordinal": 4,
+      "heading_path": [
+        "Issue"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00005",
+      "block_type": "heading",
+      "text": "Dissemination and scope",
+      "ordinal": 5,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00006",
+      "block_type": "p",
+      "text": "2. This PPN applies to all central government departments, their executive agencies and non-departmental public bodies when awarding regulated below threshold contracts [footnote 1] for goods and/or services and/or works, other than special regime contracts. [footnote 2] Such bodies are referred to as ‘in-scope organisations’.",
+      "ordinal": 6,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00007",
+      "block_type": "p",
+      "text": "3. Please circulate this PPN within your organisation, particularly to those with a commercial procurement and/or contract management role. It may also be relevant to those in finance, operational and sustainability roles.",
+      "ordinal": 7,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00008",
+      "block_type": "p",
+      "text": "4. Other public sector contracting authorities may wish to apply the approach set out in this PPN. However, application of the PPN should be considered in the light of authorities’ relevant legal obligations.",
+      "ordinal": 8,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00009",
+      "block_type": "p",
+      "text": "5. There are exceptions to the application of the policy, to certain procurements which involve the provision of goods into Northern Ireland. EU Treaty rights relating to the free movement of goods continue to apply in Northern Ireland under the terms of the Windsor Framework . This means that below threshold procurements involving the provision of goods into Northern Ireland continue to be subject to a cross-border interest test (i.e. which may be of interest to suppliers from EU Member States including the Republic of Ireland). Consequently, for supplies, services or works procurements where goods are to be provided into Northern Ireland and where there is cross-border interest, this policy should not be applied.",
+      "ordinal": 9,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00010",
+      "block_type": "p",
+      "text": "6. This PPN has been updated to reflect new terminology introduced by the Procurement Act 2023 and the Procurement Regulations 2024. The Procurement Act 2023 and the Procurement Regulations 2024 applies to procurements commenced on or after 24 February 2025. For more detail on the meaning of ‘commenced’ please refer to the Procurement Act 2023 Guidance on transitional and savings arrangements .",
+      "ordinal": 10,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00011",
+      "block_type": "p",
+      "text": "7. The Procurement Act 2023 does not apply to procurements commenced before 24 February 2025 or to contracts awarded prior to this date (including via frameworks, dynamic purchasing systems or qualification systems established under the previous legislation). For procurements commenced and contracts awarded before this date, please refer to PPN 11/20.",
+      "ordinal": 11,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00012",
+      "block_type": "p",
+      "text": "8. This update does not constitute a change in policy or a new call for action, but in- scope organisations should continue to apply any ongoing obligations set out in the provisions of this PPN. In-scope organisations do not need to repeat actions which were required upon this PPN’s initial publication.",
+      "ordinal": 12,
+      "heading_path": [
+        "Issue",
+        "Dissemination and scope"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00013",
+      "block_type": "heading",
+      "text": "Timing",
+      "ordinal": 13,
+      "heading_path": [
+        "Issue",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00014",
+      "block_type": "p",
+      "text": "9. In-scope organisations should note the provisions of this PPN from 24 February 2025.",
+      "ordinal": 14,
+      "heading_path": [
+        "Issue",
+        "Timing"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00015",
+      "block_type": "heading",
+      "text": "Action",
+      "ordinal": 15,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00016",
+      "block_type": "p",
+      "text": "10. This PPN and associated guidance covers options that may be considered by in- scope organisations when procuring contracts for goods, services and works below the threshold. These thresholds are provided for in Schedule 1 of the Procurement Act 2023 and derive from the WTO Agreement on Government Procurement (GPA).",
+      "ordinal": 16,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00017",
+      "block_type": "p",
+      "text": "11. In-scope organisations may consider, where appropriate, the following options for the procurement of below threshold contracts:",
+      "ordinal": 17,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00018",
+      "block_type": "li",
+      "text": "Reserve the procurement by supplier location. This means being able to run a competition and specify that only suppliers located in a geographical area can bid. This could be UK-wide to support domestic supply chains and promote resilience and capacity, or where appropriate, by county (metropolitan or non-metropolitan, or by borough for London) to tackle economic inequality and support local recruitment, training, skills and investment. In-scope organisations should not define by nations of the UK (i.e. England, Scotland, Wales, Northern Ireland) and where a county reservation is to be applied, only a single county (or borough for London) may be reserved. Supplier location should be described by reference to where the supplier is based or established and has substantive business operations and not by location of corporate ownership.",
+      "ordinal": 18,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00019",
+      "block_type": "p",
+      "text": "And in addition:",
+      "ordinal": 19,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00020",
+      "block_type": "li",
+      "text": "Reserve the procurement for small and medium sized enterprises (SMEs) and voluntary, community and social enterprises (VCSEs). This means being able to run a competition and specify that only SMEs and VCSEs can bid.",
+      "ordinal": 20,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00021",
+      "block_type": "p",
+      "text": "12. These options should be considered on a case-by-case basis. For example, for one procurement an in-scope organisation may wish to reserve the procurement for suppliers based in a particular location only, but for another procurement they may want to reserve it for SMEs and VCSEs in a particular location. To note, the reservation for SMEs and VCSEs cannot be applied independently of the location reservation, which must always apply when reserving under this policy. In-scope organisations should be clear in their procurement documentation about any intention to reserve the procurement, for example by including the standardised definitions of SMEs and VCSEs and supplier location outlined in the associated guidance.",
+      "ordinal": 21,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00022",
+      "block_type": "p",
+      "text": "13. In applying the policy, it is important that in-scope organisations achieve value for money and use good commercial judgement. In-scope organisations may still choose to compete below threshold contracts on an open basis without any reservation for supplier location and type. To ensure value for money, in-scope organisations should not direct award when reserving procurements under this policy.",
+      "ordinal": 22,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00023",
+      "block_type": "p",
+      "text": "14. In considering whether to reserve a procurement, in-scope organisations will still need to comply with their own internal guidance, governance and procedures. These will need to be updated as appropriate to capture the new flexibilities and to reflect the policy measures in this PPN.",
+      "ordinal": 23,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00024",
+      "block_type": "p",
+      "text": "15. In reserving procurements, in-scope organisations should:",
+      "ordinal": 24,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00025",
+      "block_type": "li",
+      "text": "ensure value for money",
+      "ordinal": 25,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00026",
+      "block_type": "li",
+      "text": "assess the sector / market",
+      "ordinal": 26,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00027",
+      "block_type": "li",
+      "text": "have regard to SMEs in accordance with section 86 of the Procurement Act",
+      "ordinal": 27,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00028",
+      "block_type": "li",
+      "text": "identify and manage associated risks, including fraud and corruption",
+      "ordinal": 28,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00029",
+      "block_type": "li",
+      "text": "ensure a budget is available and approved at an appropriate level(s)",
+      "ordinal": 29,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00030",
+      "block_type": "li",
+      "text": "use suitable model contracts",
+      "ordinal": 30,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00031",
+      "block_type": "li",
+      "text": "develop simple and proportionate KPI and data reporting mechanisms",
+      "ordinal": 31,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00032",
+      "block_type": "li",
+      "text": "undertake supplier due diligence checks",
+      "ordinal": 32,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00033",
+      "block_type": "li",
+      "text": "ensure final approval is obtained at an appropriate level(s)",
+      "ordinal": 33,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00034",
+      "block_type": "li",
+      "text": "keep suitable records of commercial decisions",
+      "ordinal": 34,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00035",
+      "block_type": "li",
+      "text": "publish transparency notices on the central digital platform as appropriate in a timely manner",
+      "ordinal": 35,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00036",
+      "block_type": "p",
+      "text": "16. In-scope organisations must comply with the legal requirements in Part 6 of the Procurement Act 2023, applicable to regulated below threshold contracts. These include obligations to publish notices on the central digital platform and rules on assessing suitability.",
+      "ordinal": 36,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00037",
+      "block_type": "p",
+      "text": "17. Further information relating to the application of this policy is included in the associated guidance document and frequently asked questions. Procurement Act guidance on Below Threshold provisions can also be found in the Procurement Act 2023 - Guidance documents on GOV.UK",
+      "ordinal": 37,
+      "heading_path": [
+        "Issue",
+        "Action"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00038",
+      "block_type": "heading",
+      "text": "Contact",
+      "ordinal": 38,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00039",
+      "block_type": "p",
+      "text": "18. Enquiries about this PPN should be directed to the Crown Commercial Service Helpdesk on 0345 410 2222 or info@crowncommercial.gov.uk",
+      "ordinal": 39,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00040",
+      "block_type": "li",
+      "text": "A regulated below-threshold contract is a contract with a value below those set out in Schedule 1 of the PA 2023, which is not exempt, a concession contract, a utilities contract, or awarded by a school, a transferred NI authority (unless under a reserved or devolved Welsh procurement arrangement) or under a transferred NI procurement arrangement. For full details please see section 84 of the PA 2023. ↩",
+      "ordinal": 40,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00041",
+      "block_type": "p",
+      "text": "A regulated below-threshold contract is a contract with a value below those set out in Schedule 1 of the PA 2023, which is not exempt, a concession contract, a utilities contract, or awarded by a school, a transferred NI authority (unless under a reserved or devolved Welsh procurement arrangement) or under a transferred NI procurement arrangement. For full details please see section 84 of the PA 2023. ↩",
+      "ordinal": 41,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00042",
+      "block_type": "li",
+      "text": "See section 10(6) of the Procurement Act 2023. ↩",
+      "ordinal": 42,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    },
+    {
+      "block_id": "b00043",
+      "block_type": "p",
+      "text": "See section 10(6) of the Procurement Act 2023. ↩",
+      "ordinal": 43,
+      "heading_path": [
+        "Issue",
+        "Contact"
+      ],
+      "source_locator": "details.body",
+      "metadata": {}
+    }
+  ],
+  "links": [
+    {
+      "text": "[footnote 1]",
+      "href": "https://www.gov.uk/government/publications/ppn-005-reserving-below-threshold-procurements/ppn-005-reserving-below-threshold-html#fn:1",
+      "block_id": "b00006",
+      "ordinal": 0,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "[footnote 2]",
+      "href": "https://www.gov.uk/government/publications/ppn-005-reserving-below-threshold-procurements/ppn-005-reserving-below-threshold-html#fn:2",
+      "block_id": "b00006",
+      "ordinal": 1,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "Windsor Framework",
+      "href": "https://www.gov.uk/government/publications/moving-excise-goods-as-freight-under-the-northern-ireland-protocol-from-1-january-2021/moving-excise-goods-as-freight-under-the-northern-ireland-protocol-from-1-january-2021",
+      "block_id": "b00009",
+      "ordinal": 2,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Guidance on transitional and savings arrangements",
+      "href": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-plan-phase/guidance-transitional-and-saving-arrangements-html",
+      "block_id": "b00010",
+      "ordinal": 3,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "Procurement Act",
+      "href": "https://www.gov.uk/government/collections/procurement-act-2023-guidance-documents",
+      "block_id": "b00037",
+      "ordinal": 4,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "2023 - Guidance documents on GOV.UK",
+      "href": "https://www.gov.uk/government/collections/procurement-act-2023-guidance-documents",
+      "block_id": "b00037",
+      "ordinal": 5,
+      "link_type": "EXTERNAL_OR_RELATED"
+    },
+    {
+      "text": "info@crowncommercial.gov.uk",
+      "href": "mailto:info@crowncommercial.gov.uk",
+      "block_id": "b00039",
+      "ordinal": 6,
+      "link_type": "CONTACT"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-005-reserving-below-threshold-procurements/ppn-005-reserving-below-threshold-html#fnref:1",
+      "block_id": "b00040",
+      "ordinal": 7,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-005-reserving-below-threshold-procurements/ppn-005-reserving-below-threshold-html#fnref:1",
+      "block_id": "b00041",
+      "ordinal": 8,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-005-reserving-below-threshold-procurements/ppn-005-reserving-below-threshold-html#fnref:2",
+      "block_id": "b00042",
+      "ordinal": 9,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "↩",
+      "href": "https://www.gov.uk/government/publications/ppn-005-reserving-below-threshold-procurements/ppn-005-reserving-below-threshold-html#fnref:2",
+      "block_id": "b00043",
+      "ordinal": 10,
+      "link_type": "SAME_SITE"
+    },
+    {
+      "text": "PPN 005: Reserving below threshold (HTML)",
+      "href": "https://www.gov.uk/government/publications/ppn-005-reserving-below-threshold-procurements/ppn-005-reserving-below-threshold-html",
+      "block_id": "__document__",
+      "ordinal": 11,
+      "link_type": "GOVUK_AVAILABLE_TRANSLATIONS"
+    },
+    {
+      "text": "2024 to 2026 Starmer Labour government",
+      "href": "https://www.gov.uk/government/2024-starmer-labour-government",
+      "block_id": "__document__",
+      "ordinal": 12,
+      "link_type": "GOVUK_GOVERNMENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 13,
+      "link_type": "GOVUK_ORGANISATIONS"
+    },
+    {
+      "text": "PPN 005: Reserving below threshold procurements",
+      "href": "https://www.gov.uk/government/publications/ppn-005-reserving-below-threshold-procurements",
+      "block_id": "__document__",
+      "ordinal": 14,
+      "link_type": "GOVUK_PARENT"
+    },
+    {
+      "text": "Cabinet Office",
+      "href": "https://www.gov.uk/government/organisations/cabinet-office",
+      "block_id": "__document__",
+      "ordinal": 15,
+      "link_type": "GOVUK_PRIMARY_PUBLISHING_ORGANISATION"
+    }
+  ],
+  "legal_references": [
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2024",
+      "block_id": "b00010",
+      "start": 115,
+      "end": 131,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2024"
+      }
+    },
+    {
+      "reference_type": "REGULATION_REFERENCE",
+      "raw_text": "Regulations 2024",
+      "block_id": "b00010",
+      "start": 178,
+      "end": 194,
+      "normalized": {
+        "kind": "REGULATION_REFERENCE",
+        "number": "2024"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 1",
+      "block_id": "b00016",
+      "start": 215,
+      "end": 225,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 86",
+      "block_id": "b00027",
+      "start": 39,
+      "end": 49,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "86"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 84",
+      "block_id": "b00040",
+      "start": 378,
+      "end": 388,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "84"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 1",
+      "block_id": "b00040",
+      "start": 87,
+      "end": 97,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 84",
+      "block_id": "b00041",
+      "start": 378,
+      "end": 388,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "84"
+      }
+    },
+    {
+      "reference_type": "SCHEDULE_REFERENCE",
+      "raw_text": "Schedule 1",
+      "block_id": "b00041",
+      "start": 87,
+      "end": 97,
+      "normalized": {
+        "kind": "SCHEDULE_REFERENCE",
+        "number": "1"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 10(6)",
+      "block_id": "b00042",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "10",
+        "tail": "(6)"
+      }
+    },
+    {
+      "reference_type": "SECTION_REFERENCE",
+      "raw_text": "section 10(6)",
+      "block_id": "b00043",
+      "start": 4,
+      "end": 17,
+      "normalized": {
+        "kind": "SECTION_REFERENCE",
+        "number": "10",
+        "tail": "(6)"
+      }
+    }
+  ],
+  "attachments": [],
+  "warnings": []
+}
