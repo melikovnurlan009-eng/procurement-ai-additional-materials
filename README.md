@@ -34,7 +34,14 @@ See `TECHNICAL_APPENDIX.md` for the full pipeline diagram and methodology.
 - **An OpenAI API key**, only for the live application's `/answer`/`/refine` endpoints, or to
   rerun any LLM-driven step yourself (chunking, controller, judging).
 
-Run every command below from the repository root (the directory this file is in).
+Run this once, from the repository root (the directory this file is in), before anything else:
+
+```bash
+REPO_ROOT="$(pwd)"
+```
+
+Every command block below uses `$REPO_ROOT`, so it still works even if a previous step's `cd`
+left your shell somewhere else. (Opened a new terminal? Re-run that line there first.)
 
 ## What this supports
 
@@ -77,14 +84,14 @@ The UK public procurement AI assistant described in the thesis. Three parts:
 ## Verify integrity
 
 ```bash
-python3 scripts/verify_freeze.py     # frozen code/config hashes vs prw_freeze_record.json
-python3 scripts/verify_bundle.py     # static validator (paths, secrets, manifests, syntax)
+python3 "$REPO_ROOT/scripts/verify_freeze.py"     # frozen code/config hashes vs prw_freeze_record.json
+python3 "$REPO_ROOT/scripts/verify_bundle.py"     # static validator (paths, secrets, manifests, syntax)
 ```
 
 ## Run tests
 
 ```bash
-cd code/procurement_research_workbench_v1
+cd "$REPO_ROOT/code/procurement_research_workbench_v1"
 python3 -m pip install -e ".[dev]"   # pytest + jsonschema; add ",diagnostics" for the scipy-based test too, ",plots" for matplotlib
 python3 -m pytest -q
 ```
@@ -105,7 +112,7 @@ not re-run here, because its retrieval/judging steps call an LLM with no fixed s
 above; its actual recorded outputs are the JSONL files under `results/`.
 
 ```bash
-cd code/evaluation/final_retrieval_benchmark
+cd "$REPO_ROOT/code/evaluation/final_retrieval_benchmark"
 python3 candidate_ceiling_CORRECTED.py    # candidate-generation/ranking classification
 python3 build_final_tables.py             # FINAL_RESULTS_TABLE.csv, PAIRWISE_STATISTICS.csv
 python3 strict_target_recall.py           # judge-independent strict recall
@@ -124,11 +131,11 @@ against the frozen source data directly.
 Requires a local Docker install and, only for two endpoints, your own OpenAI API key.
 
 ```bash
-docker compose up -d qdrant
-cd code && pip install -r requirements.txt && cd ..   # rebuild_search_index.py needs these installed first
-python3 scripts/rebuild_search_index.py     # ~20-40 min on CPU; builds the search index from code/corpus_export/data/
-cp .env.example .env                         # add your own OPENAI_API_KEY
-cd code && python chunk_api.py               # serves on :8899
+docker compose -f "$REPO_ROOT/docker-compose.yml" up -d qdrant
+cd "$REPO_ROOT/code" && pip install -r requirements.txt   # rebuild_search_index.py needs these installed first
+python3 "$REPO_ROOT/scripts/rebuild_search_index.py"     # ~20-40 min on CPU; builds the search index from code/corpus_export/data/
+cd "$REPO_ROOT" && cp .env.example .env                   # add your own OPENAI_API_KEY
+cd "$REPO_ROOT/code" && python chunk_api.py                # serves on :8899
 ```
 
 `/search` and `/health` need no API key. `/answer` and `/refine` do.
