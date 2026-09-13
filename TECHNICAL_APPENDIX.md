@@ -4,7 +4,7 @@ Retrieval and adaptive-controller evaluation over a UK public procurement legal 
 This describes every stage from corpus construction through final metrics, in enough detail to
 reproduce the reported analysis.
 
-**Just want the commands to run, in order?** See `README.md`'s "Quickstart" section --
+If you want to just run the commands See `README.md`'s "Quickstart" section --
 everything below is the detailed *why*, not a replacement for that ordered sequence.
 
 ## 0. End-to-end pipeline
