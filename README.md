@@ -43,12 +43,14 @@ REPO_ROOT="$(pwd)"
 Every command block below uses `$REPO_ROOT`, so it still works even if a previous step's `cd`
 left your shell somewhere else. (Opened a new terminal? Re-run that line there first.)
 
-## Quickstart: run these in order to reach the final, working system
+## Quickstart: run these in order
 
-Everything else in this file explains *why* -- this section just gives the order. Run from the
-repository root.
+Every command below is copy-pasteable in sequence, from the repository root. Steps marked
+**(optional)** can be skipped without affecting anything after them -- everything else is a hard
+prerequisite for the step that follows it. Every step is explained in more detail, with its own
+heading, further down this file; this section only fixes the order.
 
-**1. Python 3.10+ venv, and capture the repo root** (see "Prerequisites" above if this fails):
+**1. Set up Python 3.10+ and capture the repo root** (see "Prerequisites" above if this fails):
 ```bash
 REPO_ROOT="$(pwd)"
 python3.12 -m venv .venv   # substitute whichever 3.10+ interpreter you installed
@@ -63,8 +65,7 @@ python3 "$REPO_ROOT/scripts/verify_bundle.py"
 ```
 
 **3. Build the final database and search index** -- from the corpus already exported in this
-bundle, **not** by re-scraping (re-scraping live sources is not guaranteed to reproduce the same
-corpus; see "What is and is not exactly reproducible" below):
+bundle, **not** by re-scraping (see "What is and is not exactly reproducible" below for why):
 ```bash
 docker compose -f "$REPO_ROOT/docker-compose.yml" up -d qdrant
 cd "$REPO_ROOT/code" && pip install -r requirements.txt
@@ -76,14 +77,36 @@ python3 "$REPO_ROOT/scripts/rebuild_search_index.py"   # ~20-40 min on CPU
 cd "$REPO_ROOT" && cp .env.example .env   # add your own OPENAI_API_KEY
 cd "$REPO_ROOT/code" && python chunk_api.py   # serves on :8899
 ```
-`/search` and `/health` work with no API key; `/answer`/`/refine` need one.
+`/search` and `/health` work with no key; `/answer`/`/refine` need one. **This is the final,
+working system** -- same database, same search index, same retrieval code that was evaluated.
+Everything below is about the evaluation, not the system itself, and every one of the remaining
+steps is independent of the others -- run whichever you actually need, in any order.
 
-**That's the final, working system** -- same database, same search index, same retrieval code
-that was evaluated. Everything past this point is optional, depending on what you want next:
-- Run the test suite -- "Run tests" below.
-- Reproduce the reported tables/figures -- "Reach the reported tables and figures" below.
-- Spot-check the acquisition/chunking methodology against live sources -- "Verify the
-  deterministic chunking lane" below.
+**5. (optional) Run the evaluation package's own test suite:**
+```bash
+cd "$REPO_ROOT/code/procurement_research_workbench_v1"
+python3 -m pip install -e ".[dev]"
+python3 -m pytest -q
+```
+
+**6. (optional) Reproduce the reported tables and figures:**
+```bash
+cd "$REPO_ROOT/code/evaluation/final_retrieval_benchmark"
+python3 candidate_ceiling_CORRECTED.py
+python3 build_final_tables.py
+python3 strict_target_recall.py
+python3 make_figures.py
+```
+
+**7. (optional) Spot-check the acquisition/chunking methodology against live sources:**
+```bash
+cd "$REPO_ROOT/code"
+python3 "$REPO_ROOT/scripts/verify_deterministic_chunking.py" --source PA2023
+python3 "$REPO_ROOT/scripts/verify_deterministic_chunking.py" --source PR2024
+```
+
+Steps 5-7 each have their own section below (with what to expect, and why the command does what
+it does) -- this list exists so you never have to guess what comes next.
 
 ## What this supports
 
