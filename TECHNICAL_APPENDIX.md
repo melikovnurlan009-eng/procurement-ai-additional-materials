@@ -381,17 +381,45 @@ parallel judging tracks every scenario goes through, and why:
 
 1. **Bundle sufficiency** -- does the system's combined retrieved evidence satisfy the private,
    held-back requirement list for that scenario? Three blinded judges score this independently
-   (`prw judge-bundles`), with independent adjudication when they materially disagree. This is
-   the primary metric (`requirement_coverage`, `scenario_complete`).
+   (`prw judge-bundles`), with independent adjudication when they materially disagree.
+   **This track was this protocol's originally-intended primary metric, but it was actually
+   only ever run once, as a 3-scenario pilot, and was demoted to exploratory as a result -- see
+   the correction below.** It was never executed at DEV/TEST scale; no `bundle_consensus.jsonl`
+   exists anywhere in this bundle's `results/`.
 2. **Answer-generation correctness** -- is the generated answer, when one is produced, checked
-   against independently-verified source excerpts (`prw answers` then `prw judge-answers`)?
+   against independently-verified source excerpts (`prw answers` then `prw judge-answers`)? This
+   track (the protocol's H4) was **never executed at all** -- not even as a pilot. No
+   `answer_consensus.jsonl` exists anywhere in `results/`. The code path is real and tested
+   (`prw/tests/`), but no answer-generation numbers appear anywhere in the reported results.
 3. **Pooled passage relevance** -- nDCG and pointwise diagnostics, pooling every compared
    system's retrieved passages together before judging (`prw pool` then `prw judge` then
-   `prw evaluate`), so no single system's own output defines what counts as relevant.
+   `prw evaluate`), so no single system's own output defines what counts as relevant. **This is
+   the track that was actually run at full scale for both DEV and TEST, and its numbers are what
+   the reported tables in section 4.2 below are built from** -- see
+   `results/judgments/{dev_scale,test_final}/pointwise/` (`judgments_raw.jsonl`,
+   `qrels_silver.jsonl`, `agreement.json`, `judge_manifest.json`).
 
-The key safeguard in the diagram's dotted line: the private requirement list is never supplied
-to the system being evaluated while it runs -- `prw run` only ever sees the public scenario
-text; the requirements file is read for the first time afterward, by the judging commands.
+**Why bundle sufficiency was demoted** (`code/procurement_research_workbench_v1/docs/
+RESEARCH_PROTOCOL.md`, "Status update (2026-09-07): bundle sufficiency demoted to exploratory"):
+the 3-scenario pilot produced 11 usable bundle judgments; a manual spot-check of 3 of those 11
+found 2 substantively wrong despite being schema-valid and high-confidence -- one certified an
+unrelated statutory provision as satisfying an unrelated requirement, another cited the wrong
+supporting chunk while writing an otherwise-correct rationale in its own words. Neither failure
+is catchable by the harness's own validation (which only checks that a cited `chunk_id` exists
+in the bundle it was shown, never whether it actually supports the claim). That is a materially
+different, harder-to-catch problem than the two schema-shape bugs the pilot also found and
+fixed. As a direct result, bundle-coverage numbers are retained as exploratory only, and pooled
+passage relevance plus the fully judge-independent `strict_target_recall.py` became the two
+metrics the thesis actually treats as primary. The standing caveat this left in the protocol
+applies to *every* LLM-judged label in this project, including the pointwise ones that are
+actually load-bearing: "any LLM-judged label (bundle or pointwise) can be schema-valid,
+high-confidence and substantively wrong... Treat any single LLM-judged... label as provisional
+until spot-checked."
+
+The key safeguard in the diagram's dotted line, true for all three tracks regardless of which
+were actually run at scale: the private requirement list is never supplied to the system being
+evaluated while it runs -- `prw run` only ever sees the public scenario text; the requirements
+file is read for the first time afterward, by the judging commands.
 
 **Prerequisite, stated plainly:** `prw run` (the first command below) needs a working retrieval
 system to call -- that means table 0.2's rows 1-14 (acquisition through to a populated
@@ -424,11 +452,17 @@ split-independence audit are in `code/evaluation/final_retrieval_benchmark/` and
    `strict_target_recall.py` (judge-independent recall), `candidate_ceiling.py`
    (candidate-generation vs. ranking failure diagnosis), `error_analysis.py`, `make_figures.py`.
 2. **Matched DEV/TEST evaluation** (`code/procurement_research_workbench_v1/prw`): the four
-   production systems compared under identical retrieval/evidence budgets, across the three
-   judging tracks in 4.0 above. Bundle sufficiency (`prw judge-bundles`) is the primary metric
-   (`prw/cli.py`'s own `evaluate` output says so directly: "Use judge-bundles for primary
-   complementary-evidence sufficiency"); pooled passage relevance (`prw judge`/`prw evaluate`)
-   is a secondary, diagnostic metric, not an exhaustive-corpus recall claim.
+   production systems compared under identical retrieval/evidence budgets. Of the three judging
+   tracks in 4.0 above, only pooled passage relevance (`prw judge`/`prw evaluate`) was actually
+   run at DEV/TEST scale, and it -- jointly with the fully judge-independent
+   `strict_target_recall.py` in track 1 above -- is what this project's protocol actually treats
+   as primary (`RESEARCH_PROTOCOL.md`, "Primary outcomes"). Bundle sufficiency was only ever
+   piloted at 3-scenario scale before being demoted to exploratory (see 4.0); answer-generation
+   correctness was never run at all. `prw/cli.py`'s own generated `evaluate` report text still
+   says "Use judge-bundles for primary complementary-evidence sufficiency" -- that line reflects
+   the tool's original design intent, not what this project's results actually rest on; it was
+   left unedited in the code, and the actual, executed answer is documented here instead of
+   changing that string.
 
 ### 4.3 Judge configuration
 
@@ -468,23 +502,28 @@ python -m prw run --scenarios data/dev/scenarios.jsonl --system adaptive \
 # RUNS="my_runs/*/runs.jsonl" below; for Option A instead:
 # RUNS="../../results/runs/dev_scale/*/runs.jsonl"
 
-# --- Track 1: bundle sufficiency (the primary metric) ---
-python -m prw judge-bundles --runs $RUNS --scenarios data/dev/scenarios.jsonl \
-  --requirements data/dev/requirements.jsonl --out my_bundle_judgments \
-  --allow-network --adjudicate --max-requests 300
-
-# --- Track 2: answer-generation correctness (optional -- not evaluated at retrieval's scale) ---
-python -m prw answers --runs my_runs/hybrid/runs.jsonl --scenarios data/dev/scenarios.jsonl \
-  --out my_answers --allow-network --max-requests 100
-python -m prw judge-answers --answers my_answers/answers.jsonl --scenarios data/dev/scenarios.jsonl \
-  --requirements data/dev/requirements.jsonl --out my_answer_judgments --allow-network --adjudicate
-
-# --- Track 3: pooled passage relevance (pool -> judge -> evaluate) ---
+# --- Track 1: pooled passage relevance (pool -> judge -> evaluate) -- the track this
+# project actually ran at DEV/TEST scale; its numbers are the ones reported ---
 python -m prw pool --runs $RUNS --final-only --out my_pool
 python -m prw judge --pool my_pool/candidate_pool.jsonl --scenarios data/dev/scenarios.jsonl \
   --requirements data/dev/requirements.jsonl --out my_judgments --allow-network --adjudicate --max-requests 300
 python -m prw evaluate --runs $RUNS --qrels my_judgments/qrels_silver.jsonl \
   --requirements data/dev/requirements.jsonl --out my_metrics --k 10
+
+# --- Track 2: bundle sufficiency (EXPLORATORY ONLY -- see 4.0. This project ran this exactly
+# once, as a 3-scenario pilot, then demoted it after a manual spot-check found substantively
+# wrong labels the harness's own validation could not catch. Runnable, but not what this
+# project's reported numbers rest on.) ---
+python -m prw judge-bundles --runs $RUNS --scenarios data/dev/scenarios.jsonl \
+  --requirements data/dev/requirements.jsonl --out my_bundle_judgments \
+  --allow-network --adjudicate --max-requests 300
+
+# --- Track 3: answer-generation correctness (NEVER RUN in this project, at any scale -- the
+# code path is real and unit-tested, but no answer_consensus.jsonl exists anywhere in results/) ---
+python -m prw answers --runs my_runs/hybrid/runs.jsonl --scenarios data/dev/scenarios.jsonl \
+  --out my_answers --allow-network --max-requests 100
+python -m prw judge-answers --answers my_answers/answers.jsonl --scenarios data/dev/scenarios.jsonl \
+  --requirements data/dev/requirements.jsonl --out my_answer_judgments --allow-network --adjudicate
 ```
 
 All three tracks read the same `runs.jsonl` files and the same `--requirements` file, and all
@@ -493,7 +532,9 @@ three can be pointed at either the shipped `results/runs/...` (Option A) or your
 directory `--runs`/`$RUNS` names. `--adjudicate`, `--allow-network`, and `--max-requests` gate
 every LLM-calling command (`judge*`, `answers`) behind an explicit opt-in and a request ceiling;
 omit `--allow-network` to get a dry-run cost estimate (pair/request counts) with no API call
-made.
+made. Running tracks 2 or 3 yourself produces genuinely new judgments, not a reproduction of
+anything already reported -- this project itself only did that for track 2, once, at 3-scenario
+scale (see 4.0).
 
 **Standalone benchmark** (a separate, independent pipeline from the `prw` workbench above -- see
 4.2 -- run from `code/evaluation/final_retrieval_benchmark/`):
