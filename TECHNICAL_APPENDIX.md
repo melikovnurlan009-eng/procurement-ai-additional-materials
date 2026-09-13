@@ -105,7 +105,11 @@ directly from that export -- no scraping, chunking, or ingestion required. Run t
 below only if you want to reproduce or audit the *acquisition* methodology itself (e.g. to
 understand how a specific instrument was scraped and chunked), not to obtain the database.
 Nothing below is required to get the final database -- it's already part of the shipped
-export, whatever the acquisition process below historically produced.
+export, whatever the acquisition process below historically produced. To actually check that
+the acquisition/chunking methodology reproduces, rather than take that on faith, see
+`scripts/verify_deterministic_chunking.py` (README.md, "Verify the deterministic chunking
+lane") -- it scrapes PA2023/PR2024 live today and confirms the fully-deterministic chunker's
+output matches the shipped corpus exactly, provision by provision.
 
 | # | Stage | Script(s) | Reads | Writes | Command |
 |---|---|---|---|---|---|

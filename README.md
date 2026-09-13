@@ -88,6 +88,24 @@ python3 "$REPO_ROOT/scripts/verify_freeze.py"     # frozen code/config hashes vs
 python3 "$REPO_ROOT/scripts/verify_bundle.py"     # static validator (paths, secrets, manifests, syntax)
 ```
 
+## Verify the deterministic chunking lane (optional)
+
+The two checks above are static (no network, no scraping). This one is different: it actually
+scrapes PA2023 or PR2024 live from legislation.gov.uk today, chunks the result with the
+fully-deterministic (no-LLM) chunker, and compares the output against the shipped, evaluated
+corpus -- the concrete way to confirm that lane genuinely reproduces, rather than take it on
+faith. Needs `requests`/`lxml` (`pip install -r code/requirements.txt`).
+
+```bash
+cd "$REPO_ROOT/code"
+python3 "$REPO_ROOT/scripts/verify_deterministic_chunking.py" --source PA2023
+python3 "$REPO_ROOT/scripts/verify_deterministic_chunking.py" --source PR2024
+```
+
+Expect an exact text/hash match on every provision both runs agree exists. A handful of
+differences on either side is normal, not a failure -- legislation.gov.uk is live and can be
+amended after the corpus was built (see "What is and is not exactly reproducible" below).
+
 ## Run tests
 
 ```bash
