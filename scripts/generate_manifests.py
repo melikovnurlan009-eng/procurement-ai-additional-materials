@@ -44,7 +44,9 @@ def gen_manifest_sha256():
 
 CATEGORY_RULES = [
     ("code/scrapers/", "corpus_acquisition_code"),
-    ("code/procurement_kg/", "graph_construction_code"),
+    ("code/resolve_references.py", "graph_construction_code"),
+    ("code/extract_guidance_references.py", "graph_construction_code"),
+    ("code/densify_graph_edges.py", "graph_construction_code"),
     ("corpus_manifests/", "corpus_acquisition_manifest"),
     ("code/evaluation/final_retrieval_benchmark/", "standalone_benchmark_code_and_data"),
     ("code/procurement_research_workbench_v1/prw/", "frozen_evaluation_code"),

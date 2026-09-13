@@ -1,7 +1,24 @@
+from typing import Any
+
 import requests
 import streamlit as st
 
-from procurement_kg.ui import call_answer, normalize_base_url
+
+def normalize_base_url(base_url: str) -> str:
+    cleaned = base_url.strip()
+    if not cleaned:
+        return "http://127.0.0.1:8005"
+    if cleaned.startswith("http://") or cleaned.startswith("https://"):
+        return cleaned.rstrip("/")
+    return f"http://{cleaned.rstrip('/')}"
+
+
+def call_answer(base_url: str, query: str, limit: int = 8, semantic: bool = True) -> dict[str, Any]:
+    url = f"{normalize_base_url(base_url)}/answer"
+    payload = {"query": query, "limit": limit, "semantic": semantic}
+    response = requests.post(url, json=payload, timeout=60)
+    response.raise_for_status()
+    return response.json()
 
 st.set_page_config(page_title="Procurement KG Assistant", page_icon="📚", layout="wide")
 st.title("Procurement KG Assistant")

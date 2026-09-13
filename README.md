@@ -106,8 +106,8 @@ The UK public procurement AI assistant described in the thesis. Three parts:
 
 - **`code/`** -- all source, laid out to mirror the original repository's directory structure:
   - Corpus scrapers and chunking/ingestion scripts.
-  - The reference-graph package (`procurement_kg/`) and the production retriever
-    (`chunk_retrieval.py`).
+  - The graph-construction scripts (`resolve_references.py`, `extract_guidance_references.py`,
+    `densify_graph_edges.py`) and the production retriever (`chunk_retrieval.py`).
   - The deployed application layer (`chunk_api.py`, `answer_query.py`, `refine_query.py`,
     `query_expansion.py`, `streamlit_app.py`).
   - The standalone benchmark (`evaluation/final_retrieval_benchmark/`).

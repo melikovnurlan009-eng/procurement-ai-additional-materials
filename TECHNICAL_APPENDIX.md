@@ -185,8 +185,11 @@ but absent from the database.
 generated over retrieved evidence, verified against the claims it cites -- see
 `answer_query.py::verify`/`check_claim_grounding`), `/refine`, and `/chunk/{chunk_id}`; it also
 serves a minimal built-in HTML/JS page at `/`. `streamlit_app.py` is a fuller Streamlit UI
-("Procurement KG Assistant") that talks to the same backend via `procurement_kg/ui.py`'s
-`call_answer()`. Required siblings: `answer_query.py`, `refine_query.py`, `query_expansion.py`
+("Procurement KG Assistant") that talks to the same backend via its own small, self-contained
+`call_answer()`/`normalize_base_url()` helpers (previously imported from a since-removed
+`procurement_kg` package -- an earlier, unused iteration of this system, kept only for this one
+small dependency; inlined directly once that was its last real use). Required siblings:
+`answer_query.py`, `refine_query.py`, `query_expansion.py`
 (all at `code/`, sibling to `chunk_api.py`, where its bare `import` statements resolve).
 
 This bundle ships the actual final chunk/document/edge data
@@ -437,7 +440,7 @@ See `provenance/missing_artifacts.md`.
 | Corpus acquisition code | `code/scrapers/` |
 | Corpus acquisition frozen manifest (Procurement Pathway) | `corpus_manifests/procurement_pathway_urls.jsonl` |
 | Chunking/parsing/ingestion code | `code/*.py` |
-| Graph construction code | `code/procurement_kg/`, `code/resolve_references.py`, `code/extract_guidance_references.py` |
+| Graph construction code | `code/resolve_references.py`, `code/extract_guidance_references.py`, `code/densify_graph_edges.py` |
 | Production retriever | `code/chunk_retrieval.py`, `code/chunk_api.py` |
 | Standalone benchmark (code + data + metrics) | `code/evaluation/final_retrieval_benchmark/` |
 | Evaluation package (`prw`) | `code/procurement_research_workbench_v1/prw/` |
