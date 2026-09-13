@@ -99,26 +99,22 @@ flowchart TD
 
 ### 0.2 File-by-file table, in execution order
 
-**This table documents how the corpus was originally built, from raw web sources through to
-the final database -- it is a methodology record, not something you need to run to get the
-final database.** The actual final, evaluated database's content is already exported and
-shipped in this bundle (`code/corpus_export/data/{chunks,documents,edges,edges_v2}.jsonl`),
-and `scripts/rebuild_search_index.py` (section 0.5) rebuilds a fully working search index
-directly from that export -- no scraping, chunking, or ingestion required. Run the steps
-below only if you want to reproduce or audit the *acquisition* methodology itself (e.g. to
-understand how a specific instrument was scraped and chunked), not to obtain the database.
-Nothing below is required to get the final database -- it's already part of the shipped
-export, whatever the acquisition process below historically produced. To actually check that
-the acquisition/chunking methodology reproduces, rather than take that on faith, see
-`scripts/verify_deterministic_chunking.py` (README.md, "Verify the deterministic chunking
-lane") -- it scrapes PA2023/PR2024 live today and confirms the fully-deterministic chunker's
-output matches the shipped corpus exactly, provision by provision.
+This table is a real, runnable, sequential build -- row order is dependency order, top to
+bottom -- for building the corpus from scratch, from raw web sources through to a working
+database. **You do not have to run it, though**: the actual final, evaluated database's
+content is already exported and shipped in this bundle
+(`code/corpus_export/data/{chunks,documents,edges,edges_v2}.jsonl`), and
+`scripts/rebuild_search_index.py` (section 0.5) rebuilds a fully working search index directly
+from that export in minutes, no scraping or LLM calls involved. Use the table below only if
+you specifically want to reproduce or audit the *acquisition* methodology itself -- and note
+that re-scraping live sources is not guaranteed to reproduce byte-identical results (see "What
+is and is not exactly reproducible" in `README.md`). To spot-check the one lane that involves
+no LLM at all, see `scripts/verify_deterministic_chunking.py` (README.md, "Verify the
+deterministic chunking lane").
 
 | # | Stage | Script(s) | Reads | Writes | Command |
 |---|---|---|---|---|---|
 | 1 | Acquire legislation | `code/scrapers/legislation/group_a_legislation_scraper_v4.py` (run this one -- the latest version; `_v1.py`/`_v2.py` are kept for reference/audit only). Needs `requests` and `lxml` (both in `code/requirements.txt`). Run from `code/`, since `--output-dir` is relative to it, not to `scrapers/legislation/` | legislation.gov.uk XML (AKN/CLML) | `processed/nodes.jsonl`, `references_*.jsonl`, `annotations_*.jsonl`, `legal_effects_*.jsonl` | `cd code && python scrapers/legislation/group_a_legislation_scraper_v4.py --source PA2023 --output-dir data/group_a_legislation_v4` |
-| 1b | Rank cited-but-missing instruments (backfill, later in the pipeline -- needs the corpus already ingested, not right after step 1) | `collect_missing_references.py` -- reads the ingested corpus's held documents/URLs plus raw hyperlink records, AKN citation targets, and the full reference-resolution report to rank what's missing by citation frequency | `state/chunk_index_merged.sqlite3`, `normalized_html_json_v2/records/`, `corpus_minor_formats/xml/`, `data/search_corpus/reference_resolution_all.jsonl` (all included) | `evaluation/acquisition/missing_references.jsonl` | `cd code && python collect_missing_references.py --min-citations 1` |
-| 1c | Acquire additional cited instruments (backfill) | `scrapers/legislation/scrape_missing_legislation.py` | `evaluation/acquisition/missing_references.jsonl` (from 1b), `state/chunk_index_merged.sqlite3` | same outputs as step 1, for the acquired instruments | `python scrapers/legislation/scrape_missing_legislation.py --top 10 --apply` |
 | 2 | Acquire guidance/regulator/professional sources | `code/scrapers/scrape_*.py` (one script per source family) | fixed, pre-enumerated URL lists | raw HTML/PDF + provenance records | `python scrapers/scrape_<family>.py` |
 | 3 | Acquire Procurement Pathway (raw discovery) | `code/scrapers/procurement_doc_counter/count_documents_relevance.py` + `seeds.json` | 58 seed roots | `documents.csv`/`documents.json`/`summary.json` | `python count_documents_relevance.py --seeds seeds.json --out crawl_output` |
 | 4 | Parse PDFs | `extract_pdf_pages.py` / `extract_pdf_structured.py` (PyMuPDF/`fitz`) | raw PDF bytes | page-ordered JSON | see script `--help` |
@@ -127,9 +123,12 @@ output matches the shipped corpus exactly, provision by provision.
 | 5b-ii | Chunk (legislation, text-emission) | `chunk_legislation_text.py` -- produces `LLM_LEG_TEXT_V2` | `data/legislation_acquired/` | chunk JSONL | `python chunk_legislation_text.py --dir data/legislation_acquired --out <out> --model gpt-4o-mini --window-chars 9000 --min-coverage 0.80` |
 | 5c | Chunk (PDF, LLM-assisted) | `chunk_pdf_text.py` -- produces `LLM_PDF_TEXT_V2` | PDF page JSON (step 4) | `data/pdf_chunks/` | `python chunk_pdf_text.py <pages_json...> --out data/pdf_chunks --model gpt-4.1 --window-chars 9000 --min-coverage 0.80` |
 | 5d | Targeted re-chunk (2 instruments) | `chunk_commencement_regs_from_xml.py` -- fixes UKSI_2024_716 and UKSI_2024_959 | source XML | corrected chunk JSONL | `python chunk_commencement_regs_from_xml.py` |
-| 6 | Ingest chunks into the index DB | `ingest_legislation_chunks.py`, `ingest_pdf_chunks.py`, `ingest_structural_node_chunks.py` | each method's chunk JSONL output | `state/chunk_index_merged.sqlite3` | `python ingest_legislation_chunks.py --chunks-dir data/legislation_chunks --db state/chunk_index_merged.sqlite3 --apply` |
+| 6 | Ingest chunks into the index DB | `ingest_legislation_chunks.py`, `ingest_pdf_chunks.py`, `ingest_structural_node_chunks.py` | each method's chunk JSONL output | `state/chunk_index_merged.sqlite3` (created here, on first run) | `python ingest_legislation_chunks.py --chunks-dir data/legislation_chunks --db state/chunk_index_merged.sqlite3 --apply` |
 | 7 | Resolve duplicate-instrument groups | `deduplicate_instruments.py` -- flags cross-pipeline duplicate instruments non-destructively (`superseded_by`) | `state/chunk_index_merged.sqlite3` | same DB, flags updated | `python deduplicate_instruments.py --db state/chunk_index_merged.sqlite3 --apply` |
-| 8 | Build citation graph | `resolve_references.py`, `extract_guidance_references.py` | `state/chunk_index_merged.sqlite3` | same DB, `REFERENCES`/`CROSS_REFERS_TO` edges added | see each script's `--help` |
+| 8 | Build citation graph | `resolve_references.py`, `extract_guidance_references.py` | `state/chunk_index_merged.sqlite3` | same DB, `REFERENCES`/`CROSS_REFERS_TO` edges added, incl. `TARGET_NOT_IN_CORPUS`/`EXTERNAL_INSTRUMENT_REFERENCE` statuses on unresolved candidates | see each script's `--help` |
+| 8a | Rank cited-but-missing instruments (backfill -- needs steps 6 and 8 already done, which is why this isn't step 1b) | `collect_missing_references.py` -- reads the now-ingested-and-resolved corpus's held documents/URLs plus raw hyperlink records, AKN citation targets, and the full reference-resolution report to rank what's missing by citation frequency | `state/chunk_index_merged.sqlite3` (from 6-8), `normalized_html_json_v2/records/`, `corpus_minor_formats/xml/`, `data/search_corpus/reference_resolution_all.jsonl` (all included) | `evaluation/acquisition/missing_references.jsonl` | `cd code && python collect_missing_references.py --min-citations 1` |
+| 8b | Acquire the ranked missing instruments | `scrapers/legislation/scrape_missing_legislation.py` | `evaluation/acquisition/missing_references.jsonl` (from 8a), `state/chunk_index_merged.sqlite3` | same raw outputs as step 1, for the newly acquired instruments only | `python scrapers/legislation/scrape_missing_legislation.py --top 10 --apply` |
+| 8c | Fold the newly acquired instruments back in | Repeat step 5 (whichever chunking method fits each new instrument), then step 6 (ingest), then step 7 (dedupe), then step 8 (resolve references again -- some previously-unresolved citations now have a target) for the instruments 8b acquired only | outputs of 8b | same DB, updated with the new instruments' chunks and edges | (same commands as steps 5-8, scoped to the new instruments) |
 | 9 | Densify graph | `densify_graph_edges.py` -- rolls up unreachable reference targets | `state/chunk_index_merged.sqlite3` | same DB | `python densify_graph_edges.py --db state/chunk_index_merged.sqlite3 --apply` |
 | 10 | Build the search index | `build_chunk_index.py` -- SQLite FTS5 (porter) + `BAAI/bge-m3` embeddings into Qdrant | `state/chunk_index_merged.sqlite3` | populated FTS5 index + Qdrant collection | `python build_chunk_index.py` |
 | 11 | Retrieve | `chunk_retrieval.py` (`search()` / `search_two_lanes()`), parameterised by `configs/retrieval.json` | the index from step 10 | ranked candidate/final-evidence lists | `python -m prw run --system {hybrid,legal_static,planned_multisearch,adaptive} ...` or `run_retrieval_configs.py` (standalone, 6 configs) |
@@ -147,13 +146,16 @@ Run `_v4.py` -- it's the latest version, and `chunk_legislation_from_nodes.py`'s
 accepts their older field naming too) and are kept in the repo for reference/audit, but
 there is no need to run them.
 
-Steps 1b and 1c (backfilling cited-but-missing instruments) are not a simple follow-up to step
-1 -- they need the corpus already ingested, since `collect_missing_references.py` ranks what's
-missing partly from the reference resolver's own output (step 8), which itself needs the
-ingested corpus. Both scripts and all of their raw inputs are included in this bundle
+Steps 8a-8c (backfilling cited-but-missing instruments) sit where they do, not right after step
+1, because `collect_missing_references.py` ranks what's missing partly from the reference
+resolver's own output (step 8), which itself needs the corpus already ingested (step 6). Both
+scripts and all of their raw inputs are included in this bundle
 (`normalized_html_json_v2/records/`, `corpus_minor_formats/xml/`,
-`data/search_corpus/reference_resolution_all.jsonl`), so this backfill is fully re-runnable,
-just later in the sequence than steps 1-1a.
+`data/search_corpus/reference_resolution_all.jsonl`), so this backfill is fully re-runnable --
+just genuinely later in the sequence, not a two-command follow-up to step 1. Step 8c (folding
+the newly acquired instruments back through chunking/ingestion/resolution) is what makes them
+actually show up in the final graph and index; skipping it leaves 8b's acquired files on disk
+but absent from the database.
 
 ### 0.3 Not part of reproducing the reported results
 
