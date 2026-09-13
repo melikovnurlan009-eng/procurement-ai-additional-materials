@@ -122,7 +122,7 @@ def main() -> int:
                         "AND filtered_out IS NULL").fetchone()[0]
     print(f"\napplied. active corpus: {act[0]:,} chunks, {act[1]:,} chars")
     print(f"chunks with legal identity: {ident:,} ({100*ident/act[0]:.1f}%)")
-    (ROOT / "state" / "ingest_legislation_report.json").write_text(json.dumps(
+    ((ROOT / a.db).parent / "ingest_legislation_report.json").write_text(json.dumps(
         {"generated_at": datetime.now(timezone.utc).isoformat(),
          "inserted": len(rows), **dict(stats)}, indent=2), encoding="utf-8")
     return 0

@@ -146,7 +146,7 @@ def main() -> int:
         con.execute("CREATE INDEX IF NOT EXISTS idx_edges_source ON edges(source_id)")
         con.commit()
         print(f"\napplied {len(updates)} retrieval targets")
-        (root / "state" / "densify_graph_report.json").write_text(
+        (db.parent / "densify_graph_report.json").write_text(
             json.dumps(report, indent=2), encoding="utf-8")
     return 0
 

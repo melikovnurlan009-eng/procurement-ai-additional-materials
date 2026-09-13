@@ -12,6 +12,16 @@ works and why it was built this way; it is not itself a run-in-order checklist.
 
 ### 0.1 Diagram
 
+**Read this diagram top to bottom as a strict build order, not a menu.** Every arrow is a
+real file dependency verified against the actual code (not inferred from naming): the box an
+arrow points into reads the file(s) the box it left behind actually wrote. The single most
+important rule the earlier, informal version of this diagram got wrong: **`build_chunk_index.py
+lexical` (step 5) must run before `ingest_*.py` (step 6), and never again after** -- it does a
+destructive `DELETE FROM chunks/edges/documents` before every re-insert, so running it a second
+time after step 6 has added rows would silently erase them. Steps 6-7 add to the database
+directly; step 8's re-export is what lets step 9 (the dense/vector index) see everything steps
+6-7 added, since step 9 embeds from a JSONL export, not from the live database.
+
 ```mermaid
 flowchart TD
     subgraph ACQ["1. Acquisition (code/scrapers/)"]
@@ -34,47 +44,67 @@ flowchart TD
 
     P2 --> C1
     P3 --> C3
-    P4 --> C2
+    P4 --> C1B
 
-    subgraph CHUNK["3. Chunking (4 methods)"]
-        C1{does a clean structural tree exist for this instrument?}
+    subgraph CHUNK["3. Chunking (4 methods, independent outputs)"]
+        C1{clean structural tree available?}
         C1 -->|yes: PA2023, PR2024 core Acts| C1A["chunk_legislation_from_nodes.py\n(STRUCTURAL_NODE_V1, no LLM, deterministic)"]
-        C1 -->|no: most other legislation| C1B["build_search_corpus.py (boundary selection,\nLLM_SEMANTIC_BOUNDARY_V1) and/or\nchunk_legislation_text.py (text emission, LLM_LEG_TEXT_V2)"]
-        C2["chunk_pdf_text.py\n(LLM_PDF_TEXT_V2, gpt-4.1)"] --> C4
-        C1A --> C4
-        C1B --> C4
+        C1 -->|no: most other legislation| C1B["build_search_corpus.py (LLM_SEMANTIC_BOUNDARY_V1)\nand/or chunk_legislation_text.py (LLM_LEG_TEXT_V2)\n-- build_search_corpus.py ALSO writes the base JSONL\ncorpus (data/search_corpus/chunks.jsonl, edges.jsonl)\nthat step 5 below bootstraps the database from"]
+        C2["chunk_pdf_text.py\n(LLM_PDF_TEXT_V2, gpt-4.1)"]
         C3["PDF page JSON"] --> C2
         CPATCH["chunk_commencement_regs_from_xml.py\n(targeted re-chunk, 2 instruments)"] -.patches.-> C1B
-        C4[per-method chunk JSONL output]
     end
 
-    C4 --> I1
+    C1A --> I1
+    C2 --> I1
+    C1B --> GR1
+    C1B --> GR2
 
-    subgraph INGEST["4. Ingestion + dedup"]
-        I1["ingest_legislation_chunks.py /\ningest_pdf_chunks.py /\ningest_structural_node_chunks.py"] --> I2[(state/chunk_index_merged.sqlite3\ncontent-hash dedup on write)]
-        I2 --> I3["deduplicate_instruments.py\n(resolves cross-pipeline\nduplicate-instrument groups)"]
+    subgraph GRAPH["4. Reference resolution (pure JSONL -- no database involved yet)"]
+        GR1["resolve_references.py\ninternal + cross-document legal citations\n-> edges_v2.jsonl"]
+        GR2["extract_guidance_references.py\nguidance-chunk -> legislation-provision refs\n-> edges_guidance_refs.jsonl"]
     end
 
-    I3 --> G1
+    GR1 --> IDX1
+    GR2 --> IDX1
+    C1B --> IDX1
 
-    subgraph GRAPH["5. Graph construction"]
-        G1["resolve_references.py\n(internal + cross-document legal citations)"]
-        G2["extract_guidance_references.py\n(guidance-chunk -> legislation-provision references)"]
-        G3["densify_graph_edges.py\n(rolls up unreachable targets to nearest chunked ancestor)"]
-        G1 --> G3
-        G2 --> G3
+    subgraph BOOT["5. Bootstrap the database -- build_chunk_index.py 'lexical' stage,\nrun exactly ONCE, right here"]
+        IDX1["reads chunks.jsonl + edges.jsonl + edges_v2.jsonl +\nedges_guidance_refs.jsonl -> CREATEs and populates\nstate/chunk_index_merged.sqlite3 for the first time"]
     end
 
-    G3 --> IDX1
+    IDX1 --> I1
 
-    subgraph INDEX["6. Indexing"]
-        IDX1["build_chunk_index.py\nSQLite FTS5 (porter tokenizer) + BAAI/bge-m3 embeddings -> Qdrant\ncollection chunks__bge_m3__merged"]
+    subgraph INGEST["6. Ingest the other chunking methods\n(additive -- the database already exists)"]
+        I1["ingest_structural_node_chunks.py /\ningest_legislation_chunks.py /\ningest_pdf_chunks.py\nINSERT OR REPLACE by chunk_id. Never re-run step 5's\nlexical stage after this: it DELETEs and rebuilds\nthese tables from scratch"]
     end
 
-    IDX1 --> RET1
+    I1 --> DD1
 
-    subgraph RETRIEVAL["7. Retrieval system"]
-        RET1["chunk_retrieval.py\n(hybrid lexical+dense, RRF k=60,\ntwo-lane authority/regime/jurisdiction rerank,\nbounded 1-hop graph expansion)"]
+    subgraph CLEAN["7. Dedup + densify (in-place updates to the same database)"]
+        DD1["deduplicate_instruments.py --apply\nflags cross-pipeline duplicate instruments"]
+        DD2["densify_graph_edges.py --apply\nrolls up unreachable reference targets"]
+        DD1 --> DD2
+    end
+
+    DD2 -.optional backfill loop, table rows 11a-c.-> BF1["collect_missing_references.py ->\nscrape_missing_legislation.py -> folds new\ninstruments back through steps 3-7"]
+    BF1 -.-> DD2
+    DD2 --> EXP1
+
+    subgraph EXPORT["8. Re-export the database back to JSONL\n(the bridge a from-scratch build must not skip)"]
+        EXP1["export_corpus_from_db.py --db state/chunk_index_merged.sqlite3\nwithout this, step 9 embeds a stale corpus missing\neverything steps 6-7 just added"]
+    end
+
+    EXP1 --> IDX2
+
+    subgraph DENSE["9. Build the dense/vector index"]
+        IDX2["build_chunk_index.py dense --corpus-dir <step 8 output>\nBAAI/bge-m3 embeddings -> Qdrant\ncollection chunks__bge_m3__merged"]
+    end
+
+    IDX2 --> RET1
+
+    subgraph RETRIEVAL["10. Retrieval system"]
+        RET1["chunk_retrieval.py\nhybrid lexical+dense, RRF k=60,\ntwo-lane authority/regime/jurisdiction rerank,\nbounded 1-hop graph expansion"]
         RET2[configs/retrieval.json: candidate_depth 100, k 10,\ncontext_chars 18000, max_ops 3, graph_fanout 20]
         RET2 -.parameterizes.-> RET1
     end
@@ -82,17 +112,17 @@ flowchart TD
     RET1 --> EVAL1
     RET1 --> EVAL2
 
-    subgraph EVALA["8a. Standalone static benchmark"]
-        EVAL1["run_retrieval_configs.py\n(6 configs A-F)"] --> EVAL1B["build_candidate_pool.py"]
+    subgraph EVALA["11a. Standalone static benchmark"]
+        EVAL1["run_retrieval_configs.py (6 configs A-F)"] --> EVAL1B["build_candidate_pool.py"]
         EVAL1B --> EVAL1C["judge_candidate_pool.py\n(gpt-4o-mini, pooled 0-3 relevance)"]
         EVAL1C --> EVAL1D["compute_metrics.py, strict_target_recall.py,\ncandidate_ceiling.py, error_analysis.py"]
         EVAL1D --> EVAL1E["build_final_tables.py -> FINAL_RESULTS_TABLE.csv,\nPAIRWISE_STATISTICS.csv (paired sign test, seed 1234)"]
         EVAL1E --> EVAL1F["make_figures.py -> figures/*.png"]
     end
 
-    subgraph EVALB["8b. Matched DEV/TEST workbench (prw package)"]
-        EVAL2["prw run\n(controller.py: LLM query decomposition\nfor planned_multisearch / adaptive)"] --> EVAL2B["prw pool"]
-        EVAL2B --> EVAL2C["prw judge\n(judging.py: pooled relevance + adjudication)"]
+    subgraph EVALB["11b. Matched DEV/TEST workbench (prw package --\nsee docs/workflow.mmd for the 3-track judging methodology)"]
+        EVAL2["prw run (controller.py: LLM query decomposition\nfor planned_multisearch / adaptive)"] --> EVAL2B["prw pool"]
+        EVAL2B --> EVAL2C["prw judge / prw judge-bundles / prw judge-answers\n(3 separate judging tracks)"]
         EVAL2C --> EVAL2D["prw evaluate -> per-scenario + aggregate metrics"]
         EVAL2D --> EVAL2E["build_controller_diagnostics.py, make_final_figures.py"]
     end
@@ -101,17 +131,20 @@ flowchart TD
 ### 0.2 File-by-file table, in execution order
 
 This table is a real, runnable, sequential build -- row order is dependency order, top to
-bottom -- for building the corpus from scratch, from raw web sources through to a working
-database. **You do not have to run it, though**: the actual final, evaluated database's
-content is already exported and shipped in this bundle
+bottom, every "Reads" column naming the exact file(s) the previous row(s) wrote -- for building
+the corpus from scratch, from raw web sources through to a working, queryable database. **You
+do not have to run it, though**: the actual final, evaluated database's content is already
+exported and shipped in this bundle
 (`code/corpus_export/data/{chunks,documents,edges,edges_v2}.jsonl`), and
 `scripts/rebuild_search_index.py` (section 0.5) rebuilds a fully working search index directly
-from that export in minutes, no scraping or LLM calls involved. Use the table below only if
-you specifically want to reproduce or audit the *acquisition* methodology itself -- and note
-that re-scraping live sources is not guaranteed to reproduce byte-identical results (see "What
-is and is not exactly reproducible" in `README.md`). To spot-check the one lane that involves
-no LLM at all, see `scripts/verify_deterministic_chunking.py` (README.md, "Verify the
-deterministic chunking lane").
+from that export in minutes, no scraping or LLM calls involved. Use the table below only if you
+specifically want to reproduce or audit the *acquisition* methodology itself -- and note that
+re-scraping live sources is not guaranteed to reproduce byte-identical results (see "What is and
+is not exactly reproducible" in `README.md`). To spot-check the one lane that involves no LLM at
+all, see `scripts/verify_deterministic_chunking.py` (README.md, "Verify the deterministic
+chunking lane"). Section 0.6 below, "Evaluation methodology", picks up exactly where row 14 of
+this table (retrieval) leaves off, and states plainly which of rows 1-14 you actually need to
+have run before each evaluation command works.
 
 | # | Stage | Script(s) | Reads | Writes | Command |
 |---|---|---|---|---|---|
@@ -120,26 +153,28 @@ deterministic chunking lane").
 | 3 | Acquire Procurement Pathway (raw discovery) | `code/scrapers/procurement_doc_counter/count_documents_relevance.py` + `seeds.json` | 58 seed roots | `documents.csv`/`documents.json`/`summary.json` | `python count_documents_relevance.py --seeds seeds.json --out crawl_output` |
 | 4 | Parse PDFs | `extract_pdf_pages.py` / `extract_pdf_structured.py` (PyMuPDF/`fitz`) | raw PDF bytes | page-ordered JSON | see script `--help` |
 | 5a | Chunk (deterministic, no LLM) | `chunk_legislation_from_nodes.py` -- for instruments with a clean structural parse (PA2023, PR2024 core Acts) | `nodes_*.jsonl` | chunk JSONL, method tag `STRUCTURAL_NODE_V1` | `python chunk_legislation_from_nodes.py --doc <id> --nodes <path> --out <path>` |
-| 5b-i | Chunk (legislation, boundary-selection) | `build_search_corpus.py` -- produces `LLM_SEMANTIC_BOUNDARY_V1` | raw parsed source blocks (`--input-root`) | chunk JSONL (`--output-dir`) | `python build_search_corpus.py all --input-root <blocks dir> --output-dir <out>` |
+| 5b-i | Chunk (legislation, boundary-selection) -- **also writes the base corpus rows 6-7 below read** | `build_search_corpus.py` -- produces `LLM_SEMANTIC_BOUNDARY_V1` | raw parsed source blocks (`--input-root`) | `data/search_corpus/{parent_segments,chunk_boundaries,chunks,chunk_validation,edges,unresolved_references}.jsonl` (`--output-dir`) | `python build_search_corpus.py all --input-root <blocks dir> --output-dir data/search_corpus` |
 | 5b-ii | Chunk (legislation, text-emission) | `chunk_legislation_text.py` -- produces `LLM_LEG_TEXT_V2` | `data/legislation_acquired/` | chunk JSONL | `python chunk_legislation_text.py --dir data/legislation_acquired --out <out> --model gpt-4o-mini --window-chars 9000 --min-coverage 0.80` |
 | 5c | Chunk (PDF, LLM-assisted) | `chunk_pdf_text.py` -- produces `LLM_PDF_TEXT_V2` | PDF page JSON (step 4) | `data/pdf_chunks/` | `python chunk_pdf_text.py <pages_json...> --out data/pdf_chunks --model gpt-4.1 --window-chars 9000 --min-coverage 0.80` |
 | 5d | Targeted re-chunk (2 instruments) | `chunk_commencement_regs_from_xml.py` -- fixes UKSI_2024_716 and UKSI_2024_959 | source XML | corrected chunk JSONL | `python chunk_commencement_regs_from_xml.py` |
-| 6 | Ingest chunks into the index DB | `ingest_legislation_chunks.py`, `ingest_pdf_chunks.py`, `ingest_structural_node_chunks.py` | each method's chunk JSONL output | `state/chunk_index_merged.sqlite3` (created here, on first run) | `python ingest_legislation_chunks.py --chunks-dir data/legislation_chunks --db state/chunk_index_merged.sqlite3 --apply` |
-| 7 | Resolve duplicate-instrument groups | `deduplicate_instruments.py` -- flags cross-pipeline duplicate instruments non-destructively (`superseded_by`) | `state/chunk_index_merged.sqlite3` | same DB, flags updated | `python deduplicate_instruments.py --db state/chunk_index_merged.sqlite3 --apply` |
-| 8 | Build citation graph | `resolve_references.py`, `extract_guidance_references.py` | `state/chunk_index_merged.sqlite3` | same DB, `REFERENCES`/`CROSS_REFERS_TO` edges added, incl. `TARGET_NOT_IN_CORPUS`/`EXTERNAL_INSTRUMENT_REFERENCE` statuses on unresolved candidates | see each script's `--help` |
-| 8a | Rank cited-but-missing instruments (backfill -- needs steps 6 and 8 already done, which is why this isn't step 1b) | `collect_missing_references.py` -- reads the now-ingested-and-resolved corpus's held documents/URLs plus raw hyperlink records, AKN citation targets, and the full reference-resolution report to rank what's missing by citation frequency | `state/chunk_index_merged.sqlite3` (from 6-8), `normalized_html_json_v2/records/`, `corpus_minor_formats/xml/`, `data/search_corpus/reference_resolution_all.jsonl` (all included) | `evaluation/acquisition/missing_references.jsonl` | `cd code && python collect_missing_references.py --min-citations 1` |
-| 8b | Acquire the ranked missing instruments | `scrapers/legislation/scrape_missing_legislation.py` | `evaluation/acquisition/missing_references.jsonl` (from 8a), `state/chunk_index_merged.sqlite3` | same raw outputs as step 1, for the newly acquired instruments only | `python scrapers/legislation/scrape_missing_legislation.py --top 10 --apply` |
-| 8c | Fold the newly acquired instruments back in | Repeat step 5 (whichever chunking method fits each new instrument), then step 6 (ingest), then step 7 (dedupe), then step 8 (resolve references again -- some previously-unresolved citations now have a target) for the instruments 8b acquired only | outputs of 8b | same DB, updated with the new instruments' chunks and edges | (same commands as steps 5-8, scoped to the new instruments) |
-| 9 | Densify graph | `densify_graph_edges.py` -- rolls up unreachable reference targets | `state/chunk_index_merged.sqlite3` | same DB | `python densify_graph_edges.py --db state/chunk_index_merged.sqlite3 --apply` |
-| 10 | Build the search index | `build_chunk_index.py` -- SQLite FTS5 (porter) + `BAAI/bge-m3` embeddings into Qdrant | `state/chunk_index_merged.sqlite3` | populated FTS5 index + Qdrant collection | `python build_chunk_index.py` |
-| 11 | Retrieve | `chunk_retrieval.py` (`search()` / `search_two_lanes()`), parameterised by `configs/retrieval.json` | the index from step 10 | ranked candidate/final-evidence lists | `python -m prw run --system {hybrid,legal_static,planned_multisearch,adaptive} ...` or `run_retrieval_configs.py` (standalone, 6 configs) |
-| 12a | Standalone benchmark: pool + judge | `build_candidate_pool.py`, `judge_candidate_pool.py` | retrieval output (6 configs) | pooled candidates, judgments | `python judge_candidate_pool.py ...` |
-| 12b | Standalone benchmark: metrics + diagnostics | `compute_metrics.py`, `strict_target_recall.py`, `candidate_ceiling.py` / `candidate_ceiling_CORRECTED.py`, `error_analysis.py` | judgments + `gold_evidence.jsonl` | metrics JSON/CSV | see each script's `--help` |
-| 12c | Standalone benchmark: final tables + figures | `build_final_tables.py` (paired sign test, bootstrap CI, seed 1234), `make_figures.py` | metrics from 12b | `FINAL_RESULTS_TABLE.csv`, `PAIRWISE_STATISTICS.csv`, `figures/*.png` | `python build_final_tables.py && python make_figures.py` |
-| 13a | Matched workbench: run 4 systems | `python -m prw run` | `data/{dev,test_sealed}/scenarios.jsonl`, `configs/retrieval.json` | `runs/<split>/<system>/runs.jsonl` | `python -m prw run --scenarios <path> --system <name>` |
-| 13b | Matched workbench: pool + judge | `python -m prw pool`, `python -m prw judge` | runs from 13a | `judgments/.../judgments_raw.jsonl`, `qrels_silver.jsonl` | `python -m prw judge --pool <path>` |
-| 13c | Matched workbench: evaluate + freeze | `python -m prw evaluate`, `python -m prw freeze` | judgments from 13b | per-scenario + aggregate metrics; `prw_freeze_record.json` | `python -m prw evaluate ...` |
-| 13d | Matched workbench: diagnostics + figures | `build_controller_diagnostics.py`, `make_final_figures.py` | evaluate output from 13c | `CONTROLLER_DIAGNOSTICS.csv`, `figures/*.png` | see each script's `--help` |
+| 6 | Resolve the citation graph (pure JSONL -- no database exists yet) | `resolve_references.py`, `extract_guidance_references.py` | `data/search_corpus/{parent_segments,chunks,unresolved_references}.jsonl` (from row 5b-i) | `data/search_corpus/{edges_v2,unresolved_references_v2,reference_resolution_all,edges_guidance_refs}.jsonl` | `cd code && python resolve_references.py --corpus-dir data/search_corpus && python extract_guidance_references.py --corpus-dir data/search_corpus` |
+| 7 | Bootstrap the index database -- **run this exactly once, before row 8, never again after** | `build_chunk_index.py lexical` | the four JSONL files `data/search_corpus/{chunks,edges,edges_v2,edges_guidance_refs}.jsonl` (rows 5b-i and 6) | `state/chunk_index_merged.sqlite3` -- created here, for the first time | `python build_chunk_index.py lexical --corpus-dir data/search_corpus --db state/chunk_index_merged.sqlite3` |
+| 8 | Ingest the other 3 chunking methods (additive -- the database from row 7 already exists) | `ingest_legislation_chunks.py`, `ingest_pdf_chunks.py`, `ingest_structural_node_chunks.py` | each method's own chunk JSONL (rows 5b-ii, 5c, 5a/5d) + the DB from row 7 | same DB, rows added by `INSERT OR REPLACE` | `python ingest_legislation_chunks.py --chunks-dir data/legislation_chunks --db state/chunk_index_merged.sqlite3 --apply` (repeat with `ingest_pdf_chunks.py --chunks-dir data/pdf_chunks_mini --db ... --apply` and `ingest_structural_node_chunks.py --chunks <path...> --db ... --apply`) |
+| 9 | Resolve duplicate-instrument groups | `deduplicate_instruments.py` -- flags cross-pipeline duplicate instruments non-destructively (`superseded_by`) | DB from row 8 | same DB, flags updated | `python deduplicate_instruments.py --db state/chunk_index_merged.sqlite3 --apply` |
+| 10 | Densify graph | `densify_graph_edges.py` -- rolls up unreachable reference targets to their nearest chunked ancestor | DB from row 9 | same DB, `retrieval_target_id`/`retrieval_resolution`/`retrieval_source_id` columns added and populated | `python densify_graph_edges.py --db state/chunk_index_merged.sqlite3 --apply` |
+| 11a | Rank cited-but-missing instruments (**optional backfill loop** -- needs rows 6 and 8 already done, which is why this isn't row 1b) | `collect_missing_references.py` -- reads the now-ingested-and-resolved corpus's held documents/URLs plus raw hyperlink records, AKN citation targets, and the full reference-resolution report to rank what's missing by citation frequency | DB (rows 8-10), `normalized_html_json_v2/records/`, `corpus_minor_formats/xml/`, `data/search_corpus/reference_resolution_all.jsonl` (row 6; all included) | `evaluation/acquisition/missing_references.jsonl` | `cd code && python collect_missing_references.py --min-citations 1` |
+| 11b | Acquire the ranked missing instruments | `scrapers/legislation/scrape_missing_legislation.py` | `evaluation/acquisition/missing_references.jsonl` (from 11a), the DB | same raw outputs as row 1, for the newly acquired instruments only | `python scrapers/legislation/scrape_missing_legislation.py --top 10 --apply` |
+| 11c | Fold the newly acquired instruments back in | Repeat row 5 (whichever chunking method fits each new instrument), then row 6 (resolve references again -- some previously-unresolved citations now have a target), then row 8 (ingest), row 9 (dedupe), row 10 (densify), for the instruments 11b acquired only | outputs of 11b | same DB, updated with the new instruments' chunks and edges | (same commands as rows 5/6/8/9/10, scoped to the new instruments) |
+| 12 | Re-export the database back to JSONL -- **the bridge a from-scratch build must not skip** | `export_corpus_from_db.py` -- a plain data export, no LLM call, no re-chunking, no re-scraping | DB from row 10 (or 11c, if you ran the backfill loop) | a fresh export directory: `chunks.jsonl`, `documents.jsonl`, `edges.jsonl`, `edges_v2.jsonl` | `python corpus_export/export_corpus_from_db.py --db state/chunk_index_merged.sqlite3 --out corpus_export/data_rebuilt` |
+| 13 | Build the dense/vector index | `build_chunk_index.py dense` -- `BAAI/bge-m3` embeddings, local model, no external API call | row 12's export directory | Qdrant collection `chunks__bge_m3__merged` + the DB's `index_manifest` table | `python build_chunk_index.py dense --corpus-dir corpus_export/data_rebuilt --db state/chunk_index_merged.sqlite3 --collection chunks__bge_m3__merged` (the two `--db`/`--collection` values are not this script's own defaults -- they must be passed explicitly so this points at the same database and collection name `chunk_retrieval.py`, `chunk_api.py`, and the `prw` workbench all actually read) |
+| 14 | Retrieve | `chunk_retrieval.py` (`search()` / `search_two_lanes()`), parameterised by `configs/retrieval.json` | the DB + Qdrant collection from row 13 | ranked candidate/final-evidence lists | `python -m prw run --system {hybrid,legal_static,planned_multisearch,adaptive} ...` or `run_retrieval_configs.py` (standalone, 6 configs) -- see section 0.6 for the full evaluation commands built on top of this |
+| 15a | Standalone benchmark: pool + judge | `build_candidate_pool.py`, `judge_candidate_pool.py` | retrieval output (6 configs) | pooled candidates, judgments | `python judge_candidate_pool.py ...` |
+| 15b | Standalone benchmark: metrics + diagnostics | `compute_metrics.py`, `strict_target_recall.py`, `candidate_ceiling.py` / `candidate_ceiling_CORRECTED.py`, `error_analysis.py` | judgments + `gold_evidence.jsonl` | metrics JSON/CSV | see each script's `--help` |
+| 15c | Standalone benchmark: final tables + figures | `build_final_tables.py` (paired sign test, bootstrap CI, seed 1234), `make_figures.py` | metrics from 15b | `FINAL_RESULTS_TABLE.csv`, `PAIRWISE_STATISTICS.csv`, `figures/*.png` | `python build_final_tables.py && python make_figures.py` |
+| 16a | Matched workbench: run 4 systems | `python -m prw run` | `data/{dev,test_sealed}/scenarios.jsonl`, `configs/retrieval.json` | `results/runs/<split>/<system>/runs.jsonl` | see section 0.6 for the full command |
+| 16b | Matched workbench: pool + judge | `python -m prw pool`, `python -m prw judge` / `judge-bundles` / `judge-answers` | runs from 16a | `results/judgments/.../judgments_raw.jsonl`, `qrels_silver.jsonl`, `bundle_consensus.jsonl`, `answer_consensus.jsonl` | see section 0.6 |
+| 16c | Matched workbench: evaluate + freeze | `python -m prw evaluate`, `python -m prw freeze` | judgments from 16b | per-scenario + aggregate metrics; `prw_freeze_record.json` | see section 0.6 |
+| 16d | Matched workbench: diagnostics + figures | `build_controller_diagnostics.py`, `make_final_figures.py` | evaluate output from 16c | `CONTROLLER_DIAGNOSTICS.csv`, `figures/*.png` | see each script's `--help` |
 
 Run `_v4.py` -- it's the latest version, and `chunk_legislation_from_nodes.py`'s
 `_normalize_node()` step is written to accept its field naming (`node_type`/`eid`) directly.
@@ -147,16 +182,29 @@ Run `_v4.py` -- it's the latest version, and `chunk_legislation_from_nodes.py`'s
 accepts their older field naming too) and are kept in the repo for reference/audit, but
 there is no need to run them.
 
-Steps 8a-8c (backfilling cited-but-missing instruments) sit where they do, not right after step
+Rows 11a-11c (backfilling cited-but-missing instruments) sit where they do, not right after row
 1, because `collect_missing_references.py` ranks what's missing partly from the reference
-resolver's own output (step 8), which itself needs the corpus already ingested (step 6). Both
-scripts and all of their raw inputs are included in this bundle
+resolver's own output (row 6), which itself needs the base corpus already chunked (row 5b-i).
+Both scripts and all of their raw inputs are included in this bundle
 (`normalized_html_json_v2/records/`, `corpus_minor_formats/xml/`,
 `data/search_corpus/reference_resolution_all.jsonl`), so this backfill is fully re-runnable --
-just genuinely later in the sequence, not a two-command follow-up to step 1. Step 8c (folding
-the newly acquired instruments back through chunking/ingestion/resolution) is what makes them
-actually show up in the final graph and index; skipping it leaves 8b's acquired files on disk
+just genuinely later in the sequence, not a two-command follow-up to row 1. Row 11c (folding
+the newly acquired instruments back through chunking/resolution/ingestion) is what makes them
+actually show up in the final graph and index; skipping it leaves 11b's acquired files on disk
 but absent from the database.
+
+Row 7 is the step earlier drafts of this document omitted entirely, and it is the one every
+other row's correctness depends on: `build_chunk_index.py lexical` is *destructive* --
+`con.execute("DELETE FROM chunks")` (and the same for `edges`, `documents`, `chunks_fts`) runs
+unconditionally before every re-insert. Run it before row 8's incremental `ingest_*.py` scripts
+have added anything, and it is a safe, idempotent bootstrap. Run it again afterward -- for
+instance, out of habit, to "rebuild the index" -- and it silently erases every chunk rows 8-11
+added, because it only ever repopulates itself from row 5b-i's `chunks.jsonl`, which never had
+those chunks in the first place. Row 12 (`export_corpus_from_db.py`) exists precisely so this
+mistake is never necessary: once the database is complete, re-exporting it to a fresh directory
+and pointing row 13's `dense` stage at that export (never at row 5b-i's original, now-partial
+`data/search_corpus/`) is the correct way to pick up rows 8-11's additions in the search index,
+with zero risk to the lexical/graph tables already built.
 
 ### 0.3 Not part of reproducing the reported results
 
@@ -175,8 +223,8 @@ but absent from the database.
 - Corpus text-emission chunking, controller planning/observation, and judging call an LLM with
   no fixed temperature/seed (`prw/llm.py`) -- these are not byte-for-byte reproducible on
   rerun. `results/` ships the actual saved outputs of these steps.
-- Metrics/tables/figures computed from already-saved data (steps 12b, 12c, 13c, 13d) are
-  deterministic.
+- Metrics/tables/figures computed from already-saved data (table 0.2 rows 15b, 15c, 16c, 16d)
+  are deterministic.
 - The Procurement Pathway curation step (raw crawl -> final annotated manifest) cannot be
   rerun; see `provenance/missing_artifacts.md`.
 
@@ -211,7 +259,16 @@ Run against the complete 22,042-chunk / 27,600-edge export, the dense stage take
 `/refine` do. `/health`'s `documents` count on a freshly-rebuilt database reads 1,737, not
 2,078 -- `build_chunk_index.py` derives the documents table by aggregating the *chunks* table
 itself, so it counts only documents with at least one live chunk; the remaining 341 correspond
-to documents whose chunks were all superseded as cross-pipeline duplicates.
+to documents whose chunks were all superseded as cross-pipeline duplicates. A freshly-rebuilt
+database's `documents` table is, in this one respect, actually *more* complete than the shipped
+`code/corpus_export/data/documents.jsonl`: 17 documents (15 chunked by `chunk_legislation_text.py`,
+2 by `chunk_legislation_from_nodes.py`) have live chunks in the export's `chunks.jsonl` but no
+row at all in its `documents.jsonl` -- an artifact of table 0.2's row 7/row 8 split (the
+`documents` table is only ever populated once, from whatever `chunks.jsonl` existed at the time
+row 7's `lexical` stage last ran; these 17 were added afterward, by row 8's `ingest_*.py`
+scripts, which write to `chunks` but never to `documents`). Rebuilding from the export
+regenerates `documents` by aggregating the *current* `chunks` table, so it picks these 17 up
+without any extra step.
 
 **Quickstart**:
 ```bash
@@ -315,6 +372,43 @@ searches, bounded to 3 total operations.
 
 ## 4. Evaluation pipeline
 
+### 4.0 Evaluation methodology, and what you need before running any of it
+
+This is the section `code/procurement_research_workbench_v1/docs/workflow.mmd` points to. That
+diagram is a picture of the **matched DEV/TEST workbench** (`prw`) specifically -- one of the
+two tracks introduced in 4.2 below, not the standalone benchmark. It shows three separate,
+parallel judging tracks every scenario goes through, and why:
+
+1. **Bundle sufficiency** -- does the system's combined retrieved evidence satisfy the private,
+   held-back requirement list for that scenario? Three blinded judges score this independently
+   (`prw judge-bundles`), with independent adjudication when they materially disagree. This is
+   the primary metric (`requirement_coverage`, `scenario_complete`).
+2. **Answer-generation correctness** -- is the generated answer, when one is produced, checked
+   against independently-verified source excerpts (`prw answers` then `prw judge-answers`)?
+3. **Pooled passage relevance** -- nDCG and pointwise diagnostics, pooling every compared
+   system's retrieved passages together before judging (`prw pool` then `prw judge` then
+   `prw evaluate`), so no single system's own output defines what counts as relevant.
+
+The key safeguard in the diagram's dotted line: the private requirement list is never supplied
+to the system being evaluated while it runs -- `prw run` only ever sees the public scenario
+text; the requirements file is read for the first time afterward, by the judging commands.
+
+**Prerequisite, stated plainly:** `prw run` (the first command below) needs a working retrieval
+system to call -- that means table 0.2's rows 1-14 (acquisition through to a populated
+`state/chunk_index_merged.sqlite3` and its Qdrant collection) must already exist, either because
+you built them from scratch by following that table, or -- far more simply -- because you ran
+`scripts/rebuild_search_index.py` against the corpus export already shipped in this bundle (see
+section 0.5; this is the path almost everyone should use). Either way, you need *a* working
+index; which one you built it from does not matter to anything in section 4.
+
+**You do not have to run `prw run` at all.** Every command from `prw pool` onward reads its
+input from plain JSONL files, and this bundle already ships the actual, real ones this project's
+retrieval runs produced: `results/runs/<dev_scale|test_final>/<system>/runs.jsonl`. If you just
+want to reproduce the reported pooling/judging/metrics numbers, skip straight to the "Pooling +
+judging" command in 4.4 below, pointing `--runs` at those existing files -- nothing needs to be
+rebuilt or overwritten first. Re-run `prw run` yourself only if you specifically want to verify
+that the retrieval system itself, freshly built, produces comparable rankings.
+
 ### 4.1 Benchmark construction
 
 60 scenarios (40 dev / 20 test), each with corpus-verified gold evidence citations, spanning 8
@@ -330,8 +424,11 @@ split-independence audit are in `code/evaluation/final_retrieval_benchmark/` and
    `strict_target_recall.py` (judge-independent recall), `candidate_ceiling.py`
    (candidate-generation vs. ranking failure diagnosis), `error_analysis.py`, `make_figures.py`.
 2. **Matched DEV/TEST evaluation** (`code/procurement_research_workbench_v1/prw`): the four
-   production systems compared under identical retrieval/evidence budgets, with pooled
-   LLM-judged passage relevance (`prw judge`/`prw evaluate`) as the primary metric.
+   production systems compared under identical retrieval/evidence budgets, across the three
+   judging tracks in 4.0 above. Bundle sufficiency (`prw judge-bundles`) is the primary metric
+   (`prw/cli.py`'s own `evaluate` output says so directly: "Use judge-bundles for primary
+   complementary-evidence sufficiency"); pooled passage relevance (`prw judge`/`prw evaluate`)
+   is a secondary, diagnostic metric, not an exhaustive-corpus recall claim.
 
 ### 4.3 Judge configuration
 
@@ -341,26 +438,81 @@ attempt on validation failure) before accepting any label.
 
 ### 4.4 Exact commands
 
+Run these from `code/procurement_research_workbench_v1/` (so the relative paths below resolve;
+substitute absolute paths if you'd rather run from elsewhere). `<split>` is `dev` for the DEV
+scenarios (`--freeze` not required) or `test_sealed` for the sealed TEST scenarios (`--freeze
+results/final_reports/prw_freeze_record.json`, shipped in this bundle, required -- see 4.5).
+`<system>` is one of `hybrid`, `legal_static`, `planned_multisearch`, `adaptive`.
+
+**Option A -- reproduce the reported numbers from the already-shipped runs, no rebuild needed.**
+Skip straight to "Pooling + judging" below, pointing `--runs` at the runs already in this bundle
+(`../../results/runs/dev_scale/<system>/runs.jsonl` or `.../test_final/<system>/runs.jsonl`) --
+this does not overwrite anything, and needs none of table 0.2's rows.
+
+**Option B -- run retrieval yourself first.** This needs a working search index (table 0.2, rows
+1-14, or the section 0.5 shortcut against the shipped corpus export) and, for
+`planned_multisearch`/`adaptive`, `--allow-network` plus a configured OpenAI credential (these
+two systems call an LLM controller; `hybrid`/`legal_static` do not and never need
+`--allow-network`).
+
 ```bash
-# Retrieval, per system
-python -m prw run --scenarios <scenarios.jsonl> --system {hybrid|legal_static|planned_multisearch|adaptive} \
-  --snapshot <label> --out runs/<system> [--allow-network --max-requests N]
+# --- Retrieval, per system (Option B only -- skip this block for Option A) ---
+python -m prw run --scenarios data/dev/scenarios.jsonl --system hybrid \
+  --snapshot my-local-run --out my_runs/hybrid
+python -m prw run --scenarios data/dev/scenarios.jsonl --system legal_static \
+  --snapshot my-local-run --out my_runs/legal_static
+python -m prw run --scenarios data/dev/scenarios.jsonl --system planned_multisearch \
+  --snapshot my-local-run --out my_runs/planned_multisearch --allow-network --max-requests 200
+python -m prw run --scenarios data/dev/scenarios.jsonl --system adaptive \
+  --snapshot my-local-run --out my_runs/adaptive --allow-network --max-requests 200
+# RUNS="my_runs/*/runs.jsonl" below; for Option A instead:
+# RUNS="../../results/runs/dev_scale/*/runs.jsonl"
 
-# Pooling + judging
-python -m prw pool --runs runs/*/runs.jsonl --final-only --out pool/<label>
-python -m prw judge --pool pool/<label>/candidate_pool.jsonl --scenarios <scenarios.jsonl> \
-  --requirements <requirements.jsonl> --out judgments/<label> --allow-network --adjudicate --max-requests N
+# --- Track 1: bundle sufficiency (the primary metric) ---
+python -m prw judge-bundles --runs $RUNS --scenarios data/dev/scenarios.jsonl \
+  --requirements data/dev/requirements.jsonl --out my_bundle_judgments \
+  --allow-network --adjudicate --max-requests 300
 
-# Metrics
-python -m prw evaluate --runs runs/*/runs.jsonl --qrels judgments/<label>/qrels_silver.jsonl \
-  --requirements <requirements.jsonl> --out results/<label> --k 10
+# --- Track 2: answer-generation correctness (optional -- not evaluated at retrieval's scale) ---
+python -m prw answers --runs my_runs/hybrid/runs.jsonl --scenarios data/dev/scenarios.jsonl \
+  --out my_answers --allow-network --max-requests 100
+python -m prw judge-answers --answers my_answers/answers.jsonl --scenarios data/dev/scenarios.jsonl \
+  --requirements data/dev/requirements.jsonl --out my_answer_judgments --allow-network --adjudicate
 
-# Standalone benchmark
-python run_retrieval_configs.py
-python compute_metrics.py
-python strict_target_recall.py
-python candidate_ceiling.py
+# --- Track 3: pooled passage relevance (pool -> judge -> evaluate) ---
+python -m prw pool --runs $RUNS --final-only --out my_pool
+python -m prw judge --pool my_pool/candidate_pool.jsonl --scenarios data/dev/scenarios.jsonl \
+  --requirements data/dev/requirements.jsonl --out my_judgments --allow-network --adjudicate --max-requests 300
+python -m prw evaluate --runs $RUNS --qrels my_judgments/qrels_silver.jsonl \
+  --requirements data/dev/requirements.jsonl --out my_metrics --k 10
 ```
+
+All three tracks read the same `runs.jsonl` files and the same `--requirements` file, and all
+three can be pointed at either the shipped `results/runs/...` (Option A) or your own fresh
+`my_runs/...` (Option B) -- nothing about their commands changes between the two, only which
+directory `--runs`/`$RUNS` names. `--adjudicate`, `--allow-network`, and `--max-requests` gate
+every LLM-calling command (`judge*`, `answers`) behind an explicit opt-in and a request ceiling;
+omit `--allow-network` to get a dry-run cost estimate (pair/request counts) with no API call
+made.
+
+**Standalone benchmark** (a separate, independent pipeline from the `prw` workbench above -- see
+4.2 -- run from `code/evaluation/final_retrieval_benchmark/`):
+
+```bash
+# Reproduce the reported tables/figures from already-saved judgments -- no rebuild, no API
+# call, exactly what README.md's Quickstart step 6 runs:
+python candidate_ceiling_CORRECTED.py
+python build_final_tables.py
+python strict_target_recall.py
+python make_figures.py
+```
+
+Rerun the earlier stages only if you want to regenerate the judgments themselves rather than
+reuse the shipped ones -- `run_retrieval_configs.py` (retrieval only, the 6 configs, no LLM
+call, needs the same working index as the workbench above) then `build_candidate_pool.py` then
+`judge_candidate_pool.py` (this one does call `gpt-4o-mini`) -- in that order, before the
+already-saved-data commands above, which then read your freshly regenerated judgments instead
+of the shipped ones.
 
 ### 4.5 Freeze record (TEST-stage reproducibility)
 

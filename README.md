@@ -189,10 +189,18 @@ dense, hybrid, hybrid+priors, hybrid+graph, two-lane final fusion). It correspon
 thesis's Table 1 and its associated figures.
 
 This is a separate pipeline from the four-system (`hybrid`/`legal_static`/`planned_multisearch`/
-`adaptive`) DEV/TEST comparison in `code/procurement_research_workbench_v1`. That comparison is
-not re-run here, because its retrieval/judging steps call an LLM with no fixed seed (see
-"Reproducibility scope" in `TECHNICAL_APPENDIX.md`). Its code is exercised only via the test suite
-above; its actual recorded outputs are the JSONL files under `results/`.
+`adaptive`) DEV/TEST comparison in `code/procurement_research_workbench_v1`. That comparison's
+`pool`/`judge`/`judge-bundles`/`judge-answers`/`evaluate` commands *are* fully documented and
+runnable -- see `TECHNICAL_APPENDIX.md` section 4.0 ("Evaluation methodology, and what you need
+before running any of it") and 4.4 ("Exact commands") -- they are just not included in this
+Quickstart because their judging steps call an LLM with no fixed seed (see "Reproducibility
+scope" in `TECHNICAL_APPENDIX.md`), so rerunning them produces architecturally comparable, not
+identical, output. Two ways to use them: point them at the already-shipped
+`results/runs/<split>/<system>/runs.jsonl` files to reproduce the same judgments/metrics this project
+recorded (no rebuild, nothing overwritten), or run `prw run` yourself first against your own
+freshly built index if you specifically want to verify the retrieval step end to end. This
+package's own code is additionally exercised, independent of either path, by the test suite in
+step 5 above.
 
 ```bash
 cd "$REPO_ROOT/code/evaluation/final_retrieval_benchmark"

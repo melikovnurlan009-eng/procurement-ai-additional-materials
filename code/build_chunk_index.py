@@ -82,9 +82,13 @@ CREATE TABLE IF NOT EXISTS chunks (
     prompt_version TEXT,
     pipeline_version TEXT,
     char_count INTEGER,
-    est_tokens INTEGER
+    est_tokens INTEGER,
+    superseded_by TEXT,
+    filtered_out TEXT
 );
 CREATE INDEX IF NOT EXISTS idx_chunks_doc ON chunks(document_id);
+CREATE INDEX IF NOT EXISTS idx_chunks_superseded ON chunks(superseded_by);
+CREATE INDEX IF NOT EXISTS idx_chunks_filtered ON chunks(filtered_out);
 CREATE INDEX IF NOT EXISTS idx_chunks_parent ON chunks(parent_node_id);
 CREATE INDEX IF NOT EXISTS idx_chunks_authority ON chunks(authority_class);
 CREATE INDEX IF NOT EXISTS idx_chunks_regime ON chunks(legal_regime);
@@ -204,6 +208,7 @@ def build_lexical(corpus_dir: Path, db_path: Path, root: Path) -> dict[str, Any]
                 json.dumps(c.get("link_placeholders") or []), c.get("source_url"),
                 c.get("content_sha256"), c.get("chunking_method"), c.get("chunking_model"),
                 c.get("prompt_version"), c.get("pipeline_version"), len(text), max(1, len(text) // 4),
+                c.get("superseded_by"), c.get("filtered_out"),
             )
         )
         keywords = " ".join(
@@ -214,7 +219,7 @@ def build_lexical(corpus_dir: Path, db_path: Path, root: Path) -> dict[str, Any]
         fts_rows.append((c["chunk_id"], text, c.get("retrieval_title") or "",
                          c.get("retrieval_summary") or "", keywords, c.get("citation") or ""))
 
-    con.executemany(f"INSERT INTO chunks VALUES ({','.join('?' * 31)})", rows)
+    con.executemany(f"INSERT INTO chunks VALUES ({','.join('?' * 33)})", rows)
     con.executemany(
         "INSERT INTO chunks_fts(chunk_id,text,retrieval_title,retrieval_summary,keywords,citation) "
         "VALUES (?,?,?,?,?,?)",

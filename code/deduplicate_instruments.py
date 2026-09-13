@@ -114,16 +114,21 @@ def main() -> int:
                         [(c, d) for d, c in superseded_docs.items()])
         con.execute("CREATE INDEX IF NOT EXISTS idx_chunks_superseded ON chunks(superseded_by)")
         con.commit()
-        keep = [x for x in qrows if x["chunk_id"] not in set(dup_chunks)]
-        outq = qpath.with_name("qrels_v1_dedup.jsonl")
-        with outq.open("w", encoding="utf-8") as f:
-            for x in keep: f.write(json.dumps(x, ensure_ascii=False) + "\n")
-        with qpath.with_name("qrels_v1_dedup.trec").open("w", encoding="utf-8") as f:
-            for x in keep: f.write(f"{x['query_id']} 0 {x['chunk_id']} {x['relevance']}\n")
-        (root / "state" / "deduplicate_instruments_report.json").write_text(
+        ((root / a.db).parent / "deduplicate_instruments_report.json").write_text(
             json.dumps(report, indent=2), encoding="utf-8")
         print(f"\napplied: {len(dup_chunks)} chunks marked superseded")
-        print(f"re-scoped qrels: {len(qrows)} -> {len(keep)} judgments -> {outq.name}")
+        if qpath.exists():
+            # Legacy standalone-benchmark qrels re-scoping: only meaningful (and only
+            # attempted) if that older qrels file is actually present -- it is not part
+            # of this bundle's shipped data, so skip it rather than write into a
+            # directory that was never created.
+            keep = [x for x in qrows if x["chunk_id"] not in set(dup_chunks)]
+            outq = qpath.with_name("qrels_v1_dedup.jsonl")
+            with outq.open("w", encoding="utf-8") as f:
+                for x in keep: f.write(json.dumps(x, ensure_ascii=False) + "\n")
+            with qpath.with_name("qrels_v1_dedup.trec").open("w", encoding="utf-8") as f:
+                for x in keep: f.write(f"{x['query_id']} 0 {x['chunk_id']} {x['relevance']}\n")
+            print(f"re-scoped qrels: {len(qrows)} -> {len(keep)} judgments -> {outq.name}")
     return 0
 
 

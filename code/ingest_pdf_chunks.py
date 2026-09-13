@@ -112,7 +112,7 @@ def main() -> int:
     act = con.execute("SELECT count(*), sum(char_count) FROM chunks "
                       "WHERE superseded_by IS NULL AND filtered_out IS NULL").fetchone()
     print(f"\napplied. active corpus: {act[0]:,} chunks, {act[1]:,} chars")
-    (ROOT / "state" / "ingest_pdf_chunks_report.json").write_text(json.dumps(
+    ((ROOT / a.db).parent / "ingest_pdf_chunks_report.json").write_text(json.dumps(
         {"generated_at": datetime.now(timezone.utc).isoformat(), "inserted": len(rows),
          "retired": len(retire), **dict(stats)}, indent=2), encoding="utf-8")
     return 0

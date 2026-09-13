@@ -1,3 +1,17 @@
+%% This diagram is the evaluation methodology for the matched DEV/TEST workbench (the four
+%% systems: hybrid, legal_static, planned_multisearch, adaptive) -- not a script or a command
+%% to run. It shows three separate, parallel judging tracks that every scenario goes through,
+%% and why: bundle sufficiency (does the combined evidence satisfy the private, held-back
+%% requirements -- with adjudication when judges disagree), answer-generation correctness
+%% (checked against independently-verified source excerpts), and pooled passage relevance
+%% (nDCG/diagnostics, pooling every system's retrieved passages together before judging, so no
+%% single system's own output defines what counts as relevant). The dotted line at the bottom
+%% is the key safeguard: the private requirements are never supplied to the system being
+%% evaluated while it runs -- only used afterward, by the judges. See TECHNICAL_APPENDIX.md
+%% section 4.0, "Evaluation methodology, and what you need before running any of it", for how
+%% this maps to the actual runnable commands (prw run / prw pool / prw judge / prw judge-bundles
+%% / prw judge-answers / prw evaluate) and for the prerequisite: a working retrieval index, OR
+%% just the already-shipped results/runs/*.jsonl files -- no rebuild required either way.
 flowchart TD
     A[Public source-guided scenario] --> B[Static retrieval or bounded controller]
     B --> C[Same final K and text budget]
