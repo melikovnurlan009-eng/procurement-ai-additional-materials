@@ -43,6 +43,48 @@ REPO_ROOT="$(pwd)"
 Every command block below uses `$REPO_ROOT`, so it still works even if a previous step's `cd`
 left your shell somewhere else. (Opened a new terminal? Re-run that line there first.)
 
+## Quickstart: run these in order to reach the final, working system
+
+Everything else in this file explains *why* -- this section just gives the order. Run from the
+repository root.
+
+**1. Python 3.10+ venv, and capture the repo root** (see "Prerequisites" above if this fails):
+```bash
+REPO_ROOT="$(pwd)"
+python3.12 -m venv .venv   # substitute whichever 3.10+ interpreter you installed
+source .venv/bin/activate
+python3 -m pip install --upgrade pip
+```
+
+**2. Verify integrity** (static checks, no network, seconds to run):
+```bash
+python3 "$REPO_ROOT/scripts/verify_freeze.py"
+python3 "$REPO_ROOT/scripts/verify_bundle.py"
+```
+
+**3. Build the final database and search index** -- from the corpus already exported in this
+bundle, **not** by re-scraping (re-scraping live sources is not guaranteed to reproduce the same
+corpus; see "What is and is not exactly reproducible" below):
+```bash
+docker compose -f "$REPO_ROOT/docker-compose.yml" up -d qdrant
+cd "$REPO_ROOT/code" && pip install -r requirements.txt
+python3 "$REPO_ROOT/scripts/rebuild_search_index.py"   # ~20-40 min on CPU
+```
+
+**4. Run the live application:**
+```bash
+cd "$REPO_ROOT" && cp .env.example .env   # add your own OPENAI_API_KEY
+cd "$REPO_ROOT/code" && python chunk_api.py   # serves on :8899
+```
+`/search` and `/health` work with no API key; `/answer`/`/refine` need one.
+
+**That's the final, working system** -- same database, same search index, same retrieval code
+that was evaluated. Everything past this point is optional, depending on what you want next:
+- Run the test suite -- "Run tests" below.
+- Reproduce the reported tables/figures -- "Reach the reported tables and figures" below.
+- Spot-check the acquisition/chunking methodology against live sources -- "Verify the
+  deterministic chunking lane" below.
+
 ## What this supports
 
 The UK public procurement AI assistant described in the thesis. Three parts:
