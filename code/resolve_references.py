@@ -128,7 +128,7 @@ def split_locator(locator: str) -> list[str]:
 class Corpus:
     """Node universe and URL index used for target lookup."""
 
-    def __init__(self, root: Path):
+    def __init__(self, root: Path, corpus_dir: Path):
         self.nodes: dict[str, dict[str, Any]] = {}
         self.node_text: dict[str, str] = {}
         for path in sorted((root / "data" / "group_a_legislation_v4").glob("*/nodes_*.jsonl")):
@@ -140,7 +140,7 @@ class Corpus:
         self.documents: set[str] = {n.split("__", 1)[0] for n in self.nodes}
 
         self.url_to_doc: dict[str, str] = {}
-        for line in (root / "data" / "search_corpus" / "parent_segments.jsonl").open(encoding="utf-8"):
+        for line in (corpus_dir / "parent_segments.jsonl").open(encoding="utf-8"):
             if not line.strip():
                 continue
             seg = json.loads(line)
@@ -324,7 +324,7 @@ def main() -> int:
 
     root = Path(__file__).resolve().parent
     corpus_dir = args.corpus_dir if args.corpus_dir.is_absolute() else root / args.corpus_dir
-    corpus = Corpus(root)
+    corpus = Corpus(root, corpus_dir)
     candidates = read_jsonl(corpus_dir / "unresolved_references.jsonl")
 
     resolved, edges, unresolved, acquisitions = [], [], [], []

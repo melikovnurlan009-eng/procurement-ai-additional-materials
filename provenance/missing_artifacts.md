@@ -39,3 +39,27 @@ Per-scenario checkpoint caches and per-candidate judge-request caches are not in
 content is fully represented in the consolidated JSONL files that are included
 (`runs.jsonl`, `judgments_raw.jsonl`, `qrels_silver.jsonl`).
 
+## 7. Gold-evidence citation resolution has a known, unfixed bug affecting some regulation citations
+
+`code/evaluation/final_retrieval_benchmark/resolve_gold_targets.py` attaches a corpus `chunk_id`
+to each gold-evidence citation in `gold_evidence.jsonl` by normalizing the citation text and
+matching on only its first 4 tokens via a SQL `LIKE` query with no `ORDER BY`, then taking
+whichever row the database happens to return first. For a citation of the form
+`"<Instrument name and year>, reg.NN"`, the instrument's own title words already fill all 4
+token slots, so the actual regulation number (`reg.NN`) never participates in the match at all
+-- the query returns the instrument's regulation-1 chunk regardless of which regulation was
+actually cited. Checked directly against the shipped `gold_evidence.jsonl`: of the citations
+matching this pattern, the large majority resolve to the wrong regulation, and at least 8 of the
+60 static-benchmark scenarios (DEV005, DEV025, DEV038, DEV039, DEV040, TEST002, TEST013, TEST020)
+have an essential-evidence target silently pointed at the wrong provision as a result.
+
+This means any analysis keyed off `gold_evidence.jsonl`'s `resolution.chunk_id` field for a
+regulation-style citation -- including the candidate-generation-vs-ranking failure classification
+in `candidate_ceiling.py`/`candidate_ceiling_CORRECTED.py` -- reproduces its reported counts
+exactly and deterministically from the shipped data (this is a real property of the shipped
+data, not a nondeterminism bug), but for the affected scenarios that count reflects whether a
+system found the instrument's regulation-1 chunk, not whether it found the actually-cited
+regulation. Section-style citations (`s.NN`) are not affected in the same way, since a section
+number typically falls within the first 4 tokens. This bug is not yet fixed in the shipped code
+as of this bundle's freeze.
+
