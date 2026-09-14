@@ -31,8 +31,16 @@ number.
 | Corrected (`candidate_ceiling_CORRECTED.py`) | 24 | 31 | 5 |
 
 Both scripts and both sets of output (`metrics/candidate_ceiling{,_CORRECTED}.jsonl` and
-`_summary.json`, `figures/candidate_ceiling{,_CORRECTED}.png`) are kept in the bundle; the
-corrected numbers are the ones reported in the thesis text and in `TECHNICAL_APPENDIX.md`.
+`_summary.json`, `figures/candidate_ceiling{,_CORRECTED}.png`) are kept in the bundle.
+**The submitted thesis text reports the original, uncorrected numbers**: "Forty of the 60
+scenarios (66.7%) are candidate-generation failures... [45] that fail outright (40
+candidate-generation plus 5 ranking failures)" -- i.e. 15 OK / 40 CANDIDATE_GENERATION_PROBLEM /
+5 RANKING_PROBLEM, matching `candidate_ceiling.py` (without `_CORRECTED`), not the reclassified
+24/31/5. The classification-order bug this file documents, and its fix, were found and applied
+to this reproducibility bundle after the thesis was finalized -- `candidate_ceiling_CORRECTED.py`
+and its 24/31/5 output are kept here as a disclosed correction for anyone auditing the analysis
+method, not as a claim that the thesis's own reported figures were updated to match. Do not cite
+24/31/5 as "the thesis number" -- the thesis number is 15/40/5.
 
 See also `provenance/missing_artifacts.md` item 7 for a separate, still-unfixed data-quality
 issue in this same analysis's gold-evidence input (`resolve_gold_targets.py`'s citation
