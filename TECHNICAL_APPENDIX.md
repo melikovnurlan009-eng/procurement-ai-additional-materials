@@ -280,6 +280,34 @@ cp .env.example .env
 cd code && python chunk_api.py
 ```
 
+**Faster alternative to stage 3, if you want byte-identical dense retrieval:** stage 3
+(`build_chunk_index.py dense`) re-embeds and re-inserts every chunk into a fresh Qdrant HNSW
+index. The embeddings themselves are deterministic, but Qdrant's HNSW graph is an *approximate*
+nearest-neighbour structure -- a from-scratch build of it is not guaranteed to produce the exact
+same graph twice, which is why a rebuilt index's retrieval rankings are not always byte-identical
+to what's already reported in `results/` (confirmed directly: 28 of 40 DEV scenarios' rankings
+changed after a from-scratch rebuild -- see "What is and is not exactly reproducible" in
+`README.md`). To skip both the ~20-40 min re-embedding and this non-determinism entirely, restore
+the exact Qdrant snapshot of the evaluated collection instead of running stage 3:
+
+```bash
+docker compose up -d qdrant
+cd code
+python3 build_chunk_index.py lexical --corpus-dir corpus_export/data \
+  --db state/chunk_index_merged.sqlite3          # stage 1 -- still needed, this only replaces stage 3
+python3 densify_graph_edges.py --db state/chunk_index_merged.sqlite3 --apply   # stage 2
+cd ..
+python3 scripts/restore_qdrant_snapshot.py       # replaces stage 3
+```
+
+`restore_qdrant_snapshot.py` downloads a ~152 MB Qdrant collection snapshot from this repository's
+GitHub Releases (too large to track directly in git; see `qdrant-snapshot-v1`) and restores it
+directly via Qdrant's own snapshot-upload API, then verifies the collection lands on the expected
+22,042 points. Verified end-to-end against a freshly-started, empty Qdrant container: restores
+correctly and returns the exact expected search results for a real query. The default URL is
+baked into the script (`--url` to override); nothing else about `/search`/`/answer` changes --
+the restored collection is queried exactly the same way as one built by stage 3.
+
 ## 1. System overview
 
 Three components, in dependency order:

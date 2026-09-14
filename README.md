@@ -71,6 +71,10 @@ docker compose -f "$REPO_ROOT/docker-compose.yml" up -d qdrant
 cd "$REPO_ROOT/code" && pip install -r requirements.txt
 python3 "$REPO_ROOT/scripts/rebuild_search_index.py"   # ~20-40 min on CPU
 ```
+This step's dense (vector) build is not guaranteed to reproduce byte-identical retrieval rankings
+on every run -- see "What is and is not exactly reproducible" below. If exact retrieval output
+matters more to you than exercising the embedding step yourself, `TECHNICAL_APPENDIX.md` section
+0.5 has a faster alternative: restore the exact evaluated Qdrant snapshot instead of re-embedding.
 
 **4. Run the live application:**
 ```bash
