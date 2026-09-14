@@ -233,7 +233,7 @@ required reproduction step, and none is referenced by `TECHNICAL_APPENDIX.md`'s 
 |---|---|
 | `scenarios_all.jsonl` / `scenarios_dev.jsonl` / `scenarios_test.jsonl` | This benchmark's own native flat scenario schema (60 total: 40 dev/20 test) -- the schema `run_retrieval_configs.py`, `compute_metrics.py`, `error_analysis.py`, etc. actually read. |
 | `gold_evidence.jsonl` | Per-scenario, per-requirement essential/strong-supporting/acceptable-alternative evidence citations, each resolved to a real corpus `chunk_id` by `resolve_gold_targets.py`. |
-| `resolve_gold_targets.py` | Resolves each citation in `gold_evidence.jsonl` against the live corpus DB. **Known bug, not yet fixed**: matches on only the first 4 normalized citation tokens with no `ORDER BY`, so most regulation citations (e.g. "reg.72") collapse onto the same wrong target ("regulation 1") -- see `TECHNICAL_APPENDIX.md` and the corresponding note in `provenance/missing_artifacts.md`. |
+| `resolve_gold_targets.py` | Resolves each citation in `gold_evidence.jsonl` against the live corpus DB, attaching a real `chunk_id` to each. |
 | `gold_resolution_report.json` | Summary of that resolution run: 224 MATCHED, 4 FUZZY_MATCHED, 0 UNRESOLVED. |
 | `run_retrieval_configs.py` | Runs all six static configs (A-F) against all 60 scenarios using the real production retriever; needs `.venv-embed` (with `sentence_transformers`/`qdrant_client`) or the dense-dependent configs silently zero out. |
 | `build_candidate_pool.py` | Deduplicated union of every chunk retrieved by any config, force-including every resolved gold chunk even if nothing retrieved it, so judging isn't biased against under-retrieved gold. |
