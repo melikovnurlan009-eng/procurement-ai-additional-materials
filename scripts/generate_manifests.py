@@ -3,30 +3,31 @@
 provenance/artifact_manifest.csv (curated, human-readable inventory by category)."""
 import csv
 import hashlib
+import subprocess
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-SKIP_DIRS = {".git", ".pytest_cache", "__pycache__"}
 SKIP_NAMES = {"MANIFEST.sha256"}
-SKIP_DIR_SUFFIXES = (".egg-info",)
 
 
 def sha256_file(p):
     return hashlib.sha256(p.read_bytes()).hexdigest()
 
 
-def _path_is_skipped(p):
-    for part in p.parts:
-        if part in SKIP_DIRS or part.endswith(SKIP_DIR_SUFFIXES):
-            return True
-    return False
-
-
 def iter_files():
-    for p in sorted(ROOT.rglob("*")):
-        if p.is_dir():
-            continue
-        if _path_is_skipped(p):
+    # Exactly the file set `git add -A` would pick up: tracked files, plus untracked files
+    # that aren't gitignored. Deliberately NOT a raw filesystem walk -- a hardcoded skip-dir
+    # list silently drifts (e.g. code/state/, .venv/, a stray log file left by a local test
+    # run) and inflates the manifest with scratch artifacts that were never meant to ship.
+    # This lets .gitignore be the single source of truth for what belongs in the bundle.
+    out = subprocess.run(
+        ["git", "ls-files", "--cached", "--others", "--exclude-standard", "-z"],
+        cwd=ROOT, capture_output=True, check=True,
+    ).stdout
+    rels = [r for r in out.decode().split("\0") if r]
+    for rel in sorted(rels):
+        p = ROOT / rel
+        if not p.is_file():
             continue
         if p.name in SKIP_NAMES:
             continue
@@ -101,9 +102,7 @@ def gen_artifact_manifest():
                 })
                 rolled_up_prefixes.append(d)
 
-    for p in sorted(ROOT.rglob("*")):
-        if p.is_dir() or p.name in SKIP_NAMES or _path_is_skipped(p):
-            continue
+    for p in iter_files():
         rel = str(p.relative_to(ROOT))
         if any(rel.startswith(rp) for rp in rolled_up_prefixes):
             continue

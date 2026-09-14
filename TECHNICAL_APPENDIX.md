@@ -148,15 +148,15 @@ have run before each evaluation command works.
 
 | # | Stage | Script(s) | Reads | Writes | Command |
 |---|---|---|---|---|---|
-| 1 | Acquire legislation | `code/scrapers/legislation/group_a_legislation_scraper_v4.py` (run this one -- the latest version; `_v1.py`/`_v2.py` are kept for reference/audit only). Needs `requests` and `lxml` (both in `code/requirements.txt`). Run from `code/`, since `--output-dir` is relative to it, not to `scrapers/legislation/` | legislation.gov.uk XML (AKN/CLML) | `processed/nodes.jsonl`, `references_*.jsonl`, `annotations_*.jsonl`, `legal_effects_*.jsonl` | `cd code && python scrapers/legislation/group_a_legislation_scraper_v4.py --source ALL --output-dir data/group_a_legislation_v4` (`--source` also accepts `PA2023`/`PR2024`/`PCR2015` individually; `ALL` gets all three in one run) |
-| 2 | Acquire guidance/regulator/professional sources | `code/scrapers/`: `scrape_associated_law_guidance.py`, `scrape_competition_procurement_guidance.py`, `scrape_nsup.py`, `scrape_procurement_act_guidance.py`, `scrape_procurement_compliance_oversight.py`, `scrape_procurement_policy_notes.py`, `scrape_professional_procurement_sources.py` -- each runs with no arguments, using its own built-in, fixed URL list. (`scrape_core_legislation_full.py`, also in this folder, produces the same `nodes.jsonl`/`references.jsonl` format as step 1's script but is not referenced anywhere in this pipeline -- an apparent superseded duplicate, not something to run. `rescrape_procurement_journey.py` requires the database to already exist and explicitly does not ingest its own output -- an optional, later-stage quality tool, not part of this step.) | fixed, pre-enumerated URL lists | raw HTML/PDF + provenance records | `python scrapers/scrape_associated_law_guidance.py` (repeat for each script above) |
-| 3 | Acquire Procurement Pathway (raw discovery) | `code/scrapers/procurement_doc_counter/count_documents_relevance.py` + `seeds.json` | 58 seed roots | `documents.csv`/`documents.json`/`summary.json` | `python count_documents_relevance.py --seeds seeds.json --out crawl_output` |
+| 1 | Acquire legislation | `code/scrapers/legislation/group_a_legislation_scraper_v4.py`. Needs `requests` and `lxml` (both in `code/requirements.txt`). Run from `code/`, since `--output-dir` is relative to it, not to `scrapers/legislation/` | legislation.gov.uk XML (AKN/CLML) | `processed/nodes.jsonl`, `references_*.jsonl`, `annotations_*.jsonl`, `legal_effects_*.jsonl` | `cd code && python scrapers/legislation/group_a_legislation_scraper_v4.py --source ALL --output-dir data/group_a_legislation_v4` (`--source` also accepts `PA2023`/`PR2024`/`PCR2015` individually; `ALL` gets all three in one run) |
+| 2 | Acquire guidance/regulator/professional sources | `code/scrapers/`: `scrape_associated_law_guidance.py`, `scrape_competition_procurement_guidance.py`, `scrape_nsup.py`, `scrape_procurement_act_guidance.py`, `scrape_procurement_compliance_oversight.py`, `scrape_procurement_policy_notes.py`, `scrape_professional_procurement_sources.py` -- each runs with no arguments, using its own built-in, fixed URL list. | fixed, pre-enumerated URL lists | raw HTML/PDF + provenance records | `python scrapers/scrape_associated_law_guidance.py` (repeat for each script above) |
+| 3 | Acquire Procurement Pathway (raw discovery) | `code/scrapers/procurement_doc_counter/count_documents_relevance.py` + `seeds.json` -- `--seeds seeds.json` is a relative path resolved against the current directory, not the script's location; run this from `code/scrapers/procurement_doc_counter/` itself, or the default `seeds.json` won't be found | 58 seed roots | `documents.csv`/`documents.json`/`summary.json` | `cd code/scrapers/procurement_doc_counter && python count_documents_relevance.py --seeds seeds.json --out crawl_output` |
 | 4 | Parse PDFs | `extract_pdf_pages.py` / `extract_pdf_structured.py` (PyMuPDF/`fitz`) | raw PDF bytes | page-ordered JSON | see script `--help` |
 | 5a | Chunk (deterministic, no LLM) | `chunk_legislation_from_nodes.py` -- for instruments with a clean structural parse (PA2023, PR2024 core Acts) | `nodes_*.jsonl` | chunk JSONL, method tag `STRUCTURAL_NODE_V1` | `python chunk_legislation_from_nodes.py --doc <id> --nodes <path> --out <path>` |
-| 5b-i | Chunk (legislation, boundary-selection) -- **also writes the base corpus rows 6-7 below read** | `build_search_corpus.py` -- produces `LLM_SEMANTIC_BOUNDARY_V1` | raw parsed source blocks (`--input-root`) | `data/search_corpus/{parent_segments,chunk_boundaries,chunks,chunk_validation,edges,unresolved_references}.jsonl` (`--output-dir`) | `python build_search_corpus.py all --input-root <blocks dir> --output-dir data/search_corpus` |
+| 5b-i | Chunk (legislation, boundary-selection) -- **also writes the base corpus rows 6-7 below read** | `build_search_corpus.py` -- produces `LLM_SEMANTIC_BOUNDARY_V1` | raw parsed source blocks (`--input-root`) | `data/search_corpus/{parent_segments,chunk_boundaries,chunks,chunk_validation,edges,unresolved_references}.jsonl` (`--output-dir`) | `python build_search_corpus.py all --input-root <blocks dir> --output-dir data/search_corpus --model gpt-4o-mini` (`--model` or the `CHUNK_MODEL` env var is **required** for `stage all`/`llm` -- confirmed live: the command crashes immediately with `RuntimeError: --model or CHUNK_MODEL required` without it; `OPENAI_API_KEY` must also be set) |
 | 5b-ii | Chunk (legislation, text-emission) | `chunk_legislation_text.py` -- produces `LLM_LEG_TEXT_V2` | `data/legislation_acquired/` | chunk JSONL | `python chunk_legislation_text.py --dir data/legislation_acquired --out <out> --model gpt-4o-mini --window-chars 9000 --min-coverage 0.80` |
 | 5c | Chunk (PDF, LLM-assisted) | `chunk_pdf_text.py` -- produces `LLM_PDF_TEXT_V2` | PDF page JSON (step 4) | `data/pdf_chunks/` | `python chunk_pdf_text.py <pages_json...> --out data/pdf_chunks --model gpt-4.1 --window-chars 9000 --min-coverage 0.80` |
-| 5d | Targeted re-chunk (2 instruments) | `chunk_commencement_regs_from_xml.py` -- fixes UKSI_2024_716 and UKSI_2024_959 | source XML | corrected chunk JSONL | `python chunk_commencement_regs_from_xml.py` |
+| 5d | Targeted re-chunk (2 instruments) | `chunk_commencement_regs_from_xml.py` -- fixes UKSI_2024_716 and UKSI_2024_959. Takes `--doc`/`--xml`/`--out`, all **required** (the bare command with no arguments fails immediately with an argparse error); must be run once per instrument. `--xml` needs each instrument's own raw source XML, not row 1's `nodes.jsonl` -- fetch it directly (confirmed working) | source XML from `https://www.legislation.gov.uk/uksi/2024/{716,959}/made/data.xml` | corrected chunk JSONL | `curl -o UKSI_2024_716.xml https://www.legislation.gov.uk/uksi/2024/716/made/data.xml && python chunk_commencement_regs_from_xml.py --doc UKSI_2024_716 --xml UKSI_2024_716.xml --out data/legislation_chunks/UKSI_2024_716.json` (repeat with `--doc UKSI_2024_959`, its own `.xml`, and its own `--out` path) |
 | 6 | Resolve the citation graph (pure JSONL -- no database exists yet) | `resolve_references.py`, `extract_guidance_references.py` -- **both also read `data/group_a_legislation_v4/*/nodes_*.jsonl` (row 1's raw scraper output) from a path fixed relative to `code/`, not from `--corpus-dir`**; run these two scripts from `code/` with row 1's output left at its default location, or this step will not find it | `data/search_corpus/{parent_segments,chunks,unresolved_references}.jsonl` (from row 5b-i) + `data/group_a_legislation_v4/*/nodes_*.jsonl` (from row 1) | `data/search_corpus/{edges_v2,unresolved_references_v2,reference_resolution_all,edges_guidance_refs}.jsonl` | `cd code && python resolve_references.py --corpus-dir data/search_corpus && python extract_guidance_references.py --corpus-dir data/search_corpus` |
 | 7 | Bootstrap the index database -- **run this exactly once, before row 8, never again after** | `build_chunk_index.py lexical` | the four JSONL files `data/search_corpus/{chunks,edges,edges_v2,edges_guidance_refs}.jsonl` (rows 5b-i and 6) | `state/chunk_index_merged.sqlite3` -- created here, for the first time | `python build_chunk_index.py lexical --corpus-dir data/search_corpus --db state/chunk_index_merged.sqlite3` |
 | 8 | Ingest the other 3 chunking methods (additive -- the database from row 7 already exists) | `ingest_legislation_chunks.py`, `ingest_pdf_chunks.py`, `ingest_structural_node_chunks.py` | each method's own chunk JSONL (rows 5b-ii, 5c, 5a/5d) + the DB from row 7 | same DB, rows added by `INSERT OR REPLACE` | `python ingest_legislation_chunks.py --chunks-dir data/legislation_chunks --db state/chunk_index_merged.sqlite3 --apply` (repeat with `ingest_pdf_chunks.py --chunks-dir data/pdf_chunks_mini --db ... --apply` and `ingest_structural_node_chunks.py --chunks <path...> --db ... --apply`) |
@@ -175,12 +175,6 @@ have run before each evaluation command works.
 | 16b | Matched workbench: pool + judge | `python -m prw pool`, `python -m prw judge` / `judge-bundles` / `judge-answers` | runs from 16a | `results/judgments/.../judgments_raw.jsonl`, `qrels_silver.jsonl`, `bundle_consensus.jsonl`, `answer_consensus.jsonl` | see section 0.6 |
 | 16c | Matched workbench: evaluate + freeze | `python -m prw evaluate`, `python -m prw freeze` | judgments from 16b | per-scenario + aggregate metrics; `prw_freeze_record.json` | see section 0.6 |
 | 16d | Matched workbench: diagnostics + figures | `build_controller_diagnostics.py`, `make_final_figures.py` | evaluate output from 16c | `CONTROLLER_DIAGNOSTICS.csv`, `figures/*.png` | see each script's `--help` |
-
-Run `_v4.py` -- it's the latest version, and `chunk_legislation_from_nodes.py`'s
-`_normalize_node()` step is written to accept its field naming (`node_type`/`eid`) directly.
-`_v1.py` and `_v2.py` also produce compatible output (the same `_normalize_node()` step
-accepts their older field naming too) and are kept in the repo for reference/audit, but
-there is no need to run them.
 
 Rows 11a-11c (backfilling cited-but-missing instruments) sit where they do, not right after row
 1, because `collect_missing_references.py` ranks what's missing partly from the reference
@@ -208,13 +202,10 @@ with zero risk to the lexical/graph tables already built.
 
 ### 0.3 Not part of reproducing the reported results
 
-- `build_chunk_representations.py` -- an experiment (sentence/summary-level embeddings);
-  `chunk_retrieval.py` does not reference these representations.
-- `optimize_chunking_prompt.py` -- a prompt-development tool; the prompts it produced are what
-  is embedded in `chunk_legislation_text.py`/`chunk_pdf_text.py` today.
 - The frozen baseline system (`kg__bge_m3__text_focused_v1` Qdrant collection,
   `state/procurement_kg.sqlite3`) -- an older, separate node-level corpus not used by the
-  current pipeline.
+  current pipeline. Not shipped in this bundle; mentioned here only because `build_chunk_index.py`'s
+  own docstring names it, to make clear it's not something you need to build separately.
 
 ### 0.4 Reproducibility scope
 
@@ -235,9 +226,7 @@ generated over retrieved evidence, verified against the claims it cites -- see
 `answer_query.py::verify`/`check_claim_grounding`), `/refine`, and `/chunk/{chunk_id}`; it also
 serves a minimal built-in HTML/JS page at `/`. `streamlit_app.py` is a fuller Streamlit UI
 ("Procurement KG Assistant") that talks to the same backend via its own small, self-contained
-`call_answer()`/`normalize_base_url()` helpers (previously imported from a since-removed
-`procurement_kg` package -- an earlier, unused iteration of this system, kept only for this one
-small dependency; inlined directly once that was its last real use). Required siblings:
+`call_answer()`/`normalize_base_url()` helpers. Required siblings:
 `answer_query.py`, `refine_query.py`, `query_expansion.py`
 (all at `code/`, sibling to `chunk_api.py`, where its bare `import` statements resolve).
 

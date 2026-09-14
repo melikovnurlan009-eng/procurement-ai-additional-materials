@@ -191,14 +191,9 @@ Fully documented, in dependency order with exact commands, in `TECHNICAL_APPENDI
 (`code/corpus_export/export_corpus_from_db.py`), and the backfill loop
 (`collect_missing_references.py`, `code/scrapers/legislation/scrape_missing_legislation.py`).
 
-`code/scrapers/` also contains three scripts **not** part of that pipeline, kept for
-reference/audit only, each explicitly superseded by a newer version per `TECHNICAL_APPENDIX.md`:
-`code/scrapers/legislation/group_a_legislation_scraper.py` (v1) and `_v2.py` (early iterations of the scraper
-`_v4.py` replaced -- v2's own docstring notes it corrects a real bug in v1: fetching the
-"contents" view instead of the full instrument body), `scrape_core_legislation_full.py` (a
-duplicate producing the same output format as `_v4.py` but wired into nothing), and
-`rescrape_procurement_journey.py` (an optional later-stage quality tool that requires the
-database to already exist and deliberately does not ingest its own output).
+`code/scrapers/` also contains `rescrape_procurement_journey.py`, not part of that pipeline: an
+optional later-stage quality tool that requires the database to already exist and deliberately
+does not ingest its own output.
 
 ### `code/` -- the deployed application layer
 
@@ -222,12 +217,10 @@ required reproduction step, and none is referenced by `TECHNICAL_APPENDIX.md`'s 
 | `analyze_graph.py` | Tests whether the graph's connected components correspond to meaningful legal relationships (topic/legal-concept Jaccard overlap vs. a random-pairs baseline) or are citation artefacts; identifies hub nodes. |
 | `analyze_graph_edges.py` | Companion analysis at edge level (component analysis alone can't discriminate, since 99.8% of nodes fall in one component): edge coherence, hub structure, reachability, authority-to-authority citation flow. |
 | `baseline_fixed_chunking.py` | Builds two deterministic fixed-size chunking baselines and scores them with the same structural detectors as the production LLM-chunked corpus, to test whether LLM-selected boundaries actually help. |
-| `build_chunk_representations.py` | Experimental sentence/summary-level embeddings, to test whether whole-chunk embeddings dilute topical signal on long chunks. **Superseded/unused** -- `chunk_retrieval.py` does not reference these representations. |
 | `content_filters.py` | A library of navigation/boilerplate DROP rules and whitespace-repair functions, validated against a 900-chunk LLM quality-labelling run. Designed but **not currently wired into** `build_search_corpus.py` or any ingestion script. |
-| `evaluate_chunk_quality.py` | Two-tier chunk-quality evaluator (deterministic structural defect detection, plus optional sampled LLM judging). Its functions are imported by `baseline_fixed_chunking.py` and `optimize_chunking_prompt.py` -- shared evaluation-library infrastructure for those experiments. |
+| `evaluate_chunk_quality.py` | Two-tier chunk-quality evaluator (deterministic structural defect detection, plus optional sampled LLM judging). Its functions are imported by `baseline_fixed_chunking.py` -- shared evaluation-library infrastructure for that experiment. |
 | `export_bad_chunks_by_domain.py` / `export_good_chunks.py` | Export the INCOMPLETE/LOW_VALUE and GOOD chunks (respectively) from `label_chunk_quality_llm.py`'s labelling run, grouped by source domain/type, to build a qualitative failure/success catalogue. |
 | `label_chunk_quality_llm.py` | Batch LLM labelling (GOOD/INCOMPLETE/LOW_VALUE) of a 900-chunk sample, catching failures the structural detectors can't see. Upstream source for the two export scripts above. |
-| `optimize_chunking_prompt.py` | Evolutionary (WizardLM-style) optimization of the semantic-chunking prompt, scored by the deterministic Tier-1 detectors. Its output is now embedded directly in `chunk_legislation_text.py`/`chunk_pdf_text.py`'s production prompts; the tool itself is not re-run. |
 | `rechunk_from_index.py` | Targeted re-chunk (text-emission) of specific documents shown to be over-represented in retrieval-blocking failures, reconstructing source text from already-ingested chunks (no re-fetching). |
 | `run_pdf_pipeline.py` | Fetches, extracts (via `extract_pdf_pages.py`), and LLM-chunks every PDF in the corpus; resumable and staged -- "nothing enters the index" from this script alone, its output is what a later `ingest_pdf_chunks.py` run reads. |
 | `validate_search_corpus.py` | Non-destructive integrity validator for the JSONL search corpus: block coverage, placeholder conservation, exact text reconstruction, content-hash match, chunk-id uniqueness, ordinal continuity, edge validity. QA tool, not a pipeline stage. |
