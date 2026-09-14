@@ -92,9 +92,10 @@ python3 -m pytest -q
 **6. (optional) Reproduce the reported tables and figures:**
 ```bash
 cd "$REPO_ROOT/code/evaluation/final_retrieval_benchmark"
-python3 candidate_ceiling_CORRECTED.py
+python3 candidate_ceiling.py
 python3 build_final_tables.py
 python3 strict_target_recall.py
+pip install matplotlib
 python3 make_figures.py
 ```
 
@@ -240,7 +241,7 @@ required reproduction step, and none is referenced by `TECHNICAL_APPENDIX.md`'s 
 | `run_retrieval_configs.py` | Runs all six static configs (A-F) against all 60 scenarios using the real production retriever; needs `.venv-embed` (with `sentence_transformers`/`qdrant_client`) or the dense-dependent configs silently zero out. |
 | `build_candidate_pool.py` | Deduplicated union of every chunk retrieved by any config, force-including every resolved gold chunk even if nothing retrieved it, so judging isn't biased against under-retrieved gold. |
 | `judge_candidate_pool.py` | First-pass LLM (gpt-4o-mini) relevance judging of the pool, 0-3 scale -- a **single-pass judge**, structurally simpler than and unrelated to the `prw` package's 3-judge+adjudicator mechanism. Writes `qrels_provisional.jsonl`. |
-| `compute_metrics.py`, `candidate_ceiling.py` / `candidate_ceiling_CORRECTED.py`, `strict_target_recall.py`, `error_analysis.py`, `build_final_tables.py`, `make_figures.py` / `make_candidate_ceiling_figure_CORRECTED.py` | Metrics and figure generation from the already-judged data -- see `TECHNICAL_APPENDIX.md` for what each specifically computes. The `_CORRECTED` variants fix a real classification-order bug found during finalization (24/31/5 vs. the original, buggy 15/40/5); both are kept side by side for the audit trail. |
+| `compute_metrics.py`, `candidate_ceiling.py`, `strict_target_recall.py`, `error_analysis.py`, `build_final_tables.py`, `make_figures.py` | Metrics and figure generation from the already-judged data, reproducing the reported tables/figures -- see `TECHNICAL_APPENDIX.md` for what each specifically computes. |
 | `convert_to_workbench_schema.py` | Pure structural re-export of the same 60 scenarios into the `procurement_research_workbench_v1` package's schema -- no fact/wording/split changes. Writes `workbench_schema/`. |
 | `run_split_audit.py` / `split_audit.md` | DEV/TEST leakage audit (exact/normalized duplicates, BGE-M3 semantic similarity, template clustering). Result: zero duplicates, zero high-similarity pairs; one template cluster (DEV028/TEST019, both "standstill" scenarios) flagged for human read-through, not auto-rejected. |
 | `workbench_schema/` | `convert_to_workbench_schema.py`'s output: `scenarios_{dev,test}.jsonl` + `requirements_{dev,test}.jsonl`, the same scenario IDs/content as the top-level trio, restructured into the `prw` package's public/private schema split, plus a `content_hash_manifest.json`. |
@@ -352,7 +353,7 @@ step 5 above.
 
 ```bash
 cd "$REPO_ROOT/code/evaluation/final_retrieval_benchmark"
-python3 candidate_ceiling_CORRECTED.py    # candidate-generation/ranking classification
+python3 candidate_ceiling.py              # candidate-generation/ranking classification
 python3 build_final_tables.py             # FINAL_RESULTS_TABLE.csv, PAIRWISE_STATISTICS.csv
 python3 strict_target_recall.py           # judge-independent strict recall
 pip install matplotlib                    # not in code/requirements.txt -- only this last step needs it
@@ -360,14 +361,9 @@ python3 make_figures.py                   # figures/*.png
 ```
 
 All of these are pure functions of the already-saved retrieval-run/judgment JSONL files in
-`results/`; none calls an external API. `make_figures.py` (and
-`make_candidate_ceiling_figure_CORRECTED.py`) are the only two scripts in this bundle that import
-`matplotlib`, which isn't part of `code/requirements.txt` -- install it separately before this
-one step, as shown above.
-
-`candidate_ceiling.py` (without `_CORRECTED`) is also included, unmodified, and produces a
-different classification split than `_CORRECTED.py` -- both are kept so either can be checked
-against the frozen source data directly.
+`results/`; none calls an external API. `make_figures.py` is the only script in this list that
+imports `matplotlib`, which isn't part of `code/requirements.txt` -- install it separately
+before this one step, as shown above.
 
 ## Rebuild and run the live retrieval application
 

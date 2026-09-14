@@ -1,13 +1,9 @@
 #!/usr/bin/env python3
 """
-Regenerates the candidate-ceiling figure from the CORRECTED classification
-(candidate_ceiling_CORRECTED_summary.json), produced during the 2026-09-07/08
-finalization audit. The original make_figures.py::fig_candidate_ceiling() is left
-untouched and still reads the pre-correction candidate_ceiling_summary.json,
-producing the original (buggy, 15/40/5) candidate_ceiling.png for audit-trail
-purposes. This script produces a separate, additional file,
-candidate_ceiling_CORRECTED.png, with the corrected 24/31/5 counts. See
-provenance/CHANGELOG_FINALIZATION.md for the root-cause explanation.
+Regenerates the candidate-ceiling figure from candidate_ceiling_CORRECTED_summary.json.
+The original make_figures.py::fig_candidate_ceiling() is left untouched and reads
+candidate_ceiling_summary.json instead, producing a separate candidate_ceiling.png.
+This script produces a separate, additional file, candidate_ceiling_CORRECTED.png.
 """
 import json
 from pathlib import Path

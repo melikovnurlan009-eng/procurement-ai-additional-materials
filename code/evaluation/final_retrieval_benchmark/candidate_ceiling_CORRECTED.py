@@ -25,7 +25,6 @@ project -- so this fix does not introduce a new inconsistency with those already
 numbers, it only corrects the classification logic bug.
 
 No retrieval results are altered by this fix; only the downstream diagnostic classification.
-Old vs corrected counts: see provenance/CHANGELOG_FINALIZATION.md.
 """
 import json
 from pathlib import Path
