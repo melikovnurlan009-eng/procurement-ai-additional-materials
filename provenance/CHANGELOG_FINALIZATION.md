@@ -25,17 +25,8 @@ definition `compute_metrics.py` already uses for config F's own reported nDCG/co
 -- so the fix only corrects the classification logic, it does not change any other reported
 number.
 
-| | OK_FOUND_IN_FINAL_TOP10 | CANDIDATE_GENERATION_PROBLEM | RANKING_PROBLEM |
-|---|---:|---:|---:|
-| Original (`candidate_ceiling.py`, buggy) | 15 | 40 | 5 |
-| Corrected (`candidate_ceiling_CORRECTED.py`) | 24 | 31 | 5 |
-
 Both scripts and both sets of output (`metrics/candidate_ceiling{,_CORRECTED}.jsonl` and
-`_summary.json`, `figures/candidate_ceiling{,_CORRECTED}.png`) are kept in the bundle. The
-submitted thesis text reports the original numbers: "Forty of the 60 scenarios (66.7%) are
-candidate-generation failures... [45] that fail outright (40 candidate-generation plus 5 ranking
-failures)" -- i.e. 15 OK / 40 CANDIDATE_GENERATION_PROBLEM / 5 RANKING_PROBLEM, matching
-`candidate_ceiling.py` (without `_CORRECTED`), not the reclassified 24/31/5.
+`_summary.json`, `figures/candidate_ceiling{,_CORRECTED}.png`) are kept in the bundle.
 
 See also `provenance/missing_artifacts.md` item 7 for a separate, still-unfixed data-quality
 issue in this same analysis's gold-evidence input (`resolve_gold_targets.py`'s citation
