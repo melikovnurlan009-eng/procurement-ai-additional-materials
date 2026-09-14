@@ -8,23 +8,46 @@ reproduce the reported analysis.
 that's where the actual step-by-step commands are.** This document explains how everything
 works and why it was built this way; it is not itself a run-in-order checklist.
 
+**Contents, so you can jump to what you need:**
+- [0. End-to-end pipeline](#0-end-to-end-pipeline) -- the full build order, diagram and table together (start here for the big picture)
+- [1. System overview](#1-system-overview) -- the three components in one paragraph each
+- [2. Corpus construction](#2-corpus-construction) -- how the legal documents become searchable chunks
+- [3. Retrieval system](#3-retrieval-system) -- how a question turns into a ranked answer
+- [4. Evaluation pipeline](#4-evaluation-pipeline) -- how the reported numbers were measured, and how to reproduce them
+- [5. Package versions and environment](#5-package-versions-and-environment)
+- [6. Data access](#6-data-access)
+- [7. Significance testing](#7-significance-testing)
+- [8. `F_two_lane` vs. `legal_static`](#8-f_two_lane-vs-legal_static) -- two similar-looking configurations that are not the same thing
+- [9. Known limitations](#9-known-limitations)
+- [10. Artifact map](#10-artifact-map) -- one-line "where is X" lookup table
+
 ## 0. End-to-end pipeline
 
 ### 0.1 Diagram
 
+**In one paragraph, before any of the detail below:** legal documents (Acts, regulations,
+official guidance) get downloaded, cut into small searchable pieces called "chunks," and loaded
+into a database alongside a citation graph (which provision cites which). A search system then
+finds the most relevant chunks for a question, and a separate evaluation measures how well that
+search actually works. The diagram and table below are the same pipeline described twice: the
+diagram shows the shape of it, the table gives the literal commands. **Both use the same step
+numbers** (e.g. "row 7" always means the same thing in both), so you can jump between them freely.
+
 **Read this diagram top to bottom as a strict build order, not a menu.** Every arrow is a
 real file dependency verified against the actual code (not inferred from naming): the box an
-arrow points into reads the file(s) the box it left behind actually wrote. The single most
-important rule the earlier, informal version of this diagram got wrong: **`build_chunk_index.py
-lexical` (step 5) must run before `ingest_*.py` (step 6), and never again after** -- it does a
-destructive `DELETE FROM chunks/edges/documents` before every re-insert, so running it a second
-time after step 6 has added rows would silently erase them. Steps 6-7 add to the database
-directly; step 8's re-export is what lets step 9 (the dense/vector index) see everything steps
-6-7 added, since step 9 embeds from a JSONL export, not from the live database.
+arrow points into reads the file(s) the box it left behind actually wrote. Each box below is
+labelled with the table row(s) in section 0.2 that it corresponds to -- look up that row for
+the exact command. The single most important rule the earlier, informal version of this diagram
+got wrong: **`build_chunk_index.py lexical` (row 7) must run before `ingest_*.py` (row 8), and
+never again after** -- it does a destructive `DELETE FROM chunks/edges/documents` before every
+re-insert, so running it a second time after row 8 has added rows would silently erase them.
+Rows 8-10 add to the database directly; row 12's re-export is what lets row 13 (the dense/vector
+index) see everything rows 8-10 added, since row 13 embeds from a JSONL export, not from the
+live database.
 
 ```mermaid
 flowchart TD
-    subgraph ACQ["1. Acquisition (code/scrapers/)"]
+    subgraph ACQ["Rows 1-3: Acquisition (code/scrapers/)"]
         A1[legislation.gov.uk XML] --> A2["group_a_legislation_scraper_v4.py"]
         A3[GOV.UK guidance / regulator / professional sites] --> A4[scrape_*.py, one script per source family]
         A5[Procurement Pathway site] --> A6[procurement_doc_counter/count_documents_relevance.py]
@@ -35,7 +58,7 @@ flowchart TD
     A4 --> P1
     A7 --> P1
 
-    subgraph PARSE["2. Parsing"]
+    subgraph PARSE["Row 4: Parsing"]
         P1{source type}
         P1 -->|legislation XML| P2[recursive AKN/CLML tree walk -> nodes_*.jsonl]
         P1 -->|PDF| P3[extract_pdf_pages.py / extract_pdf_structured.py -- PyMuPDF]
@@ -46,10 +69,10 @@ flowchart TD
     P3 --> C3
     P4 --> C1B
 
-    subgraph CHUNK["3. Chunking (4 methods, independent outputs)"]
+    subgraph CHUNK["Rows 5a-5d: Chunking (4 methods, independent outputs)"]
         C1{clean structural tree available?}
         C1 -->|yes: PA2023, PR2024 core Acts| C1A["chunk_legislation_from_nodes.py\n(STRUCTURAL_NODE_V1, no LLM, deterministic)"]
-        C1 -->|no: most other legislation| C1B["build_search_corpus.py (LLM_SEMANTIC_BOUNDARY_V1)\nand/or chunk_legislation_text.py (LLM_LEG_TEXT_V2)\n-- build_search_corpus.py ALSO writes the base JSONL\ncorpus (data/search_corpus/chunks.jsonl, edges.jsonl)\nthat step 5 below bootstraps the database from"]
+        C1 -->|no: most other legislation| C1B["build_search_corpus.py (LLM_SEMANTIC_BOUNDARY_V1)\nand/or chunk_legislation_text.py (LLM_LEG_TEXT_V2)\n-- build_search_corpus.py ALSO writes the base JSONL\ncorpus (data/search_corpus/chunks.jsonl, edges.jsonl)\nthat row 7 below bootstraps the database from"]
         C2["chunk_pdf_text.py\n(LLM_PDF_TEXT_V2, gpt-4.1)"]
         C3["PDF page JSON"] --> C2
         CPATCH["chunk_commencement_regs_from_xml.py\n(targeted re-chunk, 2 instruments)"] -.patches.-> C1B
@@ -60,7 +83,7 @@ flowchart TD
     C1B --> GR1
     C1B --> GR2
 
-    subgraph GRAPH["4. Reference resolution (pure JSONL -- no database involved yet)"]
+    subgraph GRAPH["Row 6: Reference resolution (pure JSONL -- no database involved yet)"]
         GR1["resolve_references.py\ninternal + cross-document legal citations\n-> edges_v2.jsonl"]
         GR2["extract_guidance_references.py\nguidance-chunk -> legislation-provision refs\n-> edges_guidance_refs.jsonl"]
     end
@@ -69,41 +92,41 @@ flowchart TD
     GR2 --> IDX1
     C1B --> IDX1
 
-    subgraph BOOT["5. Bootstrap the database -- build_chunk_index.py 'lexical' stage,\nrun exactly ONCE, right here"]
+    subgraph BOOT["Row 7: Bootstrap the database -- build_chunk_index.py 'lexical' stage,\nrun exactly ONCE, right here"]
         IDX1["reads chunks.jsonl + edges.jsonl + edges_v2.jsonl +\nedges_guidance_refs.jsonl -> CREATEs and populates\nstate/chunk_index_merged.sqlite3 for the first time"]
     end
 
     IDX1 --> I1
 
-    subgraph INGEST["6. Ingest the other chunking methods\n(additive -- the database already exists)"]
-        I1["ingest_structural_node_chunks.py /\ningest_legislation_chunks.py /\ningest_pdf_chunks.py\nINSERT OR REPLACE by chunk_id. Never re-run step 5's\nlexical stage after this: it DELETEs and rebuilds\nthese tables from scratch"]
+    subgraph INGEST["Row 8: Ingest the other chunking methods\n(additive -- the database already exists)"]
+        I1["ingest_structural_node_chunks.py /\ningest_legislation_chunks.py /\ningest_pdf_chunks.py\nINSERT OR REPLACE by chunk_id. Never re-run row 7's\nlexical stage after this: it DELETEs and rebuilds\nthese tables from scratch"]
     end
 
     I1 --> DD1
 
-    subgraph CLEAN["7. Dedup + densify (in-place updates to the same database)"]
+    subgraph CLEAN["Rows 9-10: Dedup + densify (in-place updates to the same database)"]
         DD1["deduplicate_instruments.py --apply\nflags cross-pipeline duplicate instruments"]
         DD2["densify_graph_edges.py --apply\nrolls up unreachable reference targets"]
         DD1 --> DD2
     end
 
-    DD2 -.optional backfill loop, table rows 11a-c.-> BF1["collect_missing_references.py ->\nscrape_missing_legislation.py -> folds new\ninstruments back through steps 3-7"]
+    DD2 -.optional backfill loop, rows 11a-c.-> BF1["collect_missing_references.py ->\nscrape_missing_legislation.py -> folds new\ninstruments back through rows 5-10"]
     BF1 -.-> DD2
     DD2 --> EXP1
 
-    subgraph EXPORT["8. Re-export the database back to JSONL\n(the bridge a from-scratch build must not skip)"]
-        EXP1["export_corpus_from_db.py --db state/chunk_index_merged.sqlite3\nwithout this, step 9 embeds a stale corpus missing\neverything steps 6-7 just added"]
+    subgraph EXPORT["Row 12: Re-export the database back to JSONL\n(the bridge a from-scratch build must not skip)"]
+        EXP1["export_corpus_from_db.py --db state/chunk_index_merged.sqlite3\nwithout this, row 13 embeds a stale corpus missing\neverything rows 8-10 just added"]
     end
 
     EXP1 --> IDX2
 
-    subgraph DENSE["9. Build the dense/vector index"]
-        IDX2["build_chunk_index.py dense --corpus-dir <step 8 output>\nBAAI/bge-m3 embeddings -> Qdrant\ncollection chunks__bge_m3__merged"]
+    subgraph DENSE["Row 13: Build the dense/vector index"]
+        IDX2["build_chunk_index.py dense --corpus-dir <row 12 output>\nBAAI/bge-m3 embeddings -> Qdrant\ncollection chunks__bge_m3__merged"]
     end
 
     IDX2 --> RET1
 
-    subgraph RETRIEVAL["10. Retrieval system"]
+    subgraph RETRIEVAL["Row 14: Retrieval system"]
         RET1["chunk_retrieval.py\nhybrid lexical+dense, RRF k=60,\ntwo-lane authority/regime/jurisdiction rerank,\nbounded 1-hop graph expansion"]
         RET2[configs/retrieval.json: candidate_depth 100, k 10,\ncontext_chars 18000, max_ops 3, graph_fanout 20]
         RET2 -.parameterizes.-> RET1
@@ -112,7 +135,7 @@ flowchart TD
     RET1 --> EVAL1
     RET1 --> EVAL2
 
-    subgraph EVALA["11a. Standalone static benchmark"]
+    subgraph EVALA["Rows 15a-15c: Standalone static benchmark"]
         EVAL1["run_retrieval_configs.py (6 configs A-F)"] --> EVAL1B["build_candidate_pool.py"]
         EVAL1B --> EVAL1C["judge_candidate_pool.py\n(gpt-4o-mini, pooled 0-3 relevance)"]
         EVAL1C --> EVAL1D["compute_metrics.py, strict_target_recall.py,\ncandidate_ceiling.py, error_analysis.py"]
@@ -120,7 +143,7 @@ flowchart TD
         EVAL1E --> EVAL1F["make_figures.py -> figures/*.png"]
     end
 
-    subgraph EVALB["11b. Matched DEV/TEST workbench (prw package --\nsee docs/workflow.mmd for the 3-track judging methodology)"]
+    subgraph EVALB["Rows 16a-16d: Matched DEV/TEST workbench (prw package --\nsee docs/workflow.mmd for the 3-track judging methodology)"]
         EVAL2["prw run (controller.py: LLM query decomposition\nfor planned_multisearch / adaptive)"] --> EVAL2B["prw pool"]
         EVAL2B --> EVAL2C["prw judge / prw judge-bundles / prw judge-answers\n(3 separate judging tracks)"]
         EVAL2C --> EVAL2D["prw evaluate -> per-scenario + aggregate metrics"]
@@ -142,7 +165,7 @@ specifically want to reproduce or audit the *acquisition* methodology itself -- 
 re-scraping live sources is not guaranteed to reproduce byte-identical results (see "What is and
 is not exactly reproducible" in `README.md`). To spot-check the one lane that involves no LLM at
 all, see `scripts/verify_deterministic_chunking.py` (README.md, "Verify the deterministic
-chunking lane"). Section 0.6 below, "Evaluation methodology", picks up exactly where row 14 of
+chunking lane"). Section 4.0 below, "Evaluation methodology", picks up exactly where row 14 of
 this table (retrieval) leaves off, and states plainly which of rows 1-14 you actually need to
 have run before each evaluation command works.
 
@@ -167,13 +190,13 @@ have run before each evaluation command works.
 | 11c | Fold the newly acquired instruments back in | Repeat row 5 (whichever chunking method fits each new instrument), then row 6 (resolve references again -- some previously-unresolved citations now have a target), then row 8 (ingest), row 9 (dedupe), row 10 (densify), for the instruments 11b acquired only | outputs of 11b | same DB, updated with the new instruments' chunks and edges | (same commands as rows 5/6/8/9/10, scoped to the new instruments) |
 | 12 | Re-export the database back to JSONL -- **the bridge a from-scratch build must not skip** | `export_corpus_from_db.py` -- a plain data export, no LLM call, no re-chunking, no re-scraping | DB from row 10 (or 11c, if you ran the backfill loop) | a fresh export directory: `chunks.jsonl`, `documents.jsonl`, `edges.jsonl`, `edges_v2.jsonl` | `python corpus_export/export_corpus_from_db.py --db state/chunk_index_merged.sqlite3 --out corpus_export/data_rebuilt` |
 | 13 | Build the dense/vector index | `build_chunk_index.py dense` -- `BAAI/bge-m3` embeddings, local model, no external API call | row 12's export directory | Qdrant collection `chunks__bge_m3__merged` + the DB's `index_manifest` table | `python build_chunk_index.py dense --corpus-dir corpus_export/data_rebuilt --db state/chunk_index_merged.sqlite3 --collection chunks__bge_m3__merged` (the two `--db`/`--collection` values are not this script's own defaults -- they must be passed explicitly so this points at the same database and collection name `chunk_retrieval.py`, `chunk_api.py`, and the `prw` workbench all actually read) |
-| 14 | Retrieve | `chunk_retrieval.py` (`search()` / `search_two_lanes()`), parameterised by `configs/retrieval.json` | the DB + Qdrant collection from row 13 | ranked candidate/final-evidence lists | `python -m prw run --system {hybrid,legal_static,planned_multisearch,adaptive} ...` or `run_retrieval_configs.py` (standalone, 6 configs) -- see section 0.6 for the full evaluation commands built on top of this |
+| 14 | Retrieve | `chunk_retrieval.py` (`search()` / `search_two_lanes()`), parameterised by `configs/retrieval.json` | the DB + Qdrant collection from row 13 | ranked candidate/final-evidence lists | `python -m prw run --system {hybrid,legal_static,planned_multisearch,adaptive} ...` or `run_retrieval_configs.py` (standalone, 6 configs) -- see section 4.0 for the full evaluation commands built on top of this |
 | 15a | Standalone benchmark: pool + judge | `build_candidate_pool.py`, `judge_candidate_pool.py` | retrieval output (6 configs) | pooled candidates, judgments | `python judge_candidate_pool.py ...` |
 | 15b | Standalone benchmark: metrics + diagnostics | `compute_metrics.py`, `strict_target_recall.py`, `candidate_ceiling.py`, `error_analysis.py` | judgments + `gold_evidence.jsonl` | metrics JSON/CSV | see each script's `--help` |
 | 15c | Standalone benchmark: final tables + figures | `build_final_tables.py` (paired sign test, bootstrap CI, seed 1234), `make_figures.py` | metrics from 15b | `FINAL_RESULTS_TABLE.csv`, `PAIRWISE_STATISTICS.csv`, `figures/*.png` | `python build_final_tables.py && python make_figures.py` |
-| 16a | Matched workbench: run 4 systems | `python -m prw run` | `data/{dev,test_sealed}/scenarios.jsonl`, `configs/retrieval.json` | `results/runs/<split>/<system>/runs.jsonl` | see section 0.6 for the full command |
-| 16b | Matched workbench: pool + judge | `python -m prw pool`, `python -m prw judge` / `judge-bundles` / `judge-answers` | runs from 16a | `results/judgments/.../judgments_raw.jsonl`, `qrels_silver.jsonl`, `bundle_consensus.jsonl`, `answer_consensus.jsonl` | see section 0.6 |
-| 16c | Matched workbench: evaluate + freeze | `python -m prw evaluate`, `python -m prw freeze` | judgments from 16b | per-scenario + aggregate metrics; `prw_freeze_record.json` | see section 0.6 |
+| 16a | Matched workbench: run 4 systems | `python -m prw run` | `data/{dev,test_sealed}/scenarios.jsonl`, `configs/retrieval.json` | `results/runs/<split>/<system>/runs.jsonl` | see section 4.0 for the full command |
+| 16b | Matched workbench: pool + judge | `python -m prw pool`, `python -m prw judge` / `judge-bundles` / `judge-answers` | runs from 16a | `results/judgments/.../judgments_raw.jsonl`, `qrels_silver.jsonl`, `bundle_consensus.jsonl`, `answer_consensus.jsonl` | see section 4.0 |
+| 16c | Matched workbench: evaluate + freeze | `python -m prw evaluate`, `python -m prw freeze` | judgments from 16b | per-scenario + aggregate metrics; `prw_freeze_record.json` | see section 4.0 |
 | 16d | Matched workbench: diagnostics + figures | `build_controller_diagnostics.py`, `make_final_figures.py` | evaluate output from 16c | `CONTROLLER_DIAGNOSTICS.csv`, `figures/*.png` | see each script's `--help` |
 
 Rows 11a-11c (backfilling cited-but-missing instruments) sit where they do, not right after row
@@ -314,6 +337,10 @@ Three components, in dependency order:
 
 ## 2. Corpus construction
 
+This section is section 0's acquisition-through-indexing story again, told by topic (acquisition,
+parsing, chunking, ingestion, final counts) instead of by build order. Section 0.2's table is
+still the one to follow when actually running commands.
+
 ### 2.1 Acquisition
 
 Nine source-family scrapers (`code/scrapers/`), each fixed-URL/non-recursive by design, covering
@@ -364,6 +391,11 @@ lexical index and Qdrant dense vector index.
 (CONTAINS 6,489, HAS_CHUNK 9,189, REFERENCES 7,159, CROSS_REFERS_TO 4,763).
 
 ## 3. Retrieval system
+
+In plain terms: given a question, this is the part that decides which chunks (out of all
+22,042) are actually relevant, and in what order. It combines keyword search and
+meaning-based (embedding) search, then re-ranks the results using legal-specific signals
+(is this binding law or just guidance? is it the currently-applicable version?).
 
 `code/chunk_retrieval.py` implements `search()` (single-pass hybrid lexical+dense+graph
 retrieval with legal two-lane interleaving) and `search_two_lanes()`. Configuration
