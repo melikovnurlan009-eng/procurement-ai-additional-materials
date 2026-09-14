@@ -390,13 +390,14 @@ cd "$REPO_ROOT/code" && python chunk_api.py                # serves on :8899
 
 ## What is and is not exactly reproducible
 
-**Exactly reproducible:** ingestion, graph construction, indexing, and retrieval, given the same
-inputs -- meaning the already-exported corpus (`code/corpus_export/data/`). Rebuilding the search
-index from that export (`scripts/rebuild_search_index.py`) reproduces the exact same chunk/edge
-counts and content every time. All statistics/tables/figures computed from the already-saved
-JSONL data in `results/` are exactly reproducible the same way.
+**Exactly reproducible:** ingestion, graph construction, and lexical (FTS5) indexing, given the
+same inputs -- meaning the already-exported corpus (`code/corpus_export/data/`). Rebuilding the
+search index from that export (`scripts/rebuild_search_index.py`) reproduces the exact same
+chunk/edge counts and content every time -- verified directly: a from-scratch rebuild's
+`chunks_sha256` matched a second, independent rebuild byte-for-byte. All statistics/tables/figures
+computed from the already-saved JSONL data in `results/` are exactly reproducible the same way.
 
-**Not byte-for-byte reproducible, for two different reasons:**
+**Not byte-for-byte reproducible, for three different reasons:**
 - Any step that calls an LLM without a fixed seed (corpus chunking, controller planning, judging)
   -- these produce architecturally comparable, not identical, output on rerun.
 - The *scraping* steps (`code/scrapers/...`) fetch live content from external websites
@@ -408,6 +409,20 @@ JSONL data in `results/` are exactly reproducible the same way.
   set of pages. Running the full from-scratch acquisition pipeline (`TECHNICAL_APPENDIX.md`
   section 0.2) is therefore not guaranteed to reproduce the same corpus as the one already
   exported and evaluated -- use the export (above) if exact reproduction is what you need.
+- **Dense retrieval results are not byte-identical across a from-scratch index rebuild**, even
+  from the exact same corpus export, and even though the embedding model call itself is
+  deterministic. Confirmed directly: querying the same, already-built Qdrant collection twice
+  gives 100% identical rankings (Qdrant's search is deterministic against a fixed index), but
+  rebuilding the collection from scratch and re-querying the same scenarios changed the retrieved
+  ranking for 28 of 40 DEV scenarios against the shipped `results/runs/dev_scale/` output --
+  mean 82% overlap in the top-10 set, and the single top-ranked result matched exactly in 36 of
+  40. The cause is Qdrant's default dense index (HNSW), an *approximate* nearest-neighbour
+  structure -- separate builds of the identical vectors are not guaranteed to produce the same
+  graph, so a small number of borderline candidates shift in or out near the retrieval-depth
+  cutoff. `chunk_retrieval.py`'s own code and the embeddings themselves are unaffected; this is a
+  property of Qdrant's default search mode, not a bug in this project's code. If you rebuild the
+  index yourself, expect retrieval results and any metrics computed from a fresh run to be close
+  to, but not always identical to, the numbers already reported and shipped in `results/`.
 
 See `provenance/missing_artifacts.md` for the full list of known limitations.
 

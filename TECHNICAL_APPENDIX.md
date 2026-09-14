@@ -487,9 +487,17 @@ this does not overwrite anything, and needs none of table 0.2's rows.
 1-14, or the section 0.5 shortcut against the shipped corpus export) and, for
 `planned_multisearch`/`adaptive`, `--allow-network` plus a configured OpenAI credential (these
 two systems call an LLM controller; `hybrid`/`legal_static` do not and never need
-`--allow-network`).
+`--allow-network`). It also needs one environment variable `prw/adapters.py`'s
+`production_backend()` requires but does not default: `PRW_REPO_ROOT`, set to the `code/`
+directory (the one containing `chunk_retrieval.py`) -- without it, every `prw run` fails
+immediately with `Set PRW_REPO_ROOT to the actual repository directory`. `PRW_DB` and
+`PRW_COLLECTION` do not need to be set explicitly; they default to
+`<PRW_REPO_ROOT>/state/chunk_index_merged.sqlite3` and `chunks__bge_m3__merged`, matching table
+0.2's rows.
 
 ```bash
+export PRW_REPO_ROOT="$(cd .. && pwd)"   # the code/ directory; adjust if running from elsewhere
+
 # --- Retrieval, per system (Option B only -- skip this block for Option A) ---
 python -m prw run --scenarios data/dev/scenarios.jsonl --system hybrid \
   --snapshot my-local-run --out my_runs/hybrid
