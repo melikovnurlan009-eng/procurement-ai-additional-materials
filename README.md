@@ -277,7 +277,7 @@ required reproduction step, and none is referenced by `TECHNICAL_APPENDIX.md`'s 
 | `runs/{dev_scale,test_final}/{hybrid,legal_static,planned_multisearch,adaptive}/` | Per-scenario retrieved chunks (`runs.jsonl`), execution trace (`events.jsonl`), a provenance/freeze signature (`manifest.json`), and for the two LLM-driven systems, model call/budget logs. |
 | `judgments/{dev_scale,test_final}/pointwise/` | The real, at-scale 3-judge output: `judgments_raw.jsonl`, `qrels_silver.jsonl`, `agreement.json` (pairwise judge kappa), `judge_manifest.json` (confirms all 3 judge slots are the same model identity). |
 | `pool/{dev_scale,test_final}/` | `candidate_pool.jsonl` (pooled chunks sent to judges), `membership_private.jsonl` (which system contributed each one, kept separate so judges stay blind), `cost_plan.json`. |
-| `evaluate_output/{dev_scale,test_final}/evaluate/` | `summary.json`, `per_scenario.jsonl`, `by_suite.json`, `report.md` -- the final computed metrics and paired significance comparisons. `dev_scale/` also has `DEV_RUN_REPORT.md` and `CONTROLLER_DIAGNOSTICS.csv`. |
+| `evaluate_output/{dev_scale,test_final}/evaluate/` | `summary.json`, `per_scenario.jsonl`, `by_suite.json`, `report.md` -- the final computed metrics and paired significance comparisons. `dev_scale/` also has `CONTROLLER_DIAGNOSTICS.csv`. |
 | `results/final_reports/prw_freeze_record.json` | The cryptographic freeze snapshot checked by `scripts/verify_freeze.py` -- proves tamper-evidence only, not TEST-split independence or label correctness. |
 
 ### `code/corpus_export/`, `code/normalized_html_json_v2/`, `code/corpus_minor_formats/`, `code/data/`
